@@ -1,7 +1,22 @@
 {
-	"items": {
-		"russian": ["rst1876"],
-		"arabic": ["arabicsv"],
-		"english": ["basicenglish", "kjv"]
-	}
+    "items": {
+        "arabic": {
+            "arabicsv": {
+                "totalSize": 3306722
+            }
+        },
+        "english": {
+            "basicenglish": {
+                "totalSize": 2946079
+            },
+            "kjv": {
+                "totalSize": 3004091
+            }
+        },
+        "russian": {
+            "rst1876": {
+                "totalSize": 4418577
+            }
+        }
+    }
 }
