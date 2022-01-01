@@ -8,6 +8,28 @@
                 "totalSize": 3306722
             }
         },
+        "chinese": {
+            "cus": {
+                "fullName": "Chinese Union Simplified",
+                "totalSize": 3285751
+            },
+            "cut": {
+                "fullName": "Chinese Union Traditional",
+                "totalSize": 3291631
+            }
+        },
+        "czech": {
+            "bkr": {
+                "fullName": "BKR",
+                "totalSize": 3492207
+            }
+        },
+        "dutch": {
+            "sv": {
+                "fullName": "Staten Vertaling",
+                "totalSize": 3185572
+            }
+        },
         "english": {
             "bbe": {
                 "fullName": "Bible in Basic English",
@@ -26,10 +48,76 @@
                 "totalSize": 3079627
             }
         },
+        "french": {
+            "ls1910": {
+                "fullName": "Louis Second 1910",
+                "totalSize": 3252322
+            }
+        },
+        "german": {
+            "luther1912": {
+                "fullName": "Luther 1912",
+                "totalSize": 3207324
+            }
+        },
+        "greek": {
+            "moderngreek": {
+                "fullName": "Greek Modern",
+                "totalSize": 4762703
+            }
+        },
+        "hebrew": {
+            "modernhebrew": {
+                "fullName": "Modern Hebrew Bible",
+                "totalSize": 2879936
+            }
+        },
+        "italian": {
+            "rb": {
+                "fullName": "Riveduta Bible",
+                "totalSize": 3285865
+            }
+        },
+        "korean": {
+            "korean": {
+                "fullName": "Korean Bible",
+                "totalSize": 3487217
+            }
+        },
+        "latin": {
+            "nv": {
+                "fullName": "Nova Vulgata",
+                "totalSize": 2995527
+            }
+        },
+        "portuguese": {
+            "aa": {
+                "fullName": "Almeida Atualizada",
+                "totalSize": 3140491
+            }
+        },
+        "romanian": {
+            "cornilescu": {
+                "fullName": "Cornilescu",
+                "totalSize": 3412263
+            }
+        },
         "russian": {
             "rst": {
                 "fullName": "Russian Synodal Translation",
                 "totalSize": 4418878
+            }
+        },
+        "spanish": {
+            "srv": {
+                "fullName": "Spanish Reina Valera",
+                "totalSize": 3120669
+            }
+        },
+        "swedish": {
+            "swedish": {
+                "fullName": "Swedish Bible",
+                "totalSize": 3410551
             }
         }
     }
