@@ -2,20 +2,37 @@
     "items": {
         "arabic": {
             "arabicsv": {
+                "copyright": "Public Domain",
+                "fullName": "Arabic Smith & Van Dyke",
+                "published": "1865",
                 "totalSize": 3306722
             }
         },
         "english": {
-            "basicenglish": {
+            "bbe": {
+                "copyright": "Public Domain",
+                "fullName": "Bible in Basic English",
+                "published": "1965",
                 "totalSize": 2946079
             },
+            "icb": {
+                "fullName": "International Children's Bible",
+                "totalSize": 3142411
+            },
             "kjv": {
+                "copyright": "Public Domain",
+                "fullName": "King James Version",
+                "published": "1611",
                 "totalSize": 3004091
+            },
+            "niv": {
+                "totalSize": 3079091
             }
         },
         "russian": {
-            "rst1876": {
-                "totalSize": 4418577
+            "rst": {
+                "fullName": "Russian Synodal Translation",
+                "totalSize": 4418342
             }
         }
     }

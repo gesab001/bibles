@@ -7,7 +7,8 @@ import shutil
 
 filename = input("bible filename: " )
 language = input("language: " )
-translationName = input("translation name: ")
+translationName = input("abbreviation bible name: ")
+fullName = input("full name: ")
 f = open(filename, "r")
 
 jsondata = json.loads(f.read())
@@ -25,9 +26,9 @@ def updateBiblesList(language, translation, totalSize):
     else:
         print("Key does not exist")
         biblelistjson["items"][language] = {}
-        biblelistjson["items"][language] = {translation: {"totalSize": 0}}
+        biblelistjson["items"][language] = {translation: {"fullName": "", "totalSize": 0}}
     biblelistjson["items"][language][translation]["totalSize"] = totalSize
-    
+    biblelistjson["items"][language][translation]["fullName"] = fullName
     print(biblelistjson)
     with open("bibles.json", "w") as outfile:
       json.dump(biblelistjson, outfile, indent=4, sort_keys=True)
