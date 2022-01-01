@@ -17,22 +17,21 @@
             },
             "icb": {
                 "fullName": "International Children's Bible",
-                "totalSize": 3142411
+                "totalSize": 3142947
             },
             "kjv": {
-                "copyright": "Public Domain",
                 "fullName": "King James Version",
-                "published": "1611",
-                "totalSize": 3004091
+                "totalSize": 3004627
             },
             "niv": {
+                "fullName": "New International Version",
                 "totalSize": 3079091
             }
         },
         "russian": {
             "rst": {
                 "fullName": "Russian Synodal Translation",
-                "totalSize": 4418342
+                "totalSize": 4418878
             }
         }
     }
