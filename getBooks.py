@@ -40,7 +40,11 @@ def getFileSize(zip_filename):
     
 def zipBooks(folder):
     # create a ZipFile object
-    with zipfile.ZipFile(folder+'.zip', 'w', zipfile.ZIP_DEFLATED) as zipObj:
+    isExist = os.path.exists(folder+'.zip')
+    if isExist:
+      print(folder + ".zip" + " already exists. try a different filename")
+    else:  
+     with zipfile.ZipFile(folder+'.zip', 'w', zipfile.ZIP_DEFLATED) as zipObj:
 
        for folderName, subfolders, filenames in os.walk(folder):
            for filename in filenames:
