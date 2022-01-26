@@ -12,7 +12,17 @@
                 "totalSize": 3307627
             }
         },
+        "cebuano": {
+            "cebuano": {
+                "fullName": "Cebuano",
+                "totalSize": 3099308
+            }
+        },
         "chinese": {
+            "ccb": {
+                "fullName": "Chinese Contemporary Bible Simplified",
+                "totalSize": 3274225
+            },
             "cns": {
                 "fullName": "Chinese New Simplified",
                 "totalSize": 3439434
@@ -146,6 +156,12 @@
                 "totalSize": 2881512
             }
         },
+        "hindi": {
+            "hindi_ERV-HI": {
+                "fullName": "hindi_ERV-HI",
+                "totalSize": 5449273
+            }
+        },
         "hungarian": {
             "karoli": {
                 "fullName": "Hungarian Karoli Bible",
@@ -196,6 +212,12 @@
                 "totalSize": 4419370
             }
         },
+        "serbian": {
+            "nsp": {
+                "fullName": "nsp",
+                "totalSize": 4442786
+            }
+        },
         "spanish": {
             "rv1909": {
                 "fullName": "Reina Valera 1909",
@@ -210,6 +232,12 @@
             "swahili": {
                 "fullName": "Swahili Bible",
                 "totalSize": 891301
+            }
+        },
+        "swedish": {
+            "sfb15": {
+                "fullName": "sfb15",
+                "totalSize": 3157960
             }
         },
         "tagalog": {
