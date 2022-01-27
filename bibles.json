@@ -23,6 +23,10 @@
                 "fullName": "Chinese Contemporary Bible Simplified",
                 "totalSize": 3274225
             },
+            "ccbt": {
+                "fullName": "Chinese Contemporary Bible Traditional",
+                "totalSize": 3288423
+            },
             "cns": {
                 "fullName": "Chinese New Simplified",
                 "totalSize": 3439434
@@ -40,7 +44,17 @@
                 "totalSize": 3291343
             }
         },
+        "croatian": {
+            "shp": {
+                "fullName": "SHP",
+                "totalSize": 3284570
+            }
+        },
         "czech": {
+            "b21": {
+                "fullName": "B21",
+                "totalSize": 3454184
+            },
             "bkr": {
                 "fullName": "Czech BKR",
                 "totalSize": 3492046
@@ -61,13 +75,13 @@
             }
         },
         "dutch": {
+            "sch2000": {
+                "fullName": "SCH2000",
+                "totalSize": 3475445
+            },
             "statenvertaling": {
                 "fullName": "Dutch Staten Vertaling",
                 "totalSize": 3187752
-            },
-            "sv": {
-                "fullName": "Staten Vertaling",
-                "totalSize": 3185572
             }
         },
         "english": {
@@ -166,12 +180,26 @@
             "karoli": {
                 "fullName": "Hungarian Karoli Bible",
                 "totalSize": 3553982
+            },
+            "nt-hu": {
+                "fullName": "NT-HU",
+                "totalSize": 3524359
+            }
+        },
+        "ilonggo": {
+            "hlgn": {
+                "fullName": "HLGN",
+                "totalSize": 3160317
             }
         },
         "italian": {
             "giovanni1649": {
                 "fullName": "Giovanni Diodati Bible 1649",
                 "totalSize": 3276900
+            },
+            "nr2006": {
+                "fullName": "NR2006",
+                "totalSize": 3286916
             },
             "rb": {
                 "fullName": "Riveduta Bible",
@@ -183,6 +211,10 @@
             }
         },
         "korean": {
+            "klb": {
+                "fullName": "KLB",
+                "totalSize": 3792741
+            },
             "korean": {
                 "fullName": "Korean Bible",
                 "totalSize": 3486951
@@ -194,19 +226,47 @@
                 "totalSize": 2920807
             }
         },
+        "nepali": {
+            "ne": {
+                "fullName": "NE",
+                "totalSize": 180866
+            }
+        },
+        "norwegian": {
+            "dnb1930": {
+                "fullName": "DNB1930",
+                "totalSize": 3010286
+            }
+        },
         "portuguese": {
             "almeida": {
                 "fullName": "Almeida Atualizada",
                 "totalSize": 3141247
+            },
+            "nvi-pt": {
+                "fullName": "NVI-PT",
+                "totalSize": 3250786
             }
         },
         "romanian": {
             "cornilescu": {
                 "fullName": "Cornilescu",
                 "totalSize": 3412091
+            },
+            "ntlr": {
+                "fullName": "NTLR",
+                "totalSize": 3511980
+            },
+            "rmnn": {
+                "fullName": "RMNN",
+                "totalSize": 3436553
             }
         },
         "russian": {
+            "nrt": {
+                "fullName": "NRT",
+                "totalSize": 4591203
+            },
             "rst1876": {
                 "fullName": "Russian Synodal Translation 1876",
                 "totalSize": 4419370
@@ -228,12 +288,6 @@
                 "totalSize": 3158728
             }
         },
-        "swahili": {
-            "swahili": {
-                "fullName": "Swahili Bible",
-                "totalSize": 891301
-            }
-        },
         "swedish": {
             "sfb15": {
                 "fullName": "sfb15",
@@ -241,6 +295,10 @@
             }
         },
         "tagalog": {
+            "abtag2001": {
+                "fullName": "abtag2001",
+                "totalSize": 3226404
+            },
             "adb1905": {
                 "fullName": "Ang Dating Biblia 1905",
                 "totalSize": 3123413
@@ -250,6 +308,10 @@
             "tkjv": {
                 "fullName": "Thai King James Version",
                 "totalSize": 4809774
+            },
+            "tncv": {
+                "fullName": "TNCV",
+                "totalSize": 4738439
             }
         },
         "vietnamese": {
