@@ -75,9 +75,13 @@
             }
         },
         "dutch": {
-            "sch2000": {
-                "fullName": "SCH2000",
-                "totalSize": 3475445
+            "bb": {
+                "fullName": "BasisBijbel",
+                "totalSize": 3305639
+            },
+            "htb": {
+                "fullName": "Het Boek",
+                "totalSize": 3433726
             },
             "statenvertaling": {
                 "fullName": "Dutch Staten Vertaling",
@@ -152,6 +156,10 @@
             "luther1912": {
                 "fullName": "Luther 1912",
                 "totalSize": 3207152
+            },
+            "sch2000": {
+                "fullName": "SCH2000",
+                "totalSize": 3475445
             },
             "schlachter1951": {
                 "fullName": "Schlachter 1951",
