@@ -5,9 +5,20 @@ import zipfile
 from os.path import basename
 import shutil
 
-filename = input("bible filename: " )
-language = input("language: " )
-translationName = input("abbreviation bible name: ")
+biblejson = os.listdir()
+filename = ""
+for file in biblejson:
+  print(file)
+  if file.endswith("json") and "_" in file:    
+    filename = file
+    filenameinput = input("filename : " + file)
+    break
+filesplit = filename.split("_")[1]
+language = filename.split("_")[0]
+languageInput = input("language: " + language )
+translationName = filesplit.split(".")[0]
+translationNameInput = input("abbreviation bible name:" + translationName)
+    #print(filename)  
 fullName = input("full name: ")
 f = open(filename, "r")
 

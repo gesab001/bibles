@@ -7,6 +7,14 @@
             }
         },
         "arabic": {
+            "ERV-AR": {
+                "fullName": "Arabic Bible: Easy-to-Read Version",
+                "totalSize": 5325549
+            },
+            "NAV": {
+                "fullName": "Ketab El Hayat",
+                "totalSize": 5355830
+            },
             "arabicsv": {
                 "fullName": "Arabic Smith and Van Dyke",
                 "totalSize": 3307627
@@ -89,6 +97,18 @@
             }
         },
         "english": {
+            "CEV": {
+                "fullName": "Contemporary English Version",
+                "totalSize": 2973459
+            },
+            "ERV": {
+                "fullName": "Easy-to-Read Version",
+                "totalSize": 3280650
+            },
+            "NLT": {
+                "fullName": "New Living Translation",
+                "totalSize": 3260483
+            },
             "icb": {
                 "fullName": "International Children's Bible",
                 "totalSize": 3142947
@@ -127,6 +147,18 @@
             }
         },
         "french": {
+            "BDS": {
+                "fullName": "La Bible du Semeur",
+                "totalSize": 3826888
+            },
+            "NEG1979": {
+                "fullName": "Nouvelle Edition de Gen\u00e8ve - NEG1979",
+                "totalSize": 3336053
+            },
+            "SG21": {
+                "fullName": "Segond 21",
+                "totalSize": 3462818
+            },
             "darby": {
                 "fullName": "Darby Bible",
                 "totalSize": 3258493
@@ -167,12 +199,40 @@
             }
         },
         "greek": {
+            "SBLGNT": {
+                "fullName": "SBL Greek New Testament",
+                "totalSize": 1378811
+            },
+            "THGNT": {
+                "fullName": "Tyndale House Greek New Testament",
+                "totalSize": 1374654
+            },
+            "TR1550": {
+                "fullName": "1550 Stephanus New Testament",
+                "totalSize": 1177110
+            },
+            "TR1894": {
+                "fullName": "1894 Scrivener New Testament",
+                "totalSize": 1176015
+            },
+            "WHNU": {
+                "fullName": "1881 Westcott-Hort New Testament",
+                "totalSize": 1167318
+            },
             "moderngreek": {
                 "fullName": "Modern Greek",
                 "totalSize": 4764904
             }
         },
         "hebrew": {
+            "HHH": {
+                "fullName": "Habrit Hakhadasha/Haderekh",
+                "totalSize": 1153102
+            },
+            "WLC": {
+                "fullName": "The Westminster Leningrad Codex ",
+                "totalSize": 4254544
+            },
             "modernhebrew": {
                 "fullName": "Modern Hebrew Bible",
                 "totalSize": 2881512
@@ -287,6 +347,46 @@
             }
         },
         "spanish": {
+            "BLP": {
+                "fullName": "La Palabra (Espa\u00f1a)",
+                "totalSize": 3365764
+            },
+            "CST": {
+                "fullName": "Nueva Versi\u00f3n Internacional (Castilian)",
+                "totalSize": 3349080
+            },
+            "DHH": {
+                "fullName": "Dios Habla Hoy",
+                "totalSize": 3336887
+            },
+            "JBS": {
+                "fullName": "Biblia del Jubileo",
+                "totalSize": 3083624
+            },
+            "LBLA": {
+                "fullName": "La Biblia de las Am\u00e9ricas",
+                "totalSize": 3223979
+            },
+            "NBLA": {
+                "fullName": "Nueva Biblia de las Am\u00e9ricas",
+                "totalSize": 3267865
+            },
+            "nbv": {
+                "fullName": "Nueva Biblia Viva",
+                "totalSize": 3478939
+            },
+            "ntv": {
+                "fullName": "Nueva Traducci\u00f3n Viviente",
+                "totalSize": 3546591
+            },
+            "nvi": {
+                "fullName": "Nueva Versi\u00f3n Internacional",
+                "totalSize": 3344824
+            },
+            "pdt": {
+                "fullName": "Palabra de Dios para Todos",
+                "totalSize": 3378432
+            },
             "rv1909": {
                 "fullName": "Reina Valera 1909",
                 "totalSize": 3121180
