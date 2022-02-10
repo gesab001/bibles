@@ -7,10 +7,6 @@
             }
         },
         "arabic": {
-            "ERV-AR": {
-                "fullName": "Arabic Bible: Easy-to-Read Version",
-                "totalSize": 5325549
-            },
             "NAV": {
                 "fullName": "Ketab El Hayat",
                 "totalSize": 5355830
@@ -18,6 +14,10 @@
             "arabicsv": {
                 "fullName": "Arabic Smith and Van Dyke",
                 "totalSize": 3307627
+            },
+            "ervar": {
+                "fullName": "Arabic Easy-To-Read-Version",
+                "totalSize": 5324889
             }
         },
         "cebuano": {
@@ -97,13 +97,73 @@
             }
         },
         "english": {
+            "AMP": {
+                "fullName": "Amplified Bible",
+                "totalSize": 3751979
+            },
+            "AMPC": {
+                "fullName": "Amplified Bible Classic Edition",
+                "totalSize": 3673072
+            },
+            "ASV": {
+                "fullName": "American Standard Version",
+                "totalSize": 3016701
+            },
+            "CEB": {
+                "fullName": "Common English Bible",
+                "totalSize": 3119072
+            },
             "CEV": {
                 "fullName": "Contemporary English Version",
                 "totalSize": 2973459
             },
+            "CJB": {
+                "fullName": "Complete Jewish Bible",
+                "totalSize": 3226841
+            },
+            "CSB": {
+                "fullName": "Christian Standard Bible",
+                "totalSize": 3087543
+            },
+            "DLNT": {
+                "fullName": "Disciples Literal New Testament",
+                "totalSize": 1025714
+            },
+            "DRA": {
+                "fullName": "Douay-Rheims 1899 American Edition",
+                "totalSize": 2968861
+            },
+            "EHV": {
+                "fullName": "Evangelical Heritage Version",
+                "totalSize": 3226422
+            },
             "ERV": {
                 "fullName": "Easy-to-Read Version",
                 "totalSize": 3280650
+            },
+            "ESV": {
+                "fullName": "English Standard Version",
+                "totalSize": 3046547
+            },
+            "ESVUK": {
+                "fullName": "English Standard Version Anglicised",
+                "totalSize": 3048075
+            },
+            "EXB": {
+                "fullName": "Expanded Bible",
+                "totalSize": 4556619
+            },
+            "GNV": {
+                "fullName": "1599 Geneva Bible",
+                "totalSize": 3195006
+            },
+            "GW": {
+                "fullName": "GOD'S WORD Translation",
+                "totalSize": 3126111
+            },
+            "KJ21": {
+                "fullName": "21st Century King James Version",
+                "totalSize": 3066393
             },
             "NLT": {
                 "fullName": "New Living Translation",
@@ -133,6 +193,10 @@
             }
         },
         "finnish": {
+            "R1933": {
+                "fullName": "Raamattu 1933",
+                "totalSize": 3347122
+            },
             "finnish1776": {
                 "fullName": "Finnish Bible 1776",
                 "totalSize": 3282208
@@ -239,9 +303,9 @@
             }
         },
         "hindi": {
-            "erv-hi": {
-                "fullName": "Hindi Bible: Easy-to-Read Version",
-                "totalSize": 8184652
+            "ervhi": {
+                "fullName": "Hindi Easy-To-Read-Version",
+                "totalSize": 5447293
             }
         },
         "hungarian": {
@@ -276,6 +340,12 @@
             "riveduta1927": {
                 "fullName": "Riveduta Bible 1927",
                 "totalSize": 3287626
+            }
+        },
+        "japanese": {
+            "jlb": {
+                "fullName": "Japanese Living Bible",
+                "totalSize": 4409006
             }
         },
         "korean": {
@@ -351,6 +421,10 @@
                 "fullName": "La Palabra (Espa\u00f1a)",
                 "totalSize": 3365764
             },
+            "BLPH": {
+                "fullName": "La Palabra (Hispanoam\u00e9rica)",
+                "totalSize": 3359920
+            },
             "CST": {
                 "fullName": "Nueva Versi\u00f3n Internacional (Castilian)",
                 "totalSize": 3349080
@@ -370,6 +444,34 @@
             "NBLA": {
                 "fullName": "Nueva Biblia de las Am\u00e9ricas",
                 "totalSize": 3267865
+            },
+            "RVA": {
+                "fullName": "Reina-Valera Antigua",
+                "totalSize": 3126559
+            },
+            "RVA-2015": {
+                "fullName": "Reina Valera Actualizada",
+                "totalSize": 3250637
+            },
+            "RVC": {
+                "fullName": "Reina Valera Contempor\u00e1nea",
+                "totalSize": 3344073
+            },
+            "RVR1960": {
+                "fullName": "Reina-Valera 1960",
+                "totalSize": 3154310
+            },
+            "RVR1977": {
+                "fullName": "Reina Valera Revisada",
+                "totalSize": 3209644
+            },
+            "RVR1995": {
+                "fullName": "Reina-Valera 1995",
+                "totalSize": 3215350
+            },
+            "TLA": {
+                "fullName": "Traducci\u00f3n en lenguaje actual",
+                "totalSize": 3427063
             },
             "nbv": {
                 "fullName": "Nueva Biblia Viva",
