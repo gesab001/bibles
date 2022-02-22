@@ -97,6 +97,10 @@
             }
         },
         "english": {
+            "AKJV": {
+                "fullName": "Authorized King James Version",
+                "totalSize": 3015829
+            },
             "AMP": {
                 "fullName": "Amplified Bible",
                 "totalSize": 3751979
@@ -153,6 +157,10 @@
                 "fullName": "Expanded Bible",
                 "totalSize": 4556619
             },
+            "GNT": {
+                "fullName": "Good News Translation",
+                "totalSize": 3107117
+            },
             "GNV": {
                 "fullName": "1599 Geneva Bible",
                 "totalSize": 3195006
@@ -161,13 +169,141 @@
                 "fullName": "GOD'S WORD Translation",
                 "totalSize": 3126111
             },
+            "HCSB": {
+                "fullName": "Holman Christian Standard Bible",
+                "totalSize": 3094424
+            },
+            "ISV": {
+                "fullName": "International Standard Version",
+                "totalSize": 3309001
+            },
+            "JUB": {
+                "fullName": "Jubilee Bible 2000",
+                "totalSize": 3029596
+            },
             "KJ21": {
                 "fullName": "21st Century King James Version",
                 "totalSize": 3066393
             },
+            "LEB": {
+                "fullName": "Lexham English Bible",
+                "totalSize": 3113321
+            },
+            "MEV": {
+                "fullName": "Modern English Version",
+                "totalSize": 3069473
+            },
+            "MOUNCE": {
+                "fullName": "Mounce Reverse Interlinear New Testament",
+                "totalSize": 924490
+            },
+            "MSG": {
+                "fullName": "The Message",
+                "totalSize": 4030500
+            },
+            "NABRE": {
+                "fullName": "New American Bible Revised Edition",
+                "totalSize": 3119715
+            },
+            "NASB": {
+                "fullName": "New American Standard Bible",
+                "totalSize": 3179207
+            },
+            "NASB1995": {
+                "fullName": "New American Standard Bible 1995",
+                "totalSize": 3152025
+            },
+            "NCB": {
+                "fullName": "New Catholic Bible",
+                "totalSize": 3271694
+            },
+            "NCV": {
+                "fullName": "New Century Version",
+                "totalSize": 3069313
+            },
+            "NIRV": {
+                "fullName": "New International Reader's Version",
+                "totalSize": 3296486
+            },
+            "NIVUK": {
+                "fullName": "New International Version - UK",
+                "totalSize": 3078607
+            },
+            "NKJV": {
+                "fullName": "New King James Version",
+                "totalSize": 3126434
+            },
             "NLT": {
                 "fullName": "New Living Translation",
                 "totalSize": 3260483
+            },
+            "NLV": {
+                "fullName": "New Life Version",
+                "totalSize": 2990838
+            },
+            "NMB": {
+                "fullName": "New Matthew Bible",
+                "totalSize": 924523
+            },
+            "NRSV": {
+                "fullName": "New Revised Standard Version",
+                "totalSize": 3084027
+            },
+            "NRSVA": {
+                "fullName": "New Revised Standard Version, Anglicised",
+                "totalSize": 3086628
+            },
+            "NRSVACE": {
+                "fullName": "New Revised Standard Version, Anglicised Catholic Edition",
+                "totalSize": 3096793
+            },
+            "NRSVCE": {
+                "fullName": "New Revised Standard Version Catholic Edition",
+                "totalSize": 3089873
+            },
+            "NTE": {
+                "fullName": "New Testament for Everyone",
+                "totalSize": 996278
+            },
+            "OJB": {
+                "fullName": "Orthodox Jewish Bible",
+                "totalSize": 3673242
+            },
+            "PHILLIPS": {
+                "fullName": "J.B. Phillips New Testament",
+                "totalSize": 1237974
+            },
+            "RGT": {
+                "fullName": "Revised Geneva Translation",
+                "totalSize": 905822
+            },
+            "RSV": {
+                "fullName": "Revised Standard Version",
+                "totalSize": 3071103
+            },
+            "RSVCE": {
+                "fullName": "Revised Standard Version Catholic Edition",
+                "totalSize": 3086173
+            },
+            "TLB": {
+                "fullName": "Living Bible",
+                "totalSize": 3308060
+            },
+            "TLV": {
+                "fullName": "Tree of Life Version",
+                "totalSize": 3123861
+            },
+            "VOICE": {
+                "fullName": "The Voice",
+                "totalSize": 4289497
+            },
+            "WE": {
+                "fullName": "Worldwide English (New Testament)",
+                "totalSize": 908505
+            },
+            "WEB": {
+                "fullName": "World English Bible",
+                "totalSize": 2990881
             },
             "icb": {
                 "fullName": "International Children's Bible",
