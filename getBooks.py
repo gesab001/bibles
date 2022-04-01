@@ -11,7 +11,11 @@ for file in biblejson:
   print(file)
   if file.endswith("json") and "_" in file:    
     filename = file
-    filenameinput = input("filename : " + file)
+    newFilename = filename.replace("-", "")
+    os.rename(filename, newFilename)
+    filename = newFilename
+    
+    filenameinput = input("filename : " + filename)
     break
 filesplit = filename.split("_")[1]
 language = filename.split("_")[0]
