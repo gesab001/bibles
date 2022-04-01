@@ -1,5 +1,11 @@
 {
     "items": {
+        "Chhattisgarhi": {
+            "NCA": {
+                "fullName": "New Chhattisgarhi Translation New Testament",
+                "totalSize": 1308272
+            }
+        },
         "albanian": {
             "albanian": {
                 "fullName": "Albanian Bible",
@@ -62,6 +68,24 @@
                 "totalSize": 3099313
             }
         },
+        "cherokee": {
+            "CHR": {
+                "fullName": "Cherokee New Testament",
+                "totalSize": 1125574
+            }
+        },
+        "chichewa": {
+            "CCL": {
+                "fullName": "Mawu a Mulungu mu Chichewa Chalero",
+                "totalSize": 3106863
+            }
+        },
+        "chinanteco": {
+            "CCO": {
+                "fullName": "Chinanteco de Comaltepec New Testament",
+                "totalSize": 1610182
+            }
+        },
         "chinese": {
             "ccb": {
                 "fullName": "Chinese Contemporary Bible Simplified",
@@ -89,6 +113,14 @@
             }
         },
         "croatian": {
+            "CRO": {
+                "fullName": " KNIJGA O KRISTU",
+                "totalSize": 953995
+            },
+            "HNZRI": {
+                "fullName": "Hrvatski Novi Zavjet - Rijeka 2001 NT",
+                "totalSize": 924851
+            },
             "shp": {
                 "fullName": "SHP",
                 "totalSize": 3284570
@@ -341,6 +373,10 @@
                 "fullName": "World English Bible",
                 "totalSize": 2990881
             },
+            "WYC": {
+                "fullName": "Wycliffe Bible",
+                "totalSize": 4437274
+            },
             "icb": {
                 "fullName": "International Children's Bible",
                 "totalSize": 3142947
@@ -460,6 +496,28 @@
                 "totalSize": 4764904
             }
         },
+        "gujarati": {
+            "GERV": {
+                "fullName": "Gujarati Easy to Read Version",
+                "totalSize": 5251473
+            }
+        },
+        "haitian": {
+            "HCV": {
+                "fullName": "Haitian Creole Version",
+                "totalSize": 3198772
+            },
+            "VKF": {
+                "fullName": "Nouvo Testaman: V\u00e8syon Krey\u00f2l Fasil",
+                "totalSize": 999650
+            }
+        },
+        "hawaii": {
+            "HWP": {
+                "fullName": "Hawaii Pidgin",
+                "totalSize": 1039070
+            }
+        },
         "hebrew": {
             "HHH": {
                 "fullName": "Habrit Hakhadasha/Haderekh",
@@ -481,6 +539,14 @@
             }
         },
         "hungarian": {
+            "ERVHU": {
+                "fullName": "Easy to Read Hungarian",
+                "totalSize": 4092733
+            },
+            "KAR": {
+                "fullName": "Karoli",
+                "totalSize": 3563201
+            },
             "karoli": {
                 "fullName": "Hungarian Karoli Bible",
                 "totalSize": 3553982
@@ -490,6 +556,12 @@
                 "totalSize": 3524359
             }
         },
+        "icelandic": {
+            "ICELAND": {
+                "fullName": "Icelandic Bible",
+                "totalSize": 3574096
+            }
+        },
         "ilonggo": {
             "hlgn": {
                 "fullName": "HLGN",
@@ -497,6 +569,22 @@
             }
         },
         "italian": {
+            "BDG": {
+                "fullName": "La Bibbia della Gioia NT",
+                "totalSize": 1102287
+            },
+            "CEI": {
+                "fullName": "Conferenza Episcopale Italiana",
+                "totalSize": 3254282
+            },
+            "LND": {
+                "fullName": "La Nuova Diodati",
+                "totalSize": 3225579
+            },
+            "NR1994": {
+                "fullName": "Nuova Riveduta 1994",
+                "totalSize": 3308380
+            },
             "giovanni1649": {
                 "fullName": "Giovanni Diodati Bible 1649",
                 "totalSize": 3276900
@@ -514,10 +602,22 @@
                 "totalSize": 3287626
             }
         },
+        "jakaltek": {
+            "JAC": {
+                "fullName": "Jacalteco New Testament",
+                "totalSize": 1139521
+            }
+        },
         "japanese": {
             "jlb": {
                 "fullName": "Japanese Living Bible",
                 "totalSize": 4409006
+            }
+        },
+        "kaqchikel": {
+            "CKW": {
+                "fullName": "Kaqchikel New Testament",
+                "totalSize": 1314320
             }
         },
         "korean": {
