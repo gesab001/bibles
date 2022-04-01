@@ -1,17 +1,6 @@
 {
     "items": {
-        "chhattisgarhi": {
-            "NCA": {
-                "fullName": "New Chhattisgarhi Translation New Testament",
-                "totalSize": 1308272
-            }
-        },
-        "quiche": {
-            "QUT": {
-                "fullName": "Quiche New Testament",
-                "totalSize": 1166727
-            }
-        },
+    
         "albanian": {
             "albanian": {
                 "fullName": "Albanian Bible",
@@ -64,6 +53,7 @@
                 "totalSize": 1349356
             }
         },
+		
         "cebuano": {
             "APSD-CEB": {
                 "fullName": "ANG PULONG SA DIOS CEBUANO New Testament",
@@ -80,6 +70,12 @@
                 "totalSize": 1125574
             }
         },
+		"chhattisgarhi": {
+            "NCA": {
+                "fullName": "New Chhattisgarhi Translation New Testament",
+                "totalSize": 1308272
+            }
+        }
         "chichewa": {
             "CCL": {
                 "fullName": "Mawu a Mulungu mu Chichewa Chalero",
@@ -774,12 +770,18 @@
                 "totalSize": 5590760
             }
         },
+        "quiche": {
+            "QUT": {
+                "fullName": "Quiche New Testament",
+                "totalSize": 1166727
+            }
+        },
         "quichua": {
             "MTDS": {
                 "fullName": "Mushuj Testamento Diospaj Shimi NT",
                 "totalSize": 980748
             }
-        },
+        },		
         "romanian": {
             "cornilescu": {
                 "fullName": "Cornilescu",
