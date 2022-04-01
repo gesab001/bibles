@@ -26,7 +26,37 @@
                 "totalSize": 5303275
             }
         },
+        "bulgarian": {
+            "BG1940": {
+                "fullName": "1940 Bulgarian Bible",
+                "totalSize": 4416082
+            },
+            "BOB": {
+                "fullName": "Bulgarian Orthodox Bible",
+                "totalSize": 4350169
+            },
+            "BPB": {
+                "fullName": "Bulgarian Protestant Revised Bible",
+                "totalSize": 4510098
+            },
+            "BULG": {
+                "fullName": "Bulgarian Bible",
+                "totalSize": 4435962
+            },
+            "CBT": {
+                "fullName": "Contemporary Bulgarian Translation",
+                "totalSize": 4568976
+            },
+            "ERVBG": {
+                "fullName": "Easy to Read Version Bulgarian",
+                "totalSize": 1349356
+            }
+        },
         "cebuano": {
+            "APSD-CEB": {
+                "fullName": "ANG PULONG SA DIOS CEBUANO New Testament",
+                "totalSize": 993266
+            },
             "cebuano": {
                 "fullName": "Cebuano ",
                 "totalSize": 3099313
