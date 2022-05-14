@@ -1,1056 +1,1048 @@
 {
-	"items": {
-
-		"albanian": {
-			"albanian": {
-				"fullName": "Albanian Bible",
-				"totalSize": 3441360
-			}
-		},
-		"arabic": {
-			"NAV": {
-				"fullName": "Ketab El Hayat",
-				"totalSize": 5355830
-			},
-			"arabicsv": {
-				"fullName": "Arabic Smith and Van Dyke",
-				"totalSize": 3307627
-			},
-			"ervar": {
-				"fullName": "Arabic Easy-To-Read-Version",
-				"totalSize": 5324889
-			}
-		},
-		"awadhi": {
-			"ERVAWA": {
-				"fullName": "Easy to Read Version Awadhi",
-				"totalSize": 5303275
-			}
-		},
-		"bulgarian": {
-			"BG1940": {
-				"fullName": "1940 Bulgarian Bible",
-				"totalSize": 4416082
-			},
-			"BOB": {
-				"fullName": "Bulgarian Orthodox Bible",
-				"totalSize": 4350169
-			},
-			"BPB": {
-				"fullName": "Bulgarian Protestant Revised Bible",
-				"totalSize": 4510098
-			},
-			"BULG": {
-				"fullName": "Bulgarian Bible",
-				"totalSize": 4435962
-			},
-			"CBT": {
-				"fullName": "Contemporary Bulgarian Translation",
-				"totalSize": 4568976
-			},
-			"ERVBG": {
-				"fullName": "Easy to Read Version Bulgarian",
-				"totalSize": 1349356
-			}
-		},
-
-		"cebuano": {
-			"APSD-CEB": {
-				"fullName": "ANG PULONG SA DIOS CEBUANO New Testament",
-				"totalSize": 993266
-			},
-			"cebuano": {
-				"fullName": "Cebuano ",
-				"totalSize": 3099313
-			}
-		},
-		"cherokee": {
-			"CHR": {
-				"fullName": "Cherokee New Testament",
-				"totalSize": 1125574
-			}
-		},
-		"chhattisgarhi": {
-			"NCA": {
-				"fullName": "New Chhattisgarhi Translation New Testament",
-				"totalSize": 1308272
-			}
-		},
-		"chichewa": {
-			"CCL": {
-				"fullName": "Mawu a Mulungu mu Chichewa Chalero",
-				"totalSize": 3106863
-			}
-		},
-		"chinanteco": {
-			"CCO": {
-				"fullName": "Chinanteco de Comaltepec New Testament",
-				"totalSize": 1610182
-			}
-		},
-		"chinese": {
-			"ccb": {
-				"fullName": "Chinese Contemporary Bible Simplified",
-				"totalSize": 3274225
-			},
-			"ccbt": {
-				"fullName": "Chinese Contemporary Bible Traditional",
-				"totalSize": 3288423
-			},
-			"cns": {
-				"fullName": "Chinese New Simplified",
-				"totalSize": 3439434
-			},
-			"cnt": {
-				"fullName": "Chinese New Traditional",
-				"totalSize": 3514634
-			},
-			"cus": {
-				"fullName": "Chinese Union Simplified",
-				"totalSize": 3285471
-			},
-			"cut": {
-				"fullName": "Chinese Union Traditional",
-				"totalSize": 3291343
-			}
-		},
-		"croatian": {
-			"CRO": {
-				"fullName": " KNIJGA O KRISTU",
-				"totalSize": 953995
-			},
-			"HNZRI": {
-				"fullName": "Hrvatski Novi Zavjet - Rijeka 2001 NT",
-				"totalSize": 924851
-			},
-			"shp": {
-				"fullName": "SHP",
-				"totalSize": 3284570
-			}
-		},
-		"czech": {
-			"b21": {
-				"fullName": "B21",
-				"totalSize": 3454184
-			},
-			"bkr": {
-				"fullName": "Czech BKR",
-				"totalSize": 3492046
-			},
-			"cep": {
-				"fullName": "Czech CEP",
-				"totalSize": 3467619
-			},
-			"kms": {
-				"fullName": "Czech KMS",
-				"totalSize": 975729
-			}
-		},
-		"danish": {
-			"danish": {
-				"fullName": "Danish Bible",
-				"totalSize": 3059814
-			}
-		},
-		"dutch": {
-			"bb": {
-				"fullName": "BasisBijbel",
-				"totalSize": 3305639
-			},
-			"htb": {
-				"fullName": "Het Boek",
-				"totalSize": 3433726
-			},
-			"statenvertaling": {
-				"fullName": "Dutch Staten Vertaling",
-				"totalSize": 3187752
-			}
-		},
-		"english": {
-			"AKJV": {
-				"fullName": "Authorized King James Version",
-				"totalSize": 3015829
-			},
-			"AMP": {
-				"fullName": "Amplified Bible",
-				"totalSize": 3751979
-			},
-			"AMPC": {
-				"fullName": "Amplified Bible Classic Edition",
-				"totalSize": 3673072
-			},
-			"ASV": {
-				"fullName": "American Standard Version",
-				"totalSize": 3016701
-			},
-			"CEB": {
-				"fullName": "Common English Bible",
-				"totalSize": 3119072
-			},
-			"CEV": {
-				"fullName": "Contemporary English Version",
-				"totalSize": 2973459
-			},
-			"CJB": {
-				"fullName": "Complete Jewish Bible",
-				"totalSize": 3226841
-			},
-			"CSB": {
-				"fullName": "Christian Standard Bible",
-				"totalSize": 3087543
-			},
-			"DLNT": {
-				"fullName": "Disciples Literal New Testament",
-				"totalSize": 1025714
-			},
-			"DRA": {
-				"fullName": "Douay-Rheims 1899 American Edition",
-				"totalSize": 2968861
-			},
-			"EHV": {
-				"fullName": "Evangelical Heritage Version",
-				"totalSize": 3226422
-			},
-			"ERV": {
-				"fullName": "Easy-to-Read Version",
-				"totalSize": 3280650
-			},
-			"ESV": {
-				"fullName": "English Standard Version",
-				"totalSize": 3046547
-			},
-			"ESVUK": {
-				"fullName": "English Standard Version Anglicised",
-				"totalSize": 3048075
-			},
-			"EXB": {
-				"fullName": "Expanded Bible",
-				"totalSize": 4556619
-			},
-			"GNT": {
-				"fullName": "Good News Translation",
-				"totalSize": 3107117
-			},
-			"GNV": {
-				"fullName": "1599 Geneva Bible",
-				"totalSize": 3195006
-			},
-			"GW": {
-				"fullName": "GOD'S WORD Translation",
-				"totalSize": 3126111
-			},
-			"HCSB": {
-				"fullName": "Holman Christian Standard Bible",
-				"totalSize": 3094424
-			},
-			"ISV": {
-				"fullName": "International Standard Version",
-				"totalSize": 3309001
-			},
-			"JUB": {
-				"fullName": "Jubilee Bible 2000",
-				"totalSize": 3029596
-			},
-			"KJ21": {
-				"fullName": "21st Century King James Version",
-				"totalSize": 3066393
-			},
-			"LEB": {
-				"fullName": "Lexham English Bible",
-				"totalSize": 3113321
-			},
-			"MEV": {
-				"fullName": "Modern English Version",
-				"totalSize": 3069473
-			},
-			"MOUNCE": {
-				"fullName": "Mounce Reverse Interlinear New Testament",
-				"totalSize": 924490
-			},
-			"MSG": {
-				"fullName": "The Message",
-				"totalSize": 4030500
-			},
-			"NABRE": {
-				"fullName": "New American Bible Revised Edition",
-				"totalSize": 3119715
-			},
-			"NASB": {
-				"fullName": "New American Standard Bible",
-				"totalSize": 3179207
-			},
-			"NASB1995": {
-				"fullName": "New American Standard Bible 1995",
-				"totalSize": 3152025
-			},
-			"NCB": {
-				"fullName": "New Catholic Bible",
-				"totalSize": 3271694
-			},
-			"NCV": {
-				"fullName": "New Century Version",
-				"totalSize": 3069313
-			},
-			"NIRV": {
-				"fullName": "New International Reader's Version",
-				"totalSize": 3296486
-			},
-			"NIVUK": {
-				"fullName": "New International Version - UK",
-				"totalSize": 3078607
-			},
-			"NKJV": {
-				"fullName": "New King James Version",
-				"totalSize": 3126434
-			},
-			"NLT": {
-				"fullName": "New Living Translation",
-				"totalSize": 3260483
-			},
-			"NLV": {
-				"fullName": "New Life Version",
-				"totalSize": 2990838
-			},
-			"NMB": {
-				"fullName": "New Matthew Bible",
-				"totalSize": 924523
-			},
-			"NRSV": {
-				"fullName": "New Revised Standard Version",
-				"totalSize": 3084027
-			},
-			"NRSVA": {
-				"fullName": "New Revised Standard Version, Anglicised",
-				"totalSize": 3086628
-			},
-			"NRSVACE": {
-				"fullName": "New Revised Standard Version, Anglicised Catholic Edition",
-				"totalSize": 3096793
-			},
-			"NRSVCE": {
-				"fullName": "New Revised Standard Version Catholic Edition",
-				"totalSize": 3089873
-			},
-			"NTE": {
-				"fullName": "New Testament for Everyone",
-				"totalSize": 996278
-			},
-			"OJB": {
-				"fullName": "Orthodox Jewish Bible",
-				"totalSize": 3673242
-			},
-			"PHILLIPS": {
-				"fullName": "J.B. Phillips New Testament",
-				"totalSize": 1237974
-			},
-			"RGT": {
-				"fullName": "Revised Geneva Translation",
-				"totalSize": 905822
-			},
-			"RSV": {
-				"fullName": "Revised Standard Version",
-				"totalSize": 3071103
-			},
-			"RSVCE": {
-				"fullName": "Revised Standard Version Catholic Edition",
-				"totalSize": 3086173
-			},
-			"TLB": {
-				"fullName": "Living Bible",
-				"totalSize": 3308060
-			},
-			"TLV": {
-				"fullName": "Tree of Life Version",
-				"totalSize": 3123861
-			},
-			"VOICE": {
-				"fullName": "The Voice",
-				"totalSize": 4289497
-			},
-			"WE": {
-				"fullName": "Worldwide English (New Testament)",
-				"totalSize": 908505
-			},
-			"WEB": {
-				"fullName": "World English Bible",
-				"totalSize": 2990881
-			},
-			"WYC": {
-				"fullName": "Wycliffe Bible",
-				"totalSize": 4437274
-			},
-			"icb": {
-				"fullName": "International Children's Bible",
-				"totalSize": 3142947
-			},
-			"kjv": {
-				"fullName": "King James Version",
-				"totalSize": 3004606
-			},
-			"niv": {
-				"fullName": "New International Version",
-				"totalSize": 3079627
-			},
-			"ylt": {
-				"fullName": "Young's Literal Translation",
-				"totalSize": 3131354
-			}
-		},
-		"esperanto": {
-			"esperanto": {
-				"fullName": "Esperanto Bible",
-				"totalSize": 2898372
-			}
-		},
-		"finnish": {
-			"R1933": {
-				"fullName": "Raamattu 1933",
-				"totalSize": 3347122
-			},
-			"finnish1776": {
-				"fullName": "Finnish Bible 1776",
-				"totalSize": 3282208
-			},
-			"pyharaamattu1933": {
-				"fullName": "Pyha Raamattu 1933-1938",
-				"totalSize": 3359890
-			},
-			"pyharaamattu1992": {
-				"fullName": "Pyha Raamattu 1992",
-				"totalSize": 3457196
-			}
-		},
-		"french": {
-			"BDS": {
-				"fullName": "La Bible du Semeur",
-				"totalSize": 3826888
-			},
-			"NEG1979": {
-				"fullName": "Nouvelle Edition de Gen\u00e8ve - NEG1979",
-				"totalSize": 3336053
-			},
-			"SG21": {
-				"fullName": "Segond 21",
-				"totalSize": 3462818
-			},
-			"darby": {
-				"fullName": "Darby Bible",
-				"totalSize": 3258493
-			},
-			"ls1910": {
-				"fullName": "Louis Segond 1910",
-				"totalSize": 3252167
-			},
-			"ostervald1996": {
-				"fullName": "Ostervald 1996 ",
-				"totalSize": 3300025
-			}
-		},
-		"german": {
-			"REIMER": {
-				"fullName": "Low German Plautdietsch REIMER 2001",
-				"totalSize": 1182531
-			},
-			"elberfelder1871": {
-				"fullName": "Elberfelder 1871",
-				"totalSize": 3572620
-			},
-			"elberfelder1905": {
-				"fullName": "Elberfelder 1905",
-				"totalSize": 3307588
-			},
-			"luther1545": {
-				"fullName": "Luther 1545",
-				"totalSize": 3111134
-			},
-			"luther1912": {
-				"fullName": "Luther 1912",
-				"totalSize": 3207152
-			},
-			"sch2000": {
-				"fullName": "SCH2000",
-				"totalSize": 3475445
-			},
-			"schlachter1951": {
-				"fullName": "Schlachter 1951",
-				"totalSize": 3374963
-			}
-		},
-		"greek": {
-			"SBLGNT": {
-				"fullName": "SBL Greek New Testament",
-				"totalSize": 1378811
-			},
-			"THGNT": {
-				"fullName": "Tyndale House Greek New Testament",
-				"totalSize": 1374654
-			},
-			"TR1550": {
-				"fullName": "1550 Stephanus New Testament",
-				"totalSize": 1177110
-			},
-			"TR1894": {
-				"fullName": "1894 Scrivener New Testament",
-				"totalSize": 1176015
-			},
-			"WHNU": {
-				"fullName": "1881 Westcott-Hort New Testament",
-				"totalSize": 1167318
-			},
-			"moderngreek": {
-				"fullName": "Modern Greek",
-				"totalSize": 4764904
-			}
-		},
-		"gujarati": {
-			"GERV": {
-				"fullName": "Gujarati Easy to Read Version",
-				"totalSize": 5251473
-			}
-		},
-		"haitian": {
-			"HCV": {
-				"fullName": "Haitian Creole Version",
-				"totalSize": 3198772
-			},
-			"VKF": {
-				"fullName": "Nouvo Testaman: V\u00e8syon Krey\u00f2l Fasil",
-				"totalSize": 999650
-			}
-		},
-		"hawaii": {
-			"HWP": {
-				"fullName": "Hawaii Pidgin",
-				"totalSize": 1039070
-			}
-		},
-		"hebrew": {
-			"HHH": {
-				"fullName": "Habrit Hakhadasha/Haderekh",
-				"totalSize": 1153102
-			},
-			"WLC": {
-				"fullName": "The Westminster Leningrad Codex ",
-				"totalSize": 4254544
-			},
-			"modernhebrew": {
-				"fullName": "Modern Hebrew Bible",
-				"totalSize": 2881512
-			}
-		},
-		"hindi": {
-			"ervhi": {
-				"fullName": "Hindi Easy-To-Read-Version",
-				"totalSize": 5447293
-			}
-		},
-		"hungarian": {
-			"ERVHU": {
-				"fullName": "Easy to Read Hungarian",
-				"totalSize": 4092733
-			},
-			"KAR": {
-				"fullName": "Karoli",
-				"totalSize": 3563201
-			},
-			"karoli": {
-				"fullName": "Hungarian Karoli Bible",
-				"totalSize": 3553982
-			},
-			"nt-hu": {
-				"fullName": "NT-HU",
-				"totalSize": 3524359
-			}
-		},
-		"icelandic": {
-			"ICELAND": {
-				"fullName": "Icelandic Bible",
-				"totalSize": 3574096
-			}
-		},
-		"ilonggo": {
-			"hlgn": {
-				"fullName": "HLGN",
-				"totalSize": 3160317
-			}
-		},
-		"italian": {
-			"BDG": {
-				"fullName": "La Bibbia della Gioia NT",
-				"totalSize": 1102287
-			},
-			"CEI": {
-				"fullName": "Conferenza Episcopale Italiana",
-				"totalSize": 3254282
-			},
-			"LND": {
-				"fullName": "La Nuova Diodati",
-				"totalSize": 3225579
-			},
-			"NR1994": {
-				"fullName": "Nuova Riveduta 1994",
-				"totalSize": 3308380
-			},
-			"giovanni1649": {
-				"fullName": "Giovanni Diodati Bible 1649",
-				"totalSize": 3276900
-			},
-			"nr2006": {
-				"fullName": "NR2006",
-				"totalSize": 3286916
-			},
-			"rb": {
-				"fullName": "Riveduta Bible",
-				"totalSize": 3285865
-			},
-			"riveduta1927": {
-				"fullName": "Riveduta Bible 1927",
-				"totalSize": 3287626
-			}
-		},
-		"jakaltek": {
-			"JAC": {
-				"fullName": "Jacalteco New Testament",
-				"totalSize": 1139521
-			}
-		},
-		"japanese": {
-			"jlb": {
-				"fullName": "Japanese Living Bible",
-				"totalSize": 4409006
-			}
-		},
-		"kaqchikel": {
-			"CKW": {
-				"fullName": "Kaqchikel New Testament",
-				"totalSize": 1314320
-			}
-		},
-		"kekchi": {
-			"KEK": {
-				"fullName": "Kekchi New Testament",
-				"totalSize": 1118473
-			}
-		},
-		"korean": {
-			"klb": {
-				"fullName": "KLB",
-				"totalSize": 3792741
-			},
-			"korean": {
-				"fullName": "Korean Bible",
-				"totalSize": 3486951
-			}
-		},
-		"latin": {
-			"VULGATE": {
-				"fullName": "Biblia Sacra Vulgata",
-				"totalSize": 2929648
-			}
-		},
-		"luganda": {
-			"LCB": {
-				"fullName": "Endagaano Enkadde n\u02bcEndagaano Empya",
-				"totalSize": 3219499
-			}
-		},
-		"macedonian": {
-			"MNT": {
-				"fullName": "Macedonian New Testament",
-				"totalSize": 1437031
-			}
-		},
-		"mam": {
-			"MVC": {
-				"fullName": "Mam Central New Testament",
-				"totalSize": 1162866
-			},
-			"MVJ": {
-				"fullName": "Mam Todos Santos New Testament",
-				"totalSize": 1246271
-			}
-		},
-		"maori": {
-			"maori": {
-				"fullName": "Maori Bible",
-				"totalSize": 2920807
-			}
-		},
-		"marathi": {
-			"ERVMR": {
-				"fullName": "Easy to Read Version Marathi",
-				"totalSize": 5387178
-			}
-		},
-		"nahuatl": {
-			"NGU": {
-				"fullName": "N\u00e1huatl de Guerrero New Testament",
-				"totalSize": 1058387
-			}
-		},
-		"nepali": {
-			"ERVNE": {
-				"fullName": "Easy to Read Version Nepali",
-				"totalSize": 5512490
-			},
-			"ne": {
-				"fullName": "NE",
-				"totalSize": 180866
-			}
-		},
-		"norwegian": {
-			"LB": {
-				"fullName": "En Levende Bok NT",
-				"totalSize": 1077985
-			},
-			"dnb1930": {
-				"fullName": "DNB1930",
-				"totalSize": 3010286
-			}
-		},
-		"oriya": {
-			"ERVOR": {
-				"fullName": "Easy to Read Version Oriya",
-				"totalSize": 5355621
-			}
-		},
-		"pipil": {
-			"NBTN": {
-				"fullName": "Ne Bibliaj Tik Nawat New Testament",
-				"totalSize": 849463
-			}
-		},
-		"polish": {
-			"NP": {
-				"fullName": "Nowe Przymierze New Testament",
-				"totalSize": 1063757
-			},
-			"SZPL": {
-				"fullName": "S\u0142owo \u017bycia New Testament",
-				"totalSize": 1083621
-			},
-			"UBG": {
-				"fullName": "Updated Gda\u0144sk Bible New Testament",
-				"totalSize": 1228790
-			}
-		},
-		"portuguese": {
-			"ARC": {
-				"fullName": "Almeida Revista e Corrigida 2009",
-				"totalSize": 3148384
-			},
-			"NTLH": {
-				"fullName": "Nova Tradu\u04ab\u00e3o na Linguagem de Hoje 2000",
-				"totalSize": 3360378
-			},
-			"NVT": {
-				"fullName": "Nova Vers\u00e3o Transformadora",
-				"totalSize": 3287919
-			},
-			"OL": {
-				"fullName": "O Livro",
-				"totalSize": 3605187
-			},
-			"VFL": {
-				"fullName": "Portuguese New Testament: Easy-to-Read Version",
-				"totalSize": 3360213
-			},
-			"almeida": {
-				"fullName": "Almeida Atualizada",
-				"totalSize": 3141247
-			},
-			"nvi-pt": {
-				"fullName": "NVI-PT",
-				"totalSize": 3250786
-			}
-		},
-		"punjabi": {
-			"ERVPA": {
-				"fullName": "Easy to Read Version Punjabi",
-				"totalSize": 5590760
-			}
-		},
-		"quiche": {
-			"QUT": {
-				"fullName": "Quiche New Testament",
-				"totalSize": 1166727
-			}
-		},
-		"quichua": {
-			"MTDS": {
-				"fullName": "Mushuj Testamento Diospaj Shimi NT",
-				"totalSize": 980748
-			}
-		},
-		"romanian": {
-			"cornilescu": {
-				"fullName": "Cornilescu",
-				"totalSize": 3412091
-			},
-			"ntlr": {
-				"fullName": "NTLR",
-				"totalSize": 3511980
-			},
-			"rmnn": {
-				"fullName": "RMNN",
-				"totalSize": 3436553
-			}
-		},
-		"russian": {
-			"CARS": {
-				"fullName": "Central Asian Russian Scriptures",
-				"totalSize": 4658491
-			},
-			"CARSA": {
-				"fullName": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0435 \u041f\u0438\u0441\u0430\u043d\u0438\u0435 (\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434), \u0432\u0435\u0440\u0441\u0438\u044f \u0441 \u00ab\u0410\u043b\u043b\u0430\u0445\u043e\u043c\u00bb",
-				"totalSize": 4655756
-			},
-			"CARST": {
-				"fullName": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0435 \u041f\u0438\u0441\u0430\u043d\u0438\u0435 (\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434), \u0432\u0435\u0440\u0441\u0438\u044f \u0434\u043b\u044f \u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d\u0430",
-				"totalSize": 4657170
-			},
-			"ERVRU": {
-				"fullName": "Russian New Testament: Easy-to-Read Version",
-				"totalSize": 5096269
-			},
-			"nrt": {
-				"fullName": "NRT",
-				"totalSize": 4591203
-			},
-			"rst1876": {
-				"fullName": "Russian Synodal Translation 1876",
-				"totalSize": 4419370
-			}
-		},
-		"serbian": {
-			"ERVSR": {
-				"fullName": "Serbian New Testament: Easy-to-Read Version",
-				"totalSize": 4370623
-			},
-			"nsp": {
-				"fullName": "nsp",
-				"totalSize": 4442786
-			}
-		},
-		"slovak": {
-			"NPK": {
-				"fullName": "N\u00e1dej pre kazd\u00e9ho NT",
-				"totalSize": 1080637
-			}
-		},
-		"somali": {
-			"SOM": {
-				"fullName": "Somali Bible",
-				"totalSize": 3364032
-			}
-		},
-		"sorani": {
-			"KSS": {
-				"fullName": "Kurdi Sorani Standard",
-				"totalSize": 4326532
-			}
-		},
-		"spanish": {
-			"BLP": {
-				"fullName": "La Palabra (Espa\u00f1a)",
-				"totalSize": 3365764
-			},
-			"BLPH": {
-				"fullName": "La Palabra (Hispanoam\u00e9rica)",
-				"totalSize": 3359920
-			},
-			"CST": {
-				"fullName": "Nueva Versi\u00f3n Internacional (Castilian)",
-				"totalSize": 3349080
-			},
-			"DHH": {
-				"fullName": "Dios Habla Hoy",
-				"totalSize": 3336887
-			},
-			"JBS": {
-				"fullName": "Biblia del Jubileo",
-				"totalSize": 3083624
-			},
-			"LBLA": {
-				"fullName": "La Biblia de las Am\u00e9ricas",
-				"totalSize": 3223979
-			},
-			"NBLA": {
-				"fullName": "Nueva Biblia de las Am\u00e9ricas",
-				"totalSize": 3267865
-			},
-			"RVA": {
-				"fullName": "Reina-Valera Antigua",
-				"totalSize": 3126559
-			},
-			"RVA-2015": {
-				"fullName": "Reina Valera Actualizada",
-				"totalSize": 3250637
-			},
-			"RVC": {
-				"fullName": "Reina Valera Contempor\u00e1nea",
-				"totalSize": 3344073
-			},
-			"RVR1960": {
-				"fullName": "Reina-Valera 1960",
-				"totalSize": 3154310
-			},
-			"RVR1977": {
-				"fullName": "Reina Valera Revisada",
-				"totalSize": 3209644
-			},
-			"RVR1995": {
-				"fullName": "Reina-Valera 1995",
-				"totalSize": 3215350
-			},
-			"TLA": {
-				"fullName": "Traducci\u00f3n en lenguaje actual",
-				"totalSize": 3427063
-			},
-			"nbv": {
-				"fullName": "Nueva Biblia Viva",
-				"totalSize": 3478939
-			},
-			"ntv": {
-				"fullName": "Nueva Traducci\u00f3n Viviente",
-				"totalSize": 3546591
-			},
-			"nvi": {
-				"fullName": "Nueva Versi\u00f3n Internacional",
-				"totalSize": 3344824
-			},
-			"pdt": {
-				"fullName": "Palabra de Dios para Todos",
-				"totalSize": 3378432
-			},
-			"rv1909": {
-				"fullName": "Reina Valera 1909",
-				"totalSize": 3121180
-			},
-			"sse1569": {
-				"fullName": "Sagradas Escrituras 1569",
-				"totalSize": 3158728
-			}
-		},
-		"swahili": {
-			"SNT": {
-				"fullName": "Neno: Bibilia Takatifu NT",
-				"totalSize": 931499
-			},
-			"TKU": {
-				"fullName": "Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi NT",
-				"totalSize": 1027489
-			}
-		},
-		"swedish": {
-			"NUB": {
-				"fullName": "nuBibeln (Swedish Contemporary Bible)",
-				"totalSize": 3251169
-			},
-			"SFB": {
-				"fullName": "Svenska Folkbibeln",
-				"totalSize": 3224132
-			},
-			"SV1917": {
-				"fullName": "Svenska 1917",
-				"totalSize": 3410866
-			},
-			"SVL": {
-				"fullName": "Swedish New Living Bible (Nya Levande Bibeln)",
-				"totalSize": 3420382
-			},
-			"sfb15": {
-				"fullName": "sfb15",
-				"totalSize": 3157960
-			}
-		},
-		"tagalog": {
-			"ABTAG1978": {
-				"fullName": "Ang Biblia (1978)",
-				"totalSize": 3190181
-			},
-			"ASND": {
-				"fullName": "Ang Salita ng Dios (Tagalog Contemporary Bible)",
-				"totalSize": 3173571
-			},
-			"FSV": {
-				"fullName": "Ang Bagong Tipan: Filipino Standard Version",
-				"totalSize": 968150
-			},
-			"MBBTAG": {
-				"fullName": "Magandang Balita Biblia",
-				"totalSize": 3185765
-			},
-			"SND": {
-				"fullName": "Ang Salita ng Diyos NT",
-				"totalSize": 3146150
-			},
-			"abtag2001": {
-				"fullName": "abtag2001",
-				"totalSize": 3226404
-			},
-			"adb1905": {
-				"fullName": "Ang Dating Biblia 1905",
-				"totalSize": 3123413
-			}
-		},
-		"tamil": {
-			"ERVTA": {
-				"fullName": "Tamil Bible: Easy-to-Read Version",
-				"totalSize": 5864760
-			}
-		},
-		"thai": {
-			"ERVTH": {
-				"fullName": "Thai New Testament: Easy-to-Read Version",
-				"totalSize": 5143283
-			},
-			"NTVBIBLE": {
-				"fullName": "New Thai Version",
-				"totalSize": 4796202
-			},
-			"tkjv": {
-				"fullName": "Thai King James Version",
-				"totalSize": 4809774
-			},
-			"tncv": {
-				"fullName": "TNCV",
-				"totalSize": 4738439
-			}
-		},
-		"twi": {
-			"NATWI": {
-				"fullName": "Nkwa Asem NT",
-				"totalSize": 1088908
-			}
-		},
-		"ukrainian": {
-			"ERVUK": {
-				"fullName": "Ukrainian New Testament: Easy-to-Read Version",
-				"totalSize": 5033692
-			},
-			"UKR": {
-				"fullName": "Ukrainian Bible",
-				"totalSize": 4502468
-			}
-		},
-		"vietnamese": {
-			"vietnamese": {
-				"fullName": "Vietnamese Bible",
-				"totalSize": 3617617
-			}
-		},
-		"welsh": {
-			"BWM": {
-				"fullName": "Beibl William Morgan",
-				"totalSize": 3098616
-			}
-		},
-		"xhosa": {
-			"xhosa": {
-				"fullName": "Xhosa Bible",
-				"totalSize": 3030331
-			}
-		}
-	}
+    "items": {
+        "albanian": {
+            "albanian": {
+                "fullName": "Albanian Bible",
+                "totalSize": 3441360
+            }
+        },
+        "arabic": {
+            "NAV": {
+                "fullName": "Ketab El Hayat",
+                "totalSize": 5355830
+            },
+            "arabicsv": {
+                "fullName": "Arabic Smith and Van Dyke",
+                "totalSize": 3307627
+            },
+            "ervar": {
+                "fullName": "Arabic Easy-To-Read-Version",
+                "totalSize": 5324889
+            }
+        },
+        "awadhi": {
+            "ERVAWA": {
+                "fullName": "Easy to Read Version Awadhi",
+                "totalSize": 5303275
+            }
+        },
+        "bulgarian": {
+            "BG1940": {
+                "fullName": "1940 Bulgarian Bible",
+                "totalSize": 4416082
+            },
+            "BOB": {
+                "fullName": "Bulgarian Orthodox Bible",
+                "totalSize": 4350169
+            },
+            "BPB": {
+                "fullName": "Bulgarian Protestant Revised Bible",
+                "totalSize": 4510098
+            },
+            "BULG": {
+                "fullName": "Bulgarian Bible",
+                "totalSize": 4435962
+            },
+            "CBT": {
+                "fullName": "Contemporary Bulgarian Translation",
+                "totalSize": 4568976
+            },
+            "ERVBG": {
+                "fullName": "Easy to Read Version Bulgarian",
+                "totalSize": 1349356
+            }
+        },
+        "cebuano": {
+            "APSD-CEB": {
+                "fullName": "ANG PULONG SA DIOS CEBUANO New Testament",
+                "totalSize": 993266
+            },
+            "cebuano": {
+                "fullName": "Cebuano ",
+                "totalSize": 3099313
+            }
+        },
+        "chhattisgarhi": {
+            "NCA": {
+                "fullName": "New Chhattisgarhi Translation New Testament",
+                "totalSize": 1308272
+            }
+        },
+        "chichewa": {
+            "CCL": {
+                "fullName": "Mawu a Mulungu mu Chichewa Chalero",
+                "totalSize": 3106863
+            }
+        },
+        "chinanteco": {
+            "CCO": {
+                "fullName": "Chinanteco de Comaltepec New Testament",
+                "totalSize": 1610182
+            }
+        },
+        "chinese": {
+            "ccb": {
+                "fullName": "Chinese Contemporary Bible Simplified",
+                "totalSize": 3274225
+            },
+            "ccbt": {
+                "fullName": "Chinese Contemporary Bible Traditional",
+                "totalSize": 3288423
+            },
+            "cns": {
+                "fullName": "Chinese New Simplified",
+                "totalSize": 3439434
+            },
+            "cnt": {
+                "fullName": "Chinese New Traditional",
+                "totalSize": 3514634
+            },
+            "cus": {
+                "fullName": "Chinese Union Simplified",
+                "totalSize": 3285471
+            },
+            "cut": {
+                "fullName": "Chinese Union Traditional",
+                "totalSize": 3291343
+            }
+        },
+        "croatian": {
+            "CRO": {
+                "fullName": " KNIJGA O KRISTU",
+                "totalSize": 953995
+            },
+            "HNZRI": {
+                "fullName": "Hrvatski Novi Zavjet - Rijeka 2001 NT",
+                "totalSize": 924851
+            },
+            "shp": {
+                "fullName": "SHP",
+                "totalSize": 3284570
+            }
+        },
+        "czech": {
+            "b21": {
+                "fullName": "B21",
+                "totalSize": 3454184
+            },
+            "bkr": {
+                "fullName": "Czech BKR",
+                "totalSize": 3492046
+            },
+            "cep": {
+                "fullName": "Czech CEP",
+                "totalSize": 3467619
+            },
+            "kms": {
+                "fullName": "Czech KMS",
+                "totalSize": 975729
+            }
+        },
+        "danish": {
+            "danish": {
+                "fullName": "Danish Bible",
+                "totalSize": 3059814
+            }
+        },
+        "dutch": {
+            "bb": {
+                "fullName": "BasisBijbel",
+                "totalSize": 3305639
+            },
+            "htb": {
+                "fullName": "Het Boek",
+                "totalSize": 3433726
+            },
+            "statenvertaling": {
+                "fullName": "Dutch Staten Vertaling",
+                "totalSize": 3187752
+            }
+        },
+        "english": {
+            "AKJV": {
+                "fullName": "Authorized King James Version",
+                "totalSize": 3015829
+            },
+            "AMP": {
+                "fullName": "Amplified Bible",
+                "totalSize": 3751979
+            },
+            "AMPC": {
+                "fullName": "Amplified Bible Classic Edition",
+                "totalSize": 3673072
+            },
+            "ASV": {
+                "fullName": "American Standard Version",
+                "totalSize": 3016701
+            },
+            "CEB": {
+                "fullName": "Common English Bible",
+                "totalSize": 3119072
+            },
+            "CEV": {
+                "fullName": "Contemporary English Version",
+                "totalSize": 2973459
+            },
+            "CJB": {
+                "fullName": "Complete Jewish Bible",
+                "totalSize": 3226841
+            },
+            "CSB": {
+                "fullName": "Christian Standard Bible",
+                "totalSize": 3087543
+            },
+            "DLNT": {
+                "fullName": "Disciples Literal New Testament",
+                "totalSize": 1025714
+            },
+            "DRA": {
+                "fullName": "Douay-Rheims 1899 American Edition",
+                "totalSize": 2968861
+            },
+            "EHV": {
+                "fullName": "Evangelical Heritage Version",
+                "totalSize": 3226422
+            },
+            "ERV": {
+                "fullName": "Easy-to-Read Version",
+                "totalSize": 3280650
+            },
+            "ESV": {
+                "fullName": "English Standard Version",
+                "totalSize": 3046547
+            },
+            "ESVUK": {
+                "fullName": "English Standard Version Anglicised",
+                "totalSize": 3048075
+            },
+            "EXB": {
+                "fullName": "Expanded Bible",
+                "totalSize": 4556619
+            },
+            "GNT": {
+                "fullName": "Good News Translation",
+                "totalSize": 3107117
+            },
+            "GNV": {
+                "fullName": "1599 Geneva Bible",
+                "totalSize": 3195006
+            },
+            "GW": {
+                "fullName": "GOD'S WORD Translation",
+                "totalSize": 3126111
+            },
+            "HCSB": {
+                "fullName": "Holman Christian Standard Bible",
+                "totalSize": 3094424
+            },
+            "ISV": {
+                "fullName": "International Standard Version",
+                "totalSize": 3309001
+            },
+            "JUB": {
+                "fullName": "Jubilee Bible 2000",
+                "totalSize": 3029596
+            },
+            "KJ21": {
+                "fullName": "21st Century King James Version",
+                "totalSize": 3066393
+            },
+            "LEB": {
+                "fullName": "Lexham English Bible",
+                "totalSize": 3113321
+            },
+            "MEV": {
+                "fullName": "Modern English Version",
+                "totalSize": 3069473
+            },
+            "MOUNCE": {
+                "fullName": "Mounce Reverse Interlinear New Testament",
+                "totalSize": 924490
+            },
+            "MSG": {
+                "fullName": "The Message",
+                "totalSize": 4030500
+            },
+            "NABRE": {
+                "fullName": "New American Bible Revised Edition",
+                "totalSize": 3119715
+            },
+            "NASB": {
+                "fullName": "New American Standard Bible",
+                "totalSize": 3179207
+            },
+            "NASB1995": {
+                "fullName": "New American Standard Bible 1995",
+                "totalSize": 3152025
+            },
+            "NCB": {
+                "fullName": "New Catholic Bible",
+                "totalSize": 3271694
+            },
+            "NCV": {
+                "fullName": "New Century Version",
+                "totalSize": 3069313
+            },
+            "NIRV": {
+                "fullName": "New International Reader's Version",
+                "totalSize": 3296486
+            },
+            "NIVUK": {
+                "fullName": "New International Version - UK",
+                "totalSize": 3078607
+            },
+            "NKJV": {
+                "fullName": "New King James Version",
+                "totalSize": 3126434
+            },
+            "NLT": {
+                "fullName": "New Living Translation",
+                "totalSize": 3260483
+            },
+            "NLV": {
+                "fullName": "New Life Version",
+                "totalSize": 2990838
+            },
+            "NMB": {
+                "fullName": "New Matthew Bible",
+                "totalSize": 924523
+            },
+            "NRSV": {
+                "fullName": "New Revised Standard Version",
+                "totalSize": 3084027
+            },
+            "NRSVA": {
+                "fullName": "New Revised Standard Version, Anglicised",
+                "totalSize": 3086628
+            },
+            "NRSVACE": {
+                "fullName": "New Revised Standard Version, Anglicised Catholic Edition",
+                "totalSize": 3096793
+            },
+            "NRSVCE": {
+                "fullName": "New Revised Standard Version Catholic Edition",
+                "totalSize": 3089873
+            },
+            "NTE": {
+                "fullName": "New Testament for Everyone",
+                "totalSize": 996278
+            },
+            "OJB": {
+                "fullName": "Orthodox Jewish Bible",
+                "totalSize": 3673242
+            },
+            "PHILLIPS": {
+                "fullName": "J.B. Phillips New Testament",
+                "totalSize": 1237974
+            },
+            "RGT": {
+                "fullName": "Revised Geneva Translation",
+                "totalSize": 905822
+            },
+            "RSV": {
+                "fullName": "Revised Standard Version",
+                "totalSize": 3071103
+            },
+            "RSVCE": {
+                "fullName": "Revised Standard Version Catholic Edition",
+                "totalSize": 3086173
+            },
+            "TLB": {
+                "fullName": "Living Bible",
+                "totalSize": 3308060
+            },
+            "TLV": {
+                "fullName": "Tree of Life Version",
+                "totalSize": 3123861
+            },
+            "VOICE": {
+                "fullName": "The Voice",
+                "totalSize": 4289497
+            },
+            "WE": {
+                "fullName": "Worldwide English (New Testament)",
+                "totalSize": 908505
+            },
+            "WEB": {
+                "fullName": "World English Bible",
+                "totalSize": 2990881
+            },
+            "WYC": {
+                "fullName": "Wycliffe Bible",
+                "totalSize": 4437274
+            },
+            "icb": {
+                "fullName": "International Children's Bible",
+                "totalSize": 3142947
+            },
+            "kjv": {
+                "fullName": "King James Version",
+                "totalSize": 3004606
+            },
+            "niv": {
+                "fullName": "New International Version",
+                "totalSize": 3079627
+            },
+            "ylt": {
+                "fullName": "Young's Literal Translation",
+                "totalSize": 3131354
+            }
+        },
+        "esperanto": {
+            "esperanto": {
+                "fullName": "Esperanto Bible",
+                "totalSize": 2898372
+            }
+        },
+        "finnish": {
+            "R1933": {
+                "fullName": "Raamattu 1933",
+                "totalSize": 3347122
+            },
+            "finnish1776": {
+                "fullName": "Finnish Bible 1776",
+                "totalSize": 3282208
+            },
+            "pyharaamattu1933": {
+                "fullName": "Pyha Raamattu 1933-1938",
+                "totalSize": 3359890
+            },
+            "pyharaamattu1992": {
+                "fullName": "Pyha Raamattu 1992",
+                "totalSize": 3457196
+            }
+        },
+        "french": {
+            "BDS": {
+                "fullName": "La Bible du Semeur",
+                "totalSize": 3826888
+            },
+            "NEG1979": {
+                "fullName": "Nouvelle Edition de Gen\u00e8ve - NEG1979",
+                "totalSize": 3336053
+            },
+            "SG21": {
+                "fullName": "Segond 21",
+                "totalSize": 3462818
+            },
+            "darby": {
+                "fullName": "Darby Bible",
+                "totalSize": 3258493
+            },
+            "ls1910": {
+                "fullName": "Louis Segond 1910",
+                "totalSize": 3252167
+            },
+            "ostervald1996": {
+                "fullName": "Ostervald 1996 ",
+                "totalSize": 3300025
+            }
+        },
+        "german": {
+            "REIMER": {
+                "fullName": "Low German Plautdietsch REIMER 2001",
+                "totalSize": 1182531
+            },
+            "elberfelder1871": {
+                "fullName": "Elberfelder 1871",
+                "totalSize": 3572620
+            },
+            "elberfelder1905": {
+                "fullName": "Elberfelder 1905",
+                "totalSize": 3307588
+            },
+            "luther1545": {
+                "fullName": "Luther 1545",
+                "totalSize": 3111134
+            },
+            "luther1912": {
+                "fullName": "Luther 1912",
+                "totalSize": 3207152
+            },
+            "sch2000": {
+                "fullName": "SCH2000",
+                "totalSize": 3475445
+            },
+            "schlachter1951": {
+                "fullName": "Schlachter 1951",
+                "totalSize": 3374963
+            }
+        },
+        "greek": {
+            "SBLGNT": {
+                "fullName": "SBL Greek New Testament",
+                "totalSize": 1378811
+            },
+            "THGNT": {
+                "fullName": "Tyndale House Greek New Testament",
+                "totalSize": 1374654
+            },
+            "TR1550": {
+                "fullName": "1550 Stephanus New Testament",
+                "totalSize": 1177110
+            },
+            "TR1894": {
+                "fullName": "1894 Scrivener New Testament",
+                "totalSize": 1176015
+            },
+            "WHNU": {
+                "fullName": "1881 Westcott-Hort New Testament",
+                "totalSize": 1167318
+            },
+            "moderngreek": {
+                "fullName": "Modern Greek",
+                "totalSize": 4764904
+            }
+        },
+        "gujarati": {
+            "GERV": {
+                "fullName": "Gujarati Easy to Read Version",
+                "totalSize": 5251473
+            }
+        },
+        "haitian": {
+            "HCV": {
+                "fullName": "Haitian Creole Version",
+                "totalSize": 3198772
+            },
+            "VKF": {
+                "fullName": "Nouvo Testaman: V\u00e8syon Krey\u00f2l Fasil",
+                "totalSize": 999650
+            }
+        },
+        "hawaii": {
+            "HWP": {
+                "fullName": "Hawaii Pidgin",
+                "totalSize": 1039070
+            }
+        },
+        "hebrew": {
+            "HHH": {
+                "fullName": "Habrit Hakhadasha/Haderekh",
+                "totalSize": 1153102
+            },
+            "WLC": {
+                "fullName": "The Westminster Leningrad Codex ",
+                "totalSize": 4254544
+            },
+            "modernhebrew": {
+                "fullName": "Modern Hebrew Bible",
+                "totalSize": 2881512
+            }
+        },
+        "hindi": {
+            "ervhi": {
+                "fullName": "Hindi Easy-To-Read-Version",
+                "totalSize": 5447293
+            }
+        },
+        "hungarian": {
+            "ERVHU": {
+                "fullName": "Easy to Read Hungarian",
+                "totalSize": 4092733
+            },
+            "KAR": {
+                "fullName": "Karoli",
+                "totalSize": 3563201
+            },
+            "karoli": {
+                "fullName": "Hungarian Karoli Bible",
+                "totalSize": 3553982
+            },
+            "nt-hu": {
+                "fullName": "NT-HU",
+                "totalSize": 3524359
+            }
+        },
+        "icelandic": {
+            "ICELAND": {
+                "fullName": "Icelandic Bible",
+                "totalSize": 3574096
+            }
+        },
+        "ilonggo": {
+            "hlgn": {
+                "fullName": "HLGN",
+                "totalSize": 3160317
+            }
+        },
+        "italian": {
+            "BDG": {
+                "fullName": "La Bibbia della Gioia NT",
+                "totalSize": 1102287
+            },
+            "CEI": {
+                "fullName": "Conferenza Episcopale Italiana",
+                "totalSize": 3254282
+            },
+            "LND": {
+                "fullName": "La Nuova Diodati",
+                "totalSize": 3225579
+            },
+            "NR1994": {
+                "fullName": "Nuova Riveduta 1994",
+                "totalSize": 3308380
+            },
+            "giovanni1649": {
+                "fullName": "Giovanni Diodati Bible 1649",
+                "totalSize": 3276900
+            },
+            "nr2006": {
+                "fullName": "NR2006",
+                "totalSize": 3286916
+            },
+            "rb": {
+                "fullName": "Riveduta Bible",
+                "totalSize": 3285865
+            },
+            "riveduta1927": {
+                "fullName": "Riveduta Bible 1927",
+                "totalSize": 3287626
+            }
+        },
+        "jakaltek": {
+            "JAC": {
+                "fullName": "Jacalteco New Testament",
+                "totalSize": 1139521
+            }
+        },
+        "japanese": {
+            "jlb": {
+                "fullName": "Japanese Living Bible",
+                "totalSize": 4409006
+            }
+        },
+        "kaqchikel": {
+            "CKW": {
+                "fullName": "Kaqchikel New Testament",
+                "totalSize": 1314320
+            }
+        },
+        "kekchi": {
+            "KEK": {
+                "fullName": "Kekchi New Testament",
+                "totalSize": 1118473
+            }
+        },
+        "korean": {
+            "klb": {
+                "fullName": "KLB",
+                "totalSize": 3792741
+            },
+            "korean": {
+                "fullName": "Korean Bible",
+                "totalSize": 3486951
+            }
+        },
+        "latin": {
+            "VULGATE": {
+                "fullName": "Biblia Sacra Vulgata",
+                "totalSize": 2929648
+            }
+        },
+        "luganda": {
+            "LCB": {
+                "fullName": "Endagaano Enkadde n\u02bcEndagaano Empya",
+                "totalSize": 3219499
+            }
+        },
+        "macedonian": {
+            "MNT": {
+                "fullName": "Macedonian New Testament",
+                "totalSize": 1437031
+            }
+        },
+        "mam": {
+            "MVC": {
+                "fullName": "Mam Central New Testament",
+                "totalSize": 1162866
+            },
+            "MVJ": {
+                "fullName": "Mam Todos Santos New Testament",
+                "totalSize": 1246271
+            }
+        },
+        "maori": {
+            "maori": {
+                "fullName": "Maori Bible",
+                "totalSize": 2920807
+            }
+        },
+        "marathi": {
+            "ERVMR": {
+                "fullName": "Easy to Read Version Marathi",
+                "totalSize": 5387178
+            }
+        },
+        "nahuatl": {
+            "NGU": {
+                "fullName": "N\u00e1huatl de Guerrero New Testament",
+                "totalSize": 1058387
+            }
+        },
+        "nepali": {
+            "ERVNE": {
+                "fullName": "Easy to Read Version Nepali",
+                "totalSize": 5512490
+            },
+            "ne": {
+                "fullName": "NE",
+                "totalSize": 180866
+            }
+        },
+        "norwegian": {
+            "LB": {
+                "fullName": "En Levende Bok NT",
+                "totalSize": 1077985
+            },
+            "dnb1930": {
+                "fullName": "DNB1930",
+                "totalSize": 3010286
+            }
+        },
+        "oriya": {
+            "ERVOR": {
+                "fullName": "Easy to Read Version Oriya",
+                "totalSize": 5355621
+            }
+        },
+        "pipil": {
+            "NBTN": {
+                "fullName": "Ne Bibliaj Tik Nawat New Testament",
+                "totalSize": 849463
+            }
+        },
+        "polish": {
+            "NP": {
+                "fullName": "Nowe Przymierze New Testament",
+                "totalSize": 1063757
+            },
+            "SZPL": {
+                "fullName": "S\u0142owo \u017bycia New Testament",
+                "totalSize": 1083621
+            },
+            "UBG": {
+                "fullName": "Updated Gda\u0144sk Bible New Testament",
+                "totalSize": 1228790
+            }
+        },
+        "portuguese": {
+            "ARC": {
+                "fullName": "Almeida Revista e Corrigida 2009",
+                "totalSize": 3148384
+            },
+            "NTLH": {
+                "fullName": "Nova Tradu\u04ab\u00e3o na Linguagem de Hoje 2000",
+                "totalSize": 3360378
+            },
+            "NVT": {
+                "fullName": "Nova Vers\u00e3o Transformadora",
+                "totalSize": 3287919
+            },
+            "OL": {
+                "fullName": "O Livro",
+                "totalSize": 3605187
+            },
+            "VFL": {
+                "fullName": "Portuguese New Testament: Easy-to-Read Version",
+                "totalSize": 3360213
+            },
+            "almeida": {
+                "fullName": "Almeida Atualizada",
+                "totalSize": 3141247
+            },
+            "nvi-pt": {
+                "fullName": "NVI-PT",
+                "totalSize": 3250786
+            }
+        },
+        "punjabi": {
+            "ERVPA": {
+                "fullName": "Easy to Read Version Punjabi",
+                "totalSize": 5590760
+            }
+        },
+        "quiche": {
+            "QUT": {
+                "fullName": "Quiche New Testament",
+                "totalSize": 1166727
+            }
+        },
+        "quichua": {
+            "MTDS": {
+                "fullName": "Mushuj Testamento Diospaj Shimi NT",
+                "totalSize": 980748
+            }
+        },
+        "romanian": {
+            "cornilescu": {
+                "fullName": "Cornilescu",
+                "totalSize": 3412091
+            },
+            "ntlr": {
+                "fullName": "NTLR",
+                "totalSize": 3511980
+            },
+            "rmnn": {
+                "fullName": "RMNN",
+                "totalSize": 3436553
+            }
+        },
+        "russian": {
+            "CARS": {
+                "fullName": "Central Asian Russian Scriptures",
+                "totalSize": 4658491
+            },
+            "CARSA": {
+                "fullName": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0435 \u041f\u0438\u0441\u0430\u043d\u0438\u0435 (\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434), \u0432\u0435\u0440\u0441\u0438\u044f \u0441 \u00ab\u0410\u043b\u043b\u0430\u0445\u043e\u043c\u00bb",
+                "totalSize": 4655756
+            },
+            "CARST": {
+                "fullName": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0435 \u041f\u0438\u0441\u0430\u043d\u0438\u0435 (\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434), \u0432\u0435\u0440\u0441\u0438\u044f \u0434\u043b\u044f \u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d\u0430",
+                "totalSize": 4657170
+            },
+            "ERVRU": {
+                "fullName": "Russian New Testament: Easy-to-Read Version",
+                "totalSize": 5096269
+            },
+            "nrt": {
+                "fullName": "NRT",
+                "totalSize": 4591203
+            },
+            "rst1876": {
+                "fullName": "Russian Synodal Translation 1876",
+                "totalSize": 4419370
+            }
+        },
+        "serbian": {
+            "ERVSR": {
+                "fullName": "Serbian New Testament: Easy-to-Read Version",
+                "totalSize": 4370623
+            },
+            "nsp": {
+                "fullName": "nsp",
+                "totalSize": 4442786
+            }
+        },
+        "slovak": {
+            "NPK": {
+                "fullName": "N\u00e1dej pre kazd\u00e9ho NT",
+                "totalSize": 1080637
+            }
+        },
+        "somali": {
+            "SOM": {
+                "fullName": "Somali Bible",
+                "totalSize": 3364032
+            }
+        },
+        "sorani": {
+            "KSS": {
+                "fullName": "Kurdi Sorani Standard",
+                "totalSize": 4326532
+            }
+        },
+        "spanish": {
+            "BLP": {
+                "fullName": "La Palabra (Espa\u00f1a)",
+                "totalSize": 3365764
+            },
+            "BLPH": {
+                "fullName": "La Palabra (Hispanoam\u00e9rica)",
+                "totalSize": 3359920
+            },
+            "CST": {
+                "fullName": "Nueva Versi\u00f3n Internacional (Castilian)",
+                "totalSize": 3349080
+            },
+            "DHH": {
+                "fullName": "Dios Habla Hoy",
+                "totalSize": 3336887
+            },
+            "JBS": {
+                "fullName": "Biblia del Jubileo",
+                "totalSize": 3083624
+            },
+            "LBLA": {
+                "fullName": "La Biblia de las Am\u00e9ricas",
+                "totalSize": 3223979
+            },
+            "NBLA": {
+                "fullName": "Nueva Biblia de las Am\u00e9ricas",
+                "totalSize": 3267865
+            },
+            "RVA": {
+                "fullName": "Reina-Valera Antigua",
+                "totalSize": 3126559
+            },
+            "RVA-2015": {
+                "fullName": "Reina Valera Actualizada",
+                "totalSize": 3250637
+            },
+            "RVC": {
+                "fullName": "Reina Valera Contempor\u00e1nea",
+                "totalSize": 3344073
+            },
+            "RVR1960": {
+                "fullName": "Reina-Valera 1960",
+                "totalSize": 3154310
+            },
+            "RVR1977": {
+                "fullName": "Reina Valera Revisada",
+                "totalSize": 3209644
+            },
+            "RVR1995": {
+                "fullName": "Reina-Valera 1995",
+                "totalSize": 3215350
+            },
+            "TLA": {
+                "fullName": "Traducci\u00f3n en lenguaje actual",
+                "totalSize": 3427063
+            },
+            "nbv": {
+                "fullName": "Nueva Biblia Viva",
+                "totalSize": 3478939
+            },
+            "ntv": {
+                "fullName": "Nueva Traducci\u00f3n Viviente",
+                "totalSize": 3546591
+            },
+            "nvi": {
+                "fullName": "Nueva Versi\u00f3n Internacional",
+                "totalSize": 3344824
+            },
+            "pdt": {
+                "fullName": "Palabra de Dios para Todos",
+                "totalSize": 3378432
+            },
+            "rv1909": {
+                "fullName": "Reina Valera 1909",
+                "totalSize": 3121180
+            },
+            "sse1569": {
+                "fullName": "Sagradas Escrituras 1569",
+                "totalSize": 3158728
+            }
+        },
+        "swahili": {
+            "SNT": {
+                "fullName": "Neno: Bibilia Takatifu NT",
+                "totalSize": 931499
+            },
+            "TKU": {
+                "fullName": "Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi NT",
+                "totalSize": 1027489
+            }
+        },
+        "swedish": {
+            "NUB": {
+                "fullName": "nuBibeln (Swedish Contemporary Bible)",
+                "totalSize": 3251169
+            },
+            "SFB": {
+                "fullName": "Svenska Folkbibeln",
+                "totalSize": 3224132
+            },
+            "SV1917": {
+                "fullName": "Svenska 1917",
+                "totalSize": 3410866
+            },
+            "SVL": {
+                "fullName": "Swedish New Living Bible (Nya Levande Bibeln)",
+                "totalSize": 3420382
+            },
+            "sfb15": {
+                "fullName": "sfb15",
+                "totalSize": 3157960
+            }
+        },
+        "tagalog": {
+            "ABTAG1978": {
+                "fullName": "Ang Biblia (1978)",
+                "totalSize": 3190181
+            },
+            "ASND": {
+                "fullName": "Ang Salita ng Dios (Tagalog Contemporary Bible)",
+                "totalSize": 3173571
+            },
+            "FSV": {
+                "fullName": "Ang Bagong Tipan: Filipino Standard Version",
+                "totalSize": 968150
+            },
+            "MBBTAG": {
+                "fullName": "Magandang Balita Biblia",
+                "totalSize": 3185765
+            },
+            "SND": {
+                "fullName": "Ang Salita ng Diyos NT",
+                "totalSize": 3146150
+            },
+            "abtag2001": {
+                "fullName": "abtag2001",
+                "totalSize": 3226404
+            },
+            "adb1905": {
+                "fullName": "Ang Dating Biblia 1905",
+                "totalSize": 3123413
+            }
+        },
+        "tamil": {
+            "ERVTA": {
+                "fullName": "Tamil Bible: Easy-to-Read Version",
+                "totalSize": 5864760
+            }
+        },
+        "thai": {
+            "ERVTH": {
+                "fullName": "Thai New Testament: Easy-to-Read Version",
+                "totalSize": 5143283
+            },
+            "NTVBIBLE": {
+                "fullName": "New Thai Version",
+                "totalSize": 4796202
+            },
+            "tkjv": {
+                "fullName": "Thai King James Version",
+                "totalSize": 4809774
+            },
+            "tncv": {
+                "fullName": "TNCV",
+                "totalSize": 4738439
+            }
+        },
+        "twi": {
+            "NATWI": {
+                "fullName": "Nkwa Asem NT",
+                "totalSize": 1088908
+            }
+        },
+        "ukrainian": {
+            "ERVUK": {
+                "fullName": "Ukrainian New Testament: Easy-to-Read Version",
+                "totalSize": 5033692
+            },
+            "UKR": {
+                "fullName": "Ukrainian Bible",
+                "totalSize": 4502468
+            }
+        },
+        "vietnamese": {
+            "vietnamese": {
+                "fullName": "Vietnamese Bible",
+                "totalSize": 3617617
+            }
+        },
+        "welsh": {
+            "BWM": {
+                "fullName": "Beibl William Morgan",
+                "totalSize": 3098616
+            }
+        },
+        "xhosa": {
+            "xhosa": {
+                "fullName": "Xhosa Bible",
+                "totalSize": 3030331
+            }
+        }
+    }
 }
