@@ -1,6 +1,5 @@
 {
     "items": {
-
         "albanian": {
             "albanian": {
                 "fullName": "Albanian Bible",
@@ -535,6 +534,10 @@
             "ervhi": {
                 "fullName": "Hindi Easy-To-Read-Version",
                 "totalSize": 5447293
+            },
+            "hb": {
+                "fullName": "Hindi Bible",
+                "totalSize": 4560191
             }
         },
         "hungarian": {
@@ -565,6 +568,12 @@
             "hlgn": {
                 "fullName": "HLGN",
                 "totalSize": 3160317
+            }
+        },
+        "indonesian": {
+            "bis": {
+                "fullName": "Bahasa Indonesia Sehari-hari",
+                "totalSize": 3150258
             }
         },
         "italian": {
@@ -608,6 +617,10 @@
             }
         },
         "japanese": {
+            "JKY": {
+                "fullName": "Japanese Kougo-yaku Colloquial",
+                "totalSize": 3769865
+            },
             "jlb": {
                 "fullName": "Japanese Living Bible",
                 "totalSize": 4409006
@@ -626,6 +639,10 @@
             }
         },
         "korean": {
+            "KRV": {
+                "fullName": "Korean Revised Version",
+                "totalSize": 3482534
+            },
             "klb": {
                 "fullName": "KLB",
                 "totalSize": 3792741
