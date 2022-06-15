@@ -1,5 +1,27 @@
 {
     "items": {
+        "afrikaans": {
+            "ABA": {
+                "fullName": "Bybel vir almal",
+                "totalSize": 3204454
+            },
+            "AFR53": {
+                "fullName": "Afrikaans 1933/1953",
+                "totalSize": 3079811
+            },
+            "AFR83": {
+                "fullName": "afrikaans 1983",
+                "totalSize": 3186162
+            },
+            "DB": {
+                "fullName": "Die Boodskap",
+                "totalSize": 3871777
+            },
+            "NLV": {
+                "fullName": "Nuwe Lewende Vertaling",
+                "totalSize": 2990838
+            }
+        },
         "albanian": {
             "albanian": {
                 "fullName": "Albanian Bible",
@@ -632,6 +654,12 @@
                 "totalSize": 4409006
             }
         },
+        "kannada": {
+            "KAN": {
+                "fullName": "Kannada Bible",
+                "totalSize": 4819343
+            }
+        },
         "kaqchikel": {
             "CKW": {
                 "fullName": "Kaqchikel New Testament",
@@ -740,6 +768,10 @@
             "NP": {
                 "fullName": "Nowe Przymierze New Testament",
                 "totalSize": 1063757
+            },
+            "POG": {
+                "fullName": "Polish Gdansk Bible 1881",
+                "totalSize": 3397196
             },
             "SZPL": {
                 "fullName": "S\u0142owo \u017bycia New Testament",
@@ -852,6 +884,12 @@
             "NPK": {
                 "fullName": "N\u00e1dej pre kazd\u00e9ho NT",
                 "totalSize": 1080637
+            }
+        },
+        "slovenian": {
+            "SLV": {
+                "fullName": "Slovene King James Bible 1769",
+                "totalSize": 3160794
             }
         },
         "somali": {
@@ -1052,6 +1090,12 @@
             "UKR": {
                 "fullName": "Ukrainian Bible",
                 "totalSize": 4502468
+            }
+        },
+        "urdu": {
+            "URD": {
+                "fullName": "Urdu Bible, Devanagari",
+                "totalSize": 4575205
             }
         },
         "vietnamese": {
