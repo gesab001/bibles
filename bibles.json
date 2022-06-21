@@ -135,6 +135,10 @@
             }
         },
         "croatian": {
+            "CB": {
+                "fullName": "Croatian Bible",
+                "totalSize": 3136047
+            },
             "CRO": {
                 "fullName": " KNIJGA O KRISTU",
                 "totalSize": 953995
@@ -692,6 +696,12 @@
                 "totalSize": 2929648
             }
         },
+        "latvian": {
+            "LAV": {
+                "fullName": "Latvian Gl\u00fcck Bible 8th edition",
+                "totalSize": 3257998
+            }
+        },
         "luganda": {
             "LCB": {
                 "fullName": "Endagaano Enkadde n\u02bcEndagaano Empya",
@@ -874,6 +884,14 @@
             "ERVSR": {
                 "fullName": "Serbian New Testament: Easy-to-Read Version",
                 "totalSize": 4370623
+            },
+            "NSP": {
+                "fullName": "New Serbian Translation",
+                "totalSize": 4442786
+            },
+            "SKD": {
+                "fullName": "Serbian Bible, Karadzic/Danicic, Latin",
+                "totalSize": 2899010
             },
             "nsp": {
                 "fullName": "nsp",
@@ -1070,6 +1088,12 @@
             "tncv": {
                 "fullName": "TNCV",
                 "totalSize": 4738439
+            }
+        },
+        "turkish": {
+            "TUR": {
+                "fullName": "Turkish Bible",
+                "totalSize": 3211652
             }
         },
         "twi": {
