@@ -42,6 +42,16 @@
                 "totalSize": 5324889
             }
         },
+        "armenian": {
+            "ARE": {
+                "fullName": "Eastern Armenian Bible",
+                "totalSize": 1034926
+            },
+            "ARW": {
+                "fullName": "Western Armenian New Testament 1853",
+                "totalSize": 1260817
+            }
+        },
         "assamese": {
             "ASM": {
                 "fullName": "Assamese Bible",
@@ -52,6 +62,12 @@
             "ERVAWA": {
                 "fullName": "Easy to Read Version Awadhi",
                 "totalSize": 5303275
+            }
+        },
+        "bengali": {
+            "BEN": {
+                "fullName": "Bengali Bible, India",
+                "totalSize": 4555008
             }
         },
         "bulgarian": {
@@ -426,6 +442,20 @@
                 "totalSize": 2898372
             }
         },
+        "estonian": {
+            "EEP": {
+                "fullName": "Eesti Piibel",
+                "totalSize": 964075
+            },
+            "EP": {
+                "fullName": "Eestikeelne piibel",
+                "totalSize": 4643314
+            },
+            "PKEK": {
+                "fullName": "Puhakiri kaasaegses eesti keeles",
+                "totalSize": 924238
+            }
+        },
         "finnish": {
             "R1933": {
                 "fullName": "Raamattu 1933",
@@ -468,6 +498,16 @@
             "ostervald1996": {
                 "fullName": "Ostervald 1996 ",
                 "totalSize": 3300025
+            }
+        },
+        "georgian": {
+            "GBF": {
+                "fullName": "Georgian Bible Full Version",
+                "totalSize": 4251157
+            },
+            "GEO02": {
+                "fullName": "The Bible",
+                "totalSize": 4211123
             }
         },
         "german": {
@@ -768,6 +808,16 @@
                 "totalSize": 5355621
             }
         },
+        "persian": {
+            "NMV": {
+                "fullName": "New Mellinium Version",
+                "totalSize": 4394852
+            },
+            "PCB": {
+                "fullName": "Persian Contemporary Bible",
+                "totalSize": 4707847
+            }
+        },
         "pipil": {
             "NBTN": {
                 "fullName": "Ne Bibliaj Tik Nawat New Testament",
@@ -900,7 +950,7 @@
         },
         "slovak": {
             "NPK": {
-                "fullName": "N\u00e1dej pre kazd\u00e9ho NT",
+                "fullName": "N\\u00e1dej pre kazd\\u00e9ho NT",
                 "totalSize": 1080637
             }
         },
