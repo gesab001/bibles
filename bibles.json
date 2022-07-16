@@ -800,6 +800,10 @@
             "ERVMR": {
                 "fullName": "Easy to Read Version Marathi",
                 "totalSize": 5387178
+            },
+            "MAR": {
+                "fullName": "Marathi Bible",
+                "totalSize": 4936791
             }
         },
         "nahuatl": {
@@ -1150,6 +1154,16 @@
             "ERVTA": {
                 "fullName": "Tamil Bible: Easy-to-Read Version",
                 "totalSize": 5864760
+            },
+            "TAM": {
+                "fullName": "Tamil Bible",
+                "totalSize": 4892650
+            }
+        },
+        "telugu": {
+            "TEL": {
+                "fullName": "Telugu Bible",
+                "totalSize": 4792800
             }
         },
         "thai": {
