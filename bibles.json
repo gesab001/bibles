@@ -66,7 +66,7 @@
         },
         "bengali": {
             "BEN": {
-                "fullName": "Bengali Bible, India",
+                "fullName": "Bengali Bible",
                 "totalSize": 4555008
             }
         },
@@ -570,6 +570,10 @@
             "GERV": {
                 "fullName": "Gujarati Easy to Read Version",
                 "totalSize": 5251473
+            },
+            "GUJ": {
+                "fullName": "Gujarati Bible",
+                "totalSize": 4677899
             }
         },
         "haitian": {
@@ -742,6 +746,28 @@
                 "totalSize": 3257998
             }
         },
+        "lithuanian": {
+            "LBD": {
+                "fullName": "Biblija arba \u0160ventasis Ra\u0161tas",
+                "totalSize": 3376545
+            },
+            "LBDEKU": {
+                "fullName": "A. Rub\u0161io ir \u010c. Kavaliausko vertimas su Antrojo Kanono knygomis",
+                "totalSize": 3370775
+            },
+            "LBDKAN": {
+                "fullName": "A. Rub\u0161io ir \u010c. Kavaliausko vertimas be Antrojo Kanono knyg\u0173",
+                "totalSize": 3370723
+            },
+            "LTB": {
+                "fullName": "K. Burbulio vertimas",
+                "totalSize": 3100127
+            },
+            "LTZB": {
+                "fullName": "Biblija. Senasis Testamentas. Naujasis Testamentas",
+                "totalSize": 3097435
+            }
+        },
         "luganda": {
             "LCB": {
                 "fullName": "Endagaano Enkadde n\u02bcEndagaano Empya",
@@ -876,6 +902,10 @@
             "ERVPA": {
                 "fullName": "Easy to Read Version Punjabi",
                 "totalSize": 5590760
+            },
+            "PAN": {
+                "fullName": "Punjabi Bible",
+                "totalSize": 4523691
             }
         },
         "quiche": {
