@@ -44,11 +44,11 @@
         },
         "armenian": {
             "ARE": {
-                "fullName": "Eastern Armenian Bible",
+                "fullName": "Armenian Bible",
                 "totalSize": 1034926
             },
             "ARW": {
-                "fullName": "Western Armenian New Testament 1853",
+                "fullName": "Armenian Western Bible",
                 "totalSize": 1260817
             }
         },
@@ -452,7 +452,7 @@
                 "totalSize": 4643314
             },
             "PKEK": {
-                "fullName": "Puhakiri kaasaegses eesti keeles",
+                "fullName": "P\u00fchakiri kaasaegses eesti keeles\u2122",
                 "totalSize": 924238
             }
         },
@@ -606,6 +606,20 @@
                 "totalSize": 2881512
             }
         },
+        "hilayganon": {
+            "ABHIL82": {
+                "fullName": "Ang Biblia (1982)",
+                "totalSize": 3059167
+            },
+            "HLGN": {
+                "fullName": "Ang Pulong Sang Dios",
+                "totalSize": 3160317
+            },
+            "MBBHIL12": {
+                "fullName": "Maayong Balita nga Biblia",
+                "totalSize": 3159807
+            }
+        },
         "hindi": {
             "ervhi": {
                 "fullName": "Hindi Easy-To-Read-Version",
@@ -640,7 +654,17 @@
                 "totalSize": 3574096
             }
         },
+        "ilocano": {
+            "IOB": {
+                "fullName": "Ilocano Bible",
+                "totalSize": 3274710
+            }
+        },
         "ilonggo": {
+            "HLGN": {
+                "fullName": "Hilayganon Bible",
+                "totalSize": 3160317
+            },
             "hlgn": {
                 "fullName": "HLGN",
                 "totalSize": 3160317
@@ -714,6 +738,12 @@
                 "totalSize": 1314320
             }
         },
+        "kazakh": {
+            "KK210": {
+                "fullName": "\u041a\u0438\u0435\u043b\u0456 \u043a\u0456\u0442\u0430\u043f",
+                "totalSize": 5296920
+            }
+        },
         "kekchi": {
             "KEK": {
                 "fullName": "Kekchi New Testament",
@@ -780,6 +810,12 @@
                 "totalSize": 1437031
             }
         },
+        "malay": {
+            "BM": {
+                "fullName": "Alkitab Berita Baik",
+                "totalSize": 3095683
+            }
+        },
         "mam": {
             "MVC": {
                 "fullName": "Mam Central New Testament",
@@ -840,12 +876,20 @@
         },
         "persian": {
             "NMV": {
-                "fullName": "New Mellinium Version",
+                "fullName": "New Millennium Version",
                 "totalSize": 4394852
             },
             "PCB": {
                 "fullName": "Persian Contemporary Bible",
                 "totalSize": 4707847
+            },
+            "PES": {
+                "fullName": "Old Persion Version Bible",
+                "totalSize": 4078317
+            },
+            "TPV": {
+                "fullName": "Today's Persian Version",
+                "totalSize": 4483706
             }
         },
         "pipil": {
@@ -1090,7 +1134,7 @@
         },
         "swahili": {
             "SNT": {
-                "fullName": "Neno: Bibilia Takatifu NT",
+                "fullName": "Swahili New Testament",
                 "totalSize": 931499
             },
             "TKU": {
@@ -1216,10 +1260,26 @@
                 "totalSize": 4575205
             }
         },
+        "uzbekistan": {
+            "UZB": {
+                "fullName": "Uzbek Bible",
+                "totalSize": 4782183
+            },
+            "UZLBC": {
+                "fullName": "Muqaddas Kitob",
+                "totalSize": 3274096
+            }
+        },
         "vietnamese": {
             "vietnamese": {
                 "fullName": "Vietnamese Bible",
                 "totalSize": 3617617
+            }
+        },
+        "waray": {
+            "MBBSAM": {
+                "fullName": "Samarenyo Meaning-Based Bible (1984)",
+                "totalSize": 3233760
             }
         },
         "welsh": {
