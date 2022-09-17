@@ -72,6 +72,12 @@
                 "totalSize": 5303275
             }
         },
+        "azerbaijani": {
+            "AZB": {
+                "fullName": "Azerbaijani Bible",
+                "totalSize": 3434045
+            }
+        },
         "bengali": {
             "BEN": {
                 "fullName": "Bengali Bible",
@@ -201,6 +207,26 @@
             }
         },
         "dutch": {
+            "DPC": {
+                "fullName": "Dutch Petrus Canisius Translation",
+                "totalSize": 3250342
+            },
+            "HSV": {
+                "fullName": "Herziene Statenvertaling",
+                "totalSize": 3247650
+            },
+            "NBG51": {
+                "fullName": "NBG-vertaling 1951",
+                "totalSize": 3183749
+            },
+            "NLD1939": {
+                "fullName": "De Heilige Schrift, Petrus Canisiusvertaling, 1939",
+                "totalSize": 3172496
+            },
+            "SVRJ": {
+                "fullName": "Statenvertaling Jongbloed-editie",
+                "totalSize": 3193296
+            },
             "bb": {
                 "fullName": "BasisBijbel",
                 "totalSize": 3305639
@@ -1040,6 +1066,24 @@
                 "totalSize": 1080637
             }
         },
+        "slovakian": {
+            "SEB": {
+                "fullName": "Slovensk\u00fd ekumenick\u00fd preklad",
+                "totalSize": 3346356
+            },
+            "SEBDT": {
+                "fullName": "Slovensk\u00fd ekumenick\u00fd preklad s DT knihami",
+                "totalSize": 3346876
+            },
+            "SLB": {
+                "fullName": "Biblia - Evanjelick\u00fd preklad",
+                "totalSize": 3354406
+            },
+            "SSV": {
+                "fullName": "Sv\u00e4t\u00e9 P\u00edsmo - katol\u00edcky preklad",
+                "totalSize": 3331967
+            }
+        },
         "slovenian": {
             "SLV": {
                 "fullName": "Slovene King James Bible 1769",
@@ -1144,6 +1188,10 @@
             "SNT": {
                 "fullName": "Swahili New Testament",
                 "totalSize": 931499
+            },
+            "SWN": {
+                "fullName": "New Swahili Bible",
+                "totalSize": 3082084
             },
             "TKU": {
                 "fullName": "Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi NT",
