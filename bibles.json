@@ -28,6 +28,24 @@
                 "totalSize": 3441360
             }
         },
+        "amharic": {
+            "NASV": {
+                "fullName": "New Amharic Standard Version",
+                "totalSize": 4065391
+            },
+            "\u1218\u1245\u12ab\u12a5\u12a4": {
+                "fullName": "\u1218\u133d\u1210\u134d \u1245\u12f1\u1235 - (\u12ab\u1276\u120a\u12ab\u12ca  \u12a5\u1275\u121d - \u12a4\u121b\u1201\u1235)",
+                "totalSize": 3799581
+            },
+            "\u12a0\u121b05": {
+                "fullName": "\u12a0\u121b\u122d\u129b \u12a0\u12f2\u1231 \u1218\u12f0\u1260\u129b \u1275\u122d\u1309\u121d",
+                "totalSize": 4404921
+            },
+            "\u12a0\u121b2000": {
+                "fullName": "\u12e8\u12a0\u121b\u122d\u129b \u1218\u133d\u1210\u134d \u1245\u12f1\u1235 (\u1230\u121b\u1295\u12eb \u12a0\u1203\u12f1)",
+                "totalSize": 4101684
+            }
+        },
         "arabic": {
             "NAV": {
                 "fullName": "Ketab El Hayat",
@@ -327,10 +345,6 @@
             },
             "KJ21": {
                 "fullName": "21st Century King James Version",
-                "totalSize": 3066393
-            },
-			"kjv": {
-                "fullName": "King James Version",
                 "totalSize": 3066393
             },
             "LEB": {
