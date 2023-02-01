@@ -1,0 +1,128 @@
+{
+    "items": {
+        "albanian": {
+            "albanian": {
+                "fullName": "Albanian Bible",
+                "totalSize": 3441360
+            }
+        },
+        "arabic": {
+            "arabicsv": {
+                "fullName": "Arabic Smith and Van Dyke",
+                "totalSize": 3307627
+            }
+        },
+        "chinese": {
+            "cus": {
+                "fullName": "Chinese Union Simplified",
+                "totalSize": 3285471
+            },
+            "cut": {
+                "fullName": "Chinese Union Traditional",
+                "totalSize": 3291343
+            }
+        },
+        "czech": {
+            "bkr": {
+                "fullName": "Czech BKR",
+                "totalSize": 3492046
+            }
+        },
+        "danish": {
+            "danish": {
+                "fullName": "Danish Bible",
+                "totalSize": 3059814
+            }
+        },
+        "dutch": {
+            "statenvertaling": {
+                "fullName": "Dutch Staten Vertaling",
+                "totalSize": 3187752
+            }
+        },
+        "english": {
+            "kjv": {
+                "fullName": "King James Version",
+                "totalSize": 3004606
+            }
+        },
+        "finnish": {
+            "pyharaamattu1933": {
+                "fullName": "Pyha Raamattu 1933-1938",
+                "totalSize": 3359890
+            }
+        },
+        "french": {
+            "ls1910": {
+                "fullName": "Louis Segond 1910",
+                "totalSize": 3252167
+            }
+        },
+        "german": {
+            "luther1912": {
+                "fullName": "Luther 1912",
+                "totalSize": 3207152
+            }
+        },
+        "greek": {
+            "moderngreek": {
+                "fullName": "Modern Greek",
+                "totalSize": 4764904
+            }
+        },
+        "hungarian": {
+            "karoli": {
+                "fullName": "Hungarian Karoli Bible",
+                "totalSize": 3553982
+            }
+        },
+        "italian": {
+            "riveduta1927": {
+                "fullName": "Riveduta Bible 1927",
+                "totalSize": 3287626
+            }
+        },
+        "maori": {
+            "maori": {
+                "fullName": "Maori Bible",
+                "totalSize": 2920807
+            }
+        },
+        "portuguese": {
+            "almeida": {
+                "fullName": "Almeida Atualizada",
+                "totalSize": 3141247
+            }
+        },
+        "russian": {
+            "rst1876": {
+                "fullName": "Russian Synodal Translation 1876",
+                "totalSize": 4419370
+            }
+        },
+        "somali": {
+            "SOM": {
+                "fullName": "Somali Bible",
+                "totalSize": 3364032
+            }
+        },
+        "tagalog": {
+            "adb1905": {
+                "fullName": "Ang Dating Biblia 1905",
+                "totalSize": 3123413
+            }
+        },
+        "ukrainian": {
+            "UKR": {
+                "fullName": "Ukrainian Bible",
+                "totalSize": 4502468
+            }
+        },
+        "vietnamese": {
+            "vietnamese": {
+                "fullName": "Vietnamese Bible",
+                "totalSize": 3617617
+            }
+        }
+    }
+}

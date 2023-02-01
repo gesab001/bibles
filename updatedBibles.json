@@ -1,0 +1,348 @@
+{
+    "items": {
+        "afrikaans": {
+            "NLV": {
+                "fullName": "Nuwe Lewende Vertaling",
+                "totalSize": 2990838
+            }
+        },
+        "albanian": {
+            "albanian": {
+                "fullName": "Albanian Bible",
+                "totalSize": 3441360
+            }
+        },
+        "arabic": {
+            "NAV": {
+                "fullName": "Ketab El Hayat",
+                "totalSize": 5355830
+            },
+            "arabicsv": {
+                "fullName": "Arabic Smith and Van Dyke",
+                "totalSize": 3307627
+            },
+            "ervar": {
+                "fullName": "Arabic Easy-To-Read-Version",
+                "totalSize": 5324889
+            }
+        },
+        "cebuano": {
+            "cebuano": {
+                "fullName": "Cebuano ",
+                "totalSize": 3099313
+            }
+        },
+        "chichewa": {
+            "CCL": {
+                "fullName": "Mawu a Mulungu mu Chichewa Chalero",
+                "totalSize": 3106863
+            }
+        },
+        "chinese": {
+            "cns": {
+                "fullName": "Chinese New Simplified",
+                "totalSize": 3439434
+            },
+            "cnt": {
+                "fullName": "Chinese New Traditional",
+                "totalSize": 3514634
+            },
+            "cus": {
+                "fullName": "Chinese Union Simplified",
+                "totalSize": 3285471
+            },
+            "cut": {
+                "fullName": "Chinese Union Traditional",
+                "totalSize": 3291343
+            }
+        },
+        "czech": {
+            "bkr": {
+                "fullName": "Czech BKR",
+                "totalSize": 3492046
+            },
+            "cep": {
+                "fullName": "Czech CEP",
+                "totalSize": 3467619
+            },
+            "kms": {
+                "fullName": "Czech KMS",
+                "totalSize": 975729
+            }
+        },
+        "danish": {
+            "danish": {
+                "fullName": "Danish Bible",
+                "totalSize": 3059814
+            }
+        },
+        "dutch": {
+            "statenvertaling": {
+                "fullName": "Dutch Staten Vertaling",
+                "totalSize": 3187752
+            }
+        },
+        "english": {
+            "AKJV": {
+                "fullName": "Authorized King James Version",
+                "totalSize": 3015829
+            },
+            "AMP": {
+                "fullName": "Amplified Bible",
+                "totalSize": 3751979
+            },
+            "EXB": {
+                "fullName": "Expanded Bible",
+                "totalSize": 4556619
+            },
+            "JUB": {
+                "fullName": "Jubilee Bible 2000",
+                "totalSize": 3029596
+            },
+            "MEV": {
+                "fullName": "Modern English Version",
+                "totalSize": 3069473
+            },
+            "NASB1995": {
+                "fullName": "New American Standard Bible 1995",
+                "totalSize": 3152025
+            },
+            "NCV": {
+                "fullName": "New Century Version",
+                "totalSize": 3069313
+            },
+            "NIRV": {
+                "fullName": "New International Reader's Version",
+                "totalSize": 3296486
+            },
+            "NKJV": {
+                "fullName": "New King James Version",
+                "totalSize": 3126434
+            },
+            "NLV": {
+                "fullName": "New Life Version",
+                "totalSize": 2990838
+            },
+            "VOICE": {
+                "fullName": "The Voice",
+                "totalSize": 4289497
+            },
+            "icb": {
+                "fullName": "International Children's Bible",
+                "totalSize": 3142947
+            },
+            "kjv": {
+                "fullName": "King James Version",
+                "totalSize": 3004606
+            },
+            "ylt": {
+                "fullName": "Young's Literal Translation",
+                "totalSize": 3131354
+            }
+        },
+        "esperanto": {
+            "esperanto": {
+                "fullName": "Esperanto Bible",
+                "totalSize": 2898372
+            }
+        },
+        "finnish": {
+            "finnish1776": {
+                "fullName": "Finnish Bible 1776",
+                "totalSize": 3282208
+            },
+            "pyharaamattu1933": {
+                "fullName": "Pyha Raamattu 1933-1938",
+                "totalSize": 3359890
+            },
+            "pyharaamattu1992": {
+                "fullName": "Pyha Raamattu 1992",
+                "totalSize": 3457196
+            }
+        },
+        "french": {
+            "darby": {
+                "fullName": "Darby Bible",
+                "totalSize": 3258493
+            },
+            "ls1910": {
+                "fullName": "Louis Segond 1910",
+                "totalSize": 3252167
+            },
+            "ostervald1996": {
+                "fullName": "Ostervald 1996 ",
+                "totalSize": 3300025
+            }
+        },
+        "german": {
+            "elberfelder1871": {
+                "fullName": "Elberfelder 1871",
+                "totalSize": 3572620
+            },
+            "elberfelder1905": {
+                "fullName": "Elberfelder 1905",
+                "totalSize": 3307588
+            },
+            "luther1545": {
+                "fullName": "Luther 1545",
+                "totalSize": 3111134
+            },
+            "luther1912": {
+                "fullName": "Luther 1912",
+                "totalSize": 3207152
+            },
+            "schlachter1951": {
+                "fullName": "Schlachter 1951",
+                "totalSize": 3374963
+            }
+        },
+        "greek": {
+            "moderngreek": {
+                "fullName": "Modern Greek",
+                "totalSize": 4764904
+            }
+        },
+        "hebrew": {
+            "modernhebrew": {
+                "fullName": "Modern Hebrew Bible",
+                "totalSize": 2881512
+            }
+        },
+        "hungarian": {
+            "karoli": {
+                "fullName": "Hungarian Karoli Bible",
+                "totalSize": 3553982
+            }
+        },
+        "italian": {
+            "LND": {
+                "fullName": "La Nuova Diodati",
+                "totalSize": 3225579
+            },
+            "giovanni1649": {
+                "fullName": "Giovanni Diodati Bible 1649",
+                "totalSize": 3276900
+            },
+            "riveduta1927": {
+                "fullName": "Riveduta Bible 1927",
+                "totalSize": 3287626
+            }
+        },
+        "korean": {
+            "klb": {
+                "fullName": "KLB",
+                "totalSize": 3792741
+            },
+            "korean": {
+                "fullName": "Korean Bible",
+                "totalSize": 3486951
+            }
+        },
+        "maori": {
+            "maori": {
+                "fullName": "Maori Bible",
+                "totalSize": 2920807
+            }
+        },
+        "portuguese": {
+            "NVT": {
+                "fullName": "Nova Versão Transformadora",
+                "totalSize": 3287919
+            },
+            "almeida": {
+                "fullName": "Almeida Atualizada",
+                "totalSize": 3141247
+            }
+        },
+        "romanian": {
+            "cornilescu": {
+                "fullName": "Cornilescu",
+                "totalSize": 3412091
+            },
+            "rmnn": {
+                "fullName": "RMNN",
+                "totalSize": 3436553
+            }
+        },
+        "russian": {
+            "rst1876": {
+                "fullName": "Russian Synodal Translation 1876",
+                "totalSize": 4419370
+            }
+        },
+        "somali": {
+            "SOM": {
+                "fullName": "Somali Bible",
+                "totalSize": 3364032
+            }
+        },
+        "spanish": {
+            "JBS": {
+                "fullName": "Biblia del Jubileo",
+                "totalSize": 3083624
+            },
+            "LBLA": {
+                "fullName": "La Biblia de las Américas",
+                "totalSize": 3223979
+            },
+            "NBLA": {
+                "fullName": "Nueva Biblia de las Américas",
+                "totalSize": 3267865
+            },
+            "RVC": {
+                "fullName": "Reina Valera Contemporánea",
+                "totalSize": 3344073
+            },
+            "nbv": {
+                "fullName": "Nueva Biblia Viva",
+                "totalSize": 3478939
+            },
+            "rv1909": {
+                "fullName": "Reina Valera 1909",
+                "totalSize": 3121180
+            },
+            "sse1569": {
+                "fullName": "Sagradas Escrituras 1569",
+                "totalSize": 3158728
+            }
+        },
+        "tagalog": {
+            "SND": {
+                "fullName": "Ang Salita ng Diyos NT",
+                "totalSize": 3146150
+            },
+            "adb1905": {
+                "fullName": "Ang Dating Biblia 1905",
+                "totalSize": 3123413
+            }
+        },
+        "thai": {
+            "NTVBIBLE": {
+                "fullName": "New Thai Version",
+                "totalSize": 4796202
+            },
+            "tkjv": {
+                "fullName": "Thai King James Version",
+                "totalSize": 4809774
+            }
+        },
+        "ukrainian": {
+            "UKR": {
+                "fullName": "Ukrainian Bible",
+                "totalSize": 4502468
+            }
+        },
+        "vietnamese": {
+            "vietnamese": {
+                "fullName": "Vietnamese Bible",
+                "totalSize": 3617617
+            }
+        },
+        "xhosa": {
+            "xhosa": {
+                "fullName": "Xhosa Bible",
+                "totalSize": 3030331
+            }
+        }
+    }
+}

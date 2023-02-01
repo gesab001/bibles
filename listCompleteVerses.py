@@ -108,6 +108,8 @@ def translateBible(bibleversion):
     #bibleversion = languagejsJson["bibleversion"]
     #translate notes
     pathtobible = os.path.join(r"C:\Users\giova\Documents\bibles", bibleversion+".zip")
+    #if bibleversion=="kjv":
+    #  pause = input("pause")
     with zipfile.ZipFile(pathtobible) as myzip:
      pathtojsoninsidezip = bibleversion + "/" + bibleversion + ".json"
      with myzip.open(pathtojsoninsidezip) as myfile:
@@ -115,7 +117,7 @@ def translateBible(bibleversion):
         bible = json.loads(myfile.read())
         versiontext = bible["version"]
         #print(versiontext) 
-        missingVerses[bibleversion] = {"totalMissingVerses": 0}
+        missingVerses[bibleversion] = {"totalMissingVerses": 0, "missingVerses": []}
         for bookNumber in versiontext:
           #print(bookNumber)
           bookName = versiontext[bookNumber]["book_name"]
@@ -126,9 +128,10 @@ def translateBible(bibleversion):
             versesJson = chapterJson[chapterNumber]["chapter"]
             for verseNumber in versesJson:
                word = versesJson[verseNumber]["verse"]
-               if word=="" or "bible version" in word or "translation" in word:
-                 #print(bookName + " " + chapterNumber + ":" + verseNumber)
+               if word=="" or "bible version" in word:
+                 missingVerse = bookName + " " + chapterNumber + ":" + verseNumber
                  #print(word)
+                 missingVerses[bibleversion]["missingVerses"].append(missingVerse)
                  missingVerses[bibleversion]["totalMissingVerses"] = missingVerses[bibleversion]["totalMissingVerses"] + 1
         if missingVerses[bibleversion]["totalMissingVerses"]==0:
            completeBible.append(bibleversion)
