@@ -1,0 +1,489 @@
+{
+    "version": "rmnn",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pavel, apostol al lui Isus Hristos prin porunca lui Dumnezeu, M\u00e2ntuitorul nostru, \u015fi a Domnului Isus Hristos, n\u0103dejdea noastr\u0103,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "c\u0103tre Timotei, adev\u0103ratul meu copil \u00een credin\u0163\u0103: Har, \u00eendurare \u015fi pace de la Dumnezeu, Tat\u0103l nostru, \u015fi de la Hristos Isus, Domnul nostru!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dup\u0103 cum te-am rugat, la plecarea mea \u00een Macedonia, s\u0103 r\u0103m\u00e2i \u00een Efes ca s\u0103 porunce\u015fti unora s\u0103 nu \u00eenve\u0163e pe al\u0163ii alt\u0103 \u00eenv\u0103\u0163\u0103tur\u0103"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u015fi s\u0103 nu se \u0163in\u0103 de basme \u015fi de \u00een\u015fir\u0103ri de neamuri f\u0103r\u0103 sf\u00e2r\u015fit, care dau na\u015ftere mai mult la certuri de vorbe dec\u00e2t fac s\u0103 \u00eenainteze lucrul lui Dumnezeu prin credin\u0163\u0103, a\u015fa fac \u015fi acum."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u0162inta poruncii este dragostea, care vine dintr-o inim\u0103 curat\u0103, dintr-un cuget bun \u015fi dintr-o credin\u0163\u0103 nepref\u0103cut\u0103."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Unii, fiindc\u0103 s-au dep\u0103rtat de aceste lucruri, au r\u0103t\u0103cit \u015fi s-au apucat de flec\u0103rii."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ei vor s\u0103 fie \u00eenv\u0103\u0163\u0103tori ai Legii \u015fi nu \u015ftiu nici m\u0103car ce spun, nici ce urm\u0103resc."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Noi \u015ftim c\u0103 Legea este bun\u0103 dac\u0103 cineva o \u00eentrebuin\u0163eaz\u0103 bine,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "c\u0103ci \u015ftim c\u0103 Legea nu este f\u0103cut\u0103 pentru cel neprih\u0103nit, ci pentru cei f\u0103r\u0103delege \u015fi nesupu\u015fi, pentru cei nelegiui\u0163i \u015fi p\u0103c\u0103to\u015fi, pentru cei f\u0103r\u0103 evlavie, necura\u0163i, pentru ucig\u0103torii de tat\u0103 \u015fi ucig\u0103torii de mam\u0103, pentru ucig\u0103torii de oameni,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "pentru curvari, pentru sodomi\u0163i, pentru v\u00e2nz\u0103torii de oameni, pentru cei mincino\u015fi, pentru cei ce jur\u0103 str\u00e2mb \u015fi pentru orice este \u00eempotriva \u00eenv\u0103\u0163\u0103turii s\u0103n\u0103toase \u2013"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "potrivit cu Evanghelia slavei fericitului Dumnezeu care mi-a fost \u00eencredin\u0163at\u0103 mie."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mul\u0163umesc lui Hristos Isus, Domnul nostru, care m-a \u00eent\u0103rit, c\u0103 m-a socotit vrednic de \u00eencredere \u015fi m-a pus \u00een slujba Lui,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "m\u0103car c\u0103 mai \u00eenainte eram un hulitor, un prigonitor \u015fi batjocoritor. Dar am c\u0103p\u0103tat \u00eendurare, pentru c\u0103 lucram din ne\u015ftiin\u0163\u0103, \u00een necredin\u0163\u0103!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u015ei harul Domnului nostru s-a \u00eenmul\u0163it peste m\u0103sur\u0103 de mult \u00eempreun\u0103 cu credin\u0163a \u015fi cu dragostea care este \u00een Hristos Isus."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "O, adev\u0103rat \u015fi cu totul vrednic de primit este cuv\u00e2ntul care zice: \u201eHristos Isus a venit \u00een lume ca s\u0103 m\u00e2ntuiasc\u0103 pe cei p\u0103c\u0103to\u015fi\u201d, dintre care cel dint\u00e2i sunt eu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Dar am c\u0103p\u0103tat \u00eendurare, pentru ca Isus Hristos s\u0103-\u015ei arate \u00een mine, cel dint\u00e2i, toat\u0103 \u00eendelunga Lui r\u0103bdare, ca o pild\u0103 celor ce ar crede \u00een El, \u00een urm\u0103, ca s\u0103 capete via\u0163a ve\u015fnic\u0103."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "A \u00cemp\u0103ratului ve\u015fniciilor, a nemuritorului, nev\u0103zutului \u015fi singurului Dumnezeu, s\u0103 fie cinstea \u015fi slava \u00een vecii vecilor! Amin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Porunca pe care \u0163i-o dau, fiule Timotei, dup\u0103 prorociile f\u0103cute mai \u00eenainte despre tine, este ca prin ele s\u0103 te lup\u0163i lupta cea bun\u0103"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u015fi s\u0103 p\u0103strezi credin\u0163a \u015fi un cuget curat, pe care unii le-au pierdut \u015fi au c\u0103zut din credin\u0163\u0103."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Din num\u0103rul lor sunt Imeneu \u015fi Alexandru, pe care i-am dat pe m\u00e2na Satanei, ca s\u0103 se \u00eenve\u0163e s\u0103 nu huleasc\u0103."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u0103 \u00eendemn dar, \u00eenainte de toate, s\u0103 face\u0163i rug\u0103ciuni, cereri, mijlociri, mul\u0163umiri pentru to\u0163i oamenii,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "pentru \u00eemp\u0103ra\u0163i \u015fi pentru to\u0163i cei ce sunt \u00een\u0103l\u0163a\u0163i \u00een dreg\u0103torii, ca s\u0103 putem duce astfel o via\u0163\u0103 pa\u015fnic\u0103 \u015fi lini\u015ftit\u0103, cu toat\u0103 evlavia \u015fi cu toat\u0103 cinstea."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Lucrul acesta este bun \u015fi bine primit \u00eenaintea lui Dumnezeu, M\u00e2ntuitorul nostru,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "care voie\u015fte ca to\u0163i oamenii s\u0103 fie m\u00e2ntui\u0163i \u015fi s\u0103 vin\u0103 la cuno\u015ftin\u0163a adev\u0103rului."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "C\u0103ci este un singur Dumnezeu \u015fi este un singur mijlocitor \u00eentre Dumnezeu \u015fi oameni: Omul Isus Hristos,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "care S-a dat pe Sine \u00censu\u015fi ca pre\u0163 de r\u0103scump\u0103rare pentru to\u0163i: faptul acesta trebuia adeverit la vremea cuvenit\u0103,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u015fi propov\u0103duitorul \u015fi apostolul Lui am fost pus eu \u2013 spun adev\u0103rul \u00een Hristos, nu mint \u2013 ca s\u0103 \u00eenv\u0103\u0163 pe neamuri credin\u0163a \u015fi adev\u0103rul."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vreau dar ca b\u0103rba\u0163ii s\u0103 se roage \u00een orice loc \u015fi s\u0103 ridice spre cer m\u00e2ini curate, f\u0103r\u0103 m\u00e2nie \u015fi f\u0103r\u0103 \u00eendoieli."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Vreau, de asemenea, ca femeile s\u0103 se roage \u00eembr\u0103cate \u00een chip cuviincios, cu ru\u015fine \u015fi sfial\u0103; nu cu \u00eempletituri de p\u0103r, nici cu aur, nici cu m\u0103rg\u0103ritare, nici cu haine scumpe,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "ci cu fapte bune, cum se cuvine femeilor care spun c\u0103 sunt evlavioase."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Femeia s\u0103 \u00eenve\u0163e \u00een t\u0103cere, cu toat\u0103 supunerea."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Femeii nu-i dau voie s\u0103 \u00eenve\u0163e pe al\u0163ii, nici s\u0103 se ridice mai presus de b\u0103rbat, ci s\u0103 stea \u00een t\u0103cere."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "C\u0103ci \u00eent\u00e2i a fost \u00eentocmit Adam \u015fi apoi Eva."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u015ei nu Adam a fost am\u0103git, ci femeia, fiind am\u0103git\u0103, s-a f\u0103cut vinovat\u0103 de c\u0103lcarea poruncii."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Totu\u015fi ea va fi m\u00e2ntuit\u0103 prin na\u015fterea de fii, dac\u0103 st\u0103ruie cu smerenie \u00een credin\u0163\u0103, \u00een dragoste \u015fi \u00een sfin\u0163enie."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Adev\u0103rat este cuv\u00e2ntul acesta: \u201eDac\u0103 r\u00e2vne\u015fte cineva s\u0103 fie episcop, dore\u015fte un lucru bun\u201d."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dar trebuie ca episcopul s\u0103 fie f\u0103r\u0103 prihan\u0103, b\u0103rbatul unei singure neveste, cump\u0103tat, \u00een\u0163elept, vrednic de cinste, primitor de oaspe\u0163i, \u00een stare s\u0103 \u00eenve\u0163e pe al\u0163ii."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "S\u0103 nu fie nici be\u0163iv, nici b\u0103t\u0103u\u015f, nici doritor de c\u00e2\u015ftig m\u00e2r\u015fav, ci s\u0103 fie bl\u00e2nd, nu g\u00e2lcevitor, nu iubitor de bani;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "s\u0103-\u015fi chiverniseasc\u0103 bine casa \u015fi s\u0103-\u015fi \u0163in\u0103 copiii \u00een supunere cu toat\u0103 cuviin\u0163a."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "C\u0103ci dac\u0103 cineva nu \u015ftie s\u0103-\u015fi c\u00e2rmuiasc\u0103 bine casa lui, cum va \u00eengriji de Biserica lui Dumnezeu?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "S\u0103 nu fie \u00eentors la Dumnezeu de cur\u00e2nd, ca nu cumva s\u0103 se \u00eeng\u00e2mfe \u015fi s\u0103cad\u0103 \u00een os\u00e2nda diavolului."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Trebuie s\u0103 aib\u0103 \u015fi o bun\u0103 m\u0103rturie din partea celor de afar\u0103, pentru ca s\u0103 nu ajung\u0103 de ocar\u0103 \u015fi s\u0103 cad\u0103 \u00een cursa diavolului."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Diaconii, de asemenea, trebuie s\u0103 fie cinsti\u0163i, nu cu dou\u0103 fe\u0163e, nu b\u0103utori de mult vin, nu doritori de c\u00e2\u015ftig m\u00e2r\u015fav,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "ci s\u0103 p\u0103streze taina credin\u0163ei \u00eentr-un cuget curat."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Trebuie cerceta\u0163i \u00eent\u00e2i \u015fi, numai dac\u0103 sunt f\u0103r\u0103 prihan\u0103, s\u0103 fie diaconi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Femeile, de asemenea, trebuie s\u0103 fie cinstite, neclevetitoare, cump\u0103tate, credincioase \u00een toate lucrurile."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Diaconii s\u0103 fie b\u0103rba\u0163i ai unei singure neveste \u015fi s\u0103 \u015ftie s\u0103-\u015fi c\u00e2rmuiasc\u0103 bine copiii \u015fi casele lor."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pentru c\u0103 cei ce slujesc bine ca diaconi dob\u00e2ndesc un loc de cinste \u015fi o mare \u00eendr\u0103zneal\u0103 \u00een credin\u0163a care este \u00een Hristos Isus."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00ce\u0163i scriu aceste lucruri cu n\u0103dejdea c\u0103 voi veni \u00een cur\u00e2nd la tine."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Dar, dac\u0103 voi z\u0103bovi, s\u0103 \u015ftii cum trebuie s\u0103 te por\u0163i \u00een casa lui Dumnezeu, care este Biserica Dumnezeului celui viu, st\u00e2lpul \u015fi temelia adev\u0103rului."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u015ei, f\u0103r\u0103 \u00eendoial\u0103, mare este taina evlaviei\u2026 \u201eCel ce a fost ar\u0103tat \u00een trup a fost dovedit neprih\u0103nit \u00een Duhul, a fost v\u0103zut de \u00eengeri, a fost propov\u0103duit printre neamuri, a fost crezut \u00een lume, a fost \u00een\u0103l\u0163at \u00een slav\u0103.\u201d"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dar Duhul spune l\u0103murit c\u0103, \u00een vremurile din urm\u0103, unii se vor lep\u0103da de credin\u0163\u0103, ca s\u0103 se alipeasc\u0103 de duhuri \u00een\u015fel\u0103toare \u015fi de \u00eenv\u0103\u0163\u0103turile dracilor,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "ab\u0103tu\u0163i de f\u0103\u0163\u0103rnicia unor oameni care vorbesc minciuni, \u00eensemna\u0163i cu fierul ro\u015fu \u00een \u00eensu\u015fi cugetul lor."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ei opresc c\u0103s\u0103toria \u015fi \u00eentrebuin\u0163area bucatelor pe care Dumnezeu le-a f\u0103cut ca s\u0103 fie luate cu mul\u0163umiri de c\u0103tre cei ce cred \u015fi cunosc adev\u0103rul."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "C\u0103ci orice f\u0103ptur\u0103 a lui Dumnezeu este bun\u0103 \u015fi nimic nu este de lep\u0103dat, dac\u0103 se ia cu mul\u0163umiri"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "pentru c\u0103 este sfin\u0163it prin Cuv\u00e2ntul lui Dumnezeu \u015fi prin rug\u0103ciune."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dac\u0103 vei pune \u00een mintea fra\u0163ilor aceste lucruri, vei fi un bun slujitor al lui Hristos Isus, fiindc\u0103 te hr\u0103ne\u015fti cu cuvintele credin\u0163ei \u015fi ale bunei \u00eenv\u0103\u0163\u0103turi pe care ai urmat-o p\u00e2n\u0103 acum."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Fere\u015fte-te de basmele lume\u015fti \u015fi b\u0103be\u015fti. Caut\u0103 s\u0103 fii evlavios."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "C\u0103ci deprinderea trupeasc\u0103 este de pu\u0163in folos, pe c\u00e2nd evlavia este folositoare \u00een orice privin\u0163\u0103, \u00eentruc\u00e2t ea are f\u0103g\u0103duin\u0163a vie\u0163ii de acum \u015fi a celei viitoare."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Iat\u0103 un cuv\u00e2nt adev\u0103rat \u015fi cu totul vrednic de primit!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Noi muncim, \u00een adev\u0103r, \u015fi ne lupt\u0103m pentru c\u0103 ne-am pus n\u0103dejdea \u00een Dumnezeul cel viu, care este M\u00e2ntuitorul tuturor oamenilor \u015fi mai ales al celor credincio\u015fi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Porunce\u015fte \u015fi \u00eenva\u0163\u0103 aceste lucruri."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nimeni s\u0103 nu-\u0163i dispre\u0163uiasc\u0103 tinere\u0163ea, ci fii o pild\u0103 pentru credincio\u015fi: \u00een vorbire, \u00een purtare, \u00een dragoste, \u00een credin\u0163\u0103, \u00een cur\u0103\u0163ie."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "P\u00e2n\u0103 voi veni, ia seama bine la citire, la \u00eendemnare \u015fi la \u00eenv\u0103\u0163\u0103tura pe care o dai altora."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nu fi nep\u0103s\u0103tor de darul care este \u00een tine, care \u0163i-a fost dat prin prorocie, cu punerea m\u00e2inilor de c\u0103tre ceata prezbiterilor."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pune-\u0163i pe inim\u0103 aceste lucruri, \u00eendeletnice\u015fte-te \u00een totul cu ele, pentru ca \u00eenaintarea ta s\u0103 fie v\u0103zut\u0103 de to\u0163i."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Fii cu luare-aminte asupra ta \u00eensu\u0163i \u015fi asupra \u00eenv\u0103\u0163\u0103turii pe care o dai altora; st\u0103ruie\u015fte \u00een aceste lucruri, c\u0103ci, dac\u0103 vei face a\u015fa, te vei m\u00e2ntui pe tine \u00eensu\u0163i \u015fi pe cei ce te ascult\u0103."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nu mustra cu asprime pe un b\u0103tr\u00e2n, ci sf\u0103tuie\u015fte-l ca pe un tat\u0103; pe tineri sf\u0103tuie\u015fte-i ca pe ni\u015fte fra\u0163i;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "pe femeile b\u0103tr\u00e2ne, ca pe ni\u015fte mame; pe cele tinere, ca pe ni\u015fte surori, cu toat\u0103 cur\u0103\u0163ia."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Cinste\u015fte pe v\u0103duvele care sunt cu adev\u0103rat v\u0103duve."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dac\u0103 o v\u0103duv\u0103 are copii sau nepo\u0163i de la copii, ace\u015ftia s\u0103 se deprind\u0103 s\u0103 fie evlavio\u015fi \u00eent\u00e2i fa\u0163\u0103 de cei din casa lor \u015fi s\u0103 r\u0103spl\u0103teasc\u0103 ostenelile p\u0103rin\u0163ilor, c\u0103ci lucrul acesta este pl\u0103cut \u00eenaintea lui Dumnezeu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Cea cu adev\u0103rat v\u0103duv\u0103, care a r\u0103mas singur\u0103, \u015fi-a pus n\u0103dejdea \u00een Dumnezeu \u015fi st\u0103ruie zi \u015fi noapte \u00een cereri \u015fi rug\u0103ciuni."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dar cea dedat\u0103 la pl\u0103ceri, m\u0103car c\u0103 tr\u0103ie\u015fte, este moart\u0103."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Porunce\u015fte \u015fi aceste lucruri, ca s\u0103 fie f\u0103r\u0103 vin\u0103."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dac\u0103 nu poart\u0103 cineva grij\u0103 de ai lui, \u015fi mai ales de cei din casa lui, s-a lep\u0103dat de credin\u0163\u0103 \u015fi este mai r\u0103u dec\u00e2t un necredincios."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "O v\u0103duv\u0103, ca s\u0103 fie \u00eenscris\u0103 \u00een lista v\u0103duvelor, trebuie s\u0103 n-aib\u0103 mai pu\u0163in de \u015faizeci de ani, s\u0103 nu fi avut dec\u00e2t un singur b\u0103rbat,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "s\u0103 fie cunoscut\u0103 pentru faptele ei bune, s\u0103 fi crescut copii, s\u0103 fi fost primitoare de oaspe\u0163i, s\u0103 fi sp\u0103lat picioarele sfin\u0163ilor, s\u0103 fi ajutat pe cei nenoroci\u0163i, s\u0103 fi dat ajutor la orice fapt\u0103 bun\u0103."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dar pe v\u0103duvele tinere s\u0103 nu le prime\u015fti, pentru c\u0103, atunci c\u00e2nd le desparte pofta de Hristos, vor s\u0103 se m\u0103rite din nou"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u015fi se fac vinovate de faptul c\u0103 \u00ee\u015fi calc\u0103 credin\u0163a dint\u00e2i."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Totodat\u0103 se deprind s\u0103 umble f\u0103r\u0103 nicio treab\u0103 din cas\u0103 \u00een cas\u0103; \u015fi nu numai c\u0103 sunt lene\u015fe, dar sunt \u015fi limbute \u015fi iscoditoare \u015fi vorbesc ce nu trebuie vorbit."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vreau dar ca v\u0103duvele tinere s\u0103 se m\u0103rite \u015fi s\u0103 aib\u0103 copii, s\u0103 fie gospodine la casa lor, ca s\u0103 nu dea potrivnicului niciun prilej de ocar\u0103,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "c\u0103ci unele s-au \u015fi \u00eentors s\u0103 urmeze pe Satana."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Dac\u0103 vreun credincios, fie b\u0103rbat, fie femeie, are v\u0103duve \u00een familie, s\u0103 le ajute \u015fi s\u0103 nu fie \u00eempov\u0103rat\u0103 cu ele Biserica, pentru ca s\u0103 poat\u0103 veni \u00een ajutor celor cu adev\u0103rat v\u0103duve."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Prezbiterii care c\u00e2rmuiesc bine s\u0103 fie \u00eenvrednici\u0163i de \u00eendoit\u0103 cinste, mai ales cei ce se ostenesc cu propov\u0103duirea \u015fi cu \u00eenv\u0103\u0163\u0103tura, pe care o dau altora."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "C\u0103ci Scriptura zice: \u201eS\u0103 nu legi gura boului c\u00e2nd treier\u0103 bucate\u201d \u015fi \u201eVrednic este lucr\u0103torul de plata lui\u201d."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00cempotriva unui prezbiter s\u0103 nu prime\u015fti \u00eenvinuire dec\u00e2t din gura a doi sau trei martori."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Pe cei ce p\u0103c\u0103tuiesc, mustr\u0103-i \u00eenaintea tuturor, ca \u015fi ceilal\u0163i s\u0103 aib\u0103 fric\u0103."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Te rog fierbinte, \u00eenaintea lui Dumnezeu, \u00eenaintea lui Hristos Isus \u015fi \u00eenaintea \u00eengerilor ale\u015fi, s\u0103 p\u0103ze\u015fti aceste lucruri, f\u0103r\u0103 vreun g\u00e2nd mai dinainte \u015fi s\u0103 nu faci nimic cu p\u0103rtinire."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "S\u0103 nu-\u0163i pui m\u00e2inile peste nimeni cu grab\u0103 \u015fi s\u0103 nu te faci p\u0103rta\u015f p\u0103catelor altora; pe tine \u00eensu\u0163i p\u0103ze\u015fte-te curat."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "S\u0103 nu mai bei numai ap\u0103, ci s\u0103 iei \u015fi c\u00e2te pu\u0163in vin din pricina stomacului t\u0103u \u015fi din pricina deselor tale \u00eemboln\u0103viri."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "P\u0103catele unor oameni sunt cunoscute \u015fi merg \u00eenainte la judecat\u0103, iar ale altora vin pe urm\u0103."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Tot a\u015fa \u015fi faptele bune sunt cunoscute; \u015fi cele ce nu sunt cunoscute nu pot s\u0103 r\u0103m\u00e2n\u0103 ascunse."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "To\u0163i cei ce sunt sub jugul robiei s\u0103 socoteasc\u0103 pe st\u0103p\u00e2nii lor vrednici de toat\u0103 cinstea, ca Numele lui Dumnezeu \u015fi \u00eenv\u0103\u0163\u0103tura s\u0103 nu fie vorbite de r\u0103u."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Iar cei ce au st\u0103p\u00e2ni credincio\u015fi s\u0103 nu-i dispre\u0163uiasc\u0103 sub cuv\u00e2nt c\u0103 sunt fra\u0163i, ci s\u0103 le slujeasc\u0103 \u015fi mai bine, tocmai fiindc\u0103 cei ce se bucur\u0103 de binefacerile slujbei lor sunt credincio\u015fi \u015fi preaiubi\u0163i. \u00cenva\u0163\u0103 pe oameni aceste lucruri \u015fi spune-le ap\u0103sat."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dac\u0103 \u00eenva\u0163\u0103 cineva pe oameni \u00eenv\u0103\u0163\u0103tur\u0103 deosebit\u0103 \u015fi nu se \u0163ine de cuvintele s\u0103n\u0103toase ale Domnului nostru Isus Hristos \u015fi de \u00eenv\u0103\u0163\u0103tura care duce la evlavie,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "este plin de m\u00e2ndrie \u015fi nu \u015ftie nimic: ba \u00eenc\u0103 are boala cercet\u0103rilor f\u0103r\u0103 rost \u015fi a certurilor de cuvinte, din care se nasc pizma, certurile, clevetirile, b\u0103nuielile rele,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "zadarnicile ciocniri de vorbe ale oamenilor strica\u0163i la minte, lipsi\u0163i de adev\u0103r \u015fi care cred c\u0103 evlavia este un izvor de c\u00e2\u015ftig. Fere\u015fte-te de astfel de oameni."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Negre\u015fit, evlavia \u00eenso\u0163it\u0103 de mul\u0163umire este un mare c\u00e2\u015ftig."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "C\u0103ci noi n-am adus nimic \u00een lume \u015fi nici nu putem s\u0103 lu\u0103m cu noi nimic din ea."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dac\u0103 avem dar cu ce s\u0103 ne hr\u0103nim \u015fi cu ce s\u0103 ne \u00eembr\u0103c\u0103m, ne va fi de ajuns."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Cei ce vor s\u0103 se \u00eembog\u0103\u0163easc\u0103, dimpotriv\u0103, cad \u00een ispit\u0103, \u00een la\u0163 \u015fi \u00een multe pofte nes\u0103buite \u015fi v\u0103t\u0103m\u0103toare, care cufund\u0103 pe oameni \u00een pr\u0103p\u0103d \u015fi pierzare."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "C\u0103ci iubirea de bani este r\u0103d\u0103cina tuturor relelor, \u015fi unii, care au umblat dup\u0103 ea, au r\u0103t\u0103cit de la credin\u0163\u0103 \u015fi s-au str\u0103puns singuri cu o mul\u0163ime de chinuri."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Iar tu, om al lui Dumnezeu, fugi de aceste lucruri \u015fi caut\u0103 neprih\u0103nirea, evlavia, credin\u0163a, dragostea, r\u0103bdarea, bl\u00e2nde\u0163ea."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Lupt\u0103-te lupta cea bun\u0103 a credin\u0163ei, apuc\u0103 via\u0163a ve\u015fnic\u0103 la care ai fost chemat, \u015fi pentru care ai f\u0103cut acea frumoas\u0103 m\u0103rturisire \u00eenaintea multor martori."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Te \u00eendemn, \u00eenaintea lui Dumnezeu, care d\u0103 via\u0163\u0103 tuturor lucrurilor, \u015fi \u00eenaintea lui Hristos Isus, care a f\u0103cut acea frumoas\u0103 m\u0103rturisire \u00eenaintea lui Pilat din Pont,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "s\u0103 p\u0103ze\u015fti porunca, f\u0103r\u0103 prihan\u0103 \u015fi f\u0103r\u0103 vin\u0103 p\u00e2n\u0103 la ar\u0103tarea Domnului nostru Isus Hristos,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "care va fi f\u0103cut\u0103 la vremea ei de fericitul \u015fi singurul St\u0103p\u00e2nitor, \u00cemp\u0103ratul \u00eemp\u0103ra\u0163ilor \u015fi Domnul domnilor,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "singurul care are nemurirea, care locuie\u015fte \u00eentr-o lumin\u0103 de care nu po\u0163i s\u0103 te apropii, pe care niciun om nu L-a v\u0103zut, nici nu-L poate vedea \u015fi care are cinstea \u015fi puterea ve\u015fnic\u0103! Amin."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00cendeamn\u0103 pe boga\u0163ii veacului acestuia s\u0103 nu se \u00eeng\u00e2mfe \u015fi s\u0103 nu-\u015fi pun\u0103 n\u0103dejdea \u00een ni\u015fte bog\u0103\u0163ii nestatornice, ci \u00een Dumnezeu, care ne d\u0103 toate lucrurile din bel\u015fug ca s\u0103 ne bucur\u0103m de ele."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00cendeamn\u0103-i s\u0103 fac\u0103 bine, s\u0103 fie boga\u0163i \u00een fapte bune, s\u0103 fie darnici, gata s\u0103 simt\u0103 \u00eempreun\u0103 cu al\u0163ii,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "a\u015fa ca s\u0103-\u015fi str\u00e2ng\u0103 pentru vremea viitoare drept comoar\u0103 o bun\u0103 temelie pentru ca s\u0103 apuce adev\u0103rata via\u0163\u0103."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Timotee, p\u0103ze\u015fte ce \u0163i s-a \u00eencredin\u0163at; fere\u015fte-te de flec\u0103riile lume\u015fti \u015fi de \u00eempotrivirile \u015ftiin\u0163ei, pe nedrept numite astfel,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "pe care au m\u0103rturisit-o unii \u015fi au r\u0103t\u0103cit cu privire la credin\u0163\u0103. Harul s\u0103 fie cu voi! Amin."
+                }
+            }
+        }
+    }
+}

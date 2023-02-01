@@ -1,0 +1,515 @@
+{
+    "version": "SKD",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Solomunova pjesma nad pjesmama."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Da me ho\u00e6e poljubiti poljupcem usta svojih! Jer je tvoja ljubav bolja od vina."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mirisom su tvoja ulja prekrasna; ime ti je ulje razlito; zato te ljube djevojke."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vuci me, za tobom \u00e6emo tr\u00e8ati; uvede me car u lo\u017enicu svoju; radova\u00e6emo se i veseli\u00e6emo se tobom, spominja\u00e6emo ljubav tvoju vi\u0161e nego vino; pravi ljube te."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Crna sam, ali lijepa, k\u00e6eri Jerusalimske, kao \u0161atori Kidarski, kao zavjesi Solomunovi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne gledajte me \u0161to sam crna, jer me je sunce opalilo; sinovi matere moje rasrdiv\u0161i se na me postavi\u0161e me da \u00e8uvam vinograde, i ne \u00e8uvah svojega vinograda, koji ja imam."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ka\u017ei mi ti, kojega ljubi du\u0161a moja, gdje pase\u0161, gdje planduje\u0161? jer za\u0161to bih lutala me\u00f0u stadima drugova tvojih?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ako ne zna\u0161, najljep\u0161a izme\u00f0u \u017eena, po\u00f0i tragom za stadom, i pasi jari\u00e6e svoje pokraj stanova pastirskih."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ti si mi, draga moja, kao konji u kolima Faraonovijem."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Obrazi su tvoji oki\u00e6eni grivnama, i grlo tvoje nizovima."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Na\u00e8ini\u00e6emo ti zlatne grivne sa \u0161arama srebrnijem."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dok je car za stolom, narad moj pu\u0161ta svoj miris."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dragi mi je moj kita smirne, koja me\u00f0u dojkama mojim po\u00e8iva."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Dragi mi je moj grozd kiprov iz vinograda Engadskih."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Lijepa ti si, draga moja, lijepa ti si! o\u00e8i su ti kao u golubice."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Lijep ti si, dragi moj, i ljubak! i postelja na\u0161a zeleni se."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Grede su nam u ku\u00e6ama kedrove, daske su nam jelove."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ja sam ru\u017ea Saronska, ljiljan u dolu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u0160to je ljiljan me\u00f0u trnjem, to je draga moja me\u00f0u djevojkama."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u0160to je jabuka me\u00f0u drvetima \u0161umskim, to je dragi moj me\u00f0u momcima; \u017eeljeh hlada njezina, i sjedoh, i rod je njezin sladak grlu mojemu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Uvede me u ku\u00e6u gdje je gozba a zastava mu je ljubav k meni."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Potkrijepite me \u017ebanovima, pridr\u017eite me jabukama, jer sam bolna od ljubavi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Lijeva je ruka njegova meni pod glavom, a desnom me grli."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zaklinjem vas, k\u00e6eri Jerusalimske, srnama i ko\u0161utama poljskim, ne budite ljubavi moje, ne budite je, dok joj ne bude volja."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Glas dragoga mojega; evo ga, ide ska\u00e8u\u00e6i preko gora, poskakuju\u00e6i preko humova."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Dragi je moj kao srna ili kao jelen\u00e8e; evo ga, stoji iza na\u0161ega zida, gleda kroz prozor, viri kroz re\u0161etku."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Progovori dragi moj i re\u00e8e mi: ustani, draga moja, ljepotice moja, i hodi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jer gle, zima pro\u00f0e, minu\u0161e da\u017edi, otido\u0161e."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cvije\u00e6e se vidi po zemlji, do\u00f0e vrijeme pjevanju, i glas grli\u00e8in \u00e8uje se u na\u0161oj zemlji."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Smokva je pustila zametke svoje, i loza vinova ucvala miri\u0161e. Ustani, draga moja, ljepotice moja, i hodi."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Golubice moja u rasjelinama kamenijem, u zaklonu vrletnom! daj da vidim lice tvoje, daj da \u00e8ujem glas tvoj; jer je glas tvoj sladak i lice tvoje krasno."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pohvatajte nam lisice, male lisice, \u0161to kvare vinograde, jer na\u0161i vinogradi cvatu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Moj je dragi moj, i ja sam njegova, on pase me\u00f0u ljiljanima."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Dok zahladi dan i sjenke otidu, vrati se, budi kao srna, dragi moj, ili kao jelen\u00e8e po gorama razdijeljenijem."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Na postelji svojoj no\u00e6u tra\u017eih onoga koga ljubi du\u0161a moja, tra\u017eih ga, ali ga ne na\u00f0oh."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sada \u00e6u ustati, pa idem po gradu, po trgovima i po ulicama tra\u017ei\u00e6u onoga koga ljubi du\u0161a moja. Tra\u017eih ga, ali ga ne na\u00f0oh."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Na\u00f0o\u0161e me stra\u017eari, koji obilaze po gradu. Vidjeste li onoga koga ljubi du\u0161a moja?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Malo ih zaminuh, i na\u00f0oh onoga koga ljubi du\u0161a moja; i uhvatih ga, i ne\u00e6u ga pustiti dokle ga ne odvedem u ku\u00e6u matere svoje i u lo\u017enicu roditeljke svoje."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Zaklinjem vas, k\u00e6eri Jerusalimske, srnama i ko\u0161utama poljskim, ne budite ljubavi moje, ne budite je, dok joj ne bude volja."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ko je ona \u0161to ide gore iz pustinje kao stupovi od dima, potka\u00f0ena smirnom i tamjanom i svakojakim pra\u0161kom apotekarskim?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Gle, odar Solomunov, a oko njega \u0161ezdeset junaka izme\u00f0u junaka Izrailjevijeh."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Svi imaju ma\u00e8eve, vje\u0161ti su boju, u svakoga je ma\u00e8 o bedru radi straha no\u00e6noga."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Odar je na\u00e8inio sebi car Solomun od drveta Livanskoga;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Stupce mu je na\u00e8inio od srebra, uzglavlje od zlata, nebo od skerleta, a iznutra nastrt ljubavlju za k\u00e6eri Jerusalimske."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Izidite, k\u00e6eri Sionske, i gledajte cara Solomuna pod vijencem kojim ga mati njegova okiti na dan svadbe njegove i na dan veselja srca njegova."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Lijepa ti si, draga moja, lijepa ti si, o\u00e8i su ti kao u golubice izme\u00f0u vitica tvojih; kosa ti je kao stado koza koje se vide na gori Galadu;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Zubi su ti kao stado ovaca jednakih, kad izlaze iz kupala, koje se sve blizne a nijedne nema jalove."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Usne su ti kao konac skerleta, a govor ti je ljubak; kao kri\u0161ka \u0161ipka jagodice su tvoje izme\u00f0u vitica tvojih;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vrat ti je kao kula Davidova sazidana za oru\u017eje, gdje vise tisu\u00e6ama \u0161titovi i svakojako oru\u017eje juna\u00e8ko;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dvije su ti dojke kao dva laneta blizanca, koji pasu me\u00f0u ljiljanima."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dok dan zahladi i sjenke otidu, i\u00e6i \u00e6u ka gori smirnovoj i ka humu tamjanovu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sva si lijepa draga moja, i nema nedostatka na tebi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hodi sa mnom s Livana, nevjesto, hodi sa mnom s Livana, da gleda\u0161 s vrha Amanskoga, s vrha Senirskoga i Ermonskoga, iz pe\u00e6ina lavovskih, s gora risovskih."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Otela si mi srce, sestro moja nevjesto, otela si mi srce jednijem okom svojim i jednijem lan\u00e8i\u00e6em s grla svojega."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Lijepa li je ljubav tvoja, sestro moja nevjesto, bolja je od vina ljubav tvoja, i miris ulja tvojih od svijeh mirisnijeh stvari."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "S usana tvojih kaplje sat, nevjesto, pod jezikom ti je med i mlijeko, i miris je haljina tvojih kao miris Livanski."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ti si vrt zatvoren, sestro moja nevjesto, izvor zatvoren, studenac zape\u00e8a\u00e6en."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Bilje je tvoje vo\u00e6njak od \u0161ipaka s vo\u00e6em krasnijem, od kipra i narda."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Od narda i \u0161afrana, od i\u00f0irota i cimeta sa svakojakim drvljem za kad, od smirne i aloja i sa svakim prekrasnim mirisima."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Izvore vrtovima, studen\u00e8e vode \u017eive i koja te\u00e8e s Livana!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ustani sjevere, i hodi ju\u017ee, i duni po vrtu mom da kaplju mirisi njegovi; neka do\u00f0e dragi moj u vrt svoj, i jede krasno vo\u00e6e svoje."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Do\u00f0oh u vrt svoj, sestro moja nevjesto, berem smirnu svoju i mirise svoje, jedem sat svoj i med svoj, pijem vino svoje i mlijeko svoje; jedite, prijatelji, pijte, i opijte se, mili moji!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ja spavam, a srce je moje budno; eto glasa dragoga mojega, koji kuca: otvori mi, sestro moja, draga moja, golubice moja, bezazlena moja; jer je glava moja puna rose i kosa moja no\u00e6nijeh kapi."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Svukla sam haljinu svoju, kako \u00e6u je obu\u00e6i? oprala sam noge svoje, kako \u00e6u ih kaljati?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dragi moj promoli ruku svoju kroz rupu, a \u0161to je u meni ustrepta od njega."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ja ustah da otvorim dragome svojemu, a s ruku mojih prokapa smirna, i niz prste moje pote\u00e8e smirna na dr\u017eak od brave."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Otvorih dragomu svome, ali dragoga mojega ne bje\u0161e, otide. Bijah izvan sebe kad on progovori. Tra\u017eih ga, ali ga ne na\u00f0oh; vikah ga, ali mi se ne odazva."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Na\u00f0o\u0161e me stra\u017eari, koji obilaze po gradu, bi\u0161e me, rani\u0161e me, uze\u0161e prijevjes moj s mene stra\u017eari po zidovima."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Zaklinjem vas, k\u00e6eri Jerusalimske, ako na\u00f0ete dragoga mojega, \u0161ta \u00e6ete mu kazati? Da sam bolna od ljubavi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u0160to je tvoj dragi bolji od drugih dragih, o najljep\u0161a me\u00f0u \u017eenama? \u0161to je tvoj dragi bolji od drugih dragih, te nas tako zaklinje\u0161?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dragi je moj bio i rumen, zastavnik izme\u00f0u deset tisu\u00e6a;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Glava mu je najbolje zlato, kosa mu je kudrava, crna kao gavran;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "O\u00e8i su mu kao u goluba na potocima vodenijem, mlijekom umivene, i stoje u obilju;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Obrazi su mu kao lijehe mirisnoga bilja, kao cvije\u00e6e mirisno; usne su mu kao ljiljan, s njih kaplje smirna \u017eitka;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Na rukama su mu zlatni prsteni, na kojima su ukovani virili; trbuh mu je kao svijetla slonova kost oblo\u017eena safirima."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Gnjati su mu kao stupovi od mramora, uglavljeni na zlatnom podno\u017eju; stas mu je Livan, krasan kao kedri."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Usta su mu slatka i sav je ljubak. Taki je moj dragi, taki je moj mili, k\u00e6eri Jerusalimske."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kuda otide dragi tvoj, najljep\u0161a me\u00f0u \u017eenama? kuda zama\u00e8e dragi tvoj, da ga tra\u017eimo s tobom?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dragi moj si\u00f0e u vrt svoj, k lijehama mirisnoga bilja, da pase po vrtovima i da bere ljiljane."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ja sam dragoga svojega, i moj je dragi moj, koji pase me\u00f0u ljiljanima."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Lijepa si, draga moja, kao Tersa, krasna si kao Jerusalim, stra\u0161na kao vojska sa zastavama."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Odvrati o\u00e8i svoje od mene, jer me raspaljuju. Kosa ti je kao stado koza koje se vide na Galadu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Zubi su ti kao stado ovaca kad izlaze iz kupala, koje se sve blizne a nijedne nema jalove."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jagodice su tvoje izme\u00f0u vitica tvojih kao kri\u0161ka \u0161ipka."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u0160ezdeset ima carica i osamdeset ino\u00e8a, i djevojaka bez broja;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ali je jedna golubica moja, bezazlena moja, jedinica u matere svoje, izabrana u roditeljke svoje. Vidje\u0161e je djevojke i naziva\u0161e je bla\u017eenom; i carice i ino\u00e8e hvali\u0161e je."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ko je ona \u0161to se vidi kao zora, lijepa kao mjesec, \u00e8ista kao sunce, stra\u0161na kao vojska sa zastavama?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Si\u00f0oh u ora\u0161je da vidim vo\u00e6e u dolu, da vidim cvate li vinova loza, pupe li \u0161ipci."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ne doznah ni\u0161ta, a du\u0161a me moja posadi na kola Aminadavova."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Vrati se, vrati se Sulamko, vrati se, vrati se, da te gledamo. \u0160ta \u00e6ete gledati na Sulamci? kao \u00e8ete vojni\u00e8ke."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kako su lijepe noge tvoje u obu\u00e6i, k\u00e6eri kne\u017eevska; sastavci su bedara tvojih kao grivne, djelo ruku umjetni\u00e8kih."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pupak ti je kao \u00e8a\u0161a okrugla, koja nije nikad bez pi\u00e6a; trbuh ti je kao stog p\u0161enice ogra\u00f0en ljiljanima;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dvije dojke tvoje kao dva blizanca srn\u00e8eta;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vrat ti je kao kula od slonove kosti; o\u00e8i su ti kao jezera u Esevonu na vratima Vatravimskim; nos ti je kao kula Livanska koja gleda prema Damasku;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Glava je tvoja na tebi kao Karmil, i kosa na glavi tvojoj kao carska porfira u bore nabrana."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kako si lijepa i kako si ljupka, o ljubavi u milinama!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Uzrast ti je kao palma, i dojke kao grozdovi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Rekoh: pope\u00e6u se na palmu, dohvati\u00e6u grane njezine; i bi\u00e6e dojke tvoje kao grozdovi na vinovoj lozi, i miris nosa tvojega kao jabuke;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "I grlo tvoje kao dobro vino, koje ide pravo dragomu mojemu i \u00e8ini da govore usne onijeh koji spavaju."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ja sam dragoga svojega, i njega je \u017eelja za mnom."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hodi, dragi moj, da idemo u polje, da no\u00e6ujemo u selima."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Rani\u00e6emo u vinograde da vidimo cvate li vinova loza, zame\u00e6e li se gro\u017e\u00f0e, cvatu li \u0161ipci; ondje \u00e6u ti dati ljubav svoju."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mandragore pu\u0161taju miris, i na vratima je na\u0161im svakojako krasno vo\u00e6e, novo i staro, koje za te dohranih, dragi moj."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O da bi mi brat bio, da bi sao sise matere moje! na\u0161av\u0161i te na polju poljubila bih te, i ne bih bila prijekorna."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Povela bih te i dovela bih te u ku\u00e6u matere svoje; ti bi me u\u00e8io, a ja bih te pojila vinom mirisavijem, sokom od \u0161ipaka."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Lijeva je ruka njegova meni pod glavom a desnom me grli."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Zaklinjem vas, k\u00e6eri Jerusalimske, ne budite ljubavi moje, ne budite je, dokle joj ne bude volja."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ko je ona \u0161to ide gore iz pustinje naslanjaju\u00e6i se na dragoga svoga? Pod jabukom probudih te, gdje te rodi mati tvoja, gdje te rodi roditeljka tvoja."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Metni me kao pe\u00e8at na srce svoje, kao pe\u00e8at na mi\u0161icu svoju. Jer je ljubav jaka kao smrt, i ljubavna sumnja tvrda kao grob; \u017ear je njezin kao \u017ear ognjen, plamen Bo\u017eji."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mnoga voda ne mo\u017ee ugasiti ljubavi, niti je rijeke potopiti. Da ko daje sve imanje doma svojega za tu ljubav, osramotio bi se."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Imamo sestru malenu, koja jo\u0161 nema dojaka. \u0160ta \u00e6emo \u00e8initi sa sestrom svojom kad bude rije\u00e8 o njoj?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ako je zid, sagradi\u00e6emo na njemu dvor od srebra; ako li vrata, utvrdi\u00e6emo ih daskama kedrovijem."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ja sam zid i dojke su moje kao kule. Tada postah u o\u00e8ima njegovijem kao ona koja na\u00f0e mir."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Vinograd ima\u0161e Solomun u Valamonu; dade vinograd \u00e8uvarima da svaki donosi za rod njegov po tisu\u00e6u srebrnika."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Moj vinograd koji ja imam, preda mnom je. Neka tebi, Solomune, tisu\u00e6a, i dvije stotine onima koji \u00e8uvaju rod njegov."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Koja nastava\u0161 u vrtovima! drugovi slu\u0161aju glas tvoj, daj mi da ga \u00e8ujem."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Br\u017ee, dragi moj! i budi kao srna ili kao jelen\u00e8e na gorama mirisnijem."
+                }
+            }
+        }
+    }
+}

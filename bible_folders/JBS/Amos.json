@@ -1,0 +1,636 @@
+{
+    "version": "JBS",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Las palabras de Am\u00f3s, que estuvo entre los pastores de Tecoa, las cuales vio sobre Israel en d\u00edas de Uz\u00edas rey de Jud\u00e1, y en d\u00edas de Jeroboam hijo de Jo\u00e1s, rey de Israel, dos a\u00f1os antes del terremoto."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Y dijo: El SE\u00d1OR bramar\u00e1 desde Sion, y dar\u00e1 su voz desde Jerusal\u00e9n; y las estancias de los pastores ser\u00e1n destruidas, y se secar\u00e1 la cumbre del Carmelo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: Por tres pecados de Damasco, y por el cuarto, no la convertir\u00e9; porque trillaron a Galaad con trillos de hierro."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Y meter\u00e9 fuego en la casa de Hazael, y consumir\u00e1 los palacios de Ben-adad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Y quebrar\u00e9 la barra de Damasco, y talar\u00e9 los moradores de Bicat-av\u00e9n, y los gobernadores de Bet-ed\u00e9n; y el pueblo de Siria ser\u00e1 transportado a Kir."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: Por tres pecados de Gaza, y por el cuarto, no la convertir\u00e9; porque llev\u00f3 cautiva toda la cautividad, para entregarlos a Edom."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Y meter\u00e9 fuego en el muro de Gaza, y quemar\u00e1 sus palacios."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Y talar\u00e9 a los moradores de Azoto, y a los gobernadores de Ascal\u00f3n; y tornar\u00e9 mi mano sobre Ecr\u00f3n, y el remanente de los palestinos perecer\u00e1, dijo el Se\u00f1or DIOS."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: Por tres pecados de Tiro, y por el cuarto, no la convertir\u00e9; porque entregaron la cautividad entera a Edom, y no se acordaron del concierto de hermanos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Y meter\u00e9 fuego en el muro de Tiro, y consumir\u00e1 sus palacios."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: Por tres pecados de Edom, y por el cuarto, no la convertir\u00e9; porque persigui\u00f3 a espada a su hermano, y rompi\u00f3 sus misericordias; y con su furor le ha robado siempre, y ha guardado perpetuamente el enojo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Y meter\u00e9 fuego en Tem\u00e1n, y consumir\u00e1 los palacios de Bosra."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: Por tres pecados de los hijos de Am\u00f3n, y por el cuarto, no la convertir\u00e9; porque rompieron los montes de Galaad, para ensanchar su t\u00e9rmino."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Y encender\u00e9 fuego en el muro de Rab\u00e1, y consumir\u00e1 sus palacios como con gritos en d\u00eda de batalla, como con tempestad en d\u00eda de torbellino;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "y su rey ir\u00e1 en cautiverio, \u00e9l y sus pr\u00edncipes todos, dijo el SE\u00d1OR."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: Por tres pecados de Moab, y por el cuarto, no la convertir\u00e9; porque quem\u00f3 los huesos del rey de Idumea hasta tornarlos en cal."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Y meter\u00e9 fuego en Moab, y consumir\u00e1 los palacios de Queriot; y morir\u00e1 Moab en alboroto, en gritos y sonido de shofar."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Y quitar\u00e9 el juez de en medio de \u00e9l, y matar\u00e9 con \u00e9l a todos sus pr\u00edncipes, dijo el SE\u00d1OR."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: Por tres pecados de Jud\u00e1, y por el cuarto, no la convertir\u00e9; porque menospreciaron la ley del SE\u00d1OR, y no guardaron sus ordenanzas; y sus mentiras los hicieron errar, en pos de las cuales anduvieron sus padres."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Y meter\u00e9 fuego en Jud\u00e1, el cual consumir\u00e1 los palacios de Jerusal\u00e9n."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: Por tres pecados de Israel, y por el cuarto, no la convertir\u00e9; porque vendieron por dinero al justo, y al pobre por un par de zapatos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Que anhelan porque haya un polvo de tierra sobre la cabeza de los pobres, y tuercen el camino de los humildes; y el hombre y su padre entraron a la misma joven, profanando mi santo Nombre."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Y sobre las ropas empe\u00f1adas se acuestan junto a cualquier altar; y el vino de los penados beben en la casa de sus dioses."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Y yo destru\u00ed delante de ellos al amorreo, cuya altura era como la altura de los cedros, y fuerte como un alcornoque; y destru\u00ed su fruto arriba, y sus ra\u00edces abajo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Y yo os hice a vosotros subir de la tierra de Egipto, y os traje por el desierto cuarenta a\u00f1os, para que poseyerais la tierra del amorreo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Y levant\u00e9 de vuestros hijos para profetas, y de vuestros j\u00f3venes para que fueran nazareos. \u00bfNo es esto as\u00ed, hijos de Israel dijo el SE\u00d1OR?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mas vosotros disteis de beber vino a los nazareos; y a los profetas mandasteis, diciendo: No profetic\u00e9is."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pues he aqu\u00ed, yo os apretar\u00e9 en vuestro lugar, como se aprieta el carro lleno de haces;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "y la huida perecer\u00e1 del ligero, y el fuerte no esforzar\u00e1 su fuerza, ni el valiente librar\u00e1 su alma;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Y el que toma el arco no estar\u00e1 en pie, ni escapar\u00e1 el ligero de pies, ni el que cabalga en caballo salvar\u00e1 su vida."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "El esforzado entre esforzados huir\u00e1 desnudo aquel d\u00eda, dijo el SE\u00d1OR."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O\u00edd esta palabra que ha hablado el SE\u00d1OR contra vosotros, hijos de Israel, contra toda la familia que hice subir de la tierra de Egipto. Dice as\u00ed:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A vosotros solamente he conocido de todas las familias de la tierra; por tanto, visitar\u00e9 contra vosotros todas vuestras iniquidades."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bfAndar\u00e1n dos juntos, si no estuvieren de acuerdo?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bfBramar\u00e1 el le\u00f3n en el monte sin hacer presa? \u00bfDar\u00e1 el leoncillo su bramido desde su morada, si no prendiere?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bfCaer\u00e1 el ave en el lazo sobre la tierra, sin haber armador? \u00bfSe alzar\u00e1 el lazo de la tierra, si no se ha prendido algo?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bfSe tocar\u00e1 el shofar en la ciudad, y no se alborotar\u00e1 el pueblo? \u00bfHabr\u00e1 alg\u00fan mal en la ciudad, el cual el SE\u00d1OR no haya hecho?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Porque no har\u00e1 nada el Se\u00f1or DIOS, sin que revele su secreto a sus esclavos los profetas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Bramando el le\u00f3n, \u00bfqui\u00e9n no temer\u00e1? Hablando el Se\u00f1or DIOS, \u00bfqui\u00e9n no profetizar\u00e1?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Haced pregonar sobre los palacios de Azoto, y sobre los palacios de la tierra de Egipto, y decid: Reun\u00edos sobre los montes de Samaria, y ved la gran opresi\u00f3n en medio de ella, y muchas violencias en medio de ella."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Y no saben hacer lo recto, dijo el SE\u00d1OR, atesorando rapi\u00f1as y despojos en sus palacios."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Por tanto, el Se\u00f1or DIOS dijo as\u00ed: Un enemigo vendr\u00e1 que cercar\u00e1 la tierra, y derribar\u00e1 de ti tu fortaleza, y tus palacios ser\u00e1n saqueados."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "As\u00ed dijo el SE\u00d1OR: De la manera que el pastor libra de la boca del le\u00f3n dos piernas, o la punta de una oreja, as\u00ed escapar\u00e1n los hijos de Israel que moran en Samaria, al rinc\u00f3n de la cama, y al canto del lecho."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "O\u00edd y protestad en la Casa de Jacob, dijo el SE\u00d1OR Dios de los ej\u00e9rcitos:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Que el d\u00eda que visitar\u00e9 las rebeliones de Israel sobre \u00e9l, visitar\u00e9 tambi\u00e9n sobre los altares de Bet-el; y ser\u00e1n cortados los cuernos del altar, y caer\u00e1n a tierra."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Y herir\u00e9 la Casa del invierno con la Casa del verano, y las casas de marfil perecer\u00e1n; y muchas casas ser\u00e1n taladas, dijo el SE\u00d1OR."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O\u00edd esta palabra, vacas de Bas\u00e1n, que est\u00e1is en el monte de Samaria, que oprim\u00eds a los pobres, que quebrant\u00e1is a los menesterosos, que dec\u00eds a sus se\u00f1ores: Traed, y beberemos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "El Se\u00f1or DIOS jur\u00f3 por su Santidad: He aqu\u00ed, vienen d\u00edas sobre vosotros en que os llevar\u00e1 con anzuelos, y a vuestros descendientes en barquillos de pescador."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Y saldr\u00e1n por los portillos la una en pos de la otra, y ser\u00e9is echadas del palacio, dice el SE\u00d1OR."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Id a Bet-el, y prevaricad; en Gilgal aumentad la rebeli\u00f3n, y traed de ma\u00f1ana vuestros sacrificios, y vuestros diezmos cada tres a\u00f1os;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "y ofreced sacrificio de alabanza con leudo, y pregonad, publicad voluntarias ofrendas; pues que as\u00ed lo quer\u00e9is, hijos de Israel, dijo el Se\u00f1or DIOS."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Yo tambi\u00e9n os di limpieza de dientes en todas vuestras ciudades, y falta de pan en todos vuestros pueblos; mas no os tornasteis a m\u00ed, dijo el SE\u00d1OR."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Y tambi\u00e9n yo os detuve la lluvia tres meses antes de la siega; e hice llover sobre una ciudad, y sobre otra ciudad no hice llover; sobre una parte llovi\u00f3; y la parte sobre la cual no llovi\u00f3, se sec\u00f3."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Y ven\u00edan dos o tres ciudades a una ciudad para beber agua, y no se saciaban; con todo, no os tornasteis a m\u00ed, dijo el SE\u00d1OR."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Os her\u00ed con viento solano y oruga; vuestros muchos huertos y vuestras vi\u00f1as, y vuestros higuerales y vuestros olivares comi\u00f3 la langosta; pero nunca os tornasteis a m\u00ed, dijo el SE\u00d1OR."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Envi\u00e9 entre vosotros mortandad en el camino a Egipto; mat\u00e9 a espada a vuestros j\u00f3venes, quit\u00e9 vuestros caballos; e hice subir el hedor de vuestros reales hasta vuestras narices; y nunca os tornasteis a m\u00ed, dijo el SE\u00d1OR."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Os trastorn\u00e9, como cuando Dios trastorn\u00f3 a Sodoma y a Gomorra, y fuisteis como tiz\u00f3n escapado del fuego; y nunca os tornasteis a m\u00ed, dice el SE\u00d1OR."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Por tanto, de esta manera har\u00e9 a ti, oh Israel; y porque te he de hacer esto, apar\u00e9jate para venir al encuentro de tu Dios, oh Israel."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Porque he aqu\u00ed, el que forma los montes, y crea el viento, y denuncia al hombre su pensamiento; el que hace a las tinieblas ma\u00f1ana, y pasa sobre las alturas de la tierra; el SE\u00d1OR, Dios de los ej\u00e9rcitos, es su Nombre."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O\u00edd esta palabra, porque yo levanto endecha sobre vosotros, Casa de Israel."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Cay\u00f3 la virgen de Israel, no m\u00e1s podr\u00e1 levantarse; dejada fue sobre su tierra, no hay quien la levante."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Porque as\u00ed dijo el Se\u00f1or DIOS: La ciudad que sacaba mil, quedar\u00e1 con ciento; y la que sacaba ciento, quedar\u00e1 con diez, en la casa de Israel."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pero as\u00ed dijo el SE\u00d1OR a la Casa de Israel: Buscadme, y vivid;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "y no busqu\u00e9is a Bet-el ni entr\u00e9is en Gilgal, ni pas\u00e9is a Beerseba; porque Gilgal ser\u00e1 llevada en cautiverio, y Bet-el ser\u00e1 deshecha."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Buscad al SE\u00d1OR, y vivid; no sea que hienda, como fuego, a la Casa de Jos\u00e9, y la consuma, sin haber en Bet-el quien lo apague."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Los que convierten en ajenjo el juicio, y dejan de hacer la justicia en la tierra,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "miren al que hace el Arcturo y el Ori\u00f3n, y las tinieblas vuelve en ma\u00f1ana, y hace oscurecer el d\u00eda en noche; el que llama a las aguas del mar, y las derrama sobre la faz de la tierra; el SE\u00d1OR es su nombre;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "que da esfuerzo al despojador sobre el fuerte, y que el despojador venga contra la fortaleza."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ellos aborrecieron en la puerta al reprensor, y al que hablaba lo recto abominaron."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Por tanto, puesto que vej\u00e1is al pobre y recib\u00eds de \u00e9l carga de trigo; edificasteis casas de sillares, mas no las habitar\u00e9is; plantasteis hermosas vi\u00f1as, mas no beber\u00e9is el vino de ellas."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque he sabido de vuestras muchas rebeliones, y de vuestros grandes pecados, que afligen al justo, y reciben rescate, y a los pobres en la puerta hacen perder su causa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Por tanto, el prudente en tal tiempo calla, porque el tiempo es malo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Buscad lo bueno, y no lo malo, para que viv\u00e1is; porque as\u00ed el SE\u00d1OR Dios de los ej\u00e9rcitos ser\u00e1 con vosotros, como dec\u00eds."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Aborreced el mal, y amad el bien, y poned juicio en la puerta; por ventura el SE\u00d1OR, Dios de los ej\u00e9rcitos, tendr\u00e1 piedad del remanente de Jos\u00e9."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Por tanto, as\u00ed dijo el SE\u00d1OR, el Dios de los ej\u00e9rcitos, el Se\u00f1or: En todas las plazas habr\u00e1 llanto, y en todas las calles dir\u00e1n: \u00a1Ay! \u00a1ay! Y al labrador llamar\u00e1n a lloro, y a endecha a los que endechar supieren."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Y en todas las vi\u00f1as habr\u00e1 llanto; porque pasar\u00e9 por medio de ti, dijo el SE\u00d1OR."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00a1Ay de los que desean el d\u00eda del SE\u00d1OR! \u00bfPara qu\u00e9 quer\u00e9is este d\u00eda del SE\u00d1OR? Ser\u00e1 de tinieblas, y no de luz;"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "como el que huye de delante del le\u00f3n, y se topa con el oso; o si entrare en casa y arrimare su mano a la pared, y le muerda la culebra."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00bfNo ser\u00e1 el d\u00eda del SE\u00d1OR tinieblas, y no luz; oscuridad, que no tiene resplandor?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Aborrec\u00ed, abomin\u00e9 vuestras solemnidades, y no me dar\u00e1n buen olor vuestras asambleas."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Y si me ofreciereis vuestros holocaustos y vuestros presentes, no los recibir\u00e9; ni mirar\u00e9 a los sacrificios pac\u00edficos de vuestros engordados."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Quita de m\u00ed la multitud de tus cantares, que no escuchar\u00e9 las salmodias de tus instrumentos."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Antes corra el juicio como las aguas, y la justicia como impetuoso arroyo."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u00bfPor ventura me ofrecisteis sacrificios y presente en el desierto en cuarenta a\u00f1os, casa de Israel?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Y ofrecisteis a Moloc vuestro rey, y a Qui\u00fan vuestros \u00eddolos, la estrella de vuestros dioses que os hicisteis."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Os har\u00e9, pues, transportar m\u00e1s all\u00e1 de Damasco, dijo el SE\u00d1OR, cuyo Nombre es Dios de los ej\u00e9rcitos."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00a1Ay de los reposados en Sion, y de los confiados en el monte de Samaria, nombrados principales entre las mismas naciones, a cuales vendr\u00e1n sobre ellos, oh casa de Israel!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pasad a Calne, y mirad; y de all\u00ed id a la gran Hamat; descended luego a Gat de los palestinos; ved si son aquellos reinos mejores que estos reinos, si su t\u00e9rmino es mayor que vuestro t\u00e9rmino."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Los que dilat\u00e1is el d\u00eda malo, y acerc\u00e1is la silla de violencia;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "los que duermen en camas de marfil, y se extienden sobre sus lechos; y comen los corderos del reba\u00f1o, y los becerros de en medio del engordadero;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "los que gorjean al son de la flauta, e inventan instrumentos musicales, como David;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "los que beben vino en tazones, y se ungen con los ung\u00fcentos m\u00e1s preciosos; y no se afligen por el quebrantamiento de Jos\u00e9."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Por tanto, ahora pasar\u00e1n en el principio de los que a cautividad pasaren, y el banquete de los que se extienden sobre sus lechos ser\u00e1 quitado."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "El Se\u00f1or DIOS jur\u00f3 por su alma, el SE\u00d1OR Dios de los ej\u00e9rcitos dijo: Tengo en abominaci\u00f3n la grandeza de Jacob, y aborrezco sus palacios; y la ciudad y su plenitud entregar\u00e9 al enemigo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Y acontecer\u00e1 que si diez hombres quedaren en una casa, morir\u00e1n."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Y su t\u00edo tomar\u00e1 a cada uno, y le quemar\u00e1 para sacar los huesos de casa; y dir\u00e1 al que estar\u00e1 en los rincones de la casa: \u00bfHay a\u00fan alguno contigo? Y dir\u00e1: No. Y dir\u00e1 aquel : Calla, que no conviene hacer memoria del nombre del SE\u00d1OR."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Porque he aqu\u00ed, el SE\u00d1OR mandar\u00e1, y herir\u00e1 con hendiduras la casa mayor, y la casa menor con aberturas."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00bfCorrer\u00e1n los caballos por las piedras? \u00bfArar\u00e1n en ellas con vacas? \u00bfPor qu\u00e9 hab\u00e9is vosotros tornado el juicio en veneno, y el fruto de justicia en ajenjo?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Los que os alegr\u00e1is en nada; los que dec\u00eds: \u00bfNo nos hemos adquirido cuernos con nuestra fortaleza?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pues he aqu\u00ed, levantar\u00e9 yo sobre vosotros, oh casa de Israel, dijo el SE\u00d1OR Dios de los ej\u00e9rcitos, gentiles que os oprimir\u00e1n desde la entrada de Hamat hasta el arroyo del desierto."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El Se\u00f1or DIOS me mostr\u00f3 as\u00ed; y he aqu\u00ed, \u00e9l criaba langostas al principio que comenzaba a crecer el heno tard\u00edo; y he aqu\u00ed que el heno tard\u00edo creci\u00f3 despu\u00e9s de las siegas del rey."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Y acaeci\u00f3 que como acab\u00f3 de comer la hierba de la tierra, yo dije: Se\u00f1or DIOS, perdona ahora; \u00bfqui\u00e9n levantar\u00e1 a Jacob? Porque es peque\u00f1o."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Se arrepinti\u00f3 el SE\u00d1OR de esto: No ser\u00e1, dijo el SE\u00d1OR."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El Se\u00f1or DIOS despu\u00e9s me mostr\u00f3 as\u00ed: y he aqu\u00ed, llamaba para juzgar por fuego el Se\u00f1or DIOS; y consumi\u00f3 un gran abismo, y consumi\u00f3 la heredad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Y dije: Se\u00f1or DIOS, cesa ahora; \u00bfqui\u00e9n levantar\u00e1 a Jacob? Porque es peque\u00f1o."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Se arrepinti\u00f3 el SE\u00d1OR de esto: No ser\u00e1 esto tampoco, dijo el Se\u00f1or DIOS."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Me ense\u00f1\u00f3 tambi\u00e9n as\u00ed: He aqu\u00ed, el Se\u00f1or estaba sobre un muro edificado a plomada de alba\u00f1il, y ten\u00eda en su mano una plomada de alba\u00f1il."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Y el SE\u00d1OR entonces me dijo: \u00bfQu\u00e9 ves, Am\u00f3s? Y dije: Una plomada de alba\u00f1il. Y el Se\u00f1or dijo: He aqu\u00ed, Yo pongo plomada de alba\u00f1il en medio de mi pueblo Israel. Nunca m\u00e1s le pasar\u00e9;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "y los altares de Isaac ser\u00e1n destruidos, y los santuarios de Israel ser\u00e1n asolados; y me levantar\u00e9 con espada sobre la casa de Jeroboam."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Entonces Amas\u00edas sacerdote de Bet-el envi\u00f3 a decir a Jeroboam, rey de Israel: Am\u00f3s se ha conjurado contra ti en medio de la Casa de Israel; la tierra no puede ya sufrir todas sus palabras."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Porque as\u00ed ha dicho Am\u00f3s: Jeroboam morir\u00e1 a espada, e Israel pasar\u00e1 de su tierra en cautiverio."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Y Amas\u00edas dijo a Am\u00f3s: Vidente, vete, y huye a tierra de Jud\u00e1, y come all\u00e1 tu pan, y profetiza all\u00e1;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "y no profetices m\u00e1s en Bet-el, porque es santuario del rey, y cabecera del reino."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Entonces respondi\u00f3 Am\u00f3s, y dijo a Amas\u00edas: No soy profeta, ni soy hijo de profeta, sino que soy boyero, y cogedor de higos silvestres;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "y el SE\u00d1OR me tom\u00f3 detr\u00e1s del ganado, y me dijo el SE\u00d1OR: Ve, y profetiza a mi pueblo Israel."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ahora, pues, oye palabra del SE\u00d1OR. T\u00fa dices: No profetices contra Israel, ni hables contra la casa de Isaac:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Por tanto, as\u00ed dijo el SE\u00d1OR: Tu mujer fornicar\u00e1 en la ciudad, y tus hijos y tus hijas caer\u00e1n a espada, y tu tierra ser\u00e1 partida por suertes; y t\u00fa morir\u00e1s en tierra inmunda, e Israel ser\u00e1 traspasado de su tierra."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El SE\u00d1OR me ense\u00f1\u00f3 as\u00ed: Y he aqu\u00ed un canastillo de fruta de verano."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Y dijo: \u00bfQu\u00e9 ves, Am\u00f3s? Y dije: Un canastillo de fruta de verano. Y el SE\u00d1OR me dijo: Ha venido el fin sobre mi pueblo Israel; nunca m\u00e1s le pasar\u00e9."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Y los cantores del templo aullar\u00e1n en aquel d\u00eda, dijo el Se\u00f1or DIOS; los cuerpos muertos ser\u00e1n aumentados en todo lugar echados en silencio."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "O\u00edd esto, los que trag\u00e1is a los menesterosos, y tal\u00e1is a los pobres de la tierra,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "diciendo: Cuando pasare el mes, venderemos el trigo; y pasado el s\u00e1bado abriremos los alfol\u00edes del pan, y achicaremos la medida, y engrandeceremos el precio, y falsearemos el peso enga\u00f1oso;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "y compraremos los pobres por dinero, y los necesitados por un par de zapatos, y venderemos los desechos del trigo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "El SE\u00d1OR jur\u00f3 por la gloria de Jacob: No me olvidar\u00e9 para siempre de todas sus obras."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bfNo se ha de estremecer la tierra sobre esto? \u00bfY todo habitador de ella no llorar\u00e1? Y subir\u00e1 toda como un r\u00edo, y ser\u00e1 arrojada, y ser\u00e1 hundida como el r\u00edo de Egipto."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Y acaecer\u00e1 en aquel d\u00eda, dijo el Se\u00f1or DIOS, que har\u00e9 que se ponga el sol al mediod\u00eda, y la tierra cubrir\u00e9 de tinieblas en el d\u00eda claro."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Y tornar\u00e9 vuestras fiestas en lloro, y todos vuestros cantares en endechas; y har\u00e9 poner cilicio sobre todo lomo, y peladura sobre toda cabeza; y la tornar\u00e9 como en llanto de unig\u00e9nito, y su postrimer\u00eda como d\u00eda amargo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "He aqu\u00ed vienen d\u00edas, dijo el Se\u00f1or DIOS, en los cuales enviar\u00e9 hambre a la tierra, no hambre de pan, ni sed de agua, sino de o\u00edr la palabra del SE\u00d1OR."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "E ir\u00e1n errantes de mar a mar; desde el norte hasta el oriente discurrir\u00e1n buscando palabra del SE\u00d1OR, y no la hallar\u00e1n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "En aquel tiempo las doncellas hermosas y los j\u00f3venes desmayar\u00e1n de sed."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Los que juran por las culpas de Samaria, y dicen: Vive tu Dios de Dan; y: Vive el camino de Beerseba, caer\u00e1n, y nunca m\u00e1s se levantar\u00e1n."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vi al Se\u00f1or que estaba sobre el altar, y dijo: Hiere el umbral, y estrem\u00e9zcanse las puertas; y c\u00f3rtales en piezas la cabeza de todos; y al postrero de ellos matar\u00e9 a espada; no habr\u00e1 de ellos quien se fugue, ni quien escape."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Aunque cavaren hasta el Seol, de all\u00e1 los tomar\u00e1 mi mano; y si subieren hasta el cielo, de all\u00e1 los har\u00e9 descender."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Y si se escondieren en la cumbre del Carmelo, all\u00ed los buscar\u00e9 y los tomar\u00e9; y aunque se escondieren de delante de mis ojos en lo profundo del mar, all\u00ed mandar\u00e9 a la culebra, y los morder\u00e1."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Y si fueren en cautiverio delante de sus enemigos, all\u00ed mandar\u00e9 a la espada, y los matar\u00e1; y pondr\u00e9 sobre ellos mis ojos para mal, y no para bien."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El Se\u00f1or DIOS de los ej\u00e9rcitos, que toca la tierra, y se derretir\u00e1, y llorar\u00e1n todos los que en ella moran; y subir\u00e1 toda como un r\u00edo, y ser\u00e1 hundida como el r\u00edo de Egipto."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El edific\u00f3 en el cielo sus gradas, y su ayuntamiento fund\u00f3 sobre la tierra; \u00e9l llama las aguas del mar, y sobre la faz de la tierra las derrama; el SE\u00d1OR es su Nombre."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hijos de Israel, \u00bfno me sois vosotros, como hijos de et\u00edopes, dijo el SE\u00d1OR? \u00bfNo hice yo subir a Israel de la tierra de Egipto, y a los palestinos de Caftor, y a los sirios de Kir?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "He aqu\u00ed los ojos del Se\u00f1or DIOS est\u00e1n contra el reino pecador, y yo lo asolar\u00e9 de la faz de la tierra; mas no destruir\u00e9 del todo la casa de Jacob, dice el SE\u00d1OR."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Porque he aqu\u00ed yo mandar\u00e9, y har\u00e9 que la Casa de Israel sea zarandeada entre todos los gentiles, como se zarandea el grano en un harnero, y no cae un granito a tierra."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A espada morir\u00e1n todos los pecadores de mi pueblo, que dicen: No se acercar\u00e1, ni se anticipar\u00e1 el mal por causa nuestra."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "En aquel d\u00eda yo levantar\u00e9 el Tabern\u00e1culo de David, ca\u00eddo, y cerrar\u00e9 sus portillos, y levantar\u00e9 sus ruinas, y lo edificar\u00e9 como en el tiempo pasado;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "para que aquellos sobre los cuales es llamado mi nombre, posean el resto de Idumea, y a todos los gentiles, dijo el SE\u00d1OR que hace esto."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "He aqu\u00ed vienen d\u00edas, dice el SE\u00d1OR, en que el que ara alcanzar\u00e1 al segador, y el pisador de las uvas al que lleve la simiente; y los montes destilar\u00e1n mosto, y todos los collados se derretir\u00e1n."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Y tornar\u00e9 el cautiverio de mi pueblo Israel, y edificar\u00e1n las ciudades asoladas, y las habitar\u00e1n; y plantar\u00e1n vi\u00f1as, y beber\u00e1n el vino de ellas; y har\u00e1n huertos, y comer\u00e1n el fruto de ellos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pues los plantar\u00e9 sobre su tierra, y nunca m\u00e1s ser\u00e1n arrancados de su tierra la cual yo les di, dijo el SE\u00d1OR Dios tuyo."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,955 @@
+{
+    "version": "ASND",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Walang Kabuluhan ang Lahat - Ito ang sinabi ng mangangaral na anak ni David na hari ng Jerusalem:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Walang kabuluhan! Walang kabuluhan ang lahat!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ano ang pakinabang ng tao sa pagpapakahirap niyang magtrabaho sa mundong ito?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Lumilipas ang isang henerasyon at napapalitan, pero ang mundo ay hindi nagbabago."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sumisikat ang araw at pagkatapos ay lumulubog; pabalik-balik lang sa kanyang pinanggalingan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Umiihip ang hangin sa timog at pagkatapos ay iihip naman sa hilaga. Paikot-ikot lang ito at pabalik-balik."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Lahat ng ilog ay umaagos sa dagat, pero hindi naman napupuno ang dagat kahit na patuloy ang pag-agos ng ilog."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ang lahat ng ito\u02bcy nakakabagot at ayaw na ngang pag-usapan. Hindi nagsasawa ang mga mata natin sa katitingin at ang mga tainga natin sa pakikinig."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ang mga nangyari noon, nangyayari ulit ngayon. Ang mga ginawa noon, ginagawa ulit ngayon. Walang nangyayaring bago sa mundo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "May mga bagay pa ba na masasabi mong bago? Nariyan na iyan noon pa, kahit noong hindi pa tayo ipinapanganak."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hindi na natin naaalala ang mga nangyari noon; ganoon din sa hinaharap, hindi rin ito maaalala ng mga tao sa bandang huli."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ang Karunungan ng Tao ay Walang Kabuluhan - Ako na isang mangangaral ay naging hari ng Israel. Tumira ako sa Jerusalem."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sa aking karunungan, pinag-aralan kong mabuti ang lahat ng nangyayari rito sa mundo. At nakita kong napakahirap ng gawaing ibinigay ng Dios sa mga tao."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nakita kong walang kabuluhan ang lahat ng ginagawa ng tao rito sa mundo. Para kang humahabol sa hangin."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ang baluktot ay hindi mo maitutuwid at ang wala ay hindi mo maibibilang."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sinabi ko sa aking sarili, \u201cMas marunong ako kaysa sa lahat ng naging hari sa Jerusalem. Marami akong alam.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pinag-aralan kong mabuti ang pagkakaiba ng karunungan at kamangmangan, pero nakita kong wala rin itong kabuluhan. Para kang humahabol sa hangin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dahil habang nadadagdagan ang kaalaman ko, nadadagdagan din ang aking kalungkutan."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang Kasayahan ay Walang Kabuluhan - Sinubukan kong magpakasaya sa mga layaw ng buhay. Pero nakita kong wala rin itong kabuluhan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kamangmangan ang sobrang pagtawa at ang pagpapakasaya ay wala ring kabuluhan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Sinubukan kong magpakasaya sa pag-inom ng alak. Kahit na marunong ako, sinubukan kong gumawa ng kamangmangan. Naisip ko lang na baka iyon ang pinakamabuting gawin ng tao sa maikling buhay niya dito sa mundo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Gumawa ako ng mga dakilang bagay: Nagpagawa ako ng mga bahay at nagtanim ng mga ubas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nagpagawa ako ng mga taniman at pinataniman ko ito ng sari-saring puno na namumunga."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nagpagawa ako ng mga imbakan ng tubig para patubigan ang mga pananim."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Bumili ako ng mga lalaki at babaeng alipin, at may mga alipin din ako na ipinanganak sa aking bahay. At ako ang may pinakamaraming kawan ng hayop sa lahat ng naging mamamayan ng Jerusalem."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nakaipon ako ng napakaraming ginto, pilak at iba pang mga kayamanang galing sa mga hari at mga lugar na aking nasasakupan. Marami akong mang-aawit, lalaki man o babae at marami rin akong mga asawa\u202f\u2013\u202fang kaligayahan ng isang lalaki."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ako ang pinakamayaman at pinakamarunong na taong nabuhay sa buong Jerusalem."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nakukuha ko ang lahat ng magustuhan ko. Ginawa ko ang lahat ng inakala kong makapagpapaligaya sa akin. Nasiyahan ako sa lahat ng pinaghirapan ko. Ito ang gantimpala sa lahat ng pagsusumikap ko."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pero nang isipin kong mabuti ang lahat ng ginawa at pinaghirapan ko, naisip ko na walang kabuluhan ang lahat ng pinagsikapan ko rito sa mundo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ano pa ba ang magagawa ng susunod na hari? Ano pa nga ba, kundi iyong nagawa na rin noong una. Ang Karunungan at Kamangmangan ay Walang Kabuluhan - Sinubukan ko ring ihambing ang karunungan at ang kamangmangan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "At nakita kong mas mabuti ang karunungan kaysa sa kamangmangan, gaya ng liwanag na mas mabuti kaysa sa kadiliman."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Alam ng marunong ang patutunguhan niya, ngunit ang hangal ay lumalakad sa kadiliman. Pero nalaman ko ring pareho lang silang mamamatay."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kaya sinabi ko sa aking sarili, \u201cAng sinapit ng mangmang ay sasapitin ko rin. Kaya anong kabutihan ang mapapala ng pagiging marunong ko? Wala talaga itong kabuluhan!\u201d"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Lahat tayo, marunong man o mangmang ay pare-parehong mamamatay at makakalimutan."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Walang Kabuluhan ang Pagsusumikap - Kaya kinamuhian ko ang buhay, dahil kahirapan ang dulot ng lahat ng ginagawa rito sa mundo. Ang lahat ng ito ay walang kabuluhan, para ka lang humahabol sa hangin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kinaiinisan ko ang lahat ng pinaghirapan ko dito sa mundo, dahil maiiwan ko lang ang mga ito sa susunod sa akin."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "At sino ang nakakaalam kung marunong siya o mangmang? Maging ano man siya, siya pa rin ang magmamay-ari ng lahat ng pinaghirapan ko ng buong lakas at karunungan. Wala rin itong kabuluhan!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kaya nanghinayang ako sa lahat ng pinaghirapan ko rito sa mundo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Dahil kahit magsikap ka gamit ang buo mong talino, isip at kakayahan, iiwan mo rin ang lahat ng pinaghirapan mo sa taong hindi naghirap para sa mga bagay na ito. Ito man ay wala ring kabuluhan at hindi makatarungan."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kaya ano ang makukuha ng tao sa lahat ng pagsusumikap niya rito sa mundo?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Lahat ng pinagsumikapan niya sa buong buhay niya\u02bcy makapagpapasama lang ng kanyang kalooban. Kaya kahit sa gabi ay hindi siya makatulog. Wala rin itong kabuluhan!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ang pinakamagandang gawin ng tao ay kumain, uminom at pakinabangan ang mga pinaghirapan niya. Nalaman ko na galing ito sa Dios,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "dahil paano natin makakain at mapapakinabangan ang mga pinaghirapan natin kung hindi ito ibibigay ng Dios?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Dahil ang taong nagbibigay-lugod sa Dios ay binibigyan niya ng karunungan, kaalaman at kagalakan. At ang makasalanan ay binibigyan ng Dios ng trabaho upang mag-ipon ng kayamanan para ibigay sa taong nagbibigay-lugod sa Dios. Kaya lahat ng pagsisikap ng makasalanan ay walang kabuluhan. Para siyang humahabol sa hangin."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "May Kanya-kanyang Oras ang Lahat - May oras na nakatakda para sa lahat ng gawain dito sa mundo:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "May oras ng pagsilang at may oras ng kamatayan; may oras ng pagtatanim at may oras ng pag-aani."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "May oras ng pagpatay at may oras ng pagpapagaling; may oras ng pagsira at may oras ng pagpapatayo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "May oras ng pagluha at may oras ng pagtawa; may oras ng pagluluksa at may oras ng pagdiriwang."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "May oras ng pagkakalat ng bato at may oras ng pagtitipon nito; may oras ng pagsasama at may oras ng paghihiwalay."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "May oras ng paghahanap at may oras ng paghinto ng paghahanap; may oras ng pagtatago at may oras ng pagtatapon."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "May oras ng pagpunit at may oras ng pagtahi; may oras ng pagtahimik at may oras ng pagsasalita."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "May oras ng pagmamahal at may oras ng pagkagalit; may oras ng digmaan at may oras ng kapayapaan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kung ang mga oras na ito ay itinakda na ng Dios, ano ngayon ang kabuluhan ng pagsisikap ng tao?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nakita ko ang mga gawaing itinakda ng Dios para sa tao."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "At lahat ng ito ay itinadhana ng Dios na mangyari sa takdang panahon. Binigyan niya tayo ng pagnanais na malaman ang hinaharap, pero hindi talaga natin mauunawaan ang mga ginawa niya mula noong simula hanggang wakas."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Naisip ko na walang pinakamabuting gawin ang tao kundi magsaya at gumawa ng mabuti habang nabubuhay."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Gusto ng Dios na kumain tayo, uminom at magpakasaya sa mga pinaghirapan natin dahil ang mga bagay na ito\u02bcy regalo niya sa atin."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Alam kong ang lahat ng ginagawa ng Dios ay magpapatuloy magpakailanman at wala tayong maaaring idagdag o ibawas dito. Ginagawa ito ng Dios para magkaroon tayo ng paggalang sa kanya."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ang mga nangyayari ngayon at ang mga mangyayari pa lang ay nangyari na noon. Inuulit lang ng Dios ang mga pangyayari."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nakita ko rin na ang kasamaan ang naghahari rito sa mundo sa halip na katarungan at katuwiran."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Sinabi ko sa sarili ko, \u201cHahatulan ng Dios ang matutuwid at masasamang tao, dahil may itinakda siyang oras sa lahat ng bagay."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Sinusubok ng Dios ang mga tao para ipakita sa kanila na tulad sila ng mga hayop."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ang kapalaran ng tao ay tulad ng sa hayop; pareho silang mamamatay. Pareho silang may hininga, kaya walang inilamang ang tao sa hayop. Talagang walang kabuluhan ang lahat!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Iisa lang ang patutunguhan ng lahat. Lahat ay nagmula sa lupa at sa lupa rin babalik."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Sino ang nakakaalam kung ang espiritu ng tao\u02bcy umaakyat sa itaas at ang espiritu ng hayop ay bumababa sa ilalim ng lupa?\u201d"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kaya naisip ko na ang pinakamabuting gawin ng tao ay magpakasaya sa pinaghirapan niya, dahil para sa kanya iyon. Walang sinumang makapagsasabi sa kanya kung ano ang mangyayari kapag siya ay namatay."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nakita ko ulit ang mga pang-aapi rito sa mundo. Umiiyak ang mga inaapi, pero walang tumutulong sa kanila dahil makapangyarihan ang mga umaapi sa kanila."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kaya nasabi kong mas mabuti pa ang mga patay kaysa sa mga buhay."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pero higit na mabuti ang mga hindi pa ipinapanganak, na hindi pa nakakakita ng kasamaan dito sa mundo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nakita ko rin na nagsusumikap ang mga tao at ginagawa ang lahat ng makakaya dahil naiinggit sila sa kanilang kapwa. Wala itong kabuluhan; para silang humahabol sa hangin."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hangal ang taong tamad, kaya halos mamatay sa gutom."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mas mabuti pang magkaroon ng isang dakot na pagkain pero may kapayapaan, kaysa sa maraming pagkain pero hirap na hirap naman sa pagtatrabaho at nauuwi lang sa wala ang lahat. Para ka lang humahabol sa hangin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "May nakita pa ako sa mundong ito na walang kabuluhan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "May isang taong nag-iisa sa buhay. Wala siyang anak at wala ring kapatid. Pero wala siyang tigil sa pagtatrabaho at hindi nakokontento sa kanyang kayamanan. Sinabi niya sa kanyang sarili, \u201cHindi na ako nakakapagsaya dahil sa sobrang pagtatrabaho. Pero wala naman akong mapag-iiwanan ng aking mga pinaghirapan.\u201d Wala itong kabuluhan! At napakalungkot ng ganitong klase ng buhay."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mas mabuti ang may kasama kaysa mag-isa; mas marami silang magagawa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kapag nadapa ang isa sa kanila maitatayo siya ng kanyang kasama. Kaya nakakaawa ang taong nag-iisa at nadapa, dahil walang tutulong sa kanya."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kapag malamig, pwede kayong matulog nang magkatabi at pareho kayong maiinitan. Pero kung nag-iisa ka, papaano ka maiinitan?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Madali kang matalo kung nag-iisa ka, pero kung may kasama ka, mahirap kayong talunin. Tulad din ng lubid na may tatlong pilipit na hibla, mahirap itong malagot."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mas mabuti pa ang isang batang mahirap pero marunong, kaysa sa isang matandang hari pero hangal at ayaw tumanggap ng payo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "At maaaring maging hari ang batang iyon kahit siya ay nakulong at ang matandang hari namang iyon ay maaaring maghirap kahit na ipinanganak pa siyang dugong bughaw."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pero naisip ko na kahit maraming tao dito sa mundo ang susunod sa batang iyon na pumalit sa hari,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "at hindi mabilang ang mga taong paghaharian niya, maaaring hindi rin masisiyahan sa kanya ang susunod na henerasyon. Ito man ay wala ring kabuluhan. Para kang humahabol sa hangin."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Huwag Pabigla-bigla sa Pangako - Mag-ingat ka sa ikikilos mo kung pupunta ka sa templo ng Dios. Mas mabuting pumunta ka roon na handang sumunod sa Dios, kaysa sa maghandog na gaya ng paghahandog ng isang mangmang na hindi alam kung ano ang mabuti at masama."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Huwag kang pabigla-bigla sa pagsasalita. Mag-isip ka muna nang mabuti bago ka mangako sa Dios. Tandaan mo na ang Dios ay nasa langit at ikaw ay nandito sa lupa. Kaya mag-ingat ka sa pagsasalita."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kung papaanong madaling managinip kapag maraming alalahanin, madali ring makapagsalita ng kamangmangan kung padalos-dalos ka sa iyong pagsasalita."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kapag nangako ka sa Dios, tuparin mo agad ito. Tuparin mo ang ipinangako mo sa kanya dahil hindi siya natutuwa sa mga hangal na hindi tumutupad sa mga pangako."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mas mabuti pang huwag ka na lang mangako kaysa mangako ka at hindi mo naman tutuparin."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Huwag kang magkasala sa iyong pagsasalita. At huwag mong sabihin sa pari na nasa templo na hindi mo sinasadya ang iyong pangako sa Dios. Dahil magagalit ang Dios kung gagawin mo ito at sisirain niya ang lahat ng pinaghirapan mo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ang sobrang pananaginip at pagsasalita ay walang kabuluhan. Sa halip, matakot ka sa Dios."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Walang Kabuluhan ang Kayamanan - Huwag kang magtaka kung makita mo sa inyong lugar na ang mga mahihirap ay inaapi at pinagkakaitan ng katarungan at karapatan. Dahil ang mga pinunong gumigipit sa kanila ay inaalagaan ng mas nakatataas na pinuno, at ang dalawang ito ay inaalagaan ng mas mataas pang pinuno."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pero mas lamang pa rin ang nakukuha ng hari sa kita ng lupain ng mahihirap, kaysa sa lahat ng mga pinuno."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ang taong maibigin sa pera at iba pang kayamanan, kailanman ay hindi masisiyahan. Wala rin itong kabuluhan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kung dumarami ang kayamanan mo, dumarami rin ang nakikinabang nito, kaya wala kang mapapala sa kayamanan mo kundi pagmasdan lang ito."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mahimbing ang tulog ng isang manggagawa, marami man o kaunti ang pagkain niya; pero ang mayaman, hindi makatulog nang mahimbing dahil sa kanyang kayamanan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "May nakita akong hindi maganda rito sa mundo: Ang kayamanang iniipon ng tao ay nakapagpapahamak sa kanya."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nauubos ito dahil sa hindi mabuting negosyo at wala ng matitira para sa mga anak niya."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kung paanong hubad tayong ipinanganak mula sa sinapupunan ng ating ina, hubad din tayong mamamatay. Hindi natin madadala ang ating mga pinaghirapan."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Napakalungkot isipin! Ipinanganak tayong walang dala, mamamatay tayong walang dala. Kaya ano pa ang saysay ng mga pagpapakahirap natin? Para lang tayong humahabol sa hangin na walang napapala."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ang buhay natin ay puno ng kahirapan, kaguluhan, sakit at galit."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kaya naisip ko na ang pinakamabuting gawin ng tao sa maiksing buhay na ibinigay sa kanya ng Dios ay kumain, uminom at magpakasaya sa kanyang pinaghirapan habang siya\u02bcy nabubuhay, dahil para naman talaga sa kanya ang mga iyon."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Binibigyan ng Dios ang bawat tao ng mga pag-aari at kayamanan. Hinahayaan niyang pakinabangan nila ang mga ito para matanggap nila ang para sa kanila at magpakasaya sa mga pinaghirapan nila. Ito ang regalo ng Dios sa kanila."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "At dahil ginagawa ng Dios na abala ang tao sa mga bagay na nakapagpapasaya sa kanila, hindi sila nag-aalala na maiksi ang buhay nila."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "May nakita pa akong isang hindi magandang pangyayari rito sa mundo na nagpapahirap sa mga tao."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "May mga taong binibigyan ng Dios ng kanilang mga hinahangad tulad ng karangalan, ari-arian at kayamanan. Pero hindi niya hinahayaang pakinabangan nila ito, sa halip, ibang tao ang nakikinabang nito. Hindi ito maganda at walang kabuluhan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Masasabi kong mas mabuti pa ang isang sanggol na ipinanganak na patay kaysa sa taong nabuhay nga nang matagal at nagkaanak pa ng marami, pero hindi naman nagkaroon ng kasiyahan sa buhay at hindi nailibing nang maayos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kahit walang saysay ang pagkakapanganak sa sanggol, at kahit na siya ay nasa lugar ng mga patay at hindi na maaalala pa,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "at kahit hindi siya nakakita ng liwanag ng araw o nalaman ang buhay, mas may kapayapaan pa siya kaysa sa taong iyon"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "na walang kasiyahan sa mga magagandang bagay na kanyang natanggap at kahit na mabuhay pa ang taong iyon ng ilang libong taon. Ang totoo ay iisa ang hahantungan ng lahat."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nagtatrabaho ang tao para may makain, pero hindi pa rin siya nasisiyahan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kaya ano ang lamang ng marunong sa mangmang? Ano ang mapapala ng mahirap kahit alam niya ang pasikot-sikot sa buhay?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wala itong kabuluhan! Para siyang humahabol sa hangin. Kaya mas mabuting masiyahan ka sa mga bagay na mayroon ka, kaysa sa maghangad ka nang maghangad ng mga bagay na wala sa iyo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Lahat ng pangyayari sa mundo at mangyayari sa isang tao\u02bcy nakatakda na noon pa. Kaya walang saysay na makipagtalo pa tayo sa Dios na higit na makapangyarihan kaysa sa atin."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "At habang nakikipagtalo tayo, dadami lang ang sasabihin nating walang kabuluhan. Kaya ano ang pakinabang nito?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Walang sinumang nakakaalam kung ano ang mabuti para sa isang taong maikli at walang kabuluhan ang buhay \u2013 lumilipas lang ito na parang anino. Sino ang makapagsasabi sa kanya kung ano ang mangyayari sa mundo pagkamatay niya?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang mga Paalala sa Buhay - Ang malinis na pangalan ay mas mabuti kaysa sa mamahaling pabango; at ang araw ng kamatayan ay mas mabuti kaysa sa araw ng kapanganakan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mas mabuting pumunta sa namatayan kaysa sa isang handaan, dahil ang lahat ay mamamatay. Dapat ay lagi itong isipin ng mga buhay pa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ang kalungkutan ay mas mabuti kaysa sa kaligayahan dahil ang kalungkutan ay nakakatuwid ng buhay ng tao."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Laging iniisip ng marunong ang kamatayan; pero ang hangal, ang laging iniisip ay kasiyahan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mas mabuting makinig sa pagsaway ng marunong kaysa makinig sa papuri ng hangal."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ang tawa ng hangal ay parang tinik na pag-iginatong ay nagsasaltikan ang apoy. Ito ay walang kabuluhan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ang marunong kapag nandaya ay para na ring hangal. Kung tumatanggap ka ng suhol, sinisira mo ang sarili mong dangal."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mas mabuti ang pagtatapos kaysa sa pagsisimula. Ang pagiging matiisin ay mas mabuti kaysa sa pagiging mapagmataas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Huwag maging magagalitin dahil ang pagiging magagalitin ay ugali ng mga hangal."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Huwag mong sabihin, \u201cBakit mas mabuti pa noon kaysa ngayon?\u201d Dahil ang tanong na iyan ay walang katuturan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ang karunungan ay mabuti gaya ng isang pamana, pareho itong nakakatulong sa mga namumuhay dito sa mundo. Nagbibigay din ito ng proteksyon gaya ng pera. Pero higit pa roon, iniingatan nito ang buhay ng nagtataglay nito."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ang karunungan ay mabuti gaya ng isang pamana, pareho itong nakakatulong sa mga namumuhay dito sa mundo. Nagbibigay din ito ng proteksyon gaya ng pera. Pero higit pa roon, iniingatan nito ang buhay ng nagtataglay nito."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pag-isipan mo ang ginawa ng Dios. Sino ang makapagtutuwid ng kanyang binaluktot?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Magalak ka kung mabuti ang kalagayan mo. Pero kung naghihirap ka, isipin mong ang Dios ang gumawa sa dalawang bagay na ito. Para hindi natin malaman kung ano ang mangyayari sa araw ng bukas."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sa buhay kong walang saysay, nakita ko ang lahat ng bagay. Ang matuwid ay maagang namamatay sa kabila ng kanilang matuwid na pamumuhay, at ang mga masasama sa kabila ng kanilang kasamaan ay nabubuhay nang matagal."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Huwag mong ituring ang iyong sarili na sobrang matuwid at marunong, dahil kung gagawin mo iyon, sinisira mo lang ang iyong sarili."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "At huwag ka rin namang magpakasama o magpakamangmang, dahil baka mamatay ka naman nang wala sa oras."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Huwag kang pasobra sa mga bagay na iyon; dapat balanse lang, dahil ang taong may takot sa Dios ay hindi nagpapasobra sa anumang bagay."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Higit na malaki ang magagawa ng karunungan sa isang tao, kaysa sa sampung pinuno ng isang bayan."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wala ni isang tao rito sa mundo ang laging gumagawa ng mabuti at hindi nagkakasala."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Huwag mong pakikinggan ang lahat ng sinasabi ng tao at baka mismong alipin mo ang marinig mong nagsasalita laban sa iyo."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Dahil alam mo sa sarili mo na marami ka ring pinagsalitaan ng masama."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Sinubukan kong intindihin ang lahat ng nangyayari rito sa mundo sa pamamagitan ng aking karunungan. Akala ko\u02bcy maiintindihan ko pero hindi pala."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Hindi ko kayang intindihin ang mga nangyayari dahil mahirap talagang maintindihan. At walang sinuman ang makakaintindi nito."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Pero patuloy akong nag-aral at nag-usisa, para makamit ko ang karunungan at masagot ang aking mga katanungan, at para malaman ko kung gaano kahangal ang taong gumagawa ng masama at kung gaano kasama ang isipan ng taong gumagawa ng kahangalan."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Napag-alaman kong ang babaeng nanunukso ay mas mapait kaysa sa kamatayan. Ang pag-ibig niya\u02bcy parang bitag, at ang mga kamay niya na yumayakap sa iyo ay parang kadena. Ang taong nakalulugod sa Dios ay makakatakas sa kanya, pero ang taong masama ay mabibitag niya."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Sinasabi ko bilang isang mangangaral, \u201cIniisip kong mabuti ang bawat bagay sa paghahanap ko ng kasagutan sa aking mga katanungan. Pero hindi ko pa rin natagpuan ang mga kasagutan. Ngunit ito ang aking natuklasan, sa 1,000 lalaki isa lang ang matuwid, pero sa 1,000 babae wala ni isang matuwid."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Sinasabi ko bilang isang mangangaral, \u201cIniisip kong mabuti ang bawat bagay sa paghahanap ko ng kasagutan sa aking mga katanungan. Pero hindi ko pa rin natagpuan ang mga kasagutan. Ngunit ito ang aking natuklasan, sa 1,000 lalaki isa lang ang matuwid, pero sa 1,000 babae wala ni isang matuwid."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Higit sa lahat, ito ang nalaman ko: Ginawa ng Dios ang tao na matuwid, pero nag-iisip ang tao ng maraming paraan para maging masama.\u201d"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Walang katulad ang taong marunong na kayang magpaliwanag ng mga bagay. Ang karunungan ng tao\u02bcy nakapagpapasaya ng mukha, at ang simangot ay nawawala."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sundin ang Hari - Sundin mo ang utos ng hari, dahil ipinangako mo sa Dios na gagawin mo ito."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Huwag mong pababayaan ang tungkulin mo sa hari, at huwag kang sasama sa mga nagpaplano ng masama laban sa kanya, dahil kayang gawin ng hari ang anumang gustuhin niya."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Makapangyarihan ang utos ng hari at walang makakatutol dito."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ang sinumang sumusunod sa kanyang utos ay hindi mapapahamak. Alam ng taong marunong kung kailan at kung paano gagawin ang isang bagay."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dahil ang bawat bagay ay may kanya-kanyang tamang oras at pamamaraan ng paggawa gaano man kabigat ang kinakaharap ng tao."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dahil walang sinuman ang nakakaalam ng hinaharap, walang makapagsasabi kung ano ang mangyayari."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kung paanong hindi mapipigilan ng tao ang hangin, hindi rin niya mapipigilan ang kanyang kamatayan. Tulad sa isang labanan, hindi siya makakaatras. At ang kasamaan niya\u02bcy hindi makapagliligtas sa kanya sa kamatayan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pinagmasdan ko ang mga bagay na nangyayari rito sa mundo, nakita kong ang mga tao ay may kakayahang saktan ang isa\u02bct isa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nakita ko ring ibinuburol ang masasama. Sila ang laging pumapasok sa banal na lungsod ng Jerusalem at doon gumagawa ng kasamaan. At pinupuri pa sila ng mga taong taga-roon mismo sa lugar na ginagawan nila ng kasamaan. Wala itong kabuluhan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kapag ang taong nagkasala\u02bcy hindi agad pinarusahan, naiisip din ng iba na gumawa ng kasalanan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kahit ang isang tao\u02bcy magkasala ng isandaang beses at mabuhay pa nang matagal, alam kong mas mabuti pa rin ang kahihinatnan ng taong may takot sa Dios."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hindi magtatagal ang buhay ng taong masama na walang takot sa Dios. Magiging parang anino ang buhay niya, sandali lang at agad mawawala."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ang problema lang sa mundong ito ay kung minsan ang mga taong matuwid pa ang siyang napaparusahan ng parusang para sana sa masasama. At ang masasama naman ang siyang tumatanggap ng gantimpalang para sana sa mga matuwid. Ito man ay walang kabuluhan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kaya para sa akin, mas mabuting magpakasaya ang tao sa buhay. Walang mas mabuti para sa kanya dito sa mundo kundi ang kumain, uminom at magsaya. Sa ganitong paraan mararanasan niya ang kasiyahan habang nagpapakapagod siya sa buong buhay niya na ibinigay ng Dios sa kanya dito sa mundo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Habang pinagsisikapan kong intindihin ang mga nangyayari rito sa mundo, nalaman ko kung gaano kaabala sa trabaho ang mga tao araw at gabi."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nakita ko rin ang mga ginagawa ng Dios dito sa mundo. Walang sinuman ang makakaintindi nito. Kahit ano pa ang gawin ng tao para intindihin ito, hindi pa rin niya ito maiintindihan. Kahit sabihin pa ng marunong na naiintindihin niya, pero ang totoo, hindi niya talaga naiintindihan."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Inisip kong mabuti ang lahat ng bagay at nalaman kong nasa patnubay ng Dios ang matutuwid at marurunong, pati na ang kanilang mga ginagawa. Pero hindi nila alam kung ang kasasapitan ba nila ay pag-ibig o poot."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Iisa lang ang kasasapitan ng lahat ng klase ng tao \u2013 ang matuwid at ang masama, ang tama at ang mali, ang malinis at ang marumi, ang naghahandog at ang hindi naghahandog. Pareho lang ang matuwid at ang makasalanan at pareho lang din ang sumusumpa at hindi sumusumpa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ito ang hindi maganda sa lahat ng nangyayari rito sa mundo: iisa lang ang kasasapitan ng lahat. At hindi lang iyan, kundi pawang kasamaan at kamangmangan ang iniisip ng tao habang nabubuhay, at pagkatapos ay mamamatay din siya."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Habang may buhay ang tao, may pag-asa. May kasabihan nga, \u201cMas mabuti pa ang buhay na aso kaysa sa patay na leon.\u201d"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ang totoo, alam ng buhay na tao na mamamatay siya. Pero ang patay ay walang nalalaman. Wala na rin siyang gantimpalang matatanggap at makakalimutan na."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ang pag-ibig nila, poot at inggit noong nabubuhay pa ay wala na. At wala na rin silang malay sa lahat ng nangyayari rito sa mundo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sige, magpakasaya ka sa pagkain at pag-inom dahil iyan ang gusto ng Dios na gawin mo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Palagi ka sanang maging maligaya."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Magpakasaya ka kasama ang minamahal mong asawa, sa buhay mong walang kabuluhan na ibinigay ng Dios dito sa mundo. Sapagkat para sa iyo naman iyan, para sa pagpapagal mo rito sa mundo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Gawin mo ng buo mong makakaya ang iyong ginagawa, dahil wala ng trabaho roon sa lugar ng mga patay na patutunguhan mo. Wala ng pagpaplano roon, wala ring kaalaman at karunungan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mayroon pa akong nakita rito sa mundo: Hindi lahat ng mabibilis ay nananalo sa takbuhan, at hindi lahat ng malalakas ay nananalo sa labanan. Hindi rin lahat ng matatalino ay nagkakaroon ng hanapbuhay, hindi lahat ng marurunong ay nagiging mayaman at hindi rin lahat ng may kakayahan ay nagtatagumpay. Dahil ang bawat tao ay may kanya-kanyang kapalaran."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pero hindi niya alam kung kailan darating ang takdang oras. Tulad siya ng isang ibong nabitag o ng isdang nahuli sa lambat. Biglang dumarating sa tao ang masamang pagkakataon na para siyang nahuli sa isang patibong."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mas Mabuti ang Karunungan Kaysa Kamangmangan - Mayroon pang isang halimbawa ng karunungan na aking nagustuhan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "May isang maliit na lungsod na kakaunti lang ang mga mamamayan. Nilusob ito ng makapangyarihang hari kasama ng kanyang mga kawal at pinalibutan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sa lungsod na iyon ay may isang lalaking marunong pero mahirap. Maaari sana niyang iligtas ang lungsod sa pamamagitan ng kanyang karunungan pero walang nakaalala sa kanya."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sinabi kong mas mabuti ang karunungan kaysa sa kapangyarihan, pero ang karunungan ng isang taong mahirap ay hindi binibigyang halaga at ang mga sinasabi niya\u02bcy hindi pinapansin."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ang marahang salita ng marunong ay mas magandang pakinggan kaysa sa sigaw ng isang pinunong hangal."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mas makapangyarihan ang karunungan kaysa sa mga sandata ng digmaan. Pero ang isang makasalanan ay makakasira ng maraming kabutihan."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kung paanong napapabaho ng isang patay na langaw ang isang boteng pabango, ganoon din ang kaunting kamangmangan, nakakasira ng karunungan at karangalan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ang taong marunong ay gustong gumawa ng kabutihan, pero ang hangal ay gustong gumawa ng kasamaan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "At kahit sa paglalakad ng hangal, nakikita ang kawalan niya ng karunungan at ipinapakita sa lahat ang kanyang kahangalan."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kung nagalit sa iyo ang iyong pinuno, huwag ka agad magbitiw sa tungkulin, dahil kapag nawala na ang galit niya\u02bcy baka patawarin ka niya gaano man kalaki ang iyong kasalanang nagawa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "May isa pa akong nakitang hindi maganda rito sa mundo at ito\u02bcy ginagawa ng mga pinuno:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ang mga mangmang ay binibigyan ng mataas na tungkulin, pero ang mga mayayaman ay binibigyan ng mababang tungkulin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nakakita rin ako ng mga aliping nakasakay sa kabayo habang ang mga dakilang tao\u02bcy naglalakad na parang alipin."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kapag ikaw ang naghukay, baka ikaw din ang mahulog doon. Kapag lumusot ka sa butas ng pader, baka tuklawin ka ng ahas doon."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kapag nagtibag ka ng bato, baka mabagsakan ka nito. Kapag nagsibak ka ng kahoy, baka masugatan ka nito."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kapag palakol mo\u02bcy mapurol at hindi mo hinahasa, buong lakas ang kailangan mo sa paggamit nito. Mas nakakahigit ka kung marunong ka, dahil sa pamamagitan nito\u02bcy magtatagumpay ka."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Walang saysay ang kakayahan mong magpaamo ng ahas, kung tutuklawin ka lang naman nito."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ang sinasabi ng marunong ay magbibigay sa kanya ng kabutihan, pero ang sinasabi ng hangal ay magpapahamak sa kanya."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sa umpisa pa lang kamangmangan na ang sinasabi niya, at kinalaunan ay naging masamang-masama na, na parang nawawala na siya sa sarili."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "At wala siyang tigil sa kasasalita. Walang nakakaalam tungkol sa mga mangyayari sa hinaharap, kaya walang makapagsasabi kung ano ang mangyayari kapag tayo\u02bcy patay na."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Napapagod ang mangmang sa kanyang trabaho, kaya naiisip niyang huwag nang pumunta sa bayan para magtrabaho."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nakakaawa ang isang bansa na ang hari ay isip-bata at ang mga pinuno\u02bcy puro handaan ang inaatupag."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pero mapalad ang bansa na ang hari ay ipinanganak sa marangal na pamilya at ang mga pinuno ay naghahanda lang sa tamang panahon para sa ikalalakas at hindi sa paglalasing."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pinapabayaan ng taong tamad na tumutulo ang bubong ng kanyang bahay hanggang sa mawasak na ang buong bahay niya."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Makapagpapasaya sa tao ang handaan at inuman; at ang pera ay makapagbibigay ng lahat niyang pangangailangan."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Huwag mong susumpain ang hari kahit sa isip mo lang o ang mayayaman kahit na palihim lang, dahil baka may magsabi sa kanila."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang Gawain ng Taong Marunong - Ipuhunan mo ang pera mo sa negosyo at sa kalaunan ay kikita ka."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ilagay mo ang pera mo sa iba\u02bct ibang negosyo, dahil hindi mo alam kung anong kalamidad ang darating dito sa mundo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kapag makapal na ang ulap, magbubuhos ito ng ulan sa mundo. At kung saan natumba ang puno, doon iyon mananatili."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kung palagi ka lang maghihintay ng magandang panahon, hindi ka makakapagtanim at wala kang aanihin."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kung paanong hindi mo nalalaman ang direksyon ng hangin o kung paano lumalaki ang sanggol sa sinapupunan ng kanyang ina, ganoon din ang ginagawa ng Dios na gumagawa ng lahat ng bagay, hindi mo rin ito maiintindihan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Maghasik ka ng binhi sa umaga hanggang gabi, dahil hindi mo alam kung alin sa itinanim mo ang tutubo, o kung lahat ito ay tutubo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Masarap mabuhay, kaya mas mabuting mabuhay."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kaya sa buong buhay mo ay maging masaya ka, gaano man ito kahaba. Ngunit, alalahanin mong darating ang kamatayan at magtatagal iyon. Lahat ng mangyayari ay walang kabuluhan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kayong mga kabataan, magsaya kayo habang kayo\u02bcy bata pa. Gawin ninyo ang gusto ninyong gawin, pero alalahanin ninyong hahatulan kayo ng Dios ayon sa inyong mga ginawa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Huwag kayong mag-alala o mabalisa man dahil ang panahon ng kabataan ay lumilipas lang."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Alalahanin mo ang lumikha sa iyo habang bata ka pa at bago dumating ang panahon ng kahirapan at masabi mong, \u201cHindi ako masaya sa buhay ko.\u201d"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Alalahanin mo siya bago dumilim ang araw, ang buwan at ang mga bituin na parang natatakpan ng makakapal na ulap."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Darating ang araw na manginginig ang iyong mga bisig at manghihina ang iyong mga tuhod. Hindi ka na makakanguyang mabuti dahil iilan na lang ang iyong ngipin. At lalabo na ang iyong paningin."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ang tainga mo\u02bcy hindi na halos makarinig, kahit ang ingay ng gilingan o huni ng mga ibon o mga awitin ay hindi na marinig."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Matatakot ka ng umakyat sa matataas na lugar o lumakad sa lansangan ng nag-iisa. Puputi na ang iyong buhok, hindi ka na halos makakalakad at mawawala na ang lahat ng iyong pagnanasa. Sa bandang huli, pupunta ka sa iyong tahanang walang hanggan at marami ang magluluksa para sa iyo sa mga lansangan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kaya alalahanin mo ang Dios habang nabubuhay ka, habang hindi pa nalalagot ang kadenang pilak at hindi pa nababasag ang gintong lalagyan, o hindi pa nalalagot ang tali ng timba sa balon, at nasisira ang kalo nito."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kung magkagayon, babalik ka sa lupa kung saan ka nagmula at ang espiritu mo\u02bcy babalik sa Dios na siyang nagbigay nito."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Sabi ng mangangaral, \u201cWalang kabuluhan! Tunay na walang kabuluhan ang lahat!\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Paggalang at Pagsunod sa Dios - Bukod sa pagiging marunong nitong mangangaral, itinuturo din niya sa mga tao ang lahat ng kanyang nalalaman. Pinag-aralan niyang mabuti ang mga kasabihang binanggit niya rito."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Pinagsikapan niyang gamitin ang mga nararapat na salita, at ang lahat ng isinulat niya rito ay tama at totoo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ang mga salita ng marunong ay parang matulis na tungkod na pantaboy ng pastol sa paggabay sa kanyang kawan o parang pakong nakabaon. Ibinigay ito ng Dios na tangi nating tagabantay."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Anak, mag-ingat ka sa isa pang bagay na ito: Ang pagsusulat ng aklat ay walang katapusan, at ang labis na pag-aaral ay nakakapagod."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ngayong nabasa mo na ang lahat ng ito, ito ang aking huling payo: Matakot ka sa Dios at sundin mo ang kanyang mga utos, dahil ito ang tungkulin ng bawat tao."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Sapagkat hahatulan tayo ng Dios ayon sa lahat ng ating ginagawa, mabuti man o masama, hayag man o lihim."
+                }
+            }
+        }
+    }
+}

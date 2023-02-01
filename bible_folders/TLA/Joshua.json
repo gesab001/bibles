@@ -1,0 +1,2759 @@
+{
+    "version": "TLA",
+    "book_name": "Joshua",
+    "book_nr": "6",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dios llama a un nuevo l\u00edder - Despu\u00e9s de la muerte de Mois\u00e9s, Dios habl\u00f3 con Josu\u00e9 hijo de Nun, que hab\u00eda sido ayudante de Mois\u00e9s. Dios le dijo a Josu\u00e9: \u2014Ahora que mi servidor Mois\u00e9s ha muerto, te toca a ti guiar al pueblo de Israel. Cruza el r\u00edo Jord\u00e1n con todos ellos, y ll\u00e9valos al territorio que les voy a dar."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dios llama a un nuevo l\u00edder - Despu\u00e9s de la muerte de Mois\u00e9s, Dios habl\u00f3 con Josu\u00e9 hijo de Nun, que hab\u00eda sido ayudante de Mois\u00e9s. Dios le dijo a Josu\u00e9: \u2014Ahora que mi servidor Mois\u00e9s ha muerto, te toca a ti guiar al pueblo de Israel. Cruza el r\u00edo Jord\u00e1n con todos ellos, y ll\u00e9valos al territorio que les voy a dar."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Yo les entregar\u00e9 todo territorio donde pongan el pie, tal como se lo promet\u00ed a Mois\u00e9s."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Les dar\u00e9 todo el territorio que va desde el desierto del sur hasta las monta\u00f1as del L\u00edbano en el norte, y desde el gran r\u00edo \u00c9ufrates en el este hasta el mar Mediterr\u00e1neo en el oeste, incluyendo el territorio de los hititas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bbNadie podr\u00e1 derrotarte jam\u00e1s, porque yo te ayudar\u00e9, as\u00ed como ayud\u00e9 a Mois\u00e9s. Nunca te fallar\u00e9 ni te abandonar\u00e9."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pero t\u00fa debes ser fuerte y valiente, porque ser\u00e1s t\u00fa quien gu\u00ede al pueblo de Israel para que reciba el territorio que les promet\u00ed a sus antepasados."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "S\u00f3lo te pido que seas muy fuerte y valiente. As\u00ed podr\u00e1s obedecer siempre todas las leyes que te dio mi servidor Mois\u00e9s. No desobedezcas ni una sola de ellas, y te ir\u00e1 bien por dondequiera que vayas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nunca dejes de leer el libro de la Ley; est\u00fadialo de d\u00eda y de noche, y ponlo en pr\u00e1ctica, para que tengas \u00e9xito en todo lo que hagas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbYo te pido que seas fuerte y valiente, que no te desanimes ni tengas miedo, porque yo soy tu Dios, y te ayudar\u00e9 por dondequiera que vayas."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Preparativos para la conquista - Entonces Josu\u00e9 les orden\u00f3 a los jefes del pueblo:"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u2014Vayan por el campamento y d\u00edganles a todos que se preparen con alimentos, porque dentro de tres d\u00edas cruzaremos el r\u00edo Jord\u00e1n y ocuparemos el territorio que nuestro Dios nos va a dar."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Josu\u00e9 dio tambi\u00e9n instrucciones a las tribus de Rub\u00e9n y de Gad, y a la media tribu de Manas\u00e9s:"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u2014Recuerden que Mois\u00e9s les dijo que nuestro Dios les dar\u00eda este territorio para que vivan en paz."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Dejen a sus esposas y a sus hijos, y a su ganado en esta tierra que Mois\u00e9s les dio al este del r\u00edo Jord\u00e1n. Pero todos los hombres que tengan armas deber\u00e1n cruzar el r\u00edo y ayudar al resto del pueblo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "No descansen hasta que hayan conquistado el territorio que Dios les dar\u00e1 a ellos, tal como se lo ha dado a ustedes. Una vez que ellos tengan su territorio, ustedes podr\u00e1n regresar y vivir en la tierra que Mois\u00e9s les ha dado al este del r\u00edo Jord\u00e1n."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ellos le respondieron a Josu\u00e9: \u2014Haremos todo lo que nos has pedido, e iremos a donde t\u00fa quieras."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Te obedeceremos en todo, como obedecimos a Mois\u00e9s, siempre y cuando nuestro Dios, te apoye como apoy\u00f3 a Mois\u00e9s."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Si alguien no te obedece, ser\u00e1 condenado a muerte. Lo \u00fanico que te pedimos es que seas fuerte y valiente."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Rahab y los esp\u00edas - Josu\u00e9 envi\u00f3 a dos hombres para que exploraran el territorio de Cana\u00e1n, y de manera especial a la ciudad de Jeric\u00f3. Los dos hombres salieron de Sitim, y cuando llegaron a Jeric\u00f3 fueron a la casa de una prostituta llamada Rahab. All\u00ed pasaron la noche."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Al saber el rey de Jeric\u00f3 que unos israelitas hab\u00edan llegado esa noche para explorar el pa\u00eds,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "mand\u00f3 a decirle a Rahab: \u2014En tu casa hay dos esp\u00edas. \u00a1M\u00e1ndamelos para ac\u00e1!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pero como ella los hab\u00eda escondido, respondi\u00f3: \u2014S\u00ed, es verdad. Vinieron unos hombres, pero yo no supe de d\u00f3nde eran."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Salieron al anochecer, antes de que cerraran el port\u00f3n de la ciudad, y no s\u00e9 a d\u00f3nde iban. Si ustedes salen ahora mismo a perseguirlos, seguro que podr\u00e1n alcanzarlos."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "La verdad es que Rahab los hab\u00eda llevado a la terraza y los hab\u00eda escondido debajo de unos manojos de lino que all\u00ed ten\u00eda."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Los hombres del rey salieron de la ciudad, y se volvi\u00f3 a cerrar el port\u00f3n. Buscaron a los esp\u00edas hasta llegar al cruce del r\u00edo Jord\u00e1n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Antes de que los esp\u00edas se acostaran, Rahab subi\u00f3 a la terraza"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "y les dijo: \u2014Yo s\u00e9 que Dios les ha entregado a ustedes este territorio, y todos tenemos miedo, especialmente los gobernantes."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sabemos que, cuando salieron de Egipto, Dios sec\u00f3 el Mar de los Juncos para que ustedes pudieran cruzarlo. Tambi\u00e9n sabemos que mataron a Sih\u00f3n y a Og, los dos reyes amorreos del otro lado del Jord\u00e1n."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Cuando lo supimos, nos dio mucho miedo y nos desanimamos. Reconocemos que el Dios de ustedes reina en el cielo y tambi\u00e9n aqu\u00ed en la tierra."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "J\u00farenme en el nombre de ese Dios que tratar\u00e1n bien a toda mi familia, as\u00ed como yo los he tratado bien a ustedes. Denme alguna prueba de que as\u00ed lo har\u00e1n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00a1Prom\u00e9tanme que salvar\u00e1n a todos mis familiares! \u00a1S\u00e1lvennos de la muerte!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Los esp\u00edas le contestaron: \u2014\u00a1Que Dios nos quite la vida si les pasa algo a ustedes! Pero no le digas a nadie que estuvimos aqu\u00ed. Cuando Dios nos d\u00e9 este territorio, prometemos tratarlos bien, a ti y a toda tu familia."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Rahab y los esp\u00edas se despiden - Como la casa de Rahab estaba construida junto al muro que rodeaba la ciudad, ella los ayud\u00f3 a bajar por la ventana con una soga."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Y les aconsej\u00f3: \u2014Esc\u00f3ndanse en los cerros para que la gente del rey no los encuentre. Qu\u00e9dense all\u00ed tres d\u00edas, hasta que ellos regresen; y despu\u00e9s de eso, sigan su camino."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Antes de irse, los esp\u00edas le dijeron: \u2014Te hemos hecho un juramento, y lo cumpliremos."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Cuando lleguemos a este territorio, esta soga roja tiene que estar atada a la ventana por donde vamos a bajar. Re\u00fane en tu casa a todos tus familiares."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Si alguno de ellos sale a la calle, morir\u00e1, y nosotros no tendremos la culpa de su muerte; pero si alguien sufre alg\u00fan da\u00f1o dentro de la casa, nosotros seremos los culpables."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "No le cuentes a nadie de este trato que hemos hecho; de lo contrario, no estaremos obligados a cumplir nuestro juramento."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u2014De acuerdo \u2014respondi\u00f3 ella\u2014. As\u00ed se har\u00e1. Dicho esto, los despidi\u00f3 y ellos se fueron, mientras ella ataba la soga roja a la ventana."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Los dos esp\u00edas se fueron a los cerros, y durante tres d\u00edas estuvieron escondidos all\u00ed, hasta que los hombres del rey regresaron. Los hab\u00edan buscado por todo el camino y no los hab\u00edan encontrado."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Entonces los dos esp\u00edas bajaron de los cerros, cruzaron el r\u00edo, y volvieron a donde estaba Josu\u00e9. Luego de contarle todo lo que les hab\u00eda pasado,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "le dijeron: \u2014Estamos seguros de que Dios nos ha dado todo el territorio. \u00a1Todos los gobernantes de esta regi\u00f3n est\u00e1n muertos de miedo!"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La gente de Israel cruza el Jord\u00e1n - Al d\u00eda siguiente, muy de ma\u00f1ana, Josu\u00e9 y todos los israelitas levantaron el campamento de Sitim y avanzaron hasta el r\u00edo Jord\u00e1n. Acamparon all\u00ed, esperando el momento de cruzarlo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Al segundo d\u00eda, los jefes fueron por todo el campamento"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "dici\u00e9ndole a la gente: \u00abCuando vean a los sacerdotes salir con el cofre del pacto, levanten el campamento y s\u00edganlos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ellos los guiar\u00e1n porque ustedes no conocen el camino. Pero no se acerquen al cofre; mant\u00e9nganse por lo menos a un kil\u00f3metro de distancia\u00bb."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Josu\u00e9, por su parte, le dijo a todo el pueblo: \u00ab\u00a1Prep\u00e1rense para presentarse ante Dios! Ma\u00f1ana Dios har\u00e1 un gran milagro entre nosotros\u00bb."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Despu\u00e9s les dijo a los sacerdotes: \u00abCarguen sobre sus hombros el cofre del pacto y salgan; nosotros los seguiremos\u00bb. Y as\u00ed lo hicieron."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dios le dijo a Josu\u00e9: \u00abLo que voy a hacer hoy convencer\u00e1 a todo el pueblo de Israel de que estoy contigo como estuve con Mois\u00e9s, y te reconocer\u00e1n como l\u00edder."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Diles a los sacerdotes que llevan el cofre del pacto que, cuando lleguen al r\u00edo, entren al agua y se queden cerca de la orilla\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Entonces Josu\u00e9 le pidi\u00f3 al pueblo que se acercara y le dijo:"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00abDios nos ha prometido que a medida que avancemos, \u00e9l ir\u00e1 desalojando a todos los habitantes de Cana\u00e1n."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ustedes ver\u00e1n que el Dios vivo nos acompa\u00f1a, cuando el cofre del pacto del due\u00f1o de toda la tierra cruce el Jord\u00e1n delante de ustedes."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cuando los sacerdotes que llevan el cofre toquen el agua con la planta de sus pies, el r\u00edo Jord\u00e1n dejar\u00e1 de correr, y el agua se acumular\u00e1 como formando una gran pared. Adem\u00e1s, Dios ha ordenado que escojamos a doce hombres, uno de cada tribu de Israel\u00bb."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Cuando los sacerdotes que llevan el cofre toquen el agua con la planta de sus pies, el r\u00edo Jord\u00e1n dejar\u00e1 de correr, y el agua se acumular\u00e1 como formando una gran pared. Adem\u00e1s, Dios ha ordenado que escojamos a doce hombres, uno de cada tribu de Israel\u00bb."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "La gente dej\u00f3 el campamento y se dispuso a cruzar el r\u00edo Jord\u00e1n en el tiempo de la cosecha, cuando el r\u00edo se desborda a causa del agua que baja de la zona de Adam, cerca de Saret\u00e1n. Los sacerdotes iban delante de ellos, con el cofre del pacto, y tan pronto como pusieron el pie en el r\u00edo, el agua dej\u00f3 de correr y se acumul\u00f3. La que corr\u00eda hacia el Mar Muerto sigui\u00f3 su curso hasta desaparecer. Entonces el pueblo cruz\u00f3 el r\u00edo frente a la ciudad de Jeric\u00f3."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La gente dej\u00f3 el campamento y se dispuso a cruzar el r\u00edo Jord\u00e1n en el tiempo de la cosecha, cuando el r\u00edo se desborda a causa del agua que baja de la zona de Adam, cerca de Saret\u00e1n. Los sacerdotes iban delante de ellos, con el cofre del pacto, y tan pronto como pusieron el pie en el r\u00edo, el agua dej\u00f3 de correr y se acumul\u00f3. La que corr\u00eda hacia el Mar Muerto sigui\u00f3 su curso hasta desaparecer. Entonces el pueblo cruz\u00f3 el r\u00edo frente a la ciudad de Jeric\u00f3."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "La gente dej\u00f3 el campamento y se dispuso a cruzar el r\u00edo Jord\u00e1n en el tiempo de la cosecha, cuando el r\u00edo se desborda a causa del agua que baja de la zona de Adam, cerca de Saret\u00e1n. Los sacerdotes iban delante de ellos, con el cofre del pacto, y tan pronto como pusieron el pie en el r\u00edo, el agua dej\u00f3 de correr y se acumul\u00f3. La que corr\u00eda hacia el Mar Muerto sigui\u00f3 su curso hasta desaparecer. Entonces el pueblo cruz\u00f3 el r\u00edo frente a la ciudad de Jeric\u00f3."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mientras todo el pueblo de Israel cruzaba sobre terreno seco, los sacerdotes que llevaban el cofre del pacto de Dios se detuvieron en medio del Jord\u00e1n, hasta que todos terminaron de cruzar."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Piedras recordatorias - Cuando todo el pueblo de Israel termin\u00f3 de cruzar el Jord\u00e1n, Dios le dijo a Josu\u00e9:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00abElige doce hombres, uno de cada tribu,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "y diles que vayan al lugar donde los sacerdotes se detuvieron en medio del Jord\u00e1n. Que tomen doce piedras de all\u00ed y las lleven hasta el lugar donde van a acampar esta noche\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Josu\u00e9 llam\u00f3 a los doce hombres que hab\u00eda elegido,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "y les dijo: \u00abVayan hasta la mitad del Jord\u00e1n, delante del cofre del pacto de nuestro Dios, y saque cada uno de ustedes una piedra del r\u00edo, una por cada tribu de Israel, y \u00e9chesela al hombro."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Con estas piedras har\u00e1n un monumento, y cuando sus hijos les pregunten qu\u00e9 significan,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "ustedes les dir\u00e1n que, cuando los sacerdotes entraron al r\u00edo con el cofre del pacto, las aguas del Jord\u00e1n dejaron de correr. As\u00ed que estas piedras les recordar\u00e1n siempre a los israelitas lo que Dios hizo aqu\u00ed\u00bb."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los doce hombres hicieron lo que Dios le hab\u00eda ordenado a Josu\u00e9. Tomaron doce piedras de en medio del Jord\u00e1n, y las pusieron en el lugar donde acamparon. Por cada tribu de Israel hab\u00eda una piedra."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Josu\u00e9 tambi\u00e9n coloc\u00f3 doce piedras en el Jord\u00e1n, en el lugar donde hab\u00edan estado los sacerdotes que llevaban el cofre del pacto. Esas piedras todav\u00eda est\u00e1n all\u00ed."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Los sacerdotes se quedaron en medio del Jord\u00e1n hasta que el pueblo termin\u00f3 de hacer todo lo que Dios les hab\u00eda mandado por medio de Josu\u00e9. Estas mismas instrucciones tambi\u00e9n se las hab\u00eda dado Mois\u00e9s a Josu\u00e9. El pueblo se apur\u00f3 para cruzar el r\u00edo,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "y cuando todos terminaron de cruzarlo, tambi\u00e9n pasaron los sacerdotes llevando el cofre de Dios, y otra vez se pusieron al frente."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Las tribus de Rub\u00e9n y Gad, y la media tribu de Manas\u00e9s cruzaron antes que el resto, como Mois\u00e9s les hab\u00eda ordenado. Iban armados para la batalla."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Los que cruzaron hacia la llanura de Jeric\u00f3 fueron unos cuarenta mil hombres en pie de guerra. Marcharon delante del cofre, que simboliza la presencia de Dios."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Por lo que Dios hizo ese d\u00eda, todos los israelitas reconocieron a Josu\u00e9 como un gran l\u00edder. Lo respetaron durante toda su vida, como antes hab\u00edan respetado a Mois\u00e9s."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Entonces Dios le dijo a Josu\u00e9:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00abDiles a los sacerdotes que llevan el cofre del pacto, que salgan del r\u00edo Jord\u00e1n\u00bb."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "As\u00ed lo hizo Josu\u00e9,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "y cuando los sacerdotes llegaron a la orilla, el r\u00edo volvi\u00f3 a correr hasta desbordarse como antes."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "El diez de Abib el pueblo cruz\u00f3 a pie el Jord\u00e1n, y acamp\u00f3 cerca de la ciudad de Guilgal, al este de Jeric\u00f3."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Josu\u00e9 orden\u00f3 que pusieran all\u00ed las doce piedras que hab\u00edan sacado del Jord\u00e1n,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "y les dijo a los israelitas: \u00abEn el futuro, cuando sus hijos les pregunten qu\u00e9 significan estas piedras,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "ustedes les dir\u00e1n que son para recordarnos que los israelitas cruzamos el Jord\u00e1n sobre terreno seco."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Les dir\u00e1n que Dios detuvo las aguas del Jord\u00e1n hasta que todos cruzamos, igual que cuando cruzamos el Mar de los Juncos."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Lo hizo para que todos los pueblos de la tierra sepan que nuestro Dios es poderoso, y para que ustedes lo honren siempre\u00bb."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La noticia de que Dios hab\u00eda secado las aguas del Jord\u00e1n lleg\u00f3 hasta los reyes de los amorreos que estaban al oeste del Jord\u00e1n, y hasta los reyes de los cananeos. Cuando se enteraron de que todo el pueblo de Israel hab\u00eda cruzado el r\u00edo a pie, les entr\u00f3 mucho miedo y no quer\u00edan enfrentarse a \u00e9l."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "La circuncisi\u00f3n en Guilgal - Dios le habl\u00f3 a Josu\u00e9 y le dijo: \u00abOrdena que se fabriquen unos cuchillos de piedra, y circuncida a los israelitas\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Josu\u00e9 hizo lo que Dios le hab\u00eda mandado, y todav\u00eda hoy el lugar donde se celebr\u00f3 esa ceremonia se llama Monte Aralot."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Fue necesario hacer esto porque todos los israelitas adultos que hab\u00edan sido circuncidados antes de salir de Egipto ya hab\u00edan muerto en el desierto."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Todos los hombres y muchachos que hab\u00edan salido de Egipto ya estaban circuncidados. Pero con los que nacieron en el desierto no se hab\u00eda llevado a cabo esta ceremonia."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Como los israelitas anduvieron cuarenta a\u00f1os por el desierto, ya hab\u00edan muerto todos los adultos que hab\u00edan salido de Egipto. Esa gente hab\u00eda desobedecido a Dios, y por eso, \u00e9l jur\u00f3 que no les dejar\u00eda ver la f\u00e9rtil tierra que hab\u00eda prometido dar a sus antepasados, donde siempre hay abundancia de alimentos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "As\u00ed que Josu\u00e9 circuncid\u00f3 a los hijos de ellos, porque durante la marcha no se hab\u00eda llevado a cabo esa ceremonia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Despu\u00e9s de la circuncisi\u00f3n, todos se quedaron en el campamento hasta que sanaron de sus heridas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Entonces Dios le dijo a Josu\u00e9: \u00abYa les he quitado la verg\u00fcenza de haber sido esclavos en Egipto\u00bb. Por eso hasta hoy ese lugar se llama Guilgal."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Los israelitas celebraron la Pascua al caer la tarde del d\u00eda catorce del mes de Abib, mientras estaban acampados en Guilgal, en la llanura cercana a Jeric\u00f3."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Al d\u00eda siguiente comieron por primera vez de lo que produc\u00eda la tierra de Cana\u00e1n: granos de trigo horneados y pan sin levadura."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ese mismo d\u00eda el man\u00e1 dej\u00f3 de caer. Los israelitas ya no comieron m\u00e1s man\u00e1, sino que se alimentaron de lo que produc\u00eda la tierra de Cana\u00e1n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Josu\u00e9 y el hombre con una espada - Cierto d\u00eda, cuando todav\u00eda estaban acampando cerca de Jeric\u00f3, Josu\u00e9 vio de pie, delante de \u00e9l, a un hombre con una espada en la mano. Josu\u00e9 se acerc\u00f3 y le pregunt\u00f3: \u2014\u00bfEres de los nuestros, o de nuestros enemigos?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u2014Ni lo uno ni lo otro \u2014respondi\u00f3 el hombre\u2014. Yo soy el jefe del ej\u00e9rcito de Dios. Y aqu\u00ed me tienes. Josu\u00e9 cay\u00f3 de rodillas, y con gran reverencia se inclin\u00f3 hasta el suelo y le dijo: \u2014Estoy a tus \u00f3rdenes. Har\u00e9 cualquier cosa que me pidas."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El jefe del ej\u00e9rcito de Dios le dijo entonces a Josu\u00e9: \u2014Qu\u00edtate las sandalias, porque est\u00e1s pisando un lugar santo. Y Josu\u00e9 se descalz\u00f3."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los israelitas conquistan Jeric\u00f3 - El port\u00f3n de la ciudad de Jeric\u00f3 se cerr\u00f3 y qued\u00f3 bajo vigilancia para que no entraran los israelitas. Nadie pod\u00eda entrar ni salir de la ciudad."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Entonces Dios le dijo a Josu\u00e9: \u00abVoy a poner en tus manos a Jeric\u00f3, a su rey y a sus mejores soldados."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "T\u00fa y tus soldados marchar\u00e1n alrededor de la ciudad una vez al d\u00eda, durante seis d\u00edas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Delante del cofre del pacto ir\u00e1n siete sacerdotes, cada uno de ellos con una trompeta. El s\u00e9ptimo d\u00eda todos marchar\u00e1n siete veces alrededor de la ciudad, mientras los sacerdotes tocan sus trompetas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Despu\u00e9s de eso, ellos dar\u00e1n un toque largo. En cuanto lo oigan, todos los hombres gritar\u00e1n con fuerza y los muros de la ciudad se vendr\u00e1n abajo; entonces cada uno atacar\u00e1 la ciudad sin dar marcha atr\u00e1s\u00bb."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Josu\u00e9 reuni\u00f3 a los sacerdotes y les dijo: \u00ab\u00a1Vamos, levanten el cofre del pacto! Siete de ustedes ir\u00e1n al frente del cofre, tocando sus trompetas\u00bb."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Despu\u00e9s les dijo a sus hombres: \u00abComiencen a marchar alrededor de la ciudad. La guardia avanzar\u00e1 al frente del cofre del pacto, lista para el combate\u00bb."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tal como Josu\u00e9 lo hab\u00eda ordenado, primero avanz\u00f3 un grupo especial de hombres armados. Siguieron despu\u00e9s los sacerdotes que tocaban las trompetas sin parar. Despu\u00e9s se pusieron en marcha los sacerdotes que llevaban el cofre del pacto, y cerraba la marcha otro grupo de hombres armados."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tal como Josu\u00e9 lo hab\u00eda ordenado, primero avanz\u00f3 un grupo especial de hombres armados. Siguieron despu\u00e9s los sacerdotes que tocaban las trompetas sin parar. Despu\u00e9s se pusieron en marcha los sacerdotes que llevaban el cofre del pacto, y cerraba la marcha otro grupo de hombres armados."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Josu\u00e9 les hab\u00eda dicho a sus hombres: \u00abVayan en silencio, no se dejen o\u00edr. Pero cuando les diga que griten, ustedes gritar\u00e1n con todas sus fuerzas\u00bb."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Este grupo de hombres llev\u00f3 el cofre del pacto alrededor de la ciudad, y despu\u00e9s volvi\u00f3 al campamento para pasar la noche."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "A la ma\u00f1ana siguiente Josu\u00e9 se levant\u00f3 temprano, y mand\u00f3 a los sacerdotes que volvieran a llevar el cofre del pacto."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Primero sali\u00f3 el grupo especial de hombres armados, seguido de los siete sacerdotes con sus trompetas. Despu\u00e9s de ellos salieron los sacerdotes que llevaban el cofre del pacto y, finalmente, el otro grupo de hombres armados."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ese segundo d\u00eda marcharon una sola vez alrededor de la ciudad, y volvieron al campamento. Hicieron lo mismo durante seis d\u00edas."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El s\u00e9ptimo d\u00eda se levantaron de madrugada y volvieron a marchar alrededor de la ciudad, s\u00f3lo que ese d\u00eda lo hicieron siete veces."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "En la s\u00e9ptima vuelta, mientras los sacerdotes tocaban sus trompetas, Josu\u00e9 dio la orden: \u00ab\u00a1Griten con todas sus fuerzas! \u00a1Dios nos ha entregado la ciudad!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "La ciudad y todos sus habitantes ser\u00e1n destruidos por completo, como una ofrenda para Dios. Pero acu\u00e9rdense de no hacerles da\u00f1o ni a Rahab ni a su familia, porque ella escondi\u00f3 a los esp\u00edas que enviamos."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "No toquen nada de lo que hay que destruir. Si lo hacen, causar\u00e1n una terrible destrucci\u00f3n en nuestro campamento."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Toda la plata, y el oro, el bronce y el hierro ser\u00e1n dedicados a Dios, y deben ponerse con sus tesoros\u00bb."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Cuando los sacerdotes tocaron sus trompetas, los soldados gritaron con todas sus fuerzas y los muros se derrumbaron. Entonces todo el ej\u00e9rcito entr\u00f3 en la ciudad, y cada soldado la atac\u00f3 hasta conquistarla."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Con sus espadas mataron a todos los hombres, mujeres, ni\u00f1os y ancianos. Lo mismo hicieron con los bueyes, ovejas y asnos."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Rahab y su familia se salvan - Josu\u00e9 les hab\u00eda dicho a los dos esp\u00edas: \u00abVayan a la casa de Rahab y p\u00f3nganla a salvo, junto con toda su familia, tal como se lo prometieron\u00bb."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Los dos esp\u00edas fueron a buscar a Rahab y a todos sus familiares, y los llevaron a un lugar seguro cerca del campamento de los israelitas."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Mientras tanto, los soldados incendiaron la ciudad y quemaron todo, pero se llevaron la plata, el oro y las vasijas de bronce y de hierro, y todo esto lo pusieron junto con los tesoros de Dios."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Los \u00fanicos que se salvaron fueron Rahab y todos los de su casa. Josu\u00e9 la salv\u00f3 porque ella escondi\u00f3 a los dos esp\u00edas que \u00e9l hab\u00eda enviado a Jeric\u00f3. Hasta el d\u00eda de hoy hay descendientes de Rahab que viven en Israel."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Despu\u00e9s de la destrucci\u00f3n de Jeric\u00f3, Josu\u00e9 les advirti\u00f3 a los israelitas: \u00abNadie deber\u00e1 edificar de nuevo la ciudad de Jeric\u00f3. Cualquiera que trate de hacerlo caer\u00e1 bajo un terrible castigo de Dios. Si alguien intenta reconstruirla, Dios har\u00e1 que mueran todos los hijos de esa persona\u00bb."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Dios ayud\u00f3 a Josu\u00e9 en todo lo que hizo, y todo el pa\u00eds se enter\u00f3 de sus victorias."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El pecado de Ac\u00e1n - En la familia de Z\u00e9rah, que formaba parte de la tribu de Jud\u00e1, hab\u00eda un hombre llamado Ac\u00e1n hijo de Carm\u00ed y nieto de Zabd\u00ed. Este hombre no obedeci\u00f3 el mandato que Dios hab\u00eda dado al pueblo. Dios les hab\u00eda ordenado destruir por completo la ciudad de Jeric\u00f3, pero Ac\u00e1n se qued\u00f3 con algunas de las cosas que deb\u00eda haber destruido. Por eso Dios se enoj\u00f3 contra los israelitas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mientras tanto, Josu\u00e9 envi\u00f3 desde Jeric\u00f3 algunos hombres a la ciudad de Ai. Esta ciudad est\u00e1 al este de Betel, cerca de Bet-av\u00e9n. Les dijo: \u00abVayan y averig\u00fcen todo lo que puedan acerca de Ai y de sus alrededores\u00bb. Los hombres de Josu\u00e9 cumplieron sus \u00f3rdenes,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "y al volver le informaron: \u00abLa ciudad de Ai no es grande. No hace falta enviar todo el ej\u00e9rcito para atacarla. Dos o tres mil hombres ser\u00e1n m\u00e1s que suficiente\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Entonces subieron s\u00f3lo tres mil hombres para atacar la ciudad, pero los de Ai los derrotaron,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "oblig\u00e1ndolos a abandonar la ciudad y a huir por una colina, hasta unas canteras. Al bajar por la colina, los de Ai mataron a treinta y seis israelitas. Eso hizo que los israelitas se acobardaran y tuvieran miedo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Josu\u00e9 y los l\u00edderes israelitas se acercaron al cofre de Dios, rompieron su ropa y se echaron ceniza sobre la cabeza para mostrar su gran tristeza. Luego se inclinaron hasta tocar el suelo con su frente, y as\u00ed permanecieron hasta que anocheci\u00f3."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Y Josu\u00e9 dijo: \u2014Dios nuestro, que gobiernas sobre todos, \u00bfpara qu\u00e9 nos hiciste cruzar el Jord\u00e1n? \u00a1No creo que haya sido para entregarnos a los amorreos, ni para destruirnos! \u00a1Ojal\u00e1 nos hubi\u00e9ramos quedado del otro lado del r\u00edo!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dios m\u00edo, nuestro ej\u00e9rcito se ha acobardado y huye, \u00a1y no s\u00e9 qu\u00e9 decir!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Cuando lo sepan los cananeos y todos los que all\u00ed viven, nos rodear\u00e1n y nos matar\u00e1n. \u00bfQu\u00e9 har\u00e1s entonces para que no digan que fuiste incapaz de proteger a tu pueblo?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dios le respondi\u00f3 a Josu\u00e9: \u2014\u00a1Ponte de pie! \u00bfPor qu\u00e9 te quedas tirado boca abajo?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Lo que pasa es que los israelitas han pecado. Yo les orden\u00e9 que destruyeran todo lo que hab\u00eda en la ciudad de Jeric\u00f3. Era un trato que hab\u00edamos hecho. Pero se quedaron con algunas de esas cosas. Se las robaron, las escondieron entre sus pertenencias, y luego mintieron acerca de lo que hab\u00edan hecho."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Por eso los israelitas no pueden vencer a sus enemigos. \u00a1Huyen porque ellos mismos merecen ser destruidos! Yo no voy a ayudarlos mientras no destruyan las cosas que les prohib\u00ed tocar."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00a1Vamos! Ord\u00e9nale al pueblo que se purifique y se prepare para ma\u00f1ana. Dile lo siguiente: \u201cEl Dios de Israel dice que les orden\u00f3 destruir todo lo que hab\u00eda en la ciudad de Jeric\u00f3, pero que ustedes se quedaron con algunas cosas que deb\u00edan haber destruido."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Por eso re\u00fananse ma\u00f1ana y agr\u00fapense por tribus. De la tribu que yo se\u00f1ale, pasar\u00e1n al frente todos sus grupos familiares, y del grupo familiar que se\u00f1ale pasar\u00e1n al frente todas sus familias. Luego de la familia que se\u00f1ale pasar\u00e1n al frente todos los hombres, uno por uno."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Y el hombre que yo se\u00f1ale ser\u00e1 el que tiene lo que se deb\u00eda destruir. Qu\u00e9menlo vivo, junto con su familia y todo lo que posee, por no haber cumplido con el trato hecho con nuestro Dios. Lo que ha hecho es una verg\u00fcenza para Israel\u201d."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "A la ma\u00f1ana siguiente se reunieron los israelitas. Josu\u00e9 hizo que las tribus se acercaran, una por una, y fue se\u00f1alada la tribu de Jud\u00e1."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Luego se adelantaron uno por uno los grupos familiares de Jud\u00e1, y fue se\u00f1alado el grupo de Z\u00e9rah. Al acercarse el grupo de Z\u00e9rah, fue se\u00f1alada la familia de Zabd\u00ed,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "la cual hizo pasar uno por uno a todos sus hombres. Entonces fue se\u00f1alado Ac\u00e1n, hijo de Carm\u00ed y nieto de Zabd\u00ed, de la tribu de Jud\u00e1."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Josu\u00e9 le dijo a Ac\u00e1n: \u2014Hijo m\u00edo, dime la verdad delante del Dios de Israel; confiesa lo que has hecho. No trates de enga\u00f1arme."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u2014Es cierto \u2014le respondi\u00f3 Ac\u00e1n a Josu\u00e9\u2014. \u00a1He pecado contra el Dios de Israel! Lo que pas\u00f3 fue"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "que entre las cosas que tomamos vi una hermosa capa babil\u00f3nica, dos kilos de plata, y una barra de oro que pesaba m\u00e1s de medio kilo. Tanto me gustaron esas cosas que las guard\u00e9 y las enterr\u00e9 debajo de mi carpa. La plata est\u00e1 en el fondo."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Josu\u00e9 mand\u00f3 a unos hombres a la carpa de Ac\u00e1n. Ellos fueron corriendo, y encontraron all\u00ed todo lo que Ac\u00e1n hab\u00eda enterrado. La plata estaba debajo de todo."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Luego salieron de la carpa con todo aquello y se lo llevaron a Josu\u00e9, que estaba con el pueblo. Depositaron aquellas cosas en presencia de Dios."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Entonces Josu\u00e9 y todos los israelitas llevaron a Ac\u00e1n y lo robado al valle de Acor. Tambi\u00e9n llevaron a sus hijos e hijas, y a sus bueyes, asnos y ovejas, su carpa y todo lo que ten\u00eda."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "All\u00ed Josu\u00e9 le dijo: \u00ab\u00bfPor qu\u00e9 nos has causado tanto mal? Ahora Dios te va a causar mal a ti\u00bb. Los israelitas lo mataron a pedradas, y tambi\u00e9n a su familia. Luego le prendieron fuego a todo,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "y colocaron un mont\u00f3n de piedras que todav\u00eda est\u00e1 all\u00ed. Por eso el lugar se llama valle de Acor. As\u00ed Dios calm\u00f3 su enojo."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Josu\u00e9 ataca la ciudad de Ai - Dios le dijo a Josu\u00e9: \u00ab\u00a1\u00c1nimo! \u00a1No tengas miedo! Sube a la ciudad de Ai con todos tus soldados. Yo te dar\u00e9 la victoria sobre su rey, su gente y su territorio."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Har\u00e1s con la ciudad y con su rey lo mismo que hiciste con Jeric\u00f3. Esta vez podr\u00e1s quedarte con sus bienes y sus animales. Ordena que una parte del ej\u00e9rcito se quede al otro lado de la ciudad, para atacarla por sorpresa\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Al prepararse para subir a Ai, Josu\u00e9 escogi\u00f3 a un ej\u00e9rcito de treinta mil soldados, a los que envi\u00f3 de noche."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Les dijo: \u00ab\u00a1Escuchen! Esc\u00f3ndanse detr\u00e1s de la ciudad, no muy lejos de ella, y prep\u00e1rense para atacarla."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Yo me acercar\u00e9 por el frente con los dem\u00e1s soldados. Cuando la gente de Ai salga a atacarnos, huiremos como la vez pasada."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ellos pensar\u00e1n que estamos huyendo otra vez, y nos perseguir\u00e1n. As\u00ed los alejaremos de la ciudad."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Entonces ustedes saldr\u00e1n de su escondite para atacar la ciudad; porque nuestro Dios, nos la va a entregar."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Cuando la hayan tomado, le prender\u00e1n fuego como orden\u00f3 Dios. \u00c9stas son mis \u00f3rdenes\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "As\u00ed los envi\u00f3 Josu\u00e9 al oeste de la ciudad, al lugar donde deb\u00edan esconderse entre Betel y Ai. Los hombres se fueron all\u00e1, mientras que Josu\u00e9 pas\u00f3 esa noche con su ej\u00e9rcito."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A la ma\u00f1ana siguiente, Josu\u00e9 se levant\u00f3 temprano y reuni\u00f3 a los soldados. Se puso al frente de su ej\u00e9rcito, y junto con los l\u00edderes israelitas march\u00f3 hasta la ciudad de Ai."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Se detuvieron frente a ella y acamparon. Hab\u00eda un valle entre el campamento y la ciudad."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Josu\u00e9 orden\u00f3 que cinco mil hombres se escondieran al oeste de la ciudad, entre Betel y Ai."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La mayor parte del ej\u00e9rcito acamp\u00f3 al norte, y el resto, al oeste de la ciudad. Josu\u00e9 pas\u00f3 la noche en el valle."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Cuando el rey de Ai vio al ej\u00e9rcito de Josu\u00e9, sali\u00f3 enseguida con sus hombres. Bajaron en direcci\u00f3n al valle del Jord\u00e1n para pelear all\u00ed contra los israelitas, sin saber que la ciudad iba a ser atacada desde atr\u00e1s."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Josu\u00e9 y sus hombres hicieron como que retroced\u00edan y huyeron hacia el valle del Jord\u00e1n."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Todo el ej\u00e9rcito de la ciudad sali\u00f3 a perseguirlos, mientras los israelitas hac\u00edan que se alejaran m\u00e1s y m\u00e1s de la ciudad."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ni en Ai ni en Betel qued\u00f3 un solo soldado; todos persiguieron a los israelitas, dejando abierto el port\u00f3n de la ciudad."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Captura y destrucci\u00f3n de Ai - Dios le dijo a Josu\u00e9: \u00abApunta con tu lanza hacia la ciudad de Ai, porque yo te dar\u00e9 la victoria\u00bb. Entonces Josu\u00e9 extendi\u00f3 el brazo y apunt\u00f3 con su lanza hacia la ciudad."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Al ver que Josu\u00e9 levantaba su lanza, los soldados que estaban escondidos salieron corriendo, se apoderaron de la ciudad y le prendieron fuego."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Cuando los hombres de Ai se dieron vuelta, vieron que el humo sub\u00eda hasta el cielo. Tambi\u00e9n Josu\u00e9 y sus hombres vieron el humo, y supieron que los otros soldados israelitas hab\u00edan tomado la ciudad y le hab\u00edan prendido fuego. Los de Ai no ten\u00edan hacia d\u00f3nde escapar, as\u00ed que Josu\u00e9 y sus soldados se volvieron y comenzaron a matarlos."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Cuando los hombres de Ai se dieron vuelta, vieron que el humo sub\u00eda hasta el cielo. Tambi\u00e9n Josu\u00e9 y sus hombres vieron el humo, y supieron que los otros soldados israelitas hab\u00edan tomado la ciudad y le hab\u00edan prendido fuego. Los de Ai no ten\u00edan hacia d\u00f3nde escapar, as\u00ed que Josu\u00e9 y sus soldados se volvieron y comenzaron a matarlos."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Los israelitas que hab\u00edan quemado la ciudad salieron de all\u00ed, rodearon a los de Ai y los mataron a todos. No se escap\u00f3 ninguno, a excepci\u00f3n del rey, quien fue capturado y llevado ante Josu\u00e9."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Los israelitas que hab\u00edan quemado la ciudad salieron de all\u00ed, rodearon a los de Ai y los mataron a todos. No se escap\u00f3 ninguno, a excepci\u00f3n del rey, quien fue capturado y llevado ante Josu\u00e9."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "As\u00ed fue como los israelitas acabaron con todos los de Ai que estaban en el valle y que hab\u00edan salido a perseguirlos. Despu\u00e9s volvieron a Ai y mataron a todos los que estaban en la ciudad."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ese d\u00eda, mientras Josu\u00e9 mantuvo su lanza en direcci\u00f3n a la ciudad, los israelitas mataron a todos los habitantes de Ai, que eran unos doce mil entre hombres y mujeres."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ese d\u00eda, mientras Josu\u00e9 mantuvo su lanza en direcci\u00f3n a la ciudad, los israelitas mataron a todos los habitantes de Ai, que eran unos doce mil entre hombres y mujeres."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Los israelitas se quedaron con los animales y con todo lo que hab\u00eda en la ciudad, porque Dios le hab\u00eda dicho a Josu\u00e9 que pod\u00edan hacerlo."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Luego Josu\u00e9 orden\u00f3 que se prendiera fuego a la ciudad de Ai, hasta dejarla en ruinas, como todav\u00eda puede verse."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Tambi\u00e9n mand\u00f3 que colgaran de un \u00e1rbol el cuerpo del rey de Ai, y all\u00ed lo dej\u00f3 hasta el anochecer. A esa hora mand\u00f3 que bajaran el cuerpo, y que lo tiraran a la entrada de la ciudad. Despu\u00e9s lo cubrieron con un mont\u00f3n de piedras, las cuales todav\u00eda est\u00e1n all\u00ed."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Josu\u00e9 lee la Ley en el monte Ebal - M\u00e1s tarde, Josu\u00e9 mand\u00f3 levantar en el monte Ebal un altar al Dios de Israel."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Lo hizo siguiendo las instrucciones que Mois\u00e9s, servidor de Dios, le hab\u00eda dado a los israelitas. Dice en la Ley de Mois\u00e9s: \u00abHar\u00e1s un altar de piedras enteras, es decir, que nadie haya cortado\u00bb. All\u00ed ofrecieron varias ofrendas a Dios."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Todos los israelitas vieron c\u00f3mo Josu\u00e9 grab\u00f3 sobre esas piedras la Ley que Mois\u00e9s hab\u00eda dado."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Todo el pueblo de Israel y los extranjeros que viv\u00edan con ellos, junto con todos sus l\u00edderes, se reunieron en dos grupos. Se pusieron uno frente al otro, teniendo entre ellos el cofre del pacto. Detr\u00e1s de un grupo quedaba el monte Guerizim, y detr\u00e1s del otro, el monte Ebal. Junto al cofre estaban los sacerdotes descendientes de Lev\u00ed. Mois\u00e9s les hab\u00eda dicho que se formaran as\u00ed cuando los sacerdotes dieran la bendici\u00f3n al pueblo."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Luego, Josu\u00e9 ley\u00f3 en voz alta todo lo que est\u00e1 escrito en el libro de la Ley, incluyendo las bendiciones y las maldiciones. Todos los israelitas estaban presentes: hombres, mujeres, ni\u00f1os y extranjeros."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Luego, Josu\u00e9 ley\u00f3 en voz alta todo lo que est\u00e1 escrito en el libro de la Ley, incluyendo las bendiciones y las maldiciones. Todos los israelitas estaban presentes: hombres, mujeres, ni\u00f1os y extranjeros."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los gabaonitas enga\u00f1an a Josu\u00e9 - Los reyes de los pueblos de Cana\u00e1n se enteraron de que los israelitas hab\u00edan derrotado a sus enemigos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Entonces se pusieron de acuerdo para pelear contra Josu\u00e9 y los israelitas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Sin embargo, cuando los gabaonitas, que eran de la tribu de los heveos, supieron lo que Josu\u00e9 hab\u00eda hecho en las ciudades de Ai y Jeric\u00f3,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "decidieron enga\u00f1arlo. Algunos de ellos fueron a buscar alimentos, y los cargaron sobre sus asnos en bolsas ya gastadas y pusieron vino en viejos recipientes de cuero remendados."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Se pusieron ropas y sandalias viejas y gastadas. S\u00f3lo llevaban pan seco y hecho pedazos, para hacer creer que ven\u00edan de lejos."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cuando llegaron al campamento en Guilgal, les dijeron a Josu\u00e9 y a los israelitas: \u2014Venimos de un pa\u00eds muy lejano. Queremos hacer un trato con ustedes."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pero los israelitas les preguntaron: \u2014\u00bfPor qu\u00e9 quieren hacer un trato con nosotros? \u00bfC\u00f3mo podemos saber que no viven cerca de aqu\u00ed?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los gabaonitas le respondieron a Josu\u00e9: \u2014Queremos ponernos al servicio de ustedes. Josu\u00e9 volvi\u00f3 a preguntarles: \u2014Pero, \u00bfqui\u00e9nes son ustedes? \u00bfDe d\u00f3nde vienen?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Entonces los gabaonitas le contaron esta historia: \u2014Estimado se\u00f1or, nosotros venimos de un pa\u00eds muy lejano, porque hemos sabido de las maravillas que ha hecho el Dios de ustedes. Nos enteramos de todo lo que \u00e9l hizo en Egipto,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "y tambi\u00e9n de lo que hizo con los dos reyes amorreos del otro lado del Jord\u00e1n, es decir, con Sih\u00f3n rey de Hesb\u00f3n y con Og rey de Bas\u00e1n, que viv\u00eda en Astarot."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nuestros l\u00edderes y toda la gente que vive en nuestro pa\u00eds nos dijeron: \u201cLl\u00e9vense alimentos para un viaje largo, y vayan a encontrarse con el pueblo de Israel. P\u00f3nganse al servicio de ellos y p\u00eddanles que hagan un trato con nosotros."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00a1F\u00edjense en nuestro pan! Cuando salimos de nuestras casas todav\u00eda estaba caliente, pero ahora est\u00e1 seco y hecho pedazos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Cuando llenamos estos recipientes de cuero con vino, eran nuevos; pero \u00a1m\u00edrenlos! \u00a1Est\u00e1n todos remendados, y nuestras ropas y sandalias est\u00e1n gastadas por tan largo viaje!\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Los israelitas aceptaron comer de esas provisiones, sin consultar a Dios."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Fue as\u00ed como Josu\u00e9 hizo un pacto con los gabaonitas y prometi\u00f3 dejarlos vivir en paz. Tambi\u00e9n los l\u00edderes de los israelitas se comprometieron a respetar ese acuerdo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Los israelitas descubren el enga\u00f1o de los gabaonitas - Tres d\u00edas despu\u00e9s de haber confirmado el pacto, los israelitas descubrieron que en realidad los gabaonitas eran vecinos suyos,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "pues llegaron a las ciudades donde viv\u00eda esa gente."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pero los israelitas no pudieron matarlos, porque sus l\u00edderes hab\u00edan prometido en el nombre del Dios de Israel, que no los matar\u00edan. Entonces el pueblo protest\u00f3 contra sus l\u00edderes,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "y ellos se defendieron diciendo: \u2014Recuerden que prometimos en el nombre del Dios de Israel, que no les har\u00edamos da\u00f1o."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Tenemos que dejarlos vivir, pues de lo contrario, Dios nos castigar\u00e1."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Pero ellos tendr\u00e1n que trabajar para nosotros cortando le\u00f1a y acarreando agua."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Pero Josu\u00e9 mand\u00f3 llamar a los gabaonitas y les pregunt\u00f3: \u2014\u00bfPor qu\u00e9 nos enga\u00f1aron diciendo que ven\u00edan de lejos, cuando en realidad viven aqu\u00ed cerca?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Por esto, Dios los condena a ser esclavos, y de ahora en adelante cortar\u00e1n le\u00f1a y acarrear\u00e1n agua para el santuario de mi Dios."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ellos le respondieron: \u2014Si mentimos, fue porque ten\u00edamos miedo de perder la vida. Nosotros sabemos bien lo que el Dios de ustedes prometi\u00f3 a Mois\u00e9s y a todo el pueblo de Israel. Prometi\u00f3 que les dar\u00eda toda la tierra, y mand\u00f3 matar a todos sus habitantes."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Estamos en sus manos. Haga usted con nosotros lo que mejor le parezca."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "As\u00ed fue como Josu\u00e9 protegi\u00f3 a los gabaonitas y no permiti\u00f3 que los israelitas los mataran."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Pero los puso a trabajar como esclavos, cortando le\u00f1a y acarreando agua para los israelitas y para el altar de Dios. Hasta el momento de escribir este relato los gabaonitas siguen haciendo estos trabajos en el lugar que Dios eligi\u00f3 para vivir."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los israelitas derrotan a los amorreos - Adonis\u00e9dec, rey de Jerusal\u00e9n, supo que Josu\u00e9 hab\u00eda conquistado y destruido totalmente a la ciudad de Ai y a su rey, tal como lo hab\u00eda hecho antes con Jeric\u00f3 y con su rey. Tambi\u00e9n supo que los gabaonitas hab\u00edan hecho un acuerdo de paz con los israelitas, y que viv\u00edan con ellos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Esto le dio mucho miedo, porque Gaba\u00f3n era una ciudad importante, m\u00e1s grande que Ai. Era como las otras ciudades que ten\u00edan rey, y adem\u00e1s sus hombres eran muy valientes."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "As\u00ed que Adonis\u00e9dec envi\u00f3 un mensaje a los reyes Hoham, Piram, Jaf\u00eda y Debir. \u00c9stos eran los reyes de Hebr\u00f3n, Jarmut, Laquis y Egl\u00f3n. El mensaje dec\u00eda:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00abLos gabaonitas han hecho un acuerdo de paz con Josu\u00e9 y los israelitas. Vengan y ay\u00fadenme a atacarlos\u00bb."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Estos cinco reyes se juntaron, rodearon la ciudad de Gaba\u00f3n, y la atacaron."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Entonces los gabaonitas enviaron a decir a Josu\u00e9, que estaba en el campamento en Guilgal: \u00ab\u00a1Vengan enseguida a ayudarnos! Los reyes amorreos que viven en los cerros se han unido y nos est\u00e1n atacando. \u00a1No nos abandonen! \u00a1S\u00e1lvennos!\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Entonces Josu\u00e9 sali\u00f3 de Guilgal con todo su ej\u00e9rcito, incluyendo sus mejores tropas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Antes de salir, Dios le hab\u00eda dicho a Josu\u00e9: \u00abVayan sin miedo, porque yo les dar\u00e9 la victoria. No quedar\u00e1 vivo ninguno de ellos\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Toda la noche Josu\u00e9 y sus tropas marcharon hacia Gaba\u00f3n, y atacaron por sorpresa a los amorreos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dios les hizo sentir much\u00edsimo miedo cuando vieron al ej\u00e9rcito israelita en Gaba\u00f3n. Y los israelitas mataron all\u00ed a muchos de ellos, y persiguieron a los dem\u00e1s por las monta\u00f1as hasta Bet-hor\u00f3n, y aun hasta Azec\u00e1 y Maqued\u00e1, en el sur."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Cuando bajaban los amorreos por la cuesta de Bet-hor\u00f3n para escapar de los israelitas, Dios dej\u00f3 caer sobre ellos grandes piedras de granizo. Esto ocurri\u00f3 por todo el camino hasta Azec\u00e1, y el granizo mat\u00f3 m\u00e1s hombres que el ej\u00e9rcito israelita."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "El d\u00eda en que Dios les dio la victoria sobre los amorreos, Josu\u00e9 or\u00f3 a Dios, y delante de todos los israelitas exclam\u00f3: \u00abSol, no te muevas; qu\u00e9date en Gaba\u00f3n. Y t\u00fa, luna, espera en el valle de Aial\u00f3n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00bbY el sol se detuvo, y la luna no se movi\u00f3, hasta que los israelitas se vengaron de sus enemigos\u00bb. Esto ha quedado registrado as\u00ed en el libro del Justo. El sol se qued\u00f3 quieto en medio del cielo, y durante casi un d\u00eda entero no se ocult\u00f3."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jam\u00e1s hubo ni habr\u00e1 un d\u00eda como \u00e9ste, en que Dios escuch\u00f3 los ruegos de un hombre. \u00a1Y es que Dios peleaba por los israelitas!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Despu\u00e9s de su victoria sobre los amorreos, Josu\u00e9 y su ej\u00e9rcito regresaron al campamento en Guilgal."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Captura y muerte de los cinco reyes amorreos - Los cinco reyes amorreos lograron escapar y fueron a esconderse en una cueva, en Maqued\u00e1."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Sin embargo, alguien los encontr\u00f3 y Josu\u00e9 lo supo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Entonces Josu\u00e9 orden\u00f3: \u00abHagan rodar unas piedras grandes hasta la cueva, para cerrar la entrada, y pongan unos guardias."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Pero ustedes no se queden ah\u00ed. Sigan al enemigo. \u00a1Que nadie escape a sus ciudades! Nuestro Dios nos dar\u00e1 la victoria sobre el enemigo\u00bb."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Josu\u00e9 y su ej\u00e9rcito mataron a muchos amorreos, pero algunos de ellos pudieron escapar y se refugiaron en sus ciudades."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Todos los soldados de Josu\u00e9 volvieron sanos y salvos al campamento en Maqued\u00e1 donde Josu\u00e9 estaba. Y nadie de los que all\u00ed viv\u00edan se atrev\u00eda a hablar mal de los israelitas."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Luego Josu\u00e9 orden\u00f3 que se abriera la entrada de la cueva y que llevaran ante \u00e9l a los cinco reyes."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Entonces abrieron la cueva y le llevaron a los reyes de Jerusal\u00e9n, Hebr\u00f3n, Jarmut, Laquis y Egl\u00f3n. Josu\u00e9 llam\u00f3 a todo el ej\u00e9rcito israelita y orden\u00f3 a sus oficiales: \u00abAc\u00e9rquense y p\u00f3nganles el pie en el cuello a estos reyes\u00bb. As\u00ed lo hicieron,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Entonces abrieron la cueva y le llevaron a los reyes de Jerusal\u00e9n, Hebr\u00f3n, Jarmut, Laquis y Egl\u00f3n. Josu\u00e9 llam\u00f3 a todo el ej\u00e9rcito israelita y orden\u00f3 a sus oficiales: \u00abAc\u00e9rquense y p\u00f3nganles el pie en el cuello a estos reyes\u00bb. As\u00ed lo hicieron,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "y Josu\u00e9 les dijo: \u00ab\u00a1An\u00edmense! \u00a1Sean fuertes y no tengan miedo! Tengan confianza, porque esto es lo que Dios va a hacer con todos los enemigos de ustedes\u00bb."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Luego Josu\u00e9 mat\u00f3 a los cinco reyes, hizo que colgaran a cada uno de un \u00e1rbol, y mand\u00f3 que los dejaran all\u00ed hasta el anochecer."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Cuando el sol se puso, Josu\u00e9 mand\u00f3 que bajaran los cuerpos y los echaran en la cueva donde hab\u00edan estado escondidos. Luego se tap\u00f3 la entrada con grandes piedras, que todav\u00eda est\u00e1n all\u00ed."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Josu\u00e9 conquista m\u00e1s territorio amorreo - Ese d\u00eda Josu\u00e9 conquist\u00f3 la ciudad de Maqued\u00e1 y orden\u00f3 que mataran al rey y a todos los habitantes. Al rey de Maqued\u00e1 le hizo lo mismo que al rey de Jeric\u00f3. No se salv\u00f3 ninguno."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "De Maqued\u00e1, Josu\u00e9 y su ej\u00e9rcito se fueron a Libn\u00e1 y la atacaron."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Dios tambi\u00e9n les concedi\u00f3 a los israelitas la victoria sobre esta ciudad y sobre su rey, y mataron a todos sus habitantes. Josu\u00e9 mat\u00f3 al rey de Libn\u00e1, como lo hab\u00eda hecho con el rey de Jeric\u00f3. No se salv\u00f3 ninguno."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Luego Josu\u00e9 se fue a la ciudad de Laquis, y con su ej\u00e9rcito la rode\u00f3 y la atac\u00f3."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Al segundo d\u00eda de combate Dios les dio la victoria a los israelitas. Mataron a todos los que estaban en la ciudad, como lo hab\u00edan hecho en Libn\u00e1."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Tambi\u00e9n derrotaron a Horam, rey de Gu\u00e9zer, que ven\u00eda con su ej\u00e9rcito para ayudar a Laquis. No se salv\u00f3 ninguno."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "De Laquis se fueron a Egl\u00f3n. Sitiaron la ciudad y la atacaron."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Ese mismo d\u00eda la tomaron y la destruyeron, matando a todos los que all\u00ed viv\u00edan, como lo hab\u00edan hecho en Laquis."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Luego Josu\u00e9 y todo su ej\u00e9rcito fueron a Hebr\u00f3n, y atacaron la ciudad"
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "y la tomaron. Mataron al rey y a todos los habitantes de esa ciudad y de otras ciudades vecinas. Josu\u00e9 mand\u00f3 destruir totalmente la ciudad, como lo hab\u00eda hecho en Egl\u00f3n. No se salv\u00f3 ninguno."
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Despu\u00e9s se dirigieron a Debir, la atacaron,"
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "y se apoderaron de esa ciudad y de su rey. Tambi\u00e9n conquistaron las otras ciudades vecinas y mataron a todos los que viv\u00edan en ellas. Josu\u00e9 hizo en Debir lo mismo que en Hebr\u00f3n y en Libn\u00e1: orden\u00f3 matar al rey y a todos sus habitantes. No se salv\u00f3 ninguno."
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "As\u00ed fue como Josu\u00e9 conquist\u00f3 toda esa regi\u00f3n. Pele\u00f3 en las monta\u00f1as, en los cerros del este y del oeste, y en el desierto del sur. Josu\u00e9 llev\u00f3 a su ej\u00e9rcito desde Cad\u00e9s-barnea, en el sur, hasta Gaza, cerca de la costa. Recorrieron toda la regi\u00f3n de Gosen, hasta Gaba\u00f3n en el norte. Derrotaron a todos los reyes de la regi\u00f3n, y mataron a toda su gente porque as\u00ed lo hab\u00eda ordenado el Dios de Israel. No se salv\u00f3 ninguno."
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "As\u00ed fue como Josu\u00e9 conquist\u00f3 toda esa regi\u00f3n. Pele\u00f3 en las monta\u00f1as, en los cerros del este y del oeste, y en el desierto del sur. Josu\u00e9 llev\u00f3 a su ej\u00e9rcito desde Cad\u00e9s-barnea, en el sur, hasta Gaza, cerca de la costa. Recorrieron toda la regi\u00f3n de Gosen, hasta Gaba\u00f3n en el norte. Derrotaron a todos los reyes de la regi\u00f3n, y mataron a toda su gente porque as\u00ed lo hab\u00eda ordenado el Dios de Israel. No se salv\u00f3 ninguno."
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "As\u00ed fue como Josu\u00e9 conquist\u00f3 toda esa regi\u00f3n. Pele\u00f3 en las monta\u00f1as, en los cerros del este y del oeste, y en el desierto del sur. Josu\u00e9 llev\u00f3 a su ej\u00e9rcito desde Cad\u00e9s-barnea, en el sur, hasta Gaza, cerca de la costa. Recorrieron toda la regi\u00f3n de Gosen, hasta Gaba\u00f3n en el norte. Derrotaron a todos los reyes de la regi\u00f3n, y mataron a toda su gente porque as\u00ed lo hab\u00eda ordenado el Dios de Israel. No se salv\u00f3 ninguno."
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "Despu\u00e9s de eso, volvi\u00f3 Josu\u00e9 con todo el ej\u00e9rcito israelita al campamento en Guilgal."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Josu\u00e9 derrota a Jab\u00edn y a sus aliados - Cuando Jab\u00edn, el rey de Hasor, se enter\u00f3 de las victorias de Israel, envi\u00f3 un mensaje a los reyes vecinos pidi\u00e9ndoles que se unieran con \u00e9l para pelear contra los israelitas. Envi\u00f3 este mensaje al rey Jobab de Mad\u00f3n, a los reyes de Simr\u00f3n y Acsaf, a los reyes de la regi\u00f3n monta\u00f1osa del norte, a los del valle del Jord\u00e1n que est\u00e1 al sur del Lago de Galilea, a los de la llanura, y a los de la zona de Dor, hacia el oeste."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Josu\u00e9 derrota a Jab\u00edn y a sus aliados - Cuando Jab\u00edn, el rey de Hasor, se enter\u00f3 de las victorias de Israel, envi\u00f3 un mensaje a los reyes vecinos pidi\u00e9ndoles que se unieran con \u00e9l para pelear contra los israelitas. Envi\u00f3 este mensaje al rey Jobab de Mad\u00f3n, a los reyes de Simr\u00f3n y Acsaf, a los reyes de la regi\u00f3n monta\u00f1osa del norte, a los del valle del Jord\u00e1n que est\u00e1 al sur del Lago de Galilea, a los de la llanura, y a los de la zona de Dor, hacia el oeste."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tambi\u00e9n envi\u00f3 este mensaje a los cananeos de ambos lados del Jord\u00e1n, a los amorreos, a los hititas, a los ferezeos, a los jebuseos de las monta\u00f1as, y a los heveos que viv\u00edan al pie del monte Herm\u00f3n, en la regi\u00f3n de Misp\u00e1."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Y vinieron esos reyes con todos sus soldados, caballos y carros de guerra. Eran tantos como la arena del mar, pues no se pod\u00edan contar."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Todos estos reyes se reunieron cerca del arroyo de Merom, y acamparon all\u00ed, dispuestos a pelear contra los israelitas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dios le dijo a Josu\u00e9: \u00abNo les tengas miedo, porque ma\u00f1ana a esta hora ya los habr\u00e9 matado a todos delante de Israel. Pero ustedes, por su parte, tendr\u00e1n que dejar in\u00fatiles a los caballos y prenderles fuego a los carros de guerra\u00bb."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Josu\u00e9, con todo su ej\u00e9rcito, los atac\u00f3 por sorpresa cerca del arroyo de Merom,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "y Dios les dio la victoria a los israelitas. Ellos atacaron y persiguieron a sus enemigos hacia el norte, hasta la gran ciudad de Sid\u00f3n y hasta Misrefot-maim, y al este hasta el valle de Misp\u00e1. Los guerreros de Josu\u00e9 siguieron peleando hasta no dejar a nadie con vida."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Adem\u00e1s, Josu\u00e9 cumpli\u00f3 con lo que Dios le hab\u00eda ordenado: dej\u00f3 in\u00fatiles los caballos y les prendi\u00f3 fuego a los carros de guerra."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "En esa \u00e9poca, el rey de Hasor gobernaba sobre los otros reinos de la regi\u00f3n. As\u00ed que despu\u00e9s de la batalla Josu\u00e9 y sus guerreros fueron a Hasor y la atacaron. Tomaron la ciudad, y mataron al rey"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "y a todos los que viv\u00edan all\u00ed. No qued\u00f3 nadie con vida, y la ciudad fue incendiada."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Josu\u00e9 conquist\u00f3 todas estas ciudades con sus reyes, y les orden\u00f3 a sus guerreros: \u00abMaten a todos sus habitantes, tal como nos lo mand\u00f3 Mois\u00e9s, el servidor de Dios\u00bb."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Los israelitas no le prendieron fuego a ninguna de las ciudades construidas sobre los cerros, sino solamente a la ciudad de Hasor."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Se quedaron con las cosas que all\u00ed hab\u00eda y con los animales, pero mataron a todos sus habitantes. No dejaron a nadie con vida."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mois\u00e9s le dio a Josu\u00e9 las \u00f3rdenes que hab\u00eda recibido de Dios, y Josu\u00e9 cumpli\u00f3 todo al pie de la letra."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Josu\u00e9 y su ej\u00e9rcito conquistaron todo ese territorio. Tomaron la zona monta\u00f1osa, toda la tierra de Gosen y el desierto del sur, adem\u00e1s del valle del Jord\u00e1n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El territorio se extend\u00eda desde el monte Halac, que est\u00e1 al sur, cerca de Edom, hasta Baal-gad, que est\u00e1 al norte, en el valle del L\u00edbano, al pie del monte Herm\u00f3n. Durante mucho tiempo Josu\u00e9 estuvo en guerra con los reyes de esta regi\u00f3n, pero finalmente conquist\u00f3 todas sus ciudades y mat\u00f3 a sus reyes."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "El territorio se extend\u00eda desde el monte Halac, que est\u00e1 al sur, cerca de Edom, hasta Baal-gad, que est\u00e1 al norte, en el valle del L\u00edbano, al pie del monte Herm\u00f3n. Durante mucho tiempo Josu\u00e9 estuvo en guerra con los reyes de esta regi\u00f3n, pero finalmente conquist\u00f3 todas sus ciudades y mat\u00f3 a sus reyes."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "La \u00fanica ciudad que hizo un acuerdo de paz con los israelitas fue Gaba\u00f3n, donde viv\u00edan los heveos. Todas las dem\u00e1s ciudades fueron conquistadas."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Dios mismo hizo que los enemigos se pusieran tercos y ofrecieran resistencia. Lo hizo para que los israelitas los destruyeran por completo, sin compasi\u00f3n, tal como Dios se lo hab\u00eda ordenado a Mois\u00e9s."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Por ese entonces Josu\u00e9 destruy\u00f3 tambi\u00e9n a los anaquitas, los gigantes que viv\u00edan en las ciudades de Hebr\u00f3n, Debir y Anab, y en todos los cerros de Israel y Jud\u00e1. Adem\u00e1s, destruy\u00f3 sus ciudades. S\u00f3lo quedaron con vida unos cuantos que viv\u00edan en Gaza, Gat y Asdod."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Por ese entonces Josu\u00e9 destruy\u00f3 tambi\u00e9n a los anaquitas, los gigantes que viv\u00edan en las ciudades de Hebr\u00f3n, Debir y Anab, y en todos los cerros de Israel y Jud\u00e1. Adem\u00e1s, destruy\u00f3 sus ciudades. S\u00f3lo quedaron con vida unos cuantos que viv\u00edan en Gaza, Gat y Asdod."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De este modo Josu\u00e9 conquist\u00f3 toda la regi\u00f3n, en obediencia al mandamiento que Dios le hab\u00eda dado a Mois\u00e9s. Luego dividi\u00f3 el territorio, y a cada tribu de Israel le entreg\u00f3 su parte. Despu\u00e9s de esto hubo paz en toda la regi\u00f3n."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los reyes derrotados por Mois\u00e9s - Bajo el mando de Mois\u00e9s, los israelitas ya hab\u00edan derrotado a dos reyes al este del r\u00edo Jord\u00e1n. Se hab\u00edan apoderado del territorio que va desde el r\u00edo Arn\u00f3n, al sur, hasta el monte Herm\u00f3n, al norte, y tambi\u00e9n de la regi\u00f3n al este del Jord\u00e1n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Uno de estos reyes era Sih\u00f3n, rey de los amorreos, que viv\u00eda en Hesb\u00f3n y gobernaba sobre la mitad de Galaad; su territorio se extend\u00eda desde el r\u00edo Jaboc, en el norte, hasta el r\u00edo Arn\u00f3n, en el sur. Al sureste su frontera era la ciudad de Aroer, en la ribera del r\u00edo Arn\u00f3n. Al suroeste, se extend\u00eda hasta la mitad del valle del Arn\u00f3n, desde Aroer hasta el Mar Muerto."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Su frontera oeste era el r\u00edo Jord\u00e1n, desde el Lago de Galilea, al norte, hasta el Mar Muerto, al sur. Tambi\u00e9n le pertenec\u00eda la regi\u00f3n al este del Mar Muerto, hasta la ciudad de Bet-jesimot y el monte Pisg\u00e1."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El otro rey derrotado por Mois\u00e9s y los israelitas fue Og de Bas\u00e1n, el \u00faltimo de los refa\u00edtas. Og gobernaba en Astarot y en Edrei."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Su territorio se extend\u00eda desde el monte Herm\u00f3n, al norte, y desde la ciudad de Salc\u00e1, al este, incluyendo todo Bas\u00e1n, hasta el l\u00edmite con los territorios de Guesur y Maac\u00e1, en el oeste. Adem\u00e1s, gobernaba sobre la parte norte de Galaad, hasta el territorio de Sih\u00f3n, rey de Hesb\u00f3n."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bajo el mando de Mois\u00e9s, estos dos reyes fueron vencidos por los israelitas. Mois\u00e9s reparti\u00f3 su territorio entre las tribus de Rub\u00e9n y Gad y la mitad de la tribu de Manas\u00e9s."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Los reyes derrotados por Josu\u00e9 - Bajo el mando de Josu\u00e9, los israelitas derrotaron a todos los reyes al oeste del r\u00edo Jord\u00e1n, desde Baal-gad, en el valle del L\u00edbano, hasta el monte Halac, al sur de Edom. Josu\u00e9 reparti\u00f3 este territorio, d\u00e1ndole a cada tribu su parte."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Este territorio inclu\u00eda la zona monta\u00f1osa, los cerros del oeste, el valle del Jord\u00e1n, los cerros del este y el desierto del sur. Antes hab\u00eda pertenecido a los hititas, los amorreos, los cananeos, los ferezeos, los heveos y los jebuseos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Los israelitas derrotaron a los reyes de las siguientes ciudades: Jeric\u00f3, Ai que est\u00e1 cerca de Betel,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jerusal\u00e9n, Hebr\u00f3n,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jarmut, Laquis,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Egl\u00f3n, Gu\u00e9zer,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Debir, Gu\u00e9der,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Horm\u00e1, Arad,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Libn\u00e1, Adulam,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Maqued\u00e1, Betel,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tap\u00faah, H\u00e9fer,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Afec, Sar\u00f3n,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Mad\u00f3n, Hasor,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Simr\u00f3n-mer\u00f3n, Acsaf,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Taanac, Meguido,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Cedes, Jocneam en el monte Carmelo,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Dor en la costa, Go\u00edm de Guilgal,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "y Tirs\u00e1. En total fueron treinta y un reyes."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Territorios no conquistados - Cuando ya hab\u00edan pasado muchos a\u00f1os, y Josu\u00e9 era anciano, Dios le dijo: \u00abYa est\u00e1s muy viejo, y todav\u00eda hay mucho territorio por conquistar."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Falta la regi\u00f3n de los filisteos y toda la de los guesureos,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "desde el arroyo Sihor, al este de Egipto, hasta la frontera con Ecr\u00f3n, en el norte, que es territorio cananeo. All\u00ed hay cinco jefes filisteos que viven en las ciudades de Gaza, Asdod, Ascal\u00f3n, Gad y Ecr\u00f3n. Adem\u00e1s, falta el territorio de los aveos,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "al sur. As\u00ed que todav\u00eda hay territorio cananeo por conquistar, desde Megar\u00e1 de los sidonios hasta Afec, en la frontera con los amorreos."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "No han tomado a\u00fan la zona de los guiblitas, ni la parte este del L\u00edbano, desde Baal-gad al sur del monte Herm\u00f3n hasta el paso de Hamat."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A medida que avancen los israelitas, yo echar\u00e9 a los sidonios de la regi\u00f3n monta\u00f1osa, desde el L\u00edbano hasta Misrefot-maim. Pero t\u00fa debes dividir el territorio entre los israelitas, como te he mandado."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "As\u00ed que reparte esta tierra entre las nueve tribus y la media tribu de Manas\u00e9s\u00bb."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Territorio al este del Jord\u00e1n - Las tribus de Rub\u00e9n, Gad y la media tribu de Manas\u00e9s ya ocupaban el territorio que les correspond\u00eda al este del Jord\u00e1n, pues Mois\u00e9s se lo hab\u00eda asignado."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Su tierra se extend\u00eda desde Aroer, a orillas del r\u00edo Arn\u00f3n, hasta Dib\u00f3n, y adem\u00e1s inclu\u00eda la ciudad que est\u00e1 en medio del valle y toda la llanura de Medeb\u00e1."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tambi\u00e9n recibieron todas las ciudades que hab\u00eda gobernado Sih\u00f3n, rey de los amorreos, cuando viv\u00eda en Hesb\u00f3n. Su territorio llegaba hasta la frontera de los amonitas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Comprend\u00eda Galaad, las tierras de los guesureos y de los maacateos, el monte Herm\u00f3n, y toda la tierra de Bas\u00e1n, hasta Salc\u00e1."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Inclu\u00eda adem\u00e1s el reino de Og, el \u00faltimo de los refa\u00edtas que gobern\u00f3 en Astarot y Edrei. Mois\u00e9s y los israelitas los hab\u00edan derrotado y los hab\u00edan desalojado de su territorio,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "aunque no a todos, pues los guesureos y los maacateos todav\u00eda viven en Israel."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "La \u00fanica tribu que no recibi\u00f3 ning\u00fan territorio fue la de Lev\u00ed, ya que ellos recibir\u00edan una parte de todos los sacrificios que se ofrecen al Dios de Israel, como \u00e9l mismo le hab\u00eda ordenado a Mois\u00e9s."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Territorio de la tribu de Rub\u00e9n - Mois\u00e9s hab\u00eda repartido tierras a la tribu de Rub\u00e9n, seg\u00fan el n\u00famero de sus grupos familiares."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Su territorio se extend\u00eda desde Aroer, a orillas del r\u00edo Arn\u00f3n, hasta Hesb\u00f3n, incluyendo la ciudad que est\u00e1 en medio del valle y toda la llanura de Medeb\u00e1."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Comprend\u00eda todas las ciudades que est\u00e1n en la llanura: Dib\u00f3n, Bamot-baal, Bet-baal-meg\u00f3n,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Jahas, Cademot, Mef\u00e1at,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Quiriataim, Sibm\u00e1, S\u00e9ret-s\u00e1har, que est\u00e1 en el cerro del valle,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Bet-peor, Bet-jesimot, y las laderas del monte Pisg\u00e1."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Comprend\u00eda todas las ciudades de la llanura y todo el territorio de Sih\u00f3n, rey de los amorreos, que gobernaba en Hesb\u00f3n. Mois\u00e9s lo hab\u00eda derrotado a \u00e9l, y tambi\u00e9n a sus gobernadores Ev\u00ed, Sur, R\u00e9quem, Hur y Reba, que viv\u00edan en la tierra de Madi\u00e1n."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Los israelitas mataron, entre otros, al adivino Balaam hijo de Beor."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "En resumen: A los grupos familiares de la tribu de Rub\u00e9n se les dieron todas estas ciudades y aldeas al este del r\u00edo Jord\u00e1n."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Territorio de la tribu de Gad - Mois\u00e9s tambi\u00e9n le dio su parte a la tribu de Gad, seg\u00fan el n\u00famero de sus grupos familiares."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "El territorio de ellos inclu\u00eda Jazer y todas las ciudades de Galaad, y la mitad del territorio de los amonitas, hasta la ciudad de Aroer, que est\u00e1 al este de Rab\u00e1."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Se extend\u00eda desde Hesb\u00f3n hasta Ramat-misp\u00e9 y Betonim, y desde Mahanaim hasta la frontera de Debir."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "En el valle les toc\u00f3 Bet-aram, Bet-nimr\u00e1, Sucot y Saf\u00f3n, que era la otra parte del territorio que el rey Sih\u00f3n hab\u00eda gobernado desde Hesb\u00f3n, con el Jord\u00e1n como frontera en la punta del Lago de Galilea al este del Jord\u00e1n."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "As\u00ed que \u00e9stas fueron las ciudades entregadas a los grupos familiares de la tribu de Gad."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Territorio de la media tribu de Manas\u00e9s - Mois\u00e9s les hab\u00eda entregado toda la zona de Bas\u00e1n a los grupos familiares de la media tribu de Manas\u00e9s, desde Mahanaim hacia el norte, es decir, todo el territorio donde hab\u00eda gobernado Og, rey de Bas\u00e1n, incluyendo las sesenta ciudades tomadas por Ja\u00edr."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Territorio de la media tribu de Manas\u00e9s - Mois\u00e9s les hab\u00eda entregado toda la zona de Bas\u00e1n a los grupos familiares de la media tribu de Manas\u00e9s, desde Mahanaim hacia el norte, es decir, todo el territorio donde hab\u00eda gobernado Og, rey de Bas\u00e1n, incluyendo las sesenta ciudades tomadas por Ja\u00edr."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "A esta media tribu, descendiente de Maquir hijo de Manas\u00e9s, Mois\u00e9s le entreg\u00f3 la mitad de Galaad, junto con las ciudades de Astarot y Edrei, donde Og hab\u00eda reinado."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "De esta manera reparti\u00f3 Mois\u00e9s el territorio de Moab en el valle del r\u00edo Jord\u00e1n, al este de Jeric\u00f3."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Pero a la tribu de Lev\u00ed no le dio ning\u00fan territorio, pues Dios mismo les dar\u00eda todo lo necesario."
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El territorio al oeste del Jord\u00e1n - El sacerdote Eleazar y Josu\u00e9 hijo de Nun, junto con los jefes de las familias, repartieron entre los israelitas el territorio cananeo al oeste del r\u00edo Jord\u00e1n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dios le hab\u00eda ordenado a Mois\u00e9s repartir los territorios de las nueve tribus y media haciendo sorteos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Los descendientes de Jos\u00e9 se hab\u00edan dividido en dos tribus: la de Manas\u00e9s y la de Efra\u00edn. Mois\u00e9s ya hab\u00eda repartido la tierra al este del Jord\u00e1n entre las tribus de Rub\u00e9n, Gad y la media tribu de Manas\u00e9s. A los descendientes de Lev\u00ed no les dio ning\u00fan territorio, pero s\u00ed les asign\u00f3 ciudades donde vivir, y campos para criar sus animales."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Los descendientes de Jos\u00e9 se hab\u00edan dividido en dos tribus: la de Manas\u00e9s y la de Efra\u00edn. Mois\u00e9s ya hab\u00eda repartido la tierra al este del Jord\u00e1n entre las tribus de Rub\u00e9n, Gad y la media tribu de Manas\u00e9s. A los descendientes de Lev\u00ed no les dio ning\u00fan territorio, pero s\u00ed les asign\u00f3 ciudades donde vivir, y campos para criar sus animales."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Los israelitas repartieron el territorio seg\u00fan las instrucciones que Dios le hab\u00eda dado a Mois\u00e9s."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Caleb recibe la ciudad de Hebr\u00f3n - Cierto d\u00eda, estando los israelitas en Guilgal, algunos de la tribu de Jud\u00e1 vinieron a ver a Josu\u00e9. Entre ellos estaba Caleb, hijo de Jefun\u00e9 el quenezita. Caleb le record\u00f3 a Josu\u00e9: \u00abT\u00fa bien sabes que nuestro Dios habl\u00f3 con Mois\u00e9s en Cad\u00e9s-barnea acerca de nosotros dos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Yo ten\u00eda cuarenta a\u00f1os cuando Mois\u00e9s me envi\u00f3 desde Cad\u00e9s-barnea a explorar esta tierra. Y yo le cont\u00e9 la verdad sobre lo que hab\u00eda visto."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los que me hab\u00edan acompa\u00f1ado asustaron a nuestra gente; en cambio, yo confi\u00e9 plenamente en mi Dios."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Aquel d\u00eda Mois\u00e9s jur\u00f3 que a mi familia y a m\u00ed nos dar\u00eda la tierra por donde anduve, porque le fui fiel a Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Eso pas\u00f3 hace cuarenta y cinco a\u00f1os, y todo este tiempo que nuestro pueblo ha andado por el desierto, Dios me ha protegido, tal como lo prometi\u00f3. \u00a1M\u00edrame! Ya tengo ochenta y cinco a\u00f1os,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "pero estoy tan fuerte hoy como cuando Mois\u00e9s me envi\u00f3 a explorar. \u00a1Y todav\u00eda puedo pelear!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Por eso te pido que me des la regi\u00f3n monta\u00f1osa que Dios me prometi\u00f3 aquel d\u00eda. T\u00fa bien sabes que los descendientes del gigante Anac viven en ciudades grandes y bien protegidas. Pero con la ayuda de Dios los podr\u00e9 desalojar, y as\u00ed conquistar\u00e9 esas ciudades, tal como Dios lo prometi\u00f3\u00bb."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Josu\u00e9 bendijo a Caleb, y a \u00e9l y a sus descendientes les dio el territorio de Hebr\u00f3n."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "As\u00ed fue como Hebr\u00f3n lleg\u00f3 a pertenecer a Caleb y a su familia, porque Caleb obedeci\u00f3 fielmente al Dios de Israel. Y todav\u00eda le pertenece."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Antes de eso, Hebr\u00f3n se llamaba Quiriat-arb\u00e1, porque Arb\u00e1 era el nombre del gigante m\u00e1s importante. Despu\u00e9s de esto hubo paz en la regi\u00f3n."
+                }
+            }
+        },
+        "15": {
+            "chapter_nr": "15",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Territorio de la tribu de Jud\u00e1 - El territorio que recibi\u00f3 la tribu de Jud\u00e1 se extend\u00eda hacia el sur por el desierto de Sin hasta Tem\u00e1n, en la frontera con Edom."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Esta frontera comenzaba en el extremo sur del Mar Muerto,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "segu\u00eda hacia el sur por el paso de Acrabim, y cruzaba el desierto de Sin, pasando al sur de Cad\u00e9s-barnea. Luego segu\u00eda hasta la ciudad de Hezr\u00f3n, sub\u00eda a Adar, y daba la vuelta por Carc\u00e1 hasta la ciudad de Asm\u00f3n. De all\u00ed segu\u00eda por el arroyo, en la frontera con Egipto, hacia el noroeste, y terminaba en el mar Mediterr\u00e1neo. \u00c9sta era la frontera sur de la tierra de Jud\u00e1."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "segu\u00eda hacia el sur por el paso de Acrabim, y cruzaba el desierto de Sin, pasando al sur de Cad\u00e9s-barnea. Luego segu\u00eda hasta la ciudad de Hezr\u00f3n, sub\u00eda a Adar, y daba la vuelta por Carc\u00e1 hasta la ciudad de Asm\u00f3n. De all\u00ed segu\u00eda por el arroyo, en la frontera con Egipto, hacia el noroeste, y terminaba en el mar Mediterr\u00e1neo. \u00c9sta era la frontera sur de la tierra de Jud\u00e1."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Al este, la frontera era todo el Mar Muerto, hasta la desembocadura del r\u00edo Jord\u00e1n. All\u00ed comenzaba la frontera norte,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "que se extend\u00eda hasta Bet-hogl\u00e1, pasando al norte de Bet-arab\u00e1 hasta la Roca de Bohan hijo de Rub\u00e9n."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Despu\u00e9s sub\u00eda del valle de Acor hasta Debir, doblando hacia Guilgal frente al paso de Adumim, al sur del valle; pasaba por el manantial de En-semes, y segu\u00eda hasta el de En-roguel;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "luego cruzaba el valle de Ben-hinom, que est\u00e1 al sur de Jerusal\u00e9n, y sub\u00eda por la cumbre del cerro al oeste del valle de Hinom, y de all\u00ed bajaba al valle de Refaim;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "daba la vuelta desde la cumbre del cerro hasta el manantial de Neft\u00f3ah, y segu\u00eda por las ciudades del monte Efr\u00f3n, pasando por Quiriat-jearim."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hacia el oeste de Baal\u00e1, la frontera llegaba hasta el monte de Se\u00edr, pasaba por Quesal\u00f3n, por el lado norte del monte Jearim, y bajaba hasta Bet-semes, pasando por Timn\u00e1."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De all\u00ed segu\u00eda por los cerros al norte de Ecr\u00f3n, y segu\u00eda a Sicr\u00f3n, hasta Jabneel, pasando por el monte de Baal\u00e1, para terminar en el mar Mediterr\u00e1neo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Por \u00faltimo, la frontera oeste era el mar Mediterr\u00e1neo. \u00c9stas eran las fronteras del territorio que les toc\u00f3 a los grupos familiares de la tribu de Jud\u00e1."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Caleb conquista Hebr\u00f3n y Debir - Dios le hab\u00eda dicho a Josu\u00e9: \u00abDale a Caleb hijo de Jefun\u00e9, una parte del territorio de la tribu de Jud\u00e1\u00bb. Josu\u00e9 le asign\u00f3 entonces la ciudad de Hebr\u00f3n, que hab\u00eda fundado Arb\u00e1, el padre de la raza de gigantes."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En esa ciudad viv\u00edan los grupos familiares de los gigantes Sesai, Ahim\u00e1n y Talmai. Caleb los ech\u00f3 de all\u00ed y se apoder\u00f3 de la ciudad."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Despu\u00e9s sali\u00f3 para atacar a los habitantes de Debir."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Y dijo Caleb: \u00abAl que conquiste Debir le dar\u00e9 mi hija Acsa por esposa\u00bb."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El que conquist\u00f3 la ciudad fue su sobrino, Otoniel hijo de Quenaz, as\u00ed que Caleb le dio a su hija Acsa por esposa."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "El d\u00eda de su casamiento Otoniel le dijo a su esposa: \u2014Dile a tu padre que nos d\u00e9 un terreno. Entonces ella se baj\u00f3 de su asno, y Caleb le pregunt\u00f3 qu\u00e9 quer\u00eda."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ella le contest\u00f3: \u2014Quiero un regalo de bodas. Ya me diste tierras, pero est\u00e1n en zonas \u00e1ridas. Dame ahora tambi\u00e9n manantiales. Y Caleb le dio los manantiales del cerro y los del valle."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Las ciudades de la tribu de Jud\u00e1 - El territorio que recibieron los grupos familiares de la tribu de Jud\u00e1 comprend\u00eda las siguientes ciudades:"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "En la regi\u00f3n sur, cerca de la frontera con Edom, estaban Cabseel, \u00c9der, Jagur,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Quin\u00e1, Dimon\u00e1, Adad\u00e1,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Cedes, Hasor, Itn\u00e1n,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Zif, T\u00e9lem, Bealot,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Hasor-hadat\u00e1, Queriot, Hesr\u00f3n,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Amam, Sem\u00e1, Molad\u00e1,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Hasar-gad\u00e1, Hesm\u00f3n, Bet-p\u00e9let,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Hasar-sual, Beerseba y sus aldeas,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Baal\u00e1, Iim, \u00c9sem,"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Eltolad, Quesil, Horm\u00e1,"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Siclag, Madman\u00e1, Sansan\u00e1,"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Lebaot, Silhim y En-rim\u00f3n. En total eran veintinueve ciudades m\u00e1s las aldeas que las rodeaban."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Las ciudades de la llanura eran: Estaol, Sor\u00e1, Asn\u00e1,"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Zan\u00f3ah, En-ganim, Tap\u00faah, Enam,"
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Jarmut, Adulam, Soc\u00f3, Azec\u00e1,"
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Saaraim, Aditaim, Gueder\u00e1 y Guederotaim, es decir, catorce ciudades con sus aldeas."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Otras ciudades eran Sen\u00e1n, Hadas\u00e1, Migdal-gad,"
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Dile\u00e1n, Misp\u00e1, Jocteel,"
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Laquis, Boscat, Egl\u00f3n,"
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "Cab\u00f3n, Lahmam, Quitl\u00eds,"
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "Guederot, Bet-dag\u00f3n, Naam\u00e1 y Maqued\u00e1, es decir, diecis\u00e9is ciudades con sus aldeas."
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "Estaban adem\u00e1s las ciudades de Libn\u00e1, \u00c9ter, As\u00e1n,"
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "Ifta, Seana, Nesib,"
+                },
+                "44": {
+                    "verse_nr": "44",
+                    "verse": "Queil\u00e1, Aczib y Mares\u00e1, es decir, otras nueve ciudades, con sus aldeas."
+                },
+                "45": {
+                    "verse_nr": "45",
+                    "verse": "Tambi\u00e9n estaba Ecr\u00f3n con sus pueblos y aldeas,"
+                },
+                "46": {
+                    "verse_nr": "46",
+                    "verse": "y todas las ciudades y aldeas cercanas a Asdod, desde Ecr\u00f3n hasta el mar Mediterr\u00e1neo."
+                },
+                "47": {
+                    "verse_nr": "47",
+                    "verse": "Formaban parte de este territorio las ciudades de Asdod y Gaza, con sus pueblos y aldeas, cuya zona se extend\u00eda hasta el arroyo de Egipto y la costa del mar Mediterr\u00e1neo."
+                },
+                "48": {
+                    "verse_nr": "48",
+                    "verse": "En la regi\u00f3n monta\u00f1osa el pueblo de Jud\u00e1 ten\u00eda las siguientes ciudades: Samir, Jatir, Soc\u00f3,"
+                },
+                "49": {
+                    "verse_nr": "49",
+                    "verse": "Dan\u00e1, Debir,"
+                },
+                "50": {
+                    "verse_nr": "50",
+                    "verse": "Anab, Estemoa, Anim,"
+                },
+                "51": {
+                    "verse_nr": "51",
+                    "verse": "Gosen, Hol\u00f3n y Guil\u00f3. Eran once ciudades con sus aldeas."
+                },
+                "52": {
+                    "verse_nr": "52",
+                    "verse": "Otras nueve ciudades con sus aldeas eran Arab, Dum\u00e1, Es\u00e1n, Janum, Bet-tap\u00faa, Afec\u00e1, Humt\u00e1, Sior y Hebr\u00f3n."
+                },
+                "53": {
+                    "verse_nr": "53",
+                    "verse": "Otras nueve ciudades con sus aldeas eran Arab, Dum\u00e1, Es\u00e1n, Janum, Bet-tap\u00faa, Afec\u00e1, Humt\u00e1, Sior y Hebr\u00f3n."
+                },
+                "54": {
+                    "verse_nr": "54",
+                    "verse": "Otras nueve ciudades con sus aldeas eran Arab, Dum\u00e1, Es\u00e1n, Janum, Bet-tap\u00faa, Afec\u00e1, Humt\u00e1, Sior y Hebr\u00f3n."
+                },
+                "55": {
+                    "verse_nr": "55",
+                    "verse": "Otro grupo de diez ciudades con sus aldeas eran Ma\u00f3n, Carmel, Zif, Jut\u00e1,"
+                },
+                "56": {
+                    "verse_nr": "56",
+                    "verse": "Jezreel, Jocdeam, Zan\u00f3ah,"
+                },
+                "57": {
+                    "verse_nr": "57",
+                    "verse": "Ca\u00edn, Guibe\u00e1 y Timn\u00e1."
+                },
+                "58": {
+                    "verse_nr": "58",
+                    "verse": "Las ciudades de Halhul, Bet-sur y Guedor,"
+                },
+                "59": {
+                    "verse_nr": "59",
+                    "verse": "Maarat, Bet-anot y Eltec\u00f3n, seis ciudades m\u00e1s con sus aldeas."
+                },
+                "60": {
+                    "verse_nr": "60",
+                    "verse": "Las ciudades de Quiriat-jearim y Rab\u00e1, con sus aldeas."
+                },
+                "61": {
+                    "verse_nr": "61",
+                    "verse": "En el desierto les tocaron Bet-arab\u00e1, Mid\u00edn, Secac\u00e1,"
+                },
+                "62": {
+                    "verse_nr": "62",
+                    "verse": "Nibs\u00e1n, Ciudad de la Sal y En-gadi, es decir, seis ciudades m\u00e1s con sus aldeas."
+                },
+                "63": {
+                    "verse_nr": "63",
+                    "verse": "Pero la tribu de Jud\u00e1 no pudo expulsar de Jerusal\u00e9n a los jebuseos; por eso ellos todav\u00eda viven all\u00ed."
+                }
+            }
+        },
+        "16": {
+            "chapter_nr": "16",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los territorios de Efra\u00edn y Manas\u00e9s - La frontera del territorio asignado a los descendientes de Jos\u00e9 comenzaba en el sur, a la altura de los manantiales de Jeric\u00f3, cerca del r\u00edo Jord\u00e1n. Luego pasaba por Jeric\u00f3 hacia el noroeste, atravesando el desierto y la regi\u00f3n monta\u00f1osa, hasta Betel."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "De Betel pasaba por Atarot, donde viv\u00edan los arquitas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Segu\u00eda luego hacia el oeste por la regi\u00f3n de los jafletitas, hasta Bet-hor\u00f3n de abajo. De all\u00ed iba hasta Gu\u00e9zer, terminando en el mar Mediterr\u00e1neo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "As\u00ed, Efra\u00edn y Manas\u00e9s, descendientes de Jos\u00e9, recibieron lo que les correspond\u00eda."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Territorio de la tribu de Efra\u00edn - El territorio de la tribu de Efra\u00edn comenzaba en Atarot, segu\u00eda hacia el este hasta Bet-hor\u00f3n de arriba,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "y de all\u00ed al mar Mediterr\u00e1neo. En el extremo norte estaba Micmetat, de donde la frontera segu\u00eda hacia el este hasta Taanat-sil\u00f3, pasando luego por Jan\u00f3ah."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Despu\u00e9s bajaba a Atarot y a Naar\u00e1, pasaba por Jeric\u00f3, y terminaba en el r\u00edo Jord\u00e1n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Desde Tap\u00faah la frontera iba hacia el oeste, hasta el arroyo de Can\u00e1, y terminaba en el mar Mediterr\u00e1neo. \u00c9ste fue el territorio entregado a los grupos familiares de la tribu de Efra\u00edn."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Recibieron, adem\u00e1s, algunas aldeas y pueblos que quedaban dentro del territorio de Manas\u00e9s."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sin embargo, los de Efra\u00edn no echaron a los cananeos que viv\u00edan en Gu\u00e9zer, sino que los dejaron seguir viviendo all\u00ed, pero los obligaron a trabajar para ellos como esclavos."
+                }
+            }
+        },
+        "17": {
+            "chapter_nr": "17",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Territorios de la tribu de Manas\u00e9s - El territorio de la tribu de Manas\u00e9s, el hijo mayor de Jos\u00e9, se dividi\u00f3 de la siguiente manera: Al grupo familiar de Maquir ya Mois\u00e9s le hab\u00eda asignado las tierras de Galaad y Bas\u00e1n. Maquir, guerrero valiente, era hijo mayor de Manas\u00e9s y padre de Galaad."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A los grupos familiares de Abi\u00e9zer, H\u00e9lec, Asriel, Siquem, H\u00e9fer y Semid\u00e1, Josu\u00e9 les asign\u00f3 sus respectivos territorios. \u00c9stos eran hijos de Manas\u00e9s y nietos de Jos\u00e9."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A Selofhad, bisnieto de Maquir, no se le hab\u00eda dado territorio, porque no tuvo hijos. S\u00f3lo tuvo cinco hijas, que se llamaban Mahl\u00e1, No\u00e1, Hogl\u00e1, Milc\u00e1 y Tirs\u00e1."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Entonces ellas se presentaron ante el sacerdote Eleazar, ante Josu\u00e9 y ante los l\u00edderes, y les dijeron: \u00abDios le orden\u00f3 a Mois\u00e9s que a nosotras se nos dieran tierras, lo mismo que a nuestros parientes varones\u00bb. As\u00ed que de acuerdo con el mandato de Dios, ellas tambi\u00e9n recibieron tierras."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Josu\u00e9 asign\u00f3 tierras tanto a las mujeres como a los hombres descendientes de Manas\u00e9s. Por eso la tribu de Manas\u00e9s recibi\u00f3 diez partes al oeste del r\u00edo Jord\u00e1n, adem\u00e1s de los territorios de Galaad y Bas\u00e1n, que est\u00e1n al este del r\u00edo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Josu\u00e9 asign\u00f3 tierras tanto a las mujeres como a los hombres descendientes de Manas\u00e9s. Por eso la tribu de Manas\u00e9s recibi\u00f3 diez partes al oeste del r\u00edo Jord\u00e1n, adem\u00e1s de los territorios de Galaad y Bas\u00e1n, que est\u00e1n al este del r\u00edo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "El territorio de Manas\u00e9s se extend\u00eda desde la frontera con la tribu de Aser hasta Micmetat, que est\u00e1 al este de Siquem. De all\u00ed segu\u00eda hacia el sur hasta el manantial de Tap\u00faah."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "La regi\u00f3n de Tap\u00faah pertenec\u00eda a Manas\u00e9s, excepto la ciudad cerca de la frontera, cuyo nombre tambi\u00e9n es Tap\u00faah y pertenec\u00eda a la tribu de Efra\u00edn."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De all\u00ed la frontera sur segu\u00eda hacia el oeste por el arroyo Can\u00e1, hasta el mar Mediterr\u00e1neo. La mayor parte del territorio de Manas\u00e9s estaba al norte del arroyo Can\u00e1, pero en la parte que le correspond\u00eda al sur del arroyo hab\u00eda algunas ciudades que pertenec\u00edan a la tribu de Efra\u00edn. Al noroeste, el territorio de Manas\u00e9s limitaba con el de la tribu de Aser, y al noreste, con el de la tribu de Isacar."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De all\u00ed la frontera sur segu\u00eda hacia el oeste por el arroyo Can\u00e1, hasta el mar Mediterr\u00e1neo. La mayor parte del territorio de Manas\u00e9s estaba al norte del arroyo Can\u00e1, pero en la parte que le correspond\u00eda al sur del arroyo hab\u00eda algunas ciudades que pertenec\u00edan a la tribu de Efra\u00edn. Al noroeste, el territorio de Manas\u00e9s limitaba con el de la tribu de Aser, y al noreste, con el de la tribu de Isacar."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dentro del territorio de esas tribus hab\u00eda tambi\u00e9n varias ciudades con sus aldeas que pertenec\u00edan a Manas\u00e9s. \u00c9stas son Bet-se\u00e1n, Ibleam, Dor, Endor, Taanac y Meguido. La tercera ciudad mencionada es la de la costa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pero la tribu de Manas\u00e9s no pudo echar a los cananeos de esas ciudades, y todav\u00eda est\u00e1n all\u00ed."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Despu\u00e9s, cuando los israelitas se hicieron m\u00e1s fuertes, no desalojaron a los cananeos, pero los obligaron a trabajar para ellos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Los descendientes de Jos\u00e9 piden m\u00e1s territorios - Un d\u00eda los descendientes de Jos\u00e9 le dijeron a Josu\u00e9: \u2014Dios nos ha bendecido y ahora somos muchos, pero s\u00f3lo nos has dado una porci\u00f3n de territorio. Necesitamos m\u00e1s."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Josu\u00e9 les respondi\u00f3: \u2014Ya que ustedes son muchos y no les alcanza el territorio de Efra\u00edn, vayan a la regi\u00f3n de los ferezeos y de los gigantes refa\u00edtas, y \u00e1branse espacio en los bosques que all\u00ed hay."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ellos dijeron entonces: \u2014Es verdad. No cabemos en la regi\u00f3n monta\u00f1osa de Efra\u00edn. Pero los cananeos que viven en el valle tienen carros de hierro, tanto los de Bet-se\u00e1n y de las aldeas a su alrededor, como los del valle de Jezreel."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Josu\u00e9 respondi\u00f3 de esta manera a los descendientes de Jos\u00e9, es decir, a Efra\u00edn y a Manas\u00e9s: \u2014Ustedes son muchos y muy poderosos, as\u00ed que les dar\u00e9 m\u00e1s de una porci\u00f3n de territorio."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Toda la regi\u00f3n monta\u00f1osa ser\u00e1 de ustedes. All\u00ed hay bosques, pero ustedes podr\u00e1n desmontarlos y adue\u00f1arse de ese territorio. Es cierto que los cananeos son fuertes y tienen carros de hierro, pero ustedes los echar\u00e1n del territorio."
+                }
+            }
+        },
+        "18": {
+            "chapter_nr": "18",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Josu\u00e9 reparte el resto del territorio - Cuando los israelitas terminaron de conquistar la tierra, se reunieron todos en Sil\u00f3. All\u00ed levantaron el santuario, donde se reun\u00edan con Dios."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pero todav\u00eda faltaba asignar territorio a siete tribus."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Entonces Josu\u00e9 les dijo: \u00ab\u00bfQu\u00e9 est\u00e1n esperando para establecerse en la tierra que ya les ha dado el Dios de sus antepasados?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Quiero que cada tribu elija a tres hombres. Yo los enviar\u00e9 a recorrer toda la tierra no repartida, para que luego me informen c\u00f3mo puede repartirse."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Deber\u00e1n dividir la tierra en siete partes, porque a la tribu de Jud\u00e1 ya se le han asignado territorios en el sur, y a los descendientes de Jos\u00e9, en el norte."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cuando me traigan esa informaci\u00f3n, yo consultar\u00e9 a Dios para saber c\u00f3mo asignarlas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pero los descendientes de Lev\u00ed no recibir\u00e1n ninguna parte del territorio. Ellos tendr\u00e1n el privilegio de servir a Dios como sus sacerdotes. Las tribus de Gad y de Rub\u00e9n, y la media tribu de Manas\u00e9s, ya han recibido sus tierras al este del r\u00edo Jord\u00e1n. Se las entreg\u00f3 Mois\u00e9s\u00bb."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los hombres que hab\u00edan sido elegidos para hacer el informe se prepararon para salir. Josu\u00e9 les recomend\u00f3: \u00abRecorran toda la tierra, regresen aqu\u00ed con su informe, y yo entonces le consultar\u00e9 a Dios\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Aquellos hombres recorrieron toda la tierra, y en su informe se\u00f1alaron las siete regiones. Tambi\u00e9n hicieron una lista de las ciudades de cada regi\u00f3n. Luego volvieron a Sil\u00f3, donde estaba Josu\u00e9,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "y despu\u00e9s de consultar con Dios, Josu\u00e9 reparti\u00f3 la tierra, d\u00e1ndole su parte a cada tribu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El territorio de la tribu de Benjam\u00edn - El primer territorio sorteado fue el de la tribu de Benjam\u00edn. Las tierras que le tocaron en suerte quedaban entre las de Jud\u00e1 y las de Efra\u00edn y Manas\u00e9s."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Al norte, su frontera comenzaba en el r\u00edo Jord\u00e1n y sub\u00eda por el cerro al norte de Jeric\u00f3. Segu\u00eda luego hacia el oeste, por la regi\u00f3n monta\u00f1osa, hasta el desierto de Bet-av\u00e9n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Despu\u00e9s iba hasta el cerro, al sur de Betel, bajaba hasta Atarot-adar, sobre el cerro al sur de Bet-hor\u00f3n de abajo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Luego la frontera giraba hacia el sur, desde el lado oeste del cerro, y llegaba a Quiriat-jearim. Esta ciudad pertenece a la tribu de Jud\u00e1. \u00c9stos eran los l\u00edmites del lado oeste."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La frontera sur part\u00eda de las afueras de Quiriat-jearim, siguiendo hasta los manantiales de Neft\u00f3ah."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Bajaba luego hasta la falda del cerro al norte del valle de Refaim, donde comienza el valle de Ben-hinom. Segu\u00eda por ese valle al sur del cerro de Jeb\u00fas, hasta el manantial de En-roguel."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Continuaba despu\u00e9s hacia el norte hasta En-semes, y de all\u00ed a Guelilot, que est\u00e1 frente al paso de Adumim. Luego bajaba hasta la Roca de Bohan hijo de Rub\u00e9n,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "y pasaba al norte de los cerros que est\u00e1n frente al valle del Jord\u00e1n. De all\u00ed bajaba al valle,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "pasaba al norte de Bet-hogl\u00e1, y terminaba en la bah\u00eda donde desemboca el r\u00edo Jord\u00e1n, al norte del Mar Muerto. \u00c9stos eran los l\u00edmites del lado sur."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El r\u00edo Jord\u00e1n formaba la frontera este. Tales eran los l\u00edmites del territorio que fue entregado a la tribu de Benjam\u00edn."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Las ciudades que les tocaron a los grupos familiares de la tribu de Benjam\u00edn fueron Jeric\u00f3, Bet-hogl\u00e1, \u00c9mec-ques\u00eds,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Bet-arab\u00e1, Semaraim, Betel,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Avim, Par\u00e1, Ofr\u00e1,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Quefar-haamon\u00ed, Ofn\u00ed y Gueba, es decir, un total de doce ciudades con sus respectivas aldeas."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Hab\u00eda tambi\u00e9n otras catorce ciudades con sus aldeas: Gaba\u00f3n, Ram\u00e1, Beerot,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Misp\u00e1, Quefir\u00e1, Mos\u00e1,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "R\u00e9quem, Irpeel, Taral\u00e1,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Sel\u00e1, \u00c9lef, Guibe\u00e1, Quiriat y Jeb\u00fas, que despu\u00e9s se llam\u00f3 Jerusal\u00e9n. \u00c9ste es el territorio que fue entregado a la tribu de Benjam\u00edn."
+                }
+            }
+        },
+        "19": {
+            "chapter_nr": "19",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Territorios de la tribu de Sime\u00f3n - El segundo territorio sorteado fue para los grupos familiares de la tribu de Sime\u00f3n. Sus tierras quedaban dentro del territorio de la tribu de Jud\u00e1."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Comprend\u00eda las ciudades de Beerseba, Molad\u00e1, Seb\u00e1,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Hasar-sual, Bal\u00e1, \u00c9sem,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Eltolad, Betul, Horm\u00e1,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Siclag, Bet-marcabot, Hasar-sus\u00e1,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bet-lebaot y Saruh\u00e9n. Eran trece ciudades con sus aldeas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tambi\u00e9n recibieron las ciudades de En-rim\u00f3n, \u00c9ter y As\u00e1n, con sus aldeas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Este territorio comprend\u00eda todas las ciudades y aldeas en el sur, hasta la ciudad de Ram\u00e1 en el desierto del sur."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Josu\u00e9 le hab\u00eda dado a la tribu de Jud\u00e1 m\u00e1s territorio del que necesitaba, as\u00ed que le entreg\u00f3 parte de sus tierras a la tribu de Sime\u00f3n."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Territorio de la tribu de Zabul\u00f3n - El tercer territorio sorteado fue para los grupos familiares de la tribu de Zabul\u00f3n. El territorio que recibieron llegaba al sur, hasta Sarid."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De all\u00ed la frontera segu\u00eda hacia el oeste hasta Maral\u00e1, pasando por Dab\u00e9set y el arroyo que est\u00e1 al este de Jocneam."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Al este de Sarid, la frontera llegaba hasta Quislot-tabor; de all\u00ed segu\u00eda a Daberat, y luego sub\u00eda hasta Jaf\u00eda."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Siguiendo hacia el este, llegaba a Gat-h\u00e9fer, pasaba por It\u00e1-cas\u00edn, dando luego la vuelta por Nea hasta Rim\u00f3n."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En el norte, la frontera daba la vuelta hasta Hanat\u00f3n, y terminaba en el valle de Jeft\u00e9-el."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Este territorio que recibi\u00f3 la tribu de Zabul\u00f3n inclu\u00eda doce ciudades con sus aldeas. Entre ellas estaban Catat, Nahalal, Simr\u00f3n, Idal\u00e1 y Bel\u00e9n."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Este territorio que recibi\u00f3 la tribu de Zabul\u00f3n inclu\u00eda doce ciudades con sus aldeas. Entre ellas estaban Catat, Nahalal, Simr\u00f3n, Idal\u00e1 y Bel\u00e9n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Territorio de la tribu de Isacar - El cuarto territorio sorteado fue para los grupos familiares de la tribu de Isacar."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Comprend\u00eda las ciudades de Jezreel, Quesulot, Sunem,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hafaraim, Sih\u00f3n, Anaharat,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Rabit, Quisi\u00f3n, Ebes,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "R\u00e9met, En-ganim, En-had\u00e1 y Bet-pas\u00e9s."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "En el norte, su frontera hacia el este iba desde el monte Tabor hasta el r\u00edo Jord\u00e1n, pasando por las ciudades de Sahasim\u00e1 y Bet-semes."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Todo este territorio, incluyendo las diecis\u00e9is ciudades con sus aldeas, pertenec\u00eda a la tribu de Isacar."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Territorio de la tribu de Aser - El quinto territorio sorteado fue para los grupos familiares de la tribu de Aser."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Al sur, la frontera iba desde la ciudad de Helcat hacia el oeste, incluyendo las ciudades de Hal\u00ed, Beten, Acsaf,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Alam\u00e9lec, Amad y Misal. La frontera oeste era el monte Carmelo y Sihor-libnat."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Al este, la frontera part\u00eda de Helcat hacia el norte, hasta Bet-dag\u00f3n. Luego de pasar por el territorio de la tribu de Zabul\u00f3n, segu\u00eda por el valle de Jeft\u00e9-el hasta Bet-\u00e9mec y Neiel. Despu\u00e9s pasaba por Cabul,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Abd\u00f3n, Ebr\u00f3n, Rehob, Ham\u00f3n y Can\u00e1, terminando en Sid\u00f3n."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "De all\u00ed giraba hacia Ram\u00e1, llegaba hasta el fuerte de Tiro, continuaba por Hos\u00e1 y terminaba en el mar Mediterr\u00e1neo. Comprend\u00eda tambi\u00e9n a Mahaleb, a Aczib,"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "a Um\u00e1, a Afec y a Rehob. Estas veintid\u00f3s ciudades con sus aldeas estaban comprendidas dentro del territorio que recibi\u00f3 la tribu de Aser."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "a Um\u00e1, a Afec y a Rehob. Estas veintid\u00f3s ciudades con sus aldeas estaban comprendidas dentro del territorio que recibi\u00f3 la tribu de Aser."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Territorio de la tribu de Neftal\u00ed - El sexto territorio sorteado fue para los grupos familiares de la tribu de Neftal\u00ed."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "La frontera norte iba desde la ciudad de H\u00e9lef, pasando por el roble cercano a Saanamim, segu\u00eda por las ciudades de Adam\u00ed-n\u00e9queb y Jabneel hasta Lacum, y terminaba en el r\u00edo Jord\u00e1n."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "La frontera sur comenzaba en el Jord\u00e1n; llegaba, por el oeste, hasta la ciudad de Aznot-tabor. All\u00ed giraba al norte y segu\u00eda por la frontera de la tribu de Zabul\u00f3n, hasta la ciudad de Hucoc. Despu\u00e9s segu\u00eda hacia el oeste, siempre bordeando la frontera de Zabul\u00f3n. Al oeste, su frontera daba con el territorio de la tribu de Aser, y al este, con el r\u00edo Jord\u00e1n."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Las ciudades fortificadas eran Sidim, Ser, Hamat, Racat, Quin\u00e9ret,"
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Adam\u00e1, Ram\u00e1, Hasor,"
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Quedes, Edrei, En-hasor,"
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Ir\u00f3n, Migdal-el, Horem, Bet-anat y Bet-semes. En total hab\u00eda diecinueve ciudades con sus aldeas en el territorio entregado a la tribu de Neftal\u00ed."
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Ir\u00f3n, Migdal-el, Horem, Bet-anat y Bet-semes. En total hab\u00eda diecinueve ciudades con sus aldeas en el territorio entregado a la tribu de Neftal\u00ed."
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "Territorio de la tribu de Dan - El s\u00e9ptimo territorio sorteado fue para los grupos familiares de la tribu de Dan."
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "Comprend\u00eda las ciudades de Sor\u00e1, Estaol, Ir-semes,"
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "Saalbim, Aial\u00f3n, Jetl\u00e1,"
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "El\u00f3n, Timnat, Ecr\u00f3n,"
+                },
+                "44": {
+                    "verse_nr": "44",
+                    "verse": "Eltequ\u00e9, Guibet\u00f3n, Baalat,"
+                },
+                "45": {
+                    "verse_nr": "45",
+                    "verse": "Jeh\u00fad, Ben\u00e9-berac, Gat-rim\u00f3n,"
+                },
+                "46": {
+                    "verse_nr": "46",
+                    "verse": "Mejarc\u00f3n y Rac\u00f3n, junto con la regi\u00f3n frente a Jope."
+                },
+                "47": {
+                    "verse_nr": "47",
+                    "verse": "Todas estas ciudades y sus aldeas pertenec\u00edan a la tribu de Dan. M\u00e1s tarde los de Dan perdieron sus tierras, as\u00ed que fueron al norte y atacaron la ciudad de L\u00e9sem. Mataron a toda la gente que all\u00ed viv\u00eda, y se apoderaron de la ciudad. A la ciudad le cambiaron el nombre y la llamaron Dan, en honor de su antepasado."
+                },
+                "48": {
+                    "verse_nr": "48",
+                    "verse": "Todas estas ciudades y sus aldeas pertenec\u00edan a la tribu de Dan. M\u00e1s tarde los de Dan perdieron sus tierras, as\u00ed que fueron al norte y atacaron la ciudad de L\u00e9sem. Mataron a toda la gente que all\u00ed viv\u00eda, y se apoderaron de la ciudad. A la ciudad le cambiaron el nombre y la llamaron Dan, en honor de su antepasado."
+                },
+                "49": {
+                    "verse_nr": "49",
+                    "verse": "Territorio asignado a Josu\u00e9 - Cuando los israelitas terminaron de repartir la tierra, le dieron su parte a Josu\u00e9."
+                },
+                "50": {
+                    "verse_nr": "50",
+                    "verse": "Por orden de Dios le dieron la ciudad que Josu\u00e9 hab\u00eda pedido, es decir, Timnat-s\u00e9rah, en la regi\u00f3n monta\u00f1osa de la tribu de Efra\u00edn. Josu\u00e9 reconstruy\u00f3 la ciudad y vivi\u00f3 all\u00ed."
+                },
+                "51": {
+                    "verse_nr": "51",
+                    "verse": "Josu\u00e9, el sacerdote Eleazar y los jefes de los grupos familiares consultaron a Dios antes de hacer el sorteo de cada uno de estos territorios. Para esto se reunieron a la entrada del santuario, en Sil\u00f3. Y as\u00ed termin\u00f3 el reparto de los territorios."
+                }
+            }
+        },
+        "20": {
+            "chapter_nr": "20",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Las ciudades de refugio - Despu\u00e9s de esto Dios le dijo a Josu\u00e9:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00abRecu\u00e9rdales a los israelitas que deben elegir algunas ciudades que servir\u00e1n de refugio. Ya les hab\u00eda hablado de esto por medio de Mois\u00e9s."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Cualquiera que, sin querer, mate a otra persona, podr\u00e1 refugiarse en esas ciudades y as\u00ed escapar de los parientes del muerto que quieran vengarse."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Al llegar a una de estas ciudades, se presentar\u00e1 ante las autoridades que se re\u00fanen a la entrada de la ciudad, y les explicar\u00e1 lo que pas\u00f3. Ellos entonces lo dejar\u00e1n entrar y le asignar\u00e1n un lugar donde pueda quedarse a vivir."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Si los que buscan vengarse lo siguen hasta all\u00ed, las autoridades de la ciudad no se lo entregar\u00e1n. Tienen que protegerlo, porque dio muerte a otro por accidente y no porque fueran enemigos."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El que busc\u00f3 refugio tendr\u00e1 que ser juzgado p\u00fablicamente y se quedar\u00e1 en esa ciudad hasta que haya fallecido el jefe de los sacerdotes que lo juzg\u00f3. S\u00f3lo entonces podr\u00e1 volver a su propia casa en la ciudad de donde huy\u00f3\u00bb."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Los israelitas eligieron las siguientes ciudades: Quedes, en Galilea, en las monta\u00f1as de la tribu de Neftal\u00ed. Siquem, en las monta\u00f1as de la tribu de Efra\u00edn. Hebr\u00f3n, en las monta\u00f1as de la tribu de Jud\u00e1."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "B\u00e9ser, de la tribu de Rub\u00e9n, en la meseta del desierto que est\u00e1 al este de Jeric\u00f3, al otro lado del r\u00edo Jord\u00e1n. Ramot, de la tribu de Gad, en la regi\u00f3n de Galaad. Gol\u00e1n, de la tribu de Manas\u00e9s, en la regi\u00f3n de Bas\u00e1n."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Estas ciudades de refugio fueron elegidas para todos los israelitas, y tambi\u00e9n para los extranjeros que vivieran con ellos. Cualquier persona que matara a otra sin querer, pod\u00eda refugiarse all\u00ed. De esa manera el pariente m\u00e1s cercano del muerto no pod\u00eda vengarse, y el que busc\u00f3 refugio ten\u00eda derecho a ser juzgado p\u00fablicamente."
+                }
+            }
+        },
+        "21": {
+            "chapter_nr": "21",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Las ciudades de los levitas - Los israelitas estaban acampando cerca de la ciudad de Sil\u00f3, en la tierra de Cana\u00e1n. Un d\u00eda, los jefes de los grupos familiares de la tribu de Lev\u00ed fueron a hablar con los jefes de las otras tribus, con Josu\u00e9 y con el sacerdote Eleazar. Les dijeron: \u00abPor medio de Mois\u00e9s, Dios orden\u00f3 que se nos dieran ciudades para que vivi\u00e9ramos en ellas, y tambi\u00e9n campos de pastoreo para nuestros ganados\u00bb."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Las ciudades de los levitas - Los israelitas estaban acampando cerca de la ciudad de Sil\u00f3, en la tierra de Cana\u00e1n. Un d\u00eda, los jefes de los grupos familiares de la tribu de Lev\u00ed fueron a hablar con los jefes de las otras tribus, con Josu\u00e9 y con el sacerdote Eleazar. Les dijeron: \u00abPor medio de Mois\u00e9s, Dios orden\u00f3 que se nos dieran ciudades para que vivi\u00e9ramos en ellas, y tambi\u00e9n campos de pastoreo para nuestros ganados\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "As\u00ed que, de acuerdo con ese mandato de Dios, los israelitas dieron a la tribu de Lev\u00ed algunas de sus ciudades y campos de pastoreo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Primero, se asignaron ciudades al grupo familiar de Quehat. A las familias quehatitas que descend\u00edan del sacerdote Aar\u00f3n se les asignaron trece ciudades dentro de los territorios de Jud\u00e1, Sime\u00f3n y Benjam\u00edn."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Los otros quehatitas recibieron diez ciudades dentro de los territorios de Efra\u00edn, Dan y Manas\u00e9s Occidental."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El grupo familiar de Guers\u00f3n recibi\u00f3 trece ciudades de los territorios de Isacar, Aser, Neftal\u00ed y Manas\u00e9s Oriental."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "El grupo familiar de Merar\u00ed recibi\u00f3 doce ciudades de las pertenecientes a Rub\u00e9n, a Gad y a Zabul\u00f3n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los israelitas asignaron a los de la tribu de Lev\u00ed estas ciudades y sus campos de pastoreo por medio de un sorteo, de acuerdo con el mandato que Dios le hab\u00eda dado a Mois\u00e9s."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "En el primer sorteo, algunas de las familias quehatitas recibieron ciudades en los territorios de las tribus de Jud\u00e1 y de Sime\u00f3n:"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "En el primer sorteo, algunas de las familias quehatitas recibieron ciudades en los territorios de las tribus de Jud\u00e1 y de Sime\u00f3n:"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "En la regi\u00f3n monta\u00f1osa de Jud\u00e1 les dieron la ciudad de Arb\u00e1, que es Hebr\u00f3n. Arb\u00e1 era padre de Anac. Tambi\u00e9n se les entregaron los campos de pastoreo alrededor de la ciudad,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "pero no as\u00ed las tierras y aldeas, porque ya se las hab\u00edan dado a Caleb hijo de Jefun\u00e9."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Adem\u00e1s de Hebr\u00f3n, que era una de las ciudades de refugio para quienes mataran sin intenci\u00f3n, los descendientes de Lev\u00ed recibieron las siguientes ciudades: Libn\u00e1,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jatir, Estemoa,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hol\u00f3n, Debir,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ain, Jut\u00e1 y Bet-semes, junto con sus campos de pastoreo. Estas nueve ciudades quedaban dentro de los territorios de Jud\u00e1 y de Sime\u00f3n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "En los territorios de Benjam\u00edn se les asignaron cuatro ciudades: Gaba\u00f3n, Gueba,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Anatot y Alm\u00f3n, junto con sus campos de pastoreo."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "En total, a los sacerdotes, descendientes de Aar\u00f3n, se les entregaron trece ciudades con sus campos de pastoreo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "A las otras familias quehatitas se les asignaron cuatro ciudades dentro del territorio de la tribu de Efra\u00edn."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Una de ellas, Siquem, estaba en las monta\u00f1as y era una ciudad de refugio. Las otras tres eran: Gu\u00e9zer,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Quibsaim y Bet-hor\u00f3n."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De la tribu de Dan recibieron cuatro ciudades: Eltequ\u00e9, Guibet\u00f3n,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Aial\u00f3n y Gat-rim\u00f3n, cada una con sus campos de pastoreo."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Del territorio de Manas\u00e9s Occidental recibieron dos ciudades: Taanac y Gat-rim\u00f3n."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "En total estas familias quehatitas recibieron diez ciudades, cada una con sus propios campos de pastoreo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "A las familias del grupo familiar de Guers\u00f3n, descendiente de Lev\u00ed, se les asignaron dos ciudades dentro del territorio de Manas\u00e9s Oriental. En la regi\u00f3n de Bas\u00e1n recibieron Beeter\u00e1 y Gol\u00e1n, que era una ciudad de refugio."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Del territorio del grupo familiar de Isacar recibieron cuatro ciudades: Quisi\u00f3n, Daberat,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Jarmut y En-ganim."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Del territorio de la tribu de Aser recibieron otras cuatro ciudades: Misael, Abd\u00f3n,"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Helcat y Rehob."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Del territorio de la tribu de Neftal\u00ed recibieron tres ciudades: Hamot-dor, Cart\u00e1n y Quedes, en la regi\u00f3n de Galilea."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "En total, las familias del grupo familiar de Guers\u00f3n recibieron trece ciudades con sus correspondientes campos de pastoreo."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Al resto de los descendientes de Lev\u00ed, es decir, al grupo familiar de Merar\u00ed, se les asignaron cuatro ciudades en el territorio de la tribu de Zabul\u00f3n: Jocneam, Carta,"
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Dimn\u00e1 y Nahalal."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Del territorio de la tribu de Rub\u00e9n se les asignaron otras cuatro ciudades: B\u00e9ser, Jahas,"
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Cademot y Mef\u00e1at."
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Del territorio de la tribu de Gad recibieron tambi\u00e9n cuatro ciudades: Mahanaim, Hesb\u00f3n, Jazer y Ramot, en la regi\u00f3n de Galaad, que era ciudad de refugio."
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Del territorio de la tribu de Gad recibieron tambi\u00e9n cuatro ciudades: Mahanaim, Hesb\u00f3n, Jazer y Ramot, en la regi\u00f3n de Galaad, que era ciudad de refugio."
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "En total el grupo familiar de Merar\u00ed recibi\u00f3 doce ciudades con sus respectivos campos de pastoreo."
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "Dentro del territorio israelita, los de la tribu de Lev\u00ed recibieron en total cuarenta y ocho ciudades con sus correspondientes campos de pastoreo."
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "Estos campos estaban ubicados alrededor de cada una de las ciudades."
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "Dios cumple sus promesas - As\u00ed fue como Dios entreg\u00f3 a los israelitas toda la tierra que bajo juramento ya hab\u00eda prometido darles. Ellos se instalaron y vivieron all\u00ed."
+                },
+                "44": {
+                    "verse_nr": "44",
+                    "verse": "Dios tambi\u00e9n les hab\u00eda prometido que vivir\u00edan en paz, y lo cumpli\u00f3. Les dio la victoria sobre todos sus enemigos, y ninguno pudo hacerles frente."
+                },
+                "45": {
+                    "verse_nr": "45",
+                    "verse": "Dios cumpli\u00f3 con todas las promesas que les hab\u00eda hecho a los israelitas; no dej\u00f3 de cumplir ninguna de ellas."
+                }
+            }
+        },
+        "22": {
+            "chapter_nr": "22",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Las tribus que regresan a su territorio - Despu\u00e9s que Josu\u00e9 reparti\u00f3 la tierra, mand\u00f3 llamar a las tribus de Rub\u00e9n, Gad y Manas\u00e9s Oriental,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "y les dijo: \u00abUstedes obedecieron todas las \u00f3rdenes que recibieron de Mois\u00e9s, y tambi\u00e9n han obedecido las m\u00edas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Han tenido mucho cuidado de obedecer todos los mandamientos de nuestro Dios, y siempre han estado al lado de sus hermanos israelitas para ayudarlos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ahora ellos tienen paz, tal como se lo prometi\u00f3 nuestro Dios. Pueden regresar a los territorios que conquistaron al este del r\u00edo Jord\u00e1n, a las tierras que Mois\u00e9s les dio."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pero no se olviden de cumplir sus \u00f3rdenes. Amen a Dios y hagan lo que \u00e9l quiere. Obedezcan todos sus mandatos y mant\u00e9nganse fieles a \u00e9l. S\u00edrvanle de todo coraz\u00f3n y con todas sus fuerzas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbUstedes regresan ahora con muchas riquezas. Les han quitado a sus enemigos vacas, ovejas, oro, plata, bronce, hierro y gran cantidad de ropa. Compartan todo eso con sus familiares. \u00bbLe pido a Dios que los bendiga y los trate bien. Pueden regresar a sus tierras\u00bb. Las tribus de Rub\u00e9n y de Gad dejaron a los dem\u00e1s israelitas en Sil\u00f3, en la regi\u00f3n de Cana\u00e1n, y regresaron a sus territorios. Se fueron a la regi\u00f3n de Galaad, que hab\u00edan conquistado por una orden de Dios recibida a trav\u00e9s de Mois\u00e9s. Mois\u00e9s ya le hab\u00eda asignado tierras a media tribu de Manas\u00e9s en Bas\u00e1n, al este del r\u00edo Jord\u00e1n. Josu\u00e9, por su parte, le asign\u00f3 tierras a la otra mitad de Manas\u00e9s, al oeste del Jord\u00e1n, por lo que ellos se quedaron en Sil\u00f3 con el resto de los israelitas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbUstedes regresan ahora con muchas riquezas. Les han quitado a sus enemigos vacas, ovejas, oro, plata, bronce, hierro y gran cantidad de ropa. Compartan todo eso con sus familiares. \u00bbLe pido a Dios que los bendiga y los trate bien. Pueden regresar a sus tierras\u00bb. Las tribus de Rub\u00e9n y de Gad dejaron a los dem\u00e1s israelitas en Sil\u00f3, en la regi\u00f3n de Cana\u00e1n, y regresaron a sus territorios. Se fueron a la regi\u00f3n de Galaad, que hab\u00edan conquistado por una orden de Dios recibida a trav\u00e9s de Mois\u00e9s. Mois\u00e9s ya le hab\u00eda asignado tierras a media tribu de Manas\u00e9s en Bas\u00e1n, al este del r\u00edo Jord\u00e1n. Josu\u00e9, por su parte, le asign\u00f3 tierras a la otra mitad de Manas\u00e9s, al oeste del Jord\u00e1n, por lo que ellos se quedaron en Sil\u00f3 con el resto de los israelitas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbUstedes regresan ahora con muchas riquezas. Les han quitado a sus enemigos vacas, ovejas, oro, plata, bronce, hierro y gran cantidad de ropa. Compartan todo eso con sus familiares. \u00bbLe pido a Dios que los bendiga y los trate bien. Pueden regresar a sus tierras\u00bb. Las tribus de Rub\u00e9n y de Gad dejaron a los dem\u00e1s israelitas en Sil\u00f3, en la regi\u00f3n de Cana\u00e1n, y regresaron a sus territorios. Se fueron a la regi\u00f3n de Galaad, que hab\u00edan conquistado por una orden de Dios recibida a trav\u00e9s de Mois\u00e9s. Mois\u00e9s ya le hab\u00eda asignado tierras a media tribu de Manas\u00e9s en Bas\u00e1n, al este del r\u00edo Jord\u00e1n. Josu\u00e9, por su parte, le asign\u00f3 tierras a la otra mitad de Manas\u00e9s, al oeste del Jord\u00e1n, por lo que ellos se quedaron en Sil\u00f3 con el resto de los israelitas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbUstedes regresan ahora con muchas riquezas. Les han quitado a sus enemigos vacas, ovejas, oro, plata, bronce, hierro y gran cantidad de ropa. Compartan todo eso con sus familiares. \u00bbLe pido a Dios que los bendiga y los trate bien. Pueden regresar a sus tierras\u00bb. Las tribus de Rub\u00e9n y de Gad dejaron a los dem\u00e1s israelitas en Sil\u00f3, en la regi\u00f3n de Cana\u00e1n, y regresaron a sus territorios. Se fueron a la regi\u00f3n de Galaad, que hab\u00edan conquistado por una orden de Dios recibida a trav\u00e9s de Mois\u00e9s. Mois\u00e9s ya le hab\u00eda asignado tierras a media tribu de Manas\u00e9s en Bas\u00e1n, al este del r\u00edo Jord\u00e1n. Josu\u00e9, por su parte, le asign\u00f3 tierras a la otra mitad de Manas\u00e9s, al oeste del Jord\u00e1n, por lo que ellos se quedaron en Sil\u00f3 con el resto de los israelitas."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "El altar al este del Jord\u00e1n - Cuando las tribus de Rub\u00e9n, Gad y Manas\u00e9s Oriental llegaron a la regi\u00f3n del Jord\u00e1n, antes de cruzar el r\u00edo levantaron un gran altar."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Los dem\u00e1s israelitas se enteraron de que esas tribus hab\u00edan levantado un altar en territorio israelita, en la frontera de Cana\u00e1n sobre la ribera oeste del r\u00edo Jord\u00e1n."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "En cuanto lo supieron, todos los soldados en Sil\u00f3 se reunieron para ir a pelear contra las otras dos tribus y media."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pero antes enviaron a Finees, hijo del sacerdote Eleazar, para hablar con las tribus de Rub\u00e9n, Gad y Manas\u00e9s Oriental, que estaban en Galaad."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Con \u00e9l iban tambi\u00e9n diez jefes de grupos familiares, uno por cada tribu israelita."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Al llegar a la tierra de Galaad, en donde estaban las dos tribus y media,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "hablaron con ellos de parte de todo el pueblo de Dios, y les dijeron: \u2014\u00bfPor qu\u00e9 han traicionado al Dios de Israel? \u00bfPor qu\u00e9 han levantado este altar en rebeld\u00eda contra Dios?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00bfSe acuerdan del pecado que cometimos en Peor, y de la terrible enfermedad con que Dios nos castig\u00f3? Todav\u00eda estamos sufriendo las consecuencias,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00bfy ahora van a dejar de obedecerle? \u00bfNo se dan cuenta de que, si hoy se ponen ustedes rebeldes, ma\u00f1ana Dios castigar\u00e1 a todos los israelitas?"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00bbSi les parece que en el territorio que les ha tocado no pueden adorar a Dios, vengan al lugar que Dios ha elegido para adorarlo. Busquen un lugar en nuestro territorio donde puedan establecerse, pero no se rebelen contra Dios. Si se apartan de \u00e9l, tambi\u00e9n nosotros resultaremos culpables. As\u00ed que no levanten otro altar aparte del altar de nuestro Dios."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "No se olviden nunca del caso de Ac\u00e1n, hijo de Z\u00e9rah, que se guard\u00f3 algo que deb\u00eda haber destruido, y todo el pueblo israelita fue castigado. \u00a1Ac\u00e1n no fue el \u00fanico que muri\u00f3 por su pecado!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Entonces las dos tribus y media respondieron:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u2014\u00a1Nuestro Dios es el m\u00e1s poderoso de todos los dioses! \u00a1\u00c9l sabe por qu\u00e9 hicimos esto, y queremos que ustedes lo sepan tambi\u00e9n! Si hemos levantado este altar por rebeld\u00eda, o para apartarnos de Dios, no nos perdonen la vida. Que Dios nos castigue si lo hemos construido para presentar nuestras ofrendas."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u2014\u00a1Nuestro Dios es el m\u00e1s poderoso de todos los dioses! \u00a1\u00c9l sabe por qu\u00e9 hicimos esto, y queremos que ustedes lo sepan tambi\u00e9n! Si hemos levantado este altar por rebeld\u00eda, o para apartarnos de Dios, no nos perdonen la vida. Que Dios nos castigue si lo hemos construido para presentar nuestras ofrendas."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "\u00bbPero no es as\u00ed. Lo construimos porque ten\u00edamos miedo de que alg\u00fan d\u00eda los hijos de ustedes les dijeran a los nuestros: \u201c\u00a1Ustedes no tienen nada que ver con el Dios de Israel!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Dios dispuso que el r\u00edo Jord\u00e1n sirviera como frontera entre ustedes y nosotros, los de Rub\u00e9n y de Gad. As\u00ed que no tienen ustedes nada que ver con Dios\u201d. Entonces los hijos de ustedes podr\u00edan obligar a los nuestros a dejar de adorar a Dios."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00bbPor eso levantamos un altar, no para presentar ofrendas,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "sino como una se\u00f1al para ustedes y para nosotros, para que nuestros hijos sepan que servimos a nuestro Dios, y que a \u00e9l presentamos nuestras ofrendas. De esta forma los hijos de ustedes no podr\u00e1n decirles a los nuestros: \u201cUstedes no tienen nada que ver con nuestro Dios\u201d."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "\u00bbSi esto ocurriera, pensamos que nuestros hijos podr\u00edan responder: \u201cNuestros antepasados construyeron un altar igual al de Sil\u00f3 para que se vea que nosotros tambi\u00e9n lo adoramos, y no para presentar ofrendas\u201d."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Por cierto que no nos rebelamos contra Dios, ni hemos construido un altar en donde ofrecerle sacrificios, ni queremos reemplazar al que est\u00e1 en Sil\u00f3."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Cuando el sacerdote Finees y los diez jefes escucharon la explicaci\u00f3n, quedaron satisfechos."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Entonces Finees les dijo: \u2014Ahora entendemos que ustedes no se estaban rebelando. Dios ha estado actuando entre nosotros, y no nos va a castigar."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Despu\u00e9s de esto, Finees y los que hab\u00edan ido con \u00e9l dejaron a las tribus de Rub\u00e9n y Gad que estaban en Galaad, y regresaron a Cana\u00e1n para hablar con los israelitas y darles un informe."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "A los israelitas les pareci\u00f3 bien la explicaci\u00f3n de las otras tribus, y alabaron a Dios. Ya no hablaron de salir a pelear contra las tribus de Rub\u00e9n y de Gad, ni de destruir sus tierras."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Esas tribus le pusieron al altar el nombre de \u00abTestimonio\u00bb porque, seg\u00fan dijeron, ser\u00eda para todos un testimonio de que nuestro Dios es el \u00fanico Dios."
+                }
+            }
+        },
+        "23": {
+            "chapter_nr": "23",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Josu\u00e9 se despide de su pueblo - Hac\u00eda mucho tiempo que Dios les hab\u00eda dado paz a los israelitas. Para entonces, Josu\u00e9 ya era viejo,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "y mand\u00f3 llamar a todos los l\u00edderes israelitas. Y les dijo: \u00abYo ya estoy muy viejo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ustedes han visto todo lo que nuestro Dios ha hecho en favor de ustedes con estas naciones. Dios mismo ha luchado por ustedes."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Les he dado a sus tribus todo el territorio que va desde el r\u00edo Jord\u00e1n hasta el mar Mediterr\u00e1neo. Esto es, la tierra de las naciones que ya hemos conquistado, y tambi\u00e9n la de las naciones que todav\u00eda falta conquistar."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nuestro Dios nos prometi\u00f3: \u201cYo har\u00e9 retroceder a sus enemigos. A medida que ustedes avancen, echar\u00e9 a sus enemigos y ustedes se apoderar\u00e1n de esas tierras\u201d. Y cumplir\u00e1 su promesa: echar\u00e1 a las naciones que todav\u00eda est\u00e1n en la tierra."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pero obedezcan fielmente todo lo que est\u00e1 escrito en el libro de la Ley de Mois\u00e9s. No se olviden de nada."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbNo se mezclen con la gente de aqu\u00ed, que todav\u00eda vive entre ustedes. No adoren a sus dioses ni los obedezcan. No juren por esos dioses, y ni siquiera mencionen sus nombres."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Al contrario, sigan fieles a Dios, como hasta ahora,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "porque a medida que ustedes avanzaban \u00e9l expuls\u00f3 a naciones grandes y poderosas. Nadie ha podido hacerles frente."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Uno solo de ustedes puede hacer huir a mil enemigos, porque tal como lo prometi\u00f3, nuestro Dios pelea por ustedes."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbPero s\u00f3lo a Dios deben amar, \u00a1s\u00f3lo \u00e9l es nuestro Dios!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mant\u00e9nganse fieles a \u00e9l. No se mezclen con las naciones que todav\u00eda viven all\u00ed, ni se casen con su gente."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De lo contrario, Dios no expulsar\u00e1 a estas naciones de delante de ustedes, sino que ser\u00e1n como una red o una trampa que los har\u00e1 caer. Dios los usar\u00e1 como un l\u00e1tigo sobre las espaldas de ustedes, y como espinas en sus ojos. Y esto seguir\u00e1 as\u00ed, hasta que no quede ninguno de ustedes en esta tierra buena que nuestro Dios nos ha dado."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bbPronto morir\u00e9, como todo el mundo. Ustedes saben en su coraz\u00f3n que nuestro Dios no ha dejado de cumplir nada de todo lo bueno que nos prometi\u00f3. Todo lo que prometi\u00f3 se ha hecho realidad."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pero as\u00ed como ha cumplido con todo lo bueno que les prometi\u00f3, tambi\u00e9n cumplir\u00e1 en castigarlos si lo desobedecen. Dios hizo un trato con ustedes, y espera que lo cumplan. Si ustedes no le son fieles, sino que adoran a otros dioses, \u00e9l se enojar\u00e1 y los castigar\u00e1 hasta que no quede uno solo de ustedes en esta buena tierra que nuestro Dios nos ha dado\u00bb."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Pero as\u00ed como ha cumplido con todo lo bueno que les prometi\u00f3, tambi\u00e9n cumplir\u00e1 en castigarlos si lo desobedecen. Dios hizo un trato con ustedes, y espera que lo cumplan. Si ustedes no le son fieles, sino que adoran a otros dioses, \u00e9l se enojar\u00e1 y los castigar\u00e1 hasta que no quede uno solo de ustedes en esta buena tierra que nuestro Dios nos ha dado\u00bb."
+                }
+            }
+        },
+        "24": {
+            "chapter_nr": "24",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Josu\u00e9 re\u00fane al pueblo - Josu\u00e9 hizo reunir en Siquem a todas las tribus israelitas. Llam\u00f3 a todos los l\u00edderes a reunirse frente al santuario."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "All\u00ed le dijo a todo el pueblo: \u00abEsto es lo que el Dios de Israel les dice: \u201cHace mucho tiempo, sus antepasados viv\u00edan en Mesopotamia, y adoraban a otros dioses. Uno de sus antepasados fue T\u00e9rah, el padre de Abraham y Nahor."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Desde ese pa\u00eds conduje a Abraham por toda la tierra de Cana\u00e1n, le di un hijo que se llam\u00f3 Isaac, y de \u00e9l naci\u00f3 una familia numerosa."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A Isaac le di dos hijos, que se llamaron Jacob y Esa\u00fa. A Esa\u00fa le di la regi\u00f3n monta\u00f1osa de Se\u00edr, pero Jacob se fue a Egipto con su familia."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u201dM\u00e1s tarde, envi\u00e9 a Mois\u00e9s y a Aar\u00f3n para liberar a los antepasados de ustedes, pero a los egipcios les caus\u00e9 grandes desastres. De all\u00ed hice salir a los antepasados de ustedes, y los gui\u00e9 hasta el Mar de los Juncos. Cuando los egipcios los persiguieron con carros de guerra y caballos,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u201dM\u00e1s tarde, envi\u00e9 a Mois\u00e9s y a Aar\u00f3n para liberar a los antepasados de ustedes, pero a los egipcios les caus\u00e9 grandes desastres. De all\u00ed hice salir a los antepasados de ustedes, y los gui\u00e9 hasta el Mar de los Juncos. Cuando los egipcios los persiguieron con carros de guerra y caballos,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "me pidieron que los salvara. Entonces yo puse mucha oscuridad entre ellos y los egipcios, e hice que el mar se los tragara y se ahogaran. Ustedes saben bien todo lo que yo hice en Egipto. Despu\u00e9s vivieron mucho tiempo en el desierto,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "hasta que los traje a la tierra de los amorreos, al este del r\u00edo Jord\u00e1n. Los amorreos salieron a combatirlos, pero yo les di la victoria a ustedes, y as\u00ed conquistaron ese territorio."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201dDespu\u00e9s Balac, rey de los moabitas, se puso en contra de ustedes, y mand\u00f3 llamar a Balaam. Le pidi\u00f3 que los maldijera,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "pero yo no se lo permit\u00ed y \u00e9l tuvo que bendecirlos. Fue as\u00ed como los salv\u00e9 a ustedes."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Luego cruzaron el r\u00edo Jord\u00e1n y llegaron hasta Jeric\u00f3. Los de Jeric\u00f3 pelearon contra ustedes, y tambi\u00e9n todos los pueblos de Cana\u00e1n, pero yo hice que ustedes los vencieran."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "No fueron ustedes los que derrotaron a los dos reyes amorreos, sino que ellos huyeron porque yo los hice temblar de miedo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Yo les di a ustedes esas tierras, no tuvieron que trabajarlas ni edificar ciudades. Ahora viven all\u00ed, y comen uvas y aceitunas de huertos que jam\u00e1s plantaron\u201d\u00bb."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "El pueblo renueva su pacto con Dios - Luego Josu\u00e9 a\u00f1adi\u00f3: \u2014Respeten a Dios, obed\u00e9zcanlo, y sean fieles y sinceros con \u00e9l. Desh\u00e1ganse de los dioses que sus antepasados adoraban en Mesopotamia y en Egipto, y obedezcan s\u00f3lo a Dios."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Si no quieren serle obedientes, decidan hoy a qui\u00e9n van a dedicar su vida. Tendr\u00e1n que elegir entre los dioses a quienes sus antepasados adoraron en Mesopotamia, y los dioses de los amorreos en cuyo territorio ustedes viven ahora. Pero mi familia y yo hemos decidido dedicar nuestra vida a nuestro Dios."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "El pueblo le respondi\u00f3: \u2014\u00a1Nunca abandonaremos a nuestro Dios! \u00a1Jam\u00e1s seguiremos a otros dioses!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Dios puso en libertad a nuestros antepasados; nos libr\u00f3 de la esclavitud de Egipto. Sabemos de los milagros que \u00e9l hizo, y de c\u00f3mo nos ha protegido al pasar por muchas naciones hasta llegar aqu\u00ed."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dios expuls\u00f3 a todos los pueblos que estaban en nuestro camino, y a los amorreos que aqu\u00ed viv\u00edan. Por eso obedeceremos a nuestro Dios."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Josu\u00e9 les dijo: \u2014No es f\u00e1cil vivir para Dios. \u00c9l no tolera el pecado ni acepta dioses rivales, y espera que se le obedezca en todo. Si le son infieles no los va a perdonar."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00bbAunque siempre ha sido bueno con ustedes, se enojar\u00e1 si lo abandonan y adoran a otros dioses. \u00a1Los castigar\u00e1 y los destruir\u00e1 por completo!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "El pueblo le respondi\u00f3 a Josu\u00e9: \u2014\u00a1Jam\u00e1s haremos tal cosa! \u00a1Hemos decidido dedicar nuestra vida a nuestro Dios!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Josu\u00e9 les dijo entonces: \u2014Ustedes mismos son sus propios testigos de que han decidido vivir para Dios. \u2014\u00a1As\u00ed es! \u2014respondieron ellos."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Josu\u00e9 a\u00f1adi\u00f3: \u2014Entonces desh\u00e1ganse de esos dioses que todav\u00eda tienen, y prometan ser fieles al Dios de Israel."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Y el pueblo respondi\u00f3: \u2014Nosotros viviremos para Dios, y s\u00f3lo obedeceremos sus \u00f3rdenes."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "As\u00ed fue como aquel d\u00eda Josu\u00e9 y el pueblo reafirmaron en Siquem su pacto con Dios. En ese pacto se insisti\u00f3 una vez m\u00e1s en las leyes y mandamientos que el pueblo deb\u00eda obedecer."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Josu\u00e9 los escribi\u00f3 en el libro de la Ley de Dios. Luego tom\u00f3 una gran piedra y la coloc\u00f3 debajo del roble que est\u00e1 junto al santuario de Dios."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Le dijo a todo el pueblo: \u2014Esta piedra que ven aqu\u00ed, es testigo de todo lo que nuestro Dios nos ha dicho. La pongo aqu\u00ed para recordarles que deben ser fieles a nuestro Dios."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Luego Josu\u00e9 despidi\u00f3 al pueblo y cada uno se volvi\u00f3 a su propio territorio."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Entierro de Josu\u00e9, Eleazar y Jos\u00e9 - Alg\u00fan tiempo despu\u00e9s muri\u00f3 Josu\u00e9. En el momento de su muerte, este servidor de Dios ten\u00eda ciento diez a\u00f1os."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Lo enterraron en su propio territorio, en Timnat-s\u00e9rah, que est\u00e1 en la regi\u00f3n monta\u00f1osa de la tribu de Efra\u00edn, al norte del monte Gaas."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Mientras vivi\u00f3 Josu\u00e9, los israelitas obedecieron s\u00f3lo al Dios de Israel, su Dios. Despu\u00e9s de que muri\u00f3 Josu\u00e9, el pueblo permaneci\u00f3 fiel a Dios. Pero s\u00f3lo lo hizo mientras vivieron los l\u00edderes que sab\u00edan todo lo que Dios hab\u00eda hecho a favor de ellos."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Cuando los israelitas salieron de Egipto, trajeron consigo los restos de Jos\u00e9 y los enterraron en un terreno de la ciudad de Siquem. Jacob hab\u00eda comprado ese terreno por cien monedas de plata a los hijos de Hamor, padre de Siquem. As\u00ed el terreno lleg\u00f3 a pertenecer a los descendientes de Jos\u00e9."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Tambi\u00e9n muri\u00f3 Eleazar hijo de Aar\u00f3n, y fue enterrado en un cerro, en la regi\u00f3n monta\u00f1osa de la tribu de Efra\u00edn. Ese cerro pertenec\u00eda a su hijo Finees."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,636 @@
+{
+    "version": "ntlr",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Cuvintele lui Amos, unul dintre p\u0103storii din Tekoa, \u2013 ceea ce a v\u0103zut el cu privire la Israel, pe vremea lui Uzia, regele lui Iuda, \u015fi pe vremea lui Ieroboam, fiul lui Iehoa\u015f, regele lui Israel, cu doi ani \u00eenaintea cutremurului."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "El a zis: \u201eDOMNUL r\u0103cne\u015fte din Sion \u015fi glasul Lui r\u0103sun\u0103 din Ierusalim. P\u0103\u015funile p\u0103storilor jelesc, iar v\u00e2rful Carmelului este uscat."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Judecat\u0103 \u00eempotriva vecinilor lui Israel: \u00eempotriva Aramului - A\u015fa vorbe\u015fte DOMNUL: \u00abPentru trei nelegiuiri ale Damascului, ba chiar pentru patru, nu-Mi voi retrage m\u00e2nia, pentru c\u0103 a treierat Ghiladul cu treier\u0103toarea de fier."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Voi trimite foc \u00een Casa lui Hazael, care va mistui fort\u0103re\u0163ele lui Ben-Hadad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Voi sf\u0103r\u00e2ma z\u0103voarele Damascului; \u00eel voi nimici pe cel ce locuie\u015fte \u00een c\u00e2mpia Aven \u015fi pe cel ce \u0163ine sceptrul \u00een Bet-Eden. Poporul lui Aram va merge \u00een captivitate la Chir, zice DOMNUL.\u00bb"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Judecat\u0103 \u00eempotriva Filistiei - A\u015fa vorbe\u015fte DOMNUL: \u00abPentru trei nelegiuiri ale Gazei, ba chiar pentru patru, nu-Mi voi retrage m\u00e2nia, pentru c\u0103 a dus \u00een exil comunit\u0103\u0163i \u00eentregi, ca s\u0103 le dea pe m\u00e2na Edomului."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Voi trimite foc \u00een zidurile Gazei, care \u00eei va mistui fort\u0103re\u0163ele."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00cel voi nimici pe locuitorul din A\u015fdod \u015fi pe cel ce \u0163ine sceptrul \u00een A\u015fchelon, \u00cemi voi \u00eentoarce m\u00e2na \u00eempotriva Ekronului, iar r\u0103m\u0103\u015fi\u0163a filistenilor va pieri, zice St\u0103p\u00e2nul DOMN.\u00bb"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Judecat\u0103 \u00eempotriva Tirului - A\u015fa vorbe\u015fte DOMNUL: \u00abPentru trei nelegiuiri ale Tirului, ba chiar pentru patru, nu-Mi voi retrage m\u00e2nia, pentru c\u0103 a dus \u00een exil comunit\u0103\u0163i \u00eentregi, d\u00e2ndu-le Edomului \u015fi nu \u015fi-a adus aminte de leg\u0103m\u00e2ntul fr\u0103\u0163esc."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Voi trimite foc asupra zidurilor Tirului, care \u00eei va mistui fort\u0103re\u0163ele.\u00bb"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Judecat\u0103 \u00eempotriva Edomului - A\u015fa vorbe\u015fte DOMNUL: \u00abPentru trei nelegiuiri ale Edomului, ba chiar pentru patru, nu-Mi voi retrage m\u00e2nia, pentru c\u0103 l-a urm\u0103rit cu sabia pe fratele s\u0103u, \u00een\u0103bu\u015findu-\u015fi \u00eendurarea, pentru c\u0103 s-a l\u0103sat mereu condus de m\u00e2nie \u015fi nu \u015fi-a \u00een\u0103bu\u015fit furia."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Voi trimite foc \u00een Teman, care va mistui fort\u0103re\u0163ele Bo\u0163rei.\u00bb"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Judecat\u0103 \u00eempotriva amoni\u0163ilor - A\u015fa vorbe\u015fte DOMNUL: \u00abPentru trei nelegiuiri ale amoni\u0163ilor, ba chiar pentru patru, nu-Mi voi retrage m\u00e2nia, pentru c\u0103 a spintecat p\u00e2ntecele femeilor \u00eens\u0103rcinate din Ghilad, ca s\u0103-\u015fi l\u0103rgeasc\u0103 hotarul."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Voi aprinde un foc pe zidurile Rabei, care \u00eei va mistui fort\u0103re\u0163ele \u00een mijlocul strig\u0103telor de r\u0103zboi din ziua b\u0103t\u0103liei, \u00een mijlocul vijeliei din ziua furtunii."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Regele lor va merge \u00een exil \u00eempreun\u0103 cu c\u0103peteniile sale\u00bb, zice DOMNUL."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Judecat\u0103 \u00eempotriva Moabului - A\u015fa vorbe\u015fte DOMNUL: \u00abPentru trei nelegiuiri ale Moabului, ba chiar pentru patru, nu-Mi voi retrage m\u00e2nia, pentru c\u0103 a ars p\u00e2n\u0103 \u015fi oasele regelui Edomului, f\u0103c\u00e2ndu-le scrum."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Voi trimite foc \u00een Moab, care va mistui fort\u0103re\u0163ele Cheriotului. Moab va muri \u00een mijlocul \u00eencle\u015ft\u0103rii, \u00een mijlocul strig\u0103telor de r\u0103zboi \u015fi al sunetului de corn."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00cel voi nimici pe judec\u0103tor din mijlocul lui \u015fi \u00eei voi omor\u00ee toate c\u0103peteniile \u00eempreun\u0103 cu el\u00bb, zice DOMNUL."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Judecat\u0103 \u00eempotriva lui Iuda - A\u015fa vorbe\u015fte DOMNUL: \u00abPentru trei nelegiuiri ale lui Iuda, ba chiar pentru patru, nu-Mi voi retrage m\u00e2nia, pentru c\u0103 au respins Legea DOMNULUI \u015fi nu au p\u0103zit hot\u0103r\u00e2rile Lui \u015fi pentru c\u0103 s-au l\u0103sat du\u015fi \u00een r\u0103t\u0103cire de idolii lor mincino\u015fi, dup\u0103 care au umblat \u015fi str\u0103mo\u015fii lor."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Voi trimite foc \u00een Iuda \u015fi va mistui fort\u0103re\u0163ele Ierusalimului.\u00bb"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Judecat\u0103 \u00eempotriva Israelului - A\u015fa vorbe\u015fte DOMNUL: \u00abPentru trei nelegiuiri ale lui Israel, ba chiar pentru patru, nu-Mi voi retrage m\u00e2nia, pentru c\u0103 l-au v\u00e2ndut pe cel drept pe argin\u0163i, iar pe cel s\u0103rac \u2013 pentru o pereche de sandale."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ei calc\u0103 \u00een picioare, \u00een pulberea p\u0103m\u00e2ntului, capetele celor s\u0103raci \u015fi dau la o parte dreptul celor oprima\u0163i. \u015ei fiul, \u015fi tat\u0103l merg la aceea\u015fi fat\u0103, ca s\u0103 profaneze Numele Meu cel sf\u00e2nt."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pe hainele luate drept garan\u0163ie, se tol\u0103nesc l\u00e2ng\u0103 orice altar, iar vinul luat din amenzi \u00eel beau \u00een templul zeilor lor."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Eu i-am nimicit pe amori\u0163i dinaintea lor, de\u015fi erau \u00eenal\u0163i ca cedrii \u015fi puternici ca stejarii. Deasupra, le-am nimicit roadele, iar dedesubt \u2013 r\u0103d\u0103cinile."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Eu v-am scos din \u0163ara Egiptului \u015fi v-am purtat prin pustie timp de patruzeci de ani, ca s\u0103 v\u0103 dau \u00een st\u0103p\u00e2nire \u0163ara amori\u0163ilor."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Am ridicat profe\u0163i dintre fiii vo\u015ftri \u015fi nazirei dintre tinerii vo\u015ftri. Nu este a\u015fa, israeli\u0163ilor? zice DOMNUL."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dar voi le-a\u0163i dat nazireilor s\u0103 bea vin \u015fi le-a\u0163i poruncit profe\u0163ilor s\u0103 nu mai profe\u0163easc\u0103!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Iat\u0103, v\u0103 voi zdrobi a\u015fa cum zdrobe\u015fte carul c\u00e2nd este \u00eenc\u0103rcat cu snopi."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Cel iute nu va putea s\u0103 fug\u0103, cel tare nu se va putea baza pe t\u0103ria lui, iar cel puternic nu-\u015fi va putea sc\u0103pa via\u0163a."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Cel ce m\u00e2nuie\u015fte arcul nu va putea s\u0103 \u0163in\u0103 piept, pedestra\u015ful cel iute nu va putea sc\u0103pa, iar c\u0103l\u0103re\u0163ul nu-\u015fi va putea salva via\u0163a."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Chiar \u015fi cel mai curajos dintre r\u0103zboinici va fugi \u00een pielea goal\u0103 \u00een ziua aceea, zice DOMNUL.\u00bb\u201c"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vina \u015fi pedeapsa Israelului - \u201eIsraeli\u0163ilor, asculta\u0163i acum acest cuv\u00e2nt pe care l-a rostit DOMNUL \u00eempotriva voastr\u0103, \u00eempotriva \u00eentregului clan pe care Eu l-am scos din \u0163ara Egiptului:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00abNumai pe voi v\u0103 cunosc dintre toate clanurile p\u0103m\u00e2ntului; de aceea v\u0103 voi \u015fi pedepsi pentru toate f\u0103r\u0103delegile voastre."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Merg oare doi oameni \u00eempreun\u0103, dac\u0103 nu s-au \u00een\u0163eles la aceasta?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Oare r\u0103cne\u015fte leul \u00een p\u0103dure c\u00e2nd nu are prad\u0103? Oare se aude glasul leului t\u00e2n\u0103r din vizuina lui, dac\u0103 nu a prins ceva?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Oare cade pas\u0103rea \u00een cursa de pe p\u0103m\u00e2nt, dac\u0103 nu i s-a \u00eentins un la\u0163? Se ridic\u0103 oare la\u0163ul de la p\u0103m\u00e2nt f\u0103r\u0103 s\u0103 se fi prins ceva \u00een el?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dac\u0103 sun\u0103 cornul \u00een cetate, oare nu tremur\u0103 poporul? Dac\u0103 vine o nenorocire \u00een cetate, oare nu DOMNUL a dat-o?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "C\u0103ci St\u0103p\u00e2nul DOMN nu face nimic f\u0103r\u0103 s\u0103-\u015ei descopere hot\u0103r\u00e2rea robilor S\u0103i, profe\u0163ii."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Leul a r\u0103cnit \u2013 cine nu se va teme? St\u0103p\u00e2nul DOMN a vorbit \u2013 cine ar putea s\u0103 nu profe\u0163easc\u0103?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Proclama\u0163i \u00een fort\u0103re\u0163ele A\u015fdodului \u015fi \u00een fort\u0103re\u0163ele \u0163\u0103rii Egiptului astfel: \u2018Aduna\u0163i-v\u0103 pe mun\u0163ii Samariei \u015fi uita\u0163i-v\u0103 la numeroasele tulbur\u0103ri din mijlocul ei \u015fi la asuprirea care este \u00een ea!\u2019"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nu \u015ftiu s\u0103 fac\u0103 dreptate, zice DOMNUL, ei, care str\u00e2ng \u00een fort\u0103re\u0163ele lor lucruri luate prin asuprire \u015fi jaf.\u00bb"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De aceea, a\u015fa vorbe\u015fte St\u0103p\u00e2nul DOMN: \u00abUn du\u015fman va \u00eenconjura \u0163ara, \u00ee\u0163i va dobor\u00ee puterea, iar fort\u0103re\u0163ele tale vor fi jefuite!\u00bb"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "A\u015fa vorbe\u015fte DOMNUL: \u00abA\u015fa cum p\u0103storul scap\u0103 din gura leului doar dou\u0103 picioare sau o bucat\u0103 de ureche, tot a\u015fa vor fi izb\u0103vi\u0163i \u015fi israeli\u0163ii, cei ce stau \u00een Samaria, pe marginea patului, \u015fi \u00een Damasc, pe canapea."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Asculta\u0163i \u015fi m\u0103rturisi\u0163i \u00eempotriva Casei lui Iacov, zice St\u0103p\u00e2nul DOMN, Dumnezeul O\u015ftirilor."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00cen ziua c\u00e2nd \u00eel voi pedepsi pe Israel pentru nelegiuirile lui, voi aduce pedeapsa \u015fi asupra altarelor din Betel; coarnele altarului vor fi retezate \u015fi vor c\u0103dea la p\u0103m\u00e2nt."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Voi surpa re\u015fedin\u0163a de iarn\u0103 \u015fi re\u015fedin\u0163a de var\u0103. Palatele \u00eempodobite cu filde\u015f vor fi distruse, iar casele cele mari vor fi spulberate, zice DOMNUL.\u00bb"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00abAsculta\u0163i cuv\u00e2ntul acesta, juncane din Ba\u015fan, de pe muntele Samaria, voi, femeilor, care asupri\u0163i pe s\u0103rmani, care zdrobi\u0163i pe s\u0103raci \u015fi zice\u0163i so\u0163ilor vo\u015ftri: \u2018Aduce\u0163i-ne ceva de b\u0103ut!\u2019\u00bb"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "St\u0103p\u00e2nul DOMN a jurat pe sfin\u0163enia Sa astfel: \u00abIat\u0103 vin zile pentru voi c\u00e2nd v\u0103 vor trage cu c\u00e2rlige, iar pe ultimele dintre voi \u2013 cu c\u00e2rlige de pescuit."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ve\u0163i ie\u015fi prin sp\u0103rturile zidului, fiecare drept \u00eenainte, \u015fi ve\u0163i fi alungate \u00een Harmon, zice DOMNUL."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Duce\u0163i-v\u0103 la Betel \u015fi p\u0103c\u0103tui\u0163i! Duce\u0163i-v\u0103 la Ghilgal \u015fi p\u0103c\u0103tui\u0163i \u015fi mai mult! Aduce\u0163i-v\u0103 diminea\u0163a jertfele \u015fi da\u0163i-v\u0103 zeciuielile la fiecare trei zile!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Aduce\u0163i jertf\u0103 de mul\u0163umire din p\u00e2ine dospit\u0103 \u015fi l\u0103uda\u0163i-v\u0103 cu darurile de bun\u0103voie, tr\u00e2mbi\u0163a\u0163i despre ele, c\u0103ci aceasta v\u0103 place, israeli\u0163ilor, zice St\u0103p\u00e2nul DOMN."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "E\u015fecul Israelului \u00een a \u00eenv\u0103\u0163a prin disciplinare - Prin urmare, \u015fi Eu v-am trimis foamete \u00een toate cet\u0103\u0163ile voastre \u015fi am adus lips\u0103 de p\u00e2ine \u00een toate locurile voastre. Dar tot nu v-a\u0163i \u00eentors la Mine, zice DOMNUL."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mai mult, tot Eu am oprit ploaia pentru voi, c\u00e2nd mai erau \u00eenc\u0103 trei luni p\u00e2n\u0103 la seceri\u015f. Am dat ploaie peste o cetate, dar peste o alta n-am l\u0103sat s\u0103 plou\u0103; peste un ogor a plouat, \u00eens\u0103 alt ogor nu a avut parte de ploaie \u015fi s-a uscat."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dou\u0103-trei cet\u0103\u0163i s-au dus \u00eensetate la o alta ca s\u0103 bea ap\u0103, dar nu s-au s\u0103turat. Cu toate acestea, nu v-a\u0163i \u00eentors la Mine, zice DOMNUL."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De multe ori v-am lovit gr\u0103dinile \u015fi viile cu filoxera \u015fi cu mana. Apoi l\u0103custele v-au devorat smochinii \u015fi m\u0103slinii, dar tot nu v-a\u0163i \u00eentors la Mine, zice DOMNUL."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Am trimis \u00eempotriva voastr\u0103 molima, ca \u015fi \u00een Egipt. I-am ucis pe tinerii vo\u015ftri cu sabia \u015fi am t\u0103iat caii vo\u015ftri c\u0103zu\u0163i ca prad\u0103. Am ridicat duhoarea taberelor voastre p\u00e2n\u0103 la n\u0103rile voastre, dar tot nu v-a\u0163i \u00eentors la Mine, zice DOMNUL."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pe unii dintre voi i-am nimicit, cum a nimicit Dumnezeu Sodoma \u015fi Gomora. A\u0163i ajuns ca t\u0103ciunele scos din jar, dar tot nu v-a\u0163i \u00eentors la Mine, zice DOMNUL."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De aceea \u00ee\u0163i voi face astfel, Israele, \u015fi, pentru c\u0103 \u00ee\u0163i voi face astfel, preg\u0103te\u015fte-te s\u0103-L \u00eent\u00e2lne\u015fti pe Dumnezeul t\u0103u, Israele!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "C\u0103ci iat\u0103 c\u0103 El este Cel Ce a \u00eentocmit mun\u0163ii, Cel Ce a creat v\u00e2ntul \u015fi i-a descoperit omului g\u00e2ndul S\u0103u, Cel Ce a pref\u0103cut r\u0103s\u0103ritul \u00een \u00eentuneric \u015fi Cel Ce umbl\u0103 pe \u00een\u0103l\u0163imile p\u0103m\u00e2ntului \u2013 DOMNUL, Dumnezeul O\u015ftirilor, este Numele S\u0103u.\u00bb"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chemare la poc\u0103in\u0163\u0103 - Asculta\u0163i cuv\u00e2ntul acesta pe care-l rostesc cu privire la voi, un c\u00e2ntec de jale pentru Casa lui Israel!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A c\u0103zut fecioara lui Israel \u015fi niciodat\u0103 nu se va mai ridica! A fost p\u0103r\u0103sit\u0103 \u00een propria-i \u0163ar\u0103 \u015fi nu este nimeni care s-o ridice!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "C\u0103ci a\u015fa vorbe\u015fte St\u0103p\u00e2nul DOMN: \u00abCetatea care scotea o mie de lupt\u0103tori pentru Casa lui Israel va r\u0103m\u00e2ne doar cu o sut\u0103, iar cea care scotea o sut\u0103 va r\u0103m\u00e2ne doar cu zece.\u00bb"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A\u015fa vorbe\u015fte DOMNUL c\u0103tre Casa lui Israel: \u00abC\u0103uta\u0163i-M\u0103, ca s\u0103 tr\u0103i\u0163i!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nu c\u0103uta\u0163i Betelul, nu v\u0103 duce\u0163i la Ghilgal \u015fi nu trece\u0163i la Beer-\u015eeba, c\u0103ci Ghilgalul va merge cu siguran\u0163\u0103 \u00een captivitate, iar Betelul va ajunge \u00een nenorocire."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "C\u0103uta\u0163i-L pe DOMNUL, ca s\u0103 tr\u0103i\u0163i, ca nu cumva El s\u0103 treac\u0103 prin Casa lui Iosif ca un foc \u015fi s\u0103 o mistuie, f\u0103r\u0103 s\u0103 fie nimeni \u00een Betel care s\u0103 sting\u0103 focul.\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ei sunt cei ce prefac judecata \u00een pelin \u015fi arunc\u0103 dreptatea la p\u0103m\u00e2nt!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "El \u00eens\u0103 este Cel Ce a f\u0103cut Pleiadele \u015fi Orionul, Cel Ce preface \u00eentunericul \u00een diminea\u0163\u0103 \u015fi preschimb\u0103 ziua \u00een noapte, Cel Ce cheam\u0103 apele m\u0103rii \u015fi le vars\u0103 pe suprafa\u0163a p\u0103m\u00e2ntului \u2013 DOMNUL este Numele Lui!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El aduce \u00eentr-o clip\u0103 pr\u0103p\u0103dul peste cel tare \u015fi face s\u0103 vin\u0103 devastarea peste fort\u0103rea\u0163\u0103."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ei \u00eel ur\u0103sc pe cel ce decide la poarta cet\u0103\u0163ii \u015fi le este sc\u00e2rb\u0103 de cel ce vorbe\u015fte cu corectitudine."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De aceea, pentru c\u0103 l-a\u0163i c\u0103lcat \u00een picioare pe cel s\u0103rac \u015fi a\u0163i luat de la el taxe \u00een gr\u00e2ne, chiar dac\u0103 a\u0163i construit case de piatr\u0103, nu ve\u0163i locui \u00een ele; chiar dac\u0103 a\u0163i s\u0103dit vii pl\u0103cute, nu ve\u0163i bea din vinul lor!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "C\u0103ci Eu \u015ftiu c\u00e2t de multe sunt nelegiuirile voastre \u015fi c\u00e2t de mari sunt p\u0103catele voastre! Voi \u00eel asupri\u0163i pe cel drept, lua\u0163i mit\u0103 \u015fi \u00eei nedrept\u0103\u0163i\u0163i pe cei nevoia\u015fi la poarta cet\u0103\u0163ii."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De aceea, \u00een vremuri ca acestea, cel prudent r\u0103m\u00e2ne t\u0103cut, c\u0103ci sunt vremuri rele."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "C\u0103uta\u0163i binele, \u015fi nu r\u0103ul, ca s\u0103 tr\u0103i\u0163i! Astfel DOMNUL, Dumnezeul O\u015ftirilor, va fi cu voi, a\u015fa cum spune\u0163i c\u0103 este!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ur\u00e2\u0163i r\u0103ul, iubi\u0163i binele \u015fi statornici\u0163i dreptatea la poarta cet\u0103\u0163ii! Poate c\u0103 DOMNUL, Dumnezeul O\u015ftirilor, va ar\u0103ta bun\u0103voin\u0163\u0103 fa\u0163\u0103 de r\u0103m\u0103\u015fi\u0163a lui Iosif."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "De aceea, a\u015fa vorbe\u015fte DOMNUL, Dumnezeul O\u015ftirilor, St\u0103p\u00e2nul: \u00ab\u00cen toate pie\u0163ele va fi jale \u015fi pe toate uli\u0163ele oamenii vor zice: \u2018Vai! Vai!\u2019 Ei \u00eel vor chema pe plugar la pl\u00e2ns, iar pe cei ce \u015ftiu s\u0103 boceasc\u0103, \u00eei vor chema la jale."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00cen toate viile va fi vaiet, pentru c\u0103 Eu voi trece prin mijlocul vostru\u00bb, zice DOMNUL."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ziua DOMNULUI - \u00abVai de cei ce t\u00e2njesc dup\u0103 ziua DOMNULUI! De ce t\u00e2nji\u0163i dup\u0103 ziua DOMNULUI? Ea va fi \u00eentuneric, \u015fi nu lumin\u0103!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Va fi ca un om care fuge din fa\u0163a unui leu, dar apoi se \u00eent\u00e2lne\u015fte cu un urs; la urm\u0103 ajunge acas\u0103, \u00ee\u015fi sprijin\u0103 m\u00e2na de zid, dar \u00eel mu\u015fc\u0103 un \u015farpe."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Nu va fi oare ziua DOMNULUI \u00eentuneric, \u015fi nu lumin\u0103, un \u00eentuneric ad\u00e2nc f\u0103r\u0103 pic de lic\u0103rire?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ur\u0103sc, dispre\u0163uiesc s\u0103rb\u0103torile voastre \u015fi nu pot s\u0103 suf\u0103r adun\u0103rile voastre de s\u0103rb\u0103toare."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Chiar dac\u0103 \u00cemi aduce\u0163i arderi de tot \u015fi daruri de m\u00e2ncare, nu le voi accepta, iar la jertfele de pace din vi\u0163eii vo\u015ftri \u00eengr\u0103\u015fa\u0163i nu m\u0103 voi uita!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Dep\u0103rta\u0163i de la Mine sunetul c\u00e2ntecelor voastre! Nu voi asculta melodia harfelor voastre!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ci l\u0103sa\u0163i judecata s\u0103 se rostogoleasc\u0103 ca apele, \u015fi dreptatea \u2013 ca un torent care nu seac\u0103 niciodat\u0103!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Mi-a\u0163i adus voi jertfe \u015fi daruri de m\u00e2ncare timp de patruzeci de ani \u00een pustie, Cas\u0103 a lui Israel?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "A\u0163i purtat pe Sikut, regele vostru, \u015fi pe Chiyun, steaua zeului vostru, chipurile idole\u015fti pe care vi le-a\u0163i f\u0103cut!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "De aceea v\u0103 voi duce \u00een captivitate dincolo de Damasc!\u00bb, zice DOMNUL, al C\u0103rui Nume este Dumnezeul O\u015ftirilor."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vai de cei ce tr\u0103iesc f\u0103r\u0103 grij\u0103 - \u00abVai de cei ce tr\u0103iesc f\u0103r\u0103 grij\u0103 \u00een Sion, de cei ce se cred la ad\u0103post pe Muntele Samaria, oameni distin\u015fi ai celui mai de seam\u0103 dintre neamuri, la care apeleaz\u0103 Casa lui Israel!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Trece\u0163i la Kalne \u015fi privi\u0163i! Merge\u0163i de acolo la marele Hamat \u015fi cobor\u00e2\u0163i apoi la Gatul filistenilor! Sunt ele mai bune dec\u00e2t cele dou\u0103 regate ale voastre? Sau sunt hotarele lor mai mari dec\u00e2t hotarele voastre?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A\u0163i dat deoparte ziua cea rea \u015fi a\u0163i adus aproape tronul violen\u0163ei!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ei se \u00eentind pe paturi \u00eencrustate cu filde\u015f, se tol\u0103nesc \u00een a\u015fternuturile lor, m\u0103n\u00e2nc\u0103 miei din turm\u0103 \u015fi vi\u0163ei din grajduri."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Petrec \u00een sunetul harfei, \u015fi, asemenea lui David, improvizeaz\u0103 la instrumentele muzicale!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Beau vin din cupe mari \u015fi se ung cu cele mai bune uleiuri, dar nu sunt m\u00e2hni\u021bi din pricina dezastrului lui Iosif!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De aceea, ei vor merge acum \u00een captivitate \u00een fruntea captivilor, \u015fi vor \u00eenceta astfel strig\u0103tele de veselie \u015fi lenevirea!\u00bb"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "DOMNUL detest\u0103 m\u00e2ndria lui Israel - St\u0103p\u00e2nul DOMN a jurat pe Sine \u00censu\u015fi. Astfel zice DOMNUL, Dumnezeul O\u015ftirilor: \u00abMi-e sc\u00e2rb\u0103 de m\u00e2ndria lui Iacov \u015fi \u00eei ur\u0103sc fort\u0103re\u0163ele; voi da pe m\u00e2na du\u015fmanului cetatea \u015fi tot ce este \u00een ea!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Dac\u0103 vor mai fi l\u0103sa\u0163i zece b\u0103rba\u0163i \u00eentr-o cas\u0103 \u015fi aceia vor muri!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Iar c\u00e2nd ruda vreunuia va veni s\u0103-i scoat\u0103 trupul din cas\u0103, ca s\u0103-l ard\u0103, \u015fi-l va \u00eentreba pe cel care \u00eenc\u0103 mai este ascuns \u00een ni\u015fa casei: \u2018Mai este cineva cu tine?\u2019, i se va r\u0103spunde: \u2018Nu!\u2019. Atunci ruda va zice: \u2018T\u0103cere! Nu trebuie s\u0103 pomenim Numele DOMNULUI!\u2019\u00bb"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "C\u0103ci iat\u0103 c\u0103 DOMNUL porunce\u015fte: \u00abCasa cea mare va fi pref\u0103cut\u0103 \u00een f\u0103r\u00e2me, iar casa cea mic\u0103 \u2013 \u00een buc\u0103\u0163ele!\u00bb"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00abPot caii s\u0103 alerge pe st\u00e2nc\u0103 sau poate cineva s\u0103 are acolo cu boii? Totu\u015fi voi a\u0163i pref\u0103cut judecata \u00een otrav\u0103, iar rodul drept\u0103\u0163ii \u2013 \u00een pelin."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Voi v\u0103 bucura\u0163i de ceea ce s-a \u00eent\u00e2mplat la Lo Debar \u015fi zice\u0163i: \u2018Oare nu prin puterea noastr\u0103 am cucerit noi Karnaimul?\u2019"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Dar iat\u0103 c\u0103 voi ridica \u00eempotriva ta, Cas\u0103 a lui Israel, zice DOMNUL, Dumnezeul O\u015ftirilor, un neam care te va asupri de la Lebo Hamat p\u00e2n\u0103 la Valea Arabei.\u00bb\u201c"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "L\u0103custele, focul \u015fi firul cu plumb - St\u0103p\u00e2nul DOMN mi-a ar\u0103tat urm\u0103toarele: am v\u0103zut c\u0103 El preg\u0103tea ni\u015fte l\u0103custe, tocmai \u00een perioada c\u00e2nd \u00eencepea s\u0103 creasc\u0103 otava; era otava care r\u0103s\u0103rise dup\u0103 ce fusese cosit\u0103 partea regelui."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dup\u0103 ce l\u0103custele au terminat de m\u00e2ncat toat\u0103 verdea\u0163a din \u0163ar\u0103, am zis: \u2013 St\u0103p\u00e2ne DOAMNE, iart\u0103, Te rog! Cum ar putea Iacov s\u0103 r\u0103m\u00e2n\u0103 \u00een picioare? C\u0103ci este at\u00e2t de ne\u00eensemnat!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Atunci DOMNULUI I-a p\u0103rut r\u0103u de lucrul acesta. \u015ei St\u0103p\u00e2nul DOMN a zis: \u2013 Nu se va \u00eent\u00e2mpla aceasta!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "St\u0103p\u00e2nul DOMN mi-a ar\u0103tat urm\u0103toarele: am v\u0103zut c\u0103 St\u0103p\u00e2nul DOMN chema pedeapsa prin foc; acesta devora ad\u00e2ncul cel mare \u015fi mistuia \u0163inutul."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Am zis: \u2013 St\u0103p\u00e2ne DOAMNE, opre\u015fte-Te, Te rog! Cum ar putea Iacov s\u0103 r\u0103m\u00e2n\u0103 \u00een picioare? C\u0103ci este at\u00e2t de ne\u00eensemnat!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Atunci DOMNULUI I-a p\u0103rut r\u0103u \u015fi de lucrul acesta. \u015ei St\u0103p\u00e2nul DOMN a zis: \u2013 Nu se va \u00eent\u00e2mpla nici aceasta!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dup\u0103 aceea mi-a ar\u0103tat urm\u0103toarele: am v\u0103zut c\u0103 St\u0103p\u00e2nul st\u0103tea l\u00e2ng\u0103 un zid \u015fi avea \u00een m\u00e2n\u0103 un fir cu plumb, cu care fusese verificat zidul."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "DOMNUL m-a \u00eentrebat: \u2013 Ce vezi tu, Amos? \u2013 Un fir cu plumb, am r\u0103spuns eu. Atunci St\u0103p\u00e2nul mi-a zis: \u2013 Iat\u0103, voi pune firul cu plumb \u00een mijlocul poporului meu, Israel! Nu-l voi mai cru\u0163a!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00cen\u0103l\u0163imile lui Isaac vor fi pustiite, iar sanctuarele lui Israel vor fi nimicite; M\u0103 voi ridica cu sabia \u00eempotriva Casei lui Ieroboam."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Amos \u015fi Ama\u0163ia - Ama\u0163ia, preotul de la Betel, a trimis mesageri la Ieroboam, regele lui Israel, ca s\u0103 i se spun\u0103: \u201eAmos unelte\u015fte \u00eempotriva ta \u00een mijlocul Casei lui Israel; \u0163ara nu mai poate suporta toate cuvintele lui!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "C\u0103ci iat\u0103 ce spune Amos: \u00abIeroboam va pieri de sabie, iar Israel va fi dus, \u00een mod sigur, \u00een captivitate, departe de \u0163ara sa!\u00bb\u201c"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Apoi Ama\u0163ia i-a zis lui Amos: \u2013 Pleac\u0103, v\u0103z\u0103torule! \u00centoarce-te \u00een \u0163ara lui Iuda! M\u0103n\u00e2nc\u0103-\u0163i acolo p\u00e2inea \u015fi acolo s\u0103 profe\u0163e\u015fti!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "S\u0103 nu mai profe\u0163e\u015fti la Betel, c\u0103ci el este sanctuarul regelui \u015fi templul regatului!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Amos i-a r\u0103spuns lui Ama\u0163ia, zic\u00e2nd: \u2013 Eu n-am fost nici profet, nici fiu de profet, ci oier \u015fi \u00eengrijitor de sicomori."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Dar DOMNUL m-a luat de la oi \u015fi mi-a zis: \u201eDu-te \u015fi profe\u0163e\u015fte poporului meu, Israel!\u201c"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Acum, ascult\u0103 Cuv\u00e2ntul DOMNULUI! Tu zici: \u201eS\u0103 nu profe\u0163e\u015fti \u00eempotriva lui Israel \u015fi s\u0103 nu predici \u00eempotriva Casei lui Isaac!\u201c"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "De aceea, a\u015fa vorbe\u015fte DOMNUL: \u201eSo\u0163ia ta va deveni o prostituat\u0103 \u00een cetate, iar fiii t\u0103i \u015fi fiicele tale vor c\u0103dea r\u0103pu\u015fi de sabie! Ogorul t\u0103u va fi \u00eemp\u0103r\u0163it cu funia de m\u0103surat, \u015fi tu \u00eensu\u0163i vei muri pe un meleag necurat. Iar Israel va fi dus, \u00een mod sigur, \u00een captivitate, departe de \u0163ara sa\u201c"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Co\u015ful cu fructe coapte - St\u0103p\u00e2nul DOMN mi-a mai ar\u0103tat urm\u0103torul lucru: am v\u0103zut un co\u015f cu fructe coapte."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "El m-a \u00eentrebat: \u2013 Ce vezi tu, Amos? \u2013 Un co\u015f cu fructe coapte, am r\u0103spuns eu. Atunci DOMNUL mi-a zis: \u2013 Vine sf\u00e2r\u015fitul poporului Meu, Israel! Nu-l voi mai cru\u0163a!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00cen ziua aceea, zice St\u0103p\u00e2nul DOMN, c\u00e2ntecele de la Templu se vor preface \u00een urlete. Vor fi o mul\u0163ime de hoituri aruncate peste tot! T\u0103cere!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Asculta\u0163i aceasta, voi, care-i c\u0103lca\u0163i \u00een picioare pe s\u0103rmani \u015fi-i pr\u0103p\u0103di\u0163i pe s\u0103racii din \u0163ar\u0103."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Voi zice\u0163i: \u201eC\u00e2nd va trece luna nou\u0103, ca s\u0103 putem vinde gr\u00e2ne? C\u00e2t mai este din Sabat, ca s\u0103 deschidem gr\u00e2narele, s\u0103 mic\u015for\u0103m cantitatea, s\u0103 m\u0103rim pre\u0163ul, s\u0103 m\u0103sluim cump\u0103na ca s\u0103 \u00een\u015fel\u0103m,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "s\u0103-i cump\u0103r\u0103m pe s\u0103raci pe argint \u015fi pe s\u0103rmani \u2013 pentru o pereche de sandale \u015fi s\u0103 vindem codin\u0103 \u00een loc de gr\u00e2ne?\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "DOMNUL a jurat pe m\u00e2ndria lui Iacov: \u201eNu voi uita niciodat\u0103 vreuna din faptele lui!\u201c"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u201eS\u0103 nu tremure \u0163ara din pricina aceasta \u015fi s\u0103 nu jeleasc\u0103 to\u0163i cei ce locuiesc \u00een ea? S\u0103 nu se ridice ca Nilul tot ce este \u00een \u0163ar\u0103, s\u0103 nu se \u00eenvolbureze \u015fi apoi s\u0103 se retrag\u0103 precum R\u00e2ul Egiptului?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00cen ziua aceea, zice St\u0103p\u00e2nul DOMN, voi face s\u0103 apun\u0103 soarele la amiaz\u0103 \u015fi voi \u00eentuneca p\u0103m\u00e2ntul \u00een miezul zilei."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Voi preface s\u0103rb\u0103torile voastre \u00een bocet \u015fi toate c\u00e2ntecele voastre \u2013 \u00een c\u00e2ntece de jale. Voi face ca toate coapsele s\u0103 fie acoperite cu saci \u015fi toate capetele s\u0103 fie rase. Voi face vremea aceea ca jalea pentru singurul fiu, iar sf\u00e2r\u015fitul ei \u2013 ca o zi amar\u0103.\u201c"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u201eIat\u0103, vin zile, zice St\u0103p\u00e2nul DOMN, c\u00e2nd voi trimite foamete \u00een \u0163ar\u0103, dar nu foame dup\u0103 p\u00e2ine \u015fi nu sete dup\u0103 ap\u0103, ci dup\u0103 auzirea cuvintelor DOMNULUI."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ei vor umbla \u015fov\u0103ind de la o mare la alta, vor cutreiera de la nord la r\u0103s\u0103rit, c\u0103ut\u00e2nd Cuv\u00e2ntul DOMNULUI, dar nu-l vor g\u0103si."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00cen ziua aceea, fecioarele frumoase \u015fi tinerii vor le\u015fina de sete."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Cei ce obi\u015fnuiau s\u0103 jure pe ru\u015finea Samariei \u015fi s\u0103 zic\u0103: \u00abViu este zeul t\u0103u, Dane!\u00bb sau \u00abVie este calea ta, Beer-\u015eeba!\u00bb, aceia vor c\u0103dea \u015fi nu se vor mai ridica.\u201c"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Israel va fi distrus - L-am v\u0103zut pe St\u0103p\u00e2nul st\u00e2nd l\u00e2ng\u0103 altar. El a zis: \u201eLove\u015fte capitelurile st\u00e2lpilor, ca s\u0103 se clatine pragurile! N\u0103ruie\u015fte-le peste capetele tuturor! Pe cei ce vor sc\u0103pa \u00eei voi ucide cu sabia. Nici unul dintre ei nu va putea s\u0103 fug\u0103 \u015fi nici unul nu va reu\u015fi s\u0103 scape."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Chiar dac\u0103 ar s\u0103pa p\u00e2n\u0103 \u00een Locuin\u0163a Mor\u0163ilor, \u015fi de acolo m\u00e2na Mea \u00eei va apuca! Chiar dac\u0103 s-ar sui \u00een ceruri, \u015fi de acolo \u00eei voi cobor\u00ee!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Chiar dac\u0103 s-ar ascunde pe v\u00e2rful Carmelului \u015fi acolo \u00eei voi c\u0103uta \u015fi-i voi lua! Chiar dac\u0103 s-ar ascunde dinaintea ochilor Mei pe fundul m\u0103rii, \u015fi acolo voi porunci \u015farpelui s\u0103-i mu\u015fte!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Chiar dac\u0103 ar merge \u00een captivitate \u00een fa\u0163a du\u015fmanilor lor, \u015fi acolo voi porunci sabiei s\u0103-i ucid\u0103! \u00cemi voi a\u0163inti privirea asupra lor, ca s\u0103 le fac r\u0103u, \u015fi nu bine!\u201c"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "St\u0103p\u00e2nul, DOMNUL O\u015ftirilor, este Cel Ce atinge p\u0103m\u00e2ntul, \u015fi el se tope\u015fte, iar to\u0163i locuitorii lui jelesc. Tot ce este \u00een el se \u00eenvolbureaz\u0103 precum Nilul \u015fi se retrage ca R\u00e2ul Egiptului."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El este Cel Ce \u015ei-a zidit sc\u0103rile \u00een ceruri \u015fi \u015ei-a \u00eentemeiat bolta deasupra p\u0103m\u00e2ntului! El este Cel Ce cheam\u0103 apele m\u0103rii \u015fi le revars\u0103 pe suprafa\u0163a p\u0103m\u00e2ntului! DOMNUL este Numele Lui!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u201eIsraeli\u0163ilor, nu sunte\u0163i voi pentru Mine ca \u015fi cu\u015fi\u0163ii? zice DOMNUL. Nu l-am scos Eu pe Israel din \u0163ara Egiptului cum i-am scos pe filisteni din Caftor \u015fi pe aramei din Chir?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Iat\u0103, ochii St\u0103p\u00e2nului DOMN sunt peste regatul p\u0103c\u0103tos! \u00cel voi nimici de pe fa\u0163a p\u0103m\u00e2ntului! Totu\u015fi nu voi nimici de tot Casa lui Iacov, zice DOMNUL."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "C\u0103ci iat\u0103 c\u0103 Eu voi porunci \u015fi voi scutura Casa lui Israel \u00eentre toate neamurile, a\u015fa cum se scutur\u0103 ciurul, f\u0103r\u0103 s\u0103 cad\u0103 nici un bob pe p\u0103m\u00e2nt!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De sabie vor pieri to\u0163i p\u0103c\u0103to\u015fii din poporul Meu, to\u0163i cei ce zic: \u00abNu se va apropia de noi nenorocirea \u015fi nu ne va ajunge!\u00bb"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Restaurarea lui Israel - \u00cen ziua aceea, voi ridica cortul c\u0103zut al lui David. \u00cei voi repara cr\u0103p\u0103turile, \u00eei voi ridica ruinele \u015fi-l voi recl\u0103di a\u015fa cum era \u00een vremurile de odinioar\u0103,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "ca astfel s\u0103 ia \u00een st\u0103p\u00e2nire r\u0103m\u0103\u015fi\u0163a Edomului, precum \u015fi toate neamurile peste care este chemat Numele Meu\u201c, zice DOMNUL, Cel Care face aceste lucruri."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u201eIat\u0103, vin zile, zice DOMNUL, c\u00e2nd cel ce ar\u0103 \u00eel va ajunge pe cel ce culege, iar negustorul de struguri \u2013 pe cel ce \u00eempr\u0103\u015ftie s\u0103m\u00e2n\u0163a. Mun\u0163ii vor picura must, iar acesta se va scurge din toate dealurile."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00cei voi aduce \u00eenapoi pe captivii poporului Meu, Israel; ei vor rezidi cet\u0103\u0163ile pustiite \u015fi vor locui \u00een ele. Vor planta vii \u015fi vor bea din vinul lor; vor s\u0103di gr\u0103dini \u015fi vor m\u00e2nca din roadele lor."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Eu \u00eei voi s\u0103di \u00een patria lor \u015fi nu vor mai fi dezr\u0103d\u0103cina\u0163i din \u0163ara pe care le-am dat-o\u201c, zice DOMNUL, Dumnezeul t\u0103u."
+                }
+            }
+        }
+    }
+}

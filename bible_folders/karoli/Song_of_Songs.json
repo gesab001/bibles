@@ -1,0 +1,515 @@
+{
+    "version": "karoli",
+    "book_name": "Song of Songs",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": 1,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "\u00c9nekek \u00e9neke, mely Salamon\u00e9.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Cs\u00f3koljon meg engem az \u00f5 sz\u00e1j\u00e1nak cs\u00f3kjaival;\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "A te dr\u00e1ga kenetid j\u00f3k illatoz\u00e1sra;\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Vonj engemet te ut\u00e1nad, hadd fussunk!\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Fekete vagyok, de sz\u00e9p, Jeruzs\u00e1lem le\u00e1nyai;\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Ne n\u00e9zzetek engem, hogy \u00e9n fekete vagyok, hogy a nap les\u00fct\u00f6tt engem;\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Mondd meg n\u00e9kem, [te,] a kit az \u00e9n lelkem szeret,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Mivelhogy nem tudod, oh asszonyok k\u00f6z\u00f6tt legszebb!\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "A Fara\u00f3 szekereiben val\u00f3 parip\u00e1khoz hasonl\u00edtlak t\u00e9ged, \u00e9n m\u00e1tk\u00e1m.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Sz\u00e9pek a te orcz\u00e1id a [hal\u00e1nt\u00e9kra val\u00f3] l\u00e1nczokban,\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Arany l\u00e1nczokat csin\u00e1lunk n\u00e9ked,\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Mikor a kir\u00e1ly az \u00f5 asztal\u00e1n\u00e1l \u00fcl,\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "[Olyan] az \u00e9n szerelmesem n\u00e9kem, mint egy k\u00f6t\u00e9s mirha,\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "[Mint] az Engedi sz\u00f5l\u00f5iben a cziprusf\u00fcrt,\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "\u00cdm\u00e9, sz\u00e9p vagy \u00e9n m\u00e1tk\u00e1m, \u00edm\u00e9, sz\u00e9p vagy,\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "\u00cdm\u00e9, te [is] sz\u00e9p vagy \u00e9n szerelmesem, gy\u00f6ny\u00f6r\u00fbs\u00e9ges,\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "A mi h\u00e1zainknak gerend\u00e1i cz\u00e9drusf\u00e1k,\n"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": 2,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "\u00c9n S\u00e1ronnak r\u00f3zs\u00e1ja [vagyok,] \u00e9s a v\u00f6lgyek lilioma.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Mint a liliom a t\u00f6visek k\u00f6zt,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Mint az almafa az erd\u00f5nek f\u00e1i k\u00f6zt,\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Bevisz engem a boroz\u00f3 h\u00e1zba,\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Er\u00f5s\u00edtsetek engem sz\u00f5l\u00f5vel,\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Az \u00f5 balkeze az \u00e9n fejem alatt van,\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "K\u00e9nyszer\u00edtlek titeket, Jeruzs\u00e1lemnek le\u00e1nyai,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Az \u00e9n szerelmesemnek szav\u00e1t [hallom], \u00edm\u00e9, \u00f5 j\u00f5,\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Hasonlatos az \u00e9n szerelmesem az \u00f5zh\u00f6z, vagy a szarvasoknak fi\u00e1hoz.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Sz\u00f3la az \u00e9n szerelmesem n\u00e9kem, \u00e9s monda:\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Mert \u00edm\u00e9 a t\u00e9l elmult,\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Vir\u00e1gok l\u00e1ttatnak a f\u00f6ld\u00f6n,\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "A f\u00fcgefa \u00e9rleli els\u00f5 gy\u00fcm\u00f6lcs\u00e9t,\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "\u00c9n galambom, a k\u00f5szikl\u00e1nak hasad\u00e9kiban,\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Fogj\u00e1tok meg n\u00e9k\u00fcnk a r\u00f3k\u00e1kat, a r\u00f3kafiakat,\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Az \u00e9n szerelmesem eny\u00e9m, \u00e9s \u00e9n az \u00f6v\u00e9,\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "M\u00edglen megh\u00fbs\u00fcl a nap \u00e9s az \u00e1rny\u00e9kok elm\u00falnak:\n"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": 3,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Az \u00e9n \u00e1gyash\u00e1zamban \u00e9jjeleken keres\u00e9m azt, a kit szeret az \u00e9n lelkem,\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Imm\u00e1r felkelek \u00e9s elj\u00e1rom a v\u00e1rost,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Megtal\u00e1l\u00e1nak engem az \u00f5riz\u00f5k, a kik a v\u00e1rost ker\u00fclik. [Mond\u00e9k n\u00e9kik:]\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Alig mentem vala el azokt\u00f3l,\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "K\u00e9nyszer\u00edtelek titeket, Jeruzs\u00e1lemnek le\u00e1nyai,\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Kicsoda az, a ki felj\u00f5 a puszt\u00e1b\u00f3l,\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "\u00cdm\u00e9, ez a Salamon gyaloghintaja,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Mindny\u00e1jan fegyverfog\u00f3k, hadakoz\u00e1sban b\u00f6lcsek,\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "H\u00e1l\u00f3\u00e1gyat csin\u00e1lt mag\u00e1nak Salamon kir\u00e1ly\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Oszlopait ez\u00fcstb\u00f5l csin\u00e1lta,\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "J\u00f5jjetek ki, \u00e9s n\u00e9zz\u00e9tek, Sionnak le\u00e1nyai,\n"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": 4,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "\u00cdm\u00e9 sz\u00e9p vagy, \u00e9n m\u00e1tk\u00e1m, \u00edm\u00e9 sz\u00e9p vagy,\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "A te fogaid hasonl\u00f3k a megnyirt [juhok] ny\u00e1j\u00e1hoz,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Mint a karmazsin cz\u00e9rna, a te ajkaid,\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Hasonl\u00f3 a te nyakad a D\u00e1vid torny\u00e1hoz,\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "A te k\u00e9t eml\u00f5d [olyan,] mint k\u00e9t vadkecske,\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "M\u00edg megh\u00fbs\u00fcl a nap, \u00e9s elmulnak az \u00e1rny\u00e9kok,\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Mindenest\u00f5l sz\u00e9p vagy, \u00e9n m\u00e1tk\u00e1m,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "\u00c9n velem a Lib\u00e1nusr\u00f3l, \u00e9n jegyesem,\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Megsebes\u00edtetted az \u00e9n sz\u00edvemet, \u00e9n h\u00fagom, jegyesem,\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Mely igen sz\u00e9pek a te szerelmeid, \u00e9n h\u00fagom, jegyesem!\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Sz\u00ednm\u00e9zet csepegnek a te ajkaid, \u00e9n jegyesem,\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "[Olyan, mint a] berekesztett kert az \u00e9n h\u00fagom, jegyesem!\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "A te csemet\u00e9id gr\u00e1n\u00e1talm\u00e1s kert,\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "N\u00e1rdus \u00e9s s\u00e1fr\u00e1ny, j\u00f3illat\u00fa n\u00e1d \u00e9s fah\u00e9j,\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Kerteknek forr\u00e1sa, \u00e9l\u00f5 vizeknek k\u00fatfeje,\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Serkenj fel \u00e9szaki sz\u00e9l, \u00e9s j\u00f5jj el d\u00e9li sz\u00e9l,\n"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": 5,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Bementem az \u00e9n kertembe, \u00e9n h\u00fagom, jegyesem,\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "\u00c9n elaludtam, de lelkemben vigy\u00e1zok vala,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "[Felel\u00e9k \u00e9n:] Levetettem ruh\u00e1mat,\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Az \u00e9n szerelmesem kez\u00e9t benyujt\u00e1 az [ajt\u00f3nak] hasad\u00e9k\u00e1n,\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Felkel\u00e9k \u00e9n, hogy az \u00e9n szerelmesemnek megnyissam,\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Megnyit\u00e1m az \u00e9n szerelmesemnek;\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Megtal\u00e1l\u00e1nak engem az \u00f5riz\u00f5k, a kik a v\u00e1rost ker\u00fclik,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "K\u00e9nyszer\u00edtelek titeket, Jeruzs\u00e1lemnek le\u00e1nyai,\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Micsoda a te szerelmesed [egy\u00e9b] szerelmesek felett,\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Az \u00e9n szerelmesem fej\u00e9r \u00e9s piros,\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Az \u00f5 feje, [mint a] v\u00e1lasztott dr\u00e1ga megtiszt\u00edtott arany;\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Az \u00f5 szemei mint a v\u00edzfoly\u00e1s mellett val\u00f3 galambok,\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Az \u00f5 orcz\u00e1ja hasonlatos a dr\u00e1ga f\u00fcveknek t\u00e1bl\u00e1j\u00e1hoz,\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Az \u00f5 kezei aranyhengerek;\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Az \u00f5 sz\u00e1rai m\u00e1rv\u00e1nyoszlopok;\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Az \u00f5 \u00ednye \u00e9dess\u00e9gek,\n"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": 6,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Sz\u00e9p vagy \u00e9n m\u00e1tk\u00e1m, mint Tirsa [v\u00e1rosa,]\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Ford\u00edtsd el a te szemeidet \u00e9n t\u00f5lem,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "A te fogaid hasonl\u00f3k a juhok ny\u00e1j\u00e1hoz,\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Mint a pomagr\u00e1n\u00e1t darabja a te vakszemed,\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Hatvanan vannak a kir\u00e1lyn\u00e9k,\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "\u00c9s az \u00e9n galambom, az \u00e9n t\u00f6k\u00e9letesem,\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Kicsoda az, a ki \u00fagy l\u00e1ttatik mintegy hajnal,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "A di\u00f3f\u00e1s kertekbe mentem vala al\u00e1,\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Nem tudtam, hogy az \u00e9n elm\u00e9m \u00fcltete engem\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "T\u00e9rj meg, oh Sulamit!\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": " \n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": " \n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": " \n"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": 7,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Oh mely sz\u00e9pek a te l\u00e9p\u00e9seid a sarukban,\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "A te k\u00f6ld\u00f6k\u00f6d, mint a kerekded cs\u00e9sze,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "A te k\u00e9t eml\u00f5d, [mint] k\u00e9t \u00f5zike,\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "A te nyakad, mint az elef\u00e1nttetemb\u00f5l csin\u00e1lt torony;\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "A te fejed hasonl\u00f3 rajtad a K\u00e1rmelhez,\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Mely igen sz\u00e9p vagy \u00e9s mely kedves,\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Ez a te termeted hasonl\u00f3 a p\u00e1lmaf\u00e1hoz,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Azt mond\u00e1m: felh\u00e1gok a p\u00e1lmaf\u00e1ra,\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "\u00c9s a te \u00ednyed, mint a legjobb bor,\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "\u00c9n az \u00e9n szerelmesem\u00e9 vagyok,\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "No, \u00e9n szerelmesem, menj\u00fcnk ki a mez\u00f5re,\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Felkelv\u00e9n menj\u00fcnk a sz\u00f5l\u00f5kbe,\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "A mandrag\u00f3r\u00e1k illatoznak,\n"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": 8,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Vajha lenn\u00e9l n\u00e9kem \u00e9n aty\u00e1mfia, ki az \u00e9n any\u00e1mnak eml\u00f5j\u00e9t szopta,\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Elvinn\u00e9lek, bevinn\u00e9lek any\u00e1mnak h\u00e1z\u00e1ba,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Az \u00f5 balkeze az \u00e9n fejem alatt,\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "K\u00e9nyszer\u00edtlek titeket, Jeruzs\u00e1lemnek le\u00e1nyai,\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Kicsoda ez a ki felj\u00f5 a puszt\u00e1b\u00f3l,\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "T\u00e9gy engem mintegy pecs\u00e9tet a te sz\u00edvedre,\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Sok vizek el nem olthatn\u00e1k e szeretetet:\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Kicsiny h\u00fagunk van n\u00e9k\u00fcnk,\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Ha \u00f5 k\u00f5fal,\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "[Mikor] \u00e9n [olyan leszek, mint] a k\u00f5fal,\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Sz\u00f5l\u00f5je volt Salamonnak Ba\u00e1lhamonban,\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Az \u00e9n sz\u00f5l\u00f5mre, mely \u00e9n re\u00e1m n\u00e9z, n\u00e9kem gondom lesz:\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Oh te, a ki lakol a kertekben!\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Fuss \u00e9n szerelmesem,\n"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,657 @@
+{
+    "version": "MOUNCE",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Paul, an apostle of Christ Jesus by the will of God, to the saints who are in Ephesus, the faithful in Christ Jesus:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Grace to you and peace from God our Father and from the Lord Jesus Christ."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "even as he chose us in him before the creation of the world to be holy and blameless before him. In love"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "he predestined us for adoption as his own sons through Jesus Christ, according to the good pleasure of his will,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "to the praise of his glorious grace with which he has highly favored us in the Beloved."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "In him we have received redemption through his blood, the forgiveness of our trespasses, according to the rich benefits of his grace,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "which he lavished on us in all wisdom and insight."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "He has made known to us the mystery of his will, according to his good pleasure, which he purposed in Christ,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "as a plan for the fullness of time, to bring everything together in Christ, things in heaven and things on earth."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "In Christ we have obtained an inheritance, having been predestined according to the purpose of him who accomplishes all things according to the counsel of his will,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "so that we, who have already set our hope in Christ, might be for the praise of his glory."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "You also are in him, having heard the word of truth, the good news of your salvation; in him also, when you believed, you were marked with the seal of the promised Holy Spirit,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "which is the guarantee of our inheritance vouching for God\u2019s redemption of his possession, to the praise of his glory."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "For this reason, having heard about your faith in the Lord Jesus and the love you extend to all the saints,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "I do not cease giving thanks for you, making mention of you in my prayers,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and revelation by coming to know more of him."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "I pray that, with the eyes of your heart enlightened, you may comprehend the hope to which he has called you, what are the rich benefits of his glorious inheritance among the saints,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "and what is the incomparable greatness of his power available for us who believe, according to the exercise of his mighty strength,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "which he accomplished in Christ when he raised him from the dead and seated him at his right hand in the heavenly realms,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "infinitely superior to every ruler, authority, power, or dominion\u2014every name that can be named\u2014not only in this age but also in the age to come."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "And he placed all things under Christ\u2019s feet and gave him as head over all things to the church,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "which is his body, the fullness of the one who fills all things in every way."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "And you were dead by reason of your trespasses and sins,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "in which you once lived according to the course of this world, according to the ruler of the realm of the air, of the spirit that is now energizing the sons of disobedience."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Among them we also all once lived in the passions of our flesh, gratifying the desires and impulses of the flesh, and were by nature children of wrath, just like everyone else."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "But God, being rich in mercy, because of his great love with which he loved us,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "even though we were dead in our trespasses, made us alive together with Christ\u2014by grace you have been saved\u2014"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "and raised us up with him and seated us with him in the heavenly places in Christ Jesus,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "to demonstrate in the ages to come the incomparable riches of his grace in kindness to us in Christ Jesus."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "For by grace you have been saved through faith, and this is not of yourselves, it is the gift of God;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "it is not of works, so that no one may boast."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "For we are his work, created in Christ Jesus for good works, which God prepared in advance that we should do them."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "So remember that at one time you Gentiles in the flesh, called the uncircumcision by those called the circumcision\u2014made in the flesh by hands\u2014"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "remember that at that time you were apart from Christ, excluded from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "But now in Christ Jesus you who were at that time far away have come near through the blood of Christ."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "For he is our peace, who has made us both one and has broken down the dividing wall, having abolished in his flesh the hostility,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "the law of commandments and regulations, so as to create in himself one new man from the two, thus making peace,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "and to reconcile both to God in one body through the cross, having put the hostility to death in himself."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "And he came and preached the good news of peace to you who were far off and of peace to those who were near;"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "for through him we both have access by the one Spirit to the Father."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "built on the foundation of the apostles and prophets, the cornerstone being Christ Jesus himself,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "in whom the whole structure, being joined together, grows into a holy temple in the Lord,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "in whom you also are being built together into a dwelling place for God by the Spirit."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "For this reason I, Paul, a prisoner of Christ Jesus for the sake of you Gentiles\u2014"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "assuming that you have heard about the stewardship of the grace of God that was given to me for you,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "that by revelation the mystery was made known to me, as I have already written briefly."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Accordingly, when you read this you will be able to understand my insight into the mystery of Christ,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "which was not made known to the sons of men in other generations as it has now been revealed to his holy apostles and prophets by the Spirit,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "namely, that the Gentiles are joint heirs, fellow members of the body and sharers together in the promise in Christ Jesus through the gospel."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Of this gospel I became a servant according to the gift of God\u2019s grace, which was given to me by the exercise of his power."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "To me, the very least of all the saints, this grace was given: to preach to the Gentiles the unsearchable riches of Christ,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "and to make it plain to all what is the administration of the mystery, which was kept hidden for ages in God who created all things,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "in order that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "according to the eternal purpose that he accomplished in Christ Jesus our Lord,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "in whom we have boldness and confident access through faith in him."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I ask you, therefore, not to be discouraged because of my sufferings on your behalf, which are your glory."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "For this reason I bow my knees before the Father,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "from whom every family in heaven and on earth derives its name,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "in order that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "that Christ may dwell in your hearts through faith, rooted and grounded in love,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "in order that you may be empowered to grasp with all the saints what is the breadth and length and height and depth,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fullness of God."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Now to the one who is able to do far more abundantly beyond all that we ask or imagine, according to the power that is working within us,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "to him be glory in the church and in Christ Jesus throughout all generations, forever and ever! Amen."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "I therefore, the prisoner in the Lord, exhort you to lead a life worthy of the calling with which you were called,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "with all humility and gentleness, with patience, bearing with one another in love,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "making every effort to preserve the unity of the Spirit by the bond of peace."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "There is one body and one Spirit, just as you also were called to the one hope of your calling;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "one Lord, one faith, one baptism;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "one God and Father of all, who is above all and through all and in all."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "But to each one of us grace was given according to the measure of the gift of Christ."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Therefore it says, \u201cWhen he ascended on high he led a host of prisoners captive; he gave gifts to men.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Now the expression \u201che ascended,\u201d what does it imply except that he also descended to the lower regions, to the earth?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "He who descended is himself the one who also ascended far above all the heavens, so that he might fill all things."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "And it was he who gave the apostles, the prophets, the evangelists, the pastors and teachers,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "to equip the saints for the work of ministry, to build up the body of Christ,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature adulthood, to the measure of the stature of the fullness of Christ,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "so that we may no longer be children, tossed to and fro and blown about by every wind of doctrine, by human cunning, by craftiness in deceitful scheming;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "but, speaking the truth in love, may grow up in every way into him who is the head, Christ,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "from whom the whole body, joined and brought together by every supporting ligament, according to the working of each individual part, makes the body grow so that it builds itself up in love."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Now this I say and testify in the Lord, that you are no longer to live as the Gentiles live, in the futility of their minds,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "being darkened in their understanding, separated from the life of God because of the ignorance that is in them due to the hardening of their hearts."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Having lost all feeling of shame, they have given themselves over to debauchery for the practice of every kind of impurity with covetousness."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "But that is not the way you learned Christ!\u2014"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "assuming that you have heard of him and were taught in him, as the truth is in Jesus."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Regarding your former way of life, you were taught to put away your old self, which is being corrupted and deluded by its desires,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "and to be renewed in the spirit of your minds."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "And to put on the new self, created in God\u2019s likeness, in the righteousness and holiness that come from the truth."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Therefore put off falsehood and let each one speak the truth with his neighbor, for we are members of one another."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "If you get angry, do not sin; do not allow the sun to go down on your anger"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "and do not give an opportunity to the devil."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Let the thief no longer steal, but rather let him work hard, doing good with his own hands, so that he may have something to share with the one in need."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Let no evil talk come out of your mouth, but only what is useful for building up, as the need arises, that it may benefit those who hear."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "And do not grieve the Holy Spirit of God, in whom you were sealed for the day of redemption."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Let all bitterness and wrath and anger and clamor and slander be removed from you, along with all malice."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Instead, be kind to one another, tenderhearted, forgiving one another, just as God in Christ forgave you."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Therefore be imitators of God as his dear children,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "and live in love, just as Christ loved us and gave himself for us as a fragrant offering and sacrifice to God."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "But sexual immorality and every kind of impurity or covetousness must not even be mentioned among you, as is proper among the saints;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "nor obscenity, foolish talk, or coarse joking, which are not fitting, but rather thanksgiving."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "For you may be sure of this, that no fornicator or impure or covetous person (such a one is an idolater) has any inheritance in the kingdom of Christ and of God."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Therefore do not become partners with them;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "for once you were darkness, but now you are light in the Lord. Live as children of light"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "(for the fruit of light consists in all goodness, righteousness, and truth),"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "always trying to discern what is pleasing to the Lord."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "And do not take part in the fruitless deeds of darkness but instead expose them,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "for it is shameful even to speak of what is done by them in secret."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "But everything that is exposed becomes illuminated by the light,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "for everything that becomes illuminated is light. Therefore it says, \u201cWake up, sleeper, and rise from the dead, and Christ will shine on you.\u201d"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "So be very careful how you live, not as unwise people but as wise,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "making the most of the time, because the days are evil."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Therefore do not be foolish, but understand what the will of the Lord is."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "And do not get drunk with wine, in which is debauchery; instead, be filled with the Spirit,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "speaking to one another in psalms and hymns and songs inspired by the Spirit; singing and making melody in your heart to the Lord,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "giving thanks in the name of our Lord Jesus Christ to God the Father at all times and for everything."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Be subject to one another out of reverence for Christ."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Wives, be subject to your husbands as to the Lord,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "for the husband is the head of the wife as Christ also is the head of the church, and is himself the savior of the body."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "But as the church is subject to Christ, so also should wives be subject to their husbands in everything."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Husbands, love your wives, just as Christ loved the church and gave himself up for her,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "that he might sanctify her, cleansing her by the washing of water through the word,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "so that he might present the church to himself in splendor, not having spot or wrinkle or any such thing, but that she might be holy and without blemish."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "In the same way husbands also should love their wives as their own bodies. He who loves his wife loves himself,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "for no one ever hates his own body but nourishes and takes care of it, just as Christ does the church,"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "since we are members of his body."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "\u201cFor this reason a man shall leave his father and his mother and be joined to his wife, and the two shall become one flesh.\u201d"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "This mystery is profound, but I am speaking about Christ and about the church."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Nevertheless, each one of you is to love his wife as he loves himself, and the wife is to respect her husband."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Children, obey your parents in the Lord, for this is right."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201cHonor your father and mother\u201d\u2014which is the first commandment with a promise\u2014"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u201cthat it may go well with you and that you may live in the land for a long time.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "And fathers, do not provoke your children to anger, but raise them up in the discipline and admonition of the Lord."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Slaves, obey your earthly masters with fear and trembling, with sincerity of your heart, as though obeying Christ,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "not by way of eye-service, as people-pleasers, but as slaves of Christ doing the will of God from the heart,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "serving with enthusiasm as though serving the Lord and not men,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "knowing that each person, if he does something good, will be repaid by the Lord for this, whether he is a slave or free."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "And masters, do the same to them, giving up the use of threats, knowing that the one who is both their master and yours is in heaven, and that there is no favoritism with him."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Finally, grow strong in the Lord and in the strength of his power."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Put on the full armor of God, so that you may be able to stand against the schemes of the devil;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "for our struggle is not against flesh and blood, but against the rulers, against the authorities, against the world rulers of this darkness, against the spiritual forces of evil in the heavenly realms."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Therefore take up the full armor of God, so that you may be able to stand your ground on the evil day, and having done everything, to stand."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Stand therefore, by girding your waist with truth, by putting on the breastplate of righteousness,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "by fitting your feet with the readiness of the gospel of peace;"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "and besides all these, by taking up the shield of faith, with which you will be able to extinguish all the flaming arrows of the evil one."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "By means of all prayer and petition, pray at every time in the Spirit, and to this end keep alert with all perseverance and petition for all the saints,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "and for me, that when I open my mouth the word will be given to me\u2014that with boldness I will make known the mystery of the gospel,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "for which I am an ambassador in chains. Pray that I may declare it boldly, as I ought to speak."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Now in order that you also may know my circumstances, how I am doing, Tychicus, a dear brother and faithful servant in the Lord, will tell you everything."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "I am sending him to you for this very purpose, that you may know how we are, and that he may encourage your hearts."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Grace be with all who love our Lord Jesus Christ, with love incorruptible."
+                }
+            }
+        }
+    }
+}

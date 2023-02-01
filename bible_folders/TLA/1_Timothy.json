@@ -1,0 +1,489 @@
+{
+    "version": "TLA",
+    "book_name": "1 Timothy",
+    "book_nr": "54",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Saludo - Querido Timoteo: Te env\u00edo mis saludos. Yo, Pablo, soy ap\u00f3stol de Jesucristo, pues Dios nuestro Salvador, y Cristo Jes\u00fas, nuestra esperanza, me enviaron a comunicar su mensaje. Para m\u00ed, t\u00fa eres como un hijo. Por eso les pido a Dios nuestro Padre y a Jesucristo nuestro Se\u00f1or, que te amen mucho, que te ayuden en todo, y que te den su paz."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Saludo - Querido Timoteo: Te env\u00edo mis saludos. Yo, Pablo, soy ap\u00f3stol de Jesucristo, pues Dios nuestro Salvador, y Cristo Jes\u00fas, nuestra esperanza, me enviaron a comunicar su mensaje. Para m\u00ed, t\u00fa eres como un hijo. Por eso les pido a Dios nuestro Padre y a Jesucristo nuestro Se\u00f1or, que te amen mucho, que te ayuden en todo, y que te den su paz."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00a1Cuidado con las falsas ense\u00f1anzas! - Cuando me fui a la regi\u00f3n de Macedonia, te ped\u00ed que te quedaras en la ciudad de \u00c9feso. Y ahora te lo vuelvo a pedir. All\u00ed hay ciertas personas que imparten ense\u00f1anzas falsas. Ord\u00e9nales que no lo hagan m\u00e1s."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Diles que no pierdan el tiempo estudiando historias falsas y las interminables listas de sus antepasados. Los que se interesan en esas cosas discuten por nada, y eso no los ayuda a conocer los planes de Dios. Esos planes s\u00f3lo podemos conocerlos si confiamos en \u00e9l."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Te pido que les ense\u00f1es a amar de verdad. S\u00f3lo los que tienen la conciencia tranquila, y conf\u00edan sinceramente en Dios, pueden amar as\u00ed."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Algunos han dejado esa clase de amor y pierden su tiempo en discusiones tontas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pretenden ser maestros de la Ley, y se sienten muy seguros de lo que dicen y ense\u00f1an, pero ni ellos mismos saben de qu\u00e9 est\u00e1n hablando."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Todos sabemos que la ley es buena, siempre y cuando se use correctamente."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tambi\u00e9n sabemos que las leyes no se dan para los que hacen lo bueno, sino para los que hacen lo malo. Son para los rebeldes, los desobedientes, los pecadores y los que no respetan a Dios ni a la religi\u00f3n. Tambi\u00e9n son para los que matan a sus semejantes, y hasta a sus propios padres y madres."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Son para los que tienen relaciones sexuales prohibidas y para los hombres que tienen relaciones sexuales con otros hombres; para los secuestradores y los mentirosos, y para los que juran decir la verdad pero luego mienten. En fin, las leyes son para corregir a los que no est\u00e1n de acuerdo con la correcta ense\u00f1anza"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "del maravilloso mensaje que nuestro Dios bendito me ha encargado ense\u00f1ar."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pablo da gracias a Jesucristo - Le doy gracias a nuestro Se\u00f1or Jesucristo, porque ha confiado en m\u00ed y me ha dado fuerzas para trabajar por \u00e9l."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Antes yo ofend\u00eda a Jesucristo, lo persegu\u00eda y lo insultaba. Aun as\u00ed, \u00e9l confi\u00f3 en m\u00ed. Y es que Dios fue bueno conmigo y me perdon\u00f3, pues yo todav\u00eda no cre\u00eda en Cristo ni sab\u00eda lo que estaba haciendo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nuestro Dios me am\u00f3 mucho y me perdon\u00f3: por medio de Jesucristo me dio confianza y amor."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Esto es verdad, y todos deben creerlo: Jesucristo vino a este mundo para salvar a los pecadores del castigo que merecen, \u00a1y yo soy el peor pecador de todos! Pero Dios fue bueno y me salv\u00f3. As\u00ed demostr\u00f3 la gran paciencia que Jesucristo tuvo conmigo. Lo hizo para que otros sigan mi ejemplo, y conf\u00eden en Cristo para tener vida eterna."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Esto es verdad, y todos deben creerlo: Jesucristo vino a este mundo para salvar a los pecadores del castigo que merecen, \u00a1y yo soy el peor pecador de todos! Pero Dios fue bueno y me salv\u00f3. As\u00ed demostr\u00f3 la gran paciencia que Jesucristo tuvo conmigo. Lo hizo para que otros sigan mi ejemplo, y conf\u00eden en Cristo para tener vida eterna."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00a1Alabemos y honremos siempre al Rey eterno, al Dios \u00fanico e invisible, que vive por siempre! Am\u00e9n."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Timoteo, hijo m\u00edo, las cosas que te pido hacer est\u00e1n de acuerdo con las profec\u00edas que se dijeron acerca de ti. Si cumples con ellas, ser\u00e1s como un buen soldado que sabe pelear."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ser\u00e1s un soldado que conf\u00eda en Dios, y a quien no se le puede acusar de nada malo. Algunas personas, como Himeneo y Alejandro, dejaron de confiar en Dios. Por eso no les permit\u00ed seguir en la iglesia, para que Satan\u00e1s haga con ellos lo que quiera, y as\u00ed aprendan a no insultar a Dios."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ser\u00e1s un soldado que conf\u00eda en Dios, y a quien no se le puede acusar de nada malo. Algunas personas, como Himeneo y Alejandro, dejaron de confiar en Dios. Por eso no les permit\u00ed seguir en la iglesia, para que Satan\u00e1s haga con ellos lo que quiera, y as\u00ed aprendan a no insultar a Dios."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "C\u00f3mo orar en la iglesia - En primer lugar, recomiendo orar por todo el mundo, dando gracias a Dios por todos y pidi\u00e9ndole que les muestre su bondad y los ayude."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Recomiendo que se ore por los gobernantes y por todas las autoridades, para que podamos vivir en paz y tranquilos, obedeciendo a Dios y llev\u00e1ndonos bien con los dem\u00e1s."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Esta clase de oraci\u00f3n es buena y le agrada a Dios, nuestro Salvador;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "pues \u00e9l quiere que todos se salven y sepan que:"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "S\u00f3lo hay un Dios, y s\u00f3lo hay uno que puede ponernos en paz con Dios: Jesucristo, el hombre."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jes\u00fas dio su propia vida para salvar a todo el mundo. En el momento oportuno, Dios nos demostr\u00f3 que quiere salvar a todos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dios me envi\u00f3 a dar esta buena noticia a los que no son jud\u00edos. Debo ense\u00f1arles la verdad y lo que significa confiar en Dios. \u00a1Les aseguro que no estoy mintiendo, sino que digo la verdad!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Deseo que en todas partes los varones dejen de discutir y de enojarse, y que en vez de eso sean buenos cristianos y oren."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tambi\u00e9n deseo que las mujeres se vistan con sencillez, decencia y modestia. Que no usen peinados exagerados, ni joyas de oro o adornos de perlas ni ropa muy cara."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "M\u00e1s bien, que se preocupen por hacer lo bueno, como se espera de las mujeres que aman y respetan a Dios."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Quiero que las mujeres aprendan en silencio lo que se les ense\u00f1e, y que sean obedientes."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Y no permito que las mujeres ense\u00f1en en las reuniones de la iglesia, ni que les den \u00f3rdenes a los hombres."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Porque Dios cre\u00f3 primero a Ad\u00e1n, y despu\u00e9s a Eva."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Adem\u00e1s, Ad\u00e1n no fue el enga\u00f1ado por Satan\u00e1s, sino Eva. Y cuando Eva fue enga\u00f1ada, pec\u00f3."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sin embargo, las mujeres se salvar\u00e1n si tienen hijos, si conf\u00edan en Jesucristo, y si aman a los dem\u00e1s y viven con modestia y santidad."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los l\u00edderes de la iglesia - Si alguien desea dirigir una iglesia, realmente desea un buen trabajo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pero debe ser alguien a quien no se le pueda acusar de nada malo. Debe tener una sola esposa, controlar todos sus deseos, y pensar dos veces lo que va a hacer. Debe comportarse correctamente, recibir con gusto en su hogar a los visitantes, y saber ense\u00f1ar."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "No debe ser borracho ni violento, ni buscar pelea. Al contrario, debe ser amable y tranquilo, y no estar preocupado s\u00f3lo por el dinero."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Adem\u00e1s, debe gobernar bien a su propia familia y educar a sus hijos, para que sean obedientes y respetuosos."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Porque si no puede gobernar a su propia familia, tampoco podr\u00e1 gobernar a la iglesia de Dios."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Y no debe ser alguien con poco tiempo de haber cre\u00eddo en Jesucristo, pues puede volverse orgulloso, y entonces recibir\u00e1 el mismo castigo que Satan\u00e1s."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Por \u00faltimo, debe contar con el respeto de la gente que no cree en Jesucristo, para que nunca pase verg\u00fcenza delante de ellos ni caiga en alguna trampa de Satan\u00e1s."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los di\u00e1conos de la iglesia - Los di\u00e1conos deben ser gente respetable; no deben mentir ni beber mucho vino, ni hacer trampa en los negocios."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Adem\u00e1s, deben creer siempre en todo el mensaje de la buena noticia que Dios nos ha dado, y tener la conciencia tranquila."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Deben tener una sola esposa, y dirigir bien a sus hijos y a toda su familia. Las mujeres tambi\u00e9n deben ser respetables. No deben ser chismosas, sino m\u00e1s bien serias y fieles en todo. Los que quieran ser di\u00e1conos ser\u00e1n puestos a prueba. Si no hay nada de qu\u00e9 acusarlos, y pasan la prueba, trabajar\u00e1n en la iglesia."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Deben tener una sola esposa, y dirigir bien a sus hijos y a toda su familia. Las mujeres tambi\u00e9n deben ser respetables. No deben ser chismosas, sino m\u00e1s bien serias y fieles en todo. Los que quieran ser di\u00e1conos ser\u00e1n puestos a prueba. Si no hay nada de qu\u00e9 acusarlos, y pasan la prueba, trabajar\u00e1n en la iglesia."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Deben tener una sola esposa, y dirigir bien a sus hijos y a toda su familia. Las mujeres tambi\u00e9n deben ser respetables. No deben ser chismosas, sino m\u00e1s bien serias y fieles en todo. Los que quieran ser di\u00e1conos ser\u00e1n puestos a prueba. Si no hay nada de qu\u00e9 acusarlos, y pasan la prueba, trabajar\u00e1n en la iglesia."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Los que hagan bien su trabajo como di\u00e1conos tendr\u00e1n buena fama, y se ganar\u00e1n el respeto y la confianza de todos en la iglesia de Cristo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "La gran verdad - Espero visitarte pronto. Pero te escribo todo esto,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "por si acaso no llego a tiempo. As\u00ed sabr\u00e1s c\u00f3mo debemos comportarnos los que pertenecemos a la iglesia, que es la familia del Dios vivo. La iglesia sostiene y defiende la verdad."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "No hay duda de que es muy profunda la verdad de la religi\u00f3n cristiana: Cristo vino al mundo como ser humano. El Esp\u00edritu lo declar\u00f3 inocente. Los \u00e1ngeles lo vieron. Su mensaje se anunci\u00f3 entre las naciones, y el mundo crey\u00f3 en \u00e9l. Fue llevado al cielo y Dios lo colm\u00f3 de honores."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Las falsas ense\u00f1anzas - El Esp\u00edritu Santo ha dicho claramente que, en los \u00faltimos tiempos, algunas personas dejar\u00e1n de confiar en Dios. Ser\u00e1n enga\u00f1adas por esp\u00edritus mentirosos y obedecer\u00e1n ense\u00f1anzas de demonios."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Le har\u00e1n caso a gente hip\u00f3crita y mentirosa, incapaz de sentir verg\u00fcenza de nada."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Esa gente proh\u00edbe casarse y comer ciertos alimentos. Pero Dios cre\u00f3 todos los alimentos para que nosotros los comamos y le demos las gracias por ellos. Los cre\u00f3 para todos los que confiamos en \u00e9l y conocemos la verdad."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Porque todo lo que Dios ha creado es bueno, y podemos comer de todo sin rechazar nada, si le damos las gracias."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Por tanto, podemos comerlos porque Dios as\u00ed lo ha dicho, y porque nosotros hemos orado por esos alimentos."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Instrucciones para Timoteo - Si ense\u00f1as la verdad a los miembros de la iglesia, ser\u00e1s un buen servidor de Jesucristo. Estudiar y obedecer las ense\u00f1anzas cristianas, como t\u00fa lo haces, es lo mismo que alimentarse bien."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "No prestes atenci\u00f3n a historias falsas, que la gente inventa. M\u00e1s bien, esfu\u00e9rzate por ser un buen disc\u00edpulo de Jesucristo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Es verdad que el ejercicio f\u00edsico ayuda a que todo el cuerpo est\u00e9 sano, pero es mucho mejor esforzarse por confiar cada vez m\u00e1s en Dios, porque nos hace bien aqu\u00ed en la tierra y tambi\u00e9n nos servir\u00e1 cuando vivamos en el cielo. Esto es una verdad que podemos creer, y debemos creer."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Es verdad que el ejercicio f\u00edsico ayuda a que todo el cuerpo est\u00e9 sano, pero es mucho mejor esforzarse por confiar cada vez m\u00e1s en Dios, porque nos hace bien aqu\u00ed en la tierra y tambi\u00e9n nos servir\u00e1 cuando vivamos en el cielo. Esto es una verdad que podemos creer, y debemos creer."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Por eso nos esforzamos tanto, pues confiamos firmemente en Dios. \u00c9l vive para siempre y es el Salvador de todos, especialmente de los que conf\u00edan en \u00e9l."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ense\u00f1a estas cosas, y diles a todos que las obedezcan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "No permitas que nadie te desprecie por ser joven. Al contrario, trata de ser un ejemplo para los dem\u00e1s cristianos. Que cuando todos oigan tu modo de hablar, y vean c\u00f3mo vives, traten de ser puros como t\u00fa. Que todos imiten tu car\u00e1cter amoroso y tu confianza en Dios."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mientras llego a visitarte, sigue ley\u00e9ndoles la Biblia a los miembros de la iglesia, y no dejes de animarlos ni de ense\u00f1arles."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "No dejes de usar las capacidades especiales que Dios te dio cuando los l\u00edderes de la iglesia pusieron sus manos sobre tu cabeza. El Esp\u00edritu Santo habl\u00f3 con ellos y les orden\u00f3 hacerlo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Haz todo eso y dedica tiempo para ello, para que todos vean que cada d\u00eda eres mejor."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Timoteo, comp\u00f3rtate como es debido, y ten cuidado de lo que ense\u00f1as. Sigue haciendo esto, y no s\u00f3lo te salvar\u00e1s a ti mismo, sino que tambi\u00e9n salvar\u00e1s a los que te escuchen."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "C\u00f3mo tratar a los dem\u00e1s - Cuando corrijas a un anciano, no lo rega\u00f1es; al contrario, acons\u00e9jalo como si fuera tu propio padre. Trata a las ancianas como a tu propia madre, a los j\u00f3venes como a tus hermanos, y a las j\u00f3venes como a tus hermanas, es decir, con todo respeto."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "C\u00f3mo tratar a los dem\u00e1s - Cuando corrijas a un anciano, no lo rega\u00f1es; al contrario, acons\u00e9jalo como si fuera tu propio padre. Trata a las ancianas como a tu propia madre, a los j\u00f3venes como a tus hermanos, y a las j\u00f3venes como a tus hermanas, es decir, con todo respeto."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ayuda a las viudas que de veras necesiten ayuda."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pero si alguna viuda tiene hijos o nietos, son ellos los primeros que deben ayudarla en todo lo que necesite, as\u00ed como antes ella los cuid\u00f3 y los ayud\u00f3. Esto es lo que Dios quiere que se haga."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "La viuda que realmente se ha quedado sola, conf\u00eda en Dios y le pide su ayuda de d\u00eda y de noche."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pero la viuda que s\u00f3lo piensa en divertirse est\u00e1 muerta en vida."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Por eso, ord\u00e9nales a todos que hagan lo que te he dicho, para que nadie pueda criticarlos."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Quien no cuida de sus parientes, y especialmente de su familia, no se porta como un cristiano; es m\u00e1s, tal persona es peor que quien nunca ha cre\u00eddo en Dios."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Para que una viuda est\u00e9 en la lista de ayuda de la iglesia, debe tener por lo menos sesenta a\u00f1os de edad y haber estado casada una sola vez."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tambi\u00e9n debe ser conocida por sus buenas obras. Por ejemplo, tiene que haber criado bien a sus hijos y a sus hijas, haber recibido bien a quienes visitaron su casa, haber sido humilde con los miembros de la iglesia, y haber ayudado a los que sufren. Es decir, en esa lista deben estar las que hayan hecho lo bueno."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "No pongas en esa lista a las viudas de menos edad, porque m\u00e1s tarde quieren volver a casarse, se oponen a Cristo, y dejan de cumplir su promesa de no casarse y de trabajar en la iglesia. \u00a1Y Dios tendr\u00e1 que castigarlas!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "No pongas en esa lista a las viudas de menos edad, porque m\u00e1s tarde quieren volver a casarse, se oponen a Cristo, y dejan de cumplir su promesa de no casarse y de trabajar en la iglesia. \u00a1Y Dios tendr\u00e1 que castigarlas!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Adem\u00e1s, se vuelven perezosas y se acostumbran a andar de casa en casa para llevar y traer chismes, y para meterse en asuntos ajenos y hablar de lo que no deben."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Por eso, quiero que las viudas j\u00f3venes se vuelvan a casar, y que tengan hijos y se ocupen de cuidar a su familia. As\u00ed los que no creen en Jesucristo no podr\u00e1n criticarnos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Y es que algunas de ellas ya han dejado de confiar en Cristo, y ahora obedecen a Satan\u00e1s."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Si alguna mujer cree en Jesucristo, y en su familia hay alguna viuda, debe ayudarla. De este modo la iglesia tendr\u00e1 una responsabilidad menos y podr\u00e1 ayudar a las viudas que realmente lo necesiten."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Los l\u00edderes de la iglesia que hacen bien su trabajo merecen que se les pague el doble, especialmente los que anuncian y ense\u00f1an la buena noticia."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Porque la Biblia dice: \u00abNo impidan que el buey coma mientras desgrana el trigo\u00bb, y tambi\u00e9n dice: \u00abQuien trabaja merece que se le pague.\u00bb"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Cuando alguien acuse a un l\u00edder, p\u00eddele que presente a dos o tres testigos. Si no lo hace, no le prestes atenci\u00f3n."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Si alguno de los l\u00edderes sigue pecando, corr\u00edgelo ante toda la iglesia, para que los dem\u00e1s tengan miedo y no hagan lo mismo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Dios, y Jesucristo, y todos los \u00e1ngeles que Dios ha elegido, est\u00e1n escuchando lo que te voy a decir: Obedece todo lo que te he ordenado hacer y s\u00e9 justo con todos, sin tener favoritos."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Antes de nombrar a alguien para el servicio a Dios, pi\u00e9nsalo bien. Porque, si esa persona hace algo malo, t\u00fa ser\u00e1s tambi\u00e9n responsable de lo que haga. T\u00fa mismo debes apartarte del mal."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Como casi siempre est\u00e1s enfermo del est\u00f3mago, no bebas s\u00f3lo agua, sino tambi\u00e9n un poco de vino."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Algunas veces podemos darnos cuenta de que una persona est\u00e1 pecando, aun antes de que se le juzgue. Pero otras veces no nos damos cuenta hasta mucho despu\u00e9s."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Lo mismo pasa con las buenas acciones. Algunas se ven con facilidad, pero otras no. Sin embargo, ninguna de ellas quedar\u00e1 oculta."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los miembros de la iglesia que sean esclavos deben respetar en todo a sus amos, para que nadie hable mal de Dios ni de las ense\u00f1anzas cristianas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Y los que tengan amos cristianos no deben dejar de obedecerlos s\u00f3lo porque ambos son cristianos. Al contrario, deben hacer bien su trabajo, y a\u00fan mejor, pues lo est\u00e1n haciendo para alguien a quien aprecian y que tambi\u00e9n conf\u00eda en Dios. Las falsas ense\u00f1anzas y el dinero - A los miembros de la iglesia, y a sus l\u00edderes, ens\u00e9\u00f1ales que deben obedecer lo que te voy a decir:"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Si alguien ense\u00f1a algo que no va de acuerdo con las ense\u00f1anzas de nuestro Se\u00f1or Jesucristo, ni con la verdadera religi\u00f3n cristiana,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "es un orgulloso que no sabe nada, y que tiene la mala costumbre de discutir sobre el significado de ciertas palabras. Con esto s\u00f3lo causa envidias, enojos, insultos, desconfianza"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "y peleas en todo momento. Los que hacen eso no son capaces de pensar bien ni conocen la verdad; piensan que, por medio de la religi\u00f3n, pueden ganar mucho dinero."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Por supuesto, la religi\u00f3n cristiana hace que nuestra vida sea mucho mejor, pero s\u00f3lo cuando uno est\u00e1 contento con lo que tiene."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Porque, cuando nacimos no trajimos nada al mundo, y cuando muramos tampoco podremos llevarnos nada."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "As\u00ed que debemos estar contentos de que tenemos ropa y comida."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pero los que s\u00f3lo piensan en ser ricos caen en las trampas de Satan\u00e1s. Son tentados a hacer cosas tontas y perjudiciales, que terminan por destruirlos totalmente."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Porque todos los males comienzan cuando s\u00f3lo se piensa en el dinero. Por el deseo de amontonarlo, muchos se olvidaron de obedecer a Dios y acabaron por tener muchos problemas y sufrimientos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Recomendaciones y despedida - Pero t\u00fa, Timoteo, est\u00e1s al servicio de Dios. Por eso, al\u00e9jate de todo lo malo. Trata siempre de obedecer a Dios y de ser un buen disc\u00edpulo de Jesucristo. No dejes de confiar en \u00e9l, y ama a todos los hermanos de la iglesia. Cuando enfrentes dificultades, ten paciencia y s\u00e9 amable con los dem\u00e1s."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Imita al deportista, que se esfuerza por ganar la competencia: haz todo lo posible por ser un buen disc\u00edpulo de Jesucristo, y recibir\u00e1s el premio de la vida eterna. Dios te llam\u00f3 y te prometi\u00f3 esa vida cuando, delante de mucha gente, anunciaste que hab\u00edas confiado en Dios."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Delante de Dios, que cre\u00f3 todo lo que existe, y delante de Jesucristo, que ante Pilato dio buen testimonio de su confianza en Dios,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "te pido que obedezcas todo lo que te ordeno, para que nadie pueda acusarte de nada. Haz esto hasta que vuelva nuestro Se\u00f1or Jesucristo,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "quien vendr\u00e1 en el momento oportuno, cuando nuestro maravilloso Dios as\u00ed lo quiera. Porque Dios es el \u00fanico que gobierna sobre todos; Dios es el m\u00e1s grande de los reyes y el m\u00e1s poderoso de los gobernantes."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Dios es el \u00fanico que vive para siempre, y vive en una luz tan brillante que nadie puede acercarse a \u00e9l. Nadie lo ha visto ni puede verlo. \u00a1El honor y el poder son de \u00e9l para siempre! Am\u00e9n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Advi\u00e9rteles a los ricos de este mundo que no sean orgullosos ni conf\u00eden en sus riquezas, porque es muy f\u00e1cil perder todo lo que se tiene. Al contrario, diles que conf\u00eden en Dios, pues \u00e9l es bueno, y nos da todo lo que necesitamos para que lo disfrutemos."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "M\u00e1ndales que hagan el bien, que se hagan ricos en buenas acciones. Recu\u00e9rdales que deben dar y compartir lo que tienen."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "As\u00ed tendr\u00e1n un tesoro que, en el futuro, seguramente les permitir\u00e1 disfrutar de la vida eterna."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Timoteo, \u00a1trata de hacer bien tu trabajo! No prestes atenci\u00f3n a lo que dicen los que no creen en Cristo, ni a los que critican nuestras ense\u00f1anzas y afirman tener la verdad."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Por hacerles caso, algunos ya han dejado de confiar en Dios. Yo le pido a Dios que a ustedes los llene de su amor."
+                }
+            }
+        }
+    }
+}

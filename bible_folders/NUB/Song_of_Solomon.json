@@ -1,0 +1,515 @@
+{
+    "version": "NUB",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "S\u00e5ngernas s\u00e5ng, av Salomo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hon: L\u00e5t honom kyssa mig med kyssar av sin mun, f\u00f6r din k\u00e4rlek \u00e4r ljuvare \u00e4n vin."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Doften av din parfym \u00e4r underbar, ditt namn \u00e4r som balsam fr\u00e5n Turak och de unga kvinnorna \u00e4lskar dig."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ta mig med dig! Kom, vi skyndar oss! Kungen tar mig med in i sina kammare. V\u00e4nnerna:Vi ska jubla och gl\u00e4djas \u00e5t dig! Vi ska prisa din k\u00e4rlek h\u00f6gre \u00e4n vin. Hon:Med r\u00e4tta \u00e4lskar de dig!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jag \u00e4r m\u00f6rk och sk\u00f6n, ni Jerusalems d\u00f6ttrar, som Kedars t\u00e4lt, som Salomos t\u00e4ltdukar."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Stirra inte p\u00e5 mig, d\u00e4rf\u00f6r att jag \u00e4r s\u00e5 m\u00f6rk. Solen har br\u00e4nt mig. Mina br\u00f6der blev f\u00f6rargade p\u00e5 mig och satte mig att vakta ving\u00e5rdarna. Men min egen ving\u00e5rd vaktade jag inte."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tala om f\u00f6r mig, min \u00e4lskade, vart du leder din hjord! Var l\u00e5ter du den vila vid middagstid? Varf\u00f6r skulle jag vara som en besl\u00f6jad kvinna vid dina v\u00e4nners hjordar?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "V\u00e4nnerna: Om du inte vet det, du sk\u00f6naste bland kvinnor, s\u00e5 f\u00f6lj f\u00e5rhjordens sp\u00e5r, och f\u00f6r dina killingar i bet vid herdarnas t\u00e4lt."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Han: Min \u00e4lskade, jag liknar dig vid ett sto som sp\u00e4nts f\u00f6r faraos vagnar."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dina vackra kinder \u00e4r smyckade med h\u00e4ngen och din hals med \u00e4delstenar."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Vi ska g\u00f6ra guldsmycken med silverkulor \u00e5t dig."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hon: N\u00e4r kungen ligger p\u00e5 sin s\u00e4ng, sprider min nardus sin doft."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Min \u00e4lskade \u00e4r som en doftp\u00e5se med myrra, som ligger mellan mina br\u00f6st."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Min \u00e4lskade \u00e4r f\u00f6r mig en bukett hennablommor fr\u00e5n En-Gedis ving\u00e5rdar,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Han: S\u00e5 vacker du \u00e4r, min \u00e4lskade, s\u00e5 vacker du \u00e4r! Dina \u00f6gon \u00e4r som duvor."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hon: Vad underbar du \u00e4r, min \u00e4lskade, s\u00e5 ljuvlig! Gr\u00f6nskande \u00e4r v\u00e5r b\u00e4dd."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Han: Vi har cedrar som bj\u00e4lkar i v\u00e5r boning och cypresser som tak."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hon: Jag \u00e4r en Sharons ros, en lilja i dalen."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Han: Som en lilja bland t\u00f6rnen \u00e4r min \u00e4lskade bland flickor."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Hon: Som ett \u00e4ppeltr\u00e4d i skogen \u00e4r min \u00e4lskade bland unga m\u00e4n. Jag njuter av att sitta i hans skugga, och hans frukt smakar s\u00f6tt."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Han f\u00f6r mig in i vinsalen, med sin k\u00e4rlek som en fana \u00f6ver mig."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Styrk mig med druvkakor, pigga upp mig med \u00e4pplen, f\u00f6r jag \u00e4r sjuk av k\u00e4rlek."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hans v\u00e4nstra arm vilar under mitt huvud, och med sin h\u00f6gra hand smeker han mig."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jag besv\u00e4r er, Jerusalems d\u00f6ttrar, vid gasellerna och hindarna p\u00e5 f\u00e4lten: oroa inte k\u00e4rleken, v\u00e4ck den inte f\u00f6rr\u00e4n den sj\u00e4lv vill."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "H\u00f6r, min \u00e4lskade kommer! Se! H\u00e4r kommer han springande \u00f6ver bergen, hoppande \u00f6ver kullarna."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Min \u00e4lskade \u00e4r som en gasell, som en ung hjort. D\u00e4r st\u00e5r han bakom muren, och han tittar in genom f\u00f6nstret, blickar genom gallret."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Min \u00e4lskade s\u00e4ger till mig: \u201dStig upp, min \u00e4lskade, min sk\u00f6na, och kom!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Se! Vintern \u00e4r f\u00f6rbi och regnet \u00e4r \u00f6ver."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "P\u00e5 marken skjuter blommorna upp, s\u00e5ngens tid \u00e4r inne, och turturduvan h\u00f6rs i v\u00e5rt land."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Fikontr\u00e4det f\u00e5r sina f\u00f6rsta frukter, och vinstockarna st\u00e5r i blom och doftar. Stig upp, min \u00e4lskade, min sk\u00f6na, och kom!\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Han Du min duva bland bergsklyftor, i g\u00f6mst\u00e4llet i bergsv\u00e4ggen, l\u00e5t mig se din gestalt, l\u00e5t mig h\u00f6ra din r\u00f6st! F\u00f6r din r\u00f6st \u00e4r underbar, din gestalt s\u00e5 sk\u00f6n."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "V\u00e4nnerna: F\u00e5nga r\u00e4varna \u00e5t oss, de sm\u00e5 r\u00e4varna som f\u00f6rst\u00f6r ving\u00e5rdarna, v\u00e5ra ving\u00e5rdar som nu st\u00e5r i blom."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hon: Min \u00e4lskade \u00e4r min och jag \u00e4r hans, han som vallar sin hjord bland liljorna."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tills vindarna vaknar, tills skuggorna flyr, kom \u00e5ter, min \u00e4lskade, kom som en gasell, ja som en ung hjort \u00f6ver de blommande kullarna."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Om n\u00e4tterna spanade jag efter min \u00e4lskade p\u00e5 min b\u00e4dd. Jag spanade efter honom, men jag kunde inte hitta honom."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201dNu stiger jag upp och g\u00e5r omkring i staden, p\u00e5 gatorna och torgen. Jag vill s\u00f6ka efter min \u00e4lskade.\u201d Jag s\u00f6kte honom, men jag hittade honom inte."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Vakterna fann mig, n\u00e4r de gick omkring i staden. \u201dHar ni sett min \u00e4lskade n\u00e5gonstans?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Knappt hade jag g\u00e5tt ifr\u00e5n dem, s\u00e5 fann jag min \u00e4lskade. Jag h\u00f6ll honom fast och sl\u00e4ppte honom inte, f\u00f6rr\u00e4n jag hade f\u00f6rt honom till min mors hus, till hennes kammare som f\u00f6tt mig."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jag besv\u00e4r er, Jerusalems d\u00f6ttrar, vid gasellerna och hindarna p\u00e5 f\u00e4lten: oroa inte k\u00e4rleken, v\u00e4ck den inte f\u00f6rr\u00e4n den sj\u00e4lv vill."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vem \u00e4r det som kommer fr\u00e5n \u00f6knen som en r\u00f6kpelare och doftar av myrra och r\u00f6kelse och av kryddhandlarens alla dofter?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Se, det \u00e4r Salomos b\u00e4rstol, omgiven av sextio krigare, utvalda bland Israels m\u00e4n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Alla b\u00e4r de sv\u00e4rd, alla \u00e4r skickliga i strid, var och en har sitt sv\u00e4rd vid sidan som skydd f\u00f6r nattens fasor."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kung Salomo har l\u00e5tit tillverka en b\u00e4rstol \u00e5t sig av tr\u00e4 fr\u00e5n Libanon."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dess stolpar \u00e4r av silver, dess ryggst\u00f6d av guld, dess s\u00e4te \u00e4r kl\u00e4tt med purpurr\u00f6tt tyg, och inv\u00e4ndigt \u00e4r den smyckad i k\u00e4rlek av Jerusalems d\u00f6ttrar."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "G\u00e5 ut och se, Sions d\u00f6ttrar, p\u00e5 kung Salomo och kronan som hans mor har kr\u00f6nt honom med p\u00e5 hans br\u00f6llopsdag, hans gl\u00e4djedag!"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Han: S\u00e5 vacker du \u00e4r, min \u00e4lskade, s\u00e5 vacker du \u00e4r! Dina \u00f6gon \u00e4r som duvor bakom din sl\u00f6ja. Ditt h\u00e5r \u00e4r som en hjord av getter som r\u00f6r sig ner fr\u00e5n Gileads berg."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dina t\u00e4nder \u00e4r som en flock nyklippta tackor som stiger upp ur badet, alla \u00e4r tvillingar, ingen av dem \u00e4r ensam."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dina l\u00e4ppar \u00e4r som ett rosenr\u00f6tt band, ja ljuvlig \u00e4r din mun. Din tinning \u00e4r som ett kluvet granat\u00e4pple bakom din sl\u00f6ja."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Din hals \u00e4r som Davids torn, med rader av stenar, d\u00e4r tusen sk\u00f6ldar h\u00e4nger, och krigarnas alla koger."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dina br\u00f6st \u00e4r som tv\u00e5 hjortkalvar, som en gasells tvillingpar, som betar bland liljorna."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tills vinden vaknar och skuggorna flyr, vill jag g\u00e5 till myrrah\u00f6jden och r\u00f6kelseberget."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Allting hos dig \u00e4r s\u00e5 sk\u00f6nt, min \u00e4lskade, hos dig finns ingen brist."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kom med mig fr\u00e5n Libanon, min brud, kom med mig fr\u00e5n Libanon! Tr\u00e4d ner fr\u00e5n Amanas topp, fr\u00e5n Senirs och Hermons topp, fr\u00e5n lejonens h\u00e5lor och fr\u00e5n leopardernas berg."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Du har tagit mitt hj\u00e4rta, min syster och min brud, du har tagit mitt hj\u00e4rta med en enda blick och med en enda p\u00e4rla i ditt halsband."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "S\u00e5 sk\u00f6n din k\u00e4rlek \u00e4r, min syster och min brud. Din k\u00e4rlek \u00e4r ljuvare \u00e4n vin, din parfym doftar mer \u00e4n n\u00e5gon krydda."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dina l\u00e4ppar, min brud, dryper av honung, honung och mj\u00f6lk \u00e4r under din tunga, och doften av dina kl\u00e4der \u00e4r som doften av Libanon."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Min syster och brud \u00e4r en inh\u00e4gnad tr\u00e4dg\u00e5rd, en tillsluten brunn, en f\u00f6rseglad k\u00e4lla."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I din lustg\u00e5rd finns granattr\u00e4d med ljuvliga frukter, henna och nardus,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "nardus och saffran, kalmus och kanel, alla slags doftande tr\u00e4d, myrra och aloe och alla slags finaste kryddor."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Du \u00e4r tr\u00e4dg\u00e5rdens k\u00e4lla, en brunn med levande vatten, en str\u00f6m fr\u00e5n Libanon."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hon: Vakna upp, nordanvind! Kom, sunnanvind! Bl\u00e5s \u00f6ver min tr\u00e4dg\u00e5rd och l\u00e5t dess sk\u00f6na dofter spridas! L\u00e5t min \u00e4lskade komma till sin tr\u00e4dg\u00e5rd och njuta av dess h\u00e4rliga frukter."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Han: Jag kommer till min tr\u00e4dg\u00e5rd, min syster och brud! Jag samlar min myrra och mina kryddor och \u00e4ter min honungskaka och min honung. Jag dricker mitt vin och min mj\u00f6lk. V\u00e4nnerna:\u00c4t, v\u00e4nner, och drick! Berusa er av k\u00e4rlek!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hon: Jag sov, men mitt hj\u00e4rta var vaket. H\u00f6r, min \u00e4lskade knackar p\u00e5: \u201d\u00d6ppna f\u00f6r mig, min syster, min \u00e4lskade, min duva, min full\u00e4ndade, f\u00f6r mitt h\u00e5r \u00e4r v\u00e5tt av dagg, mina lockar fuktiga av nattens droppar.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u201dJag har kl\u00e4tt av mig. Ska jag kl\u00e4 p\u00e5 mig igen? Jag har tv\u00e4ttat mina f\u00f6tter, ska jag d\u00e5 smutsa ner dem?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Min \u00e4lskade stack handen genom d\u00f6rr\u00f6ppningen, och jag darrade i mitt innersta."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jag reste mig upp f\u00f6r att sl\u00e4ppa in min \u00e4lskade. Mina h\u00e4nder droppade av myrra, fr\u00e5n mina fingrar rann myrra \u00f6ver d\u00f6rrhandtaget."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jag \u00f6ppnade f\u00f6r min \u00e4lskade, men han var borta, han hade g\u00e5tt. Jag blev utom mig. Jag letade efter honom, men kunde inte finna honom. Jag ropade p\u00e5 honom, men han svarade inte."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vakterna, som gick omkring i staden, fann mig. De slog mig och gjorde mig illa, och vakterna p\u00e5 muren slet av mig min sjal."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jag besv\u00e4r er, Jerusalems d\u00f6ttrar: om ni hittar min \u00e4lskade, s\u00e5 tala om f\u00f6r honom att jag \u00e4r sjuk av k\u00e4rlek."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "V\u00e4nnerna: Vad \u00e4r det hos din \u00e4lskade som g\u00f6r honom b\u00e4ttre \u00e4n andra, du sk\u00f6naste bland kvinnor? Vad \u00e4r det hos din \u00e4lskade som g\u00f6r honom b\u00e4ttre \u00e4n andra, eftersom du besv\u00e4rjer oss s\u00e5?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hon: Min \u00e4lskade \u00e4r str\u00e5lande och r\u00f6d, den fr\u00e4mste bland tiotusen."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hans huvud \u00e4r finaste guld, hans h\u00e5r \u00e4r korpsvart och v\u00e5gigt likt dadelklasar."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hans \u00f6gon \u00e4r som duvor vid vattenb\u00e4ckar, de badar i mj\u00f6lk och \u00e4r som infattade \u00e4delstenar."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hans kinder \u00e4r som krydds\u00e4ngar med doftande \u00f6rter. Hans l\u00e4ppar \u00e4r liljor och dryper av flytande myrra."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hans armar \u00e4r som st\u00e4nger av guld, besatta med krysoliter. Hans kropp \u00e4r som elfenben, med insatta safirer."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hans ben \u00e4r marmorpelare p\u00e5 de finaste guldsocklar. Hans gestalt \u00e4r som Libanon, st\u00e5tlig som dess cedrar."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hans mun \u00e4r s\u00f6tma, allt hos honom \u00e4r ljuvligt. S\u00e5dan \u00e4r min \u00e4lskade och min v\u00e4n, ni Jerusalems d\u00f6ttrar, s\u00e5dan \u00e4r min v\u00e4n."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u00e4nnerna: Vart har din \u00e4lskade g\u00e5tt, du sk\u00f6naste bland kvinnor? Vart har din \u00e4lskade tagit v\u00e4gen? Vi ska hj\u00e4lpa dig att hitta honom."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hon: Min \u00e4lskade har g\u00e5tt till sin tr\u00e4dg\u00e5rd, till sina krydds\u00e4ngar, f\u00f6r att d\u00e4r vakta sin f\u00e5rhjord och plocka liljor."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jag tillh\u00f6r min \u00e4lskade och han tillh\u00f6r mig. Bland liljorna vaktar han sin f\u00e5rhjord."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Han: Du \u00e4r vacker, min \u00e4lskade, som Tirsa, ljuvlig som Jerusalem, skr\u00e4mmande som en h\u00e4rskara."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "V\u00e4nd bort din blick ifr\u00e5n mig, f\u00f6r den har \u00f6verv\u00e4ldigat mig. Ditt h\u00e5r \u00e4r som en hjord av getter som r\u00f6r sig ner fr\u00e5n Gileads berg."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dina t\u00e4nder \u00e4r som en flock tackor som stiger upp ur badet, alla \u00e4r tvillingar, ingen av dem \u00e4r ensam."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Din tinning \u00e4r som ett kluvet granat\u00e4pple bakom din sl\u00f6ja."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Det finns sextio drottningar, \u00e5ttio bihustrur och fler unga kvinnor \u00e4n n\u00e5gon kan r\u00e4kna,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "men min duva, min full\u00e4ndade, \u00e4r unik, sin mors enda, dyrbar f\u00f6r den som f\u00f6dde henne. Flickorna ser henne och prisar henne lycklig, hon hyllas av drottningar och bihustrur."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "V\u00e4nnerna: Vem \u00e4r hon som stiger upp som morgonrodnaden, vacker som m\u00e5nen, str\u00e5lande som solen, skr\u00e4mmande som stj\u00e4rnornas skara?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Han: Jag gick ner till valn\u00f6tslunden f\u00f6r att se om v\u00e5ren spirade i dalen, och f\u00f6r att se om vintr\u00e4den hade skjutit skott, om granattr\u00e4den hade b\u00f6rjat blomma."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Innan jag fattade det, drogs jag med av min l\u00e4ngtan som p\u00e5 en furstlig vagn."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "V\u00e4nnerna: V\u00e4nd om, v\u00e4nd om, du flicka fr\u00e5n Shulem! Kom tillbaka, s\u00e5 att vi f\u00e5r se dig! Han:Varf\u00f6r vill ni se p\u00e5 flickan fr\u00e5n Shulem d\u00e4r hon dansar bland leden?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dina f\u00f6tter \u00e4r s\u00e5 vackra i sandaler, du furstedotter! Dina h\u00f6fters rundning \u00e4r som juveler, som konstn\u00e4rens arbeten."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Din navel \u00e4r som en rund sk\u00e5l, d\u00e4r vin aldrig saknas. Din midja \u00e4r som en h\u00f6g med vete omgiven av liljor."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dina br\u00f6st \u00e4r som tv\u00e5 hjortkalvar, som en gasells tvillingpar."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Din hals \u00e4r som ett elfenbenstorn, och dina \u00f6gon som Heshbons dammar vid Bat-Rabbimsporten. Din n\u00e4sa \u00e4r som Libanonstornet, varifr\u00e5n man kan se ut \u00f6ver Damaskus."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Du b\u00e4r ditt huvud h\u00f6gt som berget Karmel. Ditt h\u00e5r gl\u00e4nser likt purpur och kungen \u00e4r f\u00e5ngad i lockarna."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vad sk\u00f6n och ljuvlig du \u00e4r, min \u00e4lskade, i din v\u00e4llust!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Din v\u00e4xt \u00e4r som en palms, och dina br\u00f6st \u00e4r som klasar."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jag sa: \u201dJag vill kl\u00e4ttra upp i palmtr\u00e4det och fatta tag om dess grenar.\u201d L\u00e5t dina br\u00f6st vara som vindruvsklasar, och din andedr\u00e4kt som doften av \u00e4pplen,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "din mun som det \u00e4dlaste vin. Hon:Ja, ett vin som fl\u00f6dar ner i min \u00e4lskade och fuktar de slumrandes l\u00e4ppar."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jag tillh\u00f6r min \u00e4lskade och till mig st\u00e5r hans \u00e5tr\u00e5."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kom, min \u00e4lskade, s\u00e5 g\u00e5r vi ut p\u00e5 f\u00e4lten och stannar i byarna \u00f6ver natten."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "L\u00e5t oss tidigt g\u00e5 ut till ving\u00e5rdarna f\u00f6r att se om vintr\u00e4den har skjutit skott och f\u00f6r att se om blommorna har slagit ut och om granattr\u00e4den har b\u00f6rjat blomma. D\u00e4r ska jag ge dig min k\u00e4rlek."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "D\u00e4r sprider k\u00e4rleks\u00e4pplena sin doft, och de finaste frukter finns vid v\u00e5r d\u00f6rr, b\u00e5de nya och gamla, f\u00f6r jag har sparat dem \u00e5t dig, min \u00e4lskade."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Om du \u00e4nd\u00e5 hade varit min bror som min mor hade ammat! D\u00e5 skulle jag kunna kyssa dig om jag m\u00f6tte dig d\u00e4rute, och ingen skulle se ner p\u00e5 mig."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jag skulle ta dig till min mors hus, hennes som uppfostrade mig. Jag skulle ge dig kryddat vin att dricka, och saft fr\u00e5n mina granat\u00e4pplen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Hans v\u00e4nstra arm vilar under mitt huvud, och med sin h\u00f6gra hand smeker han mig."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jag besv\u00e4r er, Jerusalems d\u00f6ttrar: oroa inte k\u00e4rleken, v\u00e4ck den inte f\u00f6rr\u00e4n den sj\u00e4lv vill."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "V\u00e4nnerna: Vem \u00e4r det som kommer fr\u00e5n \u00f6knen lutad mot sin \u00e4lskade? Hon:Under \u00e4ppeltr\u00e4det v\u00e4ckte jag dig, d\u00e4r din mor blev havande med dig hon som gav dig livet f\u00f6dde dig d\u00e4r."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "S\u00e4tt mig som ett sigill p\u00e5 ditt hj\u00e4rta, som ett sigill p\u00e5 din arm, f\u00f6r k\u00e4rleken \u00e4r stark som d\u00f6den, och dess svartsjuka lika obeveklig som d\u00f6dsriket. Den brinner som eld, som en m\u00e4ktig l\u00e5ga."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Stora vatten kan inte utsl\u00e4cka k\u00e4rleken, och inte heller kan floderna dr\u00e4nka den. \u00c4ven om en man gav alla rikedomar i sitt hus f\u00f6r k\u00e4rleken, skulle han bli ringaktad."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "V\u00e4nnerna: Vi har en ung syster som \u00e4nnu inte har n\u00e5gra br\u00f6st. Vad ska vi g\u00f6ra n\u00e4r n\u00e5gon friar till henne?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Om hon \u00e4r en mur ska vi bygga torn av silver p\u00e5 den, och om hon \u00e4r en d\u00f6rr, ska vi st\u00e4nga till den med cederplankor."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hon: Jag \u00e4r en mur och mina br\u00f6st \u00e4r som torn. I min \u00e4lskades \u00f6gon \u00e4r jag en \u00e5tr\u00e5v\u00e4rd kvinna."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Salomo \u00e4gde en ving\u00e5rd i Baal Hamon, som han l\u00e4mnade \u00e5t v\u00e4ktare. Var och en fick ge tusen silverstycken f\u00f6r dess frukt."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Men \u00f6ver min egen ving\u00e5rd r\u00e5der jag sj\u00e4lv. De tusen \u00e4r dina, Salomo, och tv\u00e5hundra f\u00e5r de som vaktar dess frukt."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Han: Du som bor i tr\u00e4dg\u00e5rdarna, v\u00e4nnerna v\u00e4ntar p\u00e5 att f\u00e5 h\u00f6ra din r\u00f6st. L\u00e5t mig f\u00e5 h\u00f6ra den!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hon: Skynda, min \u00e4lskade, och var som en gasell eller en ung hjort uppe p\u00e5 bergen som doftar av \u00f6rter!"
+                }
+            }
+        }
+    }
+}

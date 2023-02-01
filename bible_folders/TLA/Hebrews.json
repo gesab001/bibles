@@ -1,0 +1,1284 @@
+{
+    "version": "TLA",
+    "book_name": "Hebrews",
+    "book_nr": "58",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Introducci\u00f3n - Hace mucho, mucho tiempo, los profetas comunicaron el mensaje de Dios a nuestros antepasados. Lo hicieron muchas veces y de muchas maneras."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pero ahora, en estos \u00faltimos tiempos, Dios nos lo ha comunicado por medio de su Hijo. Porque por medio de \u00e9l Dios cre\u00f3 el universo, y lo hizo due\u00f1o de todas las cosas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El Hijo de Dios nos muestra el poder y la grandeza de su Padre. El Hijo de Dios es igual en todo a su Padre, y con su gran poder hace que el universo siga existiendo. El Hijo de Dios logr\u00f3 que Dios nos perdonara nuestros pecados, y despu\u00e9s subi\u00f3 al cielo para sentarse a la derecha del trono de su Padre."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El Hijo de Dios es superior a los \u00e1ngeles - El Hijo de Dios lleg\u00f3 a ser superior a los \u00e1ngeles, pues Dios le dio un nombre mucho m\u00e1s importante que el de ellos."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Porque nunca Dios le dijo a ning\u00fan \u00e1ngel: \u00abT\u00fa eres mi Hijo; desde hoy soy tu padre.\u00bb Tampoco dijo de ning\u00fan \u00e1ngel: \u00abYo ser\u00e9 para \u00e9l como un padre, y \u00e9l ser\u00e1 para m\u00ed como un Hijo.\u00bb"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Y cuando Dios envi\u00f3 a su Hijo a este mundo, orden\u00f3: \u00abQue todos mis \u00e1ngeles lo adoren.\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Adem\u00e1s, cuando Dios habla acerca de los \u00e1ngeles, dice: \u00abMis \u00e1ngeles son el viento, y mis sirvientes son rel\u00e1mpagos.\u00bb"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pero, cuando habla de su Hijo, Dios dice: \u00abTu reinado durar\u00e1 para siempre, y usar\u00e1s tu poder en favor de la justicia."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Te complaces en lo bueno, y rechazas la injusticia. Yo te declaro mi rey favorito, \u00a1el rey m\u00e1s feliz de la tierra!\u00bb"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Y tambi\u00e9n dice: \u00abSe\u00f1or, en el principio t\u00fa afirmaste la tierra; t\u00fa mismo hiciste los cielos,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "pero se ir\u00e1n gastando, como la ropa, y un d\u00eda los destruir\u00e1s. \u00bbPero t\u00fa te mantendr\u00e1s firme;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "siempre ser\u00e1s el mismo, y tus a\u00f1os no tendr\u00e1n fin.\u00bb"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dios nunca le dijo a ning\u00fan \u00e1ngel: \u00abSi\u00e9ntate a la derecha de mi trono, hasta que yo derrote a tus enemigos.\u00bb"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque los \u00e1ngeles son solamente esp\u00edritus que sirven a Dios, y \u00e9l los env\u00eda para ayudar a toda la gente que Dios habr\u00e1 de salvar."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La salvaci\u00f3n es importante - Por eso debemos poner m\u00e1s inter\u00e9s en el mensaje de salvaci\u00f3n que hemos o\u00eddo, para no apartarnos del camino que Dios nos se\u00f1ala."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Si el mensaje que anunciaron los \u00e1ngeles result\u00f3 ser verdad, y quienes no lo obedecieron recibieron el castigo que merec\u00edan,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "con m\u00e1s raz\u00f3n seremos castigados nosotros si no reconocemos el gran valor de la salvaci\u00f3n que \u00e9l nos ofrece. Porque el Se\u00f1or Jes\u00fas mismo fue el primero en comunicar el mensaje de salvaci\u00f3n, y despu\u00e9s, los que oyeron ese mensaje nos demostraron que era verdad."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dios tambi\u00e9n nos lo demostr\u00f3 por medio de muchas se\u00f1ales y de acciones maravillosas, y tambi\u00e9n con milagros. Adem\u00e1s, cuando lo hizo, les dio el Esp\u00edritu Santo a quienes \u00e9l se lo quiso dar."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jes\u00fas nos salva - Dios no ha puesto a los \u00e1ngeles como jefes del mundo en que vamos a vivir en el futuro. En ese mundo"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "el jefe ser\u00e1 otro. Pues la Biblia dice: \u00abDios, \u00bfqu\u00e9 somos los mortales para que pienses en nosotros y nos tomes en cuenta?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bb\u00a1Nos creaste casi iguales a los \u00e1ngeles! Nos trataste como a reyes;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "nos diste plena autoridad sobre todo lo que hiciste; nos diste dominio sobre toda tu creaci\u00f3n\u00bb. Y si Dios le dio \u00abdominio sobre toda la creaci\u00f3n\u00bb, eso quiere decir que nada de lo creado queda fuera de su gobierno. Claro, todav\u00eda no vemos que \u00e9l gobierne sobre todas las cosas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pero Dios nos ama y envi\u00f3 a Jes\u00fas a morir para salvarnos. Por eso, aunque Dios permiti\u00f3 que, por alg\u00fan tiempo, Jes\u00fas fuera menos importante que los \u00e1ngeles, ahora Jes\u00fas ha recibido gloria y honor."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dios hizo todas las cosas para \u00e9l mismo, y quiere que su gloria la compartan todos los que lo aman y obedecen. Para eso, Dios ten\u00eda que hacer perfecto a Jesucristo y dejarlo morir, pues Jesucristo es el Salvador de ellos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Todos los que aman y obedecen a Dios son sus hijos, y Dios es padre de todos ellos. Y como Jes\u00fas tambi\u00e9n es Hijo de Dios, no se averg\u00fcenza de tratarlos como hermanos,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "pues \u00e9l le dijo a Dios: \u00abCuando mi pueblo se junte para adorarte en el templo, yo les hablar\u00e9 de ti, y te cantar\u00e9 alabanzas.\u00bb"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tambi\u00e9n dice: \u00abConfiar\u00e9 en Dios.\u00bb Y a\u00f1ade: \u00abAqu\u00ed estoy, con los hijos que Dios me ha dado.\u00bb"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nosotros somos seres de carne y hueso. Por eso Jes\u00fas se hizo igual a nosotros. S\u00f3lo as\u00ed pod\u00eda morir para vencer al diablo, que ten\u00eda poder para matar a hombres y a mujeres."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Con su muerte, Jes\u00fas dio libertad a los que se pasaban la vida con miedo a la muerte."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Queda claro que Jes\u00fas no vino para ayudar a los \u00e1ngeles, sino a todos los descendientes de Abraham."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Para poder ayudarlos, ten\u00eda que hacerse igual a ellos. Por eso Jes\u00fas es un Jefe de sacerdotes en quien se puede confiar, pues est\u00e1 lleno de amor para servir a Dios. Adem\u00e1s, por medio de su muerte, Jes\u00fas logr\u00f3 que Dios nos perdonara nuestros pecados."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Y como Jes\u00fas mismo sufri\u00f3, y el diablo le puso trampas para hacerlo pecar, ahora, cuando el diablo nos pone trampas, Jes\u00fas puede ayudarnos a todos."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jes\u00fas y Mois\u00e9s - Hermanos, Dios los ha llamado a ustedes para que sean su pueblo elegido. Por eso, p\u00f3nganse a pensar seriamente en qui\u00e9n es Jes\u00fas: \u00a1\u00c9l es nuestro ap\u00f3stol y nuestro Jefe de sacerdotes!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dios le encarg\u00f3 que nos ayudara, y \u00e9l lo obedeci\u00f3, as\u00ed como Mois\u00e9s tambi\u00e9n obedeci\u00f3 cuando Dios le orden\u00f3 ayudar a todo su pueblo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pero Dios le dio a Jes\u00fas m\u00e1s honra que a Mois\u00e9s. Es como cuando se construye una casa: el que la construye es m\u00e1s importante que la casa misma."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Toda casa ha sido construida por alguien, pero Dios es quien ha hecho todo lo que existe."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mois\u00e9s sirvi\u00f3 a Dios y lo obedeci\u00f3 en todo, pues ayud\u00f3 al pueblo de Dios tal como se le orden\u00f3, y anunci\u00f3 al pueblo lo que Dios iba a decir en el futuro."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pero Cristo, que es el Hijo de Dios, es obediente y ayuda a este pueblo de Dios, que somos nosotros. Y nosotros somos parte de ese pueblo, si seguimos creyendo firmemente y con alegr\u00eda en la salvaci\u00f3n que recibiremos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "La obediencia - Por eso hay que hacer lo que el Esp\u00edritu Santo dice: \u00abSi hoy escuchan la voz de Dios,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "no sean tercos, como aquellos israelitas, que no quisieron obedecerlo en el desierto. Ellos quisieron ver hasta d\u00f3nde soportar\u00eda Dios su desobediencia. \u00bbPor eso Dios les dijo:"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Aunque los trat\u00e9 bien durante cuarenta a\u00f1os, sus antepasados me pusieron a prueba en el desierto."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Entonces me enoj\u00e9, y les hice ver que viv\u00edan en el error, pues no obedec\u00edan mis mandamientos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Por eso, ya enojado decid\u00ed: \u201cNo voy a permitirles entrar en la tierra prometida, donde los habr\u00eda hecho descansar.\u201d\u00bb"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00a1Cuidado, hermanos! No piensen en lo malo, ni dejen de confiar en el Dios que vive para siempre, para que no se aparten de \u00e9l."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Al contrario, mientras a\u00fan queda tiempo, cada uno debe animar al otro a seguir confiando. As\u00ed nadie dejar\u00e1 de obedecer a Dios, ni pensar\u00e1 que, si peca, hace el bien."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Al principio, cuando confiamos en Cristo, nos hicimos compa\u00f1eros suyos; y si no dejamos de confiar en \u00e9l, seguiremos siendo sus compa\u00f1eros siempre."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Por eso la Biblia dice: \u00abSi hoy escuchan la voz de Dios, no sean tercos, como aquellos israelitas que no quisieron obedecerlo.\u00bb"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00bfY qui\u00e9nes fueron los que escucharon a Dios y no quisieron obedecerlo? \u00a1Pues todos aquellos que Mois\u00e9s sac\u00f3 de Egipto!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00bfY con qui\u00e9nes estuvo Dios enojado durante cuarenta a\u00f1os? \u00a1Pues con los que pecaron y luego cayeron muertos en el desierto!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00bfY a qui\u00e9nes les jur\u00f3 Dios que no les dar\u00eda descanso en la regi\u00f3n de Cana\u00e1n? \u00a1Pues a los que no le obedecieron!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Y en verdad, no pudieron entrar en Cana\u00e1n y descansar, porque no confiaron en Dios."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Por eso, mientras siga en pie la promesa de descansar con Dios, debemos tener cuidado. Ser\u00eda una l\u00e1stima que alguno de ustedes no pudiera recibir de Dios ese descanso."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Porque nosotros o\u00edmos la buena noticia, igual que aquellos israelitas que salieron de Egipto. S\u00f3lo que a ellos no les sirvi\u00f3 de nada o\u00edrla, porque no creyeron en el mensaje."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nosotros, en cambio, los que s\u00ed hemos cre\u00eddo en la buena noticia, disfrutaremos de la paz y de la tranquilidad que Dios nos ha prometido. Pero a los que no creyeron, Dios les dijo: \u00abPor eso, ya enojado decid\u00ed: \u201cNo voy a permitirles entrar en la tierra prometida, donde los har\u00e9 descansar.\u201d\u00bb Dios dijo esto, refiri\u00e9ndose a su descanso cuando termin\u00f3 de crear el mundo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Porque en alguna parte de la Biblia se habla as\u00ed del d\u00eda s\u00e1bado: \u00abEn el s\u00e9ptimo d\u00eda Dios descans\u00f3 de todo su trabajo.\u00bb"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Y en cuanto a este punto, vuelve a decir: \u00abUstedes jam\u00e1s entrar\u00e1n en mi lugar de reposo.\u00bb"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Los primeros en o\u00edr la buena noticia desobedecieron a Dios, y por eso no pudieron recibir su descanso. Pero la promesa de Dios sigue en pie,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "porque \u00e9l nos dio una nueva oportunidad, como lo dijo por medio de David en el pasaje de la Biblia, que ya mencionamos: \u00abSi hoy escuchan la voz de Dios, no sean tan tercos.\u00bb"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Si Josu\u00e9 hubiera podido hacer que los israelitas descansaran realmente en paz y tranquilidad, Dios no habr\u00eda hablado de otra oportunidad."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pero todav\u00eda esperamos el d\u00eda en que nosotros, el pueblo de Dios, recibiremos el descanso que Dios nos ha prometido."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "En ese d\u00eda, el pueblo de Dios descansar\u00e1 por fin de su trabajo, as\u00ed como Dios descans\u00f3 del suyo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Por eso, hagamos todo lo posible por obedecer a Dios, para que en ese d\u00eda recibamos su descanso. No sigamos el ejemplo de los que no creyeron la buena noticia."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cada palabra que Dios pronuncia tiene poder y tiene vida. La palabra de Dios es m\u00e1s cortante que una espada de dos filos, y penetra hasta lo m\u00e1s profundo de nuestro ser. All\u00ed examina nuestros pensamientos y deseos, y deja en claro si son buenos o malos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nada de lo que Dios ha creado puede esconderse de \u00e9l, pues Dios puede verlo todo con claridad, y ante \u00e9l seremos responsables de todo lo que hemos hecho."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jes\u00fas es el Jefe de sacerdotes - Jes\u00fas es el Hijo de Dios, y es nuestro gran Jefe de sacerdotes, que ha subido al cielo. Por eso debemos seguir confiando en \u00e9l."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El diablo le puso a Jes\u00fas las mismas trampas que nos pone a nosotros para hacernos pecar, s\u00f3lo que Jes\u00fas nunca pec\u00f3. Por eso, \u00e9l puede entender que nos resulta dif\u00edcil obedecer a Dios."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "As\u00ed que, cuando tengamos alguna necesidad, acerqu\u00e9monos con confianza al trono de Dios. \u00c9l nos ayudar\u00e1, porque es bueno y nos ama."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dios elige a los jefes de los sacerdotes para que ayuden al pueblo, y para que presenten las ofrendas y sacrificios, para que Dios los perdone."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Y como a esos sacerdotes tambi\u00e9n les resulta dif\u00edcil obedecer a Dios, pueden mostrarse pacientes con los ignorantes y pecadores."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Por eso tienen que presentar ofrendas y sacrificios, para que Dios perdone los pecados del pueblo, y tambi\u00e9n los de ellos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pero nadie puede ser jefe de los sacerdotes s\u00f3lo porque as\u00ed lo quiere, sino que Dios es quien lo elige y le da ese honor. As\u00ed lo hizo Dios cuando escogi\u00f3 a Aar\u00f3n como jefe de los sacerdotes."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Cristo no lleg\u00f3 a ser Jefe de sacerdotes porque as\u00ed lo quiso, sino que Dios lo eligi\u00f3 y le dio ese honor. Fue Dios quien le dijo: \u00abT\u00fa eres mi Hijo; desde hoy soy tu padre.\u00bb"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "En otra parte de la Biblia tambi\u00e9n le dijo: \u00abT\u00fa eres sacerdote para siempre, como lo fue Melquisedec.\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Cuando Cristo estuvo aqu\u00ed en el mundo, or\u00f3 mucho a Dios, y con l\u00e1grimas le rog\u00f3 que lo librara de la muerte, pues Dios ten\u00eda poder para hacerlo. Y como Cristo siempre fue obediente, Dios contest\u00f3 su oraci\u00f3n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Aunque \u00e9l era Hijo de Dios, por medio del sufrimiento aprendi\u00f3 lo que significa obedecer siempre a Dios."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "As\u00ed, una vez que Cristo hizo todo lo que Dios le mand\u00f3, se convirti\u00f3 en el salvador que da vida eterna a todos los que lo obedecen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Por eso Dios tambi\u00e9n lo nombr\u00f3 Jefe de sacerdotes, como lo fue Melquisedec."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Aprendamos m\u00e1s acerca de Dios - Hay mucho m\u00e1s que decir acerca de este asunto, pero no es f\u00e1cil explicarles a ustedes todo, porque les cuesta mucho entender."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Con el tiempo que llevan de haber cre\u00eddo en la buena noticia, ya deber\u00edan ser maestros. Sin embargo, todav\u00eda necesitan que se les expliquen las ense\u00f1anzas m\u00e1s sencillas acerca de Dios. Parecen ni\u00f1os peque\u00f1os, que no pueden comer alimentos s\u00f3lidos, sino que s\u00f3lo toman leche."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Son como ni\u00f1os reci\u00e9n nacidos, que a\u00fan no pueden distinguir entre lo bueno y lo malo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En cambio, los que s\u00ed saben distinguir entre lo bueno y lo malo, y est\u00e1n acostumbrados a hacerlo, son como la gente adulta, que ya puede comer alimentos s\u00f3lidos."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Por eso, sigamos aprendiendo m\u00e1s y m\u00e1s, hasta que lleguemos a ser cristianos maduros. Dejemos de ocuparnos de las primeras ense\u00f1anzas que se nos dieron acerca de Cristo, y no sigamos hablando de cosas simples. Dejemos de hacer lo malo, sigamos a Cristo, y dejemos de pecar para no morir. Ya sabemos que debemos confiar en Dios,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "y que debemos bautizarnos; tambi\u00e9n sabemos que los que creen en Cristo reciben el Esp\u00edritu Santo, que los muertos volver\u00e1n a vivir, y que habr\u00e1 un juicio final."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Claro que todo esto lo seguiremos ense\u00f1ando, si Dios as\u00ed nos lo permite."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pero los que dejan de creer en Cristo ya no pueden volver a ser amigos de Dios, aunque alguna vez hayan cre\u00eddo que el mensaje de Dios es la verdad, y con gusto lo hayan recibido como un regalo. Si dejan de creer en Cristo, lo que habr\u00e1n hecho ser\u00e1 volver a clavarlo en la cruz y burlarse de \u00e9l ante todo el mundo. No importa que hayan recibido el Esp\u00edritu Santo junto con los dem\u00e1s, ni que hayan sabido lo bueno que es el mensaje de Dios, ni lo poderoso que Dios ser\u00e1 en el nuevo mundo, si dejan de creer en Cristo ya no podr\u00e1n volver a \u00e9l."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pero los que dejan de creer en Cristo ya no pueden volver a ser amigos de Dios, aunque alguna vez hayan cre\u00eddo que el mensaje de Dios es la verdad, y con gusto lo hayan recibido como un regalo. Si dejan de creer en Cristo, lo que habr\u00e1n hecho ser\u00e1 volver a clavarlo en la cruz y burlarse de \u00e9l ante todo el mundo. No importa que hayan recibido el Esp\u00edritu Santo junto con los dem\u00e1s, ni que hayan sabido lo bueno que es el mensaje de Dios, ni lo poderoso que Dios ser\u00e1 en el nuevo mundo, si dejan de creer en Cristo ya no podr\u00e1n volver a \u00e9l."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pero los que dejan de creer en Cristo ya no pueden volver a ser amigos de Dios, aunque alguna vez hayan cre\u00eddo que el mensaje de Dios es la verdad, y con gusto lo hayan recibido como un regalo. Si dejan de creer en Cristo, lo que habr\u00e1n hecho ser\u00e1 volver a clavarlo en la cruz y burlarse de \u00e9l ante todo el mundo. No importa que hayan recibido el Esp\u00edritu Santo junto con los dem\u00e1s, ni que hayan sabido lo bueno que es el mensaje de Dios, ni lo poderoso que Dios ser\u00e1 en el nuevo mundo, si dejan de creer en Cristo ya no podr\u00e1n volver a \u00e9l."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "En esto la gente es como un terreno. Los que creen en Cristo son como el terreno que recibe mucha lluvia y produce una buena cosecha para el sembrador, y Dios lo bendice."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pero los que dejan de creer son como un terreno que s\u00f3lo produce plantas con espinas: no sirve para nada, y Dios lo maldice. Al final, se le prende fuego."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mis queridos hermanos, aunque les decimos estas cosas, estamos seguros de que ustedes no han dejado de creer, sino que siguen confiando en Dios. Eso es lo mejor para ustedes, pues as\u00ed ser\u00e1n salvados."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dios es justo, y nunca olvidar\u00e1 lo que ustedes han hecho, y siguen haciendo, para ayudar a su pueblo elegido. De esa manera, ustedes tambi\u00e9n demuestran que aman a Dios."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Deseamos que sigan con ese mismo entusiasmo hasta el fin, para que reciban todo lo bueno que con tanta paciencia esperan recibir."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "No queremos que se vuelvan perezosos. M\u00e1s bien, sin dudar ni un instante sigan el ejemplo de los que conf\u00edan en Dios, porque as\u00ed recibir\u00e1n lo que Dios les ha prometido."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La promesa de Dios - Dios le hizo a Abraham esta promesa: \u00abYo te bendecir\u00e9 mucho, y har\u00e9 que tengas muchos descendientes.\u00bb Cuando Dios le jur\u00f3 a Abraham que cumplir\u00eda esta promesa, tuvo que jurar por s\u00ed mismo, porque no ten\u00eda a nadie m\u00e1s grande por quien jurar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "La promesa de Dios - Dios le hizo a Abraham esta promesa: \u00abYo te bendecir\u00e9 mucho, y har\u00e9 que tengas muchos descendientes.\u00bb Cuando Dios le jur\u00f3 a Abraham que cumplir\u00eda esta promesa, tuvo que jurar por s\u00ed mismo, porque no ten\u00eda a nadie m\u00e1s grande por quien jurar."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Abraham esper\u00f3 con paciencia, y Dios cumpli\u00f3 su promesa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Cuando alguien jura, usa el nombre de alguien m\u00e1s importante, para ponerlo por testigo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Por eso, cuando Dios quiso asegurar que cumplir\u00eda su promesa, jur\u00f3 que dar\u00eda lo prometido sin cambiar nada."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ahora bien, como Dios no miente, su promesa y su juramento no pueden cambiar. Esto nos consuela, porque nosotros queremos que Dios nos proteja, y confiamos en que \u00e9l nos dar\u00e1 lo prometido."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Esta confianza nos da plena seguridad; es como el ancla de un barco, que lo mantiene firme y quieto en el mismo lugar. Y esta confianza nos la da Jesucristo, que traspas\u00f3 la cortina del templo de Dios en el cielo, y entr\u00f3 al lugar m\u00e1s sagrado."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Lo hizo para dejarnos libre el camino hacia Dios, pues Cristo es para siempre el Jefe de sacerdotes, como lo fue Melquisedec."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jes\u00fas y Melquisedec - Melquisedec fue rey de Salem y sacerdote del Dios alt\u00edsimo. Cuando Abraham regresaba de una batalla, en la que hab\u00eda derrotado a unos reyes, Melquisedec sali\u00f3 a recibirlo y lo bendijo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Entonces Abraham le dio a Melquisedec la d\u00e9cima parte de todo lo que hab\u00eda ganado en la batalla. El nombre Melquisedec significa \u00abrey justo\u00bb, pero tambi\u00e9n se le llama Rey de Salem, que significa \u00abrey de paz\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nadie sabe qui\u00e9nes fueron sus padres ni sus antepasados, ni tampoco cu\u00e1ndo o d\u00f3nde naci\u00f3 y muri\u00f3. Por eso \u00e9l, como sacerdote, se parece al Hijo de Dios, que es sacerdote para siempre."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ahora bien, Melquisedec era tan importante que nuestro antepasado Abraham le dio la d\u00e9cima parte de lo que gan\u00f3 en la batalla."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De acuerdo con la ley de Mois\u00e9s, si un sacerdote pertenece a la familia de Lev\u00ed, tiene derecho a recibir la d\u00e9cima parte de todo lo que gana el pueblo. No importa que el sacerdote sea del mismo pueblo o familia; todos por igual tienen que dar la d\u00e9cima parte."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Y aunque Melquisedec no pertenec\u00eda a la familia de Lev\u00ed, recibi\u00f3 la d\u00e9cima parte de lo que hab\u00eda ganado Abraham, a quien Dios le hab\u00eda hecho promesas. Melquisedec bendijo a Abraham"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "y, como todos sabemos, el que bendice es m\u00e1s importante que el que recibe la bendici\u00f3n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los sacerdotes que ahora reciben la d\u00e9cima parte de lo que ganamos son personas que alg\u00fan d\u00eda morir\u00e1n. Melquisedec, en cambio, sigue vivo, porque la Biblia no dice que haya muerto."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Por eso podemos decir que los sacerdotes de ahora, que pertenecen a la familia de Lev\u00ed, tambi\u00e9n le dieron a Melquisedec la d\u00e9cima parte, porque Abraham actu\u00f3 como su representante."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Esto fue as\u00ed porque todos ellos son descendientes de Abraham. Aunque todav\u00eda no hab\u00edan nacido cuando Abraham se encontr\u00f3 con Melquisedec, de alguna manera todos ellos estaban presentes en Abraham."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dos clases de sacerdotes - Dios le dio la ley al pueblo de Israel. Esa ley se hizo pensando en que los sacerdotes de la familia de Lev\u00ed ayudar\u00edan al pueblo a ser perfecto. Pero como aquellos sacerdotes no pudieron hacerlo, fue necesario que apareciera un sacerdote diferente: uno que no fuera descendiente del sacerdote Aar\u00f3n, sino como Melquisedec."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque si cambia la clase de sacerdote, tambi\u00e9n cambia la ley."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ese sacerdote tan distinto, del cual estamos hablando, es nuestro Se\u00f1or Jesucristo. Como todos sabemos, \u00e9l no descend\u00eda de la familia de Aar\u00f3n, sino de la de Jud\u00e1. La ley de Mois\u00e9s dice que de esa familia nadie puede ser sacerdote, y nunca un sacerdote ha salido de ella."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ese sacerdote tan distinto, del cual estamos hablando, es nuestro Se\u00f1or Jesucristo. Como todos sabemos, \u00e9l no descend\u00eda de la familia de Aar\u00f3n, sino de la de Jud\u00e1. La ley de Mois\u00e9s dice que de esa familia nadie puede ser sacerdote, y nunca un sacerdote ha salido de ella."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Todo esto es m\u00e1s f\u00e1cil de entender si tenemos en cuenta que ese sacerdote diferente es como Melquisedec."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Es diferente porque no fue elegido por ser miembro de una familia determinada, sino porque vive para siempre."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Acerca de \u00e9l, dice la Biblia: \u00abT\u00fa eres sacerdote para siempre, como lo fue Melquisedec.\u00bb"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "As\u00ed que la ley de Mois\u00e9s ha quedado anulada, porque result\u00f3 in\u00fatil."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Esa ley no pudo hacer perfecta a la gente. Por eso, ahora esperamos confiadamente que Dios nos d\u00e9 algo mucho mejor, y eso nos permite que seamos sus amigos."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El mejor sacerdote - Adem\u00e1s, Dios jur\u00f3 que tendr\u00edamos un sacerdote diferente. Los otros sacerdotes fueron nombrados sin que Dios jurara nada;"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "en cambio, en el caso de Cristo, Dios s\u00ed hizo un juramento, pues en la Biblia dice: \u00abDios jur\u00f3: \u201cT\u00fa eres sacerdote para siempre.\u201d Y Dios no cambia de idea.\u00bb"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Por eso Jes\u00fas nos asegura que ahora tenemos con Dios un pacto mejor."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Antes tuvimos muchos sacerdotes, porque ninguno de ellos pod\u00eda vivir para siempre."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Pero como Jes\u00fas no morir\u00e1 jam\u00e1s, no necesita pasarle a ning\u00fan otro su oficio de sacerdote."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Jes\u00fas puede salvar para siempre a los que, por medio de \u00e9l, quieren ser amigos de Dios. Pues vive eternamente, y siempre est\u00e1 pidiendo a Dios por ellos."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Jes\u00fas es el Jefe de sacerdotes que necesit\u00e1bamos, pues es santo, en \u00e9l no hay maldad, y nunca ha pecado. Dios lo apart\u00f3 de los pecadores, lo hizo subir al cielo, y lo puso en el lugar m\u00e1s importante de todos."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Jes\u00fas no es como los otros sacerdotes, que todos los d\u00edas tienen que matar animales para ofrec\u00e9rselos a Dios y pedirle perd\u00f3n por sus propios pecados, y luego tienen que hacer lo mismo por los pecados del pueblo. Por el contrario, cuando Jes\u00fas muri\u00f3 por nuestros pecados, ofreci\u00f3 su vida una sola vez y para siempre."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "A los sacerdotes puestos por la ley de Mois\u00e9s les resulta dif\u00edcil obedecer a Dios en todo. Pero, despu\u00e9s de darnos su ley, Dios jur\u00f3 que nos dar\u00eda como Jefe de sacerdotes a su Hijo, a quien \u00e9l hizo perfecto para siempre."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nuestro Jefe de sacerdotes es mejor - Lo m\u00e1s importante de todo esto es que tenemos un Jefe de sacerdotes que est\u00e1 en el cielo, sentado a la derecha del trono de Dios."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ese sacerdote es Jesucristo, que act\u00faa como sacerdote en el verdadero santuario, es decir, en el verdadero lugar de adoraci\u00f3n, hecho por Dios y no por nosotros los humanos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Aqu\u00ed en la tierra, se nombra a cada jefe de los sacerdotes para presentar a Dios las ofrendas y sacrificios del pueblo. Por eso, tambi\u00e9n Jesucristo tiene algo que ofrecer a Dios."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Si \u00e9l estuviera aqu\u00ed, no ser\u00eda sacerdote, pues ya tenemos sacerdotes que presentan a Dios las ofrendas que ordena la ley de Mois\u00e9s."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pero el trabajo de esos sacerdotes nos da apenas una ligera idea de lo que pasa en el cielo. Por eso, cuando Mois\u00e9s iba a construir el santuario, Dios le dijo: \u00abPon mucho cuidado, porque debes hacerlo todo siguiendo el modelo que te mostr\u00e9 en la monta\u00f1a\u00bb."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pero el trabajo que Dios le dio a Jesucristo, nuestro Jefe de sacerdotes, es mucho mejor, y por medio de \u00e9l tenemos tambi\u00e9n un pacto mejor, porque en \u00e9l Dios nos hace mejores promesas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "El antiguo pacto - Si el pacto que Dios hizo antes con el pueblo de Israel hubiera sido perfecto, no habr\u00eda sido necesario un nuevo pacto."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pero al ver Dios que el pueblo no le obedec\u00eda como \u00e9l esperaba, dijo: \u00abViene el d\u00eda en que har\u00e9 un nuevo pacto con el pueblo de Israel y con el pueblo de Jud\u00e1."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbEn el pasado, tom\u00e9 de la mano a sus antepasados y los saqu\u00e9 de Egipto, y luego hice un pacto con ellos. Pero no lo cumplieron, y por eso no me preocup\u00e9 m\u00e1s por ellos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbPor eso, \u00e9ste ser\u00e1 mi nuevo pacto con el pueblo de Israel: har\u00e9 que mis ense\u00f1anzas las aprendan de memoria, y que sean la gu\u00eda de su vida. Yo ser\u00e9 su Dios, y ellos ser\u00e1n mi pueblo. Les juro que as\u00ed ser\u00e1."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbYa no har\u00e1 falta que unos sean maestros de otros, y que les ense\u00f1en a conocerme, porque todos me conocer\u00e1n, desde el m\u00e1s joven hasta el m\u00e1s viejo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00bbYo les perdonar\u00e9 todas sus maldades, y nunca m\u00e1s me acordar\u00e9 de sus pecados.\u00bb"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Cuando Dios habla de hacer con nosotros un nuevo pacto, es porque considera viejo el pacto anterior. Y lo que se considera viejo e in\u00fatil, ya est\u00e1 a punto de desaparecer."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los antiguos sacrificios - En el primer pacto, Dios nos dio reglas para que supi\u00e9ramos c\u00f3mo adorarlo. Esas reglas eran para el culto aqu\u00ed en la tierra."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "El santuario para ese culto se construy\u00f3 de la siguiente manera: En su primera parte, llamada el Lugar Santo, estaban el candelabro y la mesa donde se pon\u00edan los panes apartados para Dios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Detr\u00e1s de la segunda cortina estaba la parte llamada Lugar Sant\u00edsimo,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "en donde estaba el altar de oro para quemar incienso, y tambi\u00e9n el cofre del pacto, que estaba totalmente recubierto de oro. En el cofre hab\u00eda una jarra de oro, que conten\u00eda man\u00e1; el bast\u00f3n de Aar\u00f3n, que hab\u00eda vuelto a florecer, y las tablas con los diez mandamientos."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Encima del cofre se pusieron las estatuas de dos seres alados, los cuales cubr\u00edan con sus alas la tapa del cofre y representaban la presencia de Dios. Pero de momento no hace falta entrar en detalles."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "As\u00ed estaban dispuestas todas las cosas en el santuario. Todos los d\u00edas, los sacerdotes entraban al Lugar Santo para celebrar el culto."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pero en el Lugar Sant\u00edsimo s\u00f3lo pod\u00eda entrar el jefe de los sacerdotes, y esto, s\u00f3lo una vez al a\u00f1o. Entraba llevando la sangre de los animales, que \u00e9l y el pueblo ofrec\u00edan para pedir perd\u00f3n a Dios cuando pecaban sin darse cuenta."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "De este modo el Esp\u00edritu Santo da a entender que, cuando a\u00fan exist\u00eda el santuario, la entrada al Lugar Sant\u00edsimo no le estaba permitida a cualquiera."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Todo esto se hizo as\u00ed para mostrarnos lo que ahora es m\u00e1s importante: No podemos sentirnos perdonados s\u00f3lo por haber ofrecido ofrendas y sacrificios en el culto."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Todo esto son reglas que tienen que ver con comidas, bebidas y ceremonias de purificaci\u00f3n, que nos preparan para el culto. Las reglas indican lo que se debe hacer, pero no nos ayudan a cambiar nuestra manera de vivir. Esas reglas sirven s\u00f3lo mientras Dios no las cambie por algo mejor."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El nuevo sacrificio - Pero ya Cristo vino y se ha convertido en el Jefe de sacerdotes, y a \u00e9l le debemos todo lo bueno que ahora nos pasa. Porque el santuario donde \u00e9l es sacerdote, es mejor y perfecto. No lo hizo ning\u00fan ser humano, as\u00ed que no es de este mundo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cristo no entr\u00f3 a ese santuario para ofrecer a Dios la sangre de animales, sino para ofrecer su propia sangre. Entr\u00f3 una sola vez y para siempre; de ese modo, de una vez por todas nos libr\u00f3 del pecado."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De acuerdo con la religi\u00f3n jud\u00eda, las personas que est\u00e1n impuras no pueden rendirle culto a Dios. Pero ser\u00e1n consideradas puras si se les roc\u00eda la sangre de chivos y toros, y las cenizas de una becerra sacrificada."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pues si todo eso tiene poder, m\u00e1s poder tiene la sangre de Cristo. Porque por medio del Esp\u00edritu, que vive para siempre, Cristo se ofreci\u00f3 a s\u00ed mismo a Dios como sacrificio sin mancha ni pecado. Su sangre nos purifica, para que estemos seguros de que hemos sido perdonados, y para que podamos servir a Dios, que vive para siempre."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El nuevo pacto - As\u00ed, por medio de Jesucristo, entramos en un nuevo pacto con Dios. Porque Jesucristo muri\u00f3 para que Dios nos perdonara todo lo malo que hicimos cuando serv\u00edamos al primer pacto. Y por medio de su muerte, tambi\u00e9n los que hemos sido elegidos por Dios recibiremos la salvaci\u00f3n eterna que \u00e9l nos ha prometido."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Este nuevo pacto es como un testamento. Si la persona que hace un testamento no ha muerto todav\u00eda, ese documento a\u00fan no sirve de nada."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Este nuevo pacto es como un testamento. Si la persona que hace un testamento no ha muerto todav\u00eda, ese documento a\u00fan no sirve de nada."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Por eso, cuando Dios hizo el primer pacto, se mataron varios animales."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Primero, Mois\u00e9s anunci\u00f3 los mandamientos de la ley a todo el pueblo. Luego tom\u00f3 lana roja y una rama de hisopo, y las moj\u00f3 en agua mezclada con sangre de toros y de chivos. Despu\u00e9s roci\u00f3 esa mezcla sobre el libro de la Ley, y con ella roci\u00f3 tambi\u00e9n a todo el pueblo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Cuando termin\u00f3, dijo: \u00abEsta sangre confirma el pacto que Dios ha hecho con ustedes.\u00bb"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Mois\u00e9s tambi\u00e9n roci\u00f3 con sangre el santuario y todas las cosas que se usaban en el culto."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "La ley dice que la sangre quita el pecado de casi todas las cosas, y que debemos ofrecer sangre a Dios para que nos perdone nuestros pecados."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Por eso fue necesario matar a esos animales, para limpiar todo lo que hay en el santuario, que es una copia de lo que hay en el cielo. Pero lo que hay en el cielo necesita algo mejor que sacrificios de animales."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "El mejor sacrificio - Porque Cristo no entr\u00f3 en el santuario hecho por seres humanos, que era s\u00f3lo una copia del santuario verdadero. Cristo entr\u00f3 en el cielo mismo, y all\u00ed se presenta ante Dios para pedirle que nos perdone."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "No entr\u00f3 para ofrecerse como sacrificio muchas veces, como aqu\u00ed en la tierra lo hace el jefe de los sacerdotes, que entra una vez al a\u00f1o para ofrecer una sangre que no es la suya."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Si Cristo tuviera que hacer lo mismo, habr\u00eda tenido que morir muchas veces desde que Dios cre\u00f3 el mundo. Pero lo cierto es que ahora, cuando ya se acerca el fin, Cristo se ha manifestado de una vez y para siempre. Se ha manifestado para ofrecerse como el sacrificio por el cual Dios nos perdona nuestros pecados."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Todos nosotros moriremos una sola vez, y despu\u00e9s vendr\u00e1 el juicio."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "De la misma manera, Cristo se ha ofrecido una sola vez para que muchos seamos perdonados de nuestros pecados. Despu\u00e9s \u00e9l volver\u00e1 otra vez al mundo, pero no para morir por nuestros pecados, sino para salvar a todos los que esperamos su venida."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La ley antigua ya no sirve - La ley de Mois\u00e9s era s\u00f3lo una muestra de lo bueno que Dios nos iba a dar, y no lo que en verdad nos dar\u00eda. Por eso, la ley nunca puede hacer perfectos a los que, cada a\u00f1o, van al santuario a ofrecer a Dios los mismos sacrificios de siempre."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Si en verdad la ley pudiera quitarles el pecado, no se sentir\u00edan culpables y dejar\u00edan de ofrecer sacrificios a Dios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pero sucede lo contrario. Cada a\u00f1o, cuando ofrecen esos sacrificios, lo \u00fanico que logran es recordar sus pecados."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Porque la sangre de los toros y de los chivos que se sacrifican no puede quitar los pecados."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Por eso, cuando Cristo vino a este mundo, le dijo a Dios: \u00abT\u00fa no pides sacrificios a cambio de tu perd\u00f3n; por eso me has dado un cuerpo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Por eso, cuando Cristo vino a este mundo, le dijo a Dios: \u00abT\u00fa no pides sacrificios a cambio de tu perd\u00f3n; por eso me has dado un cuerpo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbPor eso te dije: \u201cAqu\u00ed me tienes, para cumplir tu voluntad. As\u00ed me lo ense\u00f1a la Ley de Mois\u00e9s.\u201d\u00bb"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En primer lugar, este salmo dice que Dios no quiere, ni le gustan, los sacrificios y las ofrendas, ni los animales quemados sobre el altar, aunque la ley manda que sean presentados."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Despu\u00e9s de eso, el salmo dice que Cristo vino a cumplir la voluntad de Dios. Es decir, Cristo quit\u00f3 aquellos sacrificios antiguos, y estableci\u00f3 uno nuevo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dios nos eligi\u00f3 porque Jesucristo obedeci\u00f3 sus \u00f3rdenes al morir en la cruz, y ofreci\u00f3 su cuerpo como sacrificio una sola vez y para siempre."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Aunque los sacrificios de animales no quitan el pecado, los sacerdotes jud\u00edos siguen ofreci\u00e9ndolos muchas veces todos los d\u00edas."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pero Jesucristo le ofreci\u00f3 a Dios un solo sacrificio para siempre, y as\u00ed nos perdon\u00f3 nuestros pecados. Luego se sent\u00f3 a la derecha del trono de Dios,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "y all\u00ed estar\u00e1 esperando, hasta que Dios derrote a sus enemigos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque, con un solo sacrificio, Jesucristo hizo que Dios hiciera perfectos a todos los que eligi\u00f3 para ser parte de su pueblo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "As\u00ed lo asegura el Esp\u00edritu Santo cuando dice:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00abPor eso, \u00e9ste ser\u00e1 mi nuevo pacto con el pueblo de Israel: har\u00e9 que mis ense\u00f1anzas las aprendan de memoria, y que sean la gu\u00eda de su vida."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Y nunca m\u00e1s me acordar\u00e9 de sus pecados y maldades.\u00bb"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Por lo tanto, si nuestros pecados han sido perdonados, ya no es necesario darle a Dios m\u00e1s ofrendas para que nos perdone."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Amistad con Dios - Hermanos, la sangre que Jes\u00fas derram\u00f3 al morir nos permite ahora tener amistad con Dios, y entrar con toda libertad en el lugar m\u00e1s santo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Pues cuando Jes\u00fas muri\u00f3, abri\u00f3 la cortina que nos imped\u00eda el paso. Pero ahora Jes\u00fas est\u00e1 vivo, y por medio de \u00e9l podemos acercarnos a Dios de un modo nuevo y distinto."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00c9l es nuestro gran sacerdote, encargado del santuario que est\u00e1 en el cielo."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Por eso, mantengamos una amistad sincera con Dios, teniendo la plena seguridad de que podemos confiar en \u00e9l. Porque Cristo nos dej\u00f3 limpios de pecado, como si nos hubiera lavado con agua pura, y ya estamos libres de culpa."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Sigamos confiando en que Dios nos salvar\u00e1. No lo dudemos ni un instante, porque \u00e9l cumplir\u00e1 lo que prometi\u00f3."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Tratemos de ayudarnos unos a otros, y de amarnos y hacer lo bueno."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "No dejemos de reunirnos, como hacen algunos. Al contrario, anim\u00e9monos cada vez m\u00e1s a seguir confiando en Dios, y m\u00e1s a\u00fan cuando ya vemos que se acerca el d\u00eda en que el Se\u00f1or juzgar\u00e1 a todo el mundo."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Si seguimos pecando despu\u00e9s de haber conocido la verdadera ense\u00f1anza de Dios, ning\u00fan sacrificio podr\u00e1 hacer que Dios nos perdone."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "No nos quedar\u00eda m\u00e1s remedio que esperar, con un miedo terrible, el juicio final, que es cuando los enemigos de Dios ser\u00e1n destruidos con fuego ardiente."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Si en un juicio dos testigos afirman que alguien ha desobedecido la ley de Mois\u00e9s, los jueces no le tienen compasi\u00f3n a esa persona y ordenan su muerte."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "\u00a1Imag\u00ednense entonces el terrible castigo que recibir\u00e1n los que desprecian al Hijo de Dios, y los que dicen que su muerte no sirve para nada! Los que hacen eso insultan al Esp\u00edritu de Dios, que los ama, y menosprecian la muerte de Cristo, es decir, el nuevo pacto por medio del cual Dios les perdona sus pecados."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Adem\u00e1s, como todos sabemos, Dios dijo que \u00e9l se vengar\u00e1 de sus enemigos, y que los castigar\u00e1 por todo lo malo que han hecho. Tambi\u00e9n dijo que juzgar\u00e1 a su pueblo."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "\u00a1Que terrible debe ser que el Dios de la vida tenga que castigarnos!"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Recuerden todas las dificultades y los sufrimientos por los que ustedes pasaron al principio, cuando aceptaron la buena noticia. A pesar de eso, nunca dejaron de confiar."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "A muchos de ustedes sus enemigos los insultaron y los maltrataron delante de la gente, y en otras ocasiones ustedes sufrieron con quienes eran tratados as\u00ed."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Tambi\u00e9n tuvieron ustedes compasi\u00f3n de los que estaban en la c\u00e1rcel, y con alegr\u00eda dejaron que las autoridades les quitaran sus pertenencias, porque sab\u00edan que en el cielo tienen algo mucho mejor y m\u00e1s duradero."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Por eso, no dejen de confiar en Dios, porque s\u00f3lo as\u00ed recibir\u00e1n un gran premio."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Sean fuertes, y por ning\u00fan motivo dejen de confiar en \u00e9l cuando est\u00e9n sufriendo, para que as\u00ed puedan hacer lo que Dios quiere y reciban lo que \u00e9l les ha prometido."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Pues Dios dice en la Biblia: \u00abMuy pronto llegar\u00e1 el que tiene que venir. \u00a1Ya no tarda!"
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "\u00bbLos que me son fieles en todo y conf\u00edan en m\u00ed vivir\u00e1n para siempre. Pero si dejan de serme fieles, no estar\u00e9 contento con ellos.\u00bb"
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Gracias a Dios, nosotros no somos de los que dejan de ser fieles y acaban siendo castigados, sino que somos de los que reciben la salvaci\u00f3n por confiar en Dios."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La confianza en Dios - Confiar en Dios es estar totalmente seguro de que uno va a recibir lo que espera. Es estar convencido de que algo existe, aun cuando no se pueda ver."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dios acept\u00f3 a nuestros antepasados porque ellos confiaron en \u00e9l."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Y nosotros creemos que Dios cre\u00f3 el universo con una sola orden suya. Lo que ahora vemos fue hecho de cosas que no pod\u00edan verse."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Abel confi\u00f3 en Dios, y por eso le ofreci\u00f3 un sacrificio mejor que el de Ca\u00edn. Por eso Dios consider\u00f3 que Abel era justo, y acept\u00f3 sus ofrendas. Y aunque Abel ya est\u00e1 muerto, todav\u00eda podemos aprender mucho de la confianza que \u00e9l tuvo en Dios."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Henoc confi\u00f3 en Dios y, por eso, en vez de morir, Dios se lo llev\u00f3 de este mundo y nadie volvi\u00f3 a encontrarlo. La Biblia dice que, antes de que Henoc fuera llevado, fue obediente, y eso le agrad\u00f3 a Dios."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Porque a Dios no le gusta que no confiemos en \u00e9l. Para ser amigos de Dios, hay que creer que \u00e9l existe y que sabe premiar a los que buscan su amistad."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "No\u00e9 confi\u00f3 en Dios y, por eso, cuando Dios le avis\u00f3 que suceder\u00edan cosas que todav\u00eda no pod\u00edan verse, obedeci\u00f3 y construy\u00f3 una casa flotante para salvar a su familia. Por su confianza en Dios, No\u00e9 recibi\u00f3 las bendiciones que Dios da a todos los que lo obedecen. Tambi\u00e9n por su confianza en Dios, No\u00e9 hizo que la gente de este mundo fuera condenada."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Abraham confi\u00f3 en Dios, y por eso obedeci\u00f3 cuando Dios le orden\u00f3 que saliera de su tierra para ir al pa\u00eds que le dar\u00eda, aun cuando no sab\u00eda hacia d\u00f3nde iba."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Abraham confi\u00f3 tanto en Dios que vivi\u00f3 como un extranjero en el pa\u00eds que Dios le hab\u00eda prometido. Vivi\u00f3 en tiendas de campa\u00f1a, igual que Isaac y Jacob, a quienes Dios tambi\u00e9n les hab\u00eda prometido ese pa\u00eds."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Abraham confiaba en que alg\u00fan d\u00eda ver\u00eda la ciudad que Dios hab\u00eda planeado y construido sobre bases firmes."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Abraham confi\u00f3 en Dios y, por eso, aunque su esposa Sara no pod\u00eda tener hijos y \u00e9l era ya muy viejo, Dios le dio fuerzas para tener un hijo. Y es que Abraham confi\u00f3 en que Dios cumplir\u00eda su promesa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Por eso Abraham, aun cuando ya iba a morir, pudo tener tantos descendientes como las estrellas del cielo y como la arena que hay a la orilla del mar. \u00a1Nadie puede contarlos!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Todas las personas que hemos mencionado murieron sin recibir las cosas que Dios les hab\u00eda prometido. Pero como ellos confiaban en Dios, las vieron desde lejos y se alegraron, pues sab\u00edan que en este mundo ellos estaban de paso, como los extranjeros."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Queda claro, entonces, que quienes reconocen esto todav\u00eda buscan un pa\u00eds propio,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "y que no est\u00e1n pensando en volver al pa\u00eds de donde salieron, pues de otra manera hubieran regresado all\u00e1."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Lo que desean es tener un pa\u00eds mejor en el cielo. Por eso Dios les ha preparado una ciudad, y no tiene verg\u00fcenza de que le llamen su Dios."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Abraham confi\u00f3 en Dios cuando Dios quiso probar si \u00e9l lo obedecer\u00eda o no. Por eso Abraham tom\u00f3 a su hijo Isaac para ofrecerlo como sacrificio. No le import\u00f3 que fuera su \u00fanico hijo,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "ni que Dios le hubiera prometido que por medio de Isaac tendr\u00eda muchos descendientes."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Abraham sab\u00eda que Dios tiene poder para hacer que los muertos vuelvan a vivir. Esa confianza hizo que Abraham no tuviera que matar a su hijo; y fue como si Isaac hubiera vuelto a vivir."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Isaac confi\u00f3 en Dios, y por eso les prometi\u00f3 a sus hijos Jacob y Esa\u00fa que Dios los iba a bendecir."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Jacob confi\u00f3 en Dios y, por eso, cuando ya estaba por morir, les prometi\u00f3 a los hijos de Jos\u00e9 que Dios los iba a bendecir. Luego, se apoy\u00f3 en la punta de su bast\u00f3n y ador\u00f3 a Dios."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Jos\u00e9 confi\u00f3 en Dios y, por eso, poco antes de morir, anunci\u00f3 que los israelitas saldr\u00edan libres de Egipto, y dej\u00f3 instrucciones para que supieran qu\u00e9 hacer con sus huesos."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Los padres de Mois\u00e9s confiaron en Dios y, por eso, cuando Mois\u00e9s naci\u00f3, lo escondieron durante tres meses. El rey de Egipto hab\u00eda ordenado que se matara a todos los ni\u00f1os israelitas, pero ellos vieron que Mois\u00e9s era un ni\u00f1o hermoso y no tuvieron miedo, porque confiaban en Dios."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Mois\u00e9s confi\u00f3 en Dios y, por eso, cuando ya fue hombre, no quiso seguir siendo hijo adoptivo de la hija del rey."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "No quiso disfrutar de lo que pod\u00eda hacer y tener como egipcio, pues era pecado. Prefiri\u00f3 que los egipcios lo maltrataran, como lo hac\u00edan con el pueblo de Dios."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "En vez de disfrutar de las riquezas de Egipto, Mois\u00e9s decidi\u00f3 que era mejor sufrir, como tambi\u00e9n iba a sufrir el Mes\u00edas, pues sab\u00eda que Dios le dar\u00eda su premio."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Mois\u00e9s confi\u00f3 en Dios y, por eso no le tuvo miedo al rey ni se rindi\u00f3 nunca. Salio de Egipto, y actu\u00f3 como si estuviera viendo a Dios, que es invisible."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Mois\u00e9s confi\u00f3 en Dios, y por eso celebr\u00f3 la Pascua. Tambi\u00e9n mand\u00f3 rociar con sangre las puertas de las casas israelitas. As\u00ed, el \u00e1ngel enviado a matar no le hizo da\u00f1o a ning\u00fan hijo mayor de las familias israelitas."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Los israelitas confiaron en Dios, y por eso cruzaron el Mar de los Juncos como si caminaran sobre tierra seca. Pero cuando los egipcios quisieron pasar, todos ellos se ahogaron."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Los israelitas confiaron en Dios y, por eso, cuando marcharon alrededor de la ciudad de Jeric\u00f3 durante siete d\u00edas, los muros de la ciudad se vinieron abajo."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Rahab, la prostituta, confi\u00f3 en Dios y trat\u00f3 bien a los esp\u00edas de Israel. Por eso no muri\u00f3 junto con los que hab\u00edan desobedecido a Dios en Jeric\u00f3."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "\u00bfQu\u00e9 m\u00e1s les puedo decir? No me alcanzar\u00eda el tiempo para hablarles de la confianza en Dios de Gede\u00f3n, de Barac, de Sans\u00f3n, de Jeft\u00e9, de David, de Samuel y de los profetas."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Ellos confiaron en Dios, y por eso conquistaron pa\u00edses; y como actuaron con justicia, recibieron lo que Dios les hab\u00eda prometido. Cerraron la boca de leones y"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "apagaron grandes incendios. Escaparon de que los mataran con espada, recibieron fuerzas cuando m\u00e1s d\u00e9biles estaban, y en la guerra fueron tan poderosos que vencieron a los ej\u00e9rcitos enemigos."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Algunas mujeres confiaron en Dios, y por eso Dios hizo que sus familiares muertos volvieran a vivir. Algunos confiaron tanto en Dios que no quisieron que los dejaran en libertad. Al contrario, dejaron que los mataran, porque sab\u00edan que volver\u00edan a vivir y as\u00ed estar\u00edan mucho mejor."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Mucha gente se burl\u00f3 de ellos y los maltrat\u00f3, y hasta los meti\u00f3 en la c\u00e1rcel."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "A otros los mataron a pedradas, los partieron en dos con una sierra, o los mataron con espada. Algunos anduvieron de un lugar a otro con ropas hechas de piel de oveja o de cabra. Eran pobres, estaban tristes, y hab\u00edan sido maltratados."
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "La gente de este mundo no merec\u00eda personas tan buenas, que anduvieron sin rumbo fijo por el desierto, por las monta\u00f1as, por las cuevas y las cavernas de la tierra."
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Dios estaba contento con todas estas personas, pues confiaron en \u00e9l. Pero ninguna de ellas recibi\u00f3 lo que Dios hab\u00eda prometido."
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "Y es que Dios ten\u00eda un plan mucho mejor, para que nosotros tambi\u00e9n recibi\u00e9ramos lo prometido. Dios s\u00f3lo har\u00e1 perfectas a esas personas cuando nos haya hecho perfectos a nosotros."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los sufrimientos y nuestra confianza en Dios - \u00a1Todas esas personas est\u00e1n a nuestro alrededor como testigos! Por eso debemos dejar de lado el pecado que es un estorbo, pues la vida es una carrera que exige resistencia."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pongamos toda nuestra atenci\u00f3n en Jes\u00fas, pues de \u00e9l viene nuestra confianza, y es \u00e9l quien hace que confiemos cada vez m\u00e1s y mejor. Jes\u00fas soport\u00f3 la verg\u00fcenza de morir clavado en una cruz porque sab\u00eda que, despu\u00e9s de tanto sufrimiento, ser\u00eda muy feliz. Y ahora se ha sentado a la derecha del trono de Dios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Piensen en el ejemplo de Jes\u00fas. Mucha gente pecadora lo odi\u00f3 y lo hizo sufrir, pero \u00e9l sigui\u00f3 adelante. Por eso, ustedes no deben rendirse ni desanimarse,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "pues en su lucha contra el pecado todav\u00eda no han tenido que morir como \u00e9l."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pero ustedes parecen haberse olvidado ya del consejo que Dios les da a sus hijos en la Biblia: \u00abQuerido jovencito, no tomes las intrucciones de Dios como algo sin importancia. Ni te pongas triste cuando \u00e9l te reprenda."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbPorque Dios corrige y castiga a todo aquel que ama y que considera su hijo.\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Si ahora ustedes est\u00e1n sufriendo, es porque Dios los ama y los corrige, como si fueran sus hijos. Porque no hay un padre que no corrija a su hijo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Si Dios no los corrige, como lo hace con todos sus hijos, entonces ustedes no son en verdad sus hijos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Cuando \u00e9ramos ni\u00f1os, nuestros padres aqu\u00ed en la tierra nos correg\u00edan, y nosotros los respet\u00e1bamos. Con mayor raz\u00f3n debemos obedecer a Dios, que es nuestro Padre que est\u00e1 en el cielo, pues as\u00ed tendremos vida eterna."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Cuando \u00e9ramos ni\u00f1os, nuestros padres nos correg\u00edan porque pensaban que eso era lo mejor para nosotros. Pero Dios nos corrige para nuestro verdadero bien, para hacernos santos como \u00e9l."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Desde luego que ning\u00fan castigo nos gusta en el momento de recibirlo, pues nos duele. Pero si aprendemos la lecci\u00f3n que Dios nos quiere dar, viviremos en paz y haremos el bien."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Por todo eso, no debemos dejar de confiar totalmente en Dios. Si la vida es como una carrera, y ustedes tienen ya cansadas las manos y d\u00e9biles las rodillas, cobren nuevas fuerzas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Corran por un camino recto y parejo, para que el pie que est\u00e9 cojo se sane y no se tuerza m\u00e1s."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Advertencia - Traten de vivir en paz con todos, y de obedecer a Dios; porque si no lo hacen, jam\u00e1s lo ver\u00e1n cara a cara."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "No dejen que nadie se aleje del amor de Dios. Tampoco permitan que nadie cause problemas en el grupo, porque eso les har\u00eda da\u00f1o; \u00a1ser\u00eda como una planta amarga, que los envenenar\u00eda!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ninguno debe tener relaciones sexuales prohibidas ni despreciar a Dios. Eso fue lo que hizo Esa\u00fa, pues cambi\u00f3 sus derechos de hijo mayor por un plato de comida,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "y cuando quiso que su padre le reconociera esos derechos, \u00e9l no se los reconoci\u00f3. Esa\u00fa llor\u00f3 mucho, pero ya no hab\u00eda nada que hacer."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ustedes no se acercaron al monte Sina\u00ed, el cual se pod\u00eda ver y tocar, y en el que hab\u00eda fuego, oscuridad, tinieblas y tormenta."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Tampoco oyeron el sonido de una trompeta, ni la voz de Dios d\u00e1ndoles mandamientos. Los que oyeron esa voz en el monte Sina\u00ed ped\u00edan que se callara,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "pues no pod\u00edan obedecer el mandamiento que les ordenaba: \u00abDeber\u00e1n matar a pedradas, o con una lanza, a cualquier persona o animal que ponga un pie en este monte.\u00bb"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Tan terrible fue lo que ellos vieron en ese monte, que Mois\u00e9s mismo dijo: \u00abEstoy temblando de miedo.\u00bb"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ustedes, por el contrario, se han acercado al monte Si\u00f3n y a la ciudad de Dios, quien vive para siempre. \u00c9sa es la ciudad de Jerusal\u00e9n, que est\u00e1 en el cielo. All\u00ed hay miles de \u00e1ngeles que alaban a Dios,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "y all\u00ed est\u00e1n todos aquellos a quienes Dios trat\u00f3 como a hijos, y a quienes les dio el derecho de vivir en el cielo. Ustedes se han acercado a Dios, quien juzgar\u00e1 a todo el mundo. Tambi\u00e9n se han acercado a los esp\u00edritus de las personas buenas que Dios hizo perfectas."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Se han acercado a Jes\u00fas, y recuerden que, por medio de \u00e9l, Dios hizo un nuevo pacto con ustedes. Gracias a la sangre que Jes\u00fas derram\u00f3 al morir, hemos sido perdonados de nuestros pecados. Por eso Jes\u00fas es mejor que Abel, pues la sangre de Abel no ofrece perd\u00f3n, sino que pide venganza."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Tengan cuidado cuando Dios les llame la atenci\u00f3n. No lo rechacen, porque los israelitas que en el pasado lo rechazaron, no escaparon del castigo. En aquella ocasi\u00f3n, cuando Dios les habl\u00f3, su voz hizo temblar la tierra. Y si nosotros rechazamos a Dios, que nos llama la atenci\u00f3n desde el cielo, tampoco escaparemos del castigo. Porque ahora \u00e9l dice: \u00abOtra vez har\u00e9 temblar, no s\u00f3lo la tierra, sino tambi\u00e9n el cielo.\u00bb"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Tengan cuidado cuando Dios les llame la atenci\u00f3n. No lo rechacen, porque los israelitas que en el pasado lo rechazaron, no escaparon del castigo. En aquella ocasi\u00f3n, cuando Dios les habl\u00f3, su voz hizo temblar la tierra. Y si nosotros rechazamos a Dios, que nos llama la atenci\u00f3n desde el cielo, tampoco escaparemos del castigo. Porque ahora \u00e9l dice: \u00abOtra vez har\u00e9 temblar, no s\u00f3lo la tierra, sino tambi\u00e9n el cielo.\u00bb"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Y cuando dice \u00abotra vez\u00bb, entendemos que \u00e9l quitar\u00e1 las cosas creadas, las que se pueden mover, para dejar las cosas que no pueden ser movidas."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Gracias a Dios, el reino que \u00e9l nos da no puede ser movido. Por eso debemos adorar a Dios con el amor y la honra que a \u00e9l le gusta recibir."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Porque nuestro Dios es como un fuego destructor."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00bfC\u00f3mo debe vivir el cristiano? - \u00c1mense siempre los unos a los otros, como hermanos en Cristo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "No se olviden de recibir bien a la gente que llegue a sus casas, pues de ese modo mucha gente, sin darse cuenta, ha recibido \u00e1ngeles."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Preoc\u00fapense por los hermanos que est\u00e1n en la c\u00e1rcel y por los que han sido maltratados. Piensen c\u00f3mo se sentir\u00edan ustedes si estuvieran en la misma situaci\u00f3n."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Todos deben considerar el matrimonio como algo muy valioso. El esposo y la esposa deben ser fieles el uno al otro, porque Dios castigar\u00e1 a los que tengan relaciones sexuales prohibidas y sean infieles en el matrimonio."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "No vivan preocupados por tener m\u00e1s dinero. Est\u00e9n contentos con lo que tienen, porque Dios ha dicho en la Biblia: \u00abNunca te dejar\u00e9 desamparado.\u00bb"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Por eso, podemos repetir con toda confianza lo que dice la Biblia: \u00abNo tengo miedo. Nadie puede hacerme da\u00f1o porque Dios me ayuda.\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Piensen en los l\u00edderes que les anunciaron el mensaje de Dios, pues ellos confiaron siempre en Dios. Piensen mucho en ellos y sigan su ejemplo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jesucristo nunca cambia: es el mismo ayer, hoy y siempre."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Por eso, no hagan caso de ense\u00f1anzas extra\u00f1as, que no tienen nada que ver con lo que Jesucristo nos ense\u00f1\u00f3. Esas reglas acerca de lo que se debe comer, y de lo que no se debe comer, nunca han ayudado a nadie. Es mejor que nos d\u00e9 fuerzas el amor de Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Los sacerdotes del antiguo lugar de culto no tienen derecho a comer de lo que hay en nuestro altar."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El Jefe de los sacerdotes lleva al antiguo lugar de culto la sangre de los animales sacrificados, para ofrec\u00e9rsela a Dios y pedir el perd\u00f3n por los pecados. Sin embargo, los cuerpos de esos animales se queman fuera del lugar donde vive el pueblo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Del mismo modo, Jes\u00fas muri\u00f3 fuera de la ciudad de Jerusal\u00e9n para que, por medio de su sangre, Dios perdonara a su pueblo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Por eso, tambi\u00e9n nosotros debemos salir junto con Jes\u00fas, y compartir con \u00e9l la verg\u00fcenza que le hicieron pasar al clavarlo en una cruz."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque en este mundo no tenemos una ciudad que dure para siempre, sino que vamos al encuentro de la ciudad que est\u00e1 por venir."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nuestra ofrenda a Dios es darle gracias siempre, por medio de Jesucristo, pues hemos dicho que \u00e9l es nuestro Se\u00f1or."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nunca se olviden de hacer lo bueno, ni de compartir lo que tienen con los que no tienen nada. \u00c9sos son los sacrificios que agradan a Dios."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Obedezcan a sus l\u00edderes, porque ellos cuidan de ustedes sin descanso, y saben que son responsables ante Dios de lo que a ustedes les pase. Traten de no causar problemas, para que el trabajo que ellos hacen sea agradable y ustedes puedan servirles de ayuda."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Oren por nosotros. Estamos seguros de que Dios no tiene nada contra nosotros, pues tratamos de portarnos bien en todo."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Oren especialmente para que yo pueda ir pronto a visitarlos."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Despedida - El Dios de paz resucit\u00f3 a nuestro Se\u00f1or Jes\u00fas, y por medio de la sangre que Jes\u00fas derram\u00f3 al morir, hizo un pacto eterno con nosotros. Somos el reba\u00f1o de Jes\u00fas, y \u00e9l es nuestro gran Pastor. Por eso le pido al Dios de paz que haga que ustedes sean buenos y perfectos en todo, y que Jesucristo los ayude a obedecerlo. \u00a1Que Jes\u00fas reciba la gloria y la honra por siempre! Am\u00e9n."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Despedida - El Dios de paz resucit\u00f3 a nuestro Se\u00f1or Jes\u00fas, y por medio de la sangre que Jes\u00fas derram\u00f3 al morir, hizo un pacto eterno con nosotros. Somos el reba\u00f1o de Jes\u00fas, y \u00e9l es nuestro gran Pastor. Por eso le pido al Dios de paz que haga que ustedes sean buenos y perfectos en todo, y que Jesucristo los ayude a obedecerlo. \u00a1Que Jes\u00fas reciba la gloria y la honra por siempre! Am\u00e9n."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Hermanos, les he escrito estas breves palabras para animarlos. L\u00e9anlas con paciencia."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Quiero decirles que nuestro hermano Timoteo ya est\u00e1 en libertad y, si llega pronto, me acompa\u00f1ar\u00e1 a visitarlos."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Saluden por favor a todos sus l\u00edderes y a todos los hermanos que forman el pueblo santo de Dios. Los hermanos que est\u00e1n en Italia les mandan saludos."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u00a1Deseo de todo coraz\u00f3n que Dios los llene de su amor!"
+                }
+            }
+        }
+    }
+}

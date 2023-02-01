@@ -1,0 +1,367 @@
+{
+    "version": "KAR",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c9s l\u00f5n azon napokban, a mikor a b\u00edr\u00e1k b\u00edr\u00e1skod\u00e1nak, \u00e9hs\u00e9g l\u00f5n a f\u00f6ld\u00f6n. \u00c9s elm\u00e9ne egy f\u00e9rfi a J\u00fada Bethlehem\u00e9b\u00f5l, hogy Mo\u00e1b mezej\u00e9n tart\u00f3zkodj\u00e9k; \u00f5 meg a feles\u00e9ge, \u00e9s a k\u00e9t fia."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A f\u00e9rfi neve Elim\u00e9lek \u00e9s feles\u00e9ge neve Na\u00f3mi; k\u00e9t fiok neve pedig Mahlon \u00e9s Kiljon; efrataiak, a J\u00fada Bethlehem\u00e9b\u00f5l val\u00f3k. \u00c9s eljut\u00e1nak Mo\u00e1b mezej\u00e9re, \u00e9s ott val\u00e1nak."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Meghala pedig Elim\u00e9lek a Na\u00f3mi f\u00e9rje, \u00e9s marada \u00f5 \u00e9s az \u00f5 k\u00e9t fia."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A kik Mo\u00e1bita le\u00e1nyokat v\u00f5nek feles\u00e9g\u00fcl; az egyiknek neve Orpa, \u00e9s a m\u00e1siknak neve Ruth. \u00c9s ott lakoz\u00e1nak k\u00f6zel t\u00edz esztendeig."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Meghal\u00e1nak \u00f5k is mind a ketten, Mahlon is, Kiljon is, \u00e9s marada az asszony az \u00f5 k\u00e9t fia \u00e9s f\u00e9rje n\u00e9lk\u00fcl."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Felkele az\u00e9rt \u00f5 \u00e9s az \u00f5 menyei, \u00e9s \u00f5 visszat\u00e9re Mo\u00e1b mezej\u00e9r\u00f5l; mert hallotta vala Mo\u00e1b mezej\u00e9n, hogy megl\u00e1togatta az \u00dar az \u00f5 n\u00e9p\u00e9t, hogy adjon n\u00e9kik kenyeret."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00c9s kim\u00e9ne arr\u00f3l a helyr\u00f5l, a hol volt, \u00e9s vele a k\u00e9t menye. \u00c9s men\u00e9nek az \u00faton, hogy visszat\u00e9rjenek J\u00fada f\u00f6ld\u00e9re,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00c9s monda Na\u00f3mi az \u00f5 k\u00e9t meny\u00e9nek: Menjetek, t\u00e9rjetek vissza, kiki az \u00f5 anyj\u00e1nak h\u00e1z\u00e1hoz. Cselekedj\u00e9k az \u00dar irgalmass\u00e1got veletek, a mik\u00e9pen ti cselekedtetek a megholtakkal \u00e9s \u00e9n velem!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Adja az \u00dar tin\u00e9ktek, hogy tal\u00e1ljatok nyugodalmat, kiki az \u00f5 f\u00e9rje h\u00e1z\u00e1ban. \u00c9s megcs\u00f3kol\u00e1 \u00f5ket; \u00e9s \u00f5k nagy felsz\u00f3val s\u00edr\u00e1nak."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00c9s mond\u00e1k n\u00e9ki: Bizony mi veled egy\u00fctt t\u00e9r\u00fcnk a te n\u00e9pedhez!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Na\u00f3mi pedig mond\u00e1: T\u00e9rjetek vissza le\u00e1nyaim! Mi\u00e9rt j\u00f6nn\u00e9tek \u00e9n velem? H\u00e1t ugyan vannak-\u00e9 m\u00e9g fiak az \u00e9n m\u00e9hemben, a kik f\u00e9rjeitek lehetn\u00e9nek?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "T\u00e9rjetek vissza le\u00e1nyaim! menjetek, mert \u00e9n m\u00e1r v\u00e9nebb vagyok, semhogy f\u00e9rjhez mehetn\u00e9k. M\u00e9g ha azt mondan\u00e1m is, hogy van rem\u00e9nys\u00e9gem; m\u00e9g ha ez \u00e9jjel f\u00e9rjhez menn\u00e9k is \u00e9s sz\u00fcln\u00e9k is fiakat:"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ugyan megv\u00e1rhatn\u00e1tok-\u00e9 \u00f5ket, a m\u00edg feln\u00f5nek? Ugyan megtart\u00f3ztatn\u00e1tok-\u00e9 magatokat miattok, hogy f\u00e9rjhez ne menjetek? Ne, \u00e9des le\u00e1nyaim! Mert nagyobb az \u00e9n keser\u00fcs\u00e9gem, mint a tietek, mert engem tal\u00e1lt az \u00darnak keze."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Azok pedig nagy felsz\u00f3val tov\u00e1bb s\u00edr\u00e1nak. \u00c9s Orpa megcs\u00f3kol\u00e1 az \u00f5 nap\u00e1t; Ruth azonban ragaszkod\u00e9k hozz\u00e1."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00d5 pedig monda: \u00cdm\u00e9 a te s\u00f3gorasszonyod visszat\u00e9rt az \u00f5 n\u00e9p\u00e9hez, \u00e9s az \u00f5 isteneihez, t\u00e9rj vissza te is a te s\u00f3gorasszonyod ut\u00e1n."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ruth pedig monda: Ne unszolj, hogy elhagyjalak, hogy visszaforduljak t\u00f5led. Mert a hova te m\u00e9gy, oda megyek, \u00e9s a hol te megsz\u00e1llsz, ott sz\u00e1llok meg; n\u00e9ped az \u00e9n n\u00e9pem, \u00e9s Istened az \u00e9n Istenem."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "A hol te meghalsz, ott halok meg, ott temessenek el engem is. \u00dagy tegyen velem az \u00dar ak\u00e1rmit, hogy csak a hal\u00e1l v\u00e1laszt el engem t\u00f5led."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mikor pedig l\u00e1t\u00e1, hogy er\u00f5sk\u00f6dik vele menni, nem sz\u00f3la n\u00e9ki t\u00f6bbet."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00c9s men\u00e9nek mind a ketten, m\u00edglen Bethlehembe \u00e9rkez\u00e9nek. \u00c9s l\u00f5n, hogy mikor Bethlehembe \u00e9rkez\u00e9nek, megmozdult az eg\u00e9sz v\u00e1ros miattok, \u00e9s mond\u00e1k: Nemde nem Na\u00f3mi ez?"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00c9s \u00f5 monda n\u00e9kik: Ne h\u00edvjatok engem Na\u00f3minak, h\u00edvjatok ink\u00e1bb M\u00e1r\u00e1nak, mert nagy keser\u00fbs\u00e9ggel illetett engem a Mindenhat\u00f3."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "T\u00f6bbed magammal mentem el, \u00e9s el\u00e1rvultan hozott vissza engemet az \u00dar; mi\u00e9rt h\u00edvn\u00e1tok h\u00e1t engem Na\u00f3minak, holott az \u00dar ellenem fordult, \u00e9s a Mindenhat\u00f3 nyomor\u00fas\u00e1ggal illetett engemet?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00cdgy t\u00e9rt vissza Na\u00f3mi, \u00e9s vele a Mo\u00e1bita Ruth, az \u00f5 menye, a ki hazat\u00e9rt Mo\u00e1b mezej\u00e9r\u00f5l. Meg\u00e9rkez\u00e9nek pedig Bethlehembe az \u00e1rpaarat\u00e1s kezdet\u00e9n."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vala pedig Na\u00f3minak egy rokona az \u00f5 f\u00e9rje ut\u00e1n, el\u00f5kel\u00f5 der\u00e9k ember Elim\u00e9lek nemzets\u00e9g\u00e9b\u00f5l; neve Bo\u00e1z."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00c9s monda a Mo\u00e1bita Ruth Na\u00f3minak: Hadd menjek, k\u00e9rlek, a mez\u00f5re, hogy kal\u00e1szokat szedegessek az ut\u00e1n, a kinek szemei el\u00f5tt kedvess\u00e9get tal\u00e1lok. \u00c9s az monda: Menj \u00e9des le\u00e1nyom."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Elm\u00e9ne az\u00e9rt \u00e9s oda\u00e9rkez\u00e9k, szedegete a mez\u00f5n az arat\u00f3k ut\u00e1n, \u00e9s t\u00f6rt\u00e9netesen oda tal\u00e1lt a Bo\u00e1z sz\u00e1nt\u00f3f\u00f6ldj\u00e9re, a ki Elim\u00e9lek nemzets\u00e9g\u00e9b\u00f5l val\u00f3 volt."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00c9s \u00edm\u00e9 Bo\u00e1z kij\u00f6ve Bethlehemb\u00f5l, \u00e9s monda az arat\u00f3knak: Az \u00dar legyen veletek! \u00c9s \u00f5k mond\u00e1nak n\u00e9ki: \u00c1ldjon meg t\u00e9ged az \u00dar!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00c9s monda Bo\u00e1z az \u00f5 szolg\u00e1j\u00e1nak, a ki az arat\u00f3k fel\u00fcgyel\u00f5je volt: Ki\u00e9 ez a le\u00e1nyz\u00f3?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00c9s felele a szolga, az arat\u00f3k fel\u00fcgyel\u00f5je, \u00e9s monda: Az a Mo\u00e1bita le\u00e1nyz\u00f3 ez, a ki Na\u00f3mival j\u00f6tt a Mo\u00e1b mezej\u00e9r\u00f5l."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "A ki mond\u00e1: Hadd szedegessek, k\u00e9rlek, \u00e9s hadd tarl\u00f3zgassak a k\u00e9v\u00e9k k\u00f6zt az arat\u00f3k ut\u00e1n. \u00c9s ide j\u00f6ve, \u00e9s itt marada reggelt\u00f5l fogva mind mostanig: \u00e9s csak \u00e9pen most pihent egy keveset a h\u00e1zban."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00c9s mond\u00e1 Bo\u00e1z Ruthnak: Ugyan hallod-\u00e9 \u00e9des le\u00e1nyom! Ne menj szedegetni m\u00e1s mez\u00f5re \u00e9s el ne menj innen; hanem menj [minden\u00fctt] szolg\u00e1l\u00f3im ut\u00e1n."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Szemeid legyenek a mez\u00f5n, a melyet aratnak, \u00e9s j\u00e1rj ut\u00e1nok. \u00cdm\u00e9 meghagytam a szolg\u00e1knak, hogy ne b\u00e1ntsanak t\u00e9ged, \u00e9s ha megszomj\u00fahozol, menj az ed\u00e9nyekhez \u00e9s igy\u00e1l abb\u00f3l, a mit a szolg\u00e1k mer\u00edtenek."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Akkor ez arczra borula \u00e9s meghajt\u00e1 mag\u00e1t a f\u00f6ldig, \u00e9s monda n\u00e9ki: Hogy- hogy tal\u00e1ltam [ilyen] kedvess\u00e9get a te szemeid el\u00f5tt, hogy r\u00e1m tekintett\u00e9l, holott \u00e9n idegen vagyok?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Bo\u00e1z pedig felele, \u00e9s monda n\u00e9ki: Bizony elmondtak n\u00e9kem mindent, amit cselekedt\u00e9l a te napaddal, f\u00e9rjed hal\u00e1la ut\u00e1n, hogy elhagytad a te aty\u00e1dat \u00e9s a te any\u00e1dat \u00e9s a te sz\u00fclet\u00e9sednek f\u00f6ld\u00e9t, \u00e9s j\u00f6tt\u00e9l ahhoz a n\u00e9phez, a melyet nem ismert\u00e9l azel\u00f5tt."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Fizessen meg az \u00dar a te cselekedeted\u00e9rt, \u00e9s legyen teljes a te jutalmad az \u00dart\u00f3l, Izr\u00e1elnek Isten\u00e9t\u00f5l, a kinek sz\u00e1rnyai alatt oltalmat keresni j\u00f6tt\u00e9l."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ez pedig monda: Tal\u00e1ljak kedvess\u00e9get a te szemeid el\u00f5tt uram, mert megvigasztalt\u00e1l engem, \u00e9s mert a te szolg\u00e1l\u00f3dnak sz\u00edv\u00e9hez sz\u00f3lt\u00e1l, holott \u00e9n nem vagyok a te szolg\u00e1l\u00f3le\u00e1nyaid k\u00f6z\u00fcl."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00c9s az ev\u00e9snek idejekor sz\u00f3la n\u00e9ki Bo\u00e1z: Jer ide, \u00e9s egy\u00e9l a keny\u00e9rb\u00f5l, \u00e9s m\u00e1rtsd be a te falatodat az eczetes [l\u00e9be]. \u00c9s \u00f5 le\u00fcle az arat\u00f3k mell\u00e9. \u00c9s pergelt gabon\u00e1t ny\u00fajtott n\u00e9ki, \u00e9s evett, s j\u00f3llakott, s\u00f5t m\u00e9g hagyott is."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Azut\u00e1n fel\u00e1llott, hogy szedegessen \u00e9s Bo\u00e1z megparancsolta az \u00f5 szolg\u00e1inak, mondv\u00e1n: A k\u00e9v\u00e9k k\u00f6z\u00f6tt is hadd szedegessen, \u00e9s meg ne pirongass\u00e1tok \u00f5t."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "S\u00f5t h\u00fazogassatok ki n\u00e9ki a k\u00e9v\u00e9kb\u00f5l is, \u00e9s hagyogassatok el, hogy szedje fel, \u00e9s meg ne dorg\u00e1lj\u00e1tok \u00f5t."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00c9s \u00f5 szedegete a mez\u00f5n mind estiglen, \u00e9s kics\u00e9pel\u00e9, a mit szedegetett, \u00e9s lett abb\u00f3l szinte egy efa \u00e1rpa."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00c9s felvev\u00e9 \u00e9s bem\u00e9ne a v\u00e1rosba, \u00e9s napaasszonya l\u00e1t\u00e1, a mit \u00f5 szedegetett. Azt\u00e1n el\u00f5vev\u00e9 \u00e9s odaad\u00e1 n\u00e9ki, a mit meghagyott, minekut\u00e1na j\u00f3llakott vala."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00c9s monda n\u00e9ki az \u00f5 napaasszonya: Hol szedegett\u00e9l ma, \u00e9s hol munk\u00e1lkodt\u00e1l? \u00c1ldott legyen, a ki r\u00e1d tekintett. \u00c9s elbesz\u00e9lte az \u00f5 napaasszony\u00e1nak, hogy kin\u00e9l munk\u00e1lkodott, \u00e9s monda: Annak a f\u00e9rfi\u00fanak a neve, a kin\u00e9l ma munk\u00e1lkodtam: Bo\u00e1z."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00c9s monda Na\u00f3mi az \u00f5 meny\u00e9nek: \u00c1ldott legyen \u00f5 az \u00dart\u00f3l, a ki nem vonta meg irgalmass\u00e1g\u00e1t az \u00e9l\u00f5kt\u00f5l \u00e9s a megholtakt\u00f3l! \u00c9s Na\u00f3mi monda n\u00e9ki: K\u00f6zel val\u00f3nk n\u00e9k\u00fcnk az a f\u00e9rfi\u00fa; legk\u00f6zelebbi rokonaink k\u00f6z\u00fcl val\u00f3 \u00f5."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00c9s sz\u00f3la a Mo\u00e1bita Ruth: M\u00e9g azt is mondta \u00f5 n\u00e9kem: Menj [minden\u00fctt] az \u00e9n munk\u00e1saim ut\u00e1n, a m\u00edg csak el nem v\u00e9gzik az \u00e9n eg\u00e9sz arat\u00e1somat."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00c9s monda Na\u00f3mi Ruthnak, az \u00f5 meny\u00e9nek: J\u00f3, \u00e9des le\u00e1nyom, hogy az \u00f5 szolg\u00e1l\u00f3ival j\u00e1rsz, ne is tal\u00e1ljanak t\u00e9ged m\u00e1s mez\u00f5n."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u00cdgy j\u00e1rt \u00f5 [minden\u00fctt] a Bo\u00e1z szolg\u00e1l\u00f3i ut\u00e1n, szedegetve, m\u00edg az \u00e1rpaarat\u00e1s \u00e9s b\u00fazaarat\u00e1s bev\u00e9gz\u00f5d\u00f6tt; \u00e9s az \u00f5 napaasszony\u00e1val lakott."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c9s monda n\u00e9ki Na\u00f3mi, az \u00f5 napaasszonya: \u00c9des le\u00e1nyom! ne keressek-\u00e9 n\u00e9ked nyugalmat, hogy j\u00f3l legyen dolgod?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Avagy nem rokonunk-\u00e9 Bo\u00e1z, a kinek szolg\u00e1l\u00f3ival volt\u00e1l? \u00cdm\u00e9 \u00f5 az \u00e9jjel \u00e1rp\u00e1t sz\u00f3r a sz\u00e9r\u00fbn."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Annakok\u00e1\u00e9rt f\u00fcr\u00f6dj\u00e9l meg, \u00e9s kend meg magadat, \u00e9s vedd magadra ruh\u00e1idat, \u00e9s menj le a sz\u00e9r\u00fbre; \u00e9szre ne v\u00e9tesd magadat a f\u00e9rfi\u00faval, a m\u00edg el nem v\u00e9gezi \u00e9tel\u00e9t \u00e9s ital\u00e1t."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00c9s majd ha lefekszik, jegyezd meg a helyet, a hol fekszik, \u00e9s menj oda, \u00e9s hajtsd fel a leplet l\u00e1b\u00e1n\u00e1l, \u00e9s fek\u00fcdj\u00e9l oda. \u00d5 majd megmondja n\u00e9ked, mit cselekedj\u00e9l."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00c9s \u00f5 monda n\u00e9ki: Mindazt, a mit mondasz, megcselekszem."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00c9s lement a sz\u00e9r\u00fbre, \u00e9s mindent \u00fagy cselekedett, a mint napaasszonya parancsolta."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00c9s Bo\u00e1z evett \u00e9s ivott, \u00e9s felvid\u00e1mult az \u00f5 sz\u00edve. \u00c9s elment, hogy lefek\u00fcdj\u00e9k a garmada sz\u00e9l\u00e9n; \u00e9s az elj\u00f6tt titkon, \u00e9s felhajt\u00e1 l\u00e1ba fel\u00f5l a leplet, \u00e9s lefek\u00fcv\u00e9k."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "T\u00f6rt\u00e9nt pedig \u00e9jf\u00e9l t\u00e1jon, hogy felrettent a f\u00e9rfi\u00fa, \u00e9s odafordult. \u00c9s \u00edm\u00e9: asszony fekszik az \u00f5 l\u00e1bain\u00e1l."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00c9s monda: Kicsoda vagy te? \u00c9s az monda: \u00c9n Ruth vagyok, a te szolg\u00e1l\u00f3d; terjeszszed ki h\u00e1t takar\u00f3dat a te szolg\u00e1l\u00f3dra, mert te vagy a legk\u00f6zelebbi rokon."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00c9s \u00f5 monda: Az \u00darnak \u00e1ldotta vagy te, \u00e9des le\u00e1nyom! Ut\u00f3bbi szereteteddel jobbat cselekedt\u00e9l, mint az els\u00f5vel: hogy nem j\u00e1rt\u00e1l az ifjak ut\u00e1n, sem szeg\u00e9ny, sem gazdag ut\u00e1n."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Most h\u00e1t, \u00e9des le\u00e1nyom, ne f\u00e9lj! Mindent, a mit mondasz, megteszek n\u00e9ked; mert tudja az \u00e9n n\u00e9pemnek eg\u00e9sz kapuja, hogy der\u00e9k asszony vagy."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9s most: bizony igaz, hogy k\u00f6zel rokon vagyok: de van n\u00e1lamn\u00e1l m\u00e9g k\u00f6zelebbi rokon is."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ez \u00e9jszak\u00e1n h\u00e1lj [itt]; s majd reggel, ha az megv\u00e1lt t\u00e9ged, j\u00f3: v\u00e1ltson meg; ha pedig nem akar t\u00e9ged megv\u00e1ltani, akkor \u00e9n v\u00e1ltalak meg. \u00c9l az \u00dar! Fek\u00fcdj [itt] reggelig."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00c9s fek\u00fcv\u00e9k az \u00f5 l\u00e1bain\u00e1l reggelig, \u00e9s felkele, miel\u00f5tt valaki az \u00f5 felebar\u00e1tj\u00e1t megismerhet\u00e9, mert mond\u00e1: Meg ne tudja senki, hogy ez az asszony a sz\u00e9r\u00fbre j\u00f6tt."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00c9s monda: Add ide a nagy kend\u00f5det, a mely rajtad van, \u00e9s tartsd. \u00c9s \u00f5 oda tartotta azt. Bo\u00e1z pedig m\u00e9rt hat [m\u00e9rt\u00e9k] \u00e1rp\u00e1t, \u00e9s feladta n\u00e9ki, maga pedig bement a v\u00e1rosba."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00c9s elm\u00e9ne az \u00f5 napaasszony\u00e1hoz, \u00e9s az monda: Hogy vagy \u00e9des le\u00e1nyom? \u00c9s \u00f5 elbesz\u00e9lt n\u00e9ki mindent, a mit cselekedett vele az a f\u00e9rfi."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00c9s monda: Ezt a hat [m\u00e9rt\u00e9k] \u00e1rp\u00e1t ad\u00e1 n\u00e9kem, mert monda: Ne menj \u00fcresen a te napadhoz."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00c9s monda [Na\u00f3mi:] L\u00e9gy veszteg le\u00e1nyom, m\u00edg megtudod, hova d\u00f5l el a dolog; mert nem nyugszik az a f\u00e9rfi\u00fa, m\u00edg v\u00e9ghez nem viszi a dolgot m\u00e9g ma."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bo\u00e1z pedig felment a kapuba, \u00e9s ott le\u00fclt. \u00c9s \u00edm\u00e9 arra ment az a legk\u00f6zelebbi rokon, a kir\u00f5l Bo\u00e1z besz\u00e9lt vala, \u00e9s monda n\u00e9ki: Jer csak, \u00fclj ide atyafi. \u00c9s az oda ment \u00e9s le\u00fcle."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ekkor \u00f5 maga mell\u00e9 vett t\u00edz f\u00e9rfi\u00fat a v\u00e1ros v\u00e9nei k\u00f6z\u00fcl \u00e9s monda: \u00dcljetek ide! \u00c9s azok le\u00fcl\u00e9nek."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00c9s \u00f5 monda a legk\u00f6zelebbi rokonnak: Azt a darab sz\u00e1nt\u00f3f\u00f6ldet, mely a mi aty\u00e1nkfi\u00e1\u00e9, Elim\u00e9lek\u00e9 volt, eladja Na\u00f3mi, a ki haza j\u00f6tt a Mo\u00e1b mezej\u00e9r\u00f5l."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00c9n pedig gondoltam, hogy f\u00fcledbe juttatom, mondv\u00e1n: Vedd meg az itt \u00fcl\u00f5k el\u00f5tt \u00e9s az \u00e9n n\u00e9pemnek v\u00e9nei el\u00f5tt. Ha megv\u00e1ltod: v\u00e1ltsd meg; \u00e9s ha nem v\u00e1ltod meg: jelentsd ki el\u00f5ttem, hogy tudjam; mert rajtad k\u00edv\u00fcl nincs, a ki megv\u00e1ltan\u00e1, \u00e9s \u00e9n vagyok ut\u00e1nad. \u00c9s az monda: \u00c9n megv\u00e1ltom."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00c9s monda Bo\u00e1z: A mely napon megveszed a sz\u00e1nt\u00f3f\u00f6ldet Na\u00f3mi kez\u00e9b\u00f5l, akkor a Mo\u00e1bita Rutht\u00f3l, a megholtnak feles\u00e9g\u00e9t\u00f5l veszed meg, hogy nevet t\u00e1maszsz a megholtnak, az \u00f5 \u00f6r\u00f6ks\u00e9g\u00e9ben."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A legk\u00f6zelebbi rokon pedig monda: Nem v\u00e1lthatom meg magamnak, hogy el ne veszessem a magam \u00f6r\u00f6ks\u00e9g\u00e9t; v\u00e1ltsd meg te magadnak az \u00e9n rokoni r\u00e9szemet, mert \u00e9n nem v\u00e1lthatom meg."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ez vala pedig [a szok\u00e1s] r\u00e9gen Izr\u00e1elben, a megv\u00e1lt\u00e1s \u00e9s cser\u00e9l\u00e9s alkalm\u00e1val, minden dolognak meger\u00f5s\u00edt\u00e9s\u00e9re: A f\u00e9rfi leh\u00fazta az \u00f5 saruj\u00e1t \u00e9s oda adta felebar\u00e1tj\u00e1nak, \u00e9s ez volt a bizonys\u00e1g Izr\u00e1elben."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Monda annakok\u00e1\u00e9rt a legk\u00f6zelebbi rokon Bo\u00e1znak: Vedd meg magadnak! \u00c9s leh\u00fazta a saruj\u00e1t."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00c9s monda Bo\u00e1z a v\u00e9neknek \u00e9s az eg\u00e9sz n\u00e9pnek: Ti vagytok tanui ma, hogy megvettem mindent, a mi Elim\u00e9lek\u00e9 volt, \u00e9s mindent, a mi Kiljon\u00e9 \u00e9s Mahlon\u00e9 volt, Na\u00f3mi kez\u00e9b\u00f5l;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "[S\u00f5t] a Mo\u00e1bita Ruthot is, Mahlonnak feles\u00e9g\u00e9t feles\u00e9g\u00fcl vettem, hogy nevet t\u00e1maszszak a megholtnak az \u00f5 \u00f6r\u00f6ks\u00e9g\u00e9ben, \u00e9s ki ne veszszen a megholtnak neve az \u00f5 atyjafiai k\u00f6z\u00fcl \u00e9s az \u00f5 helys\u00e9g\u00e9nek kapuj\u00e1b\u00f3l. Tanuk vagytok ma."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c9s monda az eg\u00e9sz n\u00e9p, mely a kapuban vala \u00e9s a v\u00e9nek: Tanuk vagyunk! Tegye az \u00dar az asszonyt, a ki a te h\u00e1zadba megy, olyann\u00e1, mint R\u00e1khel \u00e9s Lea, a kik ketten \u00e9p\u00edtett\u00e9k fel Izr\u00e1el h\u00e1z\u00e1t, \u00e9s gy\u00fbjts vagyont Efrat\u00e1ban \u00e9s szerezz nevet Bethlehemben."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9s a te h\u00e1zad legyen, mik\u00e9nt a P\u00e9recz h\u00e1za - a kit Th\u00e1m\u00e1r sz\u00fclt J\u00fad\u00e1nak - abb\u00f3l a magzatb\u00f3l, a melyet az \u00dar ad\u00e1nd n\u00e9ked ett\u00f5l az asszonyt\u00f3l."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Elvev\u00e9 annakok\u00e1\u00e9rt Bo\u00e1z Ruthot, \u00e9s l\u00f5n az n\u00e9ki feles\u00e9ge, \u00e9s bem\u00e9ne hozz\u00e1, \u00e9s megad\u00e1 az \u00dar, hogy az fogana az \u00f5 m\u00e9h\u00e9ben, \u00e9s sz\u00fclt fi\u00fat."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00c9s mond\u00e1k az asszonyok Na\u00f3minak: \u00c1ldott az \u00dar, a ki ma nem engedte meg, hogy rokon n\u00e9lk\u00fcl maradj; emlegess\u00e9k az \u00f5 nev\u00e9t Izr\u00e1elben!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00c9s legyen \u00f5 a te lelkednek megvid\u00e1m\u00edt\u00f3ja, \u00e9s v\u00e9ns\u00e9gednek ist\u00e1pol\u00f3ja, mert menyed sz\u00fclte \u00f5t, az, a ki t\u00e9ged szeret, \u00e9s a ki t\u00f6bbet \u00e9r n\u00e9ked h\u00e9t fi\u00fan\u00e1l."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ekkor megfog\u00e1 Na\u00f3mi a gyermeket, \u00e9s \u00f6l\u00e9be vev\u00e9, \u00e9s dajk\u00e1ja l\u00f5n annak."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "A szomsz\u00e9dasszonyok pedig nevet ad\u00e1nak n\u00e9ki, mondv\u00e1n: Fia sz\u00fcletett Na\u00f3minak, \u00e9s nevezt\u00e9k az \u00f5 nev\u00e9t Obednek. Ez az apja Isainak, a D\u00e1vid atyj\u00e1nak."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00c9s a P\u00e9recz nemzets\u00e9gei ezek: P\u00e9recz nemz\u00e9 Hesront;"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hesron pedig nemz\u00e9 R\u00e1mot, \u00e9s R\u00e1m nemz\u00e9 Ammin\u00e1d\u00e1bot;"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ammin\u00e1d\u00e1b pedig nemz\u00e9 Na\u00e1ssont, \u00e9s Na\u00e1sson nemz\u00e9 S\u00e1lm\u00f3nt;"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "S\u00e1lm\u00f3n pedig nemz\u00e9 Bo\u00e1zt, \u00e9s Bo\u00e1z nemz\u00e9 Obedet;"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00c9s Obed nemz\u00e9 Isait, Isai pedig nemz\u00e9 D\u00e1vidot."
+                }
+            }
+        }
+    }
+}

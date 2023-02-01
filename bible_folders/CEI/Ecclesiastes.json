@@ -1,0 +1,955 @@
+{
+    "version": "CEI",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Parole di Qo\u00e8let, figlio di Davide, re di Gerusalemme."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "PRIMA PARTE -Prologo -Vanit\u00e0 delle vanit\u00e0, dice Qo\u00e8let, vanit\u00e0 delle vanit\u00e0, tutto \u00e8 vanit\u00e0."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Quale utilit\u00e0 ricava l&#39;uomo da tutto l&#39;affanno per cui fatica sotto il sole?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Una generazione va, una generazione viene ma la terra resta sempre la stessa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Il sole sorge e il sole tramonta, si affretta verso il luogo da dove risorger\u00e0."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Il vento soffia a mezzogiorno, poi gira a tramontana; gira e rigira e sopra i suoi giri il vento ritorna."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tutti i fiumi vanno al mare, eppure il mare non \u00e8 mai pieno: raggiunta la loro m\u00e8ta, i fiumi riprendono la loro marcia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tutte le cose sono in travaglio e nessuno potrebbe spiegarne il motivo. Non si sazia l&#39;occhio di guardare n\u00e9 mai l&#39;orecchio \u00e8 sazio di udire."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ci\u00f2 che \u00e8 stato sar\u00e0 e ci\u00f2 che si \u00e8 fatto si rifar\u00e0; non c&#39;\u00e8 niente di nuovo sotto il sole."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "C&#39;\u00e8 forse qualcosa di cui si possa dire: \u00abGuarda, questa \u00e8 una novit\u00e0\u00bb? Proprio questa \u00e8 gia stata nei secoli che ci hanno preceduto."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Non resta pi\u00f9 ricordo degli antichi, ma neppure di coloro che saranno si conserver\u00e0 memoria presso coloro che verranno in seguito."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vita di Salomone -Io, Qo\u00e8let, sono stato re d&#39;Israele in Gerusalemme."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mi sono proposto di ricercare e investigare con saggezza tutto ci\u00f2 che si fa sotto il cielo. E&#39; questa una occupazione penosa che Dio ha imposto agli uomini, perch\u00e9 in essa fatichino."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ho visto tutte le cose che si fanno sotto il sole ed ecco tutto \u00e8 vanit\u00e0 e un inseguire il vento."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ci\u00f2 che \u00e8 storto non si pu\u00f2 raddrizzare e quel che manca non si pu\u00f2 contare."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Pensavo e dicevo fra me: \u00abEcco, io ho avuto una sapienza superiore e pi\u00f9 vasta di quella che ebbero quanti regnarono prima di me in Gerusalemme. La mia mente ha curato molto la sapienza e la scienza\u00bb."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ho deciso allora di conoscere la sapienza e la scienza, come anche la stoltezza e la follia, e ho compreso che anche questo \u00e8 un inseguire il vento,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "perch\u00e8 molta sapienza, molto affanno; chi accresce il sapere, aumenta il dolore."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Io ho detto in cuor mio: \u00abVieni, dunque, ti voglio mettere alla prova con la gioia: Gusta il piacere!\u00bb. Ma ecco anche questo \u00e8 vanit\u00e0."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Del riso ho detto: \u00abFollia!\u00bb e della gioia: \u00abA che giova?\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ho voluto soddisfare il mio corpo con il vino, con la pretesa di dedicarmi con la mente alla sapienza e di darmi alla follia, finch\u00e9 non scoprissi che cosa convenga agli uomini compiere sotto il cielo, nei giorni contati della loro vita."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ho intrapreso grandi opere, mi sono fabbricato case, mi sono piantato vigneti."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mi sono fatto parchi e giardini e vi ho piantato alberi da frutto d&#39;ogni specie;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "mi sono fatto vasche, per irrigare con l&#39;acqua le piantagioni."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ho acquistato schiavi e schiave e altri ne ho avuti nati in casa e ho posseduto anche armenti e greggi in gran numero pi\u00f9 di tutti i miei predecessori in Gerusalemme."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ho accumulato anche argento e oro, ricchezze di re e di province; mi sono procurato cantori e cantatrici, insieme con le delizie dei figli dell&#39;uomo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sono divenuto grande, pi\u00f9 potente di tutti i miei predecessori in Gerusalemme, pur conservando la mia sapienza."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Non ho negato ai miei occhi nulla di ci\u00f2 che bramavano, n\u00e9 ho rifiutato alcuna soddisfazione al mio cuore, che godeva d&#39;ogni mia fatica; questa \u00e8 stata la ricompensa di tutte le mie fatiche."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ho considerato tutte le opere fatte dalle mie mani e tutta la fatica che avevo durato a farle: ecco, tutto mi \u00e8 apparso vanit\u00e0 e un inseguire il vento: non c&#39;\u00e8 alcun vantaggio sotto il sole."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ho considerato poi la sapienza, la follia e la stoltezza. \u00abChe far\u00e0 il successore del re? Ci\u00f2 che \u00e8 gia stato fatto\u00bb."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mi sono accorto che il vantaggio della sapienza sulla stoltezza \u00e8 il vantaggio della luce sulle tenebre:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Il saggio ha gli occhi in fronte, ma lo stolto cammina nel buio. Ma so anche che un&#39;unica sorte \u00e8 riservata a tutt&#39;e due."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Allora ho pensato: \u00abAnche a me toccher\u00e0 la sorte dello stolto! Allora perch\u00e9 ho cercato d&#39;esser saggio? Dov&#39;\u00e8 il vantaggio?\u00bb. E ho concluso: \u00abAnche questo \u00e8 vanit\u00e0\u00bb."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Infatti, n\u00e9 del saggio n\u00e9 dello stolto rester\u00e0 un ricordo duraturo e nei giorni futuri tutto sar\u00e0 dimenticato. Allo stesso modo muoiono il saggio e lo stolto."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ho preso in odio la vita, perch\u00e9 mi \u00e8 sgradito quanto si fa sotto il sole. Ogni cosa infatti \u00e8 vanit\u00e0 e un inseguire il vento."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ho preso in odio ogni lavoro da me fatto sotto il sole, perch\u00e9 dovr\u00f2 lasciarlo al mio successore."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "E chi sa se questi sar\u00e0 saggio o stolto? Eppure potr\u00e0 disporre di tutto il mio lavoro, in cui ho speso fatiche e intelligenza sotto il sole. Anche questo \u00e8 vanit\u00e0!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Sono giunto al punto di disperare in cuor mio per tutta la fatica che avevo durato sotto il sole,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "perch\u00e9 chi ha lavorato con sapienza, con scienza e con successo dovr\u00e0 poi lasciare i suoi beni a un altro che non vi ha per nulla faticato. Anche questo \u00e8 vanit\u00e0 e grande sventura."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Allora quale profitto c&#39;\u00e8 per l&#39;uomo in tutta la sua fatica e in tutto l&#39;affanno del suo cuore con cui si affatica sotto il sole?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Tutti i suoi giorni non sono che dolori e preoccupazioni penose; il suo cuore non riposa neppure di notte. Anche questo \u00e8 vanit\u00e0!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Non c&#39;\u00e8 di meglio per l&#39;uomo che mangiare e bere e godersela nelle sue fatiche; ma mi sono accorto che anche questo viene dalle mani di Dio."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Difatti, chi pu\u00f2 mangiare e godere senza di lui?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Egli concede a chi gli \u00e8 gradito sapienza, scienza e gioia, mentre al peccatore d\u00e0 la pena di raccogliere e d&#39;ammassare per colui che \u00e8 gradito a Dio. Ma anche questo \u00e8 vanit\u00e0 e un inseguire il vento!"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La morte -Per ogni cosa c&#39;\u00e8 il suo momento, il suo tempo per ogni faccenda sotto il cielo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "C&#39;\u00e8 un tempo per nascere e un tempo per morire, un tempo per piantare e un tempo per sradicare le piante."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Un tempo per uccidere e un tempo per guarire, un tempo per demolire e un tempo per costruire."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Un tempo per piangere e un tempo per ridere, un tempo per gemere e un tempo per ballare."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Un tempo per gettare sassi e un tempo per raccoglierli, un tempo per abbracciare e un tempo per astenersi dagli abbracci."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Un tempo per cercare e un tempo per perdere, un tempo per serbare e un tempo per buttar via."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Un tempo per stracciare e un tempo per cucire, un tempo per tacere e un tempo per parlare."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Un tempo per amare e un tempo per odiare, un tempo per la guerra e un tempo per la pace."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Che vantaggio ha chi si d\u00e0 da fare con fatica?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ho considerato l&#39;occupazione che Dio ha dato agli uomini, perch\u00e9 si occupino in essa."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Egli ha fatto bella ogni cosa a suo tempo, ma egli ha messo la nozione dell&#39;eternit\u00e0 nel loro cuore, senza per\u00f2 che gli uomini possano capire l&#39;opera compiuta da Dio dal principio alla fine."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ho concluso che non c&#39;\u00e8 nulla di meglio per essi, che godere e agire bene nella loro vita;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "ma che un uomo mangi, beva e goda del suo lavoro \u00e8 un dono di Dio."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Riconosco che qualunque cosa Dio fa \u00e8 immutabile; non c&#39;\u00e8 nulla da aggiungere, nulla da togliere. Dio agisce cos\u00ec perch\u00e9 si abbia timore di lui."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ci\u00f2 che \u00e8, gia \u00e8 stato; ci\u00f2 che sar\u00e0, gia \u00e8; Dio ricerca ci\u00f2 che \u00e8 gia passato."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ma ho anche notato che sotto il sole al posto del diritto c&#39;\u00e8 l&#39;iniquit\u00e0 e al posto della giustizia c&#39;\u00e8 l&#39;empiet\u00e0."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ho pensato: Dio giudicher\u00e0 il giusto e l&#39;empio, perch\u00e9 c&#39;\u00e8 un tempo per ogni cosa e per ogni azione."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Poi riguardo ai figli dell&#39;uomo mi son detto: Dio vuol provarli e mostrare che essi di per s\u00e9 sono come bestie."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Infatti la sorte degli uomini e quella delle bestie \u00e8 la stessa; come muoiono queste muoiono quelli; c&#39;\u00e8 un solo soffio vitale per tutti. Non esiste superiorit\u00e0 dell&#39;uomo rispetto alle bestie, perch\u00e9 tutto \u00e8 vanit\u00e0."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Tutti sono diretti verso la medesima dimora: tutto \u00e8 venuto dalla polvere e tutto ritorna nella polvere."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Chi sa se il soffio vitale dell&#39;uomo salga in alto e se quello della bestia scenda in basso nella terra?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Mi sono accorto che nulla c&#39;\u00e8 di meglio per l&#39;uomo che godere delle sue opere, perch\u00e9 questa \u00e8 la sua sorte. Chi potr\u00e0 infatti condurlo a vedere ci\u00f2 che avverr\u00e0 dopo di lui?"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La societ\u00e0 -Ho poi considerato tutte le oppressioni che si commettono sotto il sole. Ecco il pianto degli oppressi che non hanno chi li consoli; da parte dei loro oppressori sta la violenza, mentre per essi non c&#39;\u00e8 chi li consoli."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Allora ho proclamato pi\u00f9 felici i morti, ormai trapassati, dei viventi che sono ancora in vita;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ma ancor pi\u00f9 felice degli uni e degli altri chi ancora non \u00e8 e non ha visto le azioni malvage che si commettono sotto il sole."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ho osservato anche che ogni fatica e tutta l&#39;abilit\u00e0 messe in un lavoro non sono che invidia dell&#39;uno con l&#39;altro. Anche questo \u00e8 vanit\u00e0 e un inseguire il vento."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Lo stolto incrocia le braccia e divora la sua carne."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Meglio una manciata con riposo che due manciate con fatica."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Inoltre ho considerato un&#39;altra vanit\u00e0 sotto il sole:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "uno \u00e8 solo, senza eredi, non ha un figlio, non un fratello. Eppure non smette mai di faticare, n\u00e9 il suo occhio \u00e8 sazio di ricchezza: \u00abPer chi mi affatico e mi privo dei beni?\u00bb. Anche questo \u00e8 vanit\u00e0 e un cattivo affannarsi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Meglio essere in due che uno solo, perch\u00e9 due hanno un miglior compenso nella fatica."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Infatti, se vengono a cadere, l&#39;uno rialza l&#39;altro. Guai invece a chi \u00e8 solo: se cade, non ha nessuno che lo rialzi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Inoltre, se due dormono insieme, si possono riscaldare; ma uno solo come fa a riscaldarsi?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Se uno aggredisce, in due gli possono resistere e una corda a tre capi non si rompe tanto presto."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Meglio un ragazzo povero ma accorto, che un re vecchio e stolto che non sa ascoltare i consigli."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Il ragazzo infatti pu\u00f2 uscir di prigione ed esser proclamato re, anche se, mentre quegli regnava, \u00e8 nato povero."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ho visto tutti i viventi che si muovono sotto il sole, stare con quel ragazzo, il secondo, cio\u00e8 l&#39;usurpatore."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Era una folla immensa quella di cui egli era alla testa. Ma coloro che verranno dopo non avranno da rallegrarsi di lui. Anche questo \u00e8 vanit\u00e0 e un inseguire il vento."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Non essere precipitoso con la bocca e il tuo cuore non si affretti a proferir parola davanti a Dio, perch\u00e9 Dio \u00e8 in cielo e tu sei sulla terra; perci\u00f2 le tue parole siano parche, poich\u00e8"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dalle molte preoccupazioni vengono i sogni e dalle molte chiacchiere il discorso dello stolto."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Quando hai fatto un voto a Dio, non indugiare a soddisfarlo, perch\u00e9 egli non ama gli stolti: adempi quello che hai promesso."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "E&#39; meglio non far voti, che farli e poi non mantenerli."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Non permettere alla tua bocca di renderti colpevole e non dire davanti al messaggero che \u00e8 stata una inavvertenza, perch\u00e9 Dio non abbia ad adirarsi per le tue parole e distrugga il lavoro delle tue mani."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Poich\u00e9 dai molti sogni provengono molte delusioni e molte parole. Abbi dunque il timor di Dio."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Se vedi nella provincia il povero oppresso e il diritto e la giustizia calpestati, non ti meravigliare di questo, poich\u00e9 sopra un&#39;autorit\u00e0 veglia un&#39;altra superiore e sopra di loro un&#39;altra ancora pi\u00f9 alta:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "l&#39;interesse del paese in ogni cosa \u00e8 un re che si occupa dei campi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Il denaro -Chi ama il denaro, mai si sazia di denaro e chi ama la ricchezza, non ne trae profitto. Anche questo \u00e8 vanit\u00e0."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Con il crescere dei beni i parassiti aumentano e qual vantaggio ne riceve il padrone, se non di vederli con gli occhi?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dolce \u00e8 il sonno del lavoratore, poco o molto che mangi; ma la saziet\u00e0 del ricco non lo lascia dormire."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Un altro brutto malanno ho visto sotto il sole: ricchezze custodite dal padrone a proprio danno."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Se ne vanno in fumo queste ricchezze per un cattivo affare e il figlio che gli \u00e8 nato non ha nulla nelle mani."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Come \u00e8 uscito nudo dal grembo di sua madre, cos\u00ec se ne andr\u00e0 di nuovo come era venuto, e dalle sue fatiche non ricaver\u00e0 nulla da portar con s\u00e9."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Anche questo \u00e8 un brutto malanno: che se ne vada proprio come \u00e8 venuto. Qual vantaggio ricava dall&#39;aver gettato le sue fatiche al vento?"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Inoltre avr\u00e0 passato tutti i suoi giorni nell&#39;oscurit\u00e0 e nel pianto fra molti guai, malanni e crucci."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ecco quello che ho concluso: \u00e8 meglio mangiare e bere e godere dei beni in ogni fatica durata sotto il sole, nei pochi giorni di vita che Dio gli d\u00e0: \u00e8 questa la sua sorte."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ogni uomo, a cui Dio concede ricchezze e beni, ha anche facolt\u00e0 di goderli e prendersene la sua parte e di godere delle sue fatiche: anche questo \u00e8 dono di Dio."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Egli non penser\u00e0 infatti molto ai giorni della sua vita, poich\u00e9 Dio lo tiene occupato con la gioia del suo cuore."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Un altro male ho visto sotto il sole, che pesa molto sopra gli uomini."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A uno Dio ha concesso beni, ricchezze, onori e non gli manca niente di quanto desidera; ma Dio non gli concede di poterne godere, perch\u00e9 \u00e8 un estraneo che ne gode. Ci\u00f2 \u00e8 vanit\u00e0 e malanno grave!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Se uno avesse cento figli e vivesse molti anni e molti fossero i suoi giorni, se egli non gode dei suoi beni e non ha neppure una tomba, allora io dico: meglio di lui l&#39;aborto,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "perch\u00e9 questi viene invano e se ne va nella tenebra e il suo nome \u00e8 coperto dalla tenebra."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Non vide neppure il sole: non conobbe niente; eppure il suo riposo \u00e8 maggiore di quello dell&#39;altro."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Se quello vivesse anche due volte mille anni, senza godere dei suoi beni, forse non dovranno andare tutt&#39;e due nel medesimo luogo?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tutta la fatica dell&#39;uomo \u00e8 per la bocca e la sua brama non \u00e8 mai sazia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Quale vantaggio ha il saggio sullo stolto? Quale il vantaggio del povero che sa comportarsi bene di fronte ai viventi?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Meglio vedere con gli occhi, che vagare con il desiderio. Anche questo \u00e8 vanit\u00e0 e un inseguire il vento."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ci\u00f2 che \u00e8, gia da tempo ha avuto un nome; e si sa che cos&#39;\u00e8 un uomo: egli non pu\u00f2 competere con chi \u00e8 pi\u00f9 forte di lui."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Le molte parole aumentano la delusione e quale vantaggio v&#39;\u00e8 per l&#39;uomo?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Chi sa quel che all&#39;uomo convenga durante la vita, nei brevi giorni della sua vana esistenza che egli trascorre come un&#39;ombra? Chi pu\u00f2 indicare all&#39;uomo cosa avverr\u00e0 dopo di lui sotto il sole?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "SECONDA PARTE -Prologo -Un buon nome \u00e8 preferibile all&#39;unguento profumato e il giorno della morte al giorno della nascita."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "E&#39; meglio andare in una casa in pianto che andare in una casa in festa; perch\u00e9 quella \u00e8 la fine d&#39;ogni uomo e chi vive ci rifletter\u00e0."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "E&#39; preferibile la mestizia al riso, perch\u00e9 sotto un triste aspetto il cuore \u00e8 felice."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Il cuore dei saggi \u00e8 in una casa in lutto e il cuore degli stolti in una casa in festa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Meglio ascoltare il rimprovero del saggio che ascoltare il canto degli stolti:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "perch\u00e9 com&#39;\u00e8 il crepitio dei pruni sotto la pentola, tale \u00e8 il riso degli stolti. Ma anche questo \u00e8 vanit\u00e0."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Il mal tolto rende sciocco il saggio e i regali corrompono il cuore."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "La sanzione -Meglio la fine di una cosa che il suo principio; \u00e8 meglio la pazienza della superbia."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Non esser facile a irritarti nel tuo spirito, perch\u00e9 l&#39;ira alberga in seno agli stolti."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Non domandare: \u00abCome mai i tempi antichi erano migliori del presente?\u00bb, poich\u00e9 una tale domanda non \u00e8 ispirata da saggezza."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "E&#39; buona la saggezza insieme con un patrimonio ed \u00e8 utile per coloro che vedono il sole;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "perch\u00e9 si sta all&#39;ombra della saggezza come si sta all&#39;ombra del denaro e il profitto della saggezza fa vivere chi la possiede."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Osserva l&#39;opera di Dio: chi pu\u00f2 raddrizzare ci\u00f2 che egli ha fatto curvo?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nel giorno lieto st\u00e0 allegro e nel giorno triste rifletti: \u00abDio ha fatto tanto l&#39;uno quanto l&#39;altro, perch\u00e9 l&#39;uomo non trovi nulla da incolparlo\u00bb."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tutto ho visto nei giorni della mia vanit\u00e0: perire il giusto nonostante la sua giustizia, vivere a lungo l&#39;empio nonostante la sua iniquit\u00e0."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Non esser troppo scrupoloso n\u00e9 saggio oltre misura. Perch\u00e9 vuoi rovinarti?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Non esser troppo malvagio e non essere stolto. Perch\u00e9 vuoi morire innanzi tempo?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "E&#39; bene che tu ti attenga a questo e che non stacchi la mano da quello, perch\u00e9 chi teme Dio riesce in tutte queste cose."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "La sapienza rende il saggio pi\u00f9 forte di dieci potenti che governano la citt\u00e0."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Non c&#39;\u00e8 infatti sulla terra un uomo cos\u00ec giusto che faccia solo il bene e non pecchi."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ancora: non fare attenzione a tutte le dicerie che si fanno, per non sentir che il tuo servo ha detto male di te,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "perch\u00e9 il tuo cuore sa che anche tu hai detto tante volte male degli altri."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Tutto questo io ho esaminato con sapienza e ho detto: \u00abVoglio essere saggio!\u00bb, ma la sapienza \u00e8 lontana da me!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ci\u00f2 che \u00e8 stato \u00e8 lontano e profondo, profondo: chi lo pu\u00f2 raggiungere?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Mi son applicato di nuovo a conoscere e indagare e cercare la sapienza e il perch\u00e9 delle cose e a conoscere che la malvagit\u00e0 \u00e8 follia e la stoltezza pazzia."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Trovo che amara pi\u00f9 della morte \u00e8 la donna, la quale \u00e8 tutta lacci: una rete il suo cuore, catene le sue braccia. Chi \u00e8 gradito a Dio la sfugge ma il peccatore ne resta preso."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Vedi, io ho scoperto questo, dice Qo\u00e8let, confrontando una ad una le cose, per trovarne la ragione."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Quello che io cerco ancora e non ho trovato \u00e8 questo: Un uomo su mille l&#39;ho trovato: ma una donna fra tutte non l&#39;ho trovata."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Vedi, solo questo ho trovato: Dio ha fatto l&#39;uomo retto, ma essi cercano tanti fallaci ragionamenti."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chi \u00e8 come il saggio? Chi conosce la spiegazione delle cose? La sapienza dell&#39;uomo ne rischiara il volto, ne cambia la durezza del viso."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Osserva gli ordini del re e, a causa del giuramento fatto a Dio,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "non allontanarti in fretta da lui e non persistere nel male; perch\u00e9 egli pu\u00f2 fare ci\u00f2 che vuole."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Infatti, la parola del re \u00e8 sovrana; chi pu\u00f2 dirgli: \u00abChe fai?\u00bb."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Chi osserva il comando non prova alcun male; la mente del saggio conosce il tempo e il giudizio."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Infatti, per ogni cosa vi \u00e8 tempo e giudizio e il male dell&#39;uomo ricade gravemente su chi lo fa."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Questi ignora che cosa accadr\u00e0; chi mai pu\u00f2 indicargli come avverr\u00e0?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nessun uomo \u00e8 padrone del suo soffio vitale tanto da trattenerlo, n\u00e9 alcuno ha potere sul giorno della sua morte, n\u00e9 c&#39;\u00e8 scampo dalla lotta; l&#39;iniquit\u00e0 non salva colui che la compie."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tutto questo ho visto riflettendo su ogni azione che si compie sotto il sole, quando l&#39;uomo domina sull&#39;altro uomo, a proprio danno."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Frattanto ho visto empi venir condotti alla sepoltura; invece, partirsene dal luogo santo ed essere dimenticati nella citt\u00e0 coloro che avevano operato rettamente. Anche questo \u00e8 vanit\u00e0."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Poich\u00e9 non si d\u00e0 una sentenza immediata contro una cattiva azione, per questo il cuore dei figli dell&#39;uomo \u00e8 pieno di voglia di fare il male;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "poich\u00e9 il peccatore, anche se commette il male cento volte, ha lunga vita. Tuttavia so che saranno felici coloro che temono Dio, appunto perch\u00e9 provano timore davanti a lui,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "e non sar\u00e0 felice l&#39;empio e non allungher\u00e0 come un&#39;ombra i suoi giorni, perch\u00e9 egli non teme Dio."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Sulla terra si ha questa delusione: vi sono giusti ai quali tocca la sorte meritata dagli empi con le loro opere, e vi sono empi ai quali tocca la sorte meritata dai giusti con le loro opere. Io dico che anche questo \u00e8 vanit\u00e0."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Perci\u00f2 approvo l&#39;allegria, perch\u00e9 l&#39;uomo non ha altra felicit\u00e0, sotto il sole, che mangiare e bere e stare allegro. Sia questa la sua compagnia nelle sue fatiche, durante i giorni di vita che Dio gli concede sotto il sole."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Quando mi sono applicato a conoscere la sapienza e a considerare l&#39;affannarsi che si fa sulla terra - poich\u00e9 l&#39;uomo non conosce riposo n\u00e9 giorno n\u00e9 notte -"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "allora ho osservato tutta l&#39;opera di Dio, e che l&#39;uomo non pu\u00f2 scoprire la ragione di quanto si compie sotto il sole; per quanto si affatichi a cercare, non pu\u00f2 scoprirla. Anche se un saggio dicesse di conoscerla, nessuno potrebbe trovarla."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La sorte -Infatti ho riflettuto su tutto questo e ho compreso che i giusti e i saggi e le loro azioni sono nelle mani di Dio. L&#39;uomo non conosce n\u00e9 l&#39;amore n\u00e9 l&#39;odio; davanti a lui tutto \u00e8 vanit\u00e0."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vi \u00e8 una sorte unica per tutti, per il giusto e l&#39;empio, per il puro e l&#39;impuro, per chi offre sacrifici e per chi non li offre, per il buono e per il malvagio, per chi giura e per chi teme di giurare."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Questo \u00e8 il male in tutto ci\u00f2 che avviene sotto il sole: una medesima sorte tocca a tutti e anche il cuore degli uomini \u00e8 pieno di male e la stoltezza alberga nel loro cuore mentre sono in vita, poi se ne vanno fra i morti."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Certo, finch\u00e9 si resta uniti alla societ\u00e0 dei viventi c&#39;\u00e8 speranza: meglio un cane vivo che un leone morto."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I vivi sanno che moriranno, ma i morti non sanno nulla; non c&#39;\u00e8 pi\u00f9 salario per loro, perch\u00e9 il loro ricordo svanisce."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Il loro amore, il loro odio e la loro invidia, tutto \u00e8 ormai finito, non avranno pi\u00f9 alcuna parte in tutto ci\u00f2 che accade sotto il sole."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "V\u00e0, mangia con gioia il tuo pane, bevi il tuo vino con cuore lieto, perch\u00e9 Dio ha gia gradito le tue opere."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "In ogni tempo le tue vesti siano bianche e il profumo non manchi sul tuo capo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Godi la vita con la sposa che ami per tutti i giorni della tua vita fugace, che Dio ti concede sotto il sole, perch\u00e9 questa \u00e8 la tua sorte nella vita e nelle pene che soffri sotto il sole."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tutto ci\u00f2 che trovi da fare, fallo finch\u00e9 ne sei in grado, perch\u00e9 non ci sar\u00e0 n\u00e9 attivit\u00e0, n\u00e9 ragione, n\u00e9 scienza, n\u00e9 sapienza gi\u00f9 negli inferi, dove stai per andare."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ho visto anche sotto il sole che non \u00e8 degli agili la corsa, n\u00e9 dei forti la guerra e neppure dei sapienti il pane e degli accorti la ricchezza e nemmeno degli intelligenti il favore, perch\u00e9 il tempo e il caso raggiungono tutti."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Infatti l&#39;uomo non conosce neppure la sua ora: simile ai pesci che sono presi dalla rete fatale e agli uccelli presi al laccio, l&#39;uomo \u00e8 sorpreso dalla sventura che improvvisa si abbatte su di lui."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Saggezza e follia -Anche questo fatto ho visto sotto il sole e mi parve assai grave:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "c&#39;era una piccola citt\u00e0 con pochi abitanti. Un gran re si mosse contro di essa, l&#39;assedi\u00f2 e vi costru\u00ec contro grandi bastioni."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Si trovava per\u00f2 in essa un uomo povero ma saggio, il quale con la sua sapienza salv\u00f2 la citt\u00e0; eppure nessuno si ricord\u00f2 di quest&#39;uomo povero."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "E io dico: E&#39; meglio la sapienza della forza, ma la sapienza del povero \u00e8 disprezzata e le sue parole non sono ascoltate."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Le parole calme dei saggi si ascoltano pi\u00f9 delle grida di chi domina fra i pazzi."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Meglio la sapienza che le armi da guerra, ma uno sbaglio solo annienta un gran bene."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Una mosca morta guasta l&#39;unguento del profumiere: un p\u00f2 di follia pu\u00f2 contare pi\u00f9 della sapienza e dell&#39;onore."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "La mente del sapiente si dirige a destra e quella dello stolto a sinistra."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Per qualunque via lo stolto cammini \u00e8 privo di senno e di ognuno dice: \u00abE&#39; un pazzo\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Se l&#39;ira d&#39;un potente si accende contro di te, non lasciare il tuo posto, perch\u00e9 la calma placa le offese anche gravi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "C&#39;\u00e8 un male che io ho osservato sotto il sole: l&#39;errore commesso da parte di un sovrano:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "la follia vien collocata in posti elevati e gli abili siedono in basso."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ho visto schiavi a cavallo e pr\u00ecncipi camminare a piedi come schiavi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Chi scava una fossa ci casca dentro e chi disf\u00e0 un muro \u00e8 morso da una serpe."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Chi spacca le pietre si fa male e chi taglia legna corre pericolo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Se il ferro \u00e8 ottuso e non se ne affila il taglio, bisogna raddoppiare gli sforzi; la riuscita sta nell&#39;uso della saggezza."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Se il serpente morde prima d&#39;essere incantato, non c&#39;\u00e8 niente da fare per l&#39;incantatore."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Le parole della bocca del saggio procurano benevolenza, ma le labbra dello stolto lo mandano in rovina:"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "il principio del suo parlare \u00e8 sciocchezza, la fine del suo discorso pazzia funesta."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "L&#39;insensato moltiplica le parole: \u00abNon sa l&#39;uomo quel che avverr\u00e0: chi gli manifester\u00e0 ci\u00f2 che sar\u00e0 dopo di lui?\u00bb."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La fatica dello stolto lo stanca; poich\u00e9 non sa neppure andare in citt\u00e0."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Guai a te, o paese, che per re hai un ragazzo e i cui pr\u00ecncipi banchettano fin dal mattino!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Felice te, o paese, che per re hai un uomo libero e i cui pr\u00ecncipi mangiano al tempo dovuto per rinfrancarsi e non per gozzovigliare."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Per negligenza il soffitto crolla e per l&#39;inerzia delle mani piove in casa."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Per stare lieti si fanno banchetti e il vino allieta la vita; il denaro risponde a ogni esigenza."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Non dir male del re neppure con il pensiero e nella tua stanza da letto non dir male del potente, perch\u00e9 un uccello del cielo trasporta la voce e un alato riferisce la parola."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Getta il tuo pane sulle acque, perch\u00e9 con il tempo lo ritroverai."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Fanne sette od otto parti, perch\u00e9 non sai quale sciagura potr\u00e0 succedere sulla terra."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Se le nubi sono piene di acqua, la rovesciano sopra la terra; se un albero cade a sud o a nord, l\u00e0 dove cade rimane."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Chi bada al vento non semina mai e chi osserva le nuvole non miete."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Come ignori per qual via lo spirito entra nelle ossa dentro il seno d&#39;una donna incinta, cos\u00ec ignori l&#39;opera di Dio che fa tutto."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "La mattina semina il tuo seme e la sera non dar riposo alle tue mani, perch\u00e9 non sai qual lavoro riuscir\u00e0, se questo o quello o se saranno buoni tutt&#39;e due."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dolce \u00e8 la luce e agli occhi piace vedere il sole."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Anche se vive l&#39;uomo per molti anni se li goda tutti, e pensi ai giorni tenebrosi, che saranno molti: tutto ci\u00f2 che accade \u00e8 vanit\u00e0."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "St\u00e0 lieto, o giovane, nella tua giovinezza, e si rallegri il tuo cuore nei giorni della tua giovent\u00f9. Segui pure le vie del tuo cuore e i desideri dei tuoi occhi. Sappi per\u00f2 che su tutto questo Dio ti convocher\u00e0 in giudizio."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Caccia la malinconia dal tuo cuore, allontana dal tuo corpo il dolore, perch\u00e9 la giovinezza e i capelli neri sono un soffio."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ric\u00f2rdati del tuo creatore nei giorni della tua giovinezza, prima che vengano i giorni tristi e giungano gli anni di cui dovrai dire: \u00abNon ci provo alcun gusto\u00bb,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "prima che si oscuri il sole, la luce, la luna e le stelle e ritornino le nubi dopo la pioggia;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "quando tremeranno i custodi della casa e si curveranno i gagliardi e cesseranno di lavorare le donne che macinano, perch\u00e9 rimaste in poche, e si offuscheranno quelle che guardano dalle finestre"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "e si chiuderanno le porte sulla strada; quando si abbasser\u00e0 il rumore della mola e si attenuer\u00e0 il cinguettio degli uccelli e si affievoliranno tutti i toni del canto;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "quando si avr\u00e0 paura delle alture e degli spauracchi della strada; quando fiorir\u00e0 il mandorlo e la locusta si trasciner\u00e0 a stento e il cappero non avr\u00e0 pi\u00f9 effetto, poich\u00e9 l&#39;uomo se ne va nella dimora eterna e i piagnoni si aggirano per la strada;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "prima che si rompa il cordone d&#39;argento e la lucerna d&#39;oro s&#39;infranga e si rompa l&#39;anfora alla fonte e la carrucola cada nel pozzo"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "e ritorni la polvere alla terra, com&#39;era prima, e lo spirito torni a Dio che lo ha dato."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vanit\u00e0 delle vanit\u00e0, dice Qo\u00e8let, e tutto \u00e8 vanit\u00e0."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Epilogo -Oltre a essere saggio, Qo\u00e8let insegn\u00f2 anche la scienza al popolo; ascolt\u00f2, indag\u00f2 e compose un gran numero di massime."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Qo\u00e8let cerc\u00f2 di trovare pregevoli detti e scrisse con esattezza parole di verit\u00e0."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Le parole dei saggi sono come pungoli; come chiodi piantati, le raccolte di autori: esse sono date da un solo pastore."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Quanto a ci\u00f2 che \u00e8 in pi\u00f9 di questo, figlio mio, bada bene: i libri si moltiplicano senza fine ma il molto studio affatica il corpo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Conclusione del discorso, dopo che si \u00e8 ascoltato ogni cosa: Temi Dio e osserva i suoi comandamenti, perch\u00e9 questo per l&#39;uomo \u00e8 tutto."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Infatti, Dio citer\u00e0 in giudizio ogni azione, tutto ci\u00f2 che \u00e8 occulto, bene o male."
+                }
+            }
+        }
+    }
+}

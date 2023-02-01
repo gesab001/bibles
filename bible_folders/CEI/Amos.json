@@ -1,0 +1,636 @@
+{
+    "version": "CEI",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Titolo -Parole di Amos, che era pecoraio di Tek\u00f2a, il quale ebbe visioni riguardo a Israele, al tempo di Ozia re della Giudea, e al tempo di Gerobo\u00e0mo figlio di Ioas, re di Israele, due anni prima del terremoto."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Esordio -Egli disse: \u00abIl Signore ruggisce da Sion e da Gerusalemme fa udir la sua voce; sono desolate le steppe dei pastori, \u00e8 inaridita la cima del Carmelo\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "I. GIUDIZIO DELLE NAZIONI VICINE A ISRAELE E DELLO STESSO ISRAELE -Damasco -Cos\u00ec dice il Signore: \u00abPer tre misfatti di Damasco e per quattro non revocher\u00f2 il mio decreto, perch\u00e8 hanno trebbiato con trebbie ferrate G\u00e0laad."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Alla casa di Caza\u00e8l dar\u00f2 fuoco e divorer\u00e0 i palazzi di Ben-Had\u00e0d;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "spezzer\u00f2 il catenaccio di Damasco, sterminer\u00f2 gli abitanti di Biqat-Av\u00e8n e chi detiene lo scettro di Bet-Eden e il popolo di Aram andr\u00e0 schiavo a Kir\u00bb, dice il Signore."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Gaza e i Filistei -Cos\u00ec dice il Signore: \u00abPer tre misfatti di Gaza e per quattro non revocher\u00f2 il mio decreto, perch\u00e8 hanno deportato popolazioni intere per consegnarle a Edom;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "appiccher\u00f2 il fuoco alle mura di Gaza e divorer\u00e0 i suoi palazzi,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "estirper\u00f2 da Asd\u00f2d chi siede sul trono e da Ascal\u00f2na chi vi tiene lo scettro; rivolger\u00f2 la mano contro Ekr\u00f2n e cos\u00ec perir\u00e0 il resto dei Filistei\u00bb, dice il Signore."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tiro e la Fenicia -Cos\u00ec dice il Signore: \u00abPer tre misfatti di Tiro e per quattro non revocher\u00f2 il mio decreto, perch\u00e8 hanno deportato popolazioni intere a Edom, senza ricordare l&#39;alleanza fraterna;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "appiccher\u00f2 il fuoco alle mura di Tiro e divorer\u00e0 i suoi palazzi\u00bb."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Edom -Cos\u00ec dice il Signore: \u00abPer tre misfatti di Edom e per quattro non revocher\u00f2 il mio decreto, perch\u00e8 ha inseguito con la spada suo fratello e ha soffocato la piet\u00e0 verso di lui, perch\u00e8 ha continuato l&#39;ira senza fine e ha conservato lo sdegno per sempre;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "appiccher\u00f2 il fuoco a Teman e divorer\u00e0 i palazzi di Bozra\u00bb."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ammon -Cos\u00ec dice il Signore: \u00abPer tre misfatti degli Ammoniti e per quattro non revocher\u00f2 il mio decreto, perch\u00e8 hanno sventrato le donne incinte di G\u00e0laad per allargare il loro confine;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "appiccher\u00f2 il fuoco alle mura di Rabb\u00e0 e divorer\u00e0 i suoi palazzi tra il fragore di un giorno di battaglia, fra il turbine di un giorno di tempesta;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "il loro re andr\u00e0 in esilio, egli insieme ai suoi capi\u00bb, dice il Signore."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Moab -Cos\u00ec dice il Signore: \u00abPer tre misfatti di Moab e per quattro non revocher\u00f2 il mio decreto, perch\u00e8 ha bruciato le ossa del re di Edom per ridurle in calce;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "appiccher\u00f2 il fuoco a Moab e divorer\u00e0 i palazzi di Keri\u00f2t e Moab morir\u00e0 nel tumulto, al grido di guerra, al suono del corno;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "far\u00f2 sparire da lui il giudice e tutti i suoi capi uccider\u00f2 insieme con lui\u00bb, dice il Signore."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Giuda -Cos\u00ec dice il Signore: \u00abPer tre misfatti di Giuda e per quattro non revocher\u00f2 il mio decreto, perch\u00e8 hanno disprezzato la legge del Signore e non ne hanno osservato i decreti; si son lasciati traviare dai loro idoli che i loro padri avevano seguito;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "appiccher\u00f2 il fuoco a Giuda e divorer\u00e0 i palazzi di Gerusalemme\u00bb."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Israele -Cos\u00ec dice il Signore: \u00abPer tre misfatti d&#39;Israele e per quattro non revocher\u00f2 il mio decreto, perch\u00e8 hanno venduto il giusto per denaro e il povero per un paio di sandali;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "essi che calpestano come la polvere della terra la testa dei poveri e fanno deviare il cammino dei miseri; e padre e figlio vanno dalla stessa ragazza, profanando cos\u00ec il mio santo nome."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Su vesti prese come pegno si stendono presso ogni altare e bevono il vino confiscato come ammenda nella casa del loro Dio."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Eppure io ho sterminato davanti a loro l&#39;Amorreo, la cui statura era come quella dei cedri, e la forza come quella della quercia; ho strappato i suoi frutti in alto e le sue radici di sotto."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Io vi ho fatti uscire dal paese di Egitto e vi ho condotti per quarant&#39;anni nel deserto, per darvi in possesso il paese dell&#39;Amorreo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ho fatto sorgere profeti tra i vostri figli e nazirei fra i vostri giovani. Non \u00e8 forse cos\u00ec, o Israeliti?\u00bb. Oracolo del Signore."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00abMa voi avete fatto bere vino ai nazirei e ai profeti avete ordinato: Non profetate!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ebbene, io vi affonder\u00f2 nella terra come affonda un carro quando \u00e8 tutto carico di paglia."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Allora nemmeno l&#39;uomo agile potr\u00e0 pi\u00f9 fuggire, n\u00e8 l&#39;uomo forte usare la sua forza; il prode non potr\u00e0 salvare la sua vita"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "n\u00e9 l&#39;arciere resister\u00e0; non scamper\u00e0 il corridore, n\u00e8 si salver\u00e0 il cavaliere. Il pi\u00f9 coraggioso fra i prodi fuggir\u00e0 nudo in quel giorno!\u00bb. Oracolo del Signore."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "II. AVVERTIMENTI E MINACCE A ISRAELE -Elezione e castigo -Ascoltate questa parola che il Signore ha detto riguardo a voi, Israeliti, e riguardo a tutta la stirpe che ho fatto uscire dall&#39;Egitto:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00abSoltanto voi ho eletto tra tutte le stirpi della terra; perci\u00f2 io vi far\u00f2 scontare tutte le vostre iniquit\u00e0\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "La vocazione profetica \u00e8 irresistibile -Camminano forse due uomini insieme senza essersi messi d&#39;accordo?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ruggisce forse il leone nella foresta, se non ha qualche preda? Il leoncello manda un grido dalla sua tana se non ha preso nulla?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Cade forse l&#39;uccello a terra, se non gli \u00e8 stata tesa un&#39;insidia? Scatta forse la tagliola dal suolo, se non ha preso qualche cosa?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Risuona forse la tromba nella citt\u00e0, senza che il popolo si metta in allarme? Avviene forse nella citt\u00e0 una sventura, che non sia causata dal Signore?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "In verit\u00e0, il Signore non fa cosa alcuna senza aver rivelato il suo consiglio ai suoi servitori, i profeti."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ruggisce il leone: chi mai non trema? Il Signore Dio ha parlato: chi pu\u00f2 non profetare?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Samaria, corrotta, perir\u00e0 -Fatelo udire nei palazzi di Asd\u00f2d e nei palazzi del paese d&#39;Egitto e dite: Adunatevi sui monti di Samaria e osservate quanti disordini sono in essa, e quali violenze sono nel suo seno."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Non sanno agire con rettitudine, dice il Signore, violenza e rapina accumulano nei loro palazzi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Perci\u00f2 cos\u00ec dice il Signore Dio: Il nemico circonder\u00e0 il paese, sar\u00e0 abbattuta la tua potenza e i tuoi palazzi saranno saccheggiati."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cos\u00ec dice il Signore: Come il pastore strappa dalla bocca del leone due zampe o il lobo d&#39;un orecchio, cos\u00ec scamperanno gli Israeliti che abitano a Samaria su un cantuccio di divano o su una coperta da letto."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Contro Betel e le case lussuose -Ascoltate e attestatelo nella casa di Giacobbe, dice il Signore Dio, Dio degli eserciti:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Quando far\u00f2 giustizia dei misfatti d&#39;Israele, io infierir\u00f2 contro gli altari di Betel; saranno spezzati i corni dell&#39;altare e cadranno a terra."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Demolir\u00f2 la casa d&#39;inverno insieme con al sua casa d&#39;estate e andranno in rovina le case d&#39;avorio e scompariranno i grandi palazzi. Oracolo del Signore."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Contro le donne di Samaria -Ascoltate queste parole, o vacche di Bas\u00e0n, che siete sul monte di Samaria, che opprimete i deboli, schiacciate i poveri e dite ai vostri mariti: Porta qua, beviamo!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Il Signore Dio ha giurato per la sua santit\u00e0: Ecco, verranno per voi giorni, in cui sarete prese con ami e le rimanenti di voi con arpioni da pesca."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Uscirete per le brecce, una dopo l&#39;altra e sarete cacciate oltre l&#39;Ermon, oracolo del Signore."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Illusioni, impenitenza, castigo di Israele -Andate pure a Betel e peccate! A G\u00e0lgala e peccate ancora di pi\u00f9! Offrite ogni mattina i vostri sacrifici e ogni tre giorni le vostre decime."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Offrite anche sacrifici di grazie con lievito e proclamate ad alta voce le offerte spontanee perch\u00e8 cos\u00ec vi piace di fare, o Israeliti, dice il Signore."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Eppure, vi ho lasciato a denti asciutti in tutte le vostre citt\u00e0 e con mancanza di pane in tutti i vostri villaggi: e non siete ritornati a me, dice il Signore."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vi ho pure rifiutato la pioggia tre mesi prima della mietitura; facevo piovere sopra una citt\u00e0 e non sopra l&#39;altra; un campo era bagnato di pioggia, mentre l&#39;altro, su cui non pioveva, seccava;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "due, tre citt\u00e0 si muovevano titubanti verso un&#39;altra citt\u00e0 per bervi acqua, senza potersi dissetare: e non siete ritornati a me, dice il Signore."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Vi ho colpiti con ruggine e carbonchio, vi ho inaridito i giardini e le vigne; i fichi, gli oliveti li ha divorati la cavalletta: e non siete ritornati a me, dice il Signore."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ho mandato contro di voi la peste, come un tempo contro l&#39;Egitto; ho ucciso di spada i vostri giovani, mentre i vostri cavalli diventavano preda; ho fatto salire il fetore dei vostri campi fino alle vostre narici: e non siete ritornati a me, dice il Signore."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Vi ho travolti come Dio aveva travolto S\u00f2doma e Gomorra; eravate come un tizzone strappato da un incendio: e non siete ritornati a me dice il Signore."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Perci\u00f2 ti tratter\u00f2 cos\u00ec, Israele! Poich\u00e8 questo devo fare di te, prep\u00e0rati all&#39;incontro con il tuo Dio, o Israele!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dossologia -Ecco colui che forma i monti e crea i venti, che manifesta all&#39;uomo qual \u00e8 il suo pensiero, che fa l&#39;alba e le tenebre e cammina sulle alture della terra, Signore, Dio degli eserciti \u00e8 il suo nome."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Lamento su Israele -Ascoltate queste parole, questo lamento che io pronunzio su di voi, o casa di Israele!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "E&#39; caduta, non si alzer\u00e0 pi\u00f9, la vergine d&#39;Israele; \u00e8 stesa al suolo, nessuno la fa rialzare."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Poich\u00e9 cos\u00ec dice il Signore Dio: La citt\u00e0 che usciva con mille uomini rester\u00e0 con cento e la citt\u00e0 di cento rester\u00e0 con dieci, nella casa d&#39;Israele."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Senza conversione non c&#39;\u00e8 salvezza -Poich\u00e9 cos\u00ec dice il Signore alla casa d&#39;Israele: Cercate me e vivrete!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Non rivolgetevi a Betel, non andate a G\u00e0lgala, non passate a Bersabea, perch\u00e8 G\u00e0lgala andr\u00e0 tutta in esilio e Betel sar\u00e0 ridotta al nulla."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cercate il Signore e vivrete, perch\u00e8 egli non irrompa come fuoco sulla casa di Giuseppe e la consumi e nessuno spenga Betel!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Essi trasformano il diritto in veleno e gettano a terra la giustizia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dossologia -Colui che ha fatto le Pleiadi e Orione, cambia il buio in chiarore del mattino e stende sul giorno l&#39;oscurit\u00e0 della notte; colui che comanda alle acque del mare e le spande sulla terra, Signore \u00e8 il suo nome."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Egli fa cadere la rovina sulle fortezze e fa giungere la devastazione sulle cittadelle."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Minacce -Essi odiano chi ammonisce alla porta e hanno in abominio chi parla secondo verit\u00e0."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Poich\u00e9 voi schiacciate l&#39;indigente e gli estorcete una parte del grano, voi che avete costruito case in pietra squadrata, non le abiterete; vigne deliziose avete piantato, ma non ne berrete il vino,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "perch\u00e9 so che numerosi sono i vostri misfatti, enormi i vostri peccati. Essi sono oppressori del giusto, incettatori di ricompense e respingono i poveri nel tribunale."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Perci\u00f2 il prudente in questo tempo tacer\u00e0, perch\u00e8 sar\u00e0 un tempo di sventura."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Esortazioni -Cercate il bene e non il male, se volete vivere, e cos\u00ec il Signore, Dio degli eserciti, sia con voi, come voi dite."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Odiate il male e amate il bene e ristabilite nei tribunali il diritto; forse il Signore, Dio degli eserciti, avr\u00e0 piet\u00e0 del resto di Giuseppe."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Imminenza del castigo -Perci\u00f2 cos\u00ec dice il Signore, Dio degli eserciti, il Signore: In tutte le piazze vi sar\u00e0 lamento, in tutte le strade si dir\u00e0: Ah! ah! Si chiamer\u00e0 l&#39;agricoltore a fare il lutto e a fare il lamento quelli che conoscono la nenia."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "In tutte le vigne vi sar\u00e0 lamento, perch\u00e8 io passer\u00f2 in mezzo a te, dice il Signore."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Il giorno del Signore -Guai a coloro che attendono il giorno del Signore! Che sar\u00e0 per voi il giorno del Signore? Sar\u00e0 tenebre e non luce."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Come quando uno fugge davanti al leone e s&#39;imbatte in un orso; entra in casa, appoggia la mano sul muro e un serpente lo morde."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Non sar\u00e0 forse tenebra e non luce il giorno del Signore, e oscurit\u00e0 senza splendore alcuno?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Contro il culto esteriore -Io detesto, respingo le vostre feste e non gradisco le vostre riunioni;"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "anche se voi mi offrite olocausti, io non gradisco i vostri doni e le vittime grasse come pacificazione io non le guardo."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Lontano da me il frastuono dei tuoi canti: il suono delle tue arpe non posso sentirlo!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Piuttosto scorra come acqua il diritto e la giustizia come un torrente perenne."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Mi avete forse offerto vittime e oblazioni nel deserto per quarant&#39;anni, o Israeliti?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Voi avete innalzato Sicc\u00f9t vostro re e Chii\u00f2n vostro idolo, la stella dei vostri dei che vi siete fatti."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ora, io vi mander\u00f2 in esilio al di l\u00e0 di Damasco, dice il Signore, il cui nome \u00e8 Dio degli eserciti."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Contro la falsa sicurezza dei grandi -Guai agli spensierati di Sion e a quelli che si considerano sicuri sulla montagna di Samaria! Questi notabili della prima tra le nazioni, ai quali si recano gli Israeliti!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Passate a Caln\u00e8 e guardate, andate di l\u00ec ad Amat la grande e scendete a Gat dei Filistei: siete voi forse migliori di quei regni o \u00e8 pi\u00f9 grande il vostro territorio del loro?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Voi credete di ritardare il giorno fatale e affrettate il sopravvento della violenza."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Essi su letti d&#39;avorio e sdraiati sui loro divani mangiano gli agnelli del gregge e i vitelli cresciuti nella stalla."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Canterellano al suono dell&#39;arpa, si pareggiano a David negli strumenti musicali;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "bevono il vino in larghe coppe e si ungono con gli unguenti pi\u00f9 raffinati, ma della rovina di Giuseppe non si preoccupano."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Perci\u00f2 andranno in esilio in testa ai deportati e cesser\u00e0 l&#39;orgia dei buontemponi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Il castigo sar\u00e0 terribile -Ha giurato il Signore Dio, per se stesso! Oracolo del Signore, Dio degli eserciti. Detesto l&#39;orgoglio di Giacobbe, odio i suoi palazzi, consegner\u00f2 la citt\u00e0 e quanto contiene."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Se sopravviveranno in una sola casa dieci uomini, anch&#39;essi moriranno."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Lo prender\u00e0 il suo parente e chi prepara il rogo, portando via le ossa dalla casa, egli dir\u00e0 a chi \u00e8 in fondo alla casa: \u00abCe n&#39;\u00e8 ancora con te?\u00bb. L&#39;altro risponder\u00e0: \u00abNo\u00bb. Quegli dir\u00e0: \u00abZitto!\u00bb: non si deve menzionare il nome del Signore."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Poich\u00e9 ecco: il Signore comanda di fare a pezzi la casa grande e quella piccola di ridurla in frantumi."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Corrono forse i cavalli sulle rocce e si ara il mare con i buoi? Poich\u00e8 voi cambiate il diritto in veleno e il frutto della giustizia in assenzio."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Voi vi compiacete di Lo-deb\u00e0r dicendo: \u00abNon \u00e8 per il nostro valore che abbiam preso Karn\u00e0im?\u00bb."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ora ecco, io susciter\u00f2 contro di voi, gente d&#39;Israele, - oracolo del Signore, Dio degli eserciti - un popolo che vi opprimer\u00e0 dall&#39;ingresso di Amat fino al torrente dell&#39;Araba."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "III. LE VISIONI -Prima visione: le cavallette -Ecco ci\u00f2 che mi fece vedere il Signore Dio: egli formava uno sciame di cavallette quando cominciava a germogliare la seconda erba, quella che spunta dopo la falciatura del re."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Quando quelle stavano per finire di divorare l&#39;erba della regione, io dissi: \u00abSignore Dio, perdona, come potr\u00e0 resistere Giacobbe? E&#39; tanto piccolo\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Il Signore si impietos\u00ec: \u00abQuesto non avverr\u00e0\u00bb, disse il Signore."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Seconda visione: la siccit\u00e0 -Ecco ci\u00f2 che mi fece vedere il Signore Dio: il Signore Dio chiamava per il castigo il fuoco che consumava il grande abisso e divorava la campagna."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Io dissi: \u00abSignore Dio, desisti! Come potr\u00e0 resistere Giacobbe? E&#39; tanto piccolo\u00bb."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Il Signore se ne pent\u00ec: \u00abNeanche questo avverr\u00e0\u00bb, disse il Signore."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Terza visione: il piombino -Ecco ci\u00f2 che mi fece vedere il Signore Dio: il Signore stava sopra un muro tirato a piombo e con un piombino in mano."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Il Signore mi disse: \u00abChe cosa vedi, Amos?\u00bb. Io risposi: \u00abUn piombino\u00bb. Il Signore mi disse: \u00abIo pongo un piombino in mezzo al mio popolo, Israele; non gli perdoner\u00f2 pi\u00f9."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Saranno demolite le alture d&#39;Isacco e i santuari d&#39;Israele saranno ridotti in rovine, quando io mi lever\u00f2 con la spada contro la casa di Gerobo\u00e0mo\u00bb."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Conflitto con Amasia. Amos espulso da Betel -Amasia, sacerdote di Betel, mand\u00f2 a dire a Gerobo\u00e0mo re di Israele: \u00abAmos congiura contro di te in mezzo alla casa di Israele; il paese non pu\u00f2 sopportare le sue parole,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "poich\u00e9 cos\u00ec dice Amos: Di spada morir\u00e0 Gerobo\u00e0mo e Israele sar\u00e0 condotto in esilio lontano dal suo paese\u00bb."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Amasia disse ad Amos: \u00abVattene, veggente, ritirati verso il paese di Giuda; l\u00e0 mangerai il tuo pane e l\u00e0 potrai profetizzare,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "ma a Betel non profetizzare pi\u00f9, perch\u00e9 questo \u00e8 il santuario del re ed \u00e8 il tempio del regno\u00bb."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Amos rispose ad Amasia: \u00abNon ero profeta, n\u00e9 figlio di profeta; ero un pastore e raccoglitore di sicomori;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Il Signore mi prese di dietro al bestiame e il Signore mi disse: V\u00e0, profetizza al mio popolo Israele."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ora ascolta la parola del Signore: Tu dici: Non profetizzare contro Israele, n\u00e9 predicare contro la casa di Isacco."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ebbene, dice il Signore: Tua moglie si prostituir\u00e0 nella citt\u00e0, i tuoi figli e le tue figlie cadranno di spada, la tua terra sar\u00e0 spartita con la corda, tu morirai in terra immonda e Israele sar\u00e0 deportato in esilio lontano dalla sua terra\u00bb."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Quarta visione: il canestro di frutta matura -Ecco ci\u00f2 che mi fece vedere il Signore Dio: era un canestro di frutta matura."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Egli domand\u00f2: \u00abChe vedi Amos?\u00bb. Io risposi: \u00abUn canestro di frutta matura\u00bb. Il Signore mi disse: E&#39; maturata la fine per il mio popolo, Israele; non gli perdoner\u00f2 pi\u00f9."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "In quel giorno urleranno le cantanti del tempio, oracolo del Signore Dio. Numerosi i cadaveri, gettati dovunque. Silenzio!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Contro i fraudolenti e gli sfruttatori -Ascoltate questo, voi che calpestate il povero e sterminate gli umili del paese,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "voi che dite: \u00abQuando sar\u00e0 passato il novilunio e si potr\u00e0 vendere il grano? E il sabato, perch\u00e9 si possa smerciare il frumento, diminuendo le misure e aumentando il siclo e usando bilance false,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "per comprare con denaro gli indigenti e il povero per un paio di sandali? Venderemo anche lo scarto del grano\u00bb."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Il Signore lo giura per il vanto di Giacobbe: certo non dimenticher\u00f2 mai le loro opere."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Non forse per questo trema la terra, sono in lutto tutti i suoi abitanti, si solleva tutta come il Nilo, si agita e si riabbassa come il fiume d&#39;Egitto?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Annunzio di un misterioro castigo: oscurit\u00e0 e lutto -In quel giorno - oracolo del Signore Dio - far\u00f2 tramontare il sole a mezzod\u00ec e oscurer\u00f2 la terra in pieno giorno!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Cambier\u00f2 le vostre feste in lutto e tutti i vostri canti in lamento: far\u00f2 vestire ad ogni fianco il sacco, render\u00f2 calva ogni testa: ne far\u00f2 come un lutto per un figlio unico e la sua fine sar\u00e0 come un giorno d&#39;amarezza."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Fame e sete della parola di Dio -Ecco, verranno giorni, - dice il Signore Dio - in cui mander\u00f2 la fame nel paese, non fame di pane, n\u00e9 sete di acqua, ma d&#39;ascoltare la parola del Signore."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Allora andranno errando da un mare all&#39;altro e vagheranno da settentrione a oriente, per cercare la parola del Signore, ma non la troveranno."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nuovo annunzio del castigo -In quel giorno appassiranno le belle fanciulle e i giovani per la sete."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Quelli che giurano per il peccato di Samaria e dicono: \u00abPer la vita del tuo dio, Dan!\u00bb oppure: \u00abPer la vita del tuo diletto, Bersabea!\u00bb, cadranno senza pi\u00f9 rialzarsi!"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Quinta visione: caduta del santuario -Vidi il Signore che stava presso l&#39;altare e mi diceva: \u00abPercuoti il capitello e siano scossi gli architravi, spezza la testa di tutti e io uccider\u00f2 il resto con la spada; nessuno di essi riuscir\u00e0 a fuggire, nessuno di essi scamper\u00e0."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Anche se penetrano negli inferi, di l\u00e0 li strapper\u00e0 la mia mano; se salgono al cielo, di l\u00e0 li tirer\u00f2 gi\u00f9;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "se si nascondono in vetta al Carmelo, di l\u00e0 li scover\u00f2 e li prender\u00f2; se si occultano al mio sguardo in fondo al mare, l\u00e0 comander\u00f2 al serpente di morderli;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "se vanno in schiavit\u00f9 davanti ai loro nemici, l\u00e0 comander\u00f2 alla spada di ucciderli. Io volger\u00f2 gli occhi su di loro per il male e non per il bene\u00bb."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dossologia -Il Signore, Dio degli eserciti, colpisce la terra ed essa si fonde e tutti i suoi abitanti prendono il lutto; essa si solleva tutta come il Nilo e si abbassa come il fiume d&#39;Egitto."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Egli costruisce nel cielo il suo soglio e fonda la sua volta sulla terra; egli chiama le acque del mare e le riversa sulla terra; Signore \u00e8 il suo nome."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tutti i peccatori periranno -Non siete voi per me come gli Etiopi, Israeliti? Parola del Signore. Non io ho fatto uscire Israele dal paese d&#39;Egitto, i Filistei da Caft\u00f2r e gli Aramei da Kir?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ecco, lo sguardo del Signore Dio \u00e8 rivolto contro il regno peccatore: io lo sterminer\u00f2 dalla terra, ma non sterminer\u00f2 del tutto la casa di Giacobbe, oracolo del Signore."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ecco infatti, io dar\u00f2 ordini e scuoter\u00f2, fra tutti i popoli, la casa d&#39;Israele come si scuote il setaccio e non cade un sassolino per terra."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Di spada periranno tutti i peccatori del mio popolo, essi che dicevano: \u00abNon si avviciner\u00e0, non giunger\u00e0 fino a noi la sventura\u00bb."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "IV. PROSPETTIVE DI RESTAURAZIONE E DI FECONDITA&#39; PARADISIACA -In quel giorno rialzer\u00f2 la capanna di Davide, che \u00e8 caduta; ne riparer\u00f2 le brecce, ne rialzer\u00f2 le rovine, la ricostruir\u00f2 come ai tempi antichi,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "perch\u00e9 conquistino il resto di Edom e tutte le nazioni sulle quali \u00e8 stato invocato il mio nome, dice il Signore, che far\u00e0 tutto questo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ecco, verranno giorni, - dice il Signore - in cui chi ara s&#39;incontrer\u00e0 con chi miete e chi pigia l&#39;uva con chi getta il seme; dai monti stiller\u00e0 il vino nuovo e coler\u00e0 gi\u00f9 per le colline."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Far\u00f2 tornare gli esuli del mio popolo Israele, e ricostruiranno le citt\u00e0 devastate e vi abiteranno; pianteranno vigne e ne berranno il vino; coltiveranno giardini e ne mangeranno il frutto."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Li pianter\u00f2 nella loro terra e non saranno mai divelti da quel suolo che io ho concesso loro, dice il Signore tuo Dio."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "version": "nt-hu",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "C\u00edmz\u00e9s, \u00fcdv\u00f6zl\u00e9s - P\u00e9ter, J\u00e9zus Krisztus apostola, Pontusz, Gal\u00e1cia, Kappad\u00f3cia, \u00c1zsia \u00e9s Bitinia sz\u00f3rv\u00e1ny\u00e1ban \u00e9l\u0151 j\u00f6vev\u00e9nyeknek, akik ki vannak v\u00e1lasztva"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "az Atya Isten eleve elrendel\u00e9se szerint a L\u00e9lek megszentel\u0151 munk\u00e1ja \u00e1ltal az engedelmess\u00e9gre \u00e9s a J\u00e9zus Krisztus v\u00e9r\u00e9vel val\u00f3 meghint\u00e9sre: Kegyelem \u00e9s b\u00e9kess\u00e9g adass\u00e9k nektek b\u0151s\u00e9gesen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Isten magasztal\u00e1sa a h\u00edv\u0151k rem\u00e9nys\u00e9g\u00e9\u00e9rt - \u00c1ldott a mi Urunk J\u00e9zus Krisztus Istene \u00e9s Atyja, aki nagy irgalm\u00e1b\u00f3l \u00fajj\u00e1sz\u00fclt minket J\u00e9zus Krisztusnak a halottak k\u00f6z\u00fcl val\u00f3 felt\u00e1mad\u00e1sa \u00e1ltal \u00e9l\u0151 rem\u00e9nys\u00e9gre,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "arra az el nem m\u00fal\u00f3, szepl\u0151telen \u00e9s hervadhatatlan \u00f6r\u00f6ks\u00e9gre, amely a mennyben van fenntartva sz\u00e1motokra."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Titeket pedig Isten hatalma \u0151riz hit \u00e1ltal az \u00fcdv\u00f6ss\u00e9gre, amely k\u00e9szen van, hogy nyilv\u00e1nval\u00f3v\u00e1 legyen az utols\u00f3 id\u0151ben."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ezen \u00f6rvendeztek, noha most, mivel \u00edgy kellett lennie, egy kiss\u00e9 megszomorodtatok k\u00fcl\u00f6nf\u00e9le k\u00eds\u00e9rt\u00e9sek k\u00f6z\u00f6tt,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "hogy a ti megpr\u00f3b\u00e1lt hitetek, amely sokkal \u00e9rt\u00e9kesebb a veszend\u0151, de t\u0171zben kipr\u00f3b\u00e1lt aranyn\u00e1l, J\u00e9zus Krisztus megjelen\u00e9sekor m\u00e9lt\u00f3nak bizonyuljon a dics\u00e9retre, dics\u0151s\u00e9gre \u00e9s tisztess\u00e9gre."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u0150t szeretitek, pedig nem l\u00e1tt\u00e1tok, \u0151benne hisztek, b\u00e1r most sem l\u00e1tj\u00e1tok, \u00e9s kimondhatatlan, dics\u0151\u00fclt \u00f6r\u00f6mmel \u00f6rvendeztek,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "mert el\u00e9rt\u00e9tek hitetek c\u00e9lj\u00e1t, lelketek \u00fcdv\u00f6ss\u00e9g\u00e9t."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ezt az \u00fcdv\u00f6ss\u00e9get kerest\u00e9k \u00e9s kutatt\u00e1k a pr\u00f3f\u00e9t\u00e1k, akik a nektek sz\u00e1nt kegyelemr\u0151l pr\u00f3f\u00e9t\u00e1ltak,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "kutatva, hogy melyik vagy milyen id\u0151r\u0151l tett kijelent\u00e9st a Krisztus benn\u00fck lev\u0151 Lelke, amikor el\u0151re bizonys\u00e1got tett a Krisztusra v\u00e1r\u00f3 szenved\u00e9sekr\u0151l, \u00e9s az ezeket k\u00f6vet\u0151 dics\u0151s\u00e9gr\u0151l."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u0150k azt a kijelent\u00e9st kapt\u00e1k, hogy nem maguknak, hanem nektek szolg\u00e1lnak azokkal, amikr\u0151l most az evang\u00e9lium hirdet\u0151i pr\u00e9dik\u00e1lnak nektek a mennyb\u0151l k\u00fcld\u00f6tt Szentl\u00e9lek \u00e1ltal, \u00e9s amikbe angyalok v\u00e1gyakoznak beletekinteni."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Szentek legyetek! - Ez\u00e9rt teh\u00e1t elm\u00e9teket felk\u00e9sz\u00edtve, legyetek j\u00f3zanok \u00e9s teljes bizonyoss\u00e1ggal rem\u00e9nykedjetek abban a kegyelemben, amelyet J\u00e9zus Krisztus megjelen\u00e9sekor kaptok."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mint engedelmes gyermekek ne igazodjatok azokhoz a kor\u00e1bbi v\u00e1gyaitokhoz, amelyek tudatlans\u00e1gotok idej\u00e9n voltak bennetek,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "hanem - mivel \u0151, a Szent h\u00edvott el titeket - magatok is szentek legyetek eg\u00e9sz magatart\u00e1sotokban,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00fagy, amint meg van \u00edrva: &#34;Szentek legyetek, mert \u00e9n szent vagyok.&#34;"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ha pedig mint Aty\u00e1tokat h\u00edvj\u00e1tok \u0151t seg\u00edts\u00e9g\u00fcl, aki szem\u00e9lyv\u00e1logat\u00e1s n\u00e9lk\u00fcl \u00edt\u00e9l meg mindenkit cselekedete szerint, f\u00e9lelemmel t\u00f6lts\u00e9tek el j\u00f6vev\u00e9nys\u00e9getek idej\u00e9t,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "tudv\u00e1n, hogy nem veszend\u0151 dolgokon, ez\u00fcst\u00f6n vagy aranyon v\u00e1ltattatok meg aty\u00e1itokt\u00f3l \u00f6r\u00f6k\u00f6lt hi\u00e1baval\u00f3 \u00e9letm\u00f3dotokb\u00f3l,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "hanem dr\u00e1ga v\u00e9ren, a hib\u00e1tlan \u00e9s szepl\u0151telen B\u00e1r\u00e1nynak, Krisztusnak a v\u00e9r\u00e9n."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u0150 ugyan a vil\u00e1g teremt\u00e9se el\u0151tt kiv\u00e1lasztatott, de az id\u0151k v\u00e9g\u00e9n jelent meg ti\u00e9rtetek,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "akik \u00e1ltala hisztek Istenben, aki felt\u00e1masztotta \u0151t a halottak k\u00f6z\u00fcl, \u00e9s dics\u0151s\u00e9get adott neki, hogy hitetek Istenbe vetett rem\u00e9nys\u00e9g is legyen."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Tiszt\u00edts\u00e1tok meg lelketeket az igazs\u00e1g ir\u00e1nti engedelmess\u00e9ggel k\u00e9pmutat\u00e1s n\u00e9lk\u00fcli testv\u00e9rszeretetre, egym\u00e1st kitart\u00f3an, tiszta sz\u00edvb\u0151l szeress\u00e9tek,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "mint akik nem romland\u00f3, hanem romolhatatlan magb\u00f3l sz\u00fclettetek \u00fajj\u00e1, Isten \u00e9l\u0151 \u00e9s maradand\u00f3 ig\u00e9je \u00e1ltal."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "&#34;Mert minden test olyan, mint a f\u0171, \u00e9s minden dics\u0151s\u00e9ge, mint a mez\u0151 vir\u00e1ga: megsz\u00e1rad a f\u0171, \u00e9s vir\u00e1ga elhull,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "de az \u00dar besz\u00e9de megmarad \u00f6r\u00f6kk\u00e9&#34;. Ez pedig az a besz\u00e9d, amelyet hirdettek nektek."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c9p\u00fcljetek fel lelki h\u00e1zz\u00e1 - Levetve teh\u00e1t minden gonoszs\u00e1got, minden \u00e1lnoks\u00e1got, k\u00e9pmutat\u00e1st, irigys\u00e9get \u00e9s minden r\u00e1galmaz\u00e1st,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "mint \u00fajsz\u00fcl\u00f6tt csecsem\u0151k a hamis\u00edtatlan lelki tejet k\u00edv\u00e1nj\u00e1tok, hogy azon n\u00f6vekedjetek az \u00fcdv\u00f6ss\u00e9gre;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "mivel meg\u00edzlelt\u00e9tek, hogy j\u00f3s\u00e1gos az \u00dar."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "J\u00e1ruljatok \u0151hozz\u00e1, mint \u00e9l\u0151 k\u0151h\u00f6z, amelyet az emberek ugyan megvetettek, amely azonban Isten el\u0151tt &#34;kiv\u00e1lasztott \u00e9s dr\u00e1ga&#34;;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "ti magatok is mint \u00e9l\u0151 k\u00f6vek \u00e9p\u00fcljetek fel lelki h\u00e1zz\u00e1, szent paps\u00e1gg\u00e1, hogy lelki \u00e1ldozatokat aj\u00e1nljatok fel, amelyek kedvesek Istennek J\u00e9zus Krisztus \u00e1ltal."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ez\u00e9rt \u00e1ll ez az \u00cdr\u00e1sban: &#34;\u00cdme, leteszek Sionban egy kiv\u00e1lasztott dr\u00e1ga sarokk\u00f6vet, \u00e9s aki hisz benne, nem sz\u00e9gyen\u00fcl meg&#34;."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "N\u00e9ktek, a h\u00edv\u0151knek dr\u00e1ga kincs; a hitetleneknek pedig az a k\u0151, amelyet megvetettek az \u00e9p\u00edt\u0151k, sarokk\u0151v\u00e9 lett,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "meg\u00fctk\u00f6z\u00e9s k\u00f6v\u00e9v\u00e9 \u00e9s botr\u00e1nkoz\u00e1s szikl\u00e1j\u00e1v\u00e1; azok bele\u00fctk\u00f6znek, mert nem engedelmeskednek az ig\u00e9nek. \u0150k erre is rendeltettek."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ti azonban v\u00e1lasztott nemzets\u00e9g, kir\u00e1lyi paps\u00e1g, szent nemzet vagytok, Isten tulajdonba vett n\u00e9pe, hogy hirdess\u00e9tek nagy tetteit annak, aki a s\u00f6t\u00e9ts\u00e9gb\u0151l az \u0151 csod\u00e1latos vil\u00e1goss\u00e1g\u00e1ra h\u00edvott el titeket;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "akik egykor nem az \u0151 n\u00e9pe voltatok, most pedig Isten n\u00e9pe vagytok, akik sz\u00e1m\u00e1ra nem volt irgalom, most pedig irgalomra tal\u00e1ltatok."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Szeretteim, k\u00e9rlek titeket, mint j\u00f6vev\u00e9nyeket \u00e9s idegeneket: tart\u00f3zkodjatok a testi v\u00e1gyakt\u00f3l, amelyek a l\u00e9lek ellen harcolnak."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tisztess\u00e9gesen \u00e9ljetek a pog\u00e1nyok k\u00f6z\u00f6tt, hogy ha valamivel r\u00e1galmaznak titeket, mint gonosztev\u0151ket, a ti j\u00f3 cselekedeteiteket l\u00e1tva, dics\u0151\u00edts\u00e9k Istent a megl\u00e1togat\u00e1s napj\u00e1n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Engedelmeskedjetek minden emberi rendnek - Engedelmeskedjetek minden emberi rendnek az \u00dar\u00e9rt, ak\u00e1r a kir\u00e1lynak, mint a legf\u0151bb hatalomnak,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "ak\u00e1r a helytart\u00f3knak, mint akiket \u0151 k\u00fcld a gonosztev\u0151k megb\u00fcntet\u00e9s\u00e9re \u00e9s a j\u00f3t cselekv\u0151k megdics\u00e9r\u00e9s\u00e9re."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mert Isten akarata az, hogy j\u00f3t cselekedve n\u00e9m\u00edts\u00e1tok el az \u00e9rtelmetlen emberek tudatlans\u00e1g\u00e1t,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "mint szabadok: nem \u00fagy, mint akik a szabads\u00e1got a gonoszs\u00e1g takar\u00f3j\u00e1ul haszn\u00e1lj\u00e1k, hanem mint Isten szolg\u00e1i."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mindenkinek adj\u00e1tok meg a tiszteletet, a testv\u00e9reket szeress\u00e9tek, az Istent f\u00e9lj\u00e9tek, a kir\u00e1lyt tisztelj\u00e9tek."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "A szolg\u00e1k k\u00f6vess\u00e9k J\u00e9zus p\u00e9ld\u00e1j\u00e1t - Ti szolg\u00e1k pedig teljes f\u00e9lelemmel engedelmeskedjetek uraitoknak, ne csak a j\u00f3knak \u00e9s m\u00e9lt\u00e1nyosaknak, hanem a k\u00edm\u00e9letleneknek is."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Mert kegyelem az, ha valaki Istenre n\u00e9z\u0151 lelkiismerettel t\u0171r el s\u00e9relmeket, amikor igazs\u00e1gtalanul szenved."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "De milyen dics\u0151s\u00e9g az, ha kitart\u00f3an t\u0171ritek a hib\u00e1tok miatt kapott ver\u00e9st? Ellenben ha kitart\u00f3an cselekszitek a j\u00f3t, \u00e9s t\u0171ritek \u00e9rte a szenved\u00e9st, az kedves az Isten szem\u00e9ben."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Hiszen erre h\u00edvattatok el, mivel Krisztus is szenvedett \u00e9rtetek, \u00e9s p\u00e9ld\u00e1t hagyott r\u00e1tok, hogy az \u0151 nyomdokait k\u00f6vess\u00e9tek:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u0151 nem tett b\u0171nt, \u00e1lnoks\u00e1g sem hagyta el a sz\u00e1j\u00e1t,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "mikor gyal\u00e1zt\u00e1k, nem viszonozta a gyal\u00e1z\u00e1st; amikor szenvedett, nem fenyeget\u0151z\u00f6tt, hanem r\u00e1b\u00edzta ezt arra, aki igazs\u00e1gosan \u00edt\u00e9l."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "B\u0171neinket maga vitte fel test\u00e9ben a f\u00e1ra, hogy miut\u00e1n meghaltunk a b\u0171n\u00f6knek, az igazs\u00e1gnak \u00e9lj\u00fcnk: az \u0151 sebei \u00e1ltal gy\u00f3gyultatok meg"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": ". - Mert olyanok voltatok, mint a t\u00e9velyg\u0151 juhok, de most megt\u00e9rtetek lelketek p\u00e1sztor\u00e1hoz \u00e9s gondvisel\u0151j\u00e9hez."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A h\u00e1zast\u00e1rsak becs\u00fclj\u00e9k meg egym\u00e1st - Ugyan\u00edgy, ti asszonyok, engedelmeskedjetek f\u00e9rjeteknek, hogy ha k\u00f6z\u00fcl\u00fck egyesek nem engedelmeskednek az ig\u00e9nek, feles\u00e9g\u00fck magaviselete szavak n\u00e9lk\u00fcl is nyerje meg \u0151ket,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "felfigyelve istenf\u00e9l\u0151 \u00e9s tiszta \u00e9letetekre."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ne a k\u00fcls\u0151 d\u00edsz legyen a ti \u00e9kess\u00e9getek, ne a hajfonogat\u00e1s, arany \u00e9kszerek felrak\u00e1sa vagy k\u00fcl\u00f6nf\u00e9le ruh\u00e1k fel\u00f6lt\u00e9se,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "hanem a sz\u00edv elrejtett embere a szel\u00edd \u00e9s csendes l\u00e9lek el nem m\u00fal\u00f3 d\u00edsz\u00e9vel: ez \u00e9rt\u00e9kes az Isten el\u0151tt."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Egykor a szent asszonyok is, akik az Istenben rem\u00e9nykedtek, \u00edgy d\u00edsz\u00edtett\u00e9k magukat: engedelmeskedtek f\u00e9rj\u00fcknek,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "ahogyan S\u00e1ra engedelmeskedett \u00c1brah\u00e1mnak, \u00e9s ur\u00e1nak nevezte \u0151t. Az \u0151 le\u00e1nyai lesztek, ha j\u00f3t tesztek, \u00e9s ha nem f\u00e9ltek semmif\u00e9le fenyeget\u00e9st\u0151l."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00c9s ugyan\u00edgy, ti f\u00e9rfiak is, meg\u00e9rt\u0151en \u00e9ljetek egy\u00fctt feles\u00e9getekkel, mint a gyeng\u00e9bb f\u00e9llel, adj\u00e1tok meg nekik a tiszteletet mint \u00f6r\u00f6k\u00f6st\u00e1rsaitoknak is az \u00e9let kegyelm\u00e9ben, hogy a ti im\u00e1dkoz\u00e1sotok ne \u00fctk\u00f6zz\u00e9k akad\u00e1lyba."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Cselekedj\u00e9tek a j\u00f3t \u00e1llhatatosan - V\u00e9g\u00fcl pedig legyetek mindny\u00e1jan egyet\u00e9rt\u0151k, egy\u00fctt\u00e9rz\u0151k, testv\u00e9rszeret\u0151k, k\u00f6ny\u00f6r\u00fcletesek, al\u00e1zatosak."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ne fizessetek a gonosz\u00e9rt gonosszal, vagy a gyal\u00e1zkod\u00e1s\u00e9rt gyal\u00e1zkod\u00e1ssal, hanem ellenkez\u0151leg: mondjatok \u00e1ld\u00e1st, hiszen arra h\u00edvattatok el, hogy \u00e1ld\u00e1st \u00f6r\u00f6k\u00f6ljetek."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mert aki szeretne \u00f6r\u00fclni az \u00e9letnek, \u00e9s j\u00f3 napokat l\u00e1tni, \u00f3vja nyelv\u00e9t a gonoszt\u00f3l, \u00e9s ajkait, hogy ne sz\u00f3ljanak \u00e1lnoks\u00e1got;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "forduljon el a gonoszt\u00f3l, \u00e9s cselekedj\u00e9k j\u00f3t, keresse \u00e9s k\u00f6vesse a b\u00e9kess\u00e9get;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "mert az \u00dar szeme az igazakon van, \u00e9s f\u00fcle az \u0151 k\u00f6ny\u00f6rg\u00e9s\u00fckre figyel, az \u00dar arca pedig a gonoszt cselekv\u0151k ellen fordul."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De ki az, aki b\u00e1ntalmaz titeket, ha buzg\u00f3n igyekeztek a j\u00f3ra?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "De m\u00e9g ha szenvedn\u00e9tek is az igazs\u00e1g\u00e9rt, akkor is boldogok vagytok; a fenyeget\u00e9s\u00fckt\u0151l pedig ne ijedjetek meg, se meg ne rettenjetek."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ellenben az Urat, a Krisztust tarts\u00e1tok szentnek sz\u00edvetekben, \u00e9s legyetek k\u00e9szen mindenkor sz\u00e1mot adni mindenkinek, aki sz\u00e1mon k\u00e9ri t\u0151letek a bennetek \u00e9l\u0151 rem\u00e9nys\u00e9get."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ezt pedig szel\u00edden \u00e9s tisztelettud\u00f3an, j\u00f3 lelkiismerettel tegy\u00e9tek, hogy amivel r\u00e1galmaznak titeket, abban megsz\u00e9gyen\u00fcljenek azok, akik gyal\u00e1zz\u00e1k a ti Krisztusban val\u00f3 j\u00f3 magatart\u00e1sotokat."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mert jobb j\u00f3t, mint gonoszt cselekedve szenvedni, ha ez az Isten akarata."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Krisztus hal\u00e1l\u00e1nak \u00e9s felt\u00e1mad\u00e1s\u00e1nak gy\u00fcm\u00f6lcse - Mert Krisztus is szenvedett egyszer a b\u0171n\u00f6k\u00e9rt, az Igaz a nem igazak\u00e9rt, hogy Istenhez vezessen minket, miut\u00e1n hal\u00e1lra adatott test szerint, de megeleven\u00edttetett L\u00e9lek szerint."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00cdgy ment el a b\u00f6rt\u00f6nben lev\u0151 lelkekhez is, \u00e9s pr\u00e9dik\u00e1lt azoknak,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "akik egykor engedetlenek voltak, amikor az Isten t\u00fcrelmesen v\u00e1rakozott a N\u00f3\u00e9 napjaiban a b\u00e1rka k\u00e9sz\u00edt\u00e9sekor. Ebben kev\u00e9s, sz\u00e1m szerint nyolc l\u00e9lek menek\u00fclt meg a v\u00edzen \u00e1t."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Most pedig titeket is megment ennek k\u00e9pm\u00e1sa, a kereszts\u00e9g, amely nem a test szenny\u00e9nek lemos\u00e1sa, hanem k\u00f6ny\u00f6rg\u00e9s Istenhez j\u00f3 lelkiismeret\u00e9rt a felt\u00e1madt J\u00e9zus Krisztus \u00e1ltal,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "aki miut\u00e1n felment a mennybe, az Isten jobbj\u00e1n van, \u00e9s al\u00e1vettettek neki angyalok, hatalmass\u00e1gok \u00e9s er\u0151k."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Isten akarata szerint \u00e9ljetek - Mivel teh\u00e1t Krisztus testben szenvedett, v\u00e9rtezz\u00e9tek fel magatokat azzal a felismer\u00e9ssel, hogy aki testileg szenved, az elszakad a b\u0171nt\u0151l,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "hogy t\u00f6bb\u00e9 ne emberi v\u00e1gyak, hanem az Isten akarata szerint \u00e9lj\u00e9tek le testi \u00e9letetek h\u00e1tralev\u0151 idej\u00e9t."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bizony, el\u00e9g volt abb\u00f3l, hogy a m\u00faltban a pog\u00e1nyok szok\u00e1sa szerint kicsapong\u00e1sokban, k\u00edv\u00e1ns\u00e1gokban, r\u00e9szegesked\u00e9sekben, dorb\u00e9zol\u00e1sokban, tivorny\u00e1z\u00e1sokban \u00e9s szents\u00e9gtelen b\u00e1lv\u00e1nyim\u00e1d\u00e1sokban \u00e9ltetek."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Az\u00e9rt haragusznak r\u00e1tok, s\u0151t k\u00e1romolj\u00e1k Istent, mert nem rohantok vel\u00fck egy\u00fctt a kicsapong\u00e1snak ugyanabba a posv\u00e1ny\u00e1ba."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De sz\u00e1mot fognak adni annak, aki k\u00e9sz\u00fcl \u00edt\u00e9lni \u00e9l\u0151ket \u00e9s holtakat."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mert a holtaknak is az\u00e9rt hirdettetett az evang\u00e9lium, hogy testben, emberi m\u00e9rt\u00e9kek szerint \u00edt\u00e9ltessenek meg, de \u00e9ljenek Isten szerint l\u00e9lekben."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Isten kegyelm\u00e9nek j\u00f3 s\u00e1f\u00e1rai - Mindennek a v\u00e9ge pedig m\u00e1r k\u00f6zel van: legyetek teh\u00e1t b\u00f6lcsek \u00e9s j\u00f3zanok, hogy im\u00e1dkozhassatok."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mindenekel\u0151tt az egym\u00e1s ir\u00e1nti szeretet legyen kitart\u00f3 bennetek, mert a szeretet sok b\u0171nt elfedez."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Legyetek egym\u00e1ssal vend\u00e9gszeret\u0151k z\u00fagol\u00f3d\u00e1s n\u00e9lk\u00fcl."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ki milyen lelki aj\u00e1nd\u00e9kot kapott, \u00fagy szolg\u00e1ljatok azzal egym\u00e1snak, mint Isten sokf\u00e9le kegyelm\u00e9nek j\u00f3 s\u00e1f\u00e1rai:"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "ha valaki pr\u00e9dik\u00e1l, \u00fagy mondja szavait, mint Isten ig\u00e9it, ha valaki szolg\u00e1l, \u00fagy szolg\u00e1ljon, mint aki azt az Istent\u0151l kapott er\u0151vel v\u00e9gzi, hogy mindenkor az Isten dics\u0151\u00edttess\u00e9k J\u00e9zus Krisztus \u00e1ltal, aki\u00e9 a dics\u0151s\u00e9g \u00e9s a hatalom \u00f6r\u00f6kk\u00f6n-\u00f6r\u00f6kk\u00e9. \u00c1men."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Boldogs\u00e1g Krisztus\u00e9rt szenvedni - Szeretteim! A szenved\u00e9s t\u00fcze miatt, amely megpr\u00f3b\u00e1ltat\u00e1sul t\u00e1madt k\u00f6z\u00f6ttetek, ne h\u00e1borogjatok \u00fagy, mintha valami meglep\u0151 dolog \u00e9rne titeket."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "S\u0151t, amennyire r\u00e9szes\u00fclt\u00f6k a Krisztus szenved\u00e9s\u00e9ben, annyira \u00f6r\u00fcljetek, hogy az \u0151 dics\u0151s\u00e9g\u00e9nek megjelen\u00e9sekor is ujjongva \u00f6r\u00fclhessetek."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Boldogok vagytok, ha gyal\u00e1znak titeket a Krisztus nev\u00e9\u00e9rt, mert a dics\u0151s\u00e9g Lelke, az Isten Lelke megnyugszik rajtatok."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "K\u00f6z\u00fcletek teh\u00e1t senki se szenvedjen mint gyilkos, mint tolvaj, mint gonosztev\u0151, vagy mint m\u00e1s dolg\u00e1ba avatkoz\u00f3."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ha azonban valaki mint kereszty\u00e9n szenved, ne sz\u00e9gyenkezz\u00e9k, hanem dics\u0151\u00edtse Istent ezzel a n\u00e9vvel."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mert itt van az az id\u0151, amikor elkezd\u0151dik az \u00edt\u00e9let az Isten h\u00e1za n\u00e9p\u00e9n. Ha pedig el\u0151sz\u00f6r rajtunk kezd\u0151dik, akkor mi lesz a v\u00e9ge azoknak, akik nem hisznek az Isten evang\u00e9lium\u00e1ban?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00c9s ha az igaz is alig menek\u00fcl meg, akkor hova lesz az istentelen \u00e9s a b\u0171n\u00f6s?"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Akik teh\u00e1t az Isten akarat\u00e1b\u00f3l szenvednek, azok is - j\u00f3t cselekedve - aj\u00e1nlj\u00e1k lelk\u00fcket a h\u0171 Teremt\u0151nek."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Presbiterek \u00e9s ifjak int\u00e9se - A k\u00f6z\u00f6ttetek lev\u0151 presbitereket teh\u00e1t k\u00e9rem \u00e9n, a presbitert\u00e1rs \u00e9s Krisztus szenved\u00e9s\u00e9nek tan\u00faja, valamint elj\u00f6vend\u0151 dics\u0151s\u00e9g\u00e9nek is r\u00e9szese:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "legeltess\u00e9tek az Isten k\u00f6z\u00f6ttetek lev\u0151 ny\u00e1j\u00e1t; ne k\u00e9nyszerb\u0151l, hanem \u00f6nk\u00e9nt, ne nyer\u00e9szked\u00e9sb\u0151l, hanem k\u00e9szs\u00e9gesen;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ne is \u00fagy, mint akik uralkodnak a r\u00e1juk b\u00edzottakon, hanem mint akik p\u00e9ldak\u00e9pei a ny\u00e1jnak."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00c9s amikor megjelenik a f\u0151p\u00e1sztor, elnyeritek a dics\u0151s\u00e9g hervadhatatlan koszor\u00faj\u00e1t."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ugyan\u00fagy, ti ifjabbak: engedelmeskedjetek az id\u0151sebbeknek, egym\u00e1s ir\u00e1nt pedig valamennyien legyetek al\u00e1zatosak, mert az Isten a g\u0151g\u00f6s\u00f6knek ellen\u00e1ll, az al\u00e1zatosaknak pedig kegyelmet ad."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Istennek gondja van r\u00e1tok - Al\u00e1zz\u00e1tok meg teh\u00e1t magatokat Isten hatalmas keze alatt, hogy felmagasztaljon titeket annak idej\u00e9n."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Minden gondotokat \u0151re\u00e1 vess\u00e9tek, mert neki gondja van r\u00e1tok"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Legyetek j\u00f3zanok, vigy\u00e1zzatok, mert ellens\u00e9getek, az \u00f6rd\u00f6g mint ord\u00edt\u00f3 oroszl\u00e1n j\u00e1r szerte, keresve, kit nyeljen el:"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00e1lljatok ellene a hitben szil\u00e1rdan, tudv\u00e1n, hogy ugyanazok a szenved\u00e9sek telnek be testv\u00e9reiteken e vil\u00e1gban."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A minden kegyelem Istene pedig, aki elh\u00edvott titeket Krisztusban az \u0151 \u00f6r\u00f6k dics\u0151s\u00e9g\u00e9re, miut\u00e1n r\u00f6vid ideig szenvedtetek, maga fog titeket felk\u00e9sz\u00edteni, megszil\u00e1rd\u00edtani, meger\u0151s\u00edteni \u00e9s megalapozni."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00d6v\u00e9 a dics\u0151s\u00e9g \u00e9s a hatalom \u00f6r\u00f6kk\u00f6n-\u00f6r\u00f6kk\u00e9. \u00c1men."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Befejez\u0151 \u00fcdv\u00f6zl\u00e9sek, \u00e1ld\u00e1s - Szilv\u00e1nusz \u00e1ltal, aki - mint gondolom - h\u0171s\u00e9ges testv\u00e9retek, r\u00f6viden \u00edrtam, b\u00e1tor\u00edtva titeket \u00e9s bizonys\u00e1got t\u00e9ve arr\u00f3l, hogy az az Isten igazi kegyelme, amelyben \u00e1lltok."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "K\u00f6sz\u00f6nt titeket a veletek egy\u00fctt kiv\u00e1lasztott babiloni gy\u00fclekezet \u00e9s M\u00e1rk, az \u00e9n fiam."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "K\u00f6sz\u00f6nts\u00e9tek egym\u00e1st a szeretet cs\u00f3kj\u00e1val. B\u00e9kess\u00e9g mindny\u00e1jatoknak, akik a Krisztusban vagytok."
+                }
+            }
+        }
+    }
+}

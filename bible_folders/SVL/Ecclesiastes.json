@@ -1,0 +1,955 @@
+{
+    "version": "SVL",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Allt \u00e4r meningsl\u00f6st -F\u00f6rfattare: Salomo, kungen i Jerusalem, Davids son, Predikaren."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Allt \u00e4r meningsl\u00f6st, det finns ingenting som \u00e4r v\u00e4rt n\u00e5got."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Vad f\u00e5r egentligen en m\u00e4nniska ut av allt sitt arbete?Generationer kommer och g\u00e5r, men det g\u00f6r varken till eller fr\u00e5n. Solen g\u00e5r upp och ner och skyndar sig runt f\u00f6r att g\u00e5 upp igen. Vinden bl\u00e5ser \u00e5t s\u00f6der och \u00e5t norr, fram och tillbaka utan att komma n\u00e5gonstans. Floderna rinner ut i havet, men havet blir aldrig fullt, och vattnet \u00e5terv\u00e4nder till floderna och flyter sedan \u00e4n en g\u00e5ng ut i havet."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vad f\u00e5r egentligen en m\u00e4nniska ut av allt sitt arbete?Generationer kommer och g\u00e5r, men det g\u00f6r varken till eller fr\u00e5n. Solen g\u00e5r upp och ner och skyndar sig runt f\u00f6r att g\u00e5 upp igen. Vinden bl\u00e5ser \u00e5t s\u00f6der och \u00e5t norr, fram och tillbaka utan att komma n\u00e5gonstans. Floderna rinner ut i havet, men havet blir aldrig fullt, och vattnet \u00e5terv\u00e4nder till floderna och flyter sedan \u00e4n en g\u00e5ng ut i havet."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vad f\u00e5r egentligen en m\u00e4nniska ut av allt sitt arbete?Generationer kommer och g\u00e5r, men det g\u00f6r varken till eller fr\u00e5n. Solen g\u00e5r upp och ner och skyndar sig runt f\u00f6r att g\u00e5 upp igen. Vinden bl\u00e5ser \u00e5t s\u00f6der och \u00e5t norr, fram och tillbaka utan att komma n\u00e5gonstans. Floderna rinner ut i havet, men havet blir aldrig fullt, och vattnet \u00e5terv\u00e4nder till floderna och flyter sedan \u00e4n en g\u00e5ng ut i havet."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vad f\u00e5r egentligen en m\u00e4nniska ut av allt sitt arbete?Generationer kommer och g\u00e5r, men det g\u00f6r varken till eller fr\u00e5n. Solen g\u00e5r upp och ner och skyndar sig runt f\u00f6r att g\u00e5 upp igen. Vinden bl\u00e5ser \u00e5t s\u00f6der och \u00e5t norr, fram och tillbaka utan att komma n\u00e5gonstans. Floderna rinner ut i havet, men havet blir aldrig fullt, och vattnet \u00e5terv\u00e4nder till floderna och flyter sedan \u00e4n en g\u00e5ng ut i havet."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vad f\u00e5r egentligen en m\u00e4nniska ut av allt sitt arbete?Generationer kommer och g\u00e5r, men det g\u00f6r varken till eller fr\u00e5n. Solen g\u00e5r upp och ner och skyndar sig runt f\u00f6r att g\u00e5 upp igen. Vinden bl\u00e5ser \u00e5t s\u00f6der och \u00e5t norr, fram och tillbaka utan att komma n\u00e5gonstans. Floderna rinner ut i havet, men havet blir aldrig fullt, och vattnet \u00e5terv\u00e4nder till floderna och flyter sedan \u00e4n en g\u00e5ng ut i havet."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Allt detta \u00e4r oerh\u00f6rt tr\u00f6ttsamt. Det spelar ingen roll hur mycket vi f\u00e5r se, f\u00f6r vi blir \u00e4nd\u00e5 aldrig n\u00f6jda. Och hur mycket vi \u00e4n f\u00e5r h\u00f6ra f\u00e5r vi inte nog.Historien upprepar sig. Ingenting \u00e4r nytt under solen. Allt har gjorts eller sagts tidigare. Kan man peka p\u00e5 n\u00e5got som verkligen \u00e4r nytt? Hur kan man veta att det inte redan fanns f\u00f6r l\u00e4ngesedan? Vi vet inte vad som har h\u00e4nt i det f\u00f6rflutna, och i framtiden kommer inte heller n\u00e5gon att veta vad vi haft f\u00f6r oss."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Allt detta \u00e4r oerh\u00f6rt tr\u00f6ttsamt. Det spelar ingen roll hur mycket vi f\u00e5r se, f\u00f6r vi blir \u00e4nd\u00e5 aldrig n\u00f6jda. Och hur mycket vi \u00e4n f\u00e5r h\u00f6ra f\u00e5r vi inte nog.Historien upprepar sig. Ingenting \u00e4r nytt under solen. Allt har gjorts eller sagts tidigare. Kan man peka p\u00e5 n\u00e5got som verkligen \u00e4r nytt? Hur kan man veta att det inte redan fanns f\u00f6r l\u00e4ngesedan? Vi vet inte vad som har h\u00e4nt i det f\u00f6rflutna, och i framtiden kommer inte heller n\u00e5gon att veta vad vi haft f\u00f6r oss."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Allt detta \u00e4r oerh\u00f6rt tr\u00f6ttsamt. Det spelar ingen roll hur mycket vi f\u00e5r se, f\u00f6r vi blir \u00e4nd\u00e5 aldrig n\u00f6jda. Och hur mycket vi \u00e4n f\u00e5r h\u00f6ra f\u00e5r vi inte nog.Historien upprepar sig. Ingenting \u00e4r nytt under solen. Allt har gjorts eller sagts tidigare. Kan man peka p\u00e5 n\u00e5got som verkligen \u00e4r nytt? Hur kan man veta att det inte redan fanns f\u00f6r l\u00e4ngesedan? Vi vet inte vad som har h\u00e4nt i det f\u00f6rflutna, och i framtiden kommer inte heller n\u00e5gon att veta vad vi haft f\u00f6r oss."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Allt detta \u00e4r oerh\u00f6rt tr\u00f6ttsamt. Det spelar ingen roll hur mycket vi f\u00e5r se, f\u00f6r vi blir \u00e4nd\u00e5 aldrig n\u00f6jda. Och hur mycket vi \u00e4n f\u00e5r h\u00f6ra f\u00e5r vi inte nog.Historien upprepar sig. Ingenting \u00e4r nytt under solen. Allt har gjorts eller sagts tidigare. Kan man peka p\u00e5 n\u00e5got som verkligen \u00e4r nytt? Hur kan man veta att det inte redan fanns f\u00f6r l\u00e4ngesedan? Vi vet inte vad som har h\u00e4nt i det f\u00f6rflutna, och i framtiden kommer inte heller n\u00e5gon att veta vad vi haft f\u00f6r oss."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jag, Predikaren, var kung i Israel och bodde i Jerusalem. Jag best\u00e4mde mig f\u00f6r att utforska hela universum. D\u00e5 uppt\u00e4ckte jag att det inte var n\u00e5gon lycklig lott Gud hade tilldelat m\u00e4nniskan. Allt hon g\u00f6r \u00e4r meningsl\u00f6st, det \u00e4r som att jaga efter vinden. Det som \u00e4r fel kan inte r\u00e4ttas till, och det \u00e4r ingen mening med att t\u00e4nka p\u00e5 det som har varit."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Jag, Predikaren, var kung i Israel och bodde i Jerusalem. Jag best\u00e4mde mig f\u00f6r att utforska hela universum. D\u00e5 uppt\u00e4ckte jag att det inte var n\u00e5gon lycklig lott Gud hade tilldelat m\u00e4nniskan. Allt hon g\u00f6r \u00e4r meningsl\u00f6st, det \u00e4r som att jaga efter vinden. Det som \u00e4r fel kan inte r\u00e4ttas till, och det \u00e4r ingen mening med att t\u00e4nka p\u00e5 det som har varit."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jag, Predikaren, var kung i Israel och bodde i Jerusalem. Jag best\u00e4mde mig f\u00f6r att utforska hela universum. D\u00e5 uppt\u00e4ckte jag att det inte var n\u00e5gon lycklig lott Gud hade tilldelat m\u00e4nniskan. Allt hon g\u00f6r \u00e4r meningsl\u00f6st, det \u00e4r som att jaga efter vinden. Det som \u00e4r fel kan inte r\u00e4ttas till, och det \u00e4r ingen mening med att t\u00e4nka p\u00e5 det som har varit."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Jag, Predikaren, var kung i Israel och bodde i Jerusalem. Jag best\u00e4mde mig f\u00f6r att utforska hela universum. D\u00e5 uppt\u00e4ckte jag att det inte var n\u00e5gon lycklig lott Gud hade tilldelat m\u00e4nniskan. Allt hon g\u00f6r \u00e4r meningsl\u00f6st, det \u00e4r som att jaga efter vinden. Det som \u00e4r fel kan inte r\u00e4ttas till, och det \u00e4r ingen mening med att t\u00e4nka p\u00e5 det som har varit."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Jag sa f\u00f6r mig sj\u00e4lv: Jag har skaffat mig mer kunskap \u00e4n n\u00e5gon annan tidigare kung i Jerusalem. Jag har mer f\u00f6rst\u00e5nd och vet mer.Jag anstr\u00e4ngde mig verkligen f\u00f6r att bli vis, men nu inser jag att det ocks\u00e5 var som att jaga efter vinden, f\u00f6r ju mer visdom jag skaffade mig, desto mer bekymmer fick jag. Att f\u00e5 mera kunskap g\u00f6r bara ont."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jag sa f\u00f6r mig sj\u00e4lv: Jag har skaffat mig mer kunskap \u00e4n n\u00e5gon annan tidigare kung i Jerusalem. Jag har mer f\u00f6rst\u00e5nd och vet mer.Jag anstr\u00e4ngde mig verkligen f\u00f6r att bli vis, men nu inser jag att det ocks\u00e5 var som att jaga efter vinden, f\u00f6r ju mer visdom jag skaffade mig, desto mer bekymmer fick jag. Att f\u00e5 mera kunskap g\u00f6r bara ont."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Jag sa f\u00f6r mig sj\u00e4lv: Jag har skaffat mig mer kunskap \u00e4n n\u00e5gon annan tidigare kung i Jerusalem. Jag har mer f\u00f6rst\u00e5nd och vet mer.Jag anstr\u00e4ngde mig verkligen f\u00f6r att bli vis, men nu inser jag att det ocks\u00e5 var som att jaga efter vinden, f\u00f6r ju mer visdom jag skaffade mig, desto mer bekymmer fick jag. Att f\u00e5 mera kunskap g\u00f6r bara ont."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Att gl\u00e4dja sig \u00e4r meningsl\u00f6st -Jag sa f\u00f6r mig sj\u00e4lv: Nu ska du vara glad! Njut av allt och g\u00f6r dig glada dagar! Men jag uppt\u00e4ckte att det ocks\u00e5 var meningsl\u00f6st.Det \u00e4r dumt att alltid skratta och meningsl\u00f6st att j\u00e4mt f\u00f6rs\u00f6ka vara glad!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Att gl\u00e4dja sig \u00e4r meningsl\u00f6st -Jag sa f\u00f6r mig sj\u00e4lv: Nu ska du vara glad! Njut av allt och g\u00f6r dig glada dagar! Men jag uppt\u00e4ckte att det ocks\u00e5 var meningsl\u00f6st.Det \u00e4r dumt att alltid skratta och meningsl\u00f6st att j\u00e4mt f\u00f6rs\u00f6ka vara glad!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Men mitt i mitt s\u00f6kande efter att bli vis kom jag p\u00e5 id\u00e9n att pigga upp mig med vin.Men det var d\u00e5raktigt och jag ins\u00e5g vad som var r\u00e4tt f\u00f6r m\u00e4nniskan att g\u00f6ra under sin levnad."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sedan trodde jag att jag skulle bli n\u00f6jd genom att s\u00e4tta ig\u00e5ng stora byggnadsprojekt. Jag byggde hus och anlade ving\u00e5rdar, tr\u00e4dg\u00e5rdar, parker, fruktodlingar, och slutligen byggde jag stora dammar som skulle anv\u00e4ndas f\u00f6r bevattning av alla planteringar."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sedan trodde jag att jag skulle bli n\u00f6jd genom att s\u00e4tta ig\u00e5ng stora byggnadsprojekt. Jag byggde hus och anlade ving\u00e5rdar, tr\u00e4dg\u00e5rdar, parker, fruktodlingar, och slutligen byggde jag stora dammar som skulle anv\u00e4ndas f\u00f6r bevattning av alla planteringar."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Sedan trodde jag att jag skulle bli n\u00f6jd genom att s\u00e4tta ig\u00e5ng stora byggnadsprojekt. Jag byggde hus och anlade ving\u00e5rdar, tr\u00e4dg\u00e5rdar, parker, fruktodlingar, och slutligen byggde jag stora dammar som skulle anv\u00e4ndas f\u00f6r bevattning av alla planteringar."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "D\u00e4refter k\u00f6pte jag slavar, b\u00e5de m\u00e4n och kvinnor, och andra f\u00f6ddes i mitt hem. Jag skaffade mig ocks\u00e5 v\u00e4ldiga f\u00e5rhjordar och annan boskap, mycket st\u00f6rre \u00e4n n\u00e5gon av de andra kungarna f\u00f6re mig hade haft. Och fr\u00e5n de provinser som jag regerade \u00f6ver samlade jag in m\u00e4ngder av silver och guld.F\u00f6r att f\u00e5 underh\u00e5llning skaffade jag mig en s\u00e5ngk\u00f6r som bestod av b\u00e5de m\u00e4n och kvinnor. Dessutom var jag omgiven av vackra kvinnor."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "D\u00e4refter k\u00f6pte jag slavar, b\u00e5de m\u00e4n och kvinnor, och andra f\u00f6ddes i mitt hem. Jag skaffade mig ocks\u00e5 v\u00e4ldiga f\u00e5rhjordar och annan boskap, mycket st\u00f6rre \u00e4n n\u00e5gon av de andra kungarna f\u00f6re mig hade haft. Och fr\u00e5n de provinser som jag regerade \u00f6ver samlade jag in m\u00e4ngder av silver och guld.F\u00f6r att f\u00e5 underh\u00e5llning skaffade jag mig en s\u00e5ngk\u00f6r som bestod av b\u00e5de m\u00e4n och kvinnor. Dessutom var jag omgiven av vackra kvinnor."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jag blev allts\u00e5 st\u00f6rre och m\u00e4ktigare \u00e4n n\u00e5gon av de tidigare kungarna i Jerusalem, och jag litade till min vishet och min klarsyn f\u00f6r att kunna bed\u00f6ma allt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jag skaffade mig allt jag ville ha och beh\u00f6vde inte avst\u00e5 fr\u00e5n n\u00e5got som kunde g\u00f6ra mig glad. Jag tyckte om att arbeta h\u00e5rt, och den gl\u00e4djen var egentligen den enda l\u00f6n jag fick f\u00f6r allt slit."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Att arbeta \u00e4r meningsl\u00f6st -Men n\u00e4r jag s\u00e5g p\u00e5 allt det som jag hade pr\u00f6vat, tyckte jag alltsammans var meningsl\u00f6st, precis som om jag jagat efter vinden, och ingenstans fann jag n\u00e5got som hade verkligt v\u00e4rde."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "D\u00e5 b\u00f6rjade jag att j\u00e4mf\u00f6ra vishet med d\u00e5rskap, och vem som helst borde komma till samma slutsats som jag gjorde:"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Vishet \u00e4r f\u00f6rmer \u00e4n d\u00e5rskap, precis som ljuset \u00e4r b\u00e4ttre \u00e4n m\u00f6rkret, och att den vise har f\u00f6rm\u00e5ga att se, medan d\u00e5ren \u00e4r blind. Men \u00e4nd\u00e5 uppt\u00e4ckte jag n\u00e5got som var gemensamt f\u00f6r b\u00e5de visa och d\u00e5rar, n\u00e4mligen att"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vishet \u00e4r f\u00f6rmer \u00e4n d\u00e5rskap, precis som ljuset \u00e4r b\u00e4ttre \u00e4n m\u00f6rkret, och att den vise har f\u00f6rm\u00e5ga att se, medan d\u00e5ren \u00e4r blind. Men \u00e4nd\u00e5 uppt\u00e4ckte jag n\u00e5got som var gemensamt f\u00f6r b\u00e5de visa och d\u00e5rar, n\u00e4mligen att"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "alla kommer att d\u00f6. Jag kommer att d\u00f6 precis som d\u00e5ren. Och vad har d\u00e5 all min vishet f\u00f6r v\u00e4rde? N\u00e4r jag ins\u00e5g detta fann jag ocks\u00e5 att visheten var meningsl\u00f6s,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "f\u00f6r den vise och d\u00e5ren ska ju b\u00e5da d\u00f6, och snart \u00e4r de gl\u00f6mda."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "D\u00e4rf\u00f6r hatar jag livet, eftersom alltsammans \u00e4r s\u00e5 meningsl\u00f6st. Ja, allt, allt \u00e4r tomhet och som att jaga efter vinden."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Det retar mig att jag m\u00e5ste l\u00e4mna frukten av allt mitt arbete \u00e5t andra."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Och vem vet om min son kommer att bli vis eller d\u00e5raktig? \u00c4nd\u00e5 kommer allt jag har att \u00f6verl\u00e4mnas \u00e5t honom. Det bekymrar mig verkligen!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "I min f\u00f6rtvivlan slutade jag d\u00e4rf\u00f6r upp med att s\u00f6ka tillfredsst\u00e4llelse genom h\u00e5rt arbete. Jag f\u00f6rstod att \u00e4ven om jag anv\u00e4nde hela mitt liv till att s\u00f6ka efter vishet och kunskap s\u00e5 m\u00e5ste jag en dag l\u00e4mna alltsammans till n\u00e5gon som inte lagt tv\u00e5 str\u00e5n i kors f\u00f6r att f\u00e5 det. Utan att beh\u00f6va prestera n\u00e5got f\u00e5r han allt. Och det \u00e4r inte bara d\u00e5raktigt, utan \u00e4ven or\u00e4ttvist. Vad f\u00e5r allts\u00e5 en m\u00e4nniska f\u00f6r allt sitt h\u00e5rda arbete? Jo, dagar fyllda av sorg och bekymmer och bittra, s\u00f6mnl\u00f6sa n\u00e4tter. Allt detta \u00e4r ju i h\u00f6gsta grad l\u00f6jligt."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "I min f\u00f6rtvivlan slutade jag d\u00e4rf\u00f6r upp med att s\u00f6ka tillfredsst\u00e4llelse genom h\u00e5rt arbete. Jag f\u00f6rstod att \u00e4ven om jag anv\u00e4nde hela mitt liv till att s\u00f6ka efter vishet och kunskap s\u00e5 m\u00e5ste jag en dag l\u00e4mna alltsammans till n\u00e5gon som inte lagt tv\u00e5 str\u00e5n i kors f\u00f6r att f\u00e5 det. Utan att beh\u00f6va prestera n\u00e5got f\u00e5r han allt. Och det \u00e4r inte bara d\u00e5raktigt, utan \u00e4ven or\u00e4ttvist. Vad f\u00e5r allts\u00e5 en m\u00e4nniska f\u00f6r allt sitt h\u00e5rda arbete? Jo, dagar fyllda av sorg och bekymmer och bittra, s\u00f6mnl\u00f6sa n\u00e4tter. Allt detta \u00e4r ju i h\u00f6gsta grad l\u00f6jligt."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "I min f\u00f6rtvivlan slutade jag d\u00e4rf\u00f6r upp med att s\u00f6ka tillfredsst\u00e4llelse genom h\u00e5rt arbete. Jag f\u00f6rstod att \u00e4ven om jag anv\u00e4nde hela mitt liv till att s\u00f6ka efter vishet och kunskap s\u00e5 m\u00e5ste jag en dag l\u00e4mna alltsammans till n\u00e5gon som inte lagt tv\u00e5 str\u00e5n i kors f\u00f6r att f\u00e5 det. Utan att beh\u00f6va prestera n\u00e5got f\u00e5r han allt. Och det \u00e4r inte bara d\u00e5raktigt, utan \u00e4ven or\u00e4ttvist. Vad f\u00e5r allts\u00e5 en m\u00e4nniska f\u00f6r allt sitt h\u00e5rda arbete? Jo, dagar fyllda av sorg och bekymmer och bittra, s\u00f6mnl\u00f6sa n\u00e4tter. Allt detta \u00e4r ju i h\u00f6gsta grad l\u00f6jligt."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "I min f\u00f6rtvivlan slutade jag d\u00e4rf\u00f6r upp med att s\u00f6ka tillfredsst\u00e4llelse genom h\u00e5rt arbete. Jag f\u00f6rstod att \u00e4ven om jag anv\u00e4nde hela mitt liv till att s\u00f6ka efter vishet och kunskap s\u00e5 m\u00e5ste jag en dag l\u00e4mna alltsammans till n\u00e5gon som inte lagt tv\u00e5 str\u00e5n i kors f\u00f6r att f\u00e5 det. Utan att beh\u00f6va prestera n\u00e5got f\u00e5r han allt. Och det \u00e4r inte bara d\u00e5raktigt, utan \u00e4ven or\u00e4ttvist. Vad f\u00e5r allts\u00e5 en m\u00e4nniska f\u00f6r allt sitt h\u00e5rda arbete? Jo, dagar fyllda av sorg och bekymmer och bittra, s\u00f6mnl\u00f6sa n\u00e4tter. Allt detta \u00e4r ju i h\u00f6gsta grad l\u00f6jligt."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Jag kom allts\u00e5 fram till att det inte fanns n\u00e5got b\u00e4ttre f\u00f6r en m\u00e4nniska \u00e4n att gl\u00e4dja sig \u00e5t mat och dryck och arbete, men till slut ins\u00e5g jag att ocks\u00e5 den gl\u00e4djen kommer fr\u00e5n Gud. F\u00f6r vem kan \u00e4ta eller vara glad om han \u00e4r skild fr\u00e5n honom? Gud ger visdom, kunskap och gl\u00e4dje \u00e5t dem som g\u00f6r hans vilja. Men om syndaren lyckas spara ihop n\u00e5got, s\u00e5 tar Gud ifr\u00e5n honom det och ger det \u00e5t dem som lever f\u00f6r honom. H\u00e4r ser vi allts\u00e5 \u00e4nnu ett exempel p\u00e5 hur d\u00e5raktigt det \u00e4r att jaga efter vinden."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Jag kom allts\u00e5 fram till att det inte fanns n\u00e5got b\u00e4ttre f\u00f6r en m\u00e4nniska \u00e4n att gl\u00e4dja sig \u00e5t mat och dryck och arbete, men till slut ins\u00e5g jag att ocks\u00e5 den gl\u00e4djen kommer fr\u00e5n Gud. F\u00f6r vem kan \u00e4ta eller vara glad om han \u00e4r skild fr\u00e5n honom? Gud ger visdom, kunskap och gl\u00e4dje \u00e5t dem som g\u00f6r hans vilja. Men om syndaren lyckas spara ihop n\u00e5got, s\u00e5 tar Gud ifr\u00e5n honom det och ger det \u00e5t dem som lever f\u00f6r honom. H\u00e4r ser vi allts\u00e5 \u00e4nnu ett exempel p\u00e5 hur d\u00e5raktigt det \u00e4r att jaga efter vinden."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Jag kom allts\u00e5 fram till att det inte fanns n\u00e5got b\u00e4ttre f\u00f6r en m\u00e4nniska \u00e4n att gl\u00e4dja sig \u00e5t mat och dryck och arbete, men till slut ins\u00e5g jag att ocks\u00e5 den gl\u00e4djen kommer fr\u00e5n Gud. F\u00f6r vem kan \u00e4ta eller vara glad om han \u00e4r skild fr\u00e5n honom? Gud ger visdom, kunskap och gl\u00e4dje \u00e5t dem som g\u00f6r hans vilja. Men om syndaren lyckas spara ihop n\u00e5got, s\u00e5 tar Gud ifr\u00e5n honom det och ger det \u00e5t dem som lever f\u00f6r honom. H\u00e4r ser vi allts\u00e5 \u00e4nnu ett exempel p\u00e5 hur d\u00e5raktigt det \u00e4r att jaga efter vinden."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Allt i sin tid -Allt har sin r\u00e4tta tid:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "En tid att f\u00f6das,En tid att d\u00f6En tid att planteraEn tid att sk\u00f6rda"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "En tid att d\u00f6daEn tid att helaEn tid att f\u00f6rst\u00f6raEn tid att bygga upp"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "En tid att gr\u00e5taEn tid att skrattaEn tid att s\u00f6rjaEn tid att dansa"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "En tid att r\u00f6ja bort stenarEn tid att samla stenarEn tid att kramasEn tid att l\u00e5ta bli att kramas"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "En tid att hittaEn tid att tappa bortEn tid att beh\u00e5llaEn tid att kasta bort"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "En tid att riva s\u00f6nderEn tid att sy ihopEn tid att vara tystEn tid att tala"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En tid att \u00e4lskaEn tid att hataEn tid f\u00f6r krigEn tid f\u00f6r fred."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Vad f\u00e5r man d\u00e5 egentligen ut av sitt arbete?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jag har t\u00e4nkt p\u00e5 det n\u00e4r jag ser allt det arbete som Gud har gett m\u00e4nniskan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Allt har sin r\u00e4tta tid och plats. Men \u00e4ven om Gud har lagt evigheten i m\u00e4nniskornas hj\u00e4rtan, kan hon \u00e4nd\u00e5 inte \u00f6verblicka allt vad Gud g\u00f6r."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "D\u00e4rf\u00f6r drog jag den slutsatsen, att f\u00f6r det f\u00f6rsta finns det inget b\u00e4ttre f\u00f6r m\u00e4nniskan \u00e4n att vara glad och njuta av livet s\u00e5 l\u00e4nge det varar."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Och f\u00f6r det andra, att om hon kan \u00e4ta och dricka och vara glad, trots att hon sl\u00e4par och sliter, s\u00e5 \u00e4r det ocks\u00e5 en g\u00e5va fr\u00e5n Gud."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Och en sak vet jag best\u00e4mt, och det \u00e4r att vad Gud \u00e4n g\u00f6r s\u00e5 best\u00e5r det f\u00f6r evigt. Ingenting kan l\u00e4ggas till eller dras ifr\u00e5n. Guds avsikt med detta \u00e4r att m\u00e4nniskan ska visa honom respekt."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Allt som finns, det fanns f\u00f6r l\u00e4ngesedan, och allt som h\u00e4nder nu har h\u00e4nt f\u00f6rut. Gud l\u00e5ter s\u00e5dant som ligger l\u00e5ngt tillbaka i tiden h\u00e4nda g\u00e5ng p\u00e5 g\u00e5ng."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Dessutom har jag lagt m\u00e4rke till att brottsligheten breder ut sig och att or\u00e4ttf\u00e4rdigheten \u00f6verallt har tr\u00e4ngt undan r\u00e4ttvisan. Till och med domstolarna \u00e4r korrumperade."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jag sa f\u00f6r mig sj\u00e4lv: En g\u00e5ng kommer Gud att d\u00f6ma allt vad m\u00e4nniskan g\u00f6r, b\u00e5de gott och ont."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "D\u00e5 ins\u00e5g jag att Gud l\u00e5ter v\u00e4rlden forts\u00e4tta p\u00e5 sitt syndiga s\u00e4tt, s\u00e5 att han ska kunna pr\u00f6va m\u00e4nniskosl\u00e4ktet, och m\u00e4nniskorna ska inse att de inte \u00e4r b\u00e4ttre \u00e4n djuren."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "B\u00e5de m\u00e4nniskor och djur andas ju samma luft, och alla d\u00f6r de. M\u00e4nniskan har inget f\u00f6retr\u00e4de framf\u00f6r djuren."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Alla g\u00e5r mot samma m\u00e5l - till den jord som de har kommit ifr\u00e5n och m\u00e5ste v\u00e4nda tillbaka till."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Vem kan bevisa att m\u00e4nniskans ande stiger upp\u00e5t och djurens ande far ner i jorden?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "D\u00e4rf\u00f6r f\u00f6rstod jag att det inte kunde finnas n\u00e5got b\u00e4ttre f\u00f6r m\u00e4nniskorna \u00e4n att de var lyckliga i sin uppgift, f\u00f6r vem kan se in i framtiden? L\u00e5t dem d\u00e4rf\u00f6r vara glada f\u00f6r stunden."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sorg och or\u00e4ttvisa finns \u00f6verallt -D\u00e4refter s\u00e5g jag p\u00e5 nytt all den or\u00e4ttvisa och all den sorg som fanns p\u00e5 jorden. Jag s\u00e5g de f\u00f6rtrycktas t\u00e5rar och ingen tr\u00f6stade dem."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jag ins\u00e5g att de d\u00f6da har det b\u00e4ttre \u00e4n de som lever."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Lyckligast av alla \u00e4r de som aldrig blivit f\u00f6dda och d\u00e4rf\u00f6r sluppit se all ondska och alla or\u00e4ttvisor h\u00e4r i v\u00e4rlden."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sedan lade jag m\u00e4rke till att avundsjukan \u00e4r den kraft som driver m\u00e4nniskor till att str\u00e4va efter framg\u00e5ng. Men detta \u00e4r ocks\u00e5 meningsl\u00f6st och som att jaga efter vinden."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Man s\u00e4ger att d\u00e5ren inte vill arbeta, utan hellre sv\u00e4lter, och kanske \u00e4r det s\u00e5. Det \u00e4r b\u00e4ttre att leva under sm\u00e5 omst\u00e4ndigheter och ha frid och ro i sinnet \u00e4n att arbeta och slita, n\u00e4r det i alla fall i l\u00e4ngden bara \u00e4r som ett slag i luften."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Man s\u00e4ger att d\u00e5ren inte vill arbeta, utan hellre sv\u00e4lter, och kanske \u00e4r det s\u00e5. Det \u00e4r b\u00e4ttre att leva under sm\u00e5 omst\u00e4ndigheter och ha frid och ro i sinnet \u00e4n att arbeta och slita, n\u00e4r det i alla fall i l\u00e4ngden bara \u00e4r som ett slag i luften."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jag uppt\u00e4ckte ocks\u00e5 n\u00e5gonting annat h\u00e4r p\u00e5 jorden som \u00e4r meningsl\u00f6st."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ta till exempel en man som \u00e4r alldeles ensam. Han har ingen son och ingen bror, och \u00e4nd\u00e5 arbetar han intensivt f\u00f6r att skaffa sig st\u00f6rre rikedomar. F\u00f6r vems skull arbetar han, och varf\u00f6r f\u00f6rsakar han s\u00e5 mycket? Alltsammans \u00e4r bedr\u00f6vligt och fullst\u00e4ndigt meningsl\u00f6st."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "F\u00f6rdelen med gemenskap -Tv\u00e5 kan utr\u00e4tta mer \u00e4n dubbelt s\u00e5 mycket som en, och resultatet blir b\u00e4ttre."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Om den ene faller, kan den andre hj\u00e4lpa honom upp igen. Men om en man faller n\u00e4r han \u00e4r ensam, kan han r\u00e5ka illa ut."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dessutom kan tv\u00e5 v\u00e4rma varandra en kall natt om de ligger under samma filt, men hur ska den ensamme bli varm?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Och om n\u00e5gon st\u00e5r ensam kan han bli \u00f6verfallen och nerslagen, men tv\u00e5 kan st\u00e5 emot och klara sig. \u00c4nnu b\u00e4ttre \u00e4r det givetvis med tre, f\u00f6r en tretvinnad tr\u00e5d brister inte s\u00e5 l\u00e4tt."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Framg\u00e5ng varar inte f\u00f6r evigt -Det \u00e4r b\u00e4ttre att vara en fattig men vis ung man, \u00e4n att vara en gammal och d\u00e5raktig kung som v\u00e4grar att lyssna till r\u00e5d."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En s\u00e5dan ung man skulle n\u00e5 framg\u00e5ng \u00e4ven om han kom direkt fr\u00e5n f\u00e4ngelset, ja, han skulle till och med kunna bli kung, fast\u00e4n han var f\u00f6dd i fattigdom."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Alla \u00e4r ivriga att hj\u00e4lpa en s\u00e5dan ung man, till och med om det g\u00e4ller att ta \u00f6ver tronen."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Han skulle kunna bli ledare f\u00f6r miljoner och enormt popul\u00e4r, men sedan v\u00e4xer en yngre generation upp och st\u00f6rtar honom! Allts\u00e5 m\u00e4rker vi g\u00e5ng p\u00e5 g\u00e5ng hur allt \u00e4r meningsl\u00f6st och som att jaga efter vinden."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ha respekt f\u00f6r Gud -Ha \u00f6ronen \u00f6ppna och f\u00f6rs\u00f6k l\u00e4ra dig n\u00e5got n\u00e4r du g\u00e5r till templet! Var inte som d\u00e5ren, som inte inser att det \u00e4r synd att ge Gud f\u00f6rhastade l\u00f6ften. Gud \u00e4r i himlen, och du h\u00e5ller till p\u00e5 jorden. S\u00e4g d\u00e4rf\u00f6r inte mer \u00e4n vad som \u00e4r n\u00f6dv\u00e4ndigt. F\u00f6r mycket bekymmer ger dig mardr\u00f6mmar och d\u00e5rskap g\u00f6r dig till en pratmakare."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ha respekt f\u00f6r Gud -Ha \u00f6ronen \u00f6ppna och f\u00f6rs\u00f6k l\u00e4ra dig n\u00e5got n\u00e4r du g\u00e5r till templet! Var inte som d\u00e5ren, som inte inser att det \u00e4r synd att ge Gud f\u00f6rhastade l\u00f6ften. Gud \u00e4r i himlen, och du h\u00e5ller till p\u00e5 jorden. S\u00e4g d\u00e4rf\u00f6r inte mer \u00e4n vad som \u00e4r n\u00f6dv\u00e4ndigt. F\u00f6r mycket bekymmer ger dig mardr\u00f6mmar och d\u00e5rskap g\u00f6r dig till en pratmakare."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "N\u00e4r du har lovat Gud att du ska g\u00f6ra n\u00e5gonting, s\u00e5 dr\u00f6j d\u00e5 inte med det, f\u00f6r Gud har inget till \u00f6vers f\u00f6r d\u00e5rar. H\u00e5ll det du lovat!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Det \u00e4r mycket b\u00e4ttre att tiga med att du ska g\u00f6ra n\u00e5got, \u00e4n att s\u00e4ga att du ska g\u00f6ra n\u00e5got som du sedan inte g\u00f6r."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I s\u00e5 fall f\u00e5r din mun dig att synda. Och f\u00f6rs\u00f6k inte f\u00f6rsvara dig genom att s\u00e4ga till Guds s\u00e4ndebud att det var ett misstag att lova n\u00e5got. Gud kan d\u00e5 bli f\u00f6rargad p\u00e5 dig och han kan d\u00e5 f\u00f6rst\u00f6ra allt vad du har. Det \u00e4r d\u00e5raktigt att dr\u00f6mma i st\u00e4llet f\u00f6r att handla, och en m\u00e4ngd tomma ord kan f\u00f6rorsaka f\u00f6rd\u00e4rv. Visa i st\u00e4llet respekt f\u00f6r Gud."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I s\u00e5 fall f\u00e5r din mun dig att synda. Och f\u00f6rs\u00f6k inte f\u00f6rsvara dig genom att s\u00e4ga till Guds s\u00e4ndebud att det var ett misstag att lova n\u00e5got. Gud kan d\u00e5 bli f\u00f6rargad p\u00e5 dig och han kan d\u00e5 f\u00f6rst\u00f6ra allt vad du har. Det \u00e4r d\u00e5raktigt att dr\u00f6mma i st\u00e4llet f\u00f6r att handla, och en m\u00e4ngd tomma ord kan f\u00f6rorsaka f\u00f6rd\u00e4rv. Visa i st\u00e4llet respekt f\u00f6r Gud."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Om du ser att en rik f\u00f6rtrycker en fattig, och att man \u00f6verallt i landet v\u00e4grar att ge dem r\u00e4tt, ska du inte bli \u00f6verraskad! Varje tj\u00e4nsteman tar ju order fr\u00e5n dem som \u00e4r h\u00f6gre, och varje h\u00f6gre tj\u00e4nsteman i sin tur ser upp till sina \u00f6verordnade."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Men \u00f6ver dem alla finns kungen, och vilken tillg\u00e5ng \u00e4r det inte med en kung som brukar sin makt p\u00e5 r\u00e4tt s\u00e4tt!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Den som \u00e4lskar pengar f\u00e5r aldrig nog, och det \u00e4r vansinnigt att tro att pengar och rikedom ger lycka!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ju mer du tj\u00e4nar, desto st\u00f6rre utgifter f\u00e5r du. Vad \u00e4r det d\u00e5 f\u00f6r gl\u00e4dje med rikedomen, f\u00f6rutom m\u00f6jligen gl\u00e4djen att se pengarna rinna mellan fingrarna?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "En arbetare sover gott, vare sig han har n\u00e5got att \u00e4ta eller inte, men den som \u00e4r rik oroar sig och drabbas av s\u00f6mnl\u00f6shet."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Det finns ett annat allvarligt problem som jag har sett \u00f6verallt. M\u00e4nniskor sparar sina pengar f\u00f6r att ha dem n\u00e4r de beh\u00f6ver dem b\u00e4ttre, men genom n\u00e5gon olycklig aff\u00e4r s\u00e5 f\u00f6rlorar de allt. F\u00f6ljden blir att deras barn inte \u00e4rver n\u00e5got."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Det finns ett annat allvarligt problem som jag har sett \u00f6verallt. M\u00e4nniskor sparar sina pengar f\u00f6r att ha dem n\u00e4r de beh\u00f6ver dem b\u00e4ttre, men genom n\u00e5gon olycklig aff\u00e4r s\u00e5 f\u00f6rlorar de allt. F\u00f6ljden blir att deras barn inte \u00e4rver n\u00e5got."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vi kom till denna v\u00e4rlden utan n\u00e5gonting, och vi l\u00e4mnar den utan n\u00e5gonting."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Det h\u00e4r \u00e4r, som jag sa, ett mycket allvarligt problem. Allt arbete som en m\u00e4nniska utf\u00f6rt har varit resultatl\u00f6st. Allt \u00e4r som bortbl\u00e5st."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Resten av sitt liv m\u00e5ste hon leva i m\u00f6rker och sorg - nedst\u00e4md, bitter och arg."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Livsgl\u00e4dje \u00e4r en g\u00e5va av Gud -Men jag har insett att det i varje fall finns en sak som \u00e4r bra. Det \u00e4r att \u00e4ta och dricka och acceptera sin st\u00e4llning i livet och gl\u00e4dja sig \u00e5t sitt arbete s\u00e5 l\u00e4nge Gud l\u00e5ter en leva, oavsett vilken uppgift man \u00e4n har f\u00e5tt."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Och naturligtvis \u00e4r det bra om Gud ger en m\u00e4nniska rikedom och h\u00e4lsa, s\u00e5 hon kan njuta av det hon \u00e4ger. Att vara glad \u00f6ver sitt arbete och acceptera sin lott h\u00e4r i livet, ja, det \u00e4r verkligen en Guds g\u00e5va."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Och naturligtvis \u00e4r det bra om Gud ger en m\u00e4nniska rikedom och h\u00e4lsa, s\u00e5 hon kan njuta av det hon \u00e4ger. Att vara glad \u00f6ver sitt arbete och acceptera sin lott h\u00e4r i livet, ja, det \u00e4r verkligen en Guds g\u00e5va."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Och den som g\u00f6r det beh\u00f6ver aldrig s\u00f6rja \u00f6ver sitt f\u00f6rflutna, f\u00f6r Gud fyller honom med gl\u00e4dje."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hela livet \u00e4r meningsl\u00f6st -Det finns en stor or\u00e4ttvisa som jag har sett \u00f6verallt i v\u00e4rlden."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Gud har gett en del m\u00e4nniskor stor rikedom och \u00e4ra, s\u00e5 att de kan f\u00e5 allt de vill, men sedan har han inte gett dem m\u00f6jlighet att njuta av det. Snart d\u00f6r de, och andra f\u00e5r alltsammans! Det \u00e4r b\u00e5de meningsl\u00f6st och sm\u00e4rtsamt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00c4ven om en man har hundra s\u00f6ner och lika m\u00e5nga d\u00f6ttrar och f\u00e5r leva tills han blir riktigt gammal, men \u00e4nd\u00e5 inte f\u00e5tt ut n\u00e5got av livet och inte ens har pengar till en hederlig begravning, d\u00e5 hade det varit b\u00e4ttre att han aldrig blivit f\u00f6dd."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "F\u00f6r ett d\u00f6df\u00f6tt barn som med detsamma \u00f6verl\u00e4mnas \u00e5t m\u00f6rkret utan att ha f\u00e5tt n\u00e5got namn har det b\u00e4ttre \u00e4n han."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Fast det aldrig har sett solen, eller vetat om dess existens, s\u00e5 har det mer ro \u00e4n en gammal olycklig man."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Och \u00e4ven om en m\u00e4nniska lever tusen \u00e5r tv\u00e5 g\u00e5nger om, men inte finner n\u00e5gon gl\u00e4dje, vad \u00e4r det d\u00e5 f\u00f6r nytta med det hela?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "B\u00e5de visa och d\u00e5rar lever och arbetar f\u00f6r att skaffa sig mat, och aldrig tycks de f\u00e5 nog. B\u00e5da st\u00e4lls inf\u00f6r samma problem, men det \u00e4r bara den vise som vet hur han ska leva."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "B\u00e5de visa och d\u00e5rar lever och arbetar f\u00f6r att skaffa sig mat, och aldrig tycks de f\u00e5 nog. B\u00e5da st\u00e4lls inf\u00f6r samma problem, men det \u00e4r bara den vise som vet hur han ska leva."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Att dr\u00f6mma om det man inte har \u00e4r lika meningsl\u00f6st som att jaga efter vinden."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Allt \u00e4r best\u00e4mt av Gud. Redan f\u00f6r l\u00e4nge sedan best\u00e4mde han varje m\u00e4nniskas livsv\u00e4g. D\u00e4rf\u00f6r \u00e4r det ingen id\u00e9 att diskutera med Gud om sitt \u00f6de."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ju fler ord du anv\u00e4nder desto tommare blir de, s\u00e5 varf\u00f6r bry sig om att tala \u00f6ver huvud taget?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vem kan s\u00e4ga hur man b\u00e4st b\u00f6r anv\u00e4nda de f\u00e5 dagarna under sitt korta liv? Och vem kan veta n\u00e5got om framtiden sedan han \u00e4r d\u00f6d?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Visa levnadsr\u00e5d -Ett gott rykte \u00e4r b\u00e4ttre \u00e4n den dyrbaraste parfym, och den dag man d\u00f6r \u00e4r b\u00e4ttre \u00e4n den dag man f\u00f6ds!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Visa levnadsr\u00e5d -Ett gott rykte \u00e4r b\u00e4ttre \u00e4n den dyrbaraste parfym, och den dag man d\u00f6r \u00e4r b\u00e4ttre \u00e4n den dag man f\u00f6ds!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Det \u00e4r b\u00e4ttre att \u00e4gna sin tid \u00e5t begravningar \u00e4n \u00e5t fester, f\u00f6r man kommer en g\u00e5ng att d\u00f6, och det \u00e4r bra att t\u00e4nka p\u00e5 det medan det \u00e4nnu \u00e4r tid."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Att s\u00f6rja \u00e4r b\u00e4ttre \u00e4n att skratta. Sorgen kanske g\u00f6r dig nedst\u00e4md, men den l\u00e4r dig ocks\u00e5 n\u00e5got."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ja, en vis m\u00e4nniska t\u00e4nker mycket p\u00e5 d\u00f6den, medan d\u00e5ren d\u00e4remot bara t\u00e4nker p\u00e5 att ha det roligt f\u00f6r stunden."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Det \u00e4r b\u00e4ttre att bli kritiserad av en vis man, \u00e4n att f\u00e5 ber\u00f6m av en d\u00e5re!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "N\u00e4r en d\u00e5re skrattar l\u00e5ter det som n\u00e4r torra kvistar sprakar i elden. Det \u00e4r ingenting att f\u00e4sta sig vid."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mutor f\u00f6rvandlar en vis man till en d\u00e5re, och det f\u00f6rst\u00f6r hans karakt\u00e4r."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Slutet \u00e4r b\u00e4ttre \u00e4n b\u00f6rjan! T\u00e5lamod \u00e4r b\u00e4ttre \u00e4n stolthet."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Reta inte upp dig s\u00e5 l\u00e4tt. Det \u00e4r vansinnigt att ge efter f\u00f6r vreden."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "L\u00e4ngta inte tillbaka till den gamla goda tiden, f\u00f6r du vet inte om det var b\u00e4ttre d\u00e5 \u00e4n vad det \u00e4r nu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Att vara vis \u00e4r lika bra som att vara rik, ja, egentligen \u00e4r det b\u00e4ttre att vara vis."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Du kan f\u00e5 vad som helst b\u00e5de genom vishet och genom pengar, men det har m\u00e5nga f\u00f6rdelar att vara vis."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "T\u00e4nk p\u00e5 vad Gud har gjort och lev efter detta! K\u00e4mpa inte mot naturen!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Njut av framg\u00e5ng och lycka n\u00e4r du kan det. N\u00e4r sv\u00e5ra tider kommer b\u00f6r du inse att det \u00e4r Gud som s\u00e4nder b\u00e5de lycka och pr\u00f6vningar. D\u00e4rf\u00f6r vet du inte vad som kommer att h\u00e4nda h\u00e4rn\u00e4st."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Mitt i all meningsl\u00f6shet som livet f\u00f6r med sig har jag sett mycket. En del verkligt goda m\u00e4nniskor har d\u00f6tt unga, medan andra som varit onda har f\u00e5tt leva l\u00e4nge. Var d\u00e4rf\u00f6r inte alltf\u00f6r r\u00e4ttf\u00e4rdig eller alltf\u00f6r vis! F\u00f6r du vill v\u00e4l inte d\u00f6 i f\u00f6rtid? Var \u00e5 andra sidan inte alltf\u00f6r ond - var inte n\u00e5gon d\u00e5re! En f\u00f6r tidig grav \u00e4r v\u00e4l inget att str\u00e4va efter!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mitt i all meningsl\u00f6shet som livet f\u00f6r med sig har jag sett mycket. En del verkligt goda m\u00e4nniskor har d\u00f6tt unga, medan andra som varit onda har f\u00e5tt leva l\u00e4nge. Var d\u00e4rf\u00f6r inte alltf\u00f6r r\u00e4ttf\u00e4rdig eller alltf\u00f6r vis! F\u00f6r du vill v\u00e4l inte d\u00f6 i f\u00f6rtid? Var \u00e5 andra sidan inte alltf\u00f6r ond - var inte n\u00e5gon d\u00e5re! En f\u00f6r tidig grav \u00e4r v\u00e4l inget att str\u00e4va efter!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mitt i all meningsl\u00f6shet som livet f\u00f6r med sig har jag sett mycket. En del verkligt goda m\u00e4nniskor har d\u00f6tt unga, medan andra som varit onda har f\u00e5tt leva l\u00e4nge. Var d\u00e4rf\u00f6r inte alltf\u00f6r r\u00e4ttf\u00e4rdig eller alltf\u00f6r vis! F\u00f6r du vill v\u00e4l inte d\u00f6 i f\u00f6rtid? Var \u00e5 andra sidan inte alltf\u00f6r ond - var inte n\u00e5gon d\u00e5re! En f\u00f6r tidig grav \u00e4r v\u00e4l inget att str\u00e4va efter!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Var \u00f6ppen f\u00f6r varje uppgift som kommer i din v\u00e4g utan att g\u00e5 till ytterligheter. Om du fruktar Gud, kan du r\u00e4kna med hans v\u00e4lsignelse."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "En vis man \u00e4r starkare \u00e4n de fr\u00e4msta ledarna i tio stora st\u00e4der!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Det finns ingen i hela v\u00e4rlden som alltid g\u00f6r bara det r\u00e4tta och aldrig syndar."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Tjuvlyssna inte n\u00e4r andra talar! D\u00e5 kan du f\u00e5 h\u00f6ra din tj\u00e4nare skvallra om dig. Du vet ju hur ofta du sj\u00e4lv talar illa om andra!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Tjuvlyssna inte n\u00e4r andra talar! D\u00e5 kan du f\u00e5 h\u00f6ra din tj\u00e4nare skvallra om dig. Du vet ju hur ofta du sj\u00e4lv talar illa om andra!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Jag har gjort mitt b\u00e4sta f\u00f6r att bli vis. Jag sa till mig sj\u00e4lv: Jag vill bli vis, men det hj\u00e4lpte inte."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Visheten \u00e4r l\u00e5ngt borta och mycket sv\u00e5r att finna."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Jag s\u00f6kte \u00f6verallt, fast besluten att finna visheten och f\u00e5 svar p\u00e5 alla mina fr\u00e5gor. Jag ville avsl\u00f6ja allt det onda och of\u00f6rnuftiga som d\u00e5rskapen f\u00f6r med sig."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Min erfarenhet av kvinnor \u00e4r bittrare \u00e4n d\u00f6den. Deras k\u00e4rlek \u00e4r en snara och med sina armar h\u00e5ller de fast dig. Den som lever f\u00f6r Gud f\u00f6rs\u00f6ker att fly fr\u00e5n dem, men syndarna kommer inte undan deras snaror."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Det h\u00e4r \u00e4r vad jag kommit fram till, s\u00e4ger Predikaren. Jag gjorde det efter att ha unders\u00f6kt allting \u00f6verallt: En p\u00e5 tusen av alla de m\u00e4n jag m\u00f6tt skulle kunna kallas vis, men inte en enda kvinna!"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Det h\u00e4r \u00e4r vad jag kommit fram till, s\u00e4ger Predikaren. Jag gjorde det efter att ha unders\u00f6kt allting \u00f6verallt: En p\u00e5 tusen av alla de m\u00e4n jag m\u00f6tt skulle kunna kallas vis, men inte en enda kvinna!"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vad underbart det \u00e4r att vara vis och f\u00f6rst\u00e5 vad saker och ting inneb\u00e4r. Visheten f\u00e5r en m\u00e4nniska att le och h\u00e5rdheten i hennes ansikte att mjukna."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Lyd kungen, som du lovat att g\u00f6ra. F\u00f6rs\u00f6k inte att komma ifr\u00e5n dina plikter, inte ens om de \u00e4r obehagliga, f\u00f6r kungen straffar dem som inte lyder."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Lyd kungen, som du lovat att g\u00f6ra. F\u00f6rs\u00f6k inte att komma ifr\u00e5n dina plikter, inte ens om de \u00e4r obehagliga, f\u00f6r kungen straffar dem som inte lyder."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Det ligger en v\u00e4ldig auktoritet bakom hans befallningar, och ingen kan ifr\u00e5gas\u00e4tta dem eller s\u00e4tta sig upp mot honom."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Den som lyder honom slipper att bli straffad. Den som \u00e4r vis vet alltid vad han ska g\u00f6ra."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ja, det finns tid och m\u00f6jlighet f\u00f6r allt, \u00e4ven om m\u00e4nniskans bekymmer vilar tungt p\u00e5 henne. Ingen vet vad som kommer att h\u00e4nda och ingen kan tala om det."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ja, det finns tid och m\u00f6jlighet f\u00f6r allt, \u00e4ven om m\u00e4nniskans bekymmer vilar tungt p\u00e5 henne. Ingen vet vad som kommer att h\u00e4nda och ingen kan tala om det."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ingen m\u00e4nniska kan hindra att hennes ande tas ifr\u00e5n henne. Och ingen har heller makt att skjuta upp sin d\u00f6dsdag. Det finns n\u00e4mligen ingen m\u00f6jlighet att komma undan den med dess hemska kval. Ondskan \u00e4r d\u00e5 ingen tillg\u00e5ng, och den kommer inte att kunna r\u00e4dda n\u00e5gon m\u00e4nniska."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Det \u00e4r s\u00e4krast att frukta Gud -Jag har mycket noga t\u00e4nkt p\u00e5 allt som h\u00e4nder h\u00e4r i v\u00e4rlden, d\u00e4r m\u00e4nniskor har makt att skada varandra. Jag har sett hur onda m\u00e4nniskor har blivit begravda, men redan p\u00e5 v\u00e4gen fr\u00e5n kyrkog\u00e5rden har deras v\u00e4nner gl\u00f6mt allt ont de gjort. Och dessa d\u00f6da har sedan blivit \u00e4rade i just den stad d\u00e4r de bedrivit sin ondska. \u00c4r inte detta m\u00e4rkligt?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Det \u00e4r s\u00e4krast att frukta Gud -Jag har mycket noga t\u00e4nkt p\u00e5 allt som h\u00e4nder h\u00e4r i v\u00e4rlden, d\u00e4r m\u00e4nniskor har makt att skada varandra. Jag har sett hur onda m\u00e4nniskor har blivit begravda, men redan p\u00e5 v\u00e4gen fr\u00e5n kyrkog\u00e5rden har deras v\u00e4nner gl\u00f6mt allt ont de gjort. Och dessa d\u00f6da har sedan blivit \u00e4rade i just den stad d\u00e4r de bedrivit sin ondska. \u00c4r inte detta m\u00e4rkligt?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Eftersom Gud inte p\u00e5 en g\u00e5ng straffar dem som syndar k\u00e4nner sig folk s\u00e4kra fast de g\u00f6r det som \u00e4r ont."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Men \u00e4ven om en m\u00e4nniska syndar hundra g\u00e5nger och \u00e4nd\u00e5 f\u00e5r leva, s\u00e5 vet jag att det kommer att g\u00e5 bra f\u00f6r dem som har respekt f\u00f6r Gud."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De som \u00e4r onda kommer d\u00e4remot inte att bli lyckliga och leva l\u00e4nge. Deras dagar kommer att f\u00f6rsvinna lika snabbt som skuggor, d\u00e4rf\u00f6r att de inte tar Gud p\u00e5 allvar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Det \u00e4r m\u00e4rkligt med det som h\u00e4nder h\u00e4r i v\u00e4rlden: En del goda m\u00e4nniskor tycks behandlas som om de var onda och en del onda som om de var v\u00e4ldigt goda. Utan tvekan \u00e4r det uppr\u00f6rande!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Arbetsgl\u00e4dje \u00e4r en g\u00e5va fr\u00e5n Gud -D\u00e5 best\u00e4mde jag mig f\u00f6r att njuta av livet och ha roligt. Jag k\u00e4nde att det inte finns n\u00e5got b\u00e4ttre h\u00e4r p\u00e5 jorden f\u00f6r m\u00e4nniskan \u00e4n att hon \u00e4ter och dricker och \u00e4r glad. Hon kan d\u00e5 k\u00e4nna sig lycklig i sitt arbete under den tid som Gud l\u00e5ter henne leva."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vi har alla samma v\u00e4g att g\u00e5 -D\u00e5 jag s\u00f6kte efter visheten, lade jag m\u00e4rke till all den verksamhet som f\u00f6rekommer i v\u00e4rlden. Den p\u00e5g\u00e5r dag och natt och upph\u00f6r aldrig. (Naturligtvis \u00e4r det bara Gud som kan se allt, och inte ens den visaste m\u00e4nniska som s\u00e4ger att hon vet allt, g\u00f6r det verkligen!)"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Vi har alla samma v\u00e4g att g\u00e5 -D\u00e5 jag s\u00f6kte efter visheten, lade jag m\u00e4rke till all den verksamhet som f\u00f6rekommer i v\u00e4rlden. Den p\u00e5g\u00e5r dag och natt och upph\u00f6r aldrig. (Naturligtvis \u00e4r det bara Gud som kan se allt, och inte ens den visaste m\u00e4nniska som s\u00e4ger att hon vet allt, g\u00f6r det verkligen!)"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Det finns ocks\u00e5 annat som jag utforskat mycket noga. Till exempel att b\u00e5de gudfruktiga och visa m\u00e4nniskor \u00e4r i Guds hand, men ingen vet om han kommer att v\u00e4lsigna dem eller inte. Alltsammans \u00e4r ett chanstagande!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Samma \u00f6de drabbar alla, vare sig de \u00e4r goda eller onda, religi\u00f6sa eller inte, v\u00e4rldsliga eller gudfruktiga. Det verkar s\u00e5 or\u00e4ttvist att ingen undg\u00e5r sitt \u00f6de. Det \u00e4r d\u00e4rf\u00f6r som vissa m\u00e4nniskor inte bryr sig om att leva r\u00e4tt och riktigt, utan i st\u00e4llet v\u00e4ljer att leva i ondska och el\u00e4nde. De har inte n\u00e5got hopp. Det enda som v\u00e4ntar dem \u00e4r d\u00f6den."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Samma \u00f6de drabbar alla, vare sig de \u00e4r goda eller onda, religi\u00f6sa eller inte, v\u00e4rldsliga eller gudfruktiga. Det verkar s\u00e5 or\u00e4ttvist att ingen undg\u00e5r sitt \u00f6de. Det \u00e4r d\u00e4rf\u00f6r som vissa m\u00e4nniskor inte bryr sig om att leva r\u00e4tt och riktigt, utan i st\u00e4llet v\u00e4ljer att leva i ondska och el\u00e4nde. De har inte n\u00e5got hopp. Det enda som v\u00e4ntar dem \u00e4r d\u00f6den."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Det finns bara hopp f\u00f6r dem som lever. D\u00e4rf\u00f6r \u00e4r det b\u00e4ttre att vara en levande hund \u00e4n ett d\u00f6tt lejon!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De levande vet ju \u00e5tminstone att de kommer att d\u00f6, men de d\u00f6da vet ingenting. De har ingen bel\u00f6ning att v\u00e4nta, och man ska inte ens komma ih\u00e5g dem."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Allt som de sysslat med under sin livstid - \u00e4lskat, hatat, avundats - \u00e4r \u00f6ver f\u00f6r l\u00e4nge sedan, och de beh\u00f6ver inte l\u00e4ngre befatta sig med det som h\u00e4nder h\u00e4r p\u00e5 jorden."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "S\u00e5 \u00e4t, drick och var glad, f\u00f6r Gud f\u00e4ster sig inte vid det."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kl\u00e4d dig i vita, fina kl\u00e4der, och l\u00e5t inte olja fattas p\u00e5 ditt huvud."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Lev lycklig tillsammans med den kvinna du \u00e4lskar. G\u00f6r det f\u00f6r varje dag s\u00e5 l\u00e4nge du kan. Hon \u00e4r den l\u00f6n som Gud ger dig f\u00f6r alla dina anstr\u00e4ngningar h\u00e4r i v\u00e4rlden."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vad du \u00e4n g\u00f6r s\u00e5 g\u00f6r det ordentligt, f\u00f6r i de d\u00f6das v\u00e4rld, dit du kommer, finns inget arbete, inga planer, ingen kunskap och ingen insikt."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c4n en g\u00e5ng s\u00e5g jag ut \u00f6ver jorden och uppt\u00e4ckte att det inte alltid \u00e4r den snabbaste l\u00f6paren som vinner loppet, eller den starkaste som segrar. Visa m\u00e4nniskor \u00e4r ofta fattiga, och de som \u00e4r beg\u00e5vade blir inte alltid ber\u00f6mda. Nej, alltsammans h\u00e4nder av en slump, genom att man r\u00e5kar vara p\u00e5 r\u00e4tt plats vid r\u00e4tt tid."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "En m\u00e4nniska vet aldrig n\u00e4r hon r\u00e5kar ha otur. Hon \u00e4r som en fisk som f\u00e5ngas i ett n\u00e4t, eller som f\u00e5geln som fastnar i en snara."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "H\u00e4r \u00e4r n\u00e5got annat som ocks\u00e5 gjort starkt intryck p\u00e5 mig medan jag har sett p\u00e5 m\u00e4nniskorna:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Det fanns en liten stad med bara n\u00e5gra f\u00e5 inv\u00e5nare, och en m\u00e4ktig kung kom med sin arm\u00e9 och bel\u00e4grade den."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "I staden fanns det en vis men mycket fattig man, och han visste vad som borde g\u00f6ras f\u00f6r att r\u00e4dda staden, och d\u00e4rf\u00f6r r\u00e4ddades den. Men efter\u00e5t var det ingen som l\u00e4ngre t\u00e4nkte p\u00e5 honom."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "D\u00e5 f\u00f6rstod jag att fast\u00e4n vishet \u00e4r b\u00e4ttre \u00e4n styrka, s\u00e5 kommer den som \u00e4r vis att bli f\u00f6raktad. D\u00e4rf\u00f6r att han \u00e4r fattig s\u00e5 f\u00e4ster man sig inte vid vad han s\u00e4ger."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Men \u00e4nd\u00e5 \u00e4r en vis m\u00e4nniskas lugna ord b\u00e4ttre \u00e4n ropen fr\u00e5n den som f\u00f6r d\u00e5rarnas talan. Vishet \u00e4r b\u00e4ttre \u00e4n vapen, men ett ruttet \u00e4pple kan f\u00f6rd\u00e4rva allt i en korg."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Uppf\u00f6r dig f\u00f6rst\u00e5ndigt -D\u00f6da flugor kan till och med f\u00e5 en flaska parfym att stinka! Ja, ett litet misstag kan f\u00e5 vishet och \u00e4ra att f\u00f6rsvinna."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Det \u00e4r naturligt f\u00f6r den som \u00e4r vis att g\u00f6ra det som \u00e4r r\u00e4tt, men en d\u00e5re g\u00f6r alltid det som \u00e4r fel."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ja, du kan faktiskt k\u00e4nna igen en d\u00e5re p\u00e5 det s\u00e4tt han g\u00e5r l\u00e4ngs en gata!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Om din chef \u00e4r arg p\u00e5 dig, s\u00e5 s\u00e4g d\u00e5 inte upp dig. Ett lugnt sinne kan l\u00e4gga mycket tillr\u00e4tta."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Det finns ett annat el\u00e4nde som jag har lagt m\u00e4rke till n\u00e4r jag sett ut \u00f6ver v\u00e4rlden, en sorglig situation som g\u00e4ller kungar och h\u00e4rskare:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jag har sett d\u00e5raktiga m\u00e4n som f\u00e5tt stor auktoritet och rika m\u00e4n som inte blivit visade respekt."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jag har till och med sett tj\u00e4nare rida, medan furstar har g\u00e5tt till fots som slavar."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den som gr\u00e4ver en grop faller sj\u00e4lv ner i den! Och den som bryter ner en gammal mur, blir biten av en orm! N\u00e4r du arbetar i ett stenbrott, kan stenar falla ner och krossa dig, och det \u00e4r en risk du tar varje g\u00e5ng du hugger med en yxa!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Den som gr\u00e4ver en grop faller sj\u00e4lv ner i den! Och den som bryter ner en gammal mur, blir biten av en orm! N\u00e4r du arbetar i ett stenbrott, kan stenar falla ner och krossa dig, och det \u00e4r en risk du tar varje g\u00e5ng du hugger med en yxa!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Om yxan \u00e4r sl\u00f6, och ingen har slipat eggen, s\u00e5 f\u00e5r du anv\u00e4nda desto mer kraft."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Om ormen f\u00e5r bita f\u00f6rst, vad har d\u00e5 ormtjusaren f\u00f6r gl\u00e4dje av sina konster?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Det \u00e4r behagligt att lyssna till visa ord, men en d\u00e5re f\u00f6rst\u00f6r f\u00f6r sig sj\u00e4lv genom sitt tal. Redan fr\u00e5n b\u00f6rjan \u00e4r allt han s\u00e4ger tokigt, men till slut blir det rena vansinnet!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Det \u00e4r behagligt att lyssna till visa ord, men en d\u00e5re f\u00f6rst\u00f6r f\u00f6r sig sj\u00e4lv genom sitt tal. Redan fr\u00e5n b\u00f6rjan \u00e4r allt han s\u00e4ger tokigt, men till slut blir det rena vansinnet!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En d\u00e5re vet allt om framtiden och ber\u00e4ttar i detalj f\u00f6r alla om den, men vem kan egentligen veta vad som kommer att ske?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En d\u00e5re blir ofta s\u00e5 slut av det lilla han g\u00f6r att han inte ens hittar hem."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Stackars det land som har ett barn till kung, och vars ledare \u00e4r druckna redan p\u00e5 morgonen. Men lyckligt det land vars kung kan fatta egna beslut, och vars ledare arbetar h\u00e5rt f\u00f6r att sedan \u00e4ta och dricka med m\u00e5tta, och inte f\u00f6r att festa och berusa sig."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Stackars det land som har ett barn till kung, och vars ledare \u00e4r druckna redan p\u00e5 morgonen. Men lyckligt det land vars kung kan fatta egna beslut, och vars ledare arbetar h\u00e5rt f\u00f6r att sedan \u00e4ta och dricka med m\u00e5tta, och inte f\u00f6r att festa och berusa sig."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "En lat man l\u00e5ter taket l\u00e4cka, och snart b\u00f6rjar bj\u00e4lkarna ruttna."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "En fest ger gl\u00e4dje och vin ger lycka, men utan pengar f\u00e5r du inget!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kritisera aldrig kungen, inte ens i hemlighet, och inte heller den rike mannen, f\u00f6r det finns alltid f\u00e5glar som g\u00e4rna kvittrar om vad du har sagt."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Det l\u00f6nar sig att vara gener\u00f6s -Var gener\u00f6s och ge, f\u00f6r dina g\u00e5vor ska senare komma tillbaka till dig."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dela med dig till m\u00e5nga, f\u00f6r en dag kan du sj\u00e4lv beh\u00f6va hj\u00e4lp."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "N\u00e4r molnen \u00e4r tunga, blir det regn. N\u00e4r ett tr\u00e4d faller, vare sig det faller \u00e5t s\u00f6der eller norr, s\u00e5 blir det liggande p\u00e5 den plats det fallit."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Om du hela tiden v\u00e4ntar p\u00e5 att f\u00e5 s\u00e5 goda f\u00f6ruts\u00e4ttningar som m\u00f6jligt, f\u00e5r du aldrig n\u00e5got gjort."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Guds v\u00e4gar \u00e4r hemlighetsfulla och du f\u00f6rst\u00e5r lika lite av dem som du f\u00f6rst\u00e5r vilken v\u00e4g vinden tar, eller hur ett nytt liv b\u00f6rjar i den kvinna som blir gravid."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Forts\u00e4tt att s\u00e5 ut din s\u00e4d b\u00e5de morgon och kv\u00e4ll, f\u00f6r du vet inte hur mycket av den som kommer att gro och v\u00e4xa. Kanske alltsammans rentav kommer att g\u00f6ra det."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Njut av livet varje dag -Det \u00e4r underbart att f\u00e5 leva!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Var tacksam och glad f\u00f6r varje dag du f\u00e5r leva, oavsett om ditt liv blir l\u00e5ngt eller kort! Men kom ocks\u00e5 ih\u00e5g att evigheten \u00e4r l\u00e4ngre \u00e4n livet h\u00e4r i v\u00e4rlden och att allting som gjorts h\u00e4r \u00e4r f\u00f6rg\u00e4ngligt."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ni unga m\u00e4nniskor, det \u00e4r h\u00e4rligt att vara ung! Njut av varje minut livet ger! G\u00f6r allt ni vill, men kom ih\u00e5g att ni ska st\u00e5 till svars inf\u00f6r Gud f\u00f6r allt ni g\u00f6r."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bekymra er inte f\u00f6r n\u00e5gonting och h\u00e5ll er undan allt ont! T\u00e4nk p\u00e5 att ungdomar, med ett helt liv framf\u00f6r sig, kan g\u00f6ra allvarliga misstag."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "T\u00e4nk p\u00e5 din Skapare n\u00e4r du \u00e4r ung -L\u00e5t inte din gl\u00e4dje \u00f6ver att vara ung f\u00e5 dig att gl\u00f6mma din Skapare. Lev f\u00f6r honom n\u00e4r du \u00e4r ung, innan de m\u00f6rka \u00e5ren kommer och du inte l\u00e4ngre kan njuta av livet."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "D\u00e5 \u00e4r det f\u00f6r sent att t\u00e4nka p\u00e5 honom, n\u00e4r solen och ljuset och m\u00e5nen och stj\u00e4rnorna blir dunkla f\u00f6r dina gamla \u00f6gon, och d\u00e5 de m\u00f6rka molnen hopar sig p\u00e5 himlen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Det kommer n\u00e4mligen en tid n\u00e4r din kropp kommer att darra av \u00e5lder, d\u00e5 dina ben som nu \u00e4r starka blir svaga, d\u00e5 dina t\u00e4nder blir f\u00f6r f\u00e5 f\u00f6r att tugga den mat du \u00e4ter. Du kanske ocks\u00e5 rentav blir blind."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "D\u00e5 ska du knipa ihop munnen medan du \u00e4ter, f\u00f6r du saknar dina t\u00e4nder. Ja, d\u00e5 kommer du att vakna samtidigt med f\u00e5glarna tidigt om morgonen, men du kommer inte att h\u00f6ra dem, eftersom du \u00e4r d\u00f6v. Och n\u00e4r du talar s\u00e5 g\u00f6r du det med darrande st\u00e4mma."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Du kommer att frukta varje uppf\u00f6rsbacke och v\u00e5ldet p\u00e5 gatorna kommer att skr\u00e4mma dig. Du \u00e4r nu en gammal vith\u00e5rig man som stapplar fram, utan sexuella beg\u00e4r. Du st\u00e5r vid d\u00f6dens port och p\u00e5 v\u00e4g till ditt eviga hem, och de s\u00f6rjande skymtar man redan borta p\u00e5 gatan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ja, kom ih\u00e5g din Skapare medan du \u00e4r ung, innan silvertr\u00e5den klipps av, guldsk\u00e5len krossas, vattenkrukan vid brunnen sl\u00e5s i bitar och hjulet stannar och faller ner."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "G\u00f6r det innan kroppen v\u00e4nder tillbaka till jorden, som den en g\u00e5ng kom fr\u00e5n, och livsanden v\u00e4nder tillbaka till Gud, som gav den."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ja, allt \u00e4r meningsl\u00f6st, s\u00e4ger Predikaren, fullkomligt tomt och inneh\u00e5llsl\u00f6st."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Frukta Gud och lyd honom -Men d\u00e4rf\u00f6r att Predikaren var vis, fortsatte han att l\u00e4ra folket allt han visste, och han samlade ordspr\u00e5k och pr\u00f6vade deras sanningshalt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Men Predikaren var inte bara en vis man utan ocks\u00e5 en bra l\u00e4rare. Och inte nog med att han undervisade folket om det han k\u00e4nde till, han hade ocks\u00e5 f\u00f6rm\u00e5gan att g\u00f6ra undervisningen f\u00e4ngslande."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Den vises ord \u00e4r som vassa sporrar som tr\u00e4nger in. De sl\u00e5r fast betydelsefulla sanningar. Och de som studerar g\u00f6r klokt i att tillgodog\u00f6ra sig l\u00e4rarnas undervisning."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Men, min son, jag varnar dig: det blir aldrig n\u00e5got slut p\u00e5 allt som skrivs och s\u00e4gs. Och att ta del av det \u00e4r dessutom oerh\u00f6rt tr\u00f6ttande!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Detta \u00e4r min slutsats: ha respekt f\u00f6r Gud och lyd hans befallningar, f\u00f6r det \u00e4r m\u00e4nniskans absoluta skyldighet."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Gud kommer n\u00e4mligen att d\u00f6ma oss f\u00f6r allt vad vi g\u00f6r, och f\u00f6r det vi inte gjort, vare sig det \u00e4r gott eller ont."
+                }
+            }
+        }
+    }
+}

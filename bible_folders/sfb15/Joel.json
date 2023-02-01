@@ -1,0 +1,314 @@
+{
+    "version": "sfb15",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Guds dom genom gr\u00e4shoppor - HERRENS ord som kom till Joel, Petuels son."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "H\u00f6r detta, ni \u00e4ldste, lyssna, alla ni som bor i landet. Har n\u00e5got s\u00e5dant h\u00e4nt i era dagar eller under era f\u00e4ders tid?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Det h\u00e4r ska ni ber\u00e4tta f\u00f6r era barn, era barn ska s\u00e4ga det till sina barn och deras barn till ett kommande sl\u00e4kte."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Det som gr\u00e4sgnagarna l\u00e4mnade \u00e5t gr\u00e4shopporna upp, det som gr\u00e4shopporna l\u00e4mnade \u00e5t gr\u00e4sbitarna upp, och det som gr\u00e4sbitarna l\u00e4mnade \u00e5t gr\u00e4s\u00e4tarna upp."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vakna, ni druckna, och gr\u00e5t! J\u00e4mra er, alla ni som dricker vin, \u00f6ver druvsaften som ryckts fr\u00e5n er mun."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "F\u00f6r ett hednafolk har invaderat mitt land, ett m\u00e4ktigt folk som ingen kan r\u00e4kna, med t\u00e4nder som ett lejon och k\u00e4ftar som en lejonhona."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De har \u00f6delagt min vinstock och f\u00f6rst\u00f6rt mitt fikontr\u00e4d, skalat dem nakna och kastat bort barken, l\u00e4mnat grenarna vita."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Klaga som en brud i sorgdr\u00e4kt efter sin ungdoms brudgum."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Matoffer och dryckesoffer har f\u00f6rsvunnit fr\u00e5n HERRENS hus. Pr\u00e4sterna, HERRENS tj\u00e4nare, s\u00f6rjer."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "F\u00e4ltet \u00e4r \u00f6delagt, marken s\u00f6rjer, f\u00f6r s\u00e4den \u00e4r f\u00f6rst\u00f6rd. Det nya vinet har torkat bort och oljan har sinat."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "St\u00e5 besvikna, ni jordbrukare, j\u00e4mra er, ni vinodlare, \u00f6ver vetet och kornet, f\u00f6r sk\u00f6rden p\u00e5 f\u00e4lten \u00e4r f\u00f6rst\u00f6rd."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vinstocken \u00e4r f\u00f6rtorkad och fikontr\u00e4det vissnat. Granat\u00e4ppeltr\u00e4det, dadelpalmen och \u00e4ppeltr\u00e4det \u2013 markens alla tr\u00e4d har torkat bort, gl\u00e4djen har vissnat fr\u00e5n m\u00e4nniskors barn."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kl\u00e4 er i s\u00e4cktyg och klaga, ni pr\u00e4ster, j\u00e4mra er, ni som tj\u00e4nstg\u00f6r vid altaret. G\u00e5 in och sitt i s\u00e4cktyg hela natten, ni min Guds tj\u00e4nare, f\u00f6r det finns inga mer matoffer eller drickoffer i er Guds hus."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "P\u00e5lys en helig fasta, utropa en h\u00f6gtidsf\u00f6rsamling. Samla de \u00e4ldste, samla alla som bor i landet till HERREN er Guds hus, och ropa till HERREN."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ve oss, vilken dag! HERRENS dag \u00e4r n\u00e4ra, den kommer som f\u00f6r\u00f6delse fr\u00e5n den Allsm\u00e4ktige."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Har inte v\u00e5rt levebr\u00f6d ryckts bort inf\u00f6r \u00f6gonen p\u00e5 oss, gl\u00e4dje och fr\u00f6jd fr\u00e5n v\u00e5r Guds hus?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Uts\u00e4det ligger f\u00f6rtorkat under klumpar av jord, f\u00f6rr\u00e5dshusen st\u00e5r \u00f6de och ladorna f\u00f6rfaller, f\u00f6r s\u00e4den har torkat bort."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Vad boskapen st\u00f6nar! Hjordar av kor irrar omkring, de finner inget bete. \u00c4ven f\u00e5rhjordarna g\u00e5r under."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Jag ropar till dig, HERRE, f\u00f6r en eld har f\u00f6rt\u00e4rt betet i \u00f6demarken och flamman f\u00f6rbr\u00e4nt markens alla tr\u00e4d."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00c4ven de vilda djuren l\u00e4ngtar efter dig, f\u00f6r b\u00e4ckarnas vatten har torkat ut och en eld har f\u00f6rt\u00e4rt betet i \u00f6demarken."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Herrens dag - Bl\u00e5s i basun p\u00e5 Sion, l\u00e5t larmet ljuda p\u00e5 mitt heliga berg s\u00e5 att alla som bor i landet darrar, f\u00f6r HERRENS dag kommer, den \u00e4r n\u00e4ra,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "en dag av m\u00f6rker och t\u00f6cken, en dag av moln och dimma. Som gryningen breder ut sig \u00f6ver bergen kommer ett stort och m\u00e4ktigt folk, vars like inte har funnits och aldrig ska uppst\u00e5 igen under kommande sl\u00e4kten."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Framf\u00f6r dem g\u00e5r en f\u00f6rt\u00e4rande eld, bakom dem en br\u00e4nnande l\u00e5ga. Landet framf\u00f6r dem var som Edens lustg\u00e5rd, bakom dem \u00e4r \u00f6de \u00f6ken. Ingen kommer undan dem."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "De liknar h\u00e4star, de rusar fram som stridsh\u00e4star."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De spr\u00e4nger fram \u00f6ver bergens toppar med ett muller som av vagnar, med ett d\u00e5n som n\u00e4r eldens l\u00e5gor f\u00f6rt\u00e4r str\u00e5, som ett m\u00e4ktigt folk, ordnat till strid."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Framf\u00f6r dem grips folken av skr\u00e4ck, alla ansikten bleknar."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Som hj\u00e4ltar jagar de fram, som stridsm\u00e4n stiger de upp p\u00e5 murarna. Var och en g\u00e5r sin v\u00e4g rakt fram, ingen viker av fr\u00e5n sin bana"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den ene tr\u00e4nger inte den andre, var och en g\u00e5r sitt givna sp\u00e5r. Mitt igenom vapnen st\u00f6rtar de fram utan att hejdas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De stormar in i staden, rusar fram p\u00e5 murarna, kl\u00e4ttrar upp p\u00e5 husen, g\u00e5r in genom f\u00f6nstren som tjuvar."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Inf\u00f6r dem darrar jorden, himlen b\u00e4var, solen och m\u00e5nen f\u00f6rm\u00f6rkas och stj\u00e4rnorna mister sitt sken."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "HERREN l\u00e5ter sin r\u00f6st h\u00f6ras framf\u00f6r sin h\u00e4r. Mycket stor \u00e4r hans arm\u00e9, stark \u00e4r den som utf\u00f6r hans order, f\u00f6r HERRENS dag \u00e4r stor och mycket skr\u00e4mmande. Vem kan uth\u00e4rda den?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kallelse till omv\u00e4ndelse - Men nu, s\u00e4ger HERREN, v\u00e4nd om till mig av hela ert hj\u00e4rta, med fasta, gr\u00e5t och klagan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Riv s\u00f6nder era hj\u00e4rtan, inte era kl\u00e4der, och v\u00e4nd om till HERREN er Gud, f\u00f6r han \u00e4r n\u00e5dig och barmh\u00e4rtig, sen till vrede och stor i n\u00e5d, och han \u00e5ngrar det onda."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vem vet? Kanske v\u00e4nder han om och \u00e5ngrar sig och l\u00e4mnar kvar en v\u00e4lsignelse efter sig till matoffer och drickoffer \u00e5t HERREN er Gud."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Bl\u00e5s i basun p\u00e5 Sion, p\u00e5lys en helig fasta, utropa en helig sammankomst."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Samla folket, helga f\u00f6rsamlingen, kalla samman de \u00e4ldste, samla de sm\u00e5 barnen, ocks\u00e5 dem som diar vid br\u00f6stet. L\u00e5t brudgummen komma ut ur sitt rum och bruden ur sin kammare."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "L\u00e5t pr\u00e4sterna, HERRENS tj\u00e4nare, gr\u00e5ta mellan f\u00f6rhuset och altaret och s\u00e4ga: \u201dHERRE, skona ditt folk och l\u00e5t inte din arvedel h\u00e5nas och bli en nidvisa bland hednafolken. Varf\u00f6r ska det f\u00e5 s\u00e4gas bland folken: Var \u00e4r deras Gud?\u201d"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Herrens svar - D\u00e5 fylldes HERREN av lidelse f\u00f6r sitt land, och han f\u00f6rbarmade sig \u00f6ver sitt folk."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "HERREN svarade och sade till sitt folk: Se, jag ska s\u00e4nda er s\u00e4d och vin och olja s\u00e5 att ni blir m\u00e4tta. Och jag ska inte l\u00e5ta hednafolken h\u00e5na er l\u00e4ngre."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Fienden fr\u00e5n norr ska jag driva l\u00e5ngt bort ifr\u00e5n er, jag ska driva ut honom till ett torrt och \u00f6de land, hans f\u00f6rtrupp till havet i \u00f6ster och hans eftertrupp till havet i v\u00e4ster. Stank ska stiga fr\u00e5n honom, ja, vidrig lukt ska stiga fr\u00e5n honom, f\u00f6r han har gjort stora ting."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Var inte r\u00e4dd, du land! Jubla och gl\u00e4d dig, f\u00f6r HERREN har gjort stora ting."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Var inte r\u00e4dda, ni markens djur, f\u00f6r \u00f6demarkens beten gr\u00f6nskar och tr\u00e4den b\u00e4r sin frukt, fikontr\u00e4den och vinstockarna ger sin rikedom."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Jubla, ni Sions barn, gl\u00e4d er i HERREN er Gud, f\u00f6r han ger er L\u00e4raren till r\u00e4ttf\u00e4rdighet. Han ska s\u00e4nda er rikligt med regn, b\u00e5de h\u00f6stregn och v\u00e5rregn som tidigare."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "S\u00e5 ska tr\u00f6skplatserna fyllas med s\u00e4d och pressarna fl\u00f6da \u00f6ver av vin och olja."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Jag ska gottg\u00f6ra er f\u00f6r \u00e5ren som \u00e5ts upp av gr\u00e4shopporna och gr\u00e4sbitarna, av gr\u00e4s\u00e4tarna och gr\u00e4sgnagarna, den stora h\u00e4r som jag s\u00e4nde ut mot er."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ni ska \u00e4ta och bli m\u00e4tta, och ni ska lova HERREN er Guds namn, han som har handlat s\u00e5 underbart med er, och mitt folk ska aldrig mer komma p\u00e5 skam."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ni ska f\u00f6rst\u00e5 att jag \u00e4r mitt i Israel, att jag \u00e4r HERREN er Gud och ingen annan. Och mitt folk ska aldrig mer komma p\u00e5 skam."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Och det ska ske d\u00e4refter att jag utgjuter min Ande \u00f6ver allt k\u00f6tt. Era s\u00f6ner och era d\u00f6ttrar ska profetera, era gamla ska ha dr\u00f6mmar och era unga ska se syner."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Ja, \u00f6ver tj\u00e4nare och tj\u00e4narinnor ska jag i de dagarna utgjuta min Ande."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Och jag ska g\u00f6ra tecken p\u00e5 himlen och p\u00e5 jorden, blod, eld och r\u00f6kpelare."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Solen ska v\u00e4ndas i m\u00f6rker och m\u00e5nen i blod innan HERRENS dag kommer, den stora och skr\u00e4mmande."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Och det ska ske att var och en som \u00e5kallar HERRENS namn ska bli fr\u00e4lst. P\u00e5 Sions berg och i Jerusalem ska det finnas en r\u00e4ddad skara, s\u00e5 som HERREN har sagt, bland de \u00f6verlevande som HERREN kallar."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Guds dom \u00f6ver Israels fiender - F\u00f6r se, i de dagarna och p\u00e5 den tiden, n\u00e4r jag g\u00f6r slut p\u00e5 Judas och Jerusalems f\u00e5ngenskap,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "ska jag samla alla hednafolk och f\u00f6ra dem ner till Joshafats dal. D\u00e4r ska jag h\u00e5lla dom \u00f6ver dem f\u00f6r mitt folks skull, min arvedel Israel som de har skingrat bland hednafolken. De har delat mitt land"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "och kastat lott om mitt folk. De betalade en prostituerad med en pojke och s\u00e5lde en flicka f\u00f6r vin som de drack upp."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Och du Tyrus och du Sidon, och ni Filisteens alla trakter, vad vill ni mig? Vill ni h\u00e4mnas p\u00e5 mig f\u00f6r n\u00e5got? Om ni h\u00e4mnas p\u00e5 mig, ska jag snabbt och med hast v\u00e4nda tillbaka er h\u00e4mnd \u00f6ver era egna huvuden,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "f\u00f6r ni har tagit mitt silver och mitt guld och f\u00f6rt bort mina dyrbaraste skatter in i era tempel."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Folket i Juda och Jerusalem har ni s\u00e5lt till grekerna f\u00f6r att skicka dem l\u00e5ngt bort fr\u00e5n sitt land."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Se, jag ska v\u00e4cka upp dem fr\u00e5n den ort dit ni s\u00e5lt dem, och det ni har gjort ska jag l\u00e5ta komma \u00f6ver era egna huvuden."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jag ska s\u00e4lja era s\u00f6ner och d\u00f6ttrar till folket i Juda, och de ska s\u00e4lja dem till sabeerna, ett folk i fj\u00e4rran land. S\u00e5 har HERREN talat."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ropa ut det bland hednafolken, kalla till helig strid. V\u00e4ck upp hj\u00e4ltarna, l\u00e5t alla krigsm\u00e4n komma och rycka fram."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Smid era plogbillar till sv\u00e4rd och era ving\u00e5rdsknivar till spjut. Den svage ska s\u00e4ga: \u201dJag \u00e4r stark.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Skynda er att komma, alla hednafolk h\u00e4romkring, och f\u00f6rsamla er. S\u00e4nd, HERRE, dina hj\u00e4ltar dit ner."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "L\u00e5t hednafolken resa sig och dra ut till Joshafats dal, f\u00f6r d\u00e4r ska jag sitta till doms \u00f6ver alla hednafolk h\u00e4romkring."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "L\u00e5t lien g\u00e5, f\u00f6r sk\u00f6rden \u00e4r mogen. Kom och trampa, f\u00f6r pressen \u00e4r full. Presskaren fl\u00f6dar \u00f6ver, f\u00f6r deras ondska \u00e4r stor."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Det \u00e4r skaror p\u00e5 skaror i Domens dal, f\u00f6r HERRENS dag \u00e4r n\u00e4ra i Domens dal."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Solen och m\u00e5nen f\u00f6rm\u00f6rkas och stj\u00e4rnorna mister sitt sken."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "HERREN ryter fr\u00e5n Sion, han l\u00e5ter sin r\u00f6st h\u00f6ras fr\u00e5n Jerusalem s\u00e5 att himlen och jorden b\u00e4var. Men HERREN \u00e4r en tillflykt f\u00f6r sitt folk, ett skydd f\u00f6r Israels barn."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Och ni ska f\u00f6rst\u00e5 att jag \u00e4r HERREN er Gud som bor p\u00e5 Sion, mitt heliga berg. Jerusalem ska vara heligt, och fr\u00e4mlingar ska inte mer ta v\u00e4gen genom henne."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Och det ska ske p\u00e5 den tiden att bergen ska drypa av druvsaft och h\u00f6jderna fl\u00f6da av mj\u00f6lk. Alla b\u00e4ckar i Juda ska fl\u00f6da av vatten. En k\u00e4lla ska utg\u00e5 fr\u00e5n HERRENS hus och vattna Akaciedalen."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Egypten ska bli en \u00f6demark och Edom en \u00f6de \u00f6ken, eftersom de brukat v\u00e5ld mot Juda folk och spillt oskyldigt blod i deras land."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Juda ska vara bebott f\u00f6r alltid och Jerusalem fr\u00e5n sl\u00e4kte till sl\u00e4kte."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Jag ska utpl\u00e5na deras blodskulder, dem som jag inte redan har utpl\u00e5nat. HERREN bor p\u00e5 Sion."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,955 @@
+{
+    "version": "ntlr",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Cuvintele oratorului, fiul lui David, rege la Ierusalim."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "De\u015fert\u0103ciunea existen\u0163ei - \u201eO, de\u015fert\u0103ciune a de\u015fert\u0103ciunilor, zice oratorul, o de\u015fert\u0103ciune a de\u015fert\u0103ciunilor! Totul este de\u015fert\u0103ciune!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ce c\u00e2\u015ftig are omul din toat\u0103 osteneala pe care o depune sub soare?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Un neam trece \u015fi altul vine, dar p\u0103m\u00e2ntul r\u0103m\u00e2ne mereu \u00een picioare."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Soarele r\u0103sare \u015fi apune, gr\u0103bindu-se apoi \u00eenspre locul de unde va r\u0103s\u0103ri iar."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "V\u00e2ntul bate spre sud, apoi se \u00eentoarce spre nord, se \u00eentoarce din nou, umbl\u0103 mereu \u015fi revine continuu la circuitul s\u0103u."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Toate r\u00e2urile curg spre mare, f\u0103r\u0103 s\u0103 o umple \u00eens\u0103; r\u00e2urile se \u00eentorc de unde au plecat, doar ca s\u0103 porneasc\u0103 iar\u0103\u015fi de acolo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Toate lucrurile sunt obositoare, cum nu se poate spune, dar ochiul nu se satur\u0103 s\u0103 priveasc\u0103, a\u015fa cum nici urechea nu se satur\u0103 s\u0103 asculte."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ce a fost va mai fi, iar ce s-a f\u0103cut se va mai face! Nu este nimic nou sub soare!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dac\u0103 cineva zice: \u00abIat\u0103 un lucru nou!\u00bb, totu\u015fi el exista demult, \u00eenc\u0103 din veacurile dinaintea noastr\u0103."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nu ne mai amintim de cei de demult, tot a\u015fa cum nici cei ce vor urma nu se vor mai p\u0103stra \u00een amintirea celor ce vor veni dup\u0103 ei.\u201c"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De\u015fert\u0103ciunea \u00een\u0163elepciunii - \u201eEu, oratorul, am fost rege peste Israel la Ierusalim."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "M-am dedicat studiului \u015fi cercet\u0103rii \u00een\u0163elepciunii cu privire la toate lucrurile care se s\u0103v\u00e2r\u015fesc sub ceruri; aceasta este o ocupa\u0163ie obositoare, pe care Dumnezeu o d\u0103 oamenilor ca s\u0103 se \u00eendeletniceasc\u0103 cu ea."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Am observat toate lucr\u0103rile care se fac sub soare \u015fi iat\u0103 c\u0103 toate sunt de\u015fert\u0103ciune \u015fi goan\u0103 dup\u0103 v\u00e2nt."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00abCe a fost \u00eendoit odat\u0103 nu mai poate fi \u00eendreptat, iar ce lipse\u015fte nu poate fi num\u0103rat.\u00bb"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Mi-am zis: \u00abIat\u0103 c\u0103 mi-am m\u0103rit faima \u015fi mi-am sporit \u00een\u0163elepciunea mai mult dec\u00e2t to\u0163i cei care au fost la Ierusalim \u00eenaintea mea; inima mea a experimentat mult mai mult\u0103 \u00een\u0163elepciune \u015fi cuno\u015ftin\u0163\u0103.\u00bb"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "M-am dedicat cunoa\u015fterii \u00een\u0163elepciunii, precum \u015fi cunoa\u015fterii nebuniei \u015fi a prostiei, dar mi-am dat seama c\u0103 \u015fi aceasta este goan\u0103 dup\u0103 v\u00e2nt."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00abUnde este mult\u0103 \u00een\u0163elepciune, este \u015fi mult\u0103 sup\u0103rare \u015fi cu c\u00e2t este mai mult\u0103 cuno\u015ftin\u0163\u0103, cu at\u00e2t este mai mult\u0103 m\u00e2hnire.\u00bb\u201c"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "De\u015fert\u0103ciunea pl\u0103cerilor - \u201eAm zis atunci inimii mele: \u00abVoi \u00eencerca veselia, s\u0103 v\u0103d dac\u0103 este bun\u0103!\u00bb Dar iat\u0103 c\u0103 \u015fi aceasta este de\u015fert\u0103ciune!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Am zis despre r\u00e2s: \u00abEste o nebunie!\u00bb, iar despre veselie \u2013 \u00abCe folos are?\u00bb"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Am hot\u0103r\u00e2t \u00een inima mea s\u0103-mi \u00eencerc trupul cu vin \u2013 timp \u00een care inima mea m\u0103 va conduce cu \u00een\u0163elepciune \u2013 \u015fi s\u0103 \u00eembr\u0103\u0163i\u015fez astfel nebunia, p\u00e2n\u0103 voi \u00een\u0163elege ce este bine s\u0103 fac\u0103 fiii oamenilor sub ceruri, \u00een pu\u0163inele zile ale vie\u0163ii lor."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mi-am l\u0103rgit lucr\u0103rile: mi-am construit case \u015fi mi-am s\u0103dit vii,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "mi-am amenajat gr\u0103dini \u015fi parcuri \u015fi am plantat \u00een ele pomi cu tot felul de roade."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mi-am f\u0103cut iazuri cu ap\u0103 pentru a uda mul\u0163imea pomilor ce au r\u0103s\u0103rit."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mi-am cump\u0103rat sclavi \u015fi sclave \u015fi am avut sclavi n\u0103scu\u0163i \u00een cas\u0103; am avut turme \u2013 vite \u015fi oi \u2013 am avut mai multe dobitoace dec\u00e2t to\u0163i cei ce fuseser\u0103 \u00eenainte de mine la Ierusalim."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mi-am str\u00e2ns argint \u015fi aur, bog\u0103\u0163ii \u00eemp\u0103r\u0103te\u015fti \u015fi provincii; mi-am adus c\u00e2nt\u0103re\u0163i \u015fi c\u00e2nt\u0103re\u0163e \u015fi mi-am luat ceea ce le place cel mai mult b\u0103rba\u0163ilor, \u015fi anume una sau mai multe femei."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "M-am \u00eembog\u0103\u0163it \u015fi am sporit \u00een avu\u0163ie mai mult dec\u00e2t predecesorii mei de la Ierusalim \u015fi, cu toate acestea, mi-am p\u0103strat \u015fi \u00een\u0163elepciunea."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nu am refuzat nimic din ceea ce mi-au cerut ochii \u015fi nu mi-am oprit inima de la nici o bucurie, c\u0103ci inima mea s-a bucurat de toat\u0103 osteneala mea \u015fi aceasta mi-a fost partea din toat\u0103 truda mea."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Apoi, c\u00e2nd m-am uitat la toate lucr\u0103rile f\u0103cute de m\u00e2inile mele \u015fi la toat\u0103 truda cu care le f\u0103cusem, am \u00een\u0163eles c\u0103 totul este numai de\u015fert\u0103ciune \u015fi goan\u0103 dup\u0103 v\u00e2nt \u015fi c\u0103 nu exist\u0103 nici un c\u00e2\u015ftig sub soare."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De\u015fert\u0103ciunea \u00een\u0163elepciunii \u015fi a prostiei - Am c\u00e2nt\u0103rit apoi \u00een\u0163elepciunea, nebunia \u015fi prostia. Ce poate s\u0103 fac\u0103 urma\u015ful \u00eemp\u0103ratului dec\u00e2t tot ceea ce s-a f\u0103cut \u015fi mai \u00eenainte?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Am \u00een\u0163eles c\u0103 \u00een\u0163elepciunea este cu at\u00e2t mai de folos dec\u00e2t prostia, cu c\u00e2t lumina este mai de folos dec\u00e2t \u00eentunericul."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00cen\u0163eleptul \u015ftie s\u0103-\u015fi foloseasc\u0103 ochii, dar prostul umbl\u0103 \u00een \u00eentuneric. Am \u00een\u0163eles \u00eens\u0103 c\u0103 pe am\u00e2ndoi \u00eei pa\u015fte aceea\u015fi soart\u0103."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Atunci mi-am zis \u00een sinea mea: \u00abDac\u0103 \u015fi pe mine m\u0103 pa\u015fte soarta prostului, atunci pentru ce am fost eu mai \u00een\u0163elept?\u00bb \u015ei am continuat \u00een inima mea: \u00ab\u015ei aceasta este o de\u015fert\u0103ciune!\u00bb"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "C\u0103ci pomenirea \u00een\u0163eleptului nu este mai ve\u015fnic\u0103 dec\u00e2t a prostului; \u00een zilele urm\u0103toare deja totul este dat uit\u0103rii; la fel cum moare \u00een\u0163eleptul, tot a\u015fa moare \u015fi prostul."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Am ajuns astfel s\u0103 ur\u0103sc via\u0163a, pentru c\u0103 nu mi-a pl\u0103cut ce se \u00eent\u00e2mpl\u0103 sub soare, c\u0103ci totul este de\u015fert\u0103ciune \u015fi goan\u0103 dup\u0103 v\u00e2nt!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "De\u015fert\u0103ciunea ostenelii - Mi-am ur\u00e2t toat\u0103 osteneala pe care eu \u00eensumi am depus-o sub soare \u015fi pe care o las omului care vine dup\u0103 mine."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Cine \u015ftie dac\u0103 va fi \u00een\u0163elept? Poate c\u0103 un prost va lua \u00een st\u0103p\u00e2nire toat\u0103 osteneala pe care am depus-o \u015fi am administrat-o cu \u00een\u0163elepciune sub soare ... \u015ei aceasta este de\u015fert\u0103ciune!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "M-am fr\u0103m\u00e2ntat p\u00e2n\u0103 c\u00e2nd inima mea a ajuns la disperare, din pricina ostenelii mele pe care am depus-o sub soare,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "c\u0103ci unii oameni lucreaz\u0103 cu \u00een\u0163elepciune, cu pricepere \u015fi cu \u00eendem\u00e2nare ca apoi s\u0103 \u00ee\u015fi lase partea lor unui om care nu s-a trudit. Dar \u015fi aceasta este o de\u015fert\u0103ciune \u015fi un mare r\u0103u!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "C\u0103ci ce folos are omul din toat\u0103 munca lui \u015fi din toat\u0103 osteneala pe care sufletul s\u0103u a depus-o sub soare?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u00cen toate zilele lui are parte numai de necazuri, iar \u00eendeletnicirea sa zilnic\u0103 este doar m\u00e2hnirea. Nici chiar noaptea nu i se odihne\u015fte sufletul! \u015ei aceasta este o de\u015fert\u0103ciune!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Nu exist\u0103 alt bine pentru om dec\u00e2t s\u0103 m\u0103n\u00e2nce, s\u0103 bea \u015fi s\u0103-\u015fi sature sufletul cu tot ce este bun din agoniseala lui. Am \u00een\u0163eles c\u0103 \u015fi aceasta vine din m\u00e2na lui Dumnezeu,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "c\u0103ci cine poate m\u00e2nca \u015fi cine se poate bucura f\u0103r\u0103 El?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00centr-adev\u0103r, omului care este pl\u0103cut \u00eenaintea Lui, El \u00eei d\u0103 \u00een\u0163elepciune, pricepere \u015fi bucurie, dar celui p\u0103c\u0103tos \u00eei d\u0103 slujba s\u0103 adune \u015fi s\u0103 str\u00e2ng\u0103, pentru ca apoi s\u0103-i dea celui pl\u0103cut lui Dumnezeu. \u015ei aceasta este de\u015fert\u0103ciune \u015fi goan\u0103 dup\u0103 v\u00e2nt!\u201c"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Orice lucru \u00ee\u015fi are timpul s\u0103u - \u201ePentru toate exist\u0103 o vreme, \u015fi orice lucru de sub ceruri \u00ee\u015fi are timpul s\u0103u:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "un timp pentru a te na\u015fte \u015fi un timp pentru a muri; un timp pentru a s\u0103di \u015fi un timp pentru a smulge;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "un timp pentru a ucide \u015fi un timp pentru a vindeca; un timp pentru a d\u0103r\u00e2ma \u015fi un timp pentru a zidi;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "un timp pentru a jeli \u015fi un timp pentru a r\u00e2de; un timp pentru a boci \u015fi un timp pentru a dansa;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "un timp pentru a arunca cu pietre \u015fi un timp pentru a str\u00e2nge pietre; un timp pentru a \u00eembr\u0103\u0163i\u015fa \u015fi un timp pentru a fi departe de \u00eembr\u0103\u0163i\u015f\u0103ri;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "un timp pentru a c\u0103uta \u015fi un timp pentru a pierde; un timp pentru a p\u0103stra \u015fi un timp pentru a arunca;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "un timp pentru a rupe \u015fi un timp pentru a coase; un timp pentru a t\u0103cea \u015fi un timp pentru a vorbi;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "un timp pentru a iubi \u015fi un timp pentru a ur\u00ee; un timp pentru r\u0103zboi \u015fi un timp pentru pace."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ce c\u00e2\u015ftig are lucr\u0103torul din toat\u0103 osteneala lui?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Am v\u0103zut ce preocupare pune Dumnezeu \u00een mintea oamenilor, ca s\u0103 se \u00eendeletniceasc\u0103 cu ea."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El a f\u0103cut toate lucrurile bune la timpul lor, a pus chiar \u015fi ve\u015fnicia \u00een inimile lor, dar omul nu poate pricepe de la \u00eenceput p\u00e2n\u0103 la sf\u00e2r\u015fit lucrarea pe care a f\u0103cut-o Dumnezeu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00cen\u0163eleg c\u0103 pentru oameni nu este nimic mai bun, dec\u00e2t s\u0103 se bucure \u015fi s\u0103 fac\u0103 ce este bine \u00een via\u0163\u0103."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00cen plus, faptul c\u0103 cineva poate m\u00e2nca, poate bea \u015fi poate duce un trai bun de pe urma \u00eentregii lui osteneli este un dar de la Dumnezeu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00cen\u0163eleg c\u0103 tot ceea ce face Dumnezeu dureaz\u0103 ve\u015fnic; la aceasta nimic nu se adaug\u0103 \u015fi nimic nu se scade; Dumnezeu face astfel pentru ca oamenii s\u0103 se team\u0103 de El."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ceea ce este, exist\u0103 de mult timp, ceea ce va fi, a existat deja demult, iar Dumnezeu va aduce \u00eenapoi ceea ce a trecut."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Am mai v\u0103zut ceva sub soare: Pe scaunul justi\u0163iei trona r\u0103utatea, iar pe scaunul drept\u0103\u0163ii trona nedreptatea."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Atunci mi-am zis: \u00abDumnezeu \u00eel va judeca at\u00e2t pe cel drept, c\u00e2t \u015fi pe cel nedrept, c\u0103ci atunci va fi timp pentru orice lucru \u015fi pentru orice fapt\u0103.\u00bb"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Apoi mi-am zis: \u00ab\u00cen ceea ce-i prive\u015fte pe oameni, Dumnezeu \u00eei \u00eencearc\u0103, pentru ca ei s\u0103 vad\u0103 c\u0103 sunt precum animalele."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "C\u0103ci soarta omului \u015fi soarta animalului sunt una \u015fi aceea\u015fi: cum moare unul, moare \u015fi cel\u0103lalt. Am\u00e2ndoi au aceea\u015fi suflare, iar omul nu are parte de nimic \u00een plus fa\u0163\u0103 de animal. Totul este de\u015fert\u0103ciune!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Totul merge \u00een acela\u015fi loc, totul a fost f\u0103cut din \u0163\u0103r\u00e2n\u0103 \u015fi totul se \u00eentoarce \u00een \u0163\u0103r\u00e2n\u0103."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Cine poate \u015fti dac\u0103 sufletul omului merge sus, iar sufletul animalelor se coboar\u0103 sub p\u0103m\u00e2nt?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Am \u00een\u0163eles deci c\u0103 nu exist\u0103 un alt lucru bun de care s\u0103 se bucure omul, \u00een afar\u0103 de osteneala lui, c\u0103ci aceasta este partea lui, \u015fi cine \u00eei poate spune omului ce va fi dup\u0103 el?\u00bb\u201c"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "De\u015fert\u0103ciunea ordinii sociale. Valoarea prieteniei - \u201eM-am uitat apoi \u015fi am v\u0103zut toate asupririle care se fac sub soare. \u015ei iat\u0103 c\u0103 lacrimile celor asupri\u0163i nu aveau alinare; puterea era de partea asupritorilor lor \u015fi nu exista sc\u0103pare pentru cei persecuta\u0163i."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Am declarat atunci c\u0103 este mai bine de mor\u0163ii care au murit demult, dec\u00e2t de cei vii care sunt \u00eenc\u0103 \u00een via\u0163\u0103."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dar mai bine dec\u00e2t pentru oricare dintre ace\u015ftia, este pentru cel care nu s-a n\u0103scut \u00eenc\u0103, pentru cel ce nu a v\u0103zut \u00eenc\u0103 faptele rele care sunt f\u0103cute sub soare."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Am v\u0103zut c\u0103 orice osteneal\u0103 \u015fi orice \u00eendem\u00e2nare la lucru este pricina invidiei dintre un b\u0103rbat \u015fi semenul s\u0103u, iar aceasta este de\u015fert\u0103ciune \u015fi goan\u0103 dup\u0103 v\u00e2nt."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00abProstul \u00ee\u015fi \u00eencruci\u015feaz\u0103 m\u00e2inile \u015fi se ruineaz\u0103."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mai bine pu\u0163in cu pace, dec\u00e2t de dou\u0103 ori mai mult cu osteneal\u0103 \u015fi goan\u0103 dup\u0103 v\u00e2nt!\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Am mai v\u0103zut o de\u015fert\u0103ciune sub soare:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Exist\u0103 c\u00e2te un om singur-singurel, care nu are nici fii, nici fra\u0163i \u015fi care se ostene\u015fte f\u0103r\u0103 \u00eencetare, dar nu se satur\u0103 de avere. \u201ePentru cine m\u0103 ostenesc, se \u00eentreab\u0103 el, \u015fi de ce-mi privez sufletul de la pl\u0103ceri?\u201c \u015ei aceasta este o de\u015fert\u0103ciune \u015fi un lucru r\u0103u"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Este mai bine \u00een doi, dec\u00e2t de unul singur, c\u0103ci doi ob\u0163in o plat\u0103 mai bun\u0103 pentru munca lor."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dac\u0103 unul dintre ei va c\u0103dea, cel\u0103lalt \u00eel va ridica, dar vai de cel care cade \u015fi nu exist\u0103 un altul care s\u0103-l ridice!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tot astfel, dac\u0103 se culc\u0103 doi, se \u00eenc\u0103lzesc, dar dac\u0103 cineva este singur, cum se poate \u00eenc\u0103lzi?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tot astfel, dac\u0103 pe unul singur \u00eel \u00eempresoar\u0103 cineva, doi pot s\u0103 i se \u00eempotriveasc\u0103, iar funia \u00eempletit\u0103 \u00een trei nu este rupt\u0103 u\u015for."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mai bine t\u00e2n\u0103r s\u0103rac, dar \u00een\u0163elept, dec\u00e2t rege b\u0103tr\u00e2n, \u00eens\u0103 f\u0103r\u0103 minte \u015fi care niciodat\u0103 nu se las\u0103 \u00eendrumat,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "c\u0103ci cel dint\u00e2i poate ajunge la domnie direct din temni\u0163\u0103, chiar s\u0103 se fi n\u0103scut s\u0103rac \u00een regatul celui din urm\u0103."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Am v\u0103zut cum to\u0163i cei vii, care umbl\u0103 sub soare, l-au urmat pe t\u00e2n\u0103rul care este al doilea dup\u0103 rege, cel care va domni dup\u0103 acesta."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Tot poporul \u015fi to\u0163i cei \u00eenaintea c\u0103rora mergea el erau f\u0103r\u0103 num\u0103r. Totu\u015fi, cei de dup\u0103 el nu se vor mai bucura de acest t\u00e2n\u0103r. \u015ei aceasta este de\u015fert\u0103ciune \u015fi goan\u0103 dup\u0103 v\u00e2nt!\u00bb\u201c"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "P\u0103ze\u015fte-te de promisiuni pripite - \u201eP\u0103ze\u015fte-\u0163i piciorul c\u00e2nd intri \u00een Casa lui Dumnezeu \u015fi apropie-te mai bine s\u0103 ascul\u0163i, dec\u00e2t s\u0103 aduci jertfa nes\u0103bui\u0163ilor, c\u0103ci ei nu \u015ftiu c\u0103 s\u0103v\u00e2r\u015fesc un r\u0103u."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nu te gr\u0103bi s\u0103-\u0163i deschizi gura \u015fi inima ta s\u0103 nu se pripeasc\u0103 s\u0103 rosteasc\u0103 ceva \u00eenaintea lui Dumnezeu, c\u0103ci Dumnezeu este \u00een ceruri, iar tu e\u015fti pe p\u0103m\u00e2nt; de aceea cuvintele tale s\u0103 fie cump\u0103nite."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "C\u0103ci a\u015fa cum visele se nasc din mul\u0163imea grijilor, tot a\u015fa prostia nes\u0103buitului se cunoa\u015fte din mul\u0163imea cuvintelor."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "C\u00e2nd faci un jur\u0103m\u00e2nt \u00eenaintea lui Dumnezeu, nu \u00eent\u00e2rzia s\u0103-l \u00eempline\u015fti, c\u0103ci Lui nu-I plac nes\u0103bui\u0163ii. A\u015fadar, \u00eempline\u015fte-\u0163i jur\u0103m\u00e2ntul!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Este mai bine s\u0103 nu faci jur\u0103minte, dec\u00e2t s\u0103 faci jur\u0103minte \u015fi s\u0103 nu le \u00eempline\u015fti."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nu l\u0103sa gura s\u0103-\u0163i duc\u0103 trupul \u00een p\u0103cat, a\u015fa \u00eenc\u00e2t s\u0103-i zici trimisului lui Dumnezeu: \u00abA fost o gre\u015feal\u0103!\u00bb De ce s\u0103 se m\u00e2nie Dumnezeu din pricina glasului t\u0103u \u015fi s\u0103 nimiceasc\u0103 lucrarea m\u00e2inilor tale?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Visele multe sunt de\u015farte, la fel cum \u015fi cuvintele multe sunt nefolositoare. A\u015fadar, teme-te de Dumnezeu!\u201c"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "De\u015fert\u0103ciunea bog\u0103\u0163iei - \u201eC\u00e2nd vezi c\u0103 \u00eentr-o provincie s\u0103racul este asuprit, iar dreptatea \u015fi omul drept sunt persecuta\u0163i, s\u0103 nu te miri de lucrurile acestea, c\u0103ci un dreg\u0103tor vegheaz\u0103 peste un alt dreg\u0103tor, iar peste am\u00e2ndoi vegheaz\u0103 al\u0163ii \u015fi mai mari!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Cu to\u0163ii au parte de resursele \u0163\u0103rii, iar menirea unui rege este de a ap\u0103ra ogoarele."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Cel ce iube\u015fte argintul nu se satur\u0103 de el, iar cine iube\u015fte bog\u0103\u0163ia nu are c\u00e2\u015ftig. Aceasta este tot o de\u015fert\u0103ciune!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "C\u00e2nd se \u00eenmul\u0163esc bun\u0103t\u0103\u0163ile, se \u00eenmul\u0163esc \u015fi cei ce le m\u0103n\u00e2nc\u0103 \u015fi ce c\u00e2\u015ftig mai are proprietarul lor, dec\u00e2t doar c\u0103 le vede cu ochii lui?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dulce este somnul pentru cel ce a muncit, fie c\u0103 a m\u00e2ncat pu\u0163in, fie c\u0103 a m\u00e2ncat mult, \u00eens\u0103 bogatului, \u00eendestularea nu-i ofer\u0103 lini\u015ftea pentru odihn\u0103."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Exist\u0103 un r\u0103u tulbur\u0103tor pe care l-am v\u0103zut sub soare: am v\u0103zut bog\u0103\u0163ie str\u00e2ns\u0103 pentru proprietarul ei, dar \u00eenspre r\u0103ul s\u0103u,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "bog\u0103\u0163ie pierdut\u0103 printr-un nego\u0163 nereu\u015fit; astfel fiul care i s-a n\u0103scut nu mai r\u0103m\u00e2ne cu nimic."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Gol a ie\u015fit din p\u00e2ntecele mamei sale \u015fi tot astfel s-a \u015fi \u00eentors, plec\u00e2nd precum a venit. Nimic nu a luat din osteneala lui, din tot ce-i apar\u0163inuse!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u015ei urm\u0103torul lucru este un mare r\u0103u: \u00eentocmai cum vine omul, a\u015fa \u015fi pleac\u0103, \u015fi ce c\u00e2\u015ftig are omul din aceasta?! S-a ostenit \u00een zadar!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Toat\u0103 via\u0163a lui a m\u00e2ncat pe \u00eentuneric, cu mult\u0103 tulburare, cu suferin\u0163\u0103 \u015fi cu m\u00e2nie."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Iat\u0103 ce am \u00een\u0163eles eu c\u0103 este bine \u015fi frumos: ca omul s\u0103 m\u0103n\u00e2nce, s\u0103 bea \u015fi s\u0103 tr\u0103iasc\u0103 bine de pe urma \u00eentregii lui osteneli pe care a depus-o sub soare \u00een timpul pu\u0163inelor zile ale vie\u0163ii sale, pe care Dumnezeu i le-a dat, c\u0103ci aceasta este partea sa."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "De asemenea, orice om, c\u0103ruia Dumnezeu i-a dat bog\u0103\u0163ie \u015fi averi \u015fi c\u0103ruia i-a dat dreptul s\u0103 se \u00eenfrupte din ele, s\u0103-\u015fi ia partea ce i se cuvine din ele \u015fi s\u0103 se bucure de osteneala lui; acesta este un dar de la Dumnezeu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "C\u0103ci el nu se g\u00e2nde\u015fte prea mult la c\u00e2t de trec\u0103toare \u00eei este via\u0163a, fiindc\u0103 Dumnezeu \u00eei umple inima de bucurie.\u201c"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Exist\u0103 un r\u0103u pe care l-am v\u0103zut sub soare, un mare r\u0103u pentru fiii oamenilor."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "De exemplu, Dumnezeu \u00eei d\u0103 unui om bog\u0103\u0163ie, averi \u015fi faim\u0103, a\u015fa \u00eenc\u00e2t nu-i lipse\u015fte nimic din ceea ce\u00ad\u015fi dore\u015fte, \u00eens\u0103 Dumnezeu nu-i d\u0103 dreptul s\u0103 se bucure de ele, ci d\u0103 acest drept unui str\u0103in. Aceasta este o de\u015fert\u0103ciune \u015fi un r\u0103u tulbur\u0103tor!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ar putea exista un om c\u0103ruia i s-ar na\u015fte o sut\u0103 de fii \u015fi care ar tr\u0103i o via\u0163\u0103 lung\u0103, un om c\u0103ruia i s-ar lungi anii vie\u0163ii lui, dar al c\u0103rui suflet nu s-ar s\u0103tura de bun\u0103t\u0103\u0163ile str\u00e2nse \u015fi care nu ar avea parte nici de loc de \u00eengropare. Eu zic c\u0103, dec\u00e2t ca el, mai bine st\u00e2rpitur\u0103!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Acesta se na\u015fte \u00een zadar \u015fi pleac\u0103 \u00een \u00eentuneric, iar \u00eentunericul \u00eei acoper\u0103 numele."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00cen plus, el nu a v\u0103zut \u015fi nu a cunoscut soarele. Totu\u015fi este mai mult\u0103 lini\u015fte pentru acesta, dec\u00e2t pentru cel\u0103lalt,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "chiar dac\u0103 cel\u0103lalt ar tr\u0103i cu dou\u0103 mii de ani mai mult, c\u0103ci de bun\u0103t\u0103\u0163i nu a avut parte. Oare nu merg toate \u00eentr-un singur loc?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De\u015fi toat\u0103 osteneala omului este pentru gura lui, totu\u015fi sufletul nu este mul\u0163umit."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Cu ce este mai c\u00e2\u015ftigat \u00een\u0163eleptul fa\u0163\u0103 de cel prost? Ce c\u00e2\u015ftig\u0103 s\u0103racul \u015ftiind cum s\u0103 se poarte \u00eenaintea celorlal\u0163i?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mai bun\u0103 este priveli\u015ftea dat\u0103 de ochi, dec\u00e2t hoin\u0103reala dup\u0103 pofte! Dar \u015fi aceasta este de\u015fert\u0103ciune \u015fi goan\u0103 dup\u0103 v\u00e2nt!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ceea ce exist\u0103 de mult timp a fost deja numit \u015fi ce este omul a fost cunoscut deja; el nu se poate judeca cu cel ce este mai tare dec\u00e2t el."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Cu c\u00e2t sunt mai numeroase cuvintele, cu at\u00e2t este mai mare de\u015fert\u0103ciunea! \u015ei ce folos are omul din aceasta?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cine \u015ftie ce este bine cu adev\u0103rat pentru om \u00een scurta lui via\u0163\u0103, \u00een zilele vie\u0163ii lui de\u015farte, pe care le petrece ca o umbr\u0103? Cine \u00eei poate spune omului ce va fi dup\u0103 el sub soare?\u201c"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Adev\u0103ratele valori - \u201eMai de pre\u0163 este un nume bun dec\u00e2t untdelemnul mirositor \u015fi mai mult pre\u0163uie\u015fte ziua mor\u0163ii dec\u00e2t ziua na\u015fterii."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mai bine s\u0103 mergi \u00eentr-o cas\u0103 de jale dec\u00e2t \u00eentr-o cas\u0103 de petrecere, c\u0103ci acesta este sf\u00e2r\u015fitul oric\u0103rui om, iar cel r\u0103mas \u00een via\u0163\u0103 ar trebui s\u0103 priceap\u0103 aceasta."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mai bun\u0103 este triste\u0163ea dec\u00e2t r\u00e2sul, c\u0103ci prin \u00eentristarea fe\u0163ei inima se face mai bun\u0103."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Inima \u00een\u0163elep\u0163ilor se afl\u0103 \u00een casa de jale, dar inima pro\u015ftilor se afl\u0103 \u00een casa de petrecere."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mai bine s\u0103 ascul\u0163i mustrarea \u00een\u0163eleptului, dec\u00e2t s\u0103 auzi c\u00e2ntecul pro\u015ftilor."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Precum p\u00e2r\u00e2ie spinii sub oal\u0103, a\u015fa este \u015fi r\u00e2sul prostului! \u015ei aceasta este o de\u015fert\u0103ciune!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Asuprirea \u00eel transform\u0103 pe \u00een\u0163elept \u00eentr-un prost, iar mita corupe inima."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mai bun este sf\u00e2r\u015fitul unui lucru dec\u00e2t \u00eenceputul lui \u015fi mai bun\u0103 este r\u0103bdarea dec\u00e2t m\u00e2ndria."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nu te gr\u0103bi s\u0103 te m\u00e2nii \u00een duhul t\u0103u, c\u0103ci m\u00e2nia locuie\u015fte \u00een s\u00e2nul nes\u0103bui\u0163ilor!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "S\u0103 nu zici: \u00abDe ce au fost zilele dint\u00e2i mai bune dec\u00e2t acestea?\u00bb, c\u0103ci nu din \u00een\u0163elepciune \u00eentrebi aceasta!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Este bun\u0103 \u00een\u0163elepciunea, a\u015fa cum \u015fi mo\u015ftenirea este bun\u0103 \u015fi de folos celor ce v\u0103d soarele,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "c\u0103ci \u00een\u0163elepciunea este un ad\u0103post, tot a\u015fa cum \u015fi argintul este un ad\u0103post, dar c\u00e2\u015ftigul cunoa\u015fterii \u00een\u0163elepciunii este acela c\u0103 d\u0103 via\u0163\u0103 celui ce o are."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Caut\u0103 s\u0103 \u00een\u0163elegi lucrarea lui Dumnezeu: cine poate \u00eendrepta ceea ce El a \u00eendoit?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "C\u00e2nd vremurile sunt bune, fii fericit! C\u00e2nd vremurile sunt rele, cuget\u0103: Dumnezeu le-a f\u0103cut \u015fi pe unele \u015fi pe celelalte, astfel \u00eenc\u00e2t omul s\u0103 nu poat\u0103 afla nimic despre viitorul s\u0103u."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Am v\u0103zut tot felul de lucruri \u00een timpul vie\u0163ii mele de\u015farte: un om drept pierind \u00een dreptatea lui, iar altul nedrept continu\u00e2ndu-\u015fi via\u0163a \u00een nedreptatea lui."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nu fi prea drept \u015fi nu te ar\u0103ta prea \u00een\u0163elept! De ce s\u0103 te distrugi singur?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00cens\u0103 nu fi nici foarte r\u0103u \u015fi nu fi nici nes\u0103buit! De ce s\u0103 mori \u00eenainte de vreme?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Este bine pe una dintre aten\u0163ion\u0103ri s\u0103 o apuci, iar pe cealalt\u0103 s\u0103 n-o la\u015fi din m\u00e2n\u0103, c\u0103ci cine se teme de Dumnezeu le va urma pe am\u00e2ndou\u0103."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00cen\u0163elepciunea d\u0103 mai mult\u0103 t\u0103rie \u00een\u0163eleptului, dec\u00e2t ar da zece conduc\u0103tori destoinici unei cet\u0103\u0163i."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Nu exist\u0103 pe p\u0103m\u00e2nt nici un om drept care s\u0103 fac\u0103 numai binele \u015fi niciodat\u0103 s\u0103 nu p\u0103c\u0103tuiasc\u0103!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00cen plus, nu lua aminte la toate cuvintele care se spun, ca nu cumva s\u0103-l auzi pe slujitorul t\u0103u blestem\u00e2ndu-te!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Tu \u015ftii \u00een inima ta c\u0103, de mai multe ori, chiar tu \u00eensu\u0163i i-ai blestemat pe al\u0163ii."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Toate acestea le-am cercetat cu \u00een\u0163elepciune \u015fi mi-am zis: \u00abM\u0103 voi \u00een\u0163elep\u0163i!\u00bb, dar \u00een\u0163elepciunea s-a \u00eendep\u0103rtat de la mine."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Orice ar fi ea, este departe \u015fi \u00eenv\u0103luit\u0103 \u00een mister! Cine o va g\u0103si?!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "M-am hot\u0103r\u00e2t s\u0103 cunosc, s\u0103 cercetez \u015fi s\u0103 caut \u00een\u0163elepciunea \u015fi discern\u0103m\u00e2ntul \u015fi s\u0103 pricep stupiditatea r\u0103ut\u0103\u0163ii \u015fi nebunia nes\u0103buin\u0163ei."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Am descoperit c\u0103 mai amar\u0103 dec\u00e2t moartea este femeia care \u00eentinde curse, al c\u0103rei suflet este o capcan\u0103 \u015fi ale c\u0103rei m\u00e2ini sunt ni\u015fte lan\u0163uri. Cel pl\u0103cut \u00eenaintea lui Dumnezeu scap\u0103 de ea, dar cel p\u0103c\u0103tos este prins de ea."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Iat\u0103 ce am descoperit, zice oratorul: am cercetat lucrurile unul dup\u0103 altul, c\u0103ut\u00e2nd s\u0103 le pricep rostul,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "\u00eens\u0103, din tot ce a c\u0103utat sufletul meu, nu am g\u0103sit dec\u00e2t aceasta: din o mie de oameni am g\u0103sit un b\u0103rbat drept, dar nu am g\u0103sit nici m\u0103car o femeie dreapt\u0103."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Singurul lucru sigur pe care l-am descoperit este c\u0103 Dumnezeu l-a f\u0103cut pe om drept, dar omul umbl\u0103 cu multe \u015firetlicuri.\u201c"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Limitele cuno\u015ftin\u0163ei - \u201eCine este ca cel \u00een\u0163elept? Cine cunoa\u015fte interpretarea lucrurilor? \u00cen\u0163elepciunea d\u0103 str\u0103lucire fe\u0163ei omului \u015fi-i schimb\u0103 asprimea fe\u0163ei."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Supune-te regelui - Ascult\u0103 porunca regelui, \u00ee\u0163i zic, din pricina jur\u0103m\u00e2ntului \u00eencheiat cu Dumnezeu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nu te gr\u0103bi s\u0103 pleci dinaintea lui \u015fi nu c\u0103uta s\u0103 sus\u0163ii un lucru r\u0103u, c\u0103ci el face tot ce-i place!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Din moment ce cuv\u00e2ntul regelui are autoritate, cine \u00eei poate spune: \u00abCe faci?\u00bb."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pe cel ce-i p\u0103ze\u015fte porunca, nu-l va atinge nici un r\u0103u, iar inima \u00een\u0163eleptului cunoa\u015fte vremea potrivit\u0103 \u015fi judecata,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "c\u0103ci pentru fiecare lucru exist\u0103 un timp \u015fi o judecat\u0103, de\u015fi nenorocirea omului este mare peste el;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00eentr-adev\u0103r el nu \u015ftie ce se va \u00eent\u00e2mpla, c\u0103ci nimeni nu-i poate face cunoscut lucrul acesta."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "La fel cum nimeni nu are putere asupra v\u00e2ntului, ca s\u0103-l poat\u0103 \u00eenchide, tot a\u015fa nimeni nu are putere asupra zilei mor\u0163ii. \u015ei dup\u0103 cum nimeni nu este scuzat \u00een vreme de r\u0103zboi, tot a\u015fa nici r\u0103utatea nu-i va l\u0103sa s\u0103 scape pe cei ce o practic\u0103."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Cei r\u0103i \u015fi cei drep\u0163i - Am v\u0103zut toate aceste lucruri \u015fi am \u00eencercat s\u0103 \u00een\u0163eleg toate lucr\u0103rile care se fac sub soare. Exist\u0103 un timp c\u00e2nd un om are autoritate asupra altui om \u015fi-i poate face r\u0103u."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Apoi i-am v\u0103zut pe cei r\u0103i \u00eengropa\u0163i \u2013 ei obi\u015fnuiau s\u0103 vin\u0103 \u015fi s\u0103 plece de la Sf\u00e2ntul L\u0103ca\u015f, fiind apoi l\u0103uda\u0163i \u00een cetatea \u00een care f\u0103ceau astfel. \u015ei aceasta este o de\u015fert\u0103ciune!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "C\u00e2nd sentin\u0163a \u00eempotriva faptei rele nu se \u00eempline\u015fte repede, inima muritorilor se umple de planuri ca s\u0103 fac\u0103 r\u0103u."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Chiar dac\u0103 celui p\u0103c\u0103tos, de\u015fi face r\u0103u \u00eensutit, i se lunge\u015fte via\u0163a, eu \u00eens\u0103 \u015ftiu c\u0103 celui ce se teme de Dumnezeu, celui ce st\u0103 tem\u0103tor \u00eenaintea Sa, \u00eei va fi bine."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Totu\u015fi cel r\u0103u nu este fericit \u015fi nu-\u015fi va lungi zilele, fiind precum umbra, pentru c\u0103 nu se teme de Dumnezeu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Exist\u0103 o de\u015fert\u0103ciune care are loc pe p\u0103m\u00e2nt, \u015fi anume: sunt oameni drep\u0163i peste care vine ceea ce merit\u0103 cei r\u0103i \u015fi sunt oameni nedrep\u0163i peste care vine ceea ce merit\u0103 cei drep\u0163i. Prin urmare, mi-am zis: \u00ab\u015ei aceasta este o de\u015fert\u0103ciune!\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Atunci am l\u0103udat veselia, c\u0103ci nu este nimic mai pl\u0103cut omului sub soare dec\u00e2t s\u0103 m\u0103n\u00e2nce, s\u0103 bea \u015fi s\u0103 se bucure, iar bucuria \u00eel va \u00eenso\u0163i \u00een osteneala sa \u00een toate zilele vie\u0163ii sale, pe care le-a primit de la Dumnezeu sub soare."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "M-am dedicat cunoa\u015fterii \u00een\u0163elepciunii \u015fi priceperii tuturor lucr\u0103rilor care se fac pe p\u0103m\u00e2nt, c\u0103ci omul nu \u00ee\u015fi odihne\u015fte ochii nici ziua, nici noaptea."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Am \u00een\u0163eles c\u0103 toate lucr\u0103rile lui Dumnezeu, toate lucr\u0103rile care se fac sub soare, nu pot fi pricepute de om. Chiar dac\u0103 omul se str\u0103duie\u015fte s\u0103 le cerceteze, nu va g\u0103si r\u0103spuns \u015fi, chiar dac\u0103 \u00een\u0163eleptul pretinde c\u0103 de\u0163ine cunoa\u015fterea, el nu poate s\u0103 priceap\u0103.\u201c"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Aceea\u015fi soart\u0103 pentru to\u0163i - \u201eM-am hot\u0103r\u00e2t s\u0103 \u00een\u0163eleg aceste lucruri \u015fi am priceput c\u0103 cei drep\u0163i, cei \u00een\u0163elep\u0163i \u015fi lucr\u0103rile lor se afl\u0103 \u00een m\u00e2na lui Dumnezeu, chiar dac\u0103 omul nu \u015ftie dac\u0103 \u00eel a\u015fteapt\u0103 dragoste sau ur\u0103. Totul este \u00een viitor \u00eenaintea lui."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pe to\u0163i \u00eei a\u015fteapt\u0103 o singur\u0103 soart\u0103: pe cel drept ca \u015fi pe cel nedrept, pe cel bun ca \u015fi pe cel r\u0103u, pe cel curat ca \u015fi pe cel necurat, pe cel ce aduce jertfe ca \u015fi pe cel ce nu aduce jertfe, pe cel bun ca \u015fi pe cel p\u0103c\u0103tos, pe cel ce face juruin\u0163e ca \u015fi pe cel ce se teme s\u0103 le fac\u0103."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Acesta este cel mai mare r\u0103u care se face sub soare, \u015fi anume c\u0103 to\u0163i au aceea\u015fi soart\u0103. Mai mult, inima oamenilor se umple de r\u0103utate, iar prostia inimii lor nu-i p\u0103r\u0103se\u015fte toat\u0103 via\u0163a, de\u015fi \u00een cele din urm\u0103 ajung tot printre cei mor\u0163i,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "c\u0103ci pentru cel viu mai exist\u0103 speran\u0163\u0103, dup\u0103 cum mai de pre\u0163 este un c\u00e2ine viu, dec\u00e2t un leu mort."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Cei vii \u015ftiu m\u0103car c\u0103 vor muri, pe c\u00e2nd cei mor\u0163i nu mai \u015ftiu nimic; nu mai au parte de nici o plat\u0103; p\u00e2n\u0103 \u015fi pomenirea le este dat\u0103 uit\u0103rii,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "la fel cum \u015fi dragostea lor, ura lor \u015fi gelozia lor au pierit demult! Ei nu vor mai avea parte niciodat\u0103 de nimic din tot ceea ce se face sub soare."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "M\u0103n\u00e2nc\u0103-\u0163i cu bucurie p\u00e2inea \u015fi bea-\u0163i cu inim\u0103 vesel\u0103 vinul, c\u0103ci demult \u0163i-a acceptat Dumnezeu lucr\u0103rile."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hainele s\u0103-\u0163i fie albe tot timpul, iar untdelemnul s\u0103 nu-\u0163i lipseasc\u0103 de pe cap."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Petrece-\u0163i via\u0163a cea trec\u0103toare \u00eempreun\u0103 cu so\u0163ia pe care o iube\u015fti, at\u00e2tea zile c\u00e2te \u0163i-au fost date sub soare, toate zilele tale trec\u0103toare, c\u0103ci aceasta este partea ta \u00een via\u0163\u0103, aceasta-\u0163i este partea din toat\u0103 osteneala pe care o depui sub soare."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tot ceea ce m\u00e2na ta g\u0103se\u015fte s\u0103 fac\u0103, f\u0103 cu toat\u0103 puterea ta, c\u0103ci lucrare, chibzuin\u0163\u0103, cuno\u015ftin\u0163\u0103 \u015fi \u00een\u0163elepciune nu exist\u0103 \u00een Locuin\u0163a Mor\u0163ilor, acolo unde vei merge \u015fi tu de altfel."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Apoi m-am \u00eentors \u015fi am v\u0103zut c\u0103, sub soare, nu cei sprinteni c\u00e2\u015ftig\u0103 alergarea \u015fi nu cei puternici c\u00e2\u015ftig\u0103 r\u0103zboiul; nu cei \u00een\u0163elep\u0163i au parte de p\u00e2ine, nu cei iscusi\u0163i \u00ee\u015fi \u00eensu\u015fesc bog\u0103\u0163ii \u015fi nu cei cunosc\u0103tori au parte de bun\u0103voin\u0163\u0103, ci toate \u0163in de vreme \u015fi de \u00eemprejur\u0103ri."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Omul nu-\u015fi cunoa\u015fte nici m\u0103car ceasul mor\u0163ii: la fel cum sunt prin\u015fi pe\u015ftii \u00een nada \u00een\u015fel\u0103toare \u015fi precum sunt prinse p\u0103s\u0103rile \u00een la\u0163, tot a\u015fa sunt tra\u015fi \u00een capcan\u0103 \u015fi fiii oamenilor, atunci c\u00e2nd vremea nenorocirii cade peste ei pe nea\u015fteptate."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00cen\u0163elepciunea mai de pre\u0163 dec\u00e2t nebunia - Iat\u0103 ce lucru \u00een\u0163elept am v\u0103zut sub soare \u015fi mi s-a p\u0103rut de mare pre\u0163."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Exista o cetate mic\u0103, cu pu\u0163ini locuitori \u00een ea; \u00eempotriva ei a venit un rege puternic; a \u00eenconjurat-o \u015fi a ridicat \u00eempotriva ei mari \u00eent\u0103rituri."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00cen ea s-a aflat \u00eens\u0103 un \u00een\u0163elept s\u0103rac, care a sc\u0103pat cetatea prin \u00een\u0163elepciunea lui. Dar nimeni nu \u015fi-a mai adus aminte apoi de s\u0103racul acela."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Prin urmare, mi-am zis: \u00ab\u00cen\u0163elepciunea este mai bun\u0103 dec\u00e2t t\u0103ria, dar \u00een\u0163elepciunea s\u0103racului este dispre\u0163uit\u0103, iar cuvintele lui nu sunt ascultate."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mai bine s\u0103 ascul\u0163i cuvintele lini\u015ftite ale \u00een\u0163elep\u0163ilor, dec\u00e2t strig\u0103tele celui ce conduce printre nebuni!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mai bun\u0103 este \u00een\u0163elepciunea dec\u00e2t armele, dar un singur p\u0103c\u0103tos distruge mult bine!\u00bb\u201c"
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Falsele valori - \u201eA\u015fa cum mu\u015ftele moarte stric\u0103 \u015fi fermenteaz\u0103 untdelemnul negustorului, tot a\u015fa pu\u0163in\u0103 nebunie cople\u015fe\u015fte \u00een\u0163elepciunea \u015fi slava."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Inima \u00een\u0163eleptului \u00eel conduce la dreapta, dar inima nes\u0103buitului \u00eel conduce la st\u00e2nga."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Prostul umbl\u0103 f\u0103r\u0103 minte pe cale \u015fi se laud\u0103 tuturor cu prostia lui."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dac\u0103 izbucne\u015fte m\u00e2nia st\u0103p\u00e2nitorului \u00eempotriva ta, nu-\u0163i pierde cump\u0103tul, c\u0103ci calmul te p\u0103ze\u015fte de mari p\u0103cate."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Exist\u0103 un r\u0103u pe care l-am v\u0103zut sub soare, ca o gre\u015feal\u0103 care vine din partea st\u0103p\u00e2nitorului:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "prostia este pus\u0103 \u00een multe func\u0163ii \u00eenalte, pe c\u00e2nd cei \u00eenst\u0103ri\u0163i ocup\u0103 func\u0163ii modeste."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Am v\u0103zut sclavi c\u0103lare \u015fi prin\u0163i merg\u00e2nd pe jos ca sclavii."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Cel ce sap\u0103 groapa altuia, poate s\u0103 cad\u0103 el \u00een ea, iar pe cel ce d\u0103r\u00e2m\u0103 un zid, \u00eel poate mu\u015fca un \u015farpe."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Cine sf\u0103r\u00e2m\u0103 pietre, poate fi lovit de ele, \u015fi cine crap\u0103 lemne, se afl\u0103 \u00een pericol din pricina lor."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dac\u0103 fierul toporului este tocit \u015fi lama lui neascu\u0163it\u0103, trebuie s\u0103-\u0163i \u00eente\u0163e\u015fti eforturile la t\u0103iat! De aceea la c\u00e2\u015ftig se ajunge prin \u00een\u0163elepciune!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "C\u00e2nd \u015farpele mu\u015fc\u0103, fiindc\u0103 n-a fost vr\u0103jit, st\u0103p\u00e2nul lui nu are nici un c\u00e2\u015ftig."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cuvintele gurii \u00een\u0163eleptului sunt o desf\u0103tare, dar buzele nebunului \u00eel vor \u00eenghi\u0163i."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Primele cuvinte ale gurii lui sunt proste\u015fti, iar ultimele sunt nebunie curat\u0103 \u2013"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "prostul spune o mul\u0163ime de vorbe. Omul nu \u015ftie ce se va \u00eent\u00e2mpla; cine \u00eei poate spune ce va fi dup\u0103 el?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Osteneala prostului \u00eel obose\u015fte; nici m\u0103car nu cunoa\u015fte drumul spre cetate."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vai de tine \u0163ar\u0103, al c\u0103rei rege este un copil \u015fi ai c\u0103rei prin\u0163i chefuiesc dis-de-diminea\u0163\u0103!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ferice de tine, \u0163ar\u0103 al c\u0103rei rege este de vi\u0163\u0103 nobil\u0103 \u015fi ai c\u0103rei prin\u0163i dau ospe\u0163e la vremea potrivit\u0103, ca s\u0103 se \u00eent\u0103reasc\u0103, \u015fi nu s\u0103 se \u00eembete!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Din pricina leneviei se las\u0103 grinda, iar, c\u00e2nd m\u00e2inile sunt lene\u015fe, plou\u0103 \u00een cas\u0103."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ospe\u0163ele se fac pentru a petrece, vinul este pentru \u00eenveselirea vie\u0163ii, dar argintul r\u0103spunde la toate."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Nu-l blestema pe rege nici chiar \u00een mintea ta, nu-l blestema pe cel \u00eenst\u0103rit nici chiar \u00een odaia ta de culcare, c\u0103ci s-ar putea ca pas\u0103rea cerului s\u0103-\u0163i duc\u0103 vorba \u015fi un sol \u00eenaripat s\u0103-\u0163i dea pe fa\u0163\u0103 spusele.\u201c"
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Valoarea h\u0103rniciei - \u201eArunc\u0103-\u0163i p\u00e2inea pe ape, c\u0103ci dup\u0103 multe zile o vei g\u0103si iar\u0103\u015fi;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00eemparte-o \u00een \u015fapte \u015fi chiar \u00een opt, c\u0103ci nu \u015ftii ce r\u0103u va veni pe p\u0103m\u00e2nt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "C\u00e2nd norii sunt plini de ap\u0103, atunci o de\u015fart\u0103 pe p\u0103m\u00e2nt; c\u00e2nd un copac cade la sud sau la nord, \u00een locul \u00een care cade, acolo r\u0103m\u00e2ne."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Cine se uit\u0103 dup\u0103 v\u00e2nt nu mai seam\u0103n\u0103, iar cine se uit\u0103 dup\u0103 nori nu mai secer\u0103."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A\u015fa cum nu \u015ftii calea v\u00e2ntului \u015fi nici cum se formeaz\u0103 oasele \u00een p\u00e2ntecele femeii \u00eens\u0103rcinate, tot astfel nu cuno\u015fti nici lucrarea lui Dumnezeu, Cel Care le face pe toate."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Seam\u0103n\u0103 s\u0103m\u00e2n\u0163\u0103 diminea\u0163a, iar seara nu-\u0163i odihni m\u00e2na de la sem\u0103nat, fiindc\u0103 nu \u015ftii care s\u0103m\u00e2n\u0163\u0103 va r\u0103s\u0103ri, aceasta sau cealalt\u0103, sau dac\u0103 am\u00e2ndou\u0103 vor fi la fel de bune."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Adu-\u0163i aminte de Creatorul t\u0103u \u00een tinere\u0163e - Lumina este pl\u0103cut\u0103 \u015fi este bine pentru ochi s\u0103 vad\u0103 soarele."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dac\u0103 cineva are parte de mul\u0163i ani, s\u0103 se bucure de ei, dar s\u0103 se g\u00e2ndeasc\u0103 \u015fi la zilele de \u00eentuneric, c\u0103ci vor fi multe, pentru c\u0103 tot ce urmeaz\u0103 s\u0103 vin\u0103 este de\u015fert\u0103ciune."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bucur\u0103-te, tinere, \u00een tinere\u0163ea ta, vesele\u015fte-\u0163i inima c\u00e2t e\u015fti t\u00e2n\u0103r! Umbl\u0103 pe c\u0103ile dorite de inima ta \u015fi pl\u0103cute ochilor t\u0103i, dar s\u0103 \u015ftii c\u0103 pentru toate acestea te va chema Dumnezeu la judecat\u0103!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Izgone\u015fte orice sup\u0103rare din inima ta, alung\u0103 r\u0103ul din trupul t\u0103u, c\u0103ci tinere\u0163ea \u015fi zorile vie\u0163ii sunt trec\u0103toare!\u201c"
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u201eAdu-\u0163i aminte de Creatorul t\u0103u \u00een zilele tinere\u0163ii tale, p\u00e2n\u0103 nu vin zilele cele rele \u015fi p\u00e2n\u0103 nu se apropie anii c\u00e2nd vei zice: \u00abNu g\u0103sesc nici o pl\u0103cere \u00een ei!\u00bb;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "p\u00e2n\u0103 nu se \u00eentunec\u0103 soarele \u015fi lumina, luna \u015fi stelele \u015fi p\u00e2n\u0103 nu se \u00eentorc norii dup\u0103 ploaie."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00cen zilele acelea \u00eencep s\u0103 tremure paznicii casei \u015fi se \u00eendoaie cei tari, se opresc cei ce macin\u0103, care s-au \u00eempu\u0163inat, \u015fi se \u00eentunec\u0103 cei ce se uit\u0103 pe ferestre,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "se \u00eenchid cele dou\u0103 u\u015fi care dau \u00een strad\u0103 \u015fi scade sunetul morii. Atunci te vei scula la ciripitul p\u0103s\u0103rii, dar glasul tuturor c\u00e2nt\u0103re\u0163elor se va auzi \u00een\u0103bu\u015fit;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "te vei teme de \u00een\u0103l\u0163imi \u015fi te vei speria pe drum! Adu-\u0163i aminte de Creatorul t\u0103u, p\u00e2n\u0103 nu \u00eenflore\u015fte migdalul p\u00e2n\u0103 nu se t\u00e2r\u0103\u015fte l\u0103custa \u015fi trece pofta, c\u0103ci fiecare merge spre casa cea ve\u015fnic\u0103, iar bocitorii cutreier\u0103 pe strad\u0103;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "p\u00e2n\u0103 nu se rupe funia de argint \u015fi p\u00e2n\u0103 nu se sparge vasul de aur, p\u00e2n\u0103 nu se sf\u0103r\u00e2m\u0103 vasul la izvor \u015fi p\u00e2n\u0103 nu este zdrobit\u0103 roata la f\u00e2nt\u00e2n\u0103;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "p\u00e2n\u0103 nu se \u00eentoarce \u0163\u0103r\u00e2na \u00een p\u0103m\u00e2nt, de unde a fost luat\u0103, \u015fi p\u00e2n\u0103 c\u00e2nd suflarea nu se \u00eentoarce la Dumnezeu, Cel Care a dat-o."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "O, de\u015fert\u0103ciune a de\u015fert\u0103ciunilor, zice oratorul. Totul este de\u015fert\u0103ciune!\u201c"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Epilog - Pe l\u00e2ng\u0103 faptul c\u0103 oratorul a fost un \u00een\u0163elept, el a \u00eenv\u0103\u0163at \u015fi \u015ftiin\u0163a pe popor, culeg\u00e2nd, cercet\u00e2nd \u015fi aranj\u00e2nd numeroase proverbe."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Oratorul a c\u0103utat s\u0103 g\u0103seasc\u0103 cuvinte pl\u0103cute \u015fi s\u0103 scrie drept cuvintele adev\u0103rului."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Cuvintele \u00een\u0163elep\u0163ilor sunt ca ni\u015fte \u0163epu\u015fe, iar colec\u0163iile de proverbe sunt ca ni\u015fte cuie b\u0103tute, date de un singur p\u0103stor."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201eDincolo de toate acestea, fiule, ia aminte: s\u0103 faci multe c\u0103r\u0163i este o treab\u0103 f\u0103r\u0103 sf\u00e2r\u015fit \u015fi prea mult studiu este obositor pentru trup."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Concluzia la tot ceea ce ai auzit este aceasta: \u00abTeme-te de Dumnezeu \u015fi p\u0103ze\u015fte poruncile Lui, c\u0103ci aceasta este datoria fiec\u0103rui om."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Fiindc\u0103 Dumnezeu va aduce la judecat\u0103 fiecare lucrare, tot ce este ascuns, fie bine, fie r\u0103u.\u00bb\u201c"
+                }
+            }
+        }
+    }
+}

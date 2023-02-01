@@ -1,0 +1,3822 @@
+{
+    "version": "dnb1930",
+    "book_name": "Proverbs",
+    "book_nr": "20",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ordsprog av Salomo, Davids s\u00f8nn, Israels konge."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Av dem kan en l\u00e6re visdom og tukt og \u00e5 skj\u00f8nne forstandige ord;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "av dem kan en motta tukt til klokskap og l\u00e6re rettferdighet og rett og rettvishet;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "de kan gi de enfoldige klokskap, de unge kunnskap og tenksomhet."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Den vise skal h\u00f8re p\u00e5 dem og g\u00e5 frem i l\u00e6rdom, og den forstandige vinne evne til \u00e5 leve rett."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Av dem kan en l\u00e6re \u00e5 forst\u00e5 ordsprog og billedtale, vismenns ord og deres g\u00e5ter."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00c5 frykte Herren er begynnelsen til kunnskap; visdom og tukt foraktes av d\u00e5rer."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "H\u00f8r, min s\u00f8nn, p\u00e5 din fars tilrettevisning og forlat ikke din mors l\u00e6re!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "For de er en fager krans for ditt hode og kjeder om din hals."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Min s\u00f8nn! N\u00e5r syndere lokker dig, da samtykk ikke!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "N\u00e5r de sier: Kom med oss! Vi vil lure efter blod, sette feller for de uskyldige uten grunn;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "vi vil sluke dem levende som d\u00f8dsriket, med hud og h\u00e5r, likesom det sluker dem som farer ned i graven;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "vi vil finne alle slags kostelig gods, fylle v\u00e5re hus med rov;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "du skal f\u00e5 kaste lodd om det med oss, vi skal alle ha samme pung -"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "sl\u00e5 da ikke f\u00f8lge med dem, min s\u00f8nn, hold din fot borte fra deres sti!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "For deres f\u00f8tter haster til det onde, og de er snare til \u00e5 ut\u00f8se blod;"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "til ingen nytte blir garnet utspent s\u00e5 alle fuglene ser det;"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "de lurer efter sitt eget blod, de setter feller for sig selv."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "S\u00e5 g\u00e5r det hver den som s\u00f8ker urettferdig vinning; den tar livet av sine egne herrer."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Visdommen roper h\u00f8it p\u00e5 gaten, den lar sin r\u00f8st h\u00f8re p\u00e5 torvene;"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "p\u00e5 hj\u00f8rnet av larmfylte gater roper den, ved portinngangene, rundt omkring i byen taler den og sier:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Hvor lenge vil I uforstandige elske uforstand og spotterne ha lyst til spott og d\u00e5rene hate kunnskap?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Vend om og gi akt p\u00e5 min tilrettevisning! Da vil jeg la min \u00e5nd velle frem for eder, jeg vil kunngj\u00f8re eder mine ord."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Fordi jeg ropte, og I ikke vilde h\u00f8re, fordi jeg rakte ut min h\u00e5nd, og ingen gav akt,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "fordi I forsm\u00e5dde alle mine r\u00e5d og ikke vilde vite av min tilrettevisning,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "s\u00e5 vil ogs\u00e5 jeg le n\u00e5r ulykken rammer eder, jeg vil spotte n\u00e5r det kommer som I reddes for,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "n\u00e5r det I reddes for, kommer som et uv\u00e6r, og eders ulykke farer frem som en stormvind, n\u00e5r trengsel og n\u00f8d kommer over eder."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Da skal de kalle p\u00e5 mig, men jeg svarer ikke; de skal s\u00f8ke mig, men ikke finne mig."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Fordi de hatet kunnskap og ikke vilde frykte Herren,"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "fordi de ikke vilde vite av mitt r\u00e5d og foraktet all min tilrettevisning,"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "derfor skal de ete frukten av sine gjerninger, og av sine onde r\u00e5d skal de mettes."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "For de uforstandiges selvr\u00e5dighet dreper dem, og d\u00e5renes trygghet \u00f8delegger dem;"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "men den som h\u00f8rer p\u00e5 mig, skal bo trygt og leve i ro uten frykt for ulykke."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Min s\u00f8nn! Dersom du tar imot mine ord og gjemmer mine bud hos dig,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "s\u00e5 du vender ditt \u00f8re til visdommen og b\u00f8ier ditt hjerte til klokskapen,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ja, dersom du roper efter innsikten og l\u00f8fter din r\u00f8st for \u00e5 kalle p\u00e5 forstanden,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "dersom du leter efter den som efter s\u00f8lv og graver efter den som efter skjulte skatter,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "da skal du forst\u00e5 Herrens frykt og finne kunnskap om Gud."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "For Herren er den som gir visdom, fra hans munn kommer kunnskap og forstand,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "og han gjemmer frelse for de opriktige, et skjold for dem som lever ustraffelig,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "han vokter rettens stier og bevarer sine frommes vei."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Da skal du forst\u00e5 rettferdighet og rett og rettvishet, ja enhver god vei."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "For visdom skal komme i ditt hjerte, og kunnskap skal glede din sjel;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "eftertanke skal holde vakt over dig, forstand skal verne dig,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "for \u00e5 fri dig fra onde veier, fra menn som f\u00f8rer forvendt tale,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "fra dem som forlater rettvishets stier for \u00e5 vandre p\u00e5 m\u00f8rkets veier,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "som gleder sig ved \u00e5 gj\u00f8re ondt og jubler over onde, forvendte gjerninger,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "som g\u00e5r p\u00e5 krokete stier og f\u00f8lger vrange veier."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Visdommen skal fri dig fra annen manns hustru, fra fremmed kvinne, som taler glatte ord,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "som har forlatt sin ungdoms venn og glemt sin Guds pakt;"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "for hennes hus synker ned i d\u00f8den, og hennes veier b\u00e6rer ned til d\u00f8dningene;"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "de som g\u00e5r inn til henne, kommer aldri tilbake og n\u00e5r aldri livets stier."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Visdommen skal hjelpe dig til \u00e5 vandre p\u00e5 de godes vei og holde dig p\u00e5 de rettferdiges stier;"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "for de opriktige skal bo i landet, og de ustraffelige skal bli tilbake i det,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "men de ugudelige skal utryddes av landet, og de trol\u00f8se skal rykkes bort fra det."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Min s\u00f8nn! Glem ikke min l\u00e6re og la ditt hjerte bevare mine bud!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "For langt liv og mange leve\u00e5r og fred skal de gi dig i rikt m\u00e5l."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "La ikke kj\u00e6rlighet og trofasthet vike fra dig, bind dem om din hals, skriv dem p\u00e5 ditt hjertes tavle!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "S\u00e5 skal du finne n\u00e5de og f\u00e5 god forstand i Guds og menneskers \u00f8ine."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sett din lit til Herren av hele ditt hjerte, og stol ikke p\u00e5 din forstand!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tenk p\u00e5 ham p\u00e5 alle dine veier! S\u00e5 skal han gj\u00f8re dine stier rette."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "V\u00e6r ikke vis i egne \u00f8ine, frykt Herren og vik fra det onde!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Det skal v\u00e6re l\u00e6gedom for din kropp og gi ny styrke til dine ben."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00c6r Herren med gaver av ditt gods og med f\u00f8rstegr\u00f8den av all din avling!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "S\u00e5 skal dine lader fylles med overflod og dine persekar flyte over av most."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Min s\u00f8nn! Forakt ikke Herrens tukt og v\u00e6r ikke ut\u00e5lmodig n\u00e5r han refser dig!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "For den Herren elsker, ham refser han, som en far refser den s\u00f8nn han har kj\u00e6r."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Salig er det menneske som har funnet visdom, det menneske som vinner forstand;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "for det er bedre \u00e5 vinne den enn \u00e5 vinne s\u00f8lv, og det utbytte den gir, er bedre enn gull."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Den er kosteligere enn perler, og alle dine skatter kan ikke lignes med den."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Langt liv har den i sin h\u00f8ire h\u00e5nd, rikdom og \u00e6re i sin venstre."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Dens veier er fagre veier, og alle dens stier f\u00f8rer til lykke."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Den er et livsens tre for dem som griper den, og hver den som holder fast p\u00e5 den, m\u00e5 prises lykkelig."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Herren grunnfestet jorden med visdom; han bygget himmelen med forstand."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ved hans kunnskap vellet de dype vann frem, og ved den lar skyene dugg dryppe ned."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Min s\u00f8nn! La dem ikke vike fra dine \u00c3\u00b8ine, bevar visdom og klokskap!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "S\u00e5 skal de v\u00e6re liv for din sjel og pryd for din hals."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Da skal du vandre din vei trygt og ikke st\u00f8te din fot."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "N\u00e5r du legger dig, skal du ikke frykte, og n\u00e5r du har lagt dig, skal din s\u00f8vn v\u00e6re s\u00f8t."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Da trenger du ikke \u00e5 v\u00e6re redd for uventet skrekk, eller for uv\u00e6ret n\u00e5r det kommer over de ugudelige!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "For Herren skal v\u00e6re din tillit, og han skal bevare din fot fra \u00e5 fanges."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Nekt ikke de trengende din hjelp, n\u00e5r det st\u00e5r i din makt \u00e5 gi den!"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Si ikke til din n\u00e6ste: G\u00e5 bort og kom igjen, jeg skal gi dig imorgen - n\u00e5r du kan gj\u00f8re det straks!"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Legg ikke op onde r\u00e5d mot din n\u00e6ste, n\u00e5r han kjenner sig trygg hos dig!"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Trett ikke med et menneske uten \u00e5rsak, n\u00e5r han ikke har gjort dig noget ondt!"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Misunn ikke en voldsmann, og velg ikke nogen av alle hans veier!"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "For en falsk mann er en vederstyggelighet for Herren, men med de opriktige har han fortrolig samfund."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Herrens forbannelse er over den ugudeliges hus, men de rettferdiges bolig velsigner han."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Spotterne spotter han, men de ydmyke gir han n\u00e5de."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "De vise arver \u00e6re, men d\u00e5rene f\u00e5r skam til l\u00f8nn."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "H\u00f8r, mine barn, p\u00e5 en fars tilrettevisning og gi akt, s\u00e5 I kan l\u00e6re klokskap!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "For en god l\u00e6rdom gir jeg eder; mine bud m\u00e5 I ikke forlate."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "For da jeg var s\u00f8nn hjemme hos min far, da jeg var liten og min mors eneste barn,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "da l\u00e6rte han mig og sa til mig: La ditt hjerte holde fast ved mine ord, bevar mine bud, s\u00e5 skal du leve."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kj\u00f8p visdom, kj\u00f8p forstand, glem ikke og vik ikke fra min munns ord!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Forlat den ikke, s\u00e5 skal den vokte dig; elsk den, s\u00e5 skal den v\u00e6re ditt vern."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Begynnelsen til visdom er: Kj\u00f8p visdom, ja, kj\u00f8p forstand for alt ditt gods!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Oph\u00f8i den, s\u00e5 skal den oph\u00f8ie dig; den skal gj\u00f8re dig \u00e6re, n\u00e5r du favner den."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Den skal sette en fager krans p\u00e5 ditt hode; den skal rekke dig en herlig krone."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "H\u00f8r, min s\u00f8nn, og ta imot mine ord, s\u00e5 skal dine leve\u00e5r bli mange."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Om visdoms vei l\u00e6rer jeg dig, jeg leder dig p\u00e5 rettvishets stier."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "N\u00e5r du g\u00e5r, skal intet hindre dine skritt, og n\u00e5r du l\u00f8per, skal du ikke snuble."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hold fast ved min tilrettevisning, slipp den ikke! Bevar den, for den er ditt liv."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "P\u00e5 de ugudeliges sti m\u00e5 du ikke komme og ikke f\u00f8lge de ondes vei."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sky den, f\u00f8lg den ikke, vik fra den og g\u00e5 forbi!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "For de f\u00e5r ikke sove uten de har gjort noget ondt, og s\u00f8vnen tas fra dem om de ikke har f\u00f8rt nogen til fall."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "For de eter ugudelighets br\u00f8d og drikker voldsgjernings vin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Men de rettferdiges sti er lik et str\u00e5lende lys, som blir klarere og klarere til det er h\u00f8ilys dag."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "De ugudeliges vei er som det dype m\u00f8rke; de vet ikke hvad de snubler over."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Min s\u00f8nn! Akt p\u00e5 mine ord, b\u00f8i ditt \u00f8re til min tale!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "La dem ikke vike fra dine \u00f8ine, bevar dem dypt i ditt hjerte!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "For de er liv for hver den som finner dem, og l\u00e6gedom for hele hans legeme."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Bevar ditt hjerte fremfor alt det som bevares; for livet utg\u00e5r fra det."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Hold dig fra svikefulle ord, og la falske leber v\u00e6re langt fra dig!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "La dine \u00f8ine se bent frem og dine \u00f8ielokk vende rett frem for dig!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Gj\u00f8r din fots sti jevn, og la alle dine veier v\u00e6re rette!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "B\u00f8i ikke av til h\u00f8ire eller til venstre, vend din fot fra det onde!"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Min s\u00f8nn! Akt p\u00e5 min visdom, b\u00f8i ditt \u00f8re til min forstand,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "s\u00e5 du kan gjemme kloke r\u00e5d og dine leber bevare kunnskap!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "For en fremmed kvinnes leber drypper av honning, og glattere enn olje er hennes tunge;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "men til sist er hun besk som malurt, hvass som et tveegget sverd."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hennes f\u00f8tter g\u00e5r nedover til d\u00f8den; hennes skritt f\u00f8rer like til d\u00f8dsriket."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "P\u00e5 livets sti vil hun ikke vandre; hennes veier g\u00e5r hit og dit, uten at hun vet det."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "S\u00e5 h\u00f8r nu p\u00e5 mig, mine barn, og vik ikke fra min munns ord!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "La din vei v\u00e6re langt fra henne, og kom ikke n\u00e6r til d\u00f8ren p\u00e5 hennes hus,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "forat du ikke skal gi andre din pryd og en grusom herre dine \u00e5r,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "forat ikke fremmede skal mettes av din eiendom, og frukten av din m\u00f8ie komme i en annen manns hus,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "s\u00e5 du m\u00e5 st\u00f8nne i din siste stund, n\u00e5r din kropp og ditt kj\u00f8tt t\u00e6res bort,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Og du m\u00e5 si: Hvorledes har jeg kunnet hate tukt, og hvorledes har mitt hjerte kunnet forakte tilrettevisning,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "s\u00e5 jeg ikke h\u00f8rte p\u00e5 dem som l\u00e6rte mig, og ikke b\u00f8ide mitt \u00f8re til dem som veiledet mig!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "N\u00e6r var jeg kommet i den st\u00f8rste ulykke midt i forsamlingen og menigheten."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Drikk av din egen br\u00f8nn, drikk rinnende vann av din egen kilde!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Skulde vel dine kilder str\u00f8mme ut p\u00e5 gaten, dine bekker p\u00e5 torvene?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "La dem v\u00e6re for dig alene og ikke for fremmede sammen med dig!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Din kilde v\u00e6re velsignet, gled dig i din ungdoms hustru!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Den elskelige hind og den yndefulle stengjet! Hennes barm kvege dig til enhver tid, av hennes kj\u00e6rlighet v\u00e6re du alltid drukken!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hvorfor, min s\u00f8nn, skulde du da v\u00e6re drukken av attr\u00e5 efter en annen manns hustru og favne en fremmed kvinnes barm?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "For en manns veier ligger \u00e5pne for Herrens \u00f8ine, og Herren jevner alle hans stier."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Den ugudelige fanges i sine egne misgjerninger, og han holdes fast i sin egen synds snarer."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Han m\u00e5 d\u00f8, fordi han ikke lot sig tukte, og for sin store d\u00e5rskaps skyld tumler han og faller."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Min s\u00f8nn! Har du g\u00e5tt i borgen for din n\u00e6ste, har du gitt en fremmed ditt h\u00e5ndslag,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "har du latt dig binde ved din munns ord, har du latt dig fange i din munns ord,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "s\u00e5 gj\u00f8r s\u00e5ledes, min s\u00f8nn, og frels dig, siden du er kommet i din n\u00e6stes h\u00e5nd: G\u00e5 og kast dig ned for din n\u00e6ste og storm inn p\u00e5 ham,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "unn ikke dine \u00f8ine s\u00f8vn og dine \u00f8ielokk blund,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "frels dig som et r\u00e5dyr av jegerens h\u00e5nd og som en fugl av fuglefangerens h\u00e5nd!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "G\u00e5 til mauren, du late, se dens ferd og bli vis!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Enda den ikke har nogen fyrste, foged eller herre,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "s\u00f8rger den dog om sommeren for sitt livsophold og sanker om h\u00f8sten sin f\u00f8de."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hvor lenge vil du ligge, du late? N\u00e5r vil du st\u00e5 op av din s\u00f8vn?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "[Du sier:] La mig ennu f\u00e5 sove litt, blunde litt, folde mine hender litt og hvile!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Da kommer armoden over dig som en landstryker og n\u00f8den som en mann med skjold."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "En niding, en ugjerningsmann er den som g\u00e5r omkring med en falsk munn,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "som blunker med \u00f8inene, skraper med f\u00f8ttene, gj\u00f8r tegn med fingrene,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "som har svik i sitt hjerte, som tenker ut onde ting til enhver tid og volder tretter."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Derfor skal ulykken komme br\u00e5tt over ham; i et \u00f8ieblikk skal han knuses, og det er ingen l\u00e6gedom for ham."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Seks ting er det Herren hater, og syv er vederstyggeligheter for hans sjel:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Stolte \u00f8ine, falsk tunge og hender som ut\u00f8ser uskyldig blod,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "et hjerte som legger op onde r\u00e5d, f\u00f8tter som haster til det onde,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "den som taler l\u00f8gn og vidner falsk, og den som volder tretter mellem br\u00f8dre."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Bevar, min s\u00f8nn, din fars bud og forlat ikke din mors l\u00e6re!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Bind dem alltid til ditt hjerte, knytt dem fast om din hals!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "N\u00e5r du g\u00e5r, skal de lede dig; n\u00e5r du ligger, skal de verne dig, og n\u00e5r du v\u00e5kner, skal de tale til dig."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "For budet er en lykte og l\u00e6ren et lys, og tilrettevisninger til tukt er en vei til livet,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "s\u00e5 de bevarer dig fra en ond kvinne, fra en fremmed kvinnes glatte tunge."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Attr\u00e5 ikke hennes skj\u00f8nnhet i ditt hjerte? og la henne ikke fange dig med sine \u00f8iekast!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "For en skj\u00f8ge armer en mann ut like til siste br\u00f8dleiv, og annen manns hustru fanger en dyr sjel."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Kan nogen hente ild i sitt fang uten hans kl\u00e6r brennes op?"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Eller kan nogen g\u00e5 p\u00e5 gl\u00f8r uten hans f\u00f8tter blir svidd?"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Slik blir det med den som g\u00e5r inn til sin n\u00e6stes hustru; ingen blir ustraffet som r\u00f8rer henne."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Blir ikke tyven foraktet, n\u00e5r han stjeler for \u00e5 stille sin sult?"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Og hvis han blir grepet, m\u00e5 han betale syvfold; alt det han eier i sitt hus, m\u00e5 han gi."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Den som driver hor med en kvinne, er uten forstand; den som vil \u00f8delegge sin sjel, han gj\u00f8r slikt."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Hugg og skam f\u00e5r han, og hans van\u00e6re slettes aldri ut."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "For nidkj\u00e6r er mannens vrede, og han sparer ikke p\u00e5 hevnens dag;"
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "han tar ikke imot b\u00f8ter og lar sig ikke formilde, om du gir ham store gaver."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Min s\u00f8nn, bevar mine ord og gjem mine bud hos dig!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Bevar mine bud, s\u00e5 skal du leve, bevar min l\u00e6re som din \u00f8iesten!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bind dem p\u00e5 dine fingrer, skriv dem p\u00e5 ditt hjertes tavle!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Si til visdommen: Du er min s\u00f8ster, og kall forstanden din kjenning,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "forat den m\u00e5 bevare dig fra annen manns hustru, fra fremmede kvinner, som taler glatte ord."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "For jeg s\u00e5 engang ut av vinduet p\u00e5 mitt hus, gjennem mitt gitter,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "og da s\u00e5 jeg blandt de uerfarne, jeg blev var blandt de unge en uforstandig gutt,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "som gikk forbi p\u00e5 gaten ved hennes hj\u00f8rne og gikk frem p\u00e5 veien til hennes hus,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "i skumringen, da dagen var til ende, i dyp natt og m\u00f8rke."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Da kom en kvinne ham i m\u00f8te i en skj\u00f8ges kl\u00e6r og med svikefullt hjerte."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Vill er hun og k\u00e5t; hennes f\u00f8tter er ikke i ro i hennes hus."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Snart er hun p\u00e5 gater, snart p\u00e5 torver, og ved hvert hj\u00f8rne lurer hun."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Og hun tok fatt p\u00e5 ham og kysset ham, og med frekt \u00e5syn sa hun til ham:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Takkoffer skulde jeg b\u00e6re frem, og idag har jeg innfridd mine l\u00f8fter;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "derfor gikk jeg ut for \u00e5 m\u00f8te dig, for \u00e5 s\u00f8ke dig op, og jeg fant dig."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Jeg har bredt tepper over min seng, brokete tepper av egyptisk garn."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jeg har str\u00f8dd mitt leie med myrra, alo\u00eb og kanel."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kom, la oss beruse oss i kj\u00e6rlighet inntil morgenen, fryde oss i elskov!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "For min mann er ikke hjemme, han er reist langt bort;"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "pengepungen tok han med sig, f\u00f8rst ved fullm\u00e5ne kommer han hjem."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Hun fikk lokket ham ved sin sterke overtalelse, ved sine glatte leber forf\u00f8rte hun ham."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Han f\u00f8lger henne straks, lik en okse som g\u00e5r til slakterbenken, som i fotjern, hvormed d\u00e5ren tuktes,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "inntil pilen kl\u00f8ver hans lever - likesom fuglen haster til snaren og ikke vet at det gjelder dens liv."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "S\u00e5 h\u00f8r nu p\u00e5 mig, barn, og akt p\u00e5 min munns ord!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "La ikke ditt hjerte vende sig til hennes veier, forvill dig ikke inn p\u00e5 hennes stier!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "For mange som har f\u00e5tt ulivss\u00e5r, har hun fellet, og mangfoldige er de hun har sl\u00e5tt ihjel;"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "fra hennes hus g\u00e5r veier til d\u00f8dsriket, de f\u00f8rer ned til d\u00f8dens kammere."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "H\u00f8r, visdommen roper, og forstanden lar sin r\u00f8st h\u00f8re."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Oppe p\u00e5 hauger ved veien st\u00e5r hun, der hvor stiene m\u00f8tes;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ved siden av portene, ved byens utgang, i inngangen til portene roper hun h\u00f8it:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Til eder, I menn, roper jeg, og min r\u00f8st lyder til menneskenes barn."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "L\u00e6r klokskap, I enfoldige, og l\u00e6r forstand, I uforstandige!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "H\u00f8r! Om store ting taler jeg, og jeg oplater mine leber med rettvishet;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "min tunge taler sannhet, og ugudelighet er en vederstyggelighet for mine leber."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Alle min munns ord er rette, det er intet falskt eller vrangt i dem."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De er alle sammen likefremme for den forstandige og rette for dem som har funnet kunnskap."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ta imot min tilrettevisning istedenfor s\u00f8lv, og ta imot kunnskap fremfor uts\u00f8kt gull!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "For visdom er bedre enn perler, og ingen skatt kan lignes med den."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jeg, visdommen, har klokskap i eie, og jeg forst\u00e5r \u00e5 finne kloke r\u00e5d."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00c5 frykte Herren er \u00e5 hate ondt; stolthet og overmot, ond ferd og en falsk munn hater jeg."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mig tilh\u00f8rer r\u00e5d og sann innsikt, jeg er forstand, mig h\u00f8rer styrke til."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ved mig regjerer kongene, og ved mig fastsetter fyrstene hvad rett er."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ved mig styrer herskerne og h\u00f8vdingene, alle dommere p\u00e5 jorden."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jeg elsker dem som elsker mig, og de som s\u00f8ker mig, skal finne mig."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Hos mig er rikdom og \u00e6re, gammelt arvegods og rettferdighet."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Min frukt er bedre enn gull, ja det fineste gull, og den vinning jeg gir, er bedre enn uts\u00f8kt s\u00f8lv."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "P\u00e5 rettferds vei vandrer jeg, midt p\u00e5 rettens stier;"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "derfor gir jeg dem som elsker mig, sann rikdom til arv og fyller deres forr\u00e5dskammere."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Herren skapte mig som sitt f\u00f8rste verk, f\u00f8r sine andre gjerninger, i fordums tid."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Fra evighet er jeg blitt til, fra f\u00f8rst av, f\u00f8r jorden var."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Da avgrunnene ennu ikke var til, blev jeg f\u00f8dt, da der ennu ikke fantes kilder fylt med vann."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "F\u00f8r fjellene blev senket ned, f\u00f8r haugene blev til, blev jeg f\u00f8dt,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "f\u00f8r han hadde skapt jord og mark og jorderikes f\u00f8rste muldklump."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Da han bygget himmelen, var jeg der, da han slo hvelving over avgrunnen."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Da han festet skyene oventil, da han bandt avgrunnens kilder,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "da han satte grense for havet, s\u00e5 vannene ikke g\u00e5r lenger enn han byder, da han la jordens grunnvoller -"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "da var jeg verksmester hos ham, og jeg var hans lyst dag efter dag, jeg lekte alltid for hans \u00e5syn;"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "jeg lekte p\u00e5 hele hans vide jord, og min lyst hadde jeg i menneskenes barn."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Og nu, barn, h\u00f8r p\u00e5 mig! Salige er de som f\u00f8lger mine veier."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "H\u00f8r p\u00e5 min tilrettevisning og bli vise og forakt den ikke!"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Salig er det menneske som h\u00f8rer p\u00e5 mig, s\u00e5 han v\u00e5ker ved mine d\u00f8rer dag efter dag og vokter mine d\u00f8rstolper."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "For den som finner mig, finner livet og f\u00e5r n\u00e5de hos Herren."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Men den som ikke finner mig, skader sig selv; alle de som hater mig, elsker d\u00f8den."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Visdommen har bygget sitt hus, hun har hugget til sine syv stolper."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hun har slaktet sitt slaktefe, blandet sin vin og dekket sitt bord;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "hun har sendt ut sine piker, hun roper oppe fra byens h\u00f8ider:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Den som er enfoldig, han vende sig hit! Til den som er uten forstand, sier hun:"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kom, et av mitt br\u00f8d og drikk av den vin jeg har blandet!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Opgi eders uforstand, s\u00e5 skal I leve, og g\u00e5 bent frem p\u00e5 forstandens vei!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den som refser en spotter, henter sig selv van\u00e6re, og den som viser en ugudelig til rette, f\u00e5r skam av det."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vis ikke spotteren til rette, forat han ikke skal hate dig! Vis den vise til rette, s\u00e5 skal han elske dig."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "L\u00e6r den vise, s\u00e5 blir han ennu visere, l\u00e6r den rettferdige, s\u00e5 g\u00e5r han frem i l\u00e6rdom."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00c5 frykte Herren er begynnelsen til visdom, og \u00e5 kjenne den Hellige er forstand."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "For ved mig skal dine dager bli mange, og leve\u00e5r skal gis dig i rikt m\u00e5l."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Er du vis, s\u00e5 er du vis til ditt eget gagn, og er du en spotter, skal du alene lide for det."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "D\u00e5rskapen er en k\u00e5t kvinne, bare uforstand og uvitenhet."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hun sitter foran d\u00f8ren til sitt hus p\u00e5 en trone p\u00e5 en h\u00f8ide i byen"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "for \u00e5 rope til dem som g\u00e5r forbi p\u00e5 veien, som vandrer bent frem p\u00e5 sine stier:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Den som er enfoldig, han vende sig hit! Til den som er uten forstand, sier hun:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Stj\u00e5let vann er s\u00f8tt, og br\u00f8d som etes i l\u00f8nndom, smaker herlig."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Men han vet ikke at der bor d\u00f8dningene, at hennes gjester er i d\u00f8dsrikets dyp."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Salomos ordsprog. / En vis s\u00f8nn gleder sin far, men en uforstandig s\u00f8nn er sin mors sorg."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ugudelighets skatter gagner ikke, men rettferdighet frir fra d\u00f8den."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Herren lar ikke den rettferdige sulte, men de ugudeliges attr\u00e5 st\u00f8ter han bort."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Den som arbeider med lat h\u00e5nd, blir fattig, men den flittiges h\u00e5nd gj\u00f8r rik."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "En klok s\u00f8nn samler om sommeren; en d\u00e5rlig s\u00f8nn sover i h\u00f8sttiden."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Velsignelser kommer over den rettferdiges hode, men de ugudeliges munn skal deres vold skjule."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den rettferdiges minne lever i velsignelse, men de ugudeliges navn r\u00e5tner bort."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den som har visdom i hjertet, tar imot [Guds] bud; men den som har d\u00e5rens leber, g\u00e5r til grunne."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Den som vandrer i ustraffelighet, vandrer trygt, og den som g\u00e5r krokveier, blir opdaget."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Den som blunker med \u00f8iet, volder smerte, og den som har d\u00e5rens leber, g\u00e5r til grunne."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Den rettferdiges munn er en livsens kilde, men de ugudeliges munn skal deres vold skjule."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hat vekker trette, men kj\u00e6rlighet dekker over alle overtredelser."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "P\u00e5 den forstandiges leber finnes visdom, men stokken er for den uforstandiges rygg."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "De vise gjemmer p\u00e5 kunnskap, men d\u00e5rens munn truer med \u00f8deleggelse."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Rikmanns gods er hans faste stad; de fattiges armod er deres \u00f8deleggelse."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Det som den rettferdige vinner, blir ham til liv; den ugudeliges inntekt blir ham til synd."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "En vei til liv er den som akter p\u00e5 tukt; men den som forakter tilrettevisning, f\u00f8rer vill."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Den som skjuler hat, har falske leber, og den som f\u00f8rer ut ondt rykte, han er en d\u00e5re."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hvor det er mange ord, mangler det ikke p\u00e5 synd; men den som holder sine leber i t\u00f8mme, er klok."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Den rettferdiges tunge er som uts\u00f8kt s\u00f8lv; de ugudeliges hjerte er intet verdt."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Den rettferdiges leber n\u00e6rer mange, men d\u00e5rer d\u00f8r, fordi de er uten forstand."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Det er Herrens velsignelse som gj\u00f8r rik, og eget strev legger ikke noget til."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "For d\u00e5ren er det en lyst \u00e5 gj\u00f8re skaml\u00f8se gjerninger, men visdom er en lyst for den forstandige mann."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Det som den ugudelige gruer for, det skal komme over ham; men de rettferdiges \u00f8nsker skal Gud opfylle."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "N\u00e5r en storm farer forbi, s\u00e5 er den ugudelige ikke mere; men den rettferdige har en evig grunnvoll."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Som eddik for tennene og r\u00f8k for \u00f8inene, slik er den late for den som sender ham."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Herrens frykt forlenger livet, men de ugudeliges \u00e5r forkortes."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "De rettferdige har glede i vente, men de ugudeliges h\u00e5p blir til intet."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Herrens vei er en fast borg for den ustraffelige, men den er \u00f8deleggelse for dem som gj\u00f8r urett."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "De rettferdige skal aldri rokkes, men de ugudelige skal ikke f\u00e5 bo landet."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Den rettferdiges munn b\u00e6rer visdoms frukt, men den falske tunge skal skj\u00e6res av."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Den rettferdiges leber forst\u00e5r hvad der er til behag, men de ugudeliges munn er bare falskhet."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Falsk vekt er en vederstyggelighet for Herren, men fullvektige lodder er ham til velbehag."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Med overmot f\u00f8lger skam, men de ydmyke har visdom."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De opriktiges rettsinn leder dem, men de trol\u00f8ses forvendte sinn \u00f8delegger dem."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Gods hjelper ikke p\u00e5 vredens dag, men rettferdighet frir fra d\u00f8den."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Den ustraffeliges rettferdighet gj\u00f8r hans vei jevn, men den ugudelige faller ved sin ugudelighet."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De opriktiges rettferdighet frelser, men de trol\u00f8se fanges i sin egen ondskap."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "N\u00e5r et ugudelig menneske d\u00f8r, blir hans h\u00e5p til intet, og med det som de onde stunder efter, er det forbi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den rettferdige utfries av trengsel, og den ugudelige kommer i hans sted."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Med munnen \u00f8delegger den gudl\u00f8se sin n\u00e6ste, men ved sin kunnskap utfries de rettferdige."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "N\u00e5r det g\u00e5r de rettferdige godt, jubler byen, og n\u00e5r de ugudelige omkommer, lyder fryderop."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ved de opriktiges velsignelse blir en by oph\u00f8iet, men de ugudeliges munn bryter den ned."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Den som taler foraktelig om sin n\u00e6ste, er uten forstand; men en forstandig mann tier."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Den som g\u00e5r omkring som baktaler, \u00e5penbarer hemmeligheter; men den som er trofast i \u00e5nden, skjuler saken."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hvor det intet styre er, faller folket; men hvor det er mange r\u00e5dgivere, der er frelse."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ille g\u00e5r det den som g\u00e5r i borgen for en fremmed; men den som skyr \u00e5 gi h\u00e5ndslag, er sikker."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "En yndig kvinne vinner \u00e6re, og voldsmenn vinner rikdom."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "En godgj\u00f8rende mann gj\u00f8r vel mot sig selv, men en h\u00e5rdhjertet mann \u00f8delegger sig."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Den ugudelige vinner en l\u00f8nn som svikter, men den som s\u00e5r rettferdighet, f\u00e5r en l\u00f8nn som varer."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Den som st\u00e5r fast i rettferdighet, ham blir det til liv; men den som jager efter ondt, volder sin egen d\u00f8d."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "En vederstyggelighet for Herren er de hvis hjerte er forvendt; men til velbehag for ham er de hvis vei er ustraffelig."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Visselig, den onde blir ikke ustraffet, men de rettferdiges \u00e6tt slipper unda."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Som en gullring i et svinetryne er en fager kvinne som er uten forstand."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De rettferdiges attr\u00e5 er bare det som godt er; de ugudelige har vrede i vente."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den ene str\u00f8r ut og f\u00e5r ennu mere; den andre holder tilbake mere enn rett er, og det blir dog bare fattigdom."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Den som velsigner, skal trives, og den som lesker andre, han blir selv lesket."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Den som holder korn tilbake, ham banner folket; men velsignelse kommer over dens hode som selger korn."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Den som s\u00f8ker hvad godt er, s\u00f8ker det som er til behag; men den som higer efter ondt, over ham kommer det onde."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Den som setter sin lit til sin rikdom, han skal falle; men de rettferdige skal gr\u00f8nnes som l\u00f8vet."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Den som setter sitt hus i ulag, skal arve vind, og d\u00e5ren blir en tjener for den vise."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Den rettferdiges frukt er et livsens tre, og den vise fanger sjeler."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Se, den rettferdige f\u00e5r sin l\u00f8nn p\u00e5 jorden, hvor meget mere da den ugudelige og synderen!"
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Den som elsker tukt, elsker kunnskap; men den som hater refselse, er dum."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Den gode f\u00e5r n\u00e5de hos Herren, men den svikefulle mann ford\u00f8mmer han."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ugudelighet hjelper intet menneske til \u00e5 st\u00e5 st\u00f8tt, men de rettferdiges rot rokkes ikke."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "En god hustru er sin manns krone, men en d\u00e5rlig er som r\u00e5ttenhet i hans ben."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De rettferdige tenker bare p\u00e5 det som rett er; de ugudeliges r\u00e5d er svik."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De ugudelige taler alltid om \u00e5 lure efter blod, men de opriktiges munn frelser dem."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De ugudelige kastes over ende, og s\u00e5 er de ikke mere; men de rettferdiges hus st\u00e5r fast."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En mann roses alt efter som han har forstand, men den hvis hjerte er forvendt, blir til forakt."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bedre er en sm\u00e5k\u00e5rsmann som har en tjener, enn en som vil v\u00e6re storkar, men ikke har br\u00f8d."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Den rettferdige har omsorg for sin buskap, men den ugudeliges hjerte er h\u00e5rdt."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Den som dyrker sin jord, mettes med br\u00f8d; men den som jager efter tomme ting, er uten forstand."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Den ugudelige attr\u00e5r det som er en snare for de onde; men de rettferdige gir Gud fast rot."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I lebenes synd ligger en ond snare, men den rettferdige kommer ut av trengsel."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Av sin munns frukt mettes en mann med godt, og hvad et menneskes hender har gjort, det gjengjeldes ham."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "D\u00e5rens vei er rett i hans egne \u00f8ine, men den som h\u00f8rer p\u00e5 r\u00e5d, er vis."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "D\u00e5rens vrede blir kjent samme dag, men den som skjuler krenkelser, er klok."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Den som er \u00e6rlig i sine ord, taler sannhet, men et falskt vidne taler svik."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mange taler tankel\u00f8se ord, som stikker likesom sverd; men de vises tunge er l\u00e6gedom."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Sannhets lebe blir fast for all tid, men falskhets tunge bare et \u00f8ieblikk."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Det er svik i deres hjerte som smir ondt; men de som r\u00e5der til fred, f\u00e5r glede."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Det rammer ikke den rettferdige noget ondt, men de ugudelige f\u00e5r ulykke i fullt m\u00e5l."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Falske leber er en vederstyggelighet for Herren, men de som g\u00e5r frem med \u00e6rlighet, er ham til velbehag."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Et klokt menneske skjuler det han vet, men d\u00e5rers hjerte roper ut sin d\u00e5rskap."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den flittiges h\u00e5nd kommer til \u00e5 styre, men lathet blir tr\u00e6l."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Sorg i en manns hjerte trykker det ned, men et godt ord gleder det."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Den rettferdige veileder sin n\u00e6ste, men de ugudeliges vei f\u00f8rer dem vill."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Lathet steker ikke sin fangst, men flid er en kostelig skatt for et menneske."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "P\u00e5 rettferds sti er liv, og en ryddet vei f\u00f8rer ikke til d\u00f8den."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "En vis s\u00f8nn h\u00f8rer p\u00e5 sin fars tilrettevisning, men en spotter h\u00f8rer ikke p\u00e5 irettesettelse."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Av sin munns frukt nyter en mann godt, men de trol\u00f8ses hu st\u00e5r til vold."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Den som vokter sin munn, bevarer sitt liv; den som lukker sine leber vidt op, ham blir det til ulykke."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Den late attr\u00e5r og f\u00e5r intet, men de flittige n\u00e6res rikelig."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Den rettferdige hater l\u00f8gnaktige ord, men den ugudelige gj\u00f8r det som ondt og skammelig er."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Rettferdighet verner den som lever ustraffelig, men ugudelighet feller den som gj\u00f8r synd."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den ene ter sig som en rik mann og har dog slett ingen ting, og den andre ter sig som en fattig mann og har dog meget gods."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En manns rikdom er l\u00f8sepenger for hans liv, men den fattige er det ingen som truer."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De rettferdiges lys skinner lystig, men de ugudeliges lampe slukner."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ved overmot voldes bare trette, men hos dem som lar sig r\u00e5de, er visdom."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Lett vunnet rikdom minker, men den som samler litt efter litt, \u00f8ker sitt gods."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Langvarig venting gj\u00f8r hjertet sykt, men et opfylt \u00f8nske er et livsens tre."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Den som forakter ordet, \u00f8delegger sig selv; men den som frykter budet, han f\u00e5r l\u00f8nn."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Den vises l\u00e6re er en livsens kilde, ved den slipper en fra d\u00f8dens snarer."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ved god forstand vinner en menneskenes yndest, men de trol\u00f8ses vei er h\u00e5rd."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hver den som er klok, g\u00e5r frem med forstand, men en d\u00e5re utbreder d\u00e5rskap."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Et ugudelig sendebud faller i ulykke, men et trofast bud er l\u00e6gedom."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Armod og skam f\u00e5r den som ikke vil vite av tukt; men den som akter p\u00e5 refselse, blir \u00e6ret."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Opfylt \u00f8nske er s\u00f8tt for sjelen, men \u00e5 holde sig fra det onde er en vederstyggelighet for d\u00e5rer."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "S\u00f8k omgang med de vise, og du skal bli vis; men d\u00e5rers venn g\u00e5r det ille."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ulykke forf\u00f8lger syndere, men rettferdige l\u00f8nnes med godt."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Den gode efterlater arv til barnebarn, men synderens gods er gjemt til den rettferdige."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De fattiges nyland gir meget f\u00f8de; men mangen rykkes bort fordi han ikke gj\u00f8r det som rett er."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den som sparer sitt ris, hater sin s\u00f8nn; men den som elsker ham, tukter ham tidlig."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Den rettferdige eter s\u00e5 han blir mett, men de ugudeliges buk blir tom."
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kvinners visdom bygger sitt hus, men d\u00e5rskap river det ned med sine hender."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Den som vandrer i opriktighet, frykter Herren; men den som g\u00e5r krokveier, forakter ham."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "I d\u00e5rens munn er et ris for hans overmot, men de vises leber er deres vern."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hvor det ingen okser er, der er krybben tom; men rikelig vinning kommer ved oksens kraft."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Trofast vidne lyver ikke, men den som taler l\u00f8gn, er et falskt vidne."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Spotteren s\u00f8ker visdom, men finner den ikke; men for den forstandige er kunnskap lett \u00e5 vinne."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "N\u00e5r du g\u00e5r fra en d\u00e5re, har du ikke funnet forstand p\u00e5 hans leber."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den klokes visdom er at han forst\u00e5r sin vei, men d\u00e5rers d\u00e5rskap er at de bedrar sig selv."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "D\u00e5rer spottes av sitt eget skyldoffer, men blandt de opriktige r\u00e5der Guds velbehag."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hjertet kjenner sin egen bitre smerte, og i dets glede blander ingen fremmed sig."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De ugudeliges hus skal \u00f8delegges, men de opriktiges telt skal blomstre."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mangen vei tykkes en mann rett, men enden p\u00e5 det er d\u00f8dens veier."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Endog under latter har hjertet smerte, og enden p\u00e5 gleden er sorg."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Av sin ferd skal den frafalne mettes, og en god mann holder sig borte fra ham."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Den enfoldige tror hvert ord, men den kloke akter p\u00e5 sine skritt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Den vise frykter og holder sig fra det onde, men d\u00e5ren er overmodig og trygg."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Den br\u00e5sinte gj\u00f8r d\u00e5rskap, og en svikefull mann blir hatet."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "De enfoldige har f\u00e5tt d\u00e5rskap i arv, men de kloke krones med kunnskap."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "De onde m\u00e5 b\u00f8ie sig for de gode, og de ugudelige ved den rettferdiges porter."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Endog av sin venn blir den fattige hatet; men de som elsker en rik, er mange."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Den som forakter sin n\u00e6ste, synder; men salig er den som ynkes over arminger."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Skal ikke de fare vill som tenker ut det som ondt er? Men miskunnhet og trofasthet times dem som optenker godt."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ethvert m\u00f8iefullt arbeid gir vinning, men tomt snakk f\u00f8rer bare til tap."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "De vises rikdom er deres krone, men d\u00e5renes d\u00e5rskap er og blir d\u00e5rskap."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Et sanndru vidne frelser liv, men den som taler l\u00f8gn, er full av svik."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Den som frykter Herren, har et sterkt vern, og for hans barn skal Herren v\u00e6re en tilflukt."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u00c5 frykte Herren er en livsens kilde, s\u00e5 en slipper fra d\u00f8dens snarer."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Meget folk er kongens \u00e6re, men mangel p\u00e5 folk er fyrstens fall."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Den langmodige har stor forstand, men den br\u00e5sinte viser stor d\u00e5rskap."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Et saktmodig hjerte er legemets liv, men hissighet er r\u00e5ttenhet i benene."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Den som trykker en arming, h\u00e5ner hans skaper, men den som har medynk med den fattige, \u00e6rer skaperen."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "N\u00e5r ulykken rammer den ugudelige, kastes han over ende; men den rettferdige er frimodig i d\u00f8den."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "I den forstandiges hjerte holder visdommen sig stille, men i d\u00e5rers indre gir den sig til kjenne."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Rettferdighet oph\u00f8ier et folk, men synden er folkenes van\u00e6re."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "En klok tjener vinner kongens yndest, men over en d\u00e5rlig tjener kommer hans vrede."
+                }
+            }
+        },
+        "15": {
+            "chapter_nr": "15",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mildt svar stiller harme, men et s\u00e5rende ord vekker vrede."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "De vises tunge gir god kunnskap, men d\u00e5renes munn lar d\u00e5rskap str\u00f8mme ut."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Herrens \u00f8ine er allesteds, de ser b\u00e5de efter onde og efter gode."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "En saktmodig tunge er et livsens tre, men en falsk tunge s\u00e5rer hjertet."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "D\u00e5ren forakter sin fars tukt, men den som akter p\u00e5 tilrettevisning, er klok."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I den rettferdiges hus er det meget gods, men den ugudeliges inntekt blir til \u00f8deleggelse for ham."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De vises leber str\u00f8r ut kunnskap, men d\u00e5renes sinn er ikke rett."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "De ugudeliges offer er en vederstyggelighet for Herren, men de opriktiges b\u00f8nn er ham til velbehag."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Den ugudeliges vei er en vederstyggelighet for Herren, men den som jager efter rettferdighet, elsker han."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "H\u00e5rd straff rammer den som forlater den rette sti; den som hater tilrettevisning, skal d\u00f8."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "D\u00f8dsriket og avgrunnen ligger \u00e5pne for Herren, hvor meget mere da menneskenes hjerter!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "En spotter liker ikke \u00e5 bli irettesatt; til de vise g\u00e5r han ikke."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Et glad hjerte gj\u00f8r \u00e5synet lyst, men hjertesorg bryter motet ned."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Den forstandiges hjerte s\u00f8ker kunnskap, men d\u00e5rers munn farer bare med d\u00e5rskap."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Alle den ulykkeliges dager er onde, men et glad hjerte er et stadig gjestebud."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Bedre er lite med Herrens frykt enn en stor skatt med uro."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Bedre er en rett gr\u00f8nt med kj\u00e6rlighet enn en fet okse med hat."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "En hissig mann vekker trette men den langmodige stiller kiv."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Den lates vei er som en tornehekk, men de opriktiges vei er ryddet."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "En vis s\u00f8nn gleder sin far, men et uforstandig menneske forakter sin mor."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "D\u00e5rskap er en glede for den som er uten forstand; men en forstandig mann g\u00e5r rett frem."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Planer blir til intet uten r\u00e5dslagning; men hvor det er mange r\u00e5dgivere, har de fremgang."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "En mann gleder sig n\u00e5r hans munn kan gi svar, og hvor godt er ikke et ord i rette tid!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den forstandige g\u00e5r livets vei opover for \u00e5 undg\u00e5 d\u00f8dsriket der nede."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Herren river ned de overmodiges hus, men enkens markskjell lar han st\u00e5 fast."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Den ondes r\u00e5d er en vederstyggelighet for Herren, men milde ord er rene for ham."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Den som jager efter vinning, setter sitt hus i ulag, men den som hater gaver, skal leve."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Den rettferdige tenker i sitt hjerte p\u00e5 hvorledes han skal svare, men de ugudeliges munn lar onde ting str\u00f8mme ut."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Herren er langt borte fra de ugudelige, men de rettferdiges b\u00f8nn h\u00f8rer han."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "\u00d8inenes lys gleder hjertet; godt budskap gir benene marg."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Den hvis \u00f8re h\u00f8rer p\u00e5 tilrettevisning til livet, dveler gjerne blandt vise."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Den som ikke vil vite av tukt, forakter sitt liv, men den som h\u00f8rer p\u00e5 tilrettevisning, vinner forstand."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Herrens frykt er tukt til visdom, og ydmykhet g\u00e5r forut for \u00e6re."
+                }
+            }
+        },
+        "16": {
+            "chapter_nr": "16",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hjertets r\u00e5d h\u00f8rer mennesket til, men fra Herren f\u00e5r tungen sitt svar."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Alle en manns veier er rene i hans egne \u00f8ine, men Herren veier \u00e5ndene."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Legg dine gjerninger p\u00e5 Herren, s\u00e5 skal dine r\u00e5d ha fremgang."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Herren har gjort hver ting til dens \u00f8iemed, ogs\u00e5 den ugudelige til straffens dag."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Enhver overmodig er en vederstyggelighet for Herren; visselig, en slik mann blir ikke ustraffet."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ved kj\u00e6rlighet og trofasthet utsones misgjerning, og den som frykter Herren, holder sig fra det onde."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "N\u00e5r Herren har behag i en manns ferd, da gj\u00f8r han at endog hans fiender holder fred med ham."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Bedre er lite med rettferdighet enn stor vinning med urett."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Menneskets hjerte tenker ut sin vei, men Herren styrer hans gang."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Guddoms-ord er p\u00e5 kongens leber; hans munn skal ikke forsynde sig n\u00e5r han d\u00f8mmer."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Rett vekt og rette vektsk\u00e5ler h\u00f8rer Herren til; alle vektstener i pungen er hans verk."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ugudelige gjerninger er en vederstyggelighet for konger; for ved rettferdighet blir tronen trygget."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Rettferdige leber er til velbehag for konger, og den som taler det som rett er, elsker de."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En konges vrede er d\u00f8dens bud, men en vis mann stiller vreden."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "I lyset fra kongens \u00e5syn er det liv, og hans n\u00e5de er som en sky med v\u00e5rregn."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00c5 vinne visdom - hvor meget bedre er det ikke enn gull! Og \u00e5 vinne forstand er mere verdt enn s\u00f8lv."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "De opriktiges vei er \u00e5 holde sig fra det onde; den som akter p\u00e5 sin vei, bevarer sitt liv."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Forut for undergang g\u00e5r overmot, og forut for fall stolt mot."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Det er bedre \u00e5 v\u00e6re ydmyk sammen med dem som er i n\u00f8d, enn \u00e5 dele bytte med de overmodige."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Den som akter p\u00e5 ordet, skal finne lykke, og den som setter sin lit til Herren, er salig."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Den som er vis i hjertet, blir kalt forstandig, og lebers s\u00f8dme fremmer l\u00e6rdom."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Klokskap er en livsens kilde for dem som eier den, men d\u00e5rers straff er deres egen d\u00e5rskap."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Den vises hjerte gj\u00f8r hans munn forstandig og legger mere og mere l\u00e6rdom p\u00e5 hans leber."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Milde ord er kostelig honning, s\u00f8t for sjelen og en l\u00e6gedom for kroppen."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Mangen vei tykkes en mann rett, men enden p\u00e5 det er d\u00f8dens veier."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Arbeiderens sult arbeider for ham; for hans munn driver ham frem."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "En niding graver en ulykkesgrav, og p\u00e5 hans leber er det likesom en fort\u00e6rende ild."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "En falsk mann volder trette, og en \u00f8retuter skiller venn fra venn."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "En voldsmann forlokker sin n\u00e6ste og f\u00f8rer ham inn p\u00e5 en vei som ikke er god."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Den som lukker sine \u00f8ine for \u00e5 tenke p\u00e5 svik, og den som kniper sine leber sammen, han har allerede fullf\u00f8rt det onde."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Gr\u00e5 h\u00e5r er en fager krone; den finnes p\u00e5 rettferdighets vei."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Den langmodige er bedre enn en veldig helt, og den som styrer sitt sinn, er bedre enn den som inntar en by."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "I kappens fold rystes loddet, men avgj\u00f8relsen kommer alltid fra Herren."
+                }
+            }
+        },
+        "17": {
+            "chapter_nr": "17",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bedre et stykke t\u00f8rt br\u00f8d med ro og fred enn et hus fullt av slakt med trette."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "En klok tjener f\u00e5r r\u00e5de over en d\u00e5rlig s\u00f8nn, og iblandt br\u00f8drene f\u00e5r han del i arven."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Der er digel for s\u00f8lv og ovn for gull; men den som pr\u00f8ver hjertene, er Herren."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Den onde akter p\u00e5 ondskaps lebe; l\u00f8gneren lytter til \u00f8deleggelses tunge."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Den som spotter den fattige, h\u00e5ner hans skaper; den som gleder sig over ulykke, skal ikke bli ustraffet."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De gamles krone er barnebarn, og barns pryd er deres fedre."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Det s\u00f8mmer sig ikke for d\u00e5ren \u00e5 tale store ord, enn mindre for den h\u00f8ib\u00e5rne \u00e5 tale l\u00f8gn."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Gave er en edelsten i dens \u00f8ine som f\u00e5r den; hvor den kommer, gj\u00f8r den lykke."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Den som dekker over overtredelse, s\u00f8ker kj\u00e6rlighet; men den som ripper op en sak, skiller venn fra venn."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Skjenn virker bedre p\u00e5 den forstandige enn hundre slag p\u00e5 d\u00e5ren."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "En ond manns hu st\u00e5r bare til gjenstridighet, og en ubarmhjertig engel sendes imot ham."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Bedre for en mann \u00e5 m\u00f8te en bj\u00f8rn som ungene er tatt fra, enn en d\u00e5re i hans d\u00e5rskap."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Den som gjengjelder godt med ondt, fra hans hus skal ulykken ikke vike."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00c5 begynne trette er som \u00e5 \u00e5pne for vann; la da tretten fare, f\u00f8r den blir for voldsom!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Den som frikjenner en ugudelig, og den som domfeller en rettferdig, de er begge to en vederstyggelighet for Herren."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hvad hjelper penger i d\u00e5rens h\u00e5nd til \u00e5 kj\u00f8pe visdom, siden han er uten forstand?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "En venn elsker alltid, og en bror f\u00f8des til hjelp i n\u00f8d."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Et menneske som ikke har forstand, gir h\u00e5ndslag og g\u00e5r i borgen hos sin n\u00e6ste."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Den som elsker trette, elsker synd; den som gj\u00f8r sin d\u00f8r h\u00f8i, s\u00f8ker sin egen undergang."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Den som er falsk i hjertet, finner intet godt, og den som er vrang i sin tale, faller i ulykke."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Den som har en narr til s\u00f8nn, f\u00e5r sorg av ham; en d\u00e5res far har ingen glede."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Et glad hjerte gir god l\u00e6gedom, men et nedsl\u00e5tt mot tar margen fra benene."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Den ugudelige tar gaver ut av barmen for \u00e5 b\u00f8ie rettens gang."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den forstandige har visdommen for \u00f8ie, men d\u00e5rens \u00f8ine er ved jordens ende."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "En uforstandig s\u00f8nn er en gremmelse for sin far og en bitter sorg for henne som f\u00f8dte ham."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00c5 straffe ogs\u00e5 den rettferdige er ikke godt; \u00e5 sl\u00e5 edle menn er tvert imot all rett."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Den som er sparsom med sine ord, er klok, og den koldsindige er en forstandig mann."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ogs\u00e5 d\u00e5ren aktes for klok n\u00e5r han tier, for vis n\u00e5r han holder sine leber lukket."
+                }
+            }
+        },
+        "18": {
+            "chapter_nr": "18",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Den egensindige f\u00f8lger bare sin egen lyst; mot alle kloke r\u00e5d viser han tenner."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "D\u00e5ren bryr sig ikke om \u00e5 v\u00e6re forstandig, men vil bare vise hvad han tenker i sitt hjerte."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "N\u00e5r den ugudelige kommer, kommer ogs\u00e5 forakt, og med skammen f\u00f8lger spott."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ordene i en manns munn er dype vann, visdoms kilde er en fremvellende bekk."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Det er ille \u00e5 gi den skyldige medhold, \u00e5 b\u00f8ie retten for den rettferdige."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "D\u00e5rens leber volder trette, og hans munn roper efter pryl."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "D\u00e5rens munn er til ulykke for ham selv, og hans leber er en snare for hans liv."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En \u00f8retuters ord er som velsmakende retter, og de trenger ned i hjertets indre."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Den som er lat i sin gjerning, er ogs\u00e5 en bror til \u00f8deleggeren."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Herrens navn er et fast t\u00e5rn; til det l\u00f8per den rettferdige og blir berget."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Den rikes gods er hans festning og som en h\u00f8i mur i hans egen tanke."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Forut for fall oph\u00f8ier en manns hjerte sig, men ydmykhet g\u00e5r forut for \u00e6re."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "N\u00e5r en svarer f\u00f8r han h\u00f8rer, da blir det til d\u00e5rskap og skam for ham."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En manns mot kan holde ham oppe i hans sykdom; men et nedsl\u00e5tt mot - hvem kan b\u00e6re det?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Den forstandiges hjerte kj\u00f8per kunnskap, og de vises \u00f8re s\u00f8ker kunnskap."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Et menneskes gave gir ham rum og f\u00f8rer ham frem for store herrer."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Den som taler f\u00f8rst i en rettsstrid, synes \u00e5 ha rett; men s\u00e5 kommer motparten og gransker hans ord."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Loddet gj\u00f8r ende p\u00e5 tretter og skiller mellem de mektige."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "En bror som en har gjort urett mot, er vanskeligere \u00e5 vinne enn en festning, og trette med ham er som en bom for en borg."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ved frukten av en manns munn mettes hans buk; med sine lebers gr\u00f8de blir han mettet."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "D\u00f8d og liv er i tungens vold, og hver den som gjerne bruker den, skal ete dens frukt."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Den som har funnet en hustru, har funnet lykke og f\u00e5tt en n\u00e5degave av Herren."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "I ydmyke b\u00f8nner taler den fattige, men den rike svarer med h\u00e5rde ord."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "En mann med mange venner g\u00e5r det ille; men der er venner som henger fastere ved en enn en bror."
+                }
+            }
+        },
+        "19": {
+            "chapter_nr": "19",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bedre er en fattig som vandrer i ustraffelighet, enn en mann med falske leber, som tillike er en d\u00e5re."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ogs\u00e5 den som ikke bruker omtanke, g\u00e5r det ille, og den som er for snar p\u00e5 foten, treder feil."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Menneskets egen d\u00e5rskap \u00f8delegger hans vei, men i sitt hjerte vredes han p\u00e5 Herren."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Rikdom skaper mange venner, den fattige blir skilt fra sin venn."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Et falskt vidne skal ikke bli ustraffet, og den som taler l\u00f8gn, skal ikke komme unda."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mange smigrer for den gavmilde, og enhver er venn med den som er rundh\u00e5ndet."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den fattiges frender hater ham alle; enda mere holder hans venner sig borte fra ham. Han jager efter ord som ikke er \u00e5 finne."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den som vinner forstand, elsker sitt liv; den som holder fast ved visdom, finner lykke."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Et falskt vidne skal ikke bli ustraffet, og den som taler l\u00f8gn, skal omkomme."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vellevnet h\u00f8ver ikke for en d\u00e5re, enda mindre h\u00f8ver det for en tr\u00e6l \u00e5 herske over fyrster."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Et menneskes klokskap gj\u00f8r ham langmodig, og det er hans \u00e6re at han overser krenkelser."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "En konges vrede er som l\u00f8vens br\u00f8l, men hans yndest som dugg p\u00e5 urter."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "En uforstandig s\u00f8nn er bare til ulykke for sin far, og en kvinnes tretter er et stadig takdrypp."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hus og gods er en arv fra foreldre, men en forstandig kvinne er en gave fra Herren."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Dovenskap senker i dyp s\u00f8vn, og den late skal hungre."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Den som holder budet, holder sig selv i live; den som ikke akter p\u00e5 sin ferd, skal miste sitt liv."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Den som forbarmer sig over den fattige, l\u00e5ner til Herren, og Herren skal gjengjelde ham hans velgjerning."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tukt din s\u00f8nn, for det er ennu h\u00e5p; men la dig ikke drive til \u00e5 drepe ham!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Den hvis vrede er stor, b\u00f8r b\u00f8te; for dersom du hjelper ham, f\u00e5r du gj\u00f8re det atter og atter."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "H\u00f8r p\u00e5 r\u00e5d og ta imot tukt, s\u00e5 du kan bli vis til slutt!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Det er mange tanker i en manns hjerte, men Herrens r\u00e5d skal f\u00e5 fremgang."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Et menneskes miskunnhet er hans glede, og en fattig er lykkeligere enn en stormann som lyver."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Herrens frykt f\u00f8rer til liv, og mett f\u00e5r en g\u00e5 til hvile uten \u00e5 bli hjems\u00f8kt med ulykke."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den late stikker sin h\u00e5nd i fatet, men f\u00f8rer den ikke engang tilbake til sin munn."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Sl\u00e5 spotteren, s\u00e5 vil den uforstandige bli klok; vis den forstandige til rette, s\u00e5 vil han komme til innsikt og kunnskap."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Den som bruker vold mot sin far og jager sin mor bort, er en d\u00e5rlig, en skaml\u00f8s s\u00f8nn."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Hold op, min s\u00f8nn, med \u00e5 h\u00f8re p\u00e5 formaning, n\u00e5r du allikevel bare forviller dig bort fra kunnskaps ord!"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Et ugudelig vidne spotter det som rett er, og de gudl\u00f8ses munn sluker urett."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Straffedommer er fastsatt for spotterne og pryl for d\u00e5rers rygg."
+                }
+            }
+        },
+        "20": {
+            "chapter_nr": "20",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vinen er en spotter, sterk drikk volder st\u00f8i, og hver den som raver av den, blir ikke vis."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Den redsel en konge vekker, er som l\u00f8vens br\u00f8l; den som gj\u00f8r ham vred, spiller sitt liv."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Det er en \u00e6re for en mann at han holder sig borte fra trette, men enhver d\u00e5re viser tenner."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Om vinteren vil den late ikke pl\u00f8ie, derfor s\u00f8ker han forgjeves efter gr\u00f8de om h\u00f8sten."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tankene i en manns hjerte er et dypt vann, men en forstandig mann drar det op."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mange mennesker roper h\u00f8it, hver om sin kj\u00e6rlighet; men hvem finner vel en trofast mann?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den rettferdige vandrer i ustraffelighet; lykkelige er hans barn efter ham."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En konge som sitter p\u00e5 sitt dommersete, sikter og skiller ut alt ondt med sine \u00f8ine."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hvem kan si: Jeg har renset mitt hjerte, jeg er fri for min synd?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "To slags vektstener og to slags m\u00e5l - begge deler er en vederstyggelighet for Herren."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Allerede den unge gutt viser ved sine gjerninger om hans ferd vil bli ren og rett."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00d8ret som h\u00f8rer, og \u00f8iet som ser - Herren har skapt dem begge to."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Elsk ikke s\u00f8vn, forat du ikke skal bli fattig! Lukk dine \u00f8ine op, s\u00e5 f\u00e5r du br\u00f8d nok \u00e5 ete."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "D\u00e5rlig, d\u00e5rlig! sier kj\u00f8peren; men n\u00e5r han g\u00e5r bort, roser han sig."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Det er nok gull og perler i mengde, men kyndige leber er en kostelig ting."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ta hans kl\u00e6r, han har g\u00e5tt i borgen for en annen, og ta pant av ham for fremmedes skyld!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Br\u00f8d vunnet ved svik smaker mannen s\u00f8tt, men siden blir hans munn full av sm\u00e5sten."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Planer f\u00e5r fremgang ved r\u00e5dslagning; s\u00f8k veiledning ogs\u00e5 n\u00e5r du f\u00f8rer krig!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Den som g\u00e5r omkring som baktaler, \u00e5penbarer hemmeligheter, og med den som er \u00e5penmunnet, skal du ikke ha noget \u00e5 gj\u00f8re."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Den som banner sin far og sin mor, hans lampe skal slukne i belgm\u00f8rke."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "En arv som en fra f\u00f8rst av har revet til sig, blir til sist uten velsignelse."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Si ikke: Jeg vil gjengjelde med ondt! Bi p\u00e5 Herren, og han skal frelse dig!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "To slags vektstener er en vederstyggelighet for Herren, og falsk vekt er noget ondt."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Herren styrer mannens skritt; hvorledes skulde et menneske skj\u00f8nne sin vei?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Det er farlig for et menneske at han i tankel\u00f8shet vier noget til Gud og f\u00f8rst bakefter overveier sine l\u00f8fter."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "En vis konge skiller ut de ugudelige og lar hjulet g\u00e5 over dem."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Menneskets \u00e5nd er en Herrens lampe; den ransaker alle l\u00f8nnkammerne i hans indre."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Miskunnhet og sanndruhet er en vakt om kongen, og han st\u00f8tter sin trone ved miskunnhet."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "De unges pryd er deres kraft, og de gamles \u00e6re er de gr\u00e5 h\u00e5r."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Et tuktemiddel for de onde er buler og s\u00e5r og slag, som trenger inn i hjertets indre."
+                }
+            }
+        },
+        "21": {
+            "chapter_nr": "21",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kongens hjerte er som bekker i Herrens h\u00e5nd, han b\u00f8ier det dit han vil."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Alle en manns veier er rette i hans egne \u00f8ine, men Herren veier hjertene."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00c5 gj\u00f8re rett og skjel er mere verdt for Herren enn offer."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Stolte \u00f8ine og overmodig hjerte - de ugudeliges lampe blir dem til synd."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Den flittiges tanker f\u00f8rer bare til vinning, men hastverk bare til tap."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Rikdom som vinnes ved svikefull tunge, er et pust som blir borte i luften, og den f\u00f8rer til d\u00f8den."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De ugudeliges vold skal rykke dem selv bort, fordi de ikke vilde gj\u00f8re det som rett er."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Skyldtynget manns vei er kroket, men den renes ferd er \u00e6rlig."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bedre \u00e5 bo i et hj\u00f8rne p\u00e5 taket enn med trettekj\u00e6r kvinne i felles hus."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Den ugudeliges sjel har lyst til det onde; hans n\u00e6ste finner ikke barmhjertighet hos ham."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "N\u00e5r du straffer en spotter, blir den uforstandige vis, og n\u00e5r du l\u00e6rer en vis, tar han imot kunnskap."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Den Rettferdige gir akt p\u00e5 den ugudeliges hus; han styrter de ugudelige i ulykke."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Den som lukker sitt \u00f8re for den fattiges skrik, han skal selv rope, men ikke f\u00e5 svar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En gave i l\u00f8nndom stiller vrede, og en hemmelig for\u00e6ring stiller stor harme."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Det er en glede for den rettferdige \u00e5 gj\u00f8re rett, men en redsel for dem som gj\u00f8r urett."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Det menneske som forviller sig fra klokskaps vei, skal havne blandt d\u00f8dningene."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Fattig blir den som elsker glade dager; den som elsker vin og olje, blir ikke rik."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Den ugudelige blir l\u00f8sepenge for den rettferdige, og den trol\u00f8se kommer i de opriktiges sted."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Bedre \u00e5 bo i et \u00f8de land enn hos en arg og trettekj\u00e6r kvinne."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kostelige skatter og olje er det i den vises hus, men d\u00e5ren gj\u00f8r ende p\u00e5 det."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Den som jager efter rettferdighet og miskunnhet, han skal finne liv, rettferdighet og \u00e6re."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Den vise inntar de veldiges by og river ned det vern som den satte sin lit til."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Den som varer sin munn og sin tunge, frir sitt liv fra trengsler."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den som er overmodig og opbl\u00e5st, kalles en spotter; han farer frem i ustyrlig overmot."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Den lates attr\u00e5 dreper ham, fordi hans hender nekter \u00e5 arbeide."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Hele dagen attr\u00e5r og attr\u00e5r han, men den rettferdige gir og sparer ikke."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "De ugudeliges offer er en vederstyggelighet, og enda mere n\u00e5r de b\u00e6rer det frem og har ondt i sinne!"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Et l\u00f8gnaktig vidne skal omkomme, men en mann som h\u00f8rer efter, skal alltid f\u00e5 tale."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "En ugudelig mann ter sig frekt, men den opriktige g\u00e5r sin vei rett frem."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Det finnes ingen visdom og ingen forstand og intet r\u00e5d mot Herren."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Hesten gj\u00f8res ferdig for stridens dag, men seieren h\u00f8rer Herren til."
+                }
+            }
+        },
+        "22": {
+            "chapter_nr": "22",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Et godt navn er mere verdt enn stor rikdom; \u00e5 v\u00e6re godt likt er bedre enn s\u00f8lv og gull."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Rik og fattig m\u00f8tes; Herren har skapt dem begge."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Den kloke ser ulykken og skjuler sig, men de uerfarne g\u00e5r videre og m\u00e5 b\u00f8te."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "L\u00f8nn for saktmodighet og gudsfrykt er rikdom og \u00e6re og liv."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Torner og snarer er der p\u00e5 den falskes vei; den som varer sitt liv, holder sig borte fra dem."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "L\u00e6r den unge den vei han skal g\u00e5! S\u00e5 viker han ikke fra den, selv n\u00e5r han blir gammel."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den rike hersker over de fattige, og l\u00e5ntageren blir l\u00e5ngiverens tr\u00e6l."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den som s\u00e5r urett, skal h\u00f8ste ondt, og med hans vredes ris skal det v\u00e6re forbi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Den som har et godt hjerte, blir velsignet fordi han gav den fattige av sitt br\u00f8d."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jag spotteren bort! S\u00e5 g\u00e5r tretten med, og kiv og skam h\u00f8rer op."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Den som elsker hjertets renhet, og hvis tale er tekkelig, han har kongen til venn."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Herrens \u00f8ine verner den forstandige, men han gj\u00f8r den trol\u00f8ses ord til intet."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Den late sier: Det er en l\u00f8ve der ute, jeg kunde bli drept midt p\u00e5 gaten."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Fremmed kvinnes munn er en dyp grav; den Herren er vred p\u00e5, faller i den."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "D\u00e5rskap er bundet fast til den unges hjerte; tuktens ris driver den bort."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00c5 undertrykke den fattige tjener bare til \u00e5 \u00f8ke hans gods; \u00e5 gi til den rike volder ham bare tap."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "B\u00f8i ditt \u00f8re til og h\u00f8r p\u00e5 vismenns ord og vend ditt hjerte til min kunnskap!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "For det er godt at du bevarer dem i ditt indre, og at de alle henger fast ved dine leber."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Forat du skal sette din lit til Herren, l\u00e6rer jeg dig idag, nettop dig."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Har jeg ikke skrevet for dig kjernesprog med r\u00e5d og kunnskap"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "for \u00e5 kunngj\u00f8re dig det som rett er, sannhets ord, s\u00e5 du kan svare dem som sender dig, med sanne ord?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "R\u00f8v ikke fra en fattig, fordi han er fattig, og tred ikke armingen ned i byporten!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "For Herren skal f\u00f8re deres sak, og han skal ta deres liv som tar noget fra dem."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Hold dig ikke til venns med en som er snar til vrede, og gi dig ikke i lag med en hastig mann,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "forat du ikke skal l\u00e6re dig til \u00e5 g\u00e5 p\u00e5 hans veier og f\u00e5 satt en snare for ditt liv!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "V\u00e6r ikke blandt dem som gir h\u00e5ndslag, dem som borger for gjeld!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "N\u00e5r du intet har \u00e5 betale med, hvorfor skal de da ta din seng bort under dig?"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Flytt ikke det gamle grenseskjell som dine fedre har satt!"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Ser du en mann som er duelig i sin gjerning - han kan komme til \u00e5 tjene konger; han kommer ikke til \u00e5 tjene sm\u00e5folk."
+                }
+            }
+        },
+        "23": {
+            "chapter_nr": "23",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "N\u00e5r du sitter til bords med en fyrste, da skal du n\u00f8ie akte p\u00e5 hvem du har for dig,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "og sette en kniv p\u00e5 din strupe, hvis du er gr\u00e5dig."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "V\u00e6r ikke lysten efter hans fine retter, for det er mat som kan svike!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Gj\u00f8r dig ikke m\u00f8ie for \u00e5 bli rik, la s\u00e5dan klokskap fare!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "N\u00e5r du vender dine \u00f8ine mot rikdommen, s\u00e5 er den borte. For den gj\u00f8r sig visselig vinger, lik en \u00f8rn som flyver mot himmelen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Et ikke den misunneliges br\u00f8d, og v\u00e6r ikke lysten efter hans fine mat!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "For som han tenker i sin sjel, s\u00e5 er han; et og drikk, sier han til dig, men hans hjerte er ikke med dig."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den matbit som du har ett, den vil du spy ut, og du har spilt dine vakre ord."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tal ikke for d\u00e5rens \u00f8rer, for han forakter dine forstandige ord!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Flytt ikke det gamle grenseskjell, og kom ikke inn p\u00e5 farl\u00f8ses marker!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "For deres l\u00f8ser er sterk, han skal f\u00f8re deres sak mot dig."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "B\u00f8i ditt hjerte til tukt og dine \u00f8rer til kunnskaps ord!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La ikke den unge v\u00e6re uten tukt! N\u00e5r du sl\u00e5r ham med riset, skal han ikke d\u00f8."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Du sl\u00e5r ham med riset, men du frelser hans sjel fra d\u00f8dsriket."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Min s\u00f8nn! Er ditt hjerte vist, s\u00e5 skal ogs\u00e5 mitt hjerte glede sig,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "og jeg skal juble i mitt indre n\u00e5r dine leber taler det som rett er."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "La ikke ditt hjerte v\u00e6re nidkj\u00e6rt mot syndere, men alltid nidkj\u00e6rt for Herrens frykt!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Sannelig, det er en fremtid for dig, og ditt h\u00e5p skal ikke bli til intet."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "H\u00f8r, min s\u00f8nn, og bli vis og la ditt hjerte g\u00e5 bent frem p\u00e5 veien!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "V\u00e6r ikke blandt vindrikkere, blandt dem som fr\u00e5tser i kj\u00f8tt!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "For drankeren og fr\u00e5tseren blir fattig, og s\u00f8vn kl\u00e6r mannen i filler."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "H\u00f8r p\u00e5 din far, som gav dig livet, og forakt ikke din mor n\u00e5r hun er blitt gammel!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kj\u00f8p sannhet og selg den ikke, kj\u00f8p visdom og tukt og forstand!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den rettferdiges far skal juble; den som f\u00e5r en vis s\u00f8nn, skal glede sig over ham."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "La din far og din mor glede sig, og la henne som f\u00f8dte dig, juble!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Min s\u00f8nn! Gi mig ditt hjerte, og la dine \u00f8ine ha lyst til mine veier!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "For skj\u00f8gen er en dyp grav, og den fremmede kvinne en trang br\u00f8nn;"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "ja, hun ligger p\u00e5 lur som en r\u00f8ver, og hun \u00f8ker tallet p\u00e5 de trol\u00f8se blandt menneskene."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Hvem roper: Akk? Hvem roper: Ve? Hvem har trette? Hvem har klage? Hvem har s\u00e5r for ingen ting? Hvem har r\u00f8de \u00f8ine?"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "De som sitter lenge oppe ved vinen, de som kommer for \u00e5 pr\u00f8ve den krydrede drikk."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Se ikke til vinen, hvor r\u00f8d den er, hvorledes den perler i begeret, hvor lett den g\u00e5r ned!"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Til sist biter den som en slange og hugger som en huggorm;"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "dine \u00f8ine vil se efter fremmede kvinner, og ditt hjerte tale forvendte ting,"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "og du blir lik en som sover midt ute p\u00e5 havet, lik en som sover i toppen av en mast."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "[Du vil si:] De banket mig, det gjorde ikke ondt; de st\u00f8tte mig, jeg kjente det ikke. N\u00e5r skal jeg v\u00e5kne? Jeg vil se \u00e5 f\u00e5 tak i enda mere."
+                }
+            }
+        },
+        "24": {
+            "chapter_nr": "24",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u00e6r ikke misunnelig p\u00e5 onde mennesker, og ha ikke lyst til \u00e5 v\u00e6re med dem!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "For deres hjerte tenker bare p\u00e5 \u00e5 \u00f8delegge, og deres leber taler ulykke."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ved visdom bygges et hus, og ved forstand blir det trygget,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "og ved kunnskap fylles kammerne med all slags kostelig og herlig gods."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "En vis mann er sterk, og en kyndig mann \u00f8ker sin kraft."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Du skal s\u00f8ke veiledning n\u00e5r du f\u00f8rer krig; hvor det er mange r\u00e5dgivere, er det frelse."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Visdom er for h\u00f8i for d\u00e5ren; i byporten lukker han ikke sin munn op."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den som tenker ut onde r\u00e5d, blir kalt en renkesmed."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "D\u00e5rskaps r\u00e5d er synd, og en spotter er en vederstyggelighet blandt folk."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Viser du dig motl\u00f8s p\u00e5 trengselens dag, s\u00e5 er din kraft ringe."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Frels dem som hentes til d\u00f8den, og hold tilbake dem som f\u00f8res skjelvende bort til retterstedet!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "N\u00e5r du sier: Se, vi visste ikke noget om det, mon da ikke han skj\u00f8nner det, han som veier hjertene, og han som gir akt p\u00e5 din sjel, mon ikke han vet det og gjengjelder enhver efter hans gjerninger?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Et honning, min s\u00f8nn, for den er god, og fin honning er s\u00f8t for din gane!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Akt visdommen like s\u00e5 gagnlig for din sjel! Har du funnet den, s\u00e5 er det en fremtid for dig, og ditt h\u00e5p skal ikke bli til intet."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Lur ikke som en ugudelig p\u00e5 den rettferdiges bolig, \u00f8delegg ikke hans hjem!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "For syv ganger faller den rettferdige og st\u00e5r op igjen, men de ugudelige kastes over ende n\u00e5r ulykken kommer."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "N\u00e5r din fiende faller, m\u00e5 du ikke glede dig, og n\u00e5r han snubler, m\u00e5 ikke ditt hjerte fryde sig,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "forat ikke Herren skal se det og mislike det, s\u00e5 han vender sin vrede fra ham."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "La ikke din vrede optendes over de onde, bli ikke harm over de ugudelige!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "For de onde har ingen fremtid, de ugudeliges lampe slukner."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Frykt Herren, min s\u00f8nn, og kongen! Med folk som setter sig op mot dem, m\u00e5 du ikke ha noget \u00e5 gj\u00f8re;"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "for ulykken kommer br\u00e5tt over dem, og \u00f8deleggelsen fra dem begge - hvem kjenner den?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ogs\u00e5 disse ordsprog er av vismenn: Dommeren b\u00f8r ikke gj\u00f8re forskjell p\u00e5 folk."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den som sier til den skyldige: Du er uskyldig, ham vil folkeslagene forbanne, ham vil folkene \u00f8nske ondt over;"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "men dem som straffer ham, skal det g\u00e5 vel, og lykke og velsignelse skal komme over dem."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kyss p\u00e5 leber gir den som svarer med rette ord."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Fullf\u00f8r din gjerning der ute og gj\u00f8r den ferdig p\u00e5 marken! Siden kan du bygge ditt hus."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "V\u00e6r ikke vidne mot din n\u00e6ste uten \u00e5rsak! Eller skulde du gj\u00f8re svik med dine leber?"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Si ikke: Som han har gjort mot mig, s\u00e5ledes vil jeg gj\u00f8re mot ham; jeg vil gjengjelde enhver efter hans gjerninger."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Jeg kom g\u00e5ende forbi en lat manns mark, et uforstandig menneskes ving\u00e5rd,"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "og se, den var helt overgrodd med tistler; nesler skjulte dens bunn, og stengjerdet om den var revet ned."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Og jeg, jeg blev det var, jeg gav akt p\u00e5 det; jeg s\u00e5 det og tok l\u00e6rdom av det:"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "[Sier du:] La mig ennu sove litt, blunde litt, folde mine hender litt og hvile -"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "s\u00e5 kommer armoden over dig som en landstryker, og n\u00f8den som en mann med skjold."
+                }
+            }
+        },
+        "25": {
+            "chapter_nr": "25",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ogs\u00e5 dette er Salomos ordsprog, som Judas konge Esekias&#39; menn har samlet:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Det er Guds \u00e6re \u00e5 skjule en sak , men kongers \u00e6re \u00e5 granske en sak."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Himmelens h\u00f8ide, jordens dybde og kongers hjerter er uransakelige."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Skill slagget fra s\u00f8lvet, s\u00e5 f\u00e5r gullsmeden et kar ut av det."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "F\u00f8r den ugudelige bort fra kongens \u00e5syn, s\u00e5 blir hans trone trygget ved rettferdighet."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bryst dig ikke for kongens \u00e5syn og still dig ikke p\u00e5 de stores plass!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "For det er bedre de sier til dig: Kom her op, enn at du blir flyttet ned for en stormann, som du hadde sett."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Gi dig ikke for hastig i strid med nogen, forat det ikke skal sies: Hvad vil du gj\u00f8re til slutt n\u00e5r motparten vinner saken til din skam?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "F\u00f8r din sak mot din motpart, men \u00e5penbar ikke annen manns hemmelighet,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "forat ikke den som h\u00f8rer det, skal skjelle dig ut, og ditt d\u00e5rlige rykte vare ved!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Som epler av gull i sk\u00e5ler av s\u00f8lv er et ord talt i rette tid."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Som en ring av gull, som et smykke av fint gull er en vismann som taler refsende ord for et h\u00f8rende \u00f8re."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Som kj\u00f8lende sne i h\u00c3\u00b8stens tid er et p\u00c3\u00a5litelig sendebud for den som sender ham; han vederkveger sin herres sjel."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Som skyer og vind uten regn er den mann som skryter av at han vil gi, men ikke holder ord."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ved saktmodighet blir en fyrste overtalt, og en mild tunge knuser ben."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Har du funnet honning, s\u00e5 et av den det du trenger, forat du ikke skal bli lei av den og spy den ut!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Sett sjelden din fot i din venns hus, forat han ikke skal bli lei av dig og hate dig!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Som en hammer, et sverd, en hvass pil er en mann som f\u00f8rer falskt vidnesbyrd mot sin n\u00e6ste."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Som en skj\u00f8r tann og en vaklende fot er tillit til den trol\u00f8se p\u00e5 n\u00f8dens dag."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Lik den som legger av sine kl\u00e6r p\u00e5 en vinterdag, lik eddik p\u00e5 pottaske er den som synger viser for et sorgfullt hjerte."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Hungrer din fiende, s\u00e5 gi ham br\u00f8d \u00e5 ete, og t\u00f8rster han, s\u00e5 gi ham vann \u00e5 drikke!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "For da sanker du gloende kull p\u00e5 hans hode, og Herren skal gjengjelde dig det."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Nordenvind f\u00f8der regn, og en tunge som hvisker i l\u00f8nndom, volder sure miner."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Bedre \u00e5 bo i et hj\u00f8rne p\u00e5 taket enn med trettekj\u00e6r kvinne i felles hus."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Som friskt vann for den trette er en god tidende fra et fjernt land."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Som en grumset kilde og en utskjemt br\u00f8nn er en rettferdig som gir efter for en ugudelig."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u00c5 ete for meget honning er ikke godt, og grubleres \u00e6re er tung."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Som en by hvis murer er brutt ned og borte, er en mann som ikke kan styre sitt sinn."
+                }
+            }
+        },
+        "26": {
+            "chapter_nr": "26",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Som sne om sommeren og som regn i h\u00f8sttiden, slik h\u00f8ver \u00e6re for en d\u00e5re."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Som spurven i fart, som svalen i flukt, slik er det med en uforskyldt forbannelse - den rammer ikke."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Svepe for hesten, t\u00f8mme for asenet, og kjepp for d\u00e5rers rygg!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Svar ikke d\u00e5ren efter hans d\u00e5rskap, forat du ikke selv skal bli ham lik!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Svar d\u00e5ren efter hans d\u00e5rskap, forat han ikke skal bli vis i egne \u00f8ine!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Den som sender bud med en d\u00e5re, han hugger f\u00f8ttene av sig, han m\u00e5 t\u00e5le slem medfart."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Visne henger benene p\u00e5 den lamme og likes\u00e5 ordsprog i munnen p\u00e5 d\u00e5rer."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Lik den som legger sten i slyngen, er den som gir en d\u00e5re \u00e6re."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Som en torn i en drukken manns h\u00e5nd, slik er et ordsprog i d\u00e5rers munn."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "En mester f\u00e5r alt i stand, men den som leier en d\u00e5re, er lik den som leier en som g\u00e5r forbi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Lik hunden som vender tilbake til sitt eget spy, er en d\u00e5re som kommer igjen med sin d\u00e5rskap."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ser du en mann som er vis i egne \u00f8ine - det er mere h\u00e5p for d\u00e5ren enn for ham."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Den late sier: Det er en l\u00f8ve p\u00e5 veien, en l\u00f8ve i gatene."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "D\u00f8ren dreier sig p\u00e5 sitt hengsel, og den late snur sig p\u00e5 sitt leie."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Den late stikker sin h\u00e5nd fatet; han gider ikke f\u00f8re den tilbake til sin munn."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Den late er visere i egne \u00f8ine enn syv som svarer med forstand."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Lik den som tar fatt i \u00f8ret p\u00e5 en hund som l\u00f8per forbi, er den som lar sig egge til vrede over en trette som ikke kommer ham ved."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Lik en gal mann som kaster ut brandpiler og skyter og dreper,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "er en mann som har sveket sin venn og s\u00e5 sier: Jeg sp\u00f8ker jo bare!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "N\u00e5r det er forbi med veden, slukner ilden, og n\u00e5r det ingen \u00f8retuter er, stilles trette."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Som kull blir til gl\u00f8r, og som ved n\u00e6rer ild, slik voldes kiv av en trettekj\u00e6r mann."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "En \u00f8retuters ord er som velsmakende retter, og de trenger ned i hjertets indre."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Lik et lerkar som er overdratt med bly-glette, er brennende leber sammen med et ondt hjerte."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Med sine leber skaper den hatefulle sig til, men i sitt indre gjemmer han svik."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "N\u00e5r han gj\u00f8r sin r\u00f8st blid, s\u00e5 tro ham ikke! For der er syv vederstyggeligheter i hans hjerte."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Den hatefulle skjuler sig i svik, men hans ondskap blir \u00e5penbar i forsamlingen."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Den som graver en grav, skal falle i den, og den som velter en sten op, p\u00e5 ham skal den rulle tilbake."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "En l\u00f8gnaktig tunge hater dem som den har knust, og en falsk munn volder fall."
+                }
+            }
+        },
+        "27": {
+            "chapter_nr": "27",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ros dig ikke av den dag imorgen, for du vet ikke hvad dagen vil f\u00f8de!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "La en annen rose dig og ikke din egen munn, en fremmed og ikke dine egne leber!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Stenen er tung, og sanden veier meget, men d\u00e5rens harme er tyngre enn begge."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vrede er fryktelig, og harme er som en flom; men hvem kan st\u00e5 sig mot avind?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00c5penlys irettesettelse er bedre enn kj\u00e6rlighet som skjules."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Trofaste er vennens slag, men trol\u00f8se er fiendens kyss."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den mette vraker honning, men for den sultne er alt bittert s\u00f8tt."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Lik en spurv som flyver omkring borte fra sitt rede, er en mann som vanker om borte fra sitt hjem."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Olje og r\u00f8kelse gleder hjertet, og likes\u00e5 en venns \u00f8mhet og opriktige r\u00e5d."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Forlat ikke din venn og din fars venn, og kom ikke i din brors hus den dag du er i n\u00f8d! En granne n\u00e6r ved er bedre enn en bror langt borte."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "V\u00e6r vis, min s\u00f8nn, og gled mitt hjerte, s\u00e5 jeg kan svare den som h\u00e5ner mig!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Den kloke ser ulykken og skjuler sig; de uerfarne g\u00e5r videre og m\u00e5 b\u00f8te."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ta hans kl\u00e6r, han har g\u00e5tt i borgen for en annen, og ta pant av ham for en fremmed kvinnes skyld!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Den som velsigner sin venn med h\u00f8i r\u00f8st tidlig om morgenen, ham skal det regnes som en forbannelse."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Et stadig takdrypp p\u00e5 en regndag og en trettekj\u00e6r kvinne ligner hverandre."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Den som holder p\u00e5 henne, holder p\u00e5 vind, og hans h\u00f8ire h\u00e5nd griper i olje."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jern skjerpes ved jern, og en mann slipes ved \u00e5 omg\u00e5s andre."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Den som passer sitt fikentre, f\u00e5r ete dets frukt, og den som tar vare p\u00e5 sin herre, blir \u00e6ret."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Likesom ansikt speiler sig mot ansikt i vannet, s\u00e5 finner det ene menneske sitt hjerte igjen hos det andre."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "D\u00f8dsriket og avgrunnen blir ikke mette, og menneskenes \u00f8ine blir heller ikke mette."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Digel er for s\u00f8lv og ovn for gull, og en mann pr\u00f8ves efter det han roser."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Om du st\u00f8ter d\u00e5ren i morteren med st\u00f8teren midt iblandt grynene, s\u00e5 viker hans d\u00e5rskap allikevel ikke fra ham."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Du b\u00f8r n\u00f8ie kjenne dine f\u00e5rs utseende; ha omsorg for din buskap!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "For gods varer ikke til evig tid, og en krone ikke gjennem alle slekter."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "N\u00e5r h\u00f8iet er borte, og det unge gress kommer til syne, og fjellgresset samles inn,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "s\u00e5 har du lam til kl\u00e6r og bukker til \u00e5 kj\u00f8pe aker for,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "og du har gjetemelk nok til f\u00f8de for dig og ditt hus og til livsophold for dine piker."
+                }
+            }
+        },
+        "28": {
+            "chapter_nr": "28",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "De ugudelige flyr uten at nogen forf\u00f8lger dem; men de rettferdige er trygge som ungl\u00f8ven."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "For et lands frafalls skyld blir dets fyrster mange; men n\u00e5r menneskene er kloke og f\u00f8rstandige, s\u00e5 lever fyrsten lenge."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "En fattig mann som undertrykker sm\u00e5folk, er et regn som skyller bort kornet, s\u00e5 der ikke blir br\u00f8d."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "De som ikke f\u00f8lger loven, priser de ugudelige, men de som holder loven, strider mot dem."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Onde mennesker skj\u00f8nner ikke hvad rett er, men de som s\u00f8ker Herren, skj\u00f8nner alt."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bedre er en fattig som vandrer i ustraffelighet, enn en falsk som vandrer p\u00e5 to veier, selv om han er rik."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den som f\u00f8lger loven, er en forstandig s\u00f8nn; men den som holder vennskap med svirebr\u00f8dre, gj\u00f8r sin far skam."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den som \u00f8ker sitt gods ved rente og ved overm\u00e5l, han samler for den som forbarmer sig over de fattige."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Om en vender sitt \u00f8re bort og ikke vil h\u00f8re loven, er endog hans b\u00f8nn en vederstyggelighet."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Den som f\u00f8rer de opriktige vill p\u00e5 en ond vei, skal falle i sin egen grav; men de ustraffelige skal arve det som godt er."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "En rik mann er vis i sine egne \u00f8ine; men en fattig som er forstandig, gjennemskuer ham."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "N\u00e5r de rettferdige jubler, er alt herlighet og glede; men n\u00e5r de ugudelige kommer sig op, m\u00e5 en lete efter folk."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Den som skjuler sine misgjerninger, har ingen lykke, men den som bekjenner dem og vender sig fra dem, finner miskunnhet."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Salig er det menneske som alltid frykter; men den som forherder sitt hjerte, faller i ulykke."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En br\u00f8lende l\u00f8ve, en omfarende bj\u00f8rn, slik er en ugudelig hersker over et fattig folk."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Du fyrste som er fattig p\u00e5 forstand og rik p\u00e5 vold! De som hater urettferdig vinning, skal leve lenge."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Et menneske som trykkes av blodskyld, er p\u00e5 flukt like til sin grav; ingen m\u00e5 holde p\u00e5 ham."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Den som lever ustraffelig, skal frelses; men den falske, som vandrer p\u00e5 to veier, skal falle p\u00e5 den ene."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Den som dyrker sin jord, mettes med br\u00f8d; men den som jager efter tomme ting, mettes med armod."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "En trofast mann f\u00e5r rik velsignelse; men den som haster efter \u00e5 bli rik, han blir ikke ustraffet."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00c5 gj\u00f8re forskjell p\u00e5 folk er ikke rett, men mangen mann forsynder sig for et stykke br\u00f8ds skyld."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Den misunnelige haster engstelig efter gods og vet ikke at mangel skal komme over ham."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Den som irettesetter et menneske, skal siden finne mere yndest enn den som gj\u00f8r sin tunge glatt."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den som plyndrer sin far og sin mor og sier: Det er ingen synd, han er en stallbror til \u00f8deleggeren."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Den havesyke vekker trette; men den som setter sin lit til Herren, skal trives."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Den som setter sin lit til sin forstand, han er en d\u00e5re; men den som vandrer i visdom, han blir frelst."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Den som gir til den fattige, skal ikke lide mangel; men den som lukker sine \u00f8ine, f\u00c3\u00a5r mange forbannelser."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "N\u00e5r de ugudelige kommer sig op, skjuler folk sig; men n\u00e5r de omkommer, blir der mange rettferdige."
+                }
+            }
+        },
+        "29": {
+            "chapter_nr": "29",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "En mann som er ofte straffet og allikevel gj\u00f8r sin nakke stiv, vil i et \u00f8ieblikk bli s\u00f8nderbrutt, og der er ingen l\u00e6gedom."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "N\u00e5r de rettferdige kommer til makten, gleder folket sig; men n\u00e5r en ugudelig mann hersker, sukker folket."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "En mann som elsker visdom, gleder sin far; men den som holder vennskap med skj\u00f8ger, \u00f8der sitt gods."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "En konge trygger sitt land ved rett; men en mann som tar imot gaver, bryter det ned."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "En mann som smigrer for sin n\u00e6ste, setter op et garn for hans fot."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "En ond manns misgjerning er en snare for ham, men den rettferdige skal juble og glede sig."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Den rettferdige tar sig av sm\u00e5folks sak; den ugudelige skj\u00f8nner sig ikke p\u00e5 noget."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Spottere egger op byen, men vismenn stiller vreden."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "N\u00e5r en vismann g\u00e5r i rette med en d\u00e5re, s\u00e5 blir d\u00e5ren vred og ler, og der blir ingen ro."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De blodt\u00f8rstige hater den ustraffelige, men de rettsindige s\u00f8ker \u00e5 redde hans liv."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "All sin vrede lar d\u00e5ren str\u00f8mme ut, men den vise holder vreden tilbake og stiller den."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "N\u00e5r en hersker akter p\u00e5 l\u00f8gnens ord, blir alle hans tjenere ugudelige."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Den fattige og den som undertrykker ham, m\u00f8tes; Herren gir begges \u00f8ine deres lys."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En konge som d\u00f8mmer sm\u00e5folk rettferdig, hans trone st\u00e5r fast for alle tider."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ris og tukt gir visdom; men en gutt som er overlatt til sig selv, gj\u00f8r sin mor skam."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "N\u00e5r de ugudelige f\u00e5r makt, f\u00e5r synden makt; men de rettferdige skal se deres fall med glede."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tukt din s\u00f8nn, s\u00e5 skal han bli dig til glede og vederkvege din sjel!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Uten \u00e5penbaring blir folket t\u00f8ilesl\u00f8st; men lykkelig er den som holder loven."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ved ord lar en tr\u00e6l sig ikke tukte; for han skj\u00f8nner dem nok, men adlyder dem ikke."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Har du sett en mann som forhaster sig i sine ord - det er mere h\u00e5p for d\u00e5ren enn for ham."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Forkj\u00e6ler en sin tr\u00e6l fra ungdommen av, s\u00e5 vil han til sist v\u00e6re s\u00f8nn i huset."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Den som er snar til vrede, vekker trette, og en hastig mann gj\u00f8r ofte det som er ondt."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Et menneskes stolthet f\u00f8rer ham til fall, men den ydmyke vinner \u00e6re."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Den som deler med en tyv, hater sitt liv; han h\u00f8rer opropet til ed og gir allikevel ingen oplysning."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Menneskefrykt f\u00f8rer i snare, men den som setter sin lit til Herren, han blir berget."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Mange s\u00f8ker en herskers yndest, men fra Herren kommer en manns rett."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "En urettferdig mann er en vederstyggelighet for de rettferdige, og en vederstyggelighet for den ugudelige er den som lever rett."
+                }
+            }
+        },
+        "30": {
+            "chapter_nr": "30",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Agurs, Jakes s\u00f8nns ord og utsagn. S\u00e5 talte mannen til Itiel, til Itiel og Ukkal:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jeg er for ufornuftig til \u00e5 kalles menneske; manns forstand har jeg ikke."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jeg har ikke l\u00e6rt visdom og har ikke kunnskap om den Hellige."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hvem f\u00f3r op til himmelen og f\u00f3r ned? Hvem samlet v\u00e6ret i sine never? Hvem bandt vannet i et kl\u00e6de? Hvem satte alle jordens grenser? Hvad er hans navn, og hvad er hans s\u00f8nns navn? Du vet det jo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Alt Guds ord er rent; han er et skjold for dem som tar sin tilflukt til ham."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Legg ikke noget til hans ord, forat han ikke skal straffe dig, og du st\u00e5 som en l\u00f8gner!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "To ting beder jeg dig om, nekt mig dem ikke, f\u00f8r jeg d\u00f8r:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "La falskhet og l\u00f8gnens ord v\u00e6re langt borte fra mig! Gi mig ikke armod og heller ikke rikdom! La mig ete mitt tilm\u00e5lte br\u00f8d,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "forat jeg ikke n\u00e5r jeg blir mett, skal fornekte dig og si: Hvem er Herren? og ikke n\u00e5r jeg blir fattig, stjele og forbanne min Guds navn!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Baktal ikke en tjener for hans herre, forat han ikke skal banne dig, og du dra skyld over dig!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Der er en \u00e6tt som banner sin far og ikke velsigner sin mor,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "en \u00e6tt som er ren i sine egne \u00f8ine og dog ikke har tvettet sig for sitt eget skarn,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "en \u00e6tt - hvor stolte er ikke dens \u00f8ine, og dens \u00f8ielokk, hvor hever de sig ikke! -"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "en \u00e6tt hvis tenner er sverd, og hvis jeksler er kniver, som eter arminger ut av landet og fattige ut av menneskenes tall."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Blodiglen har to d\u00f8tre: Gi hit! Gi hit! Der er tre som aldri blir mette, fire som aldri sier: Nok!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Det er d\u00f8dsriket og det ufruktbare morsliv, jorden, som aldri blir mett av vann, og ilden, som aldri sier: Nok!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Et \u00f8ie som spotter far og forakter lydighet mot mor, det skal ravnene ved bekken hakke ut, og \u00f8rneunger skal ete det."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Det er tre ting som er mig for underlige, og fire som jeg ikke skj\u00f8nner:"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00d8rnens vei p\u00e5 himmelen, ormens vei over stenen, skibets vei p\u00e5 havet og en manns vei til en jomfru."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Slik b\u00e6rer en horkvinne sig at: Hun eter og t\u00f8rker sin munn og sier: Jeg har ikke gjort noget ondt."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Under tre skjelver jorden, og under fire kan den ikke holde ut:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "under en tr\u00e6l n\u00e5r han blir konge, og en d\u00e5re n\u00e5r han blir mett av br\u00f8d,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "under en forsm\u00e5dd kvinne n\u00e5r hun blir gift, og en tjenestepike n\u00e5r hun arver sin frue."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Det er fire som er sm\u00e5 p\u00e5 jorden og allikevel overvettes vise:"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Maurene er ikke noget sterkt folk, og enda lager de sin f\u00f8de om sommeren;"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "fjellgrevlingene er ikke noget kraftig folk, og enda bygger de sitt hus i berget;"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "gresshoppene har ingen konge, og enda drar de alle ut, skare efter skare;"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "firfislen kan du gripe med hendene, og allikevel finnes den i kongelige palasser."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Det er tre som skrider vakkert frem, og fire som har en vakker gang:"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "L\u00f8ven, som er en helt blandt dyrene, og som ikke vender om for nogen,"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "hesten med gjord om lendene, bukken, og en konge i spissen for sitt folk."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Har du v\u00e6rt s\u00e5 uforstandig at du har oph\u00f8iet dig, eller har du tenkt p\u00e5 ondt, da legg h\u00e5nden p\u00e5 din munn!"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "For trykk p\u00e5 melk gir sm\u00f8r, og trykk p\u00e5 nese gir blod, og trykk p\u00e5 vrede gir trette."
+                }
+            }
+        },
+        "31": {
+            "chapter_nr": "31",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kong Lemuels ord, den l\u00e6rdom som hans mor innprentet ham:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hvad skal jeg si til dig, min s\u00f8nn, du mitt livs s\u00f8nn, du mine l\u00f8fters s\u00f8nn?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Gi ikke kvinner din kraft, og g\u00e5 ikke p\u00e5 veier som f\u00f8rer til \u00f8deleggelse for konger!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Det s\u00f8mmer sig ikke for konger, Lemuel, det s\u00f8mmer sig ikke for konger \u00e5 drikke vin, heller ikke for fyrster \u00e5 drikke sterk drikk,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "forat de ikke skal drikke og glemme hvad der er lov, og forvende retten for alle arminger."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Gi sterk drikk til den som er sin undergang n\u00e6r, og vin til den som er bedr\u00f8vet i sjelen!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "La ham f\u00e5 drikke, s\u00e5 han glemmer sin fattigdom og ikke mere kommer sin m\u00f8ie i hu!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Oplat din munn for den stumme, for alle deres sak som er n\u00e6r ved \u00e5 forg\u00e5!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Oplat din munn, d\u00f8m rettferdig og hjelp armingen og den fattige til hans rett!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "En god hustru - hvem finner henne? Langt mere enn perler er hun verd."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hennes manns hjerte liter p\u00e5 henne, og p\u00e5 vinning skorter det ikke."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hun gj\u00f8r ham godt og intet ondt alle sitt livs dager."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hun s\u00f8rger for ull og lin, og hennes hender arbeider med lyst."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hun er som en kj\u00f8bmanns skib; hun henter sitt br\u00f8d langveisfra."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hun st\u00e5r op mens det ennu er natt, og gir sine husfolk br\u00f8d og sine piker deres arbeid for dagen."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hun tenker p\u00e5 en mark og f\u00e5r den; for det hun tjener med sine hender, planter hun en ving\u00e5rd."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Hun omgjorder sine lender med kraft og gj\u00f8r sine armer sterke."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Hun merker at det g\u00e5r godt med hennes arbeid; hennes lampe slukkes ikke om natten."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hun legger sine hender p\u00e5 rokken, og hennes fingrer tar fatt p\u00e5 tenen."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hun \u00e5pner sin h\u00e5nd for den trengende og rekker ut sine hender til den fattige."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Hun frykter ikke sneen for sitt hus; for hele hennes hus er kl\u00e6dd i skarlagenfarvet ull."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Hun gj\u00f8r sig tepper; fint lin og purpur er hennes kl\u00e6dning."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Hennes mann er kjent i byens porter, der han sitter sammen med landets eldste."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Hun gj\u00f8r skjorter og selger dem, og belter leverer hun til kj\u00f8bmannen."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kraft og verdighet er hennes kl\u00e6debon, og hun ler av den kommende tid."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Hun oplater sin munn med visdom, og kj\u00e6rlig formaning er p\u00e5 hennes tunge."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Hun holder \u00f8ie med hvorledes det g\u00e5r til i hennes hus, og dovenskaps br\u00f8d eter hun ikke."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Hennes s\u00f8nner st\u00e5r op og priser henne lykkelig; hennes mann st\u00e5r op og roser henne:"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Det finnes mange dyktige kvinner, men du overg\u00e5r dem alle."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Ynde sviker, og skj\u00f8nnhet forg\u00e5r; en kvinne som frykter Herren, hun skal prises."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Gi henne av hennes arbeids frukt, og hennes gjerninger skal prise henne i byens porter."
+                }
+            }
+        }
+    }
+}

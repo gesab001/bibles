@@ -1,0 +1,955 @@
+{
+    "version": "SWN",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Haya ni maneno ya Mwalimu, mwana wa Daudi na mfalme katika Yerusalemu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mwalimu asema hivi, \u201cKama mvuke wa ukungu, kama upepo mwanana katika upepo, kila kitu hutoweka na kuacha maswali mengi."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ni faida gani wanadamu huipata kutoka katika kazi zote wazifanyazo chini ya jua?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kizazi kimoja huenda, na kizazi kingine huja, lakini nchi yabaki milele."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jua huchomoza na jua huzama na kwenda kwa kasi, na kurudi mahali linapochomozea tena."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Upepo huvuma kusini na huzunguka kasikazi, na mara zote ukizunguka katika njia yake na kurudi tena."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mito yote hutiririka katika bahari, lakini bahari haijai. Mahali mito inakoenda, ndiko inakoenda tena."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kila kitu huwa uchovu, na hakuna yeyote awezae kukielezea. Jicho halishibina kile linachokiona, wala sikio halishibi na kile linachosikia."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Chochote kilichopo ndicho kitakachokuwepo, kila kilichofanyika ndicho kitakachofanyika. Hakuna jipya chini ya jua."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Je kuna jambo lolote ambalo watu wanaweza kusema, 'Tazama, hili ni jipya'? Chochote kilichopo kimekwisha kuwepo muda mwingi, wakati uliokuwepo kabla yetu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hakuna anayeonekana kukumbuka kilichotokea nyakati za zamani. Na mambo yaliyo tokea siku zilizo pita na yale yatakayo tokea siku za mbele nayo hayatakumbukwa.\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mimi ni mwalimu, na nimekuwa mfalme juu ya Isareli katika Yerusalemu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nilitia akili yangu katika kusoma na kutafuta kwa hekima kila kitu kinachofanywa chini ya mbingu. Hili nalo ni jukumu zito ambalo Mungu amewapa wana wa watu kujishughulisha nalo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nimeona matendo yote ambayo yanafanyika chini ya jua, na tazama yote ni mvuke ni kujaribu kuuchunga upepo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Palipopinda hapawezi kunyoshwa! Kisicho kuwepo hakiwezi kuhesabiwa!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nimeuambia moyo wangu nikisema, \u201cTazama, nimepata hekima kubwa kuliko walioishi Yerusalemu kabla yangu. Akili yangu imeona hekima kubwa na ufahamu.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "nimetia moyo wangu kujua hekima na upumbuvu na ujinga. Nikagundua kuwa hili nalo pia lilikuwa ni kujaribu kuuchunga upepo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kwa kuwa katika wingi wa hekima kuna masumbufu mengi, naye aongezae ujuzi, aongeza masikitiko."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nikasema moyoni, \u201cNjoo, na nitakujaribu kwa kwa furaha. Kwa hiyo furahia.\u201d Lakini tazama, huu nao ulikuwa ni upepo wa muda."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nikasema juu ya kicheko, \u201cNi wazimu,\u201d na kuhusu furaha, \u201cYafaa nini?\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nikajipeleleza moyoni mwangu katika jinsi ya kutimiza hamu yangu kwa mvinyo. Nikaruhusu akili yangu iongozwe na hekima ingawa bado nilikuwa nikishikilia ujinga. Nilitaka kutafuta jambo lililo jema kwa wanadamu kufanya chini ya mbingu wakati wa siku za maisha yao."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nilitimiza mambo makubwa. Nilijenga nyumba kwa ajili yangu na kupanda miti ya mizabibu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nilitengeneza bustani na viwanja; nikapanda aina zote za matunda ndani yake."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nikatengeneza mabwawa ya maji ili kumwagilia msitu mahali miti ilikuwa imepandwa."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nilinunua watumwa wa kiume na wa kiume; nilikuwa na watumwa waliozaliwa katika ikulu yangu. Pia nikawa na makundi makubwa na wanyama wa kufugwa, zaidi ya mfalme yeyote aliyetawala kabla yangu katika Yerusalemu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pia nilijikusanyia fedha na dhahabu, hazina ya wafalme na majimbo. Nikapata waimbaji wanaume na wanawake kwa ajili yangu, na kufurahia kutoka kwa wana wa wanadamu, masulia na wanawake."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hivyo nikawa mkuu na tajiri kuliko wote waliokuwa Yerusalemu kabla yangu, na hekima yangu ilikuwa ndani yangu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Lolote ambalo macho yangu yalikitamani sikuyazuia. Sikuuzuia moyo wangu katika furaha yeyote, kwa sababu moyo wangu ulifurahi katika katka kazi yangu zote na furaha ilikuwa ni tunu kwa kazi zangu zote."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kisha nikatazama matendo yote ambayo mikono yangu iliyokwisha kuyatimiliza na juu ya kazi niliyokuwa nimeifanya, lakini tena, kila kitu kilikuwa ni mvuke na kujaribu kuuchunga upepo. Hakukuwa na faida chini ya jua."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kisha nikageuka kuipambanua hekima, na upumbavu na ujinga. Kwa maana ni kitu gani mfalme anayekuja baada yangu afanye, ambacho hakijafanyika?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kisha nikaanza kuelewa kwamba hekima ina faida kuliko upumbavu, kama nuru ilivyo bora kuliko giza."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mwenye hekima hutumia macho yake katika kichwa chake kuona mahali anakoenda, lakini mpumbavu hutembea katika giza, ingawa ninafahamu kuwa mwisho wa aina moja umetunzwa kwa kila mmoja."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kisha nikasema moyoni mwangu, \u201cKinachotokea kwa mpumbavu, ndicho kitachotokea na kwangu. Hivyo kuna utofauti gani kama mimi ni mwenye hekima sana?\u201d Nikahitimisha moyoni mwangu, \u201cHuu pia ni mvuke tu.\u201d"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kwa kuwa mwenye hekima, kama mpumbavu, hakumbukwi kwa muda mrefu. Katika siku zijazo, kila kitu kitakuwa kimesahauliwa. Mwenye hekima hufa kama navyokufa mpumbavu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Hivyo nikauchukia uhai kwa sababu kazi zote zilizofanyika chini ya jua zilikuwa mbaya kwangu. Hii ni kwa sababu kila kitu ni mvuke na kujaribu kuuchunga upepo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Nikachukia yote niliyoyatimiza, ambayo nilikuwa nimekwisha yafanya chini ya jua kwa sababu ni lazima niyaache kwa mtu anaye kuja baada yangu."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Na ni nani ajuaye kama atakuwa mwenye hekima au mpumbavu? Ila atakuwa msimamizi juu ya kila kitu chini ya jua ambayo kazi yangu na hekima yangu imeyajenga. Huu pia ni mvuke."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kwa hiyo moyo wangu ukaanza kukata tamaa juu ya kazi zote nilizozifanya chini ya jua."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kwa kuwa kunaweza kuwa na mtu anayefanya kazi kwa hekima, ufahamu, na umahili, lakini ataacha kila kitu alichonacho kwa mtu ambaye hajafanya chochote. Huu nao ni mvuke na hatari kubwa."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kwa maana ni faida gani mtu hupata ambaye hufanya kazi kwa juhudi na kujaribu moyoni mwake kutimiza kazi zake chini ya jua?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kila siku kazi yake ni maumivu na masikitiko, hivyo wakati wa usiku roho yake haipumziki. Huu pia ni mvuke."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Hakuna jambo jema kwa mtu yeyote zaidi ya kula na kunywa na kuridhika na kile kilichochema katika kazi yake. Nikaona kwamba ukweli huu unatoka kutoka mkononi mwa Mungu."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kwa kuwa ni nani anaweza kula au anaweza kupata furaha yoyote tofauti na Mungu?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kwa kuwa kwa kila anayemfurahisha yeye, Mungu humpa hekimana ufahamu ba furaha. Ingawa, kwa mwenye dhambi humpa kazi ya kukusanya na kutunza ili kwamba ampe mtu anayempendeza Mungu. Huu pia ni sawa na mvuke na kujaribu kuuchunga upepo."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kwa kuwa kila kitu na wakati wake, na majira kwa kila kusudi chini ya mbingu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kuna wakati wa kuzaliwa na wakati wa kufa, wakati wa kupanda na wakati wa kung'oa yaliyopandwa,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "wakati wa kuua na wakati wa kuponya, wakati wa kubomo na wakati wa kujenga."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kuna wakati wa kulia na wakati wa kucheka, wakati wa kuomboleza na wakati kucheza,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "wakati wa kutupa mawe na wakati wa kukusanya mawe, wakati wa kukumbatia watu wengine wakati wa kutokumbatia."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kuna wakati wa kutafuta vitu na wakati wa kutotafuta, wakati wa kutunza vitu na wakati wa kuvitupa,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "wakati kuchana mavazi na wakati wa kuyashona, wakati wa kunyamaza na wakati wa kuzungumza."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kuna wakati wa kupenda na wakati wa kuchukia, wakati wa vita na wakati wa amani."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ni faida gani mfanyakazi aipatayo katika kazi yake?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nimeona kazi ambayo Mungu amewapa wanadamu kuitimiza."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mungu amefanya kila kitu kufaa kwa wakati wake. Pia ameweka umilele ndani ya mioyo yao. Lakini mwanadamu hawezi kuelewa matendo ambayo Mungu ameyafanya, tangu mwanzo wao hadi mwisho."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ninajua kuwa hakuna kilicho bora kwa mtu yeyote kuliko kufurahi na kutenda mema maadamu anaishi-"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "na kwamba kila mmoja anapaswa ale na kunywa na anapaswa kuelewa jinsi ya kufurahia mazuri ambayo yanatoka katika kazi zake zote. Hii ni zawadi kutoka kwa Mungu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ninajua kwamba chochote afanyacho Mungu kinadumu milele. Hakuna kinaweza kuongezwa au kuondolea, kwa sababu Mungu ndiye aliyekifanya, ili kwamba watu wamsogelee kwa heshima."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Chochote kilichopo kimekwisha kuwepo; chochote kitakachokuwepo kimekwisha kuwepo. Mungu huwafanya wanadamu kutafuka vitu vilivyjificha."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Na nimeona kwamba chini ya jua ubaya upo mahali palipopaswa kuwa na haki, na sehemu ya haki mara nyingi ina ubaya."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nikasema moyoni mwangu, \u201cMungu atahukumu mwenye haki na mbaya kwa wakati muafaka kwa kila jambo na kila tendo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Nikasema moyoni mwangu, \u201cMungu huwajaribu wanadamu kuwaonyesha kwamba wao ni kama wanyama.\u201d"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kwa kuwa mwisho watoto wa wanadamu na mwisho wa wanyama ni sawa. Kifo cha mmoja ni sawa na kifo cha mwingine. Wote wana pumzi sawa. Hakuna faida kwa mwanadamu zaidi ya wanyama. Kwa kuwa hakuna kila kitu isipokuwa pumzi?"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kila kitu kinaenda sehemu moja. Kila kitu kinatoka mavumbini, na kila kitu kinarudi katika mavumbini."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ni nani ajuaye kama roho ya mwanadamu inaenda juu na roho ya wanyama inaenda chini ya nchi?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "kwa hiyo tena nikatambua kwamba hakuna lililo jema kwa yeyote zaidi ya kufurahia kazi yake, kwa kuwa hilo ndilo jukumu lake. Ni nani awezaye kumleta tena kuona kinachotokea baada yake?"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kisha tena nikafikiri kuhusu mateso yote yaliyo chini ya jua. Tazama machozi ya watu walioteswa. Hakuna anaye mfariji kwa ajili yao. Nguvu iko katika mikononi mwa watesaji, lakini wateswaji hawana mfariji."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hivyo nikawapongeza watu walio kufa, wale ambao tayari wamekufa, sio wanaoishi, wale ambao wako hai."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ingawa, bahati zaidi kuliko wote wawili ni yule ambaye hajaishi, yeye ambaye hajaona matendo yoyote mabaya ambayo yanafanyika chini ya jua."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kisha nikaona kwamba kila tendo la kazi na kila kazi ya utashi ikawa wivu wa jirani ya mtu. Huu pia ni mvuke na kujaribu kuchunga upepo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mpumbavu hukunja mikono yake na hafanyi kazi, hivyo chakula chake in mwili wake."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Lakini afadhari konzi ya faida pamoja na kazi ya haraka kuliko konzi mbili pamoja na kazi ambayo hujaribu kuuchunga upepo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kisha nikafikiri tena zaidi kuhusu ubatili, mvuke upoteao zaidi chini ya jua."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kuna aina ya mtu ambaye yuko peke yake. Hana mtu, hana mwana, wala ndugu. Hakuna mwisho wa kazi zake zote, na macho yake hayatosheki kwa kupata utajiri. Anashangaa, \u201cNinajishumbua na kuharibu furaha yangu kwa ajili ya nani?\u201d Huu pia ni mvuke, hali mbaya."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Watu wawili wanafanya vizuri zaidi ya mmoja; kwa pamoja wanaweza kupata malipo mazuri kwa ajili ya kazi yao."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kwa kuwa kama mmoja akianguka, mwingine anaweza kumwinua rafiki yake. Ingawa, huzuni humfuata yeye aliye peke yake anapoanguka kama hakuna mtu wa kumwinua."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Na kama wawili wakilala pamoja, wanaweza kupata joto, lakini mtu mmoja anawezaje kupata joto akiwa mwenyewe?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mtu akiwa peke yake anaweza kushindwa nguvu, lakini wawili wanaweza kusimama katika shambulio, na kama ya nyuzi tatu haikatika upesi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ni bora kuwa kijana masikini kuliko kuwa mfalme mzee na mpumbavu ambaye hajui jinsi ya kusikiliza maonyo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hii ni kweli hata kama mtu mdogo anapokuwa mfalme kutoka gerezani, au hata kama alizaliwa masikini katika ufalme wake."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ingawa, niliona kila mmoja aliye kuwa hai na kuzunguka chini ya jua wakijitia chini kwa kijana mdogo aliyeinuka kama mfalme."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hakuna mwisho kwa watu wote wanaotaka kumtii mfalme mpya, lakini wengi wao hawatamsifu yeye. Hakika hali hii ni mvuke na kujaribu kuuchunga upepo."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Linda mwenendo wako unapoenda kwenye nyumba ya Mungu. Nenda kule usikilize. Kusikiliza ni bora kuliko wapumbavu wanapotoa dhabihu wakati hawajuikuwa wanachofanya katika maisha ni kibaya."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Usiwe mwepesi wa kuongea kwa mdomo wako, na usiufanye moyo wako kuleta jambo lolote kwa haraka mbele za Mungu. Mungu yuko mbinguni, lakini uko chini, kwa hiyo maneno yako yawe machache."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kama una mambo mengi ya kufanya na kuhangaika, pengine utapata ndoto mbaya. Na pengine utaongea maneno mengi ya upumbavu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ukiweka nadhili kwa Mungu, usichelewe kuifanya, kwa kuwa Mungu hafurahii upumbavu. Fanya kile ulichoapa utakifanya."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ni bora kutokuweka nadhiri kuliko kuweka nadhiri ambayo usiyoiondoa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Usiuruhusu mdomo wako kusababisha mwili wako kutenda dhambi. Usiseme kwa mtumwa wa kuhani, \u201cKile kiapo kilikuwa kwa makosa.\u201d Kwani nini kumfanya Mungu akasirike kwa kuapa kwa uongo, kumchochea Mungu aharibu kazi ya mikono yako?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kwa kuwa katika ndoto nyingi, kama ilivyo katika maneno mengi, kuna mvuke ubatili. Hivyo mwogope Mungu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Unapomwona masikini akiteswa na kunyang'anywa haki na kutendewa vibaya katika jimbo lako, usishangae kama kwamba hakuna anaye fahamu, kwa sababu kuna watu katika mamlaka ambao hutazama, kuna hata walio juu yao."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kwa nyongeza uzalishaji wa ardhi ni kwa kila mmoja, na mfalme mwenyewe huchukua uzalishaji kutoka mashambani."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Yeyote apendaye fedha hatatosheka na fedha, na yeyote apendaye utajiri mara zote hutaka zaidi. Huu pia ni mvuke."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kadri mafanikio yanapoongezeka, ndivyo wanavyoongezeka watu wanaotumia. Kuna faida gani katika utajiri kwa mmiliki isipokuwa kuutazama kwa macho yake?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Usingizi wa mfanyakazi ni mtamu, kama anakula kidogo au sana, lakini utajiri wa mtu tajiri haumuruhusu yeye kulala vizuri."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kuna jambo baya zaidi ambalo nimeliona chini ya jua: mali iliyowekwa akiba na mwenye nayo, inamsababishia taabu mwenyewe."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Wakati tajiri anapopoteza utajiri wake kwa bahati mbaya, mwana wake, ambaye amemzaa, habakiziwi chochote mikononi mwake."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kama mtu azaliwavyo uchi kutoka tumboni mwa mamaye, vivyo hivyo ataondoka katika maisha haya akiwa uchi. Hachukui chochote kutoka katika kazi yake."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Jambo jingine baya kabisa, kama mtu alivyo kuja ni lazima aende vivyo hivyo. Hivyo ni faida gani mtu yeyote aipatayo katika kufanya kwa ajili ya upepo?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wakati wa siku zake anakula gizani na anafedheheshwa sana na magonjwa na hasira."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tazama, kile nilichokiona kuwa kizuri kufaaa ni kula na knywa na kufurahia faida kutoka katika kazi zetu zote, tuzifanyazo chini ya jua wakati wa siku za maisha haya ambayo Mungu ametupa. Kwa kuwa huu ni wajibu wa mtu."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Yeyote ambaye Mungu amempa mali na utajiri na uwezo wa kupokea sehemu yake na kufurahi katika kazi yake hii ni zawadi kutoka kwa Mungu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kwa kuwa mara kadhaa hakumbuki siku za maisha yake, kwa sababu Mungu anamfanya kuhangaika na mambo ambayo anafurahia kuyafanya."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kuna ubaya ambao nimeuona chini ya jua, na ni mbaya kwa watu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mungu anaweza kumpa mtu mali na utajiri na heshima kwa kiasi kwamba hakosi chochote anachokitamani mwenyewe, lakini kisha hampi uwezo wa kukifurahia. Badala yake mtu mwingine hutumia vitu vyake. Huu ni mvuke, teso baya."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kama mtu akizaa watoto mia moja na kuishi miaka mingi, ili kwamba siku za miaka yake ni nyingi, lakini kama moyo wake hautosheki kwa mema na hazikwi kwa heshima, kisha ninasema kwamba, mtoto aliyezaliwa akiwa amekufa ni bora kuliko alivyo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hata mtoto huyo amezaliwa bila faida na anapita katika giza, na jina lake linabaki limefichika."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ingawa mtoto huyu haoni jua au kujua kitu chochote, ana pumziko ingawa mtu huyo hakupumzika."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hata kama mtu akiishi miaka elfu mbili lakini hajifunzi kufuraia vitu vizuri, aenda sehemu moja kama mtu yeyote yule."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ingawa kazi yote ya mtu ni kujaza mdomo wake, ila hamu yake haishibi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hakika ni faida gani aliyo nayo mwenye hekima kuliko mpumbavu? Ni faida gani aliyo nayo masikini hata kama anajua jinsi ya kutenda mbele ya watu?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ni bora kuridhika na kile ambacho macho hukiona kuliko kutamani kile ambacho hamu isiyo tulia inatamani, ambayo pia ni mvuke na kujaribu kuuchunga upepo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Chochote ambacho kimekuwepo, tayari kimekwisha kupewa jina lake, na vile mtu alivyo ni kama tayari amekwisha fahamika. Hivyo imekuwa haifai kugombana na yule ambaye ni muhukumu mkuu wa wote."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Maneno mengi ambayo yanaongelewa, ndivyo yasiyo na maana yanaongezeka, kwa hiyo ni faida gani iliyopo kwa mwanadamu?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kwa kuwa ni nani ajuaye nini kilicho kizuri kwa mtu katika maisha yake wakati wa ubatili wake, siku zilizo hesabika ambazo kwa hizo anapita kama kivuri? Ni nina anayeweza kumwambia mtu kile kitakacho kuja chini ya jua baada ya kupita?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jina zuri ni bora kuliko manukato ya gharama, na siku ya kufa ni bora kuliko siku ya kuzaliwa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ni bora kwenda kwenye nyumba ya maombolezo kuliko nyumba ya karamu, kwa kuwa maombolezo huja kwa watu wote wakati wa mwisho wa uhai, kwa hiyo watu wanaoishi ni lazima waweke hili moyoni."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Huzuni ni bora kuliko kicheko, kwa kuwa baada ya uso wa huzuni huja furaha ya moyo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Moyo wa mwenye hekima uko katika nyumba ya maombolezo, lakini moyo wa wapumbavu uko katika nyumba ya karamu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ni bora kusikiliza maonyo ya mtu mwenye hekima kuliko kusikiliza wimbo wa wapumbavu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kwa kuwa kama mlio wa miiba chini ya chungu, ndivyo kilivyo kicheko cha wapumbavu. Huu pia ni mvuke."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "kweli jeuri humfanya mtu mwenye hekima kuwa mpumbavu, na rusha huharibu moyo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ni heri mwisho wa jambo kuliko mwanzo; na watu wenye uvumilivu ni bora kuliko wenye majivuno rohoni."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Usikasirike haraka rohoni mwako, kwa sababu hasira hukaa katika mioyo ya wapumbavu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Usiseme, \u201cKwa nini siku za zamani zilikuwa bora kuliko siku hizi?\u201d Kwa kuwa sio kwa sababu ya hekima kwamba unauliza swali hili."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hekima ni njema kama vitu vya thamani tunavyorithi kutoka kwa wazazi wetu. Inatoa faida kwa wale wanaoliona jua."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kwa kuwa hekima hutoa ulinzi kama vile fedha inavyoweza kutoa ulinzi, lakini faida ya maarifa ni kwamba hekima humpa uhai kwa yeyote aliye nayo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tafakaria matendo ya Mungu: Ni nani awezaye kuimarisha chochote alichokipindisha?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Wakati nyakati vinakuwa njema, ishi kwa furaha katika hali hiyo, lakini wakati unapokuwa mbaya, tafakari hili: Mungu ameruhusu hali zote ziwepo, Kwa sababu hii, hakuna mwanadamu yeyote atakaye fahamu chochote kinacho kuja baada yake."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nimeona mambo mengi katika siku zangu za ubatili. Kuna watu wenye haki ambao wanaangamia licha ya kwamba wana haki, na kuna watu waovu wanaoishi maisha marefu licha ya kwamba ni waovu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Usiwe mwenye haki katika macho yako mwenyewe. Kwa nini kujiharibu mwenyewe?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Usiwe mwovu sana au mpumbavu. Kwa nini ufe kabla ya wakati wako?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ni vyema kwamba ushike hekima hii, na kwamba usiache haki iende zake. Kwa kuwa mtu amchae Mungu atatimiza ahadi zake zote."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hekima ina nguvu ndani ya mwenye hekima, zaidi ya watawala kumi katika mji."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hakuna mtu mwenye haki juu ya nchi anayefanya mema na hatendi dhambi."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Usisikilize kila neno linaongelewa, kwa sababu unaweza kusikia mtumishi wako anakulaani."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Vivyo hivyo unafahamu mwenyewe ndani ya moyo wako umewalaani wengine mara kadhaa."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Haya yote nimeyathibitisha kwa hekima. Nikasema, \u201cnitakuwa mwenye hekima,\u201d lakini zaidi ambavyo ningekuwa."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Hekima i mbali na kina sana. Ni nani awezaye kuipata?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Nikageuza moyo wangu kujifunza kuchunguza na kutafuta hekima na ufafanuzi wa ukweli, na kufahamu kwamba ubaya ni ujinga na kwamba upumbavu ni wazimu."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Nikapata kufahamu kwamba uchungu kuliko kifo, ndivo alivyo mwanamke yeyote ambaye moyo wake umejaa mitego, na nyavu, na ambaye mikono yake ni minyororo. Yeyote ampendezaye Mungu ataponyoka kutoka kwake, lakini mwenye dhambi atachukuliwa naye."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u201cTafakari kile nilichovumbua,\u201d asema Mwalimu. \u201cNimekuwa nikiongeza uvumbuzi mmoja hadi mwingine ili kwamba nipate ufafanuzi wa ukweli."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Hii ndiyo bado natafuta, lakini bado sijapata. Sikupata mwanamme mmoja mwenye haki miongoni mwa elfu, lakini sikupata mwanamke miongoni mwa wale wote."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Nimegundua hili: kwamba Mungu alimuumba binadamu akiwa mnyoofu, lakini wametoka katika hali ya unyofu wakitafuta magumu mengi."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ni mtu gani mwenye hekima? Ambaye anafahamu matukio yana maana gani katika maisha? Hekima ndani ya mtu husababisha uso wake kung'ara, na ugumu wa uso wake hubadilika."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ninakushauri kuitii amri ya mfalme kwa sababu ya kiapo cha Mungu cha kumlinda yeye."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Usiharakishe kuondoka mbele ya uwepo wake, na usisimame kuunga mkono jambo lisilofaa, kwa kuwa mfalme anafanya chochote anacho tamani."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Neno la mfalme hutawala, kwa hiyo ni nani atakaye mwambia, 'Unafanya nini?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Yeyote ashikaye amri za mfalme hukwepa madhara. Moyo wa mwenye hekima hutambua mwelekeo muafaka na muda wa kuenda."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kwa kuwa kila jambo lina jibu sahihi, na wakati wa kujibu, kwa sababu taabu ya mtu ni kubwa."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hakuna anaye fahamu kinacho fuata. Ni nani awezaye kumwambia nini kinacho kuja?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hakuna mwenye uwezo juu ya roho aizuie roho; wala hana mamlaka juu ya siku ya kufa; wala hakuna kuruhusiwa katika vita vile; wala uovu hautamwokoa yule aliyeuzoea."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mambo hayo yote nimeyaona, nikatia moyo wangu katika kila kazi iliyofanyika chini ya jua. Kuna wakati ambapo mtu mmoja anayo mamlaka juu ya mwenziwe kwa hasira yake."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hivyo niliwaona wabaya wakizikwa hadharani. Waliondolewa mahali patakatifu na kuzikwa mahali waliposifiwa na watu katika mji walipokuwa wamefanya matendo maovu. Hii nayo haifai."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wakati hukumu dhidi ya tendo ovu haihukumiwi haraka, hushawishi mioyo ya wanadamu kutenda ubaya."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hata kama mwenye dhambi afanye uovu mara mia moja na bado aishi kwa muda mrefu, bado ninafahamu itakuwa vyema kwa wale wanao muheshimu Mungu, wanaouheshimu uwepo wake walio nao."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Lakini haitakuwa vyema kwa mtu mwovu; mkewe hatacheleweshwa. Siku zake kama kizuri kitowekacho upesi, kwa sababu hamuheshimu Mungu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kuna mvuke mwingine usio faa, jambo jingine linaofanyika juu ya dunia. Mambo hutokea kwa watu wenye haki kama yatokeavyo kwa watu waovu, na mambo hutokea kwa wenye haki kama yatokeavyo kwa waovu. Ninasema hili pia ni mvuke usiofaa."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kwa hiyo nikapendekeza furaha, kwa sababu mtu hana jambo bora chini ya jua zaidi ya kula na kunywa na kuwa na furaha. furaha ndiyo itamfuata katika kazi zake kwa siku zote za maisha yake ambayo Mungu amempa chini ya jua."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nikauweka moyo wangu kufamu hekima na kufahamu kazi inayofanyika juu ya nchi, kazi ambayo inafanyika mara nyingi pasipo kufumba macho usiku au mchana."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kisha nika tafakari matendo yote ya Mungu, na kwamba mtu hawezi kuelewa kazi inayofanyika chini ya jua. Bila kujali mtu anafanya kupata majibu, hatayapata. Ingawa mwenye hekima anaweza kuamini anajua, kitu kweli hajui."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kwa kuwa nilifikiri haya yote katika akili zangu kufahamu kuhusu watu wenye haki na wenye hekima na matendo yao. Wote wako katika mikono ya Mungu. Hakuna anayefahamu kama upendo au chuki itakuja kwa mtu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "kila mmoja ana mwisho sawa. Mwisho sawa una subiria watu wenye haki na waovu, wema, walio safi na wasio safi, yeye atoaye dhabibu na yule asiye dhabihu. Kama vile watu wema watakufa wenye dhambi nao watakufa vivyo hivyo. kama vile yule anayeapa atakavyo kufa, vivyo hivyo mtu yule aogopaye kuweka kiapo naye atakufa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kuna mwisho mwovu kwa kila kitu kinachofanyika chini ya jua, na mwisho kwa kila mtu. Moyo wa mwanadamu umejaa uovu, na wazimu uko katika mioyo yao wakati wanaishi. Hivyo baada ya hilo wanaenda kwa wafu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kwa kuwa yeyote anayeungana na wote walio hai kuna tumaini, kama vile mbwa aliye hai ni bora kuliko simba aliye kufa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kwa kuwa watu walio hai, lakini walio kufa hawajui chochote. Hawana tena tuzo yeyote kwa sababu kumbukumbu yao imesahaulika."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Upendo wao, chuki na wivu vimekatiliwa mbali muda mwingi. Hawatapata sehemu katika kitu chochote kinachofanyika chini ya jua."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nenda zako, kula mkate wako kwa furaha, na kunywa mvinyo wako na moyo wa furaha, kwa kuwa Mungu huruhusu kusherehekea kazi njema."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nguo zako ziwe nyeupe siku zote, na kichwa chako kipake mafuta."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ishi kwa furaha na mwanamke umpendaye siku zako zote za maisha yako ya ubatili, siku ambazo Mungu amekupatia chini ya jua wakati wa siku zako za ubatili. Hiyo ni thawabu kwa ajili ya kazi yako chini ya jua."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Chochote mkono wako unakifanya, kifanye kwa nguvu zako kwa sababu hakuna kazi, au ufafanuzi au ujuzi au hekima katika"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nimeona baadhi ya vitu vyakuvutia chini ya jua: Mashindano hayatokani na watu wenye mbio. Vita havitokani na watu imara. Mkate hautokani na watu wenye busara. Mali hazitokani na watu wenye ufahamu. Kibali hakitokani na watu wenye ujuzi. Badala yake muda na bahati huwaathiri wao wote."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kwa kuwa hakuna anaye fahamu wakati wake wa kufa, kama vile samaki wanaswavyo katika nyavu ya kifo, au kama vile ndege akamatwavyo katika mtego. Kama wanyama wanadamu wamefungwa katika nyakati mbaya ambazo ghafla huwaangukia."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pia nimeona hekima chini ya jua kwa namna ambayo kwangu ilionekana kubwa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kulikuwa na mji mdogo na watu wachache ndani yake, na mfalme mkuu akaja kinyume na mji huo na akauzingira na akajenga mahandaki kwa ajili ya kuushambulia."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Na katika mji kulikuwa na masikini, mtu mwenye hekima, ambaye kwa hekima yake aliuokoa mji. Ila baadaye aliye mkumbuka yule masikini."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hivyo, nikasema, \u201cHekima ni bora kuliko nguvu, lakini hekima ya mtu masikini hudharauliwa, na maneno yake hayasikilizwi.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Maneno ya watu wenye hekima yaliongewa polepole yanasikiwa vizuri kuliko makelele ya mtawala yeyote miongoni mwa wapumbavu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Hekima ni bora kuliko silaha za vita, lakini mwenye dhambi mmoja anaweza kuharibu mazuri mengi."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kama nzi walio kufa husababisha manukato kutoa harufu ya uozo, hivyo hivyo upumbavu kidogo hushinda hekima na heshima."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Moyo wa mtu mwenye hekima huelekea kulia, lakini moyo wa mpumbavu huelekea kushoto."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Wakati mpumbavu anapotembea barabarani, fikira zake zina upungufu, ikithibitisha kwa kila mtu kwamba ni mpumbavu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kama jaziba za mtawala zikiinuka kinyume na wewe, usiache kazi yako. Utulivu unaweza kutuliza ukatili mkubwa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kuna uovu niliouona chini ya jua, aina ya kosa ambalo huja kutoka kwa mtawala:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Wapumbavu wanapewa nafasi za uongozi, wakati watu walio faulu wanapewa nafasi za chini."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nimewaona watumwa wakipanda farasi, na watu walio faulu wakitembea kama watumwa juu ya ardhi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Yeyote anayechimba shimo anaweza kutumbukia yake, na popote mtu anayevunja ukuja, nyoka anaweza kumuuma."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Yeyote achongaye mwawe, anaweza kuumizwa nayo. Na mtu achongaye mbao, anaweza kujihatarisha kwa hiyo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kama chuma bapa kisicho na makali, na mtu hainoi, kisha ni lazima atumie nguvu nyingi, lakini hekima hutoa faida kwa ufaulu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kama nyoka akiuma kabla hajafurahi, hivyo hakuna faida kwa mfurahishaji."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Maneno ya kinywa cha mtu mwenye hekima yana huruma. Lakini midomo ya mpumbavu humumeza mwenyewe."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kama maneno yanavyo anza kutiririka mdomoni mwa mpumbavu, ujinga hutoka, na mwisho mdomo wake hutiririka wazimu mbaya."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mpumbavu huongeza maneno, lakini hakuna ajuaye kinachokuja. Ni nani ajuaye baada yake?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Jasho la wapumbavu huwavaa wao, hivyo hawajui hata barabara ya kwenda mjini."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ole wako ardhi kama mfalme wako ni kijana mdogo, na kama viongozi wako huanza karamu ahsubuhi!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Lakini umebarikiwa ardhi kama mfalme wako ni mwana wa waungwana, na kama vingozi wako hula wakati muafaka, kwa nguvu, na sio kwa ulevi."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kwa sababu ya uvivu paa huanguka. Na kwa sababu isiyo fanya kazi nyumba hupata ufa."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Watu huandaa chakula kwa kicheko, divai huleta furaha maishani, na fedha hutimiza hitaji kwa kila kitu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Usimlaani mfalme, hata katika akili, na usiwalaani wenye mali katika chumba chako cha kulala. Kwa kuwa ndege wa angani inaweza kuchukua maneno yako. Chochote kilicho na mabawa kinaweza kusambaza jambo."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Peleka mkate wako juu ya maji, kwa kuwa utaupata tena baada ya siku nyingi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Shiriki mkate na watu saba, hata wanane kwa kuwa haujui ni majanga gani yanayo kuja juu ya nchi."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kama mawingu yamejaa mvua, yanajivua yenyewe chini ya nchi. Na kama mti ukianguka kuelekea kusini au kuelekea kaskazini, popote mti unapoangukia papo hapo utabakia."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Yeyote autazamaye upepo yawezekana asipande, na yeyote atazamaye mawingu yawezekana asivune."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kama usivyo jua njia ya upepo, wala vile ambavyo mtoto akuavyo tumboni, vivyo hivyo huwezi kuielewa kazi ya Mungu, aliye umba kila kitu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Asubuhi panda mbegu yako; hadi jioni, fanya kazi kwa mikono yako kama inavyo hitajika kwa kuwa haujui ni ipi itafanikiwa, jioni au asubuhi, au hii au ile au zote zitakuwa nzuri."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kweli nuru ni tamu, na ni kitu cha kufurahisha kwa ajili ya macho kuona jua."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kama mtu akiishi miaka mingi, na aifurahie yote, lakina na afikiri juu ya siku zijazo za giza, kwa kuwa zitakuwa nyingi. Kila kitu kijacho ni mvuke unaoteketea."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Furahia kijana, katika ujana wako, na moyo wako ufurahie siku za ujana wako. fuatilia yale mema ya moyo wako, chochote kilicho mbele ya macho yako. Ingawa, fahamu kwamba MUngu atakuleta hukumuni kwa ajili ya vitu hivi vyote."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ondoa hasira kutoka moyoni mwako, na usijali maumivu yoyote katika mwili wako, kwa sababu ujana na nguvu zake ni mvuke."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pia mkumbuke Muumba wako katika siku za za ujana, kabla ya siku za ugumu hazijaja, na kabla ya miaka haijafika utakapo sema, \u201cMimi sina furaha katika hizo,\u201d"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "fanya hivi kabla ya nuru ya jua na mwezi na nyota havijawa giza, na mawingu kurudi baada ya mvua."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Huo utakuwa wakati ambapo mlinzi wa ikulu atatetemeka, na wanaume imara wameinama, na wanawake wanao saga kukoma, kwa sababu ni wachache, na wale wanao chungulia dirishani hawaoni vizuri tena."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Huo utakuwa wakati ambao milango imefungwa katika mtaa, na mlio wa kusanga kukoma, wakati wanaume watasitushwa kwa mlio wa ndege, na wimbo wa sauti ya wasichana kukoma."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Utakuwa wakati ambapo watu wataogopa vilivyoinuka na hatari iliyoko barabarani, na wakati ambapo mlozi utachanua maua, na wakati panzi watakapokokotana wenyewe, na wakati ambapo hamu za asili zitakaposhindwa. Kisha mtu aenda katika nyumba yake ya milele na waombolezaji watelemka mitaani."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mkumbuke Muumba wako kabla ya kamba ya fedha kukatwa, au bakuli ya dhahabu kupasuka, au gudulia kuvunjwa kwenye chemuchemi, au torori la maji kuvunjika kisimani,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "kabla mavumbi kurudia mahali yalipotoka, na roho kurudi kwa Mungu aliyeitoa."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kama ukungu wa mvuke,\u201d asema mwalimu, kila kitu ni mvuke upoteao."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mwalimu alikuwa na hekima na aliwafundisha watu maarifa. Alisoma na kuazimu na kutunga mithali nyingi katika mpangilio."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mwalimu alitafuta kuandika kwa kutumia vithibitisho dhahiri, maneno ya kweli yaliyo wima."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Maneno ya watu wenye hekima ni kama mchokoo. Kama misumari ilivyogongomewa kwa undani, ndivyo yalivyo maneno ya mabwana katika mkusanyiko wa mithali zao, ambayo yamefundishwa na mchungaji mmoja."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mwanangu kuwa makini na kitu zaidi, utengezaji wa vitabu vingi, ambacho hakina mwisho, na kusoma kwingi huleta uchovu mwilini."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mwisho wa jambo baada ya kila kitu umesikika, ni kwamba ni lazima umche Mungu na kushika amri zake, kwa kuwa huu ndilo jukumu lote la mwanadamu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kwa kuwa Mungu ataleta kila tendo hukumuni, pamoja na kila kitu kilichofichika, kizuri au kibaya."
+                }
+            }
+        }
+    }
+}

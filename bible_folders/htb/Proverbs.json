@@ -1,0 +1,3822 @@
+{
+    "version": "htb",
+    "book_name": "Proverbs",
+    "book_nr": "20",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dit zijn de spreuken van Salomo, zoon van David en koning van Isra\u00ebl."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hij schreef deze spreuken om de mensen te leren hoe zij moesten leven. Hoe zij moesten handelen in allerlei omstandigheden."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Want hij wilde dat zij verstandig zouden zijn en eerlijk en oprecht in hun hele levenswijze."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u2018Ik wil de eenvoudige wijsheid geven,\u2019 zei hij. \u2018En ik wil de jonge mensen waarschuwen voor problemen die zij in hun leven zullen ontmoeten.\u2019"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Zo kan een wijze nog wijzer worden en merkt een verstandig mens dat er nog veel te leren valt,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "voordat hij deze spreuken goed begrijpt en weet wat er achter de woorden van een wijze schuilt."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Maar de basis van alle kennis is het eerbiedig ontzag voor de HERE. Alleen dwazen schatten Gods lessen en wijsheid niet op hun waarde."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mijn zoon, luister naar de wijze lessen van je vader. Zoek je houvast in wat je moeder je geleerd heeft."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Dat zal je in het leven verder helpen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mijn zoon, als zondaars proberen je over te halen, doe dan niet met hen mee."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ook niet als zij zeggen: \u2018Kom op, we nemen er een stel te pakken, wat maakt het uit als zij onschuldig zijn?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Wij maken hen af en jagen ze de dood in."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Zij hebben genoeg geld en spullen, dus wij kunnen een flinke slag slaan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Reken maar dat jij je deel krijgt, want de buit is voor ons allemaal.\u2019"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mijn zoon, trek niet met zulke mensen op. Blijf liever bij hen uit de buurt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zij hebben weinig goeds in de zin en gebruiken maar al te graag geweld."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Als een vogel het vangnet ziet, vliegt hij weg."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Maar deze mannen niet. Zij stellen hun leven in de waagschaal en vormen zo een bedreiging voor zichzelf."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Want wie zich zo probeert te verrijken, gaat aan die gewelddadige hebzucht ten onder."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "De wijsheid is niet moeilijk te vinden en wordt als het ware van de daken geschreeuwd."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zij is te horen in de drukte op de straten, op de plaatsen waar mensen samen zijn. Op de toegangswegen van de stad roept zij:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u2018Slechte mensen, hoelang blijft u nog prat gaan op uw slechtheid? En spotters, hoelang blijft u genieten van uw eigen sneren? Hoelang blijven dwazen de wijsheid negeren?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Laat mijn vermaning een les voor u zijn. Want ik zal u laten zien wat ik wil en wat ik denk. Als verfrissend water stromen mijn woorden u tegemoet."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ik riep, maar u luisterde niet en niemand zag hoe ik mijn hand uitstak."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Mijn raad hebt u naast u neergelegd en mijn vermaning wees u van de hand."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Daarom zal ik lachen wanneer u valt en de spot met u drijven als u in het nauw zit."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Mijn spotgelach zal u in de oren klinken, wanneer uw leven snel en meedogenloos wordt verwoest en u niets anders overblijft dan angst en uitzichtloosheid."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ja, dan zullen ze mij roepen, maar geen antwoord krijgen. Zij zullen hun best doen mij te vinden, maar zonder resultaat."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Zij wilden immers niets weten van kennis en inzicht, van eerbiedig ontzag voor de HERE?"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Zij legden mijn adviezen naast zich neer en wezen mijn vermaningen af."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Daarom moeten zij de gevolgen dragen en ondervinden wat zij zich op de hals hebben gehaald."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Want hun onwil wordt hun dood en hun voorspoed zal bedrieglijk blijken, ook die kan hun val niet voorkomen."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Maar wie wel naar mij luistert, hoeft zich nergens zorgen om te maken en hoeft niet bang te zijn voor het kwaad.\u2019"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mijn zoon, luister naar wat ik zeg en schat mijn aanwijzingen op hun waarde."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dan krijg je een oor voor de echte wijsheid en zal je verstand worden gescherpt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Als je inzicht probeert te krijgen en er wijsheid in je woorden doorklinkt,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "als je dat beschouwt als een zeer groot goed en moeite doet om het te verkrijgen,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "zul je merken wat eerbiedig ontzag voor de HERE betekent. Dan zul je God werkelijk leren kennen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Want de HERE is de bron van alle wijsheid. Uit alles wat Hij zegt, spreekt wijsheid en verstand."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hij geeft oprechte mensen houvast en is een beschermer van hen die zuiver leven."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Die mensen blijven op de goede weg, de weg die Hij voor hen effent."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Zo leer je begrijpen wat rechtvaardigheid is, wat eerlijkheid is en welke levensweg de juiste is."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wanneer je je die wijsheid eigen hebt gemaakt en geniet van je kennis,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "dan denk je na voordat je iets zegt en die bedachtzaamheid zal je beschermen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Beschermen tegen de man die slechte dingen zegt."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Beschermen tegen hen die niet in oprechtheid geloven."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Beschermen ook tegen de boosdoeners die lachen om allerlei wandaden,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "die de goede weg verlieten en kozen voor hun eigen kronkelpad."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Beschermen ook tegen de vrouw die niet de jouwe is, maar met gevlei probeert jou in te palmen."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Die vrouw die haar eigen man verlaat en daardoor zowel haar man als God ontrouw is."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Want wat zij doet, leidt naar de dood."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wie met haar naar bed gaat, komt niet meer terug en zal de weg naar het leven niet vinden."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Blijf dus de goede weg bewandelen en volg het voorbeeld dat oprechte mensen je geven."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Want de aarde is voor hen die zuiver leven en God zal de oprechten nooit verlaten."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Maar hun die zonder God door het leven gaan en zich niet aan Hem of aan hun naaste storen, staat uitroeiing te wachten. Zij worden vernietigd."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mijn zoon, onthoud alles wat ik je leer en bewaar mijn geboden in je hart."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Zij zullen je leven verlengen, goed als ze zijn voor lichaam en geest."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Houd liefde en trouw in ere! Draag Gods geboden als een sieraad en prent ze in je hart en geheugen."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dat levert je genegenheid en instemming van God en de mensen op."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vertrouw met heel je hart op de HERE en verwacht het niet van je eigen verstand."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Laat God delen in alles wat je doet, dan kan Hij je levensweg bepalen."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ga niet op je eigen oordeel af, maar koester ontzag voor de HERE en ga het verkeerde uit de weg."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dat werkt als een medicijn voor je lichaam en dringt diep in de botten door."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Vereer de HERE met wat je bezit en geef Hem zijn deel van je inkomsten."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dan zullen je schuren te klein zijn en vloeit de most over de randen van je perskuip."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mijn zoon, ga niet voorbij aan de tucht van de HERE en laat de moed niet zakken als Hij je straft."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Want de HERE straft degene van wie Hij houdt, net zoals een vader zijn zoon straft die hij liefheeft."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Gelukkig is de mens die de wijsheid zoekt en haar vindt, en die met verstand leert leven."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Want wijsheid brengt meer op dan handel in zilver, meer dan het delven van goud."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Zij is meer en beter dan edelstenen, meer waard dan alles waarvan je ooit droomt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zij gaat gepaard met hoge ouderdom, rijkdom en aanzien."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Want wijsheid brengt liefde voort en is een voedingsbodem voor vrede en welzijn."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "De wijsheid is als een boom van het leven voor wie haar bezit. Gelukkig zijn zij die zich aan de wijsheid vasthouden."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Want met wijsheid maakte de HERE de aarde en het heelal getuigt van zijn verstand."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Met zijn kennis gaf Hij het diepe water vorm, maakte Hij wolken die de dauw op aarde brengen."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Mijn zoon, verlies de wijsheid niet uit het oog! Houd haar vast en toon bedachtzaamheid bij alles wat je doet."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Dat geeft leven aan je ziel en siert je in ieders ogen."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Dat geeft je zicht op je levensweg, zodat je niet hoeft te struikelen."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Als je gaat liggen, zal niets of niemand je doen schrikken, je kunt gaan liggen en rustig slapen."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Wees niet bang voor plotselinge schrik, laat je niet van de wijs brengen door de ondergang van de goddelozen."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Want de HERE zal een betrouwbaar helper blijken te zijn. Hij zal niet toestaan dat je iets overkomt."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Geef, als je kunt, ieder wat hem toekomt."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Zeg niet tegen je naaste: \u2018Kom morgen maar terug,\u2019 als je hem het gevraagde ook direct kunt geven."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "En beraam geen kwade plannen tegen iemand die volledig op jou vertrouwt."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Bind niet zonder reden de strijd aan met iemand die je niets in de weg heeft gelegd."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Wees niet jaloers op iemand die met ellebogenwerk in deze maatschappij vooruitkomt. Dat mag geen voorbeeld voor je zijn."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Van zo iemand heeft de HERE een afkeer. Vertrouwelijk omgaan doet Hij alleen met mensen die oprecht zijn."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "De HERE vervloekt het huis van de goddelozen, maar zegent het huis van de rechtvaardigen."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Terwijl Hij spotters bespot, is Hij genadig voor de zachtmoedigen."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Voor wijzen is eer weggelegd, voor dwazen schande."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Luister naar de lessen van een vader, mijn kinderen. Luister goed, want zij leren je verstandig te leven."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mijn lessen zijn goed, dus houd ze in gedachten en pas ze toe."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mijn vader hield veel van mij en ik was mijn moeders lieveling."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mijn vader onderwees mij en zei: \u2018Sluit mijn woorden in je hart, want als je je aan mijn geboden vasthoudt, zul je leven."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Word wijs en ontwikkel een goed beoordelingsvermogen en gezond verstand, zorg dat je dit nooit vergeet!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Die wijsheid zal je beschermen, door haar lief te hebben zal zij je bewaren."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De wijsheid is het hoogste bezit, word dus wijs en ga verstandig om met je bezit."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Houd de wijsheid hoog, dan zal zij jou verhogen. Zij zal je eer brengen, wanneer je haar toepast"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "en je hoofd tooien met een prachtige kroon.\u2019"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Luister naar mij, mijn zoon, en neem mijn woorden ter harte. Dan zul je een lang en goed leven hebben."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ik leer je de weg van de wijsheid en zet zo je voeten op de rechte weg."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dan hoef je niet moeizaam je weg te zoeken en zul je niet struikelen."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Houd mijn wijze lessen in gedachten, vergeet ze niet, want de wijsheid be\u00efnvloedt je hele leven."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Zet geen voet op de weg van de goddelozen, laat het pad van de boosdoeners links liggen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sla die wegen niet in, maar loop eraan voorbij."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Want zij kunnen de slaap niet vatten, als zij niet iets verkeerds hebben gedaan. Konden zij niet iemand dwarszitten, dan wil de slaap niet komen."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Want het brood dat zij eten en de wijn die zij drinken, hebben zij niet eerlijk verkregen."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Maar het gedrag van oprechte mensen werpt een helder licht om zich heen, zelfs bij klaarlichte dag."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "De goddelozen tasten echter rond in het duister, zonder te weten waarover zij struikelen."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Luister naar mij, mijn zoon, en stel je open voor wat ik zeg."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Houd wijsheid, verstand en kennis voor ogen, berg ze weg, diep in je hart."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Want zij geven leven aan wie hen vinden en zijn een medicijn voor het hele lichaam."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Bescherm je hart boven alles, want uit je hart komt alles voort wat je doet."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Zondig niet door wat je zegt, laten je lippen geen verkeerde dingen zeggen."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Houd je ogen gericht op de weg v\u00f3\u00f3r je en dwaal niet af naar links of rechts."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Houd goed in de gaten waar je voeten gaan, zodat de weg die je volgt de goede is."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Doe geen stap naar links of rechts en zet geen voet op de verkeerde weg."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mijn woorden getuigen van wijsheid, mijn zoon, dus luister goed naar mijn verstandige lessen."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dan leer je bedachtzaam te leven en kun je mijn wijsheid met anderen delen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Want de vrouw die niet de jouwe is, fluistert lieve woordjes met haar gladde tong."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Maar trap je erin, dan leer je dat schijn bedriegt, want wat ten slotte overblijft, is bitterheid."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Zij volgt een weg die naar de dood leidt, haar voeten brengen haar rechtstreeks naar de hel."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Haar woorden en daden draaien je een rad voor de ogen, zodat je haast ongemerkt de levensweg verlaat."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Maar, kinderen, luister naar mij en houd je aan wat ik zeg."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Blijf bij haar vandaan en ga niet naar haar huis."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Laat je eer en aanzien niet bij haar achter, stel je beste jaren niet in de waagschaal en lever jezelf niet uit aan meedogenloze mensen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Geef vreemden niet de kans om op jouw zak te teren en je zuurverdiende geld erdoor te jagen."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Zodat je het ten slotte, wanneer je lichamelijk en geestelijk aan het eind bent,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "niet uitschreeuwt: \u2018Waarom haatte ik die wijze lessen?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Waarom luisterde ik niet naar vermaning en vergat wat mijn leermeesters mij leerden?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ik had mij bijna diep schuldig gemaakt voor ieders ogen.\u2019"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Drink water uit je eigen voorraadvat, helder vocht uit je eigen bron."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Laten je fonteinen niet naar buiten spuiten, noch je waterstromen de straten overspoelen."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Laat ze alleen van jou zijn en deel ze niet met een vreemde."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Je waterbron zal gezegend zijn en wees blij en tevreden met je jonge vrouw."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Zij is lieflijk en charmant. Laten haar borsten je steeds weer het hoofd op hol brengen en laat je overspoelen door haar liefde."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mijn zoon, waarom zou je het bij een vreemde zoeken en liefde bedrijven met een onbekende?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Want de HERE ontgaat niets en zijn ogen volgen iedereen, waar hij ook gaat."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "De goddeloze zal in zijn eigen kwaad verstrikt raken, zijn zonden zullen hem als boeien omknellen."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Hij zal sterven, omdat hij waarschuwing en wijsheid afwees, en ronddwalen in de doolhof van zijn dwaasheden."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mijn zoon, het kan gebeuren dat je je voor iemand borg stelt, dat je garant staat voor zijn schuld en dan aan je woord wordt gehouden."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mijn zoon, het kan gebeuren dat je je voor iemand borg stelt, dat je garant staat voor zijn schuld en dan aan je woord wordt gehouden."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Doe dan het volgende, mijn zoon: breng de zaak snel in het reine, want je naaste heeft een vordering op jou. Bezoek de schuldeiser en zeg hem dat je zult betalen en dwing de schuldenaar, voor wie je borg staat, alsnog het geld bijeen te brengen."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Slaap daar niet eerst een nachtje over, maar regel zulke zaken snel."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Want op dat moment ben je de prooi van de eiser, zoals hert en vogel prooi zijn van de jager. Dus breng jezelf in veiligheid."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Neem een voorbeeld aan de mieren, luiaard! Kijk eens naar hun nijvere arbeid en word wijs."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Want ook al hebben mieren dan geen leider,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "toch leggen zij \u02bcs zomers voedselvoorraden aan en verzamelen zij hun eten in de oogsttijd."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hoelang blijf je nog op je rug liggen, luiaard? Wanneer word je eindelijk eens wakker?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nog even slapen, nog even soezen, nog even lekker liggen,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "maar dan komt de armoede over je en maar al te snel zul je gebrek lijden."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Een nietsnut en dwarsligger kun je gemakkelijk herkennen, je hoeft hem alleen maar aan te horen."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Let maar op hoe hij kijkt, hoe hij met zijn voeten stampt en met zijn vinger wijst."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Waar zijn hart vol van is, loopt zijn mond van over. Hij heeft voortdurend kwaad in de zin en zorgt altijd voor onenigheid."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Daarom zal hij snel aan zijn einde komen; wat hem treft, is ongeneeslijk."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Er zijn veel dingen die de HERE haat en zeker zeven waarvan Hij een afkeer heeft:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "hoogmoed, liegen, moorden,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "slechte plannen smeden, met plezier kwaad doen,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "vals getuigen en verdeeldheid zaaien onder broeders."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mijn zoon, houd je vast aan de geboden die je vader je gaf, aan de wet waarnaar je moeder leefde."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Berg ze diep in je hart en leef ernaar, zodat ze je zullen sieren."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Zij zijn een gids op je levensweg, een beschermer wanneer je slaapt en een raadgever wanneer je wakker wordt."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Want het gebod is een lamp en de wet een licht, en om de weg naar het leven te vinden, zijn wijze waarschuwingen nodig."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Zij beschermen je tegen de slechte vrouw en de gladde tong van een vreemdelinge."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Laat haar schoonheid niet doordringen tot je hart en pas op dat ze je niet vangt met haar verleidelijke ogen."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Want de omgang met een hoer heeft tot gevolg dat je droog brood eet en bij zo\u02bcn overspelige vrouw is zelfs je ziel in het geding."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Zou iemand die met vuur speelt, zich niet branden?"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Iemand die op kolen loopt, geen blaren op zijn voeten krijgen?"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Dat geldt ook voor degene die zijn handen niet van andermans vrouw kan afhouden: die zal zijn straf zeker niet ontlopen."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Dan komt iemand die steelt omdat hij honger heeft, er beter vanaf."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Is hij eenmaal opgespoord, dan moet hij misschien zelfs met alles wat hij bezit, dubbel en dwars terugbetalen."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Maar iemand die overspel pleegt, heeft zijn verstand verloren, want daaraan gaat ook de ziel kapot."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Schade en schande zijn zijn deel, zijn wandaad wordt niet meer vergeten."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Jaloezie is een vuurgloed in een man en overspel wordt niet vergeven, wel gewroken."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Van verzoening wil hij niet weten, wat je hem ook aanbiedt."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mijn zoon, denk aan wat ik heb gezegd en houd mijn geboden voor ogen bij alles wat je doet."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Gehoorzaamheid aan mijn geboden zal je het leven geven, dus moet mijn wet alles voor je betekenen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Leg die wet nooit opzij, maar berg haar diep in je hart."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Beschouw de wijsheid als je zuster en het verstand als een goede vriend."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dan kunnen zij je beschermen tegen die vrouw die niet van jou is, die vreemdelinge die jou met lieve woordjes tracht te paaien."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ik keek uit mijn raam, door mijn tralievenster,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "en zag, terwijl ik mijn ogen langs de onverstandigen liet gaan, een jongen die erg dom bezig was."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hij liep over straat, naderde haar woning en liep er naartoe."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Het schemerde, het was bijna nacht."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Een vrouw kwam hem tegemoet, gekleed zoals bij haar beroep paste, doortrapt en op haar hoede."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Zij was ongezeglijk en losbandig en verbleef maar zelden in haar eigen huis."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Soms liep ze door de stad, soms hing ze op een straathoek rond."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Zij vloog hem om de hals, kuste hem en zei met een stalen gezicht:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u2018Ik had beloofd dankoffers te brengen en vandaag ben ik mijn belofte nagekomen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Daarom was ik op zoek naar jou en, gelukkig, ik heb je gevonden!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ik heb de mooiste zachte tapijten op mijn bed gelegd, een prachtig bewerkt bed heb ik, met het fijnste Egyptische linnen."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "En daar overheen heb ik mirre, alo\u00eb en kaneel gesprenkeld."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dus laten we elkaar beminnen, het hoofd op hol jagen, de hele nacht en met plezier de liefde bedrijven."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Mijn man is niet thuis en komt voorlopig ook niet terug."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hij heeft flink wat geld meegenomen en zei mij dat het nog wel even duurde voor hij weer thuiskwam.\u2019"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Voor haar stortvloed van woorden ging hij door de knie\u00ebn, haar vleiend gepraat miste zijn uitwerking niet."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Hij liep haar achterna, als een koe naar het slachthuis, als een misdadiger op weg naar het schavot,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "als een vogel die snel op de strik afvliegt, zonder te beseffen dat dat hem het leven kost, totdat de pijn hem als een mes door het lichaam gaat."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wel, kinderen, luister naar mij!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Laat je hart niet afdwalen naar haar levenswijze, zet geen voet op de weg die zij volgt."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Want zij heeft al heel wat gewonden neergeslagen en de lijst van haar slachtoffers is lang."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Haar huis leidt rechtstreeks naar de dood."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hoor je de wijsheid niet roepen en klinkt de stem van het verstand niet overal?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vanaf verhogingen, langs de wegen en op kruisingen, waar zij staat,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "bij de poort, aan de ingang van de stad, en aan elke deur roept zij:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u2018Ik roep u, mannen, en richt mij tot alle mensenkinderen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kom tot bezinning, onverstandigen, stel uw hart open, onwijzen!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Luister, ik heb een belangrijke boodschap voor u, ik spreek over eerlijke zaken."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mijn mond spreekt alleen maar waarheid, ik verafschuw leugens."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Uit alles wat ik zeg, spreekt oprechtheid en niets gemeens of verkeerds."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Het is overduidelijk voor verstandige mensen en mensen die inzicht hebben, zullen mij goed begrijpen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mijn lessen geven u meer dan zilver, deze kennis is kostbaarder dan puur goud."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Edelstenen vallen in het niet bij de wijsheid, zelfs uw stoutste dromen vallen daarbij in het niet."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ik, de wijsheid, ga gepaard met een helder verstand en ik maak mij kennis en bedachtzaamheid eigen."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Eerbiedig ontzag voor de HERE houdt in dat u het kwaad, de trots, de hoogmoed, de goddeloosheid en leugens haat."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Raad en blijvende wijsheid zijn het mijne, ik ben het verstand en bezit alle kracht."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Door mij regeren koningen en bepalen bestuurders wat rechtvaardig is."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Door mij heersen de heersers, de edelen en alle rechters op aarde."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ik heb lief wie mij liefhebben en wie mij ijverig zoeken, zullen mij ook vinden."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ik ga samen met rijkdom en aanzien, duurzaam bezit en gerechtigheid."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wat ik voortbreng, is beter dan zuiver goud, dan het allerpuurste goud en wat ik opbreng, is beter dan het zuiverste zilver."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ik laat iemand wandelen op de weg van de gerechtigheid, midden op de goede wegen."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zij die mij liefhebben, erven een onvervreemdbaar bezit en ik vul hun schatkamers."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ik was het bezit van de HERE, toen Hij begon te werken, vanaf het prilste begin."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ik ben gemaakt in het begin van de tijd, ik was er al voor de aarde bestond."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ik was er al v\u00f3\u00f3r de diepe wateren er waren, de bronnen, met hun overvloed aan water."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Voordat de bergen werden neergezet en heuvels zich verhieven, ben ik geboren."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Hij had de aarde en de velden nog niet gemaakt, nog geen zandkorreltje."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Maar toen Hij de hemelen schiep, was ik erbij en ook toen Hij de diepe wateren maakte."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Toen Hij de wolken hun plaats gaf en de diepe waterbronnen aan banden legde."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Toen Hij de zee inperkte, zodat de wateren Hem gehoorzaamden, en Hij de aarde grondvestte."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Ik was als een zuigeling bij Hem, dag in, dag uit spelend onder zijn oog."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Spelend in zijn wereld, op zijn aarde, mijn vreugde delend met de mensenkinderen."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Nu dan, kinderen, luister naar mij! Want gelukkig zijn zij die doen wat ik voorschrijf."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Luister naar mijn lessen en word wijs, onttrek u niet aan mijn onderwijs."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Gelukkig is hij die naar mij luistert, die voortdurend in mijn buurt is en mij niet uit het oog wil verliezen."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Want wie mij vindt, vindt het leven en oogst de goedkeuring van de HERE."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Maar wie tegen mij zondigt, brengt schade toe aan zijn ziel, allen die God en zijn wijsheid haten, hebben de dood lief.\u2019"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "De wijsheid heeft een huis voor zichzelf gebouwd en zeven pilaren gemaakt."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Het vlees is gebraden, de wijn staat klaar en de tafel is gedekt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Zij heeft haar dienstmeisjes eropuit gestuurd en haar uitnodiging klinkt overal in de stad."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Wie slecht is, moet er zeker heen. Tegen de onverstandigen zegt zij:"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u2018Kom, eet van mijn brood en drink de wijn die ik heb klaargezet."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Keer alles wat slecht is de rug toe en leef, kies voor de weg van de ware wijsheid.\u2019"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Wie een spotter terechtwijst, krijgt alleen maar problemen. Wie een goddeloze bestraft, wordt schandalig behandeld."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Straf de spotter niet, want dan zal hij u gaan haten. Bestraft u echter een wijze, dan zal hij u dankbaar zijn."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Onderricht u de wijze, dan wordt hij nog wijzer. Onderwijst u de rechtvaardige, dan wordt hij verstandiger."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Eerbiedig ontzag voor de HERE is de basis van alle wijsheid en het kennen van God geeft meer inzicht."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Want de wijsheid verlengt uw leven en God zal er jaren aan toevoegen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Als u wijs bent, plukt u daar zelf de vruchten van. Bent u een spotter, dan draagt u de gevolgen alleen."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Een dwaze vrouw is losbandig, zij is onverstandig en heeft geen inzicht."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Zij zit bij haar huisdeur op een stoel, op een in het oog lopende plaats."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En voorbijgangers die haar geen blik waardig keuren, roept zij toe:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u2018Wie onverstandig is, moet hier komen!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Gestolen water smaakt goed, gestolen brood nog beter.\u2019"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Maar die voorbijganger weet niet dat haar huis het voorportaal van de hel is."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "De spreuken van Salomo. Een verstandige zoon is een genoegen voor zijn ouders, maar een dwaze zoon doet hun verdriet."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Oneerlijk verkregen vermogen levert niets op, maar zijn oprechtheid redt een mens van de dood."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De HERE zorgt dat een rechtvaardig mens geen honger lijdt, maar de goddeloze neemt Hij alles af."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Iemand die zich niet ten volle inzet, wordt arm. Maar wie zich inspant, wordt rijk."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Wie in de zomer zijn oogst binnenhaalt, is een verstandige zoon. Maar de zoon die in de oogsttijd slaapt, maakt zichzelf te schande."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Rechtvaardige mensen worden gezegend, goddelozen worden door hun eigen onrecht tot zwijgen gebracht."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De nagedachtenis van een rechtvaardige brengt zegen voort, maar van de naam van de goddeloze blijft niets over."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Een wijs mens neemt Gods geboden aan, maar de dwaze prater loopt in de val."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wie oprecht leeft, leidt een zeker bestaan, maar wie verkeerde wegen bewandelt, wordt ontdekt en ontmaskerd."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Een slinkse boosdoener bezorgt anderen verdriet en een dwaze prater loopt zijn ondergang tegemoet."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De woorden van een rechtvaardige zijn een bemoediging, maar goddelozen worden door hun eigen onrecht tot zwijgen gebracht."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Haat leidt tot onrust en ruzies, de liefde bedekt echter al het menselijk falen."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Op de lippen van een verstandig mens ligt wijsheid, de onverstandige verdient alleen maar straf."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Een wijs mens verzamelt steeds meer inzicht, maar de woorden van een dwaas kunnen voortdurend onheil aanrichten."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "De rijke vertrouwt volledig op zijn bezit, terwijl arme mensen niets hebben."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Alles wat een rechtvaardige doet, bezorgt hem voordeel. Wat de goddeloze verdient, leidt tot zijn ondergang."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wie wijze lessen ter harte neemt, loopt op de weg van het leven, maar wie ze in de wind slaat, brengt anderen op een dwaalspoor."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wie heimelijk zijn naaste haat, is schijnheilig in zijn spreken. Wie roddelt, is een zot."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Iemand die zijn tong niet in bedwang heeft, zondigt met zijn woorden. Iemand die nadenkt voor hij spreekt, is bedachtzaam en verstandig."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "De woorden van een rechtvaardige zijn goud waard, die van een goddeloze zijn waardeloos."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Van de woorden van een rechtvaardig mens kunnen velen leren, maar dwazen sterven door gebrek aan inzicht."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Alleen de zegen van de HERE maakt een mens rijk, niet zijn eigen zwoegen."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Zoals een boosdoener genoegen heeft in misdaden, verheugt een verstandig mens zich in wijsheid."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Waar de goddeloze bang voor is, gebeurt nog ook. Maar God geeft de rechtvaardigen waar zij naar verlangen."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Verzwolgen door een wervelwind zal de goddeloze verdwijnen, de rechtvaardige staat echter op een sterk fundament."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Wat azijn is voor de mond en scherpe rook voor de ogen, is een lui mens voor zijn werkgever."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Eerbiedig ontzag voor de HERE verlengt uw leven, terwijl de goddelozen jong zullen sterven."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "De hoop van de rechtvaardigen gaat gepaard met blijdschap, maar de toekomstverwachting van de goddelozen valt in duigen."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "De oprechte mens put kracht uit wat de HERE doet, maar voor de boosdoener leidt dat tot zijn ondergang."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "De rechtvaardige mens zal tot in eeuwigheid niet aan het wankelen worden gebracht, maar van de goddelozen blijft niets over."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "De woorden van een rechtvaardige zijn vol wijsheid, maar de leugenaar wordt vernietigd."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "De rechtvaardige zal het goede zeggen, maar een goddeloze spreekt alleen slechtheid."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "De HERE verafschuwt een weegschaal waaraan geknoeid is, maar een zuiver gewicht is goed in zijn ogen."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Op trots volgt altijd schande, op nederigheid volgt wijsheid."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De oprechtheid is een betrouwbare gids voor een eerlijk mens, maar trouwelozen gaan te gronde aan hun eigen slechtheid."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Aardse bezittingen helpen niet tegen Gods woede, alleen oprechtheid is voor Hem van waarde."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De rechtvaardigheid van een oprecht mens maakt hem duidelijk welke weg hij moet gaan, maar de goddeloosheid van een goddeloos mens brengt hem ten val."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Eerlijke mensen worden gered door hun oprechtheid, maar oneerlijke mensen raken verstrikt in hun slechtheid."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Wanneer een goddeloos mens sterft, komt een eind aan al zijn verwachtingen en ook zijn grootste hoop laat hem in de steek."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "De rechtvaardige wordt uit de verdrukking bevrijd, waarna de goddeloze zijn plaats inneemt."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De huichelaar brengt met zijn woorden zijn naaste ten val, maar de rechtvaardige wordt door wijsheid gered."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De inwoners van een stad zijn blij dat het de rechtvaardigen goed gaat en als de goddelozen ten val komen, gaat een gejuich op."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Oprechte mensen zijn een zegen voor een stad en doen die groeien en bloeien, de invloed van goddelozen is echter vernietigend."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Een mens zonder verstand kijkt op zijn naaste neer, maar een verstandig man houdt zijn mond."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wie roddels verspreidt, maakt geheimen bekend, maar een tactvol en betrouwbaar mens bedekt zo\u02bcn zaak."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Wordt een land niet verstandig geregeerd, dan zet het verval in, met veel goede adviseurs blijft een land echter welvarend."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Als iemand zich voor een onbekende heeft borggesteld, zal hem dat zeker opbreken. Om een onbezorgd leven te leiden, kan men zich beter niet garant stellen."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Een vrouw krijgt eer door haar bevalligheid, een man krijgt rijkdom door zijn kracht."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Een zachtaardig en vriendelijk mens doet zichzelf goed, maar een wreed mens schaadt zichzelf."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Alles wat een goddeloze doet, is nutteloos, maar er is een beloning voor hem die goed doet."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Zo leidt de gerechtigheid naar het leven, terwijl de boosdoener zichzelf de dood injaagt."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "De HERE verafschuwt slechte mensen, maar wie oprecht leeft, vindt genade in zijn ogen."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "De boosdoener en zijn nageslacht zullen niet ongestraft blijven, maar God redt de kinderen van de oprechten."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Een mooie vrouw die haar verstand niet gebruikt, lijkt op een gouden ring in de neus van een varken."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Rechtvaardige mensen hopen alleen op het goede, maar goddeloze mensen staat Gods toorn te wachten."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Gulle en goedgeefse mensen krijgen toch steeds meer, maar wie gierig is, wordt steeds armer."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Een weldoener is een zegen en wordt daarvoor rijk beloond en iemand die zijn gaven over anderen uitgiet, zal van het goede worden voorzien."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Wie te weinig koren geeft, wordt door het volk vervloekt, maar de verkoper wordt gezegend."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Wie ijverig goed doet, zal goed ontmoeten, maar wie het kwade doet, krijgt het op zijn eigen hoofd terug."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Wie op zijn rijkdom vertrouwt, komt ten val, maar wie dat niet doet, is rechtvaardig en het zal hem voor de wind gaan."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Wie zijn huishouden niet in de hand houdt, zal arm worden. Hij wordt afhankelijk van degene die zijn huishouden wel goed voor elkaar heeft."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Wat de rechtvaardige voortbrengt, is als een boom die leven geeft. Wie wijs is, brengt mensen tot God."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "De rechtvaardige ontvangt op aarde zijn beloning, dus ontlopen goddeloze en zondaar hun straf zeker niet!"
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wie de onderwijzing naar waarde schat, weet ook de opgedane kennis te waarderen. Wie echter de bestraffing haat, is onverstandig."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Een goed mens vindt genade in de ogen van de HERE, maar een boosdoener beschouwt Hij als een goddeloze, die zijn straf verdient."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De goddeloosheid doet de mens geen goed, maar de rechtvaardigen blijven standvastig, als een boom met sterke wortels."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Een goede vrouw is een sieraad voor haar man, maar een vrouw die zich onverstandig gedraagt, maakt het leven van haar man kapot."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De gedachten van rechtvaardige mensen zijn goed, maar wat de goddelozen uitbroeden is bedrog."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Woorden van goddeloze mensen zijn gericht op bloedvergieten en geweld, maar als een oprechte spreekt, brengt dat redding."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De goddelozen worden uitgeroeid zonder een spoor na te laten, maar de rechtvaardige blijft bestaan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wie laat zien dat hij verstandig is, wordt door iedereen geprezen, maar wie niet oprecht is, wordt een voorwerp van verachting."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Beter een bescheiden mens met \u00e9\u00e9n knecht, dan een opschepper die niet genoeg te eten heeft."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De rechtvaardige zorgt goed voor al zijn dieren, maar goddelozen zijn wreed en kennen geen medelijden."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wie zijn land bewerkt, heeft steeds genoeg te eten. Wie echter leeglopers volgt, is onverstandig."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De goddeloze geniet van de kwaadaardigheid, maar de wortels van de rechtvaardige doen hem groeien en bloeien."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De boosdoener raakt verstrikt in zijn leugens, maar de rechtvaardige wordt gered uit de moeilijkheden."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Als iemand goede dingen zegt, geeft dat grote voldoening. Op hard werken volgen de zegeningen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "De dwaas denkt dat hij leeft zoals het hoort, maar het is beter goede raad te volgen en niet op eigen inzicht te vertrouwen."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "De dwaas toont zijn woede zonder na te denken, terwijl een bedachtzaam mens zich vooralsnog beheerst."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wie de waarheid spreekt, toont duidelijk wat is gebeurd, maar een vals getuige verdraait de zaak."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Sommigen slaan met hun kwetsende woorden als een zwaard om zich heen, maar wat de wijze zegt, kwetst niet en is heilzaam."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Iemand die de waarheid spreekt, blijft altijd overeind. Bedrog is slechts een tijdelijke zaak, want eerlijk duurt het langst."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Het hart van wie zint op kwaad, is vol bedrog, maar wie vreedzaamheid adviseert, kent blijdschap."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Rechtvaardige mensen gaan niet ten onder aan de tegenslagen, maar goddelozen wacht een heilloos einde."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "De HERE verafschuwt leugens, maar wie waarachtig leeft, vindt genade in Gods ogen."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Een bedachtzaam en verstandig mens laat zich niet voorstaan op zijn kennis, maar onverstandigen slaan dwaasheid uit."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Vlijtige mensen houden zelf het roer in handen. Wie dat niet doet, wordt overheerst en betaalt belasting aan een vreemde."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Zorgen maken het hart van een mens verdrietig, maar een bemoedigend woord maakt het weer blij."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Een rechtvaardige is beter dan zijn naaste, maar de goddeloze heeft geen inzicht en komt op een dwaalweg."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "De bedrieger zal niet genieten van wat hij zich heeft toege\u00ebigend, maar een vlijtig mens verdient de opbrengst van zijn werk."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Gerechtigheid brengt leven, maar de zonde leidt tot de dood."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Een verstandige zoon luistert aandachtig naar zijn vaders lessen, maar een spotter slaat bestraffing in de wind."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Van wijze en vrome woorden zal ieder het goede gebruiken, maar trouwelozen staat geweld te wachten."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Wie zijn tong bedwingt, behoudt zijn leven, maar lichtvaardig spreken wordt bestraft."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "De luiaard is wel begerig, maar krijgt niets. Een vlijtig mens kent echter overvloed."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De rechtvaardige mens haat leugens, maar de goddeloze maakt zich gehaat en zet zichzelf voor schut."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De gerechtigheid beschermt wie oprecht leven, maar zondaars komt hun goddeloosheid duur te staan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Er zijn mensen die zich rijk voordoen, maar in werkelijkheid niets hebben. Anderen gedragen zich als armen, maar zijn in werkelijkheid rijk."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Het losgeld voor een welgestelde is zijn rijkdom, een arme kent zo\u02bcn bedreiging niet."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Het geluk en de vreugde van de rechtvaardigen zullen steeds toenemen, terwijl de lamp van de goddelozen wordt gedoofd."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Door trots en stijfkoppigheid ontstaat veel ruzie, daarom getuigt het van wijsheid als men zich wil laten gezeggen en onderwijzen."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Oneerlijk verkregen vermogen kent geen lang leven, maar wie met ijverig werken zijn kost verdient, zal zijn bezit vermeerderen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Lang moeten uitzien naar iets moois maakt het hart bedroefd, maar een vervulde wens doet leven als een levensboom."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wie Gods woord en zijn lessen veracht, komt dat duur te staan. Maar wie daar eerbiedig ontzag voor koestert, zal worden beloond."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "De lessen van een wijze zijn een bron van leven en helpen dodelijke vallen te ontlopen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Een verstandig mens wordt gerespecteerd, maar iedereen mijdt trouweloze mensen."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wie verstandig is, handelt voorzichtig en oordeelkundig, een zot spreidt louter dwaasheid ten toon."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Een onbetrouwbare bode zal het slecht vergaan, maar een trouw gezant is een zegen."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wie niet van het goede onderwijs wil horen staat armoe en schande te wachten, maar wie zich laat berispen zal worden ge\u00eberd."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Een wens die vervuld wordt, is iets heerlijks, maar de zot verafschuwt het idee dat hij het kwade moet nalaten."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wie met verstandige mensen omgaat, wordt verstandig. Wie met slechte mensen omgaat, vergaat het slecht."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "De zondaars zullen hun straf niet ontlopen, maar de rechtvaardige mens wordt door God beloond."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Het bezit van een goed mens is een erfenis voor zijn kleinkinderen, maar dat van de zondaar is voor de rechtvaardige bestemd."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Het werk van de armen levert veel voedsel op, maar er zijn sommigen die door gebrek aan inzicht tekort komen."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wie nooit straft, bederft zijn zoon. Maar wie zijn zoon liefheeft, straft hem reeds op jonge leeftijd."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "De rechtvaardige eet en wordt verzadigd, maar de maag van de goddelozen blijft rammelen."
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Iedere verstandige vrouw zorgt goed voor haar huishouden en gezin, terwijl dwaze vrouwen dat met eigen handen afbreken."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Iemand die oprecht leeft, geeft blijk van eerbiedig ontzag voor de HERE. Wie dat niet doet, veracht Hem."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De woorden van een dwaas zijn als een zweep die anderen maar ook de dwaas zelf ranselt. De wijze wordt echter beschermd door wat hij zegt."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Als er geen ossen zijn, blijven voederbak en tafel leeg, maar is er wel een os, dan komt er loon naar werken."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Een eerlijke getuige zal niet liegen, maar een vals getuige is een bron van leugens."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De spotter zoekt vergeefs naar wijsheid, maar de kennis wijst de verstandige de weg."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Laat een zot links liggen, want van hem zijn geen verstandige woorden te verwachten."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "De wijsheid toont een verstandig mens welke weg hij volgen moet, maar het onverstand van de zot brengt hem en anderen op een dwaalspoor."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Iedere dwaas zal zijn zonde verbloemen of daar misschien niet zwaar aan tillen, maar oprechte mensen komen eerlijk uit voor wat zij fout deden."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Elk hart kent zijn eigen verdriet en een ander kan zijn vreugde niet begrijpen."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Alles wat de goddeloze tot het zijne rekent, wordt verwoest. Het bezit van de oprechte zal echter toenemen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Soms denkt iemand op de goede weg te zijn, maar blijkt die naar de dood te voeren."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Het hart kan bedroefd zijn, ook al lacht het gezicht, die lach kan eindigen in een traan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Wie God verlaat, zal de gevolgen in zijn leven merken, maar een goed mens is tevreden."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Een onverstandig mens kan men alles wijsmaken, maar een schrander mens denkt na bij wat hij doet."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "De wijze koestert ontzag en laat het kwaad links liggen, de zot is zorgeloos en kent geen angst."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Een heethoofd doet snel domme dingen en een man die gemene dingen doet, wordt gehaat."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Onverstandige mensen valt dwaasheid ten deel, maar kennis zal de verstandigen sieren."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "De kwaden moeten buigen voor de goeden, evenals de goddelozen voor de deuren van de rechtvaardigen."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wie arm is heeft niet veel vrienden, maar bij de rijke zijn ze niet te tellen."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Wie op zijn naaste neerkijkt, zondigt, maar gelukkig is hij die zich ontfermt over mensen die het moeilijk hebben."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Graven kwaadstichters niet hun eigen graf? Maar wie goed doet, wordt gewaardeerd en dankbaar bejegend."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Eerlijk en hard werk levert iets op, nutteloos geklets niet."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Het sieraad van de verstandigen is hun rijkdom, dwaasheid blijft de dwaasheid van de zotten."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Een eerlijke getuige kan levens redden, een vals getuige kan iemand door bedrog de dood injagen."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Eerbiedig ontzag voor de HERE geeft een sterk vertrouwen en Hij zal zijn kinderen een veilig toevluchtsoord bieden."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Het eerbiedig ontzag voor de HERE is een bron van leven en helpt dodelijke vallen te ontlopen."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Een groot volk geeft een koning aanzien, maar een tekort aan onderdanen leidt tot zijn ondergang."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Een geduldig mens geeft blijk van veel verstand, maar een heethoofd zet zichzelf voor schut."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Een zuiver hart doet goed aan eigen en andermans leven, maar haat en nijd bederven alles."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Wie een arme onderdrukt, raakt ook zijn Schepper. Wie echter hulpbehoevenden steunt, eert Hem."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "De goddeloze wordt het slachtoffer van zijn eigen kwaad, maar de rechtvaardige gaat zelfs vol vertrouwen de dood in."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "In het hart van een verstandig mens ligt wijsheid, zelfs dwazen moeten dat erkennen."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Als er rechtvaardigheid heerst, wordt een volk ge\u00eberd, maar als de zonde hoogtij viert, is dat een schande voor een land."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Een verstandige dienaar wordt door de koning goed behandeld, maar als een dienaar zich slecht gedraagt, zal hij de woede van de koning oproepen."
+                }
+            }
+        },
+        "15": {
+            "chapter_nr": "15",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Een zachtmoedig antwoord sust de woede, maar een tactloze uitspraak roept de woede juist op."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Een verstandig mens weet zijn kennis goed te vertolken, maar de woorden van een zot zijn een bron van dwaasheid."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Gods ogen zien alles, al het kwade \u00e9n al het goede."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Gezonde woorden zijn als een boom van leven, verkeerde woorden richten echter schade aan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Een dwaas zal de lessen van zijn vader negeren, maar wie luistert naar de terechtwijzingen van zijn vader, toont zich verstandig."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Het huis van de rechtvaardige bergt vele schatten, maar de goddeloze doet zichzelf schade aan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Verstandige mensen strooien kennis om zich heen, terwijl het hart van de dwaas een dwaalspoor kiest."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "De HERE verafschuwt het offer van de goddelozen, maar een oprecht gebed doet Hem goed."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De HERE verafschuwt goddeloos gedrag, maar wie zich toelegt op oprechtheid, zal Hij liefhebben."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Onderwijs en berisping zijn onaangenaam voor wie de goede weg verlaat. Wie terechtwijzing haat, gaat de dood tegemoet."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De diepten van de hel zijn voor de HERE als een open boek, dus kan Hij de harten van de mensen zeker peilen!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Een spotter houdt er niet van als hij bestraft wordt en mijdt daarom verstandige mensen."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Een vrolijk hart geeft een blij gezicht, maar een treurig hart knakt de geest."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Een verstandig hart verlangt naar kennis, maar de dwaas put uit een bron van dwaasheid."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Een bedrukt mens lijdt een triest leven, maar een vrolijk hart geeft levenslust."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Weinig bezit met een eerbiedig ontzag voor de HERE is beter dan veel rijkdom en een onrustig geweten."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Een eenvoudig maal in een liefdevolle sfeer is beter dan een overvloedig diner met een liefdeloze sfeer."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Een lichtgeraakt mens veroorzaakt ruzie, een geduldig mens zorgt voor verzoening."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Een luiaard is vol dorens en distels, maar voor een oprechte wordt de weg gebaand."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Een verstandige zoon geeft zijn vader veel vreugde, maar een dwaas veracht zijn moeder."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Een onverstandig mens beleeft plezier aan zijn eigen dwaasheid, maar een verstandig mens zoekt de goede weg."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Zonder goede raad gaan plannen teniet, maar veel adviseurs doen plannen slagen."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Een passend antwoord maakt de spreker blij en wat is een woord goed op zijn tijd!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "De levensweg leidt de verstandige naar boven, hij blijft buiten bereik van het dodenrijk beneden."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "De HERE richt een hoogmoedige ten gronde, maar voor de weduwe springt Hij in de bres."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "De HERE verafschuwt de gedachten van een boosdoener, maar woorden uit liefde gesproken zijn zuiver."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Een oneerlijk mens brengt onrust in zijn eigen huis, maar wie smeergeld haat, zal leven."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Een rechtvaardige denkt voordat hij spreekt, een goddeloze spuit volop vuile taal."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "De HERE houdt goddelozen op een afstand, maar het gebed van rechtvaardigen zal Hij verhoren."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Vriendelijke ogen maken het hart blij en een goed bericht schenkt nieuwe moed."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Wie luistert naar opbouwende terechtwijzingen, bevindt zich in wijs gezelschap."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Wie de berisping verwerpt, doet zich zelf tekort, maar wie luistert, krijgt verstand en wijsheid."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Eerbiedig ontzag voor de HERE leidt tot wijsheid en nederigheid leidt tot eerbetoon."
+                }
+            }
+        },
+        "16": {
+            "chapter_nr": "16",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Een mens kan van alles van plan zijn, maar de HERE bepaalt de loop van de gebeurtenissen."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Een mens doet wat hem het beste lijkt, maar de HERE weet wat daarbij in hem omgaat."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Leg uw werk in de handen van de HERE, dan zullen uw plannen werkelijkheid worden."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "De HERE heeft alles met een doel gemaakt, ook de goddeloze voor de dag van de straf."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De HERE verafschuwt alle hooghartigen, zij en hun nakomelingen zullen hun straf niet ontlopen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Door liefde en trouw wordt de misdaad vergeven en uit ontzag voor de HERE mijdt men het kwaad."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Als iemand leeft zoals de HERE wil, laat Hij het zelfs in orde komen met zijn vijanden."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Beter weinig, maar met oprechtheid, dan oneerlijk verkregen rijkdom."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Een mens bepaalt in zijn hart wat hij wil doen, maar de HERE heeft het laatste woord."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De koning is scherpzinnig en zijn vonnissen zijn goed."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De HERE hanteert de weegschaal van het recht, de gewichten komen uit zijn handen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Koningen moeten een afkeer hebben van goddeloosheid, want alleen oprechtheid is een goede basis voor de troon."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Koningen moeten rechtvaardige uitspraken liefhebben, zij houden van mensen die de waarheid spreken."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "De woede van de koning leidt tot de dood, wie wijs is, weet die woede te stillen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "De vriendelijkheid van de koning geeft leven, zijn gunst is als een langverwachte regen."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Het is beter wijsheid te krijgen dan puur goud, beter uitnemend inzicht te hebben dan zilver."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "De oprechte mens moet een weg volgen waarop geen kwaad ligt. Wie goed uitkijkt waar hij gaat, beschermt zijn leven."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Trots komt voor de vernietiging en hoogmoed voor de val."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Het is beter bescheiden te zijn met vriendelijke mensen dan de buit te delen met trotse mensen."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wie Gods woord ter harte neemt, zal het goede vinden, gelukkig is hij die op de HERE vertrouwt."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Iemand met een wijs hart zal verstandig worden genoemd en zijn woorden zullen goede lessen in zich bergen."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Het verstand van goede leermeesters is een bron van leven, maar de lessen van de dwazen leiden naar de dood."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Het hart van een verstandig mens laat hem wijze woorden spreken, en die vormen een overvloed van wijze lessen."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Vriendelijke uitspraken zijn als een honingraat, zoet voor de ziel en medicijn voor het lichaam."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Iemand kan van zichzelf denken dat hij goed leeft, maar toch leidt zijn levensweg naar de dood."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Een arbeider moet hard werken omdat hij anders niets te eten heeft. Zijn maag zet hem tot werken aan."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Een boosdoener heeft altijd kwaad in de zin, zijn woorden kwetsen, alsof het brandende pijlen waren."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Een slecht mens is een constante bron van ruzie en een stiekeme roddelaar weet zelfs de beste vriendschap kapot te maken."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Een gewelddadig mens tracht ook de ander aan te steken en leidt hem zo op de verkeerde weg."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Hij sluit zijn ogen om zich beter te kunnen concentreren op zijn slechte plannen en voert ze ook uit, met samengeknepen lippen."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Grijze haren zijn het sieraad van hen die de goede weg bewandelen."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Een geduldig mens is beter dan een sterk mens, en wie zichzelf goed in bedwang heeft, is sterker dan de man die steden inneemt."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Het lot wordt weliswaar ongezien geworpen, maar de HERE bepaalt hoe het valt."
+                }
+            }
+        },
+        "17": {
+            "chapter_nr": "17",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Een stuk droog brood, in alle rust gegeten, is beter dan een overvloedige maaltijd waar ruzie heerst."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Een verstandige knecht heeft zeggenschap over een onverstandige zoon en wordt beloond met een deel van de erfenis."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Zilver wordt gezuiverd in een smeltkroes, goud in een smeltoven, maar alleen de HERE weet wat in een mensenhart leeft."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Een boosdoener luistert naar kwade plannen en een leugenaar naar leugens."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Wie een arme in het nauw drijft of bespot, kwetst op die manier diens Schepper, leedvermaak blijft niet ongestraft."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Het sieraad van oude mensen zijn hun kleinkinderen en het sieraad van de kinderen zijn hun ouders."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zoals goede woorden niet passen bij een dwaas, past ook de leugen niet bij een prins."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Een geschenk is prettig voor degene die het krijgt, maar ook de gever heeft er voordeel van."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wie fouten vergeeft, maakt vrienden. Maar wie oude koeien uit de sloot haalt, raakt zelfs zijn beste vriend kwijt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Het levert meer op een verstandige te berispen dan een dwaas honderdmaal te slaan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Een onhandelbaar mens koestert kwade plannen, daarom stort God hem in het verderf."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Je kunt beter een berin tegenkomen die haar jong kwijt is, dan een dwaas die zijn woede de vrije loop laat."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wie goed met kwaad vergeldt, brengt straf over zichzelf en zijn familie."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Het begin van een ruzie is als een dijk die doorbreekt, bemoei u er dus niet mee, voordat u en anderen er in worden gemengd."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "De HERE verafschuwt wie de goddeloze rechtvaardigt en ook wie de rechtvaardige schuldig verklaart."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "De dwaas heeft weliswaar geld genoeg om wijsheid te kunnen kopen, maar hij heeft er niets aan. Het ontbreekt hem gewoon aan verstand."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Een echte vriend blijft altijd een vriend en in de tegenspoed blijkt de ware vriendschap."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Alleen een onverstandige stelt zich met een handslag borg voor zijn naaste."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wie van ruzie en onenigheid houdt, geeft blijk van liefde voor de zonde. Wie boven zijn stand leeft, staat een diepe val te wachten."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wie onbetrouwbaar is, kan niet gelukkig worden. Wie zondigt door wat hij zegt, stort zich in het ongeluk."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Wie een zot verwekt, zal dat berouwen en er is weinig vreugde weggelegd voor de vader van een dwaas."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Een blij hart doet het lichaam goed, maar een ontmoedigde geest maakt ziek."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De goddeloze laat zich omkopen om het recht geweld aan te doen."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Een verstandig mens is aan zijn gezicht te herkennen, maar de ogen van een dwaas dwalen alle kanten op."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Een onverstandige zoon doet zijn vader verdriet, hij is een bitter verdriet voor haar die hem ter wereld bracht."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Het is al niet in de haak een rechtvaardige te beboeten, laat staan een prins te laten slaan."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Iemand die zijn verstand goed gebruikt, houdt zijn tong in bedwang, hij is bedachtzaam en scherpzinnig."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Want een dwaas die zijn mond houdt, wordt voor wijs gehouden. Zolang hij zijn mond houdt, denkt men dat hij verstandig is."
+                }
+            }
+        },
+        "18": {
+            "chapter_nr": "18",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Iemand die meent het alleen te weten, zoekt zijn eigen voordeel, hij verwerpt de wijze raad van anderen."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "De dwaas heeft geen behoefte aan verstand, zijn dwaze hart ligt open."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Met de goddeloze komt ook de verachting en met de misdaden komt de schande."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Een verstandig man zegt diepzinnige dingen, de bron van wijsheid voedt een beek die nooit droog valt."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Het is niet goed om in een rechtszaak een schuldige onschuldig te verklaren en daardoor een oprecht mens te benadelen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De dwaas veroorzaakt ruzie, zijn woorden hitsen op tot handgemeen."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zijn grote mond breekt hem op en hij raakt verstrikt in zijn eigen woorden."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Naar de woorden van een roddelaar wordt gretig geluisterd, zij glijden zachtjes naar binnen en zetten zich vast in het gemoed van de toehoorders."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Een luiaard is net zo erg als een man die zijn geld over de balk smijt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De HERE is een sterke toren, zijn naam is kracht. De rechtvaardige zal bij Hem zijn toevlucht zoeken en veilig zijn."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Een rijke voelt zich sterk door zijn bezit, hij maakt zichzelf wijs dat zijn geld hem beschermt zoals een hoge muur."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Wie hooghartig is, komt ten val, maar nederigheid wordt altijd gevolgd door eer."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wie antwoord geeft voordat de vraag is uitgesproken, wordt als een dwaas beschouwd."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Een moedig hart is de mens tot steun, zowel in geestelijk als lichamelijk lijden, maar wie zal een ontmoedigd hart tot steun zijn?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Wie verstandig is, wil toenemen in kennis, hij is gespitst op wijze woorden."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Een goed geschenk geeft iemand de ruimte en opent deuren naar vooraanstaanden."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "De eerste pleiter in een rechtszaak schijnt gelijk te hebben, maar de woorden van de wederpartij werpen pas volledig licht op de zaak."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Het werpen van het lot maakt een einde aan geschillen en brengt scheiding tussen de partijen."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Een broeder die zich onrechtvaardig behandeld voelt, is een hardnekkiger tegenpartij dan een sterke en opstandige stad. Geschillen tussen broeders sluiten deuren, zoals grendels de paleispoorten afsluiten."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Iemands woorden vullen zijn hart, met goede dingen als het goede woorden zijn, met kwade dingen als het kwade woorden zijn."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Op de tong liggen zowel dood als leven: wie aan een van beide de voorkeur geeft, zal de vruchten daarvan plukken."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Vindt u een goede vrouw, dan hebt u het goed getroffen, beschouw haar als een geschenk van de HERE."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De arme smeekt, maar de rijke spreekt harde woorden."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wie veel vrienden heeft, raakt geru\u00efneerd, maar een echte vriend is meer waard dan een broer."
+                }
+            }
+        },
+        "19": {
+            "chapter_nr": "19",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Een arme die zuiver leeft, is beter dan een dwaas die vuile taal uitslaat."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Als iemand graag iets wil ondernemen, maar het inzicht ervoor mist, leidt het tot niets. Wie niet uitkijkt waar hij loopt, zondigt maar al te snel."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De dwaasheid van een mens zal hem opbreken, waarna hij de HERE de schuld daarvan geeft."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Rijkdom bezorgt een mens veel vrienden, maar een arme raakt vaak zelfs zijn laatste vriend kwijt."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Een valse getuige blijft niet ongestraft, een leugenaar zal zijn straf niet ontlopen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Velen richten hun smeekbeden aan het adres van een mild en vriendelijk mens, want iedereen is een vriend van hem die geschenken geeft."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Als de broeders van een arme hem al snel de rug toekeren, hoe gemakkelijk zullen zijn vrienden hem dan in de steek laten! Hij loopt hen achterna en probeert met hen te praten, maar krijgt bij hen geen gehoor."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wie verstandig wil worden, heeft het goede met zichzelf voor, hij gebruikt zijn verstand om het goede te vinden."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Een valse getuige ontloopt zijn straf niet en een leugenaar wordt in het verderf gestort."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Weelde en overvloed horen niet bij een dwaas, dat is net zoiets als een dienaar die over koningen heerst."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Een verstandig mens wordt niet snel kwaad, het siert hem dat hij over onrecht heen kan stappen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De woede van een koning lijkt op het brullen van een jonge leeuw, maar is die koning iemand goedgezind, dan is hij mild als zachte dauw."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Een dwaze zoon is een ramp voor zijn vader en het gekijf van een vrouw is een aanhoudende kwelling."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Huis en goederen zijn een erfenis van de ouders, maar een verstandige vrouw is een gave van de HERE."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Luiheid maakt een mens steeds slaperiger en wie niets uitvoert, zal honger lijden."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wie naar Gods geboden leeft, beschermt zichzelf. Wie zijn leefregels de rug toekeert, zal sterven."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wie de arme mensen helpt, is een vreugde voor de HERE, Hij zal hem daarvoor belonen."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Straf uw zoon, zolang dat nog helpt, maar laat het uit uw hoofd hem te doden."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Iemand die onbeheerst is, zal zelf zijn straf moeten dragen. Probeert u hem te helpen, dan wordt het alleen maar erger."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Luister naar raad en berisping, zodat u uiteindelijk toch verstandig wordt."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "In het hart van een mens leven vele verborgen gedachten, maar wat de HERE besluit gebeurt."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ieder mens wil wel graag goeddoen, het is beter arm te zijn dan een leugenaar."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Eerbiedig ontzag voor de HERE geeft leven, want wie daarvan vol is, kan voldaan en rustig leven, hij hoeft nergens bang voor te zijn."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Een luiaard houdt zijn handen liever in zijn zakken, hij is nog te lui om ermee te eten."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Bestraf een spotter, want dat is een les voor anderen. Als je een verstandige berispt, dan krijgt hij inzicht."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Wie zijn eigen vader ru\u00efneert en zijn moeder verjaagt, maakt zichzelf en zijn ouders te schande."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Mijn zoon, als je toch niet van plan bent om verstandige raad op te volgen, luister dan maar helemaal niet."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Een boosdoener laat zich niets gelegen liggen aan de wet, de goddeloze slobbert gretig van de ongerechtigheid."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "De spotters staat straf te wachten en het zal slagen regenen op de ruggen van dwaze mensen."
+                }
+            }
+        },
+        "20": {
+            "chapter_nr": "20",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wijn maakt een mens overmoedig en sterke drank zorgt voor veel opwinding, het is niet verstandig te veel te drinken."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "De woede van een koning jaagt de mensen evenveel schrik aan als het gebrul van een jonge leeuw. Wie met hem de strijd aanbindt, speelt met zijn leven."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Het is een eer voor een man als hij ruzies vermijdt, alleen een dwaas mengt zich in geschillen."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vanwege de naderende winter laat de luiaard het ploegen na, om er in de oogsttijd achter te komen dat er voor hem niets te oogsten valt."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Het hart van een verstandig man is een onuitputtelijk reservoir van wijsheid. Wie verstandig is, tracht van hem te leren."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De meerderheid van de mensen gaat prat op eigen goedheid, maar is er nog wel een trouw mens te vinden?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Het leven van een rechtvaardige ademt zijn oprechtheid, zijn kinderen zijn gelukkig te prijzen."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Een koning die vanaf zijn troon rechtspreekt, haalt met \u00e9\u00e9n oogopslag recht en onrecht uit elkaar."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Is er iemand die kan zeggen: \u2018Ik heb mijn hart gereinigd en ben gezuiverd van mijn zonde\u2019?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De HERE heeft een afkeer van veel dingen, maar van deze twee zeker: ongelijke gewichten en ongelijke inhoudsmaten."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Een jongen geeft zich, in zijn kinderlijkheid, gemakkelijk bloot en toont zo wat hij in zich heeft, of zijn daden oprecht en eerlijk zullen zijn."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De HERE heeft veel dingen gemaakt, ogen om mee te zien en oren om mee te horen."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wees niet lui en slaperig, anders wacht u de armoede. Als u uw ogen openhoudt, zult u genoeg hebben om in uw lichamelijke behoeften te voorzien."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u2018Dat lijkt me niets, het is niets waard,\u2019 zal de koper roepen, maar wanneer de koop gesloten is, wrijft hij zich tevreden in de handen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Goud en robijnen zijn er in overvloed, maar wijze en goede woorden zijn een schaars en kostbaar goed."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Heeft iemand zich garant gesteld voor een onbekende, neem dan zijn mantel als onderpand."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Onrechtmatig verkregen goed smaakt aanvankelijk zoet, maar verandert ten slotte in een mondvol scherpe stenen."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Goede adviezen brengen gedachten tot uitvoer. Bind de strijd pas aan na overleg."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Een roddelaar maakt zaken bekend die verborgen moesten blijven, bemoei u daarom niet met mensen die u uitspraken ontlokken."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wie zijn ouders vervloekt, zal alles verliezen en achterblijven in een inktzwarte duisternis, zonder enig lichtpunt."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Snel vergaarde rijkdom verliest ten slotte zijn waarde."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Zeg niet dat u het onrecht zult wreken, wacht liever op de HERE, want Hij zal u bijstaan."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De HERE verafschuwt ongelijke gewichten en een weegschaal waarmee geknoeid is, is een zonde."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "De HERE bepaalt het leven van de mens, dus hoe zou de mens zijn levensweg kunnen begrijpen?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Mensen maken gemakkelijk de fout God iets te beloven, om daarna pas te beseffen wat zij hebben gezegd."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Een verstandige koning ontdoet zich van goddelozen en straft hen zwaar."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "De HERE heeft de mens het vermogen gegeven zelf een licht te werpen op zijn diepste gedachten en beweegredenen."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Goedheid en liefde voor de waarheid zijn van levensbelang voor de koning, op die goedheid steunt zijn troon."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Het sieraad van de jeugd is kracht, dat van de ouderen het grijze haar."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Alleen zware straffen kunnen een boosdoener zuiveren, alleen slagen die hem diep treffen, kunnen zijn innerlijk veranderen."
+                }
+            }
+        },
+        "21": {
+            "chapter_nr": "21",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Het hart van de koning ligt in de hand van de HERE, als een waterloop kan het naar alle kanten worden gebogen, zodat de koning precies doet wat de HERE wil."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mensen leven zoals zij denken dat het goed is, maar de HERE kijkt dieper, Hij ziet wat in het hart omgaat."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Rechtvaardigheid en wetshandhaving zijn in de ogen van de HERE beter dan offers."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hooghartige blikken, trotse harten en alles wat een goddeloze nog meer doet, is zonde."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Een vlijtig mens krijgt alles wat hij nodig heeft, ja, zelfs nog meer dan dat, maar armoede wacht hem die heel snel heel veel wil hebben."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Wie met leugen en bedrog zijn fortuin wil maken, hoeft niet op succes te rekenen en stelt zijn leven in de waagschaal."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De goddelozen worden met gelijke munt terugbetaald, omdat zij weigeren ieder het zijne te geven."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Een slecht mens leidt een zondig leven en een goed mens leeft tot eer van God."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Het is beter op een hoek van het platte dak te wonen, dan in \u00e9\u00e9n huis met een ruziezoekende vrouw."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De goddeloze is helemaal gericht op zondigen, zelfs zijn naaste of vriend ontziet hij daarbij niet."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Als een spotter gestraft wordt, komt hij weer op het goede pad en wordt verstandig. Als een verstandig mens onderwezen wordt, dan neemt hij dat ter harte."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De rechtvaardige doet er goed aan op te letten hoe het de goddeloze vergaat, want God zal de goddelozen in het verderf storten."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wie zijn oren dichtstopt voor het hulpgeroep van de armen, wordt zelf ook niet verhoord, wanneer hij om hulp roept."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Een geschenk dat onopvallend wordt gegeven, helpt de woede bekoelen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Een oprecht mens vindt voldoening in rechtvaardigheid, maar voor boosdoeners is dat een verschrikking."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Een mens die de goede weg verlaat, kan tot de doden worden gerekend."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wie uitsluitend pleziertjes najaagt, staat armoede te wachten. Wie houdt van drank en overdaad, wordt nooit rijk."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "De goddeloze moet boeten in plaats van de rechtvaardige, de trouweloze boet voor de oprechte."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Het is beter in de woestijn te wonen dan bij een ruzi\u00ebnde en kijvende vrouw."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "De wijze beschikt over voldoende geld en heerlijk ruikende olie, een dwaas mens zou dat er in korte tijd doordraaien."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Wie zijn best doet ieder het zijne te geven en gul te zijn, krijgt alles wat hij nodig heeft, het leven en aanzien."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Een wijze weet een sterke stad te bedwingen en overwint de sterke mannen waarop de stad vertrouwde."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Wie zijn mond en tong in bedwang houdt, vrijwaart zich van problemen."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Een hoogmoedige opschepper, in feite een spotter, laat zich leiden door hooghartigheid en drift."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "De manier van leven van de luiaard leidt hem naar de ondergang, hij weigert met zijn handen te werken."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "De begerige hunkert de hele dag naar meer en mooier, maar de rechtvaardige geeft ieder het zijne en houdt niets achter."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Het offer van een goddeloze is op zichzelf al een gruwel, laat staan als hij een offer brengt met in zijn achterhoofd een schandelijk plan."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Een valse getuige loopt de dood in de armen, maar een man die eerlijk vertelt wat hij weet, is overwinnaar."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Een goddeloze doet zijn eigen zin, maar een oprecht mens leeft bewust met God."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Geen menselijke wijsheid, verstand of overleg is te vergelijken met de HERE."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Je kunt wel paarden optuigen voor de strijd, maar de HERE beslist wie overwint."
+                }
+            }
+        },
+        "22": {
+            "chapter_nr": "22",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Een goede reputatie is belangrijker dan grote rijkdom, goed bekend staan is belangrijker dan zilver en goud."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Rijke en arme mensen leven met elkaar en hebben elkaar nodig, de HERE heeft hen allemaal gemaakt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Een bedachtzaam en verstandig mens ziet het dreigende gevaar en verbergt zich, maar onverstandigen blijven gewoon doorgaan en worden dus gestraft."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "De beloning voor nederigheid en eerbiedig ontzag voor de HERE bestaat uit rijkdom, aanzien en uitzicht op het leven."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Wie de verkeerde weg gaat, vindt struikelblokken op zijn weg. Wie bij God blijft, ontloopt dat alles."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Leer een kind al vroeg wat hij moet weten, dan zal hij later daarnaar leven."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De rijke heerst over de arme en wie leent staat in het krijt bij de uitlener."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wie onrecht zaait, zal problemen maaien, zo zal zijn woede tot een einde komen."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wie vriendelijk is, zal worden gezegend, hij deelde immers zijn brood met de hongerige."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Verdrijf de spotter, dan komt er een einde aan de ruzie, het beschamende meningsverschil zal ophouden."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De koning is een vriend van de man met een oprecht hart, die oprechte gedachten tot uitdrukking brengt."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De ogen van de HERE waken over de ware wijsheid, maar Hij keert Zich krachtig tegen de mensen die Hem ontrouw zijn."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De luiaard verzint allerlei uitvluchten. \u2018Ik kan niet gaan werken,\u2019 zegt hij, \u2018er loopt een leeuw buiten. Dat is mij te gevaarlijk.\u2019"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vleiende woorden van een onbekende vrouw zijn als een diepe gracht, wie zich de woede van de HERE op de hals haalt, valt daarin."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Onbezonnenheid is kenmerkend voor de jeugd, alleen straf kan iemand daarvan bevrijden."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wie zichzelf verrijkt door de arme uit te buiten en gelijk een rijke geschenken geeft, zal zelf met de armoede kennismaken."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Luister goed naar deze wijze uitspraken en stel uw hart open voor mijn kennis en inzicht."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Want het is goed als u die in uw hart sluit, dan zullen ze ook uw woorden be\u00efnvloeden."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ik geef deze wijsheden aan u door, zodat u leert de HERE in alles te vertrouwen."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Heb ik u geen hoogstaande dingen geschreven, vol wijze raad en diep inzicht?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zo kunt u kennismaken met de zekerheid die de waarheid biedt, dan kunt u hen die u om raad vragen, naar waarheid antwoorden."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Beroof de arme niet omdat hij arm is, verpletter de noodlijdende niet voor de rechtbank."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Want de HERE zal als hun beschermer optreden en hun berovers doden."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Mijd het gezelschap van een driftkop en ga niet om met een heethoofd,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "anders loopt u het risico net zo te worden, wat u naar de ondergang voert."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Schaar u niet onder degenen die met een handklap te kennen geven zich garant te stellen voor schulden."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Want waarom het risico lopen dat de schuldeiser uw bed afneemt, omdat u niet kunt betalen?"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Houd u aan de morele grenzen die al van oudsher gelden."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Kent u iemand die een goed vakman is? Hij zal succes hebben en voor koningen werken."
+                }
+            }
+        },
+        "23": {
+            "chapter_nr": "23",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wanneer u bij een hooggeplaatste aan tafel zit, let dan op wat u wordt voorgezet."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Beheers u als u een liefhebber van lekker eten bent,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "laat u niet het hoofd op hol brengen door dat heerlijke eten, want weelde is maar al te verlokkelijk."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Doe geen moeite rijk te worden, u kunt uw gaven beter voor iets anders gebruiken."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Staar u niet blind op rijkdom, die in feite niets voorstelt. Rijkdom is ook maar vergankelijk. Zoals een vogel opvliegt, kan het weer verdwijnen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Eet niet bij een vrekkig en jaloers mens, staar u niet blind op al zijn heerlijke eten."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hij houdt zijn gedachten voor zichzelf en al nodigt hij u vriendelijk uit, in zijn hart meent hij dat niet."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "U zou er spijt van krijgen dat u daar gegeten hebt en uw vriendelijke woorden zouden zijn verspild."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Praat niet tegen een dwaas, want hij heeft geen enkele waardering voor de wijsheid van uw woorden."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Houd u aan de morele grenzen die al van oudsher gelden en blijf van de bezittingen van wezen af."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Want God, hun Verlosser, is sterk, Hij zal hen tegen u in bescherming nemen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Open uw hart voor wijze lessen en spits uw oren als er verstandig wordt gesproken."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Aarzel niet een jongen te straffen, van een pak slaag gaat hij echt niet dood."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Door hem af en toe te straffen kunt u hem voor de ondergang behoeden."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mijn zoon! Reken maar dat ik blij ben als ik zie dat je je verstandig gedraagt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Als ik je oprechte dingen hoor zeggen, zindert de blijdschap door mij heen."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wind je niet op over zondaars, leef voortdurend in eerbiedig ontzag voor de HERE."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Want je kunt er zeker van zijn dat je een beloning wacht, je komt niet bedrogen uit als je op God vertrouwt."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Luister goed, mijn jongen! Wees verstandig en richt je volledig op Gods wil voor je leven."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Houd je afzijdig van drinkebroers en veelvraten,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "want dat soort mensen staat armoede te wachten, hun roes brengt hen tot de bedelstaf."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Luister naar je vader die je heeft verwekt, en kijk niet op je moeder neer, wanneer zij oud geworden is."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Maak je de waarheid eigen tot elke prijs en houd haar, koste wat het kost, vast. Hetzelfde geldt voor wijsheid, onderwijzing en verstand."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Een rechtvaardige zoon doet zijn vader enorm veel plezier. Wie een wijze zoon krijgt, mag blij en dankbaar zijn."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Maak je vader blij en ook je moeder die jou ter wereld bracht."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Mijn zoon, stel je hart voor mij open en let goed op hoe ik leef."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Want een hoer is een diepe, verraderlijke gracht en een vrouw die niet van jou is, is een smalle put waaruit geen ontsnapping mogelijk is."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Als een rover loert zij rond en zij is de oorzaak dat velen God ontrouw worden."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Wie klagen steen en been? Wie maken doorlopend ruzie en raken zonder reden verwond? Wie bekijken de wereld door roodomrande ogen?"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Dat zijn de mensen die zich tot in de kleine uurtjes te buiten gaan aan wijn en sterke drank."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Verlang niet naar de wijn, die rood fonkelt en heerlijk geurt in de beker, die drinkt wel heel gemakkelijk,"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "maar bijt uiteindelijk als een slang en spuwt gif als een adder."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Dan ga je kijken naar dingen die niet van jou zijn, en je mond zal vuile taal spuien."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Je voelt je dan alsof je op een schip bent en alles draait om je heen."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Je zult zeggen: \u2018Ze hebben me geslagen en op me losgebeukt zonder dat ik iets merkte. Wanneer word ik weer wakker? Ik ben hard toe aan een slokje wijn.\u2019"
+                }
+            }
+        },
+        "24": {
+            "chapter_nr": "24",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wees niet jaloers op de boosdoeners en houd je afzijdig van hen,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "in hun hart huist verwoesting en hun woorden klinken onheilspellend."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Een huisgezin wordt opgebouwd met wijsheid en door verstand in stand gehouden,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "inzicht en bedachtzaamheid vullen het met liefde en kostbaarheden."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Een verstandig man bezit een sterke geest en inzicht is belangrijker dan brute kracht."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Want door goed overleg kun je de oorlog in jouw voordeel beslissen, betrouwbare adviseurs zijn de basis van de overwinning."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Een dwaas gaat alle wijsheid boven de pet, daarom zwijgt hij in besprekingen."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wie van plan is iets verkeerds te doen, wordt een uitvinder van schandelijke verzinsels genoemd."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De gedachten van een dwaas zijn zonde, de mens verafschuwt een spotter."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ga je door de knie\u00ebn wanneer het erop aan komt, dan blijkt je kracht tekort te schieten."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Bevrijd hen die weggeleid worden om gedood te worden, doe alles om hun leven te redden."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Als je zegt: \u2018Ik kan er ook niets aan doen,\u2019 zal God, die de harten ziet en de diepste beweegredenen kent, dan niet beter weten? Want God zal de mensen vergelden naar wat zij hebben gedaan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Eet honing, mijn zoon! Want die is goed en smaakt zoet."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Net zo zoet is de wijsheid voor jou en als je je die wijsheid eigen maakt, wacht je een beloning, je hoop op God is dan niet tevergeefs."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Goddeloze! Loer niet op de rechtvaardige! Gebruik geen geweld tegen zijn woonplaats."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Want de rechtvaardige kan vaak vallen, maar zal net zo vaak weer opstaan. De goddelozen zullen echter over hun eigen wandaden struikelen."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wees niet blij wanneer je vijand ten val komt, voel geen vreugde wanneer hij struikelt."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Want als de HERE dat ziet, kan Hij daar boos om worden en zijn toorn van je vijand afnemen."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wind je niet op over boosdoeners en word niet jaloers op goddeloze mensen,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "want de boosdoener krijgt geen beloning en het leven van de goddeloze is maar kort."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Koester ontzag voor de HERE en voor de koning, mijn zoon, sluit je niet aan bij rebellen en opstandelingen."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Want zij zullen onverwacht vernietigd worden en wie weet welke straf hun wacht?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ook de volgende spreuken zijn afkomstig van wijzen. Het is verkeerd om in de rechtspraak partijdig te zijn."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wie een goddeloze onschuldig verklaart, wordt door de oprechte mensen vervloekt en haalt zich de woede van alle volken op de hals."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Maar wie hem veroordelen, zal het goed gaan, zij worden gezegend met voorspoed."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Men kust degene die oprechte antwoorden geeft."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Zorg eerst voor werk buitenshuis en houdt u bezig met uw akker, voordat u aandacht aan uw woonhuis besteedt."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Treed niet zomaar op als getuige tegen uw naaste, want een onjuist getuigenis is niet goed."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Zeg niet: \u2018Ik behandel hem net zoals hij mij behandelt, ik vergeld een man naar wat hij doet.\u2019"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Ik liep langs de akker van een luiaard en langs de wijngaard van een onverstandig mens:"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "hij stond vol distels en werd overwoekerd door onkruid, de stenen muur er omheen was afgebrokkeld."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Ik zag dat en nam het ter harte, ik trok daar mijn les uit."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Nog even slapen, een beetje soezen, nog eventjes lekker liggen,"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "uw armoede is in aantocht en de gebrekkige omstandigheden overvallen u."
+                }
+            }
+        },
+        "25": {
+            "chapter_nr": "25",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hier volgen nog meer spreuken van Salomo. Zij werden opgetekend door de mannen van koning Hizkia van Juda."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "God ontleent eer aan zaken die Hij verborgen houdt, maar koningen ontlenen eer aan het doorgronden van een zaak."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De hoogte van de hemel, de diepte van de aarde en de beweegredenen van koningen zijn voor velen ondoorgrondelijk."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Haal het schuim van het zilver af, dan blijft de goede grondstof voor de smelter over."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Verwijder de goddeloze uit het bijzijn van de koning, dan zal zijn troon steunen op gerechtigheid."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Doe u voor de koning niet beter voor dan u bent, doe niet net alsof u ook een vooraanstaand man bent."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Want het is beter dat men tegen u zegt: \u2018Kom hier naar boven,\u2019 dan dat men u vernedert waar iedereen bij is."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Stort u niet overhaast in geschillen, want mogelijk begaat u dan domheden, wanneer uw naaste u op de vingers tikt."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hebt u een geschil met uw naaste, probeer dat dan eerst onderling bij te leggen en maak niet openbaar wat hij liever voor zich wil houden."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Doet u dat wel, dan wijst men u met de vinger na. Een smet die niet snel wordt vergeten."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Goede en toepasselijke woorden zijn als gouden appels op zilveren schalen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Een wijze berisping aan een open oor is als een gouden oorbel, een halsketting van het zuiverste goud."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Een trouwe gezant is voor zijn zender als een koele drank voor de oogsters, want zijn boodschap doet zijn heer goed."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Iemand die zich laat voorstaan op de vrijgevigheid die hij niet bezit, is als een veelbelovende wolkenpartij, waaruit echter geen druppel regen valt."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Een gezagsdrager laat zich door vriendelijk geduld overtuigen, een vriendelijk woord weet zelfs het hardste hart te vermurwen."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hebt u honing gevonden, eet dan niet meer dan u lust, anders gaat het u misschien tegenstaan en spuugt u het weer uit."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Loop bij uw naaste de deur niet plat, anders krijgt hij misschien genoeg van u en gaat u haten."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Iemand die vals getuigt tegen zijn naaste, is als een hamer, een zwaard en een scherpe pijl."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Een onbetrouwbare vriend is in tijden van nood net zo nutteloos als een gebroken tand voor het kauwen en een verstuikte enkel voor het lopen."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wie vrolijk doet bij een verdrietig mens, is net zo onverstandig als iemand die \u02bcs winters geen jas aantrekt of azijn op loog giet."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Als uw vijand honger heeft, geef hem dan te eten. Heeft hij dorst, geef hem dan te drinken."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Zo stapelt u gloeiende kolen op zijn hoofd en de HERE zal u daarvoor belonen."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De noordenwind brengt regen, roddel en achterklap leiden tot boze gezichten."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Het is beter om op een hoek van het platte dak te wonen, dan onder \u00e9\u00e9n dak met een ruzi\u00ebnde vrouw."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Goed nieuws uit een ver land is als koel water voor een vermoeid en dorstig mens."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "De rechtvaardige die faalt voor de ogen van de goddelozen, lijkt op een fontein die modder spuit, of op een verstopte bron."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Te veel honing eten is niet goed, maar het doorgronden van moeilijke zaken strekt een mens tot eer."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Iemand die zichzelf niet in de hand heeft, is als een stad zonder beschermende muur."
+                }
+            }
+        },
+        "26": {
+            "chapter_nr": "26",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Eer past net zomin bij een dwaas als sneeuw past bij de zomer en regen bij de oogsttijd."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Een ongegronde vervloeking treft geen doel, hij zweeft weg als een mus, vliegt op als een zwaluw."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De zweep is er voor het paard, het bit is er voor de ezel en de roe is er voor de rug van de dwaas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ga niet in op de woorden van een dwaas, anders verlaagt u zich tot zijn niveau."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Weerleg de woorden van een dwaas, anders denkt hij misschien dat hij nog gelijk heeft ook."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Wie zijn woorden laat overbrengen door een dwaas, maakt het zichzelf moeilijk en berokkent zich schade."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Een spreuk in de mond van een dwaas is net zo kreupel als de slappe benen van een verlamde."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wie een steen in de slinger vastbindt, zodat hij niet kan worden geworpen, doet hetzelfde als iemand die een dwaas aanzien geeft."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Een dronkaard kan net zomin omgaan met een doorn in zijn hand als een dwaas met een spreuk."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wie dwazen en onbekenden in dienst neemt, lijkt op een boogschutter die in het wilde weg schiet."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Zoals een hond terugkeert naar zijn eigen braaksel, houdt de dwaas vast aan zijn onverstand."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hebt u een man gezien die zichzelf als wijs beschouwt? Welnu, van een dwaas mag u meer verwachten dan van hem."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De luiaard gebruikt alle mogelijke uitvluchten, desnoods beweert hij dat een gevaarlijke leeuw op straat loopt."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Zoals een deur op zijn scharnieren draait, zo draait de luiaard zich om in zijn bed."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "De luiaard houdt zijn handen liever in zijn zakken, hij is nog te beroerd om ermee te eten."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "De luiaard acht zichzelf wijzer dan alle verstandige mensen om hem heen."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Een voorbijganger die zich in een ruzie mengt die hem niet aangaat, is net zo gevaarlijk bezig als iemand die een hond uitdaagt."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wie zonder aanleiding als een razende zijn pijlen en bedreigingen om zich heenwerpt,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "is te vergelijken met iemand die zijn naaste bedriegt en dan zegt: \u2018Ach, ik deed het toch voor de grap?\u2019"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Zonder hout gaat het vuur uit, zo houdt ook de ruzie op als de roddelaar verdwijnt."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zoals kolen het vuur doen opgloeien en hout het vuur laat vlammen, zo laat een ruziezoeker ruzies opvlammen."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Naar de woorden van een roddelaar wordt gretig geluisterd. Zij zetten zich vast in het gemoed van de toehoorders."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Een boosaardig hart achter vriendelijk klinkende woorden is als een waardeloos voorwerp, overtrokken met een laagje zilver."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wie haatdragend is, laat dat van buiten niet merken, maar in zijn hart gaat heel wat anders om."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Geloof zijn smeekbeden niet, want u zou gruwen als u in zijn hart kon kijken."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ook al tracht iemand zijn haatgevoelens te maskeren, zijn kwade voornemens zullen aan het licht komen."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Wie een kuil graaft voor een ander, zal er zelf invallen. Wie iemand met een steen wil verpletteren, zal zelf onder die steen terechtkomen."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Een leugenaar haat degene tegen wie hij zich keert en gladde praatjes richten een mens te gronde."
+                }
+            }
+        },
+        "27": {
+            "chapter_nr": "27",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Verheug u niet bij voorbaat over de dag van morgen, want u weet niet wat een dag zal brengen."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Laat u liever door een ander prijzen, dat is beter dan dat u zichzelf prijst."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Een steen is zwaar en zand gewichtig, maar de woede van een dwaas is zwaarder om te dragen."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Boosheid en overmatige woede brengen wreedheid voort, maar zij zijn nog niets vergeleken bij jaloezie."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Een openlijke bestraffing is beter dan dat iemand zwijgt uit liefde."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De berispingen van iemand die van u houdt, worden ingegeven door vriendschap. Maar vriendelijkheid van iemand die u haat, komt voort uit bedrog."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Iemand die zojuist gegeten heeft, taalt niet meer naar lekker eten, maar honger maakt rauwe bonen zoet."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Zoals een uit het nest gevallen vogel rondzwerft, zo doolt een man rond die zijn vaderstad verliet."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Geurige olie maakt het hart blij, net zoals de goede raad die de ene vriend de andere geeft."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Verlaat uw vriend en die van uw vader niet, maar wendt u in tijden van tegenspoed niet tot uw broeder. Want een goede buurman is beter dan een ver familielid."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wees verstandig, mijn zoon, en maak mijn hart blij, dan kan ik wie mij aanvalt van repliek dienen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Een bedachtzaam en verstandig mens ziet het dreigend gevaar en verbergt zich, maar de onverstandigen blijven gewoon doorgaan en worden dus gestraft."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Heeft iemand zich garant gesteld voor een onbekende, neem dan zijn mantel als onderpand."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Wie zijn kennis al \u02bcs morgens vroeg luidruchtig en joviaal een groet toeroept, zal met argwaan bekeken worden."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Een lekkend dak bij zware regen is net zo erg als een ruzi\u00ebnde vrouw."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zij is net zo ongrijpbaar als de wind, netzomin te verbergen als de geurige olie die u op uw rechterhand strijkt."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Zoals ijzer met ijzer wordt geslepen, zo scherpt de ene mens de ander."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wie goed voor de vijgenboom zorgt, zal de vijgen ervan eten. Wie zorg heeft voor zijn heer, wordt gerespecteerd."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Zoals het water het uiterlijk van een mens weerspiegelt, geeft het hart van een mens zijn innerlijk weer."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hel en verderf zijn nooit te verzadigen, datzelfde geldt voor de verlangens van een mens."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zoals de smeltkroes het zilver toetst en de oven het goud, zo wordt een mens getoetst door zijn reputatie."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Al stamp je een dwaas in een mortier met een vijzel, midden tussen het gestampte graan, toch raakt hij zijn dwaasheid niet kwijt."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Doe uw best om elk schaap in uw kudde te kennen, let goed op uw have en vee."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Want rijkdom duurt niet eeuwig en aanzien en rijkdom gaan niet vanzelfsprekend over van vader op zoon."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Wanneer het gras opkomt en begint te bloeien, moeten de gewassen op de berghellingen worden geoogst."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "De huiden en de wol van uw lammeren kunt u gebruiken voor kleding, met de bokken kunt u betalen voor de grond."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Bovendien is de geitenmelk grondstof van veel voedsel voor u, uw gezin en uw personeel."
+                }
+            }
+        },
+        "28": {
+            "chapter_nr": "28",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Goddelozen vluchten, ook als ze niet worden achtervolgd, maar iedere rechtvaardige heeft de moed van een jonge leeuw."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Als de inwoners van een land veel zondigen, volgen de koningen elkaar in snel tempo op, maar verstandige en wijze onderdanen maken lange regeerperioden mogelijk."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Een arme man die andere armen onderdrukt, lijkt op een verwoestende slagregen die alle gewassen op het veld neerslaat."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Wie de wet de rug toekeren, hebben bewondering voor de goddelozen, maar wie naar de wet leven, binden de strijd tegen hen aan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Boosdoeners begrijpen niet wat de HERE van hen verwacht, maar zij die naar de HERE luisteren, beseffen dat maar al te goed."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Een arme die oprecht en eerlijk leeft, is beter dan een zondaar, ook al is die rijk."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Wie leeft naar de wet, is een verstandige zoon. Maar wie het gezelschap van brassers zoekt, bezorgt zijn ouders schande en verdriet."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wie zijn rijkdom verzamelt door woekerrente en te hoge prijzen, doet al dat werk, zonder het te beseffen, voor degene die zich over de armen ontfermt."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wie weigert naar de wet te luisteren, moet weten dat God zijn gebed verafschuwt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wie oprechten ompraat en op het verkeerde pad brengt, stort zelf in de kuil die hij voor hen groef. Wie God volgen, zullen echter gelukkig worden."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Een rijk man doet wat hem goeddunkt, maar de arme die verstandiger is dan hij, kijkt dwars door zijn rijkdom en weelde heen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Wanneer het de rechtvaardigen goed gaat, gaat het het hele land goed, maar bij de opkomst van de goddelozen verbergen de mensen zich uit angst."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wie niet voor zijn zonden uitkomt, kent geen voorspoed, maar wie ze belijdt en zijn leven betert, kan rekenen op liefde en genade."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Gelukkig is hij die ontzag heeft voor de HERE, maar wie opstandig blijft, wordt in het verderf gestort."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Een goddeloze leider van een arm volk gaat tekeer als een brullende leeuw en een grommende beer."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Een onverstandige koning bezorgt zijn onderdanen veel onderdrukking, maar wie niet alles opoffert aan geldelijk gewin, wordt oud."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wie een moord op zijn geweten heeft, zal tot zijn dood toe vluchten. Laat niemand hem daarvan weerhouden!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wie oprecht leeft, wordt gered, maar wie van twee walletjes wil eten, zal ten val komen."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wie zijn land bebouwt, krijgt genoeg te eten, maar wie met leeglopers optrekt, staat armoede te wachten."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wie betrouwbaar is, zal volop worden gezegend, maar wie ten koste van alles rijk wil worden, zal zijn straf niet ontlopen."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Partijdig zijn is niet goed, maar al voor een stuk brood is men ertoe bereid."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Wie nietsontziend rijkdom najaagt, wordt een gierig en kwaadaardig mens. Hij weet het nog niet, maar armoede staat hem te wachten."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Wie wordt berispt, zal merken dat hem dat goed doet en dat het beter is dan wanneer hij naar de mond wordt gepraat."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wie zijn ouders berooft en zegt: \u2018Daar is niets verkeerds aan,\u2019 is slecht en staat gelijk aan een misdadiger."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Een onbescheiden mens is een aanstichter van ruzie, maar wie op de HERE vertrouwt, gaat het goed."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Wie op eigen oordeel vertrouwt, is een dwaas, maar wie op Gods wijsheid bouwt, ontkomt aan de straf."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Wie een arme geeft, zal zelf geen gebrek lijden, maar wie de nood van de armen niet wil zien, zal veelvuldig worden vervloekt."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Wanneer de goddelozen aan de macht komen, verbergen de mensen zich uit angst, maar wanneer die goddelozen omkomen, gaat het de rechtvaardigen weer goed."
+                }
+            }
+        },
+        "29": {
+            "chapter_nr": "29",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Een man die ondanks veelvuldige waarschuwingen weigert zijn leven te beteren, komt onverwacht ten val."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Wanneer de rechtvaardigen aan de macht komen, voelt het volk zich tevreden, maar onder het bewind van een goddeloze wordt het volk verdrukt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Een vader is blij met een verstandige zoon, maar een hoerenloper jaagt zijn geld erdoor."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Een koning houdt zijn land gezond door rechtvaardig te regeren, maar een corrupte koning leidt zijn land naar de ondergang."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Iemand die zijn naaste stroop om de mond smeert, misleidt hem."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Een boosdoener zit gevangen in zijn eigen kwaad, maar de rechtvaardige leeft blij en zingt van vreugde."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Een rechtvaardige rechter spant zich in voor de armen, de goddeloze beseft echter niet dat hij de arme moet helpen."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Spotters zijn een schandvlek en een gevaar voor een stad, wijze mensen weten Gods toorn echter af te wenden."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Het is zinloos als een verstandig mens een dwaas voor de rechter sleept. Of hij nu vriendelijk is of kwaad, de dwaas is toch niet tot rede te brengen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bloeddorstige lieden hebben een hekel aan eerlijke mensen, maar oprechten trachten hun leven te redden."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Een dwaas schreeuwt van woede, een verstandig mens beheerst zich en komt tot rust."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Een leider die naar leugens luistert, heeft goddeloze dienaars."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De overeenkomst tussen een arm mens en een machthebber is dat beiden van God het licht in de ogen hebben gekregen."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Een koning die de rechten van de arme serieus neemt, is zeker van zijn macht."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Straf en berisping leiden tot wijsheid, maar een kind dat aan zichzelf wordt overgelaten, wordt een schande voor zijn ouders."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Groeit het aantal goddelozen, dan neemt ook de zonde toe, maar de rechtvaardigen zullen hen overleven."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Als u uw zoon bestraft, komt hij goed terecht, hij zal u reden tot blijdschap geven."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Als het volk Gods boodschap niet meer hoort, raakt het uit de koers. Gelukkig is hij die naar Gods wet leeft."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Een knecht luistert nauwelijks naar berisping. Hij hoort u wel, maar trekt zich er niets van aan."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kent u iemand die onbezonnen spreekt? Zo\u02bcn man is nog dommer dan een dwaas."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Als u te goed bent voor een knecht, denkt hij ten slotte dat hij dezelfde rechten heeft als uw zoon."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Iemand die snel kwaad wordt, lokt ruzie uit en een opvliegend mens zondigt maar al te gemakkelijk."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Hoogmoed komt voor de val, maar een nederig mens wordt gewaardeerd."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wie met een dief de buit deelt, schaadt zichzelf. Hetzelfde geldt voor iemand die een vloek hoort en daar niets van zegt."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Angst voor mensen is een valstrik, maar wie op God vertrouwt, is onaantastbaar."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Veel mensen verwachten hun heil van hooggeplaatsten, maar de HERE heeft het laatste woord."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Een oprecht mens verafschuwt een boosdoener, op zijn beurt heeft de boosdoener een afkeer van mensen die eerlijk leven."
+                }
+            }
+        },
+        "30": {
+            "chapter_nr": "30",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dit zijn de woorden van Agur, de zoon van Jake\u2014het zijn woorden van God. De strijder zegt: \u2018God, ik heb zoveel moeite gedaan, ik kan niet meer!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ik schiet tegenover iedereen tekort en het ontbreekt mij aan verstand."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ik heb geen wijsheid verkregen en begrijp ook niets van alles wat heilig is.\u2019"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Wie ging er naar de hemel en kwam weer terug? Wie houdt de wind stevig vast? Wie heeft al het water in een mantel gebonden? Wie gaf de aarde haar vorm en omtrek? Hoe heet Hij en hoe heet zijn Zoon? Zeg het mij als u het weet."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Gods woorden zijn puur en zuiver, Hij beschermt ieder die op Hem vertrouwt."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Voeg niets aan zijn woorden toe, want dan straft Hij u, omdat u een leugenaar bent."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "God, ik heb twee dingen aan U gevraagd en geef mij die alstublieft voordat ik sterf:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "houd ongeloof en leugens bij mij weg, geef mij armoe noch rijkdom, maar alleen wat ik nodig heb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Want als ik verzadigd zou zijn, zou ik U misschien verloochenen door te zeggen: \u2018Wie is de HERE?\u2019 En als ik arm was, zou ik misschien gaan stelen en daardoor uw naam oneer aandoen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Klaag een knecht niet aan bij zijn meester, anders vervloekt hij u misschien en beschouwt God u als schuldig."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Er zijn mensen die hun ouders vervloeken,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "mensen die zichzelf goed vinden, maar in werkelijkheid zondig zijn,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "mensen die hooghartig om zich heen kijken en anderen verachten,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "mensen die hun tanden als zwaarden en hun kiezen als messen gebruiken, om daarmee de noodlijdenden en de armen te vermalen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "De bloedzuiger heeft twee dochters: ze zijn onverzadigbaar en willen steeds meer. Drie dingen zijn absoluut niet te verzadigen, voor de volgende vier dingen is het nooit genoeg:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "het graf, een onvruchtbare baarmoeder, de aarde die nooit genoeg water heeft, en het vuur. Geen van die vier zegt ooit: \u2018Nu is het genoeg.\u2019"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Het oog waaruit minachting voor een vader spreekt of dat opstandig kijkt naar een moeder, wordt uitgepikt door de raven bij de beek, wordt voedsel voor de jonge adelaars."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Veel dingen zijn voor mij onbegrijpelijk, de volgende vier kan ik niet bevatten:"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "een adelaar die hoog aan de hemel zweeft, een slang die moeiteloos over een gladde rots kruipt, een schip dat veilig door de golven vaart en wat gebeurt tussen een man en zijn jonge vrouw."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "En minstens zo onbegrijpelijk is het gedrag van een vrouw die overspel pleegt: zij zondigt, kleedt zich weer aan en zegt: \u2018Ik heb niets verkeerds gedaan.\u2019"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Mensen hebben een afschuw van veel dingen en de volgende vier dingen zijn onverdraaglijk:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "een knecht die macht krijgt, een dwaas die in weelde leeft,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "een verbitterde vrouw die toch trouwt en een dienares die de plaats van haar meesteres inneemt."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "De volgende vier zijn weliswaar klein, maar hebben van God grote wijsheid gekregen:"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "de mieren hebben weliswaar geen verstand, maar zijn toch zo verstandig in de zomer hun voedsel te verzamelen,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "klipdassen mogen dan redeloze dieren zijn, maar hebben wel hun hol in de rotsen,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "hoewel sprinkhanen geen leider hebben, trekken zij op in geordende groepen,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "de hagedis is met de hand te pakken, maar leeft zelfs in koninklijke paleizen."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Er zijn veel indrukwekkende dingen op aarde, de volgende vier bijvoorbeeld:"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "een oude leeuw, een bejaarde koning der dieren die voor niemand aan de kant gaat,"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "een soepel rennende windhond, een trotse bok en een onoverwinnelijke koning."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Hebt u in uw woede dwaas gehandeld of hebt u kwaad in de zin, zwijg dan en voer uw plan niet uit!"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Want door melk te karnen ontstaat boter, door te hard op de neus te drukken ontstaat een bloedneus en door woede op te wekken ontstaat ruzie."
+                }
+            }
+        },
+        "31": {
+            "chapter_nr": "31",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Koning Lemu\u00ebl van Massa schreef de levenslessen op die zijn moeder hem leerde."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Wat zal ik je vertellen, mijn zoon, die uit mij geboren werd, om wie ik zoveel geloften deed?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Lever jezelf niet uit aan de vrouwen en zet je zinnen niet op oorlogvoering en het veroveren van koninkrijken."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Het is niet goed als koningen te veel wijn drinken, Lemu\u00ebl, en drankzucht past niet bij hen,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "want als de koning te veel drinkt, loopt hij gevaar de rechtvaardigheid uit het oog te verliezen, wat de onderdrukten kan benadelen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Geef sterke drank maar aan iemand die in de put zit, wijn aan iemand die erg verdrietig is,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "want wanneer zij drinken, vergeten zij hun armoede en zorgen."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kies de kant van de onmondigen, van hen die buiten hun schuld gevaar lopen."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Spreek en vel een rechtvaardig vonnis, geef de onderdrukten en noodlijdenden hun recht."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wie is zo gelukkig een goede vrouw te vinden? Zij is immers veel meer waard dan de duurste edelstenen?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Haar man vertrouwt volledig op haar en het zal hem aan niets ontbreken."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Zij benadeelt hem nooit, doet haar hele leven goed."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ze zoekt wol en vlas, die ze met rappe handen verwerkt."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Zoals een koopman zijn handelsschepen uitzendt, zorgt zij dat zij over al het nodige beschikt, ook al moet dat van ver komen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "In de vroege morgen, wanneer het nog donker is, staat zij op en zorgt dat haar gezin en het personeel kunnen eten."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Als zij haar zinnen heeft gezet op een bepaalde akker, krijgt zij hem ook, met wat zij verdient plant ze een wijngaard."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Vlijtig gaat zij aan het werk, zij is met opgestroopte mouwen aan de slag."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Zij merkt dat haar werk vruchten afwerpt en het is dan ook vaak nacht voordat zij gaat slapen."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Snel schieten haar handen over haar spinnewiel, vaardig schikken zij het vlas."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ze staat altijd klaar om een noodlijdende te helpen, iedereen kan op haar hulp rekenen."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zij maakt zich geen zorgen om haar gezin wanneer de winter komt, want zij heeft voor mooie en warme kleding gezorgd."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Zij maakt voor zichzelf prachtige tapijten en draagt kleren van fijn linnen en prachtig gekleurde stoffen."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Haar man is een gezien figuur op de plaatsen, waar recht wordt gesproken en is een van de leiders van het land."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Zij maakt linnen kleding en verkoopt die en levert gordels aan de koopman."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kracht en waardigheid stralen van haar af en zij ziet elke nieuwe dag met vertrouwen tegemoet."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Uit haar woorden spreekt wijsheid en de wil om goed te doen."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Zij weet precies wat in haar huishouding gebeurt en op luiheid zul je haar niet betrappen."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Haar kinderen kijken tegen haar op en haar man prijst zich gelukkig en zegt:"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "\u2018Er zijn veel goede vrouwen, maar jij overtreft ze allemaal!\u2019"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Uiterlijke schoonheid is bedrieglijk en verdwijnt, maar een vrouw die ontzag heeft voor de HERE, verdient bewondering en lof."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Haar goede daden zullen haar eer en erkenning opleveren, zelfs van hooggeplaatste mensen."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,955 @@
+{
+    "version": "NBLA",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vanidad de todo esfuerzo - Palabras del Predicador, hijo de David, rey en Jerusal\u00e9n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00abVanidad de vanidades\u00bb, dice el Predicador, \u00abVanidad de vanidades, todo es vanidad\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bfQu\u00e9 provecho recibe el hombre de todo el trabajo Con que se afana bajo el sol?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Una generaci\u00f3n va y otra generaci\u00f3n viene, Pero la tierra permanece para siempre."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El sol sale y el sol se pone, A su lugar se apresura. De all\u00ed vuelve a salir."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Soplando hacia el sur, Y girando hacia el norte, Girando y girando va el viento; Y sobre sus giros el viento regresa."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Todos los r\u00edos van hacia el mar, Pero el mar no se llena. Al lugar donde los r\u00edos fluyen, All\u00ed vuelven a fluir."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Todas las cosas son fatigosas, El hombre no puede expresarlas. No se sacia el ojo de ver, Ni se cansa el o\u00eddo de o\u00edr."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Lo que fue, eso ser\u00e1, Y lo que se hizo, eso se har\u00e1; No hay nada nuevo bajo el sol."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bfHay algo de que se pueda decir: \u00abMira, esto es nuevo\u00bb? Ya exist\u00eda en los siglos Que nos precedieron."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "No hay memoria de las cosas primeras Ni tampoco de las postreras que suceder\u00e1n; No habr\u00e1 memoria de ellas Entre los que vendr\u00e1n despu\u00e9s."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vanidad del saber - Yo, el Predicador, he sido rey sobre Israel en Jerusal\u00e9n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Y apliqu\u00e9 mi coraz\u00f3n a buscar e investigar con sabidur\u00eda todo lo que se ha hecho bajo el cielo. Tarea dolorosa dada por Dios a los hijos de los hombres para ser afligidos con ella."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "He visto todas las obras que se han hecho bajo el sol, y he observado que todo es vanidad y correr tras el viento."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Lo torcido no puede enderezarse, Y lo que falta no se puede contar."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Yo me dije: \u00abYo he engrandecido y aumentado en sabidur\u00eda m\u00e1s que todos los que estuvieron antes de m\u00ed sobre Jerusal\u00e9n; mi coraz\u00f3n ha contemplado mucha sabidur\u00eda y conocimiento\u00bb."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Y apliqu\u00e9 mi coraz\u00f3n a conocer la sabidur\u00eda y a conocer la locura y la insensatez. Me di cuenta de que esto tambi\u00e9n es correr tras el viento."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Porque en la mucha sabidur\u00eda hay mucha angustia, Y quien aumenta el conocimiento, aumenta el dolor."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vanidad de las cosas terrenales - Entonces me dije: \u00abVen ahora, te probar\u00e9 con el placer; divi\u00e9rtete\u00bb. Y result\u00f3 que tambi\u00e9n esto era vanidad."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dije de la risa: \u00abEs locura\u00bb; y del placer: \u00ab\u00bfQu\u00e9 logra esto?\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Consider\u00e9 en mi coraz\u00f3n estimular mi cuerpo con el vino, mientras mi coraz\u00f3n me guiaba con sabidur\u00eda, y echar mano de la insensatez, hasta que pudiera ver qu\u00e9 hay de bueno bajo el cielo que los hijos de los hombres hacen en los contados d\u00edas de su vida."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Engrandec\u00ed mis obras, me edifiqu\u00e9 casas, me plant\u00e9 vi\u00f1as;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "me hice jardines y huertos, y plant\u00e9 en ellos toda clase de \u00e1rboles frutales;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "me hice estanques de aguas para regar el bosque con \u00e1rboles en pleno crecimiento."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Compr\u00e9 esclavos y esclavas, y tuve esclavos nacidos en casa. Tuve tambi\u00e9n ganados, vacas y ovejas, m\u00e1s que todos los que me precedieron en Jerusal\u00e9n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Reun\u00ed tambi\u00e9n plata y oro para m\u00ed y el tesoro de los reyes y de las provincias. Me prove\u00ed de cantores y cantoras, y de los placeres de los hombres, de muchas concubinas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Me engrandec\u00ed y super\u00e9 a todos los que me precedieron en Jerusal\u00e9n; tambi\u00e9n la sabidur\u00eda permaneci\u00f3 conmigo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Y de todo cuanto mis ojos deseaban, nada les negu\u00e9, ni priv\u00e9 a mi coraz\u00f3n de ning\u00fan placer, porque mi coraz\u00f3n gozaba de todo mi trabajo. Esta fue la recompensa de toda mi labor."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Consider\u00e9 luego todas las obras que mis manos hab\u00edan hecho y el trabajo en que me hab\u00eda empe\u00f1ado, y result\u00f3 que todo era vanidad y correr tras el viento, y sin provecho bajo el sol."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Yo volv\u00ed, pues, a considerar la sabidur\u00eda, la locura y la insensatez. Porque \u00bfqu\u00e9 har\u00e1 el hombre que venga despu\u00e9s del rey sino lo que ya ha sido hecho?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Y yo vi que la sabidur\u00eda sobrepasa a la insensatez, como la luz a las tinieblas."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "El sabio tiene ojos en su cabeza, Pero el necio anda en tinieblas. Aunque yo s\u00e9 tambi\u00e9n que ambos corren la misma suerte."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Entonces me dije: \u00abComo la suerte del necio, as\u00ed tambi\u00e9n ser\u00e1 la m\u00eda. \u00bfPara qu\u00e9, pues, me aprovecha haber sido tan sabio?\u00bb. Y me dije: \u00abTambi\u00e9n esto es vanidad."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Porque no hay memoria duradera del sabio ni del necio, ya que todos ser\u00e1n olvidados en los d\u00edas venideros. \u00a1C\u00f3mo mueren tanto el sabio como el necio!\u00bb."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Y aborrec\u00ed la vida, porque me era penosa la obra que se hace bajo el sol, pues todo es vanidad y correr tras el viento."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Asimismo aborrec\u00ed todo el fruto de mi trabajo con que me hab\u00eda afanado bajo el sol, el cual tendr\u00e9 que dejar al hombre que vendr\u00e1 despu\u00e9s de m\u00ed."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00bfY qui\u00e9n sabe si ser\u00e1 sabio o necio? Sin embargo, \u00e9l tendr\u00e1 dominio sobre todo el fruto de mi trabajo con que me afan\u00e9 obrando sabiamente bajo el sol. Tambi\u00e9n esto es vanidad."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Por tanto me desesper\u00e9 en gran manera por todo el fruto de mi trabajo con que me hab\u00eda afanado bajo el sol."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Cuando hay un hombre que ha trabajado con sabidur\u00eda, con conocimiento y con destreza, y da su hacienda al que no ha trabajado en ella, esto tambi\u00e9n es vanidad y un mal muy grande."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Pues, \u00bfqu\u00e9 recibe el hombre de todo su trabajo y del esfuerzo de su coraz\u00f3n con que se afana bajo el sol?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Porque durante todos sus d\u00edas su tarea es dolorosa y penosa; ni aun de noche descansa su coraz\u00f3n. Tambi\u00e9n esto es vanidad."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "No hay nada mejor para el hombre que comer y beber y decirse que su trabajo es bueno. Yo he visto que tambi\u00e9n esto es de la mano de Dios."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Porque \u00bfqui\u00e9n comer\u00e1 y qui\u00e9n se alegrar\u00e1 sin \u00c9l?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Porque a la persona que le agrada, \u00c9l le ha dado sabidur\u00eda, conocimiento y gozo; pero al pecador le ha dado la tarea de recoger y amontonar para d\u00e1rselo al que agrada a Dios. Esto tambi\u00e9n es vanidad y correr tras el viento."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Todo tiene su tiempo - Hay un tiempo se\u00f1alado para todo, y hay un tiempo para cada suceso bajo el cielo:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tiempo de nacer, y tiempo de morir; Tiempo de plantar, y tiempo de arrancar lo plantado;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tiempo de matar, y tiempo de curar; Tiempo de derribar, y tiempo de edificar;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tiempo de llorar, y tiempo de re\u00edr; Tiempo de lamentarse, y tiempo de bailar;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tiempo de lanzar piedras, y tiempo de recoger piedras; Tiempo de abrazar, y tiempo de rechazar el abrazo;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tiempo de buscar, y tiempo de dar por perdido; Tiempo de guardar, y tiempo de desechar;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tiempo de rasgar, y tiempo de coser; Tiempo de callar, y tiempo de hablar;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tiempo de amar, y tiempo de odiar; Tiempo de guerra, y tiempo de paz."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bfQu\u00e9 saca el trabajador de aquello en que se afana?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "He visto la tarea que Dios ha dado a los hijos de los hombres para que en ella se ocupen."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c9l ha hecho todo apropiado a su tiempo. Tambi\u00e9n ha puesto la eternidad en sus corazones, sin embargo el hombre no descubre la obra que Dios ha hecho desde el principio hasta el fin."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "S\u00e9 que no hay nada mejor para ellos que regocijarse y hacer el bien en su vida;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "adem\u00e1s, s\u00e9 que todo hombre que coma y beba y vea lo bueno en todo su trabajo, que eso es don de Dios."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "S\u00e9 que todo lo que Dios hace ser\u00e1 perpetuo; No hay nada que a\u00f1adirle Y no hay nada que quitarle. Dios ha obrado as\u00ed Para que delante de \u00c9l teman los hombres."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Lo que es, ya ha sido, Y lo que ser\u00e1, ya fue, Porque Dios busca lo que ha pasado."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Aun he visto m\u00e1s bajo el sol: Que en el lugar del derecho est\u00e1 la impiedad, Y en el lugar de la justicia est\u00e1 la iniquidad."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Yo me dije: \u00abAl justo como al imp\u00edo juzgar\u00e1 Dios\u00bb, Porque hay un tiempo para cada cosa y para cada obra."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Me dije tambi\u00e9n en cuanto a los hijos de los hombres: \u00abCiertamente Dios los ha probado para que vean que son como los animales\u00bb."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Porque la suerte de los hijos de los hombres y la suerte de los animales es la misma: como muere el uno as\u00ed muere el otro. Todos tienen un mismo aliento de vida; el hombre no tiene ventaja sobre los animales, porque todo es vanidad."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Todos van a un mismo lugar. Todos han salido del polvo Y todos vuelven al polvo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00bfQui\u00e9n sabe si el aliento de vida del hombre asciende hacia arriba y el aliento de vida del animal desciende hacia abajo, a la tierra?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "He visto que no hay nada mejor para el hombre que gozarse en sus obras, porque esa es su suerte. Porque \u00bfqui\u00e9n le har\u00e1 ver lo que ha de suceder despu\u00e9s de \u00e9l?"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Injusticias de la vida - Entonces yo me volv\u00ed y observ\u00e9 todas las opresiones que se cometen bajo el sol: Y vi las l\u00e1grimas de los oprimidos, Y no ten\u00edan quien los consolara; En mano de sus opresores estaba el poder, Y no ten\u00edan quien los consolara."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "As\u00ed que felicit\u00e9 a los muertos, los que ya murieron, M\u00e1s que a los vivos, los que a\u00fan viven."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pero mejor que ambos est\u00e1 el que nunca ha existido, Que nunca ha visto las malas obras que se cometen bajo el sol."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "He visto que todo trabajo y toda obra h\u00e1bil que se hace es el resultado de la rivalidad entre el hombre y su pr\u00f3jimo. Tambi\u00e9n esto es vanidad y correr tras el viento."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El necio se cruza de manos Y devora su propia carne."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "M\u00e1s vale una mano llena de descanso Que dos pu\u00f1os llenos de trabajo y correr tras el viento."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Entonces yo me volv\u00ed y observ\u00e9 la vanidad bajo el sol:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hab\u00eda un hombre solo, sin sucesor, Que no ten\u00eda hijo ni hermano, Sin embargo, no hab\u00eda fin a todo su trabajo. En verdad, sus ojos no se saciaban de las riquezas, Y nunca se pregunt\u00f3: \u00ab\u00bfPara qui\u00e9n trabajo yo Y privo a mi vida del placer?\u00bb. Tambi\u00e9n esto es vanidad y tarea penosa."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "M\u00e1s valen dos que uno solo, Pues tienen mejor pago por su trabajo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Porque si uno de ellos cae, el otro levantar\u00e1 a su compa\u00f1ero; Pero \u00a1ay del que cae cuando no hay otro que lo levante!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Adem\u00e1s, si dos se acuestan juntos se mantienen calientes, Pero uno solo \u00bfc\u00f3mo se calentar\u00e1?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Y si alguien puede prevalecer contra el que est\u00e1 solo, Dos lo resistir\u00e1n. Un cordel de tres hilos no se rompe f\u00e1cilmente."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mejor es un joven pobre y sabio Que un rey viejo y necio, Que ya no sabe recibir consejos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque ha salido de la c\u00e1rcel para reinar, Aunque naci\u00f3 pobre en su reino."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "He visto a todos los vivientes bajo el sol apresurarse a ir junto al joven sucesor que lo reemplaza."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "No ten\u00eda fin la multitud de todos los que lo segu\u00edan, y ni aun los que vendr\u00e1n despu\u00e9s estar\u00e1n contentos con \u00e9l; pues tambi\u00e9n esto es vanidad y correr tras el viento."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vanidad de las palabras - Guarda tus pasos cuando vas a la casa de Dios, y ac\u00e9rcate a escuchar en vez de ofrecer el sacrificio de los necios, porque estos no saben que hacen el mal."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "No te des prisa en hablar, Ni se apresure tu coraz\u00f3n a proferir palabra delante de Dios. Porque Dios est\u00e1 en el cielo y t\u00fa en la tierra; Por tanto sean pocas tus palabras."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Porque los sue\u00f1os vienen de la mucha tarea, Y la voz del necio de las muchas palabras."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Cuando haces un voto a Dios, no tardes en cumplirlo, porque \u00c9l no se deleita en los necios. El voto que haces, c\u00famplelo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Es mejor que no hagas votos, a que hagas votos y no los cumplas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "No permitas que tu boca te haga pecar, y no digas delante del mensajero de Dios que fue un error. \u00bfPor qu\u00e9 ha de enojarse Dios a causa de tu voz y destruir la obra de tus manos?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Porque en los muchos sue\u00f1os y en las muchas palabras hay vanidades; t\u00fa, sin embargo, teme a Dios."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vanidad de las riquezas - Si ves la opresi\u00f3n del pobre y la negaci\u00f3n del derecho y de la justicia en la provincia, no te sorprendas del hecho, porque un oficial vigila sobre otro oficial, y hay oficiales superiores sobre ellos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Con todo, es de beneficio para el pa\u00eds que el rey mantenga cultivado el campo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "El que ama el dinero no se saciar\u00e1 de dinero, Y el que ama la abundancia no se saciar\u00e1 de ganancias. Tambi\u00e9n esto es vanidad."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Cuando aumentan los bienes, Aumentan tambi\u00e9n los que los consumen. As\u00ed, pues, \u00bfcu\u00e1l es la ventaja para sus due\u00f1os, sino verlos con sus ojos?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dulce es el sue\u00f1o del trabajador, Coma mucho o coma poco; Pero la hartura del rico no le permite dormir."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hay un grave mal que he visto bajo el sol: Las riquezas guardadas por su due\u00f1o para su mal."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Cuando esas riquezas se pierden por un mal negocio, Y \u00e9l engendra un hijo, No queda nada para mantenerlo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Como sali\u00f3 del vientre de su madre, desnudo, As\u00ed volver\u00e1, y\u00e9ndose tal como vino. Nada saca del fruto de su trabajo Que pueda llevarse en la mano."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Tambi\u00e9n esto es un grave mal: Que tal como vino, as\u00ed se ir\u00e1. Por tanto, \u00bfqu\u00e9 provecho tiene el que trabaja para el viento?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Adem\u00e1s, todos los d\u00edas de su vida come en tinieblas, Con mucha molestia, enfermedad y enojo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Esto es lo que yo he visto que es bueno y conveniente: comer, beber y gozarse uno de todo el trabajo en que se afana bajo el sol en los contados d\u00edas de la vida que Dios le ha dado; porque esta es su recompensa."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Igualmente, a todo hombre a quien Dios ha dado riquezas y bienes, lo ha capacitado tambi\u00e9n para comer de ellos, para recibir su recompensa y regocijarse en su trabajo: esto es don de Dios."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Pues \u00e9l no se acordar\u00e1 mucho de los d\u00edas de su vida, porque Dios lo mantiene ocupado con alegr\u00eda en su coraz\u00f3n."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hay un mal que he visto bajo el sol, y muy com\u00fan entre los hombres:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "un hombre a quien Dios ha dado riquezas, bienes y honores, y nada le falta a su alma de todo lo que desea, pero que Dios no le ha capacitado para disfrutar de ellos, porque un extra\u00f1o los disfruta. Esto es vanidad y penosa aflicci\u00f3n."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Si un hombre engendra cien hijos y vive muchos a\u00f1os, por muchos que sean sus a\u00f1os, si su alma no se ha saciado de cosas buenas, y tampoco halla sepultura, entonces digo: \u00abMejor es el abortivo que \u00e9l,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "porque en vano viene, y a la oscuridad va; y en la oscuridad su nombre quedar\u00e1 oculto\u00bb."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00abAdem\u00e1s, no ha visto el sol y nada sabe; m\u00e1s reposo tiene este que aquel."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Aunque el hombre viva dos veces mil a\u00f1os, pero no disfruta de cosas buenas, \u00bfno van todos al mismo lugar?\u00bb."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Todo el trabajo del hombre es para su boca, Sin embargo, su apetito no se sacia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pues \u00bfqu\u00e9 ventaja tiene el sabio sobre el necio? \u00bfQu\u00e9 ventaja tiene el pobre que sabe comportarse entre los vivientes?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mejor es lo que ven los ojos que lo que el alma desea. Tambi\u00e9n esto es vanidad y correr tras el viento."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A lo que existe, ya se le ha dado nombre, Y se sabe lo que es un hombre: No puede luchar con el que es m\u00e1s fuerte que \u00e9l."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Cuando hay muchas palabras, aumenta la vanidad. \u00bfCu\u00e1l es entonces la ventaja para el hombre?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque, \u00bfqui\u00e9n sabe lo que es bueno para el hombre durante su vida, en los contados d\u00edas de su vana vida? Los pasar\u00e1 como una sombra. Pues, \u00bfqui\u00e9n har\u00e1 saber al hombre lo que suceder\u00e1 despu\u00e9s de \u00e9l bajo el sol?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Contraste entre la sabidur\u00eda y la insensatez - Mejor es el buen nombre que el buen ung\u00fcento, Y el d\u00eda de la muerte que el d\u00eda del nacimiento."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mejor es ir a una casa de luto Que ir a una casa de banquete, Porque aquello es el fin de todo hombre, Y al que vive lo har\u00e1 reflexionar en su coraz\u00f3n."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mejor es la tristeza que la risa, Porque cuando el rostro est\u00e1 triste el coraz\u00f3n puede estar contento."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El coraz\u00f3n de los sabios est\u00e1 en la casa del luto, Mientras que el coraz\u00f3n de los necios est\u00e1 en la casa del placer."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mejor es o\u00edr la reprensi\u00f3n del sabio Que o\u00edr la canci\u00f3n de los necios."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Porque como crepitar de espinos bajo la olla, As\u00ed es la risa del necio. Y tambi\u00e9n esto es vanidad."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ciertamente la opresi\u00f3n enloquece al sabio, Y el soborno corrompe el coraz\u00f3n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mejor es el fin de un asunto que su comienzo; Mejor es la paciencia de esp\u00edritu que la arrogancia de esp\u00edritu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "No te apresures en tu esp\u00edritu a enojarte, Porque el enojo se anida en el seno de los necios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "No digas: \u00ab\u00bfPor qu\u00e9 fueron los d\u00edas pasados mejores que estos?\u00bb. Pues no es sabio que preguntes sobre esto."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Buena es la sabidur\u00eda con herencia, Y provechosa para los que ven el sol."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque la sabidur\u00eda protege como el dinero protege; Pero la ventaja del conocimiento es que la sabidur\u00eda preserva la vida de sus poseedores."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Considera la obra de Dios: Porque \u00bfqui\u00e9n puede enderezar lo que \u00c9l ha torcido?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Al\u00e9grate en el d\u00eda de la prosperidad, Y en el d\u00eda de la adversidad considera: Dios ha hecho tanto el uno como el otro Para que el hombre no descubra nada que suceda despu\u00e9s de \u00e9l."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "He visto todo durante mi vida de vanidad: Hay justo que perece en su justicia, Y hay imp\u00edo que alarga su vida en su perversidad."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "No seas demasiado justo, Ni seas sabio en exceso. \u00bfPor qu\u00e9 has de destruirte?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "No seas demasiado imp\u00edo, Ni seas necio. \u00bfPor qu\u00e9 has de morir antes de tu tiempo?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Bueno es que retengas esto Sin soltar aquello de tu mano; Porque el que teme a Dios se sale con todo ello."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "La sabidur\u00eda hace m\u00e1s fuerte al sabio Que diez gobernantes que haya en una ciudad."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ciertamente no hay hombre justo en la tierra Que haga el bien y nunca peque."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Tampoco tomes en serio todas las palabras que se hablan, No sea que oigas a tu siervo maldecirte."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Porque t\u00fa tambi\u00e9n te das cuenta Que muchas veces has maldecido a otros de la misma manera."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Todo esto prob\u00e9 con sabidur\u00eda, y dije: \u00abSer\u00e9 sabio\u00bb; pero eso estaba lejos de m\u00ed."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Est\u00e1 lejos lo que ha sido, Y en extremo profundo. \u00bfQui\u00e9n lo descubrir\u00e1?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Dirig\u00ed mi coraz\u00f3n a conocer, A investigar y a buscar la sabidur\u00eda y la raz\u00f3n, Y a reconocer la maldad de la insensatez Y la necedad de la locura."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Y hall\u00e9 m\u00e1s amarga que la muerte A la mujer cuyo coraz\u00f3n es lazos y redes, Cuyas manos son cadenas. El que agrada a Dios escapar\u00e1 de ella, Pero el pecador ser\u00e1 por ella apresado."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u00abMira\u00bb, dice el Predicador, \u00abhe descubierto esto, Agregando una cosa a otra para hallar la raz\u00f3n,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Que mi alma est\u00e1 todav\u00eda buscando pero no ha hallado: He hallado a un hombre entre mil, Pero no he hallado mujer entre todas estas."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Mira, solo esto he hallado: Que Dios hizo rectos a los hombres, Pero ellos se buscaron muchas artima\u00f1as\u00bb."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00bfQui\u00e9n es como el sabio? \u00bfY qui\u00e9n otro sabe la explicaci\u00f3n de un asunto? La sabidur\u00eda del hombre ilumina su rostro Y hace que la dureza de su rostro cambie."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Yo digo: \u00abGuarda el mandato del rey por causa del juramento de Dios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "No te apresures a irte de su presencia. No te unas a una causa imp\u00eda, porque \u00e9l har\u00e1 todo lo que le plazca\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Puesto que la palabra del rey es soberana, \u00bfqui\u00e9n le dir\u00e1: \u00ab\u00bfQu\u00e9 haces?\u00bb?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El que guarda el mandato real no experimenta ning\u00fan mal; Porque el coraz\u00f3n del sabio conoce el tiempo y el modo de hacerlo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Porque para cada deleite hay un tiempo y un modo, Aunque la aflicci\u00f3n del hombre sea mucha sobre \u00e9l."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Si nadie sabe qu\u00e9 suceder\u00e1, \u00bfQui\u00e9n le anunciar\u00e1 c\u00f3mo ha de suceder?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "No hay hombre que tenga potestad para refrenar el viento con el viento, Ni potestad sobre el d\u00eda de la muerte. No se da licencia en tiempo de guerra, Ni la impiedad salvar\u00e1 a los que la practican."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Todo esto he visto, y he puesto mi coraz\u00f3n en toda obra que se hace bajo el sol, cuando el hombre domina a otro hombre para su mal."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tambi\u00e9n he visto a los imp\u00edos ser sepultados, los que entraban y sal\u00edan del lugar santo, y que fueron pronto olvidados en la ciudad en que as\u00ed hab\u00edan actuado. Tambi\u00e9n esto es vanidad."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Porque la sentencia contra una mala obra no se ejecuta enseguida, el coraz\u00f3n de los hijos de los hombres est\u00e1 en ellos entregado enteramente a hacer el mal."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Aunque el pecador haga el mal cien veces y alargue su vida, con todo, yo s\u00e9 que les ir\u00e1 bien a los que temen a Dios, a los que temen ante Su presencia."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pero no le ir\u00e1 bien al imp\u00edo, ni alargar\u00e1 sus d\u00edas como una sombra, porque no teme ante la presencia de Dios."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hay una vanidad que se hace sobre la tierra: hay justos a quienes les sucede conforme a las obras de los imp\u00edos, y hay imp\u00edos a quienes les sucede conforme a las obras de los justos. Digo que tambi\u00e9n esto es vanidad."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Por tanto yo alab\u00e9 el placer, porque no hay nada bueno para el hombre bajo el sol sino comer, beber y divertirse, y esto le acompa\u00f1ar\u00e1 en sus afanes en los d\u00edas de su vida que Dios le haya dado bajo el sol."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Cuando apliqu\u00e9 mi coraz\u00f3n a conocer la sabidur\u00eda y a ver la tarea que ha sido hecha sobre la tierra (aunque uno no durmiera ni de d\u00eda ni de noche),"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "y vi toda la obra de Dios, decid\u00ed que el hombre no puede descubrir la obra que se ha hecho bajo el sol. Aunque el hombre busque con af\u00e1n, no la descubrir\u00e1; y aunque el sabio diga que la conoce, no puede descubrirla."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Todo est\u00e1 en manos de Dios - Pues bien, he tomado todas estas cosas en mi coraz\u00f3n y declaro todo esto: que los justos y los sabios y sus hechos est\u00e1n en la mano de Dios. Los hombres no saben ni de amor ni de odio, aunque todo est\u00e1 delante de ellos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A todos les sucede lo mismo: Hay una misma suerte para el justo y para el imp\u00edo; Para el bueno, para el limpio y para el inmundo; Para el que ofrece sacrificio y para el que no sacrifica. Como el bueno, as\u00ed es el pecador; Como el que jura, as\u00ed es el que teme jurar."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Este mal hay en todo lo que se hace bajo el sol: que hay una misma suerte para todos. Adem\u00e1s, el coraz\u00f3n de los hijos de los hombres est\u00e1 lleno de maldad y hay locura en su coraz\u00f3n toda su vida. Despu\u00e9s se van a los muertos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Para cualquiera que est\u00e1 unido con los vivos, hay esperanza; ciertamente un perro vivo es mejor que un le\u00f3n muerto."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Porque los que viven saben que han de morir, Pero los muertos no saben nada, Ni tienen ya ninguna recompensa, Porque su recuerdo est\u00e1 olvidado."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "En verdad, su amor, su odio y su celo ya han perecido, Y nunca m\u00e1s tendr\u00e1n parte en todo lo que se hace bajo el sol."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vete, come tu pan con gozo, Y bebe tu vino con coraz\u00f3n alegre, Porque Dios ya ha aprobado tus obras."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En todo tiempo sean blancas tus ropas, Y que no falte ung\u00fcento sobre tu cabeza."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Goza de la vida con la mujer que amas todos los d\u00edas de tu vida fugaz que \u00c9l te ha dado bajo el sol, todos los d\u00edas de tu vanidad. Porque esta es tu parte en la vida y en el trabajo con que te afanas bajo el sol."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Todo lo que tu mano halle para hacer, hazlo seg\u00fan tus fuerzas; porque no hay actividad ni prop\u00f3sito ni conocimiento ni sabidur\u00eda en el Seol adonde vas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Vi, adem\u00e1s, que bajo el sol No es de los ligeros la carrera, Ni de los valientes la batalla; Y que tampoco de los sabios es el pan, Ni de los entendidos las riquezas, Ni de los h\u00e1biles el favor, Sino que el tiempo y la suerte les llegan a todos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque el hombre tampoco conoce su tiempo: Como peces atrapados en la red traicionera Y como aves apresadas en la trampa, As\u00ed son atrapados los hijos de los hombres en el tiempo malo Cuando este cae de repente sobre ellos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sabidur\u00eda y necedad - Tambi\u00e9n esto llegu\u00e9 a ver como sabidur\u00eda bajo el sol, y me impresion\u00f3:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hab\u00eda una peque\u00f1a ciudad con pocos hombres en ella. Lleg\u00f3 un gran rey, la cerc\u00f3 y construy\u00f3 contra ella grandes baluartes."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pero en ella se hallaba un hombre pobre y sabio; y \u00e9l con su sabidur\u00eda libr\u00f3 la ciudad; sin embargo, nadie se acord\u00f3 de aquel hombre pobre."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Y yo me dije: \u00abMejor es la sabidur\u00eda que la fuerza\u00bb. Pero la sabidur\u00eda del pobre se desprecia Y no se presta atenci\u00f3n a sus palabras."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Las palabras del sabio o\u00eddas en quietud son mejores Que los gritos del gobernante entre los necios."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mejor es la sabidur\u00eda que las armas de guerra, Pero un solo pecador destruye mucho bien."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Las moscas muertas hacen que el ung\u00fcento del perfumista d\u00e9 mal olor; Un poco de insensatez pesa m\u00e1s que la sabidur\u00eda y el honor."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "El coraz\u00f3n del sabio lo gu\u00eda hacia la derecha, Y el coraz\u00f3n del necio, hacia la izquierda."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Aun cuando el necio ande por el camino, Le falta entendimiento Y demuestra a todos que es un necio."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Si la ira del gobernante se levanta contra ti, No abandones tu puesto, Porque la serenidad suaviza grandes ofensas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hay un mal que he visto bajo el sol, Como error que procede del gobernante:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "La necedad colocada en muchos lugares elevados, Mientras los ricos se sientan en lugares humildes."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "He visto siervos a caballo Y pr\u00edncipes caminando como siervos sobre la tierra."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "El que cava un hoyo cae en \u00e9l, Y al que abre brecha en un muro, lo muerde la serpiente."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El que saca piedras, puede lastimarse con ellas, Y el que corta le\u00f1a, puede lesionarse con ella."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Si el hierro est\u00e1 embotado y \u00e9l no ha amolado su filo, Entonces tiene que ejercer m\u00e1s fuerza; La sabidur\u00eda tiene la ventaja de impartir \u00e9xito."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Si la serpiente muerde antes de ser encantada, No hay ganancia para el encantador."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Llenas de gracia son las palabras de la boca del sabio, Mientras que los labios del necio a \u00e9l lo consumen,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "El comienzo de las palabras de su boca es insensatez, Y el final de su habla perversa es locura."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "El necio multiplica las palabras, Pero nadie sabe lo que suceder\u00e1, \u00bfY qui\u00e9n le har\u00e1 saber lo que ha de suceder despu\u00e9s de \u00e9l?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El trabajo del necio lo cansa tanto Que no sabe ir a la ciudad."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00a1Ay de ti, tierra, cuyo rey es un muchacho, Y cuyos pr\u00edncipes banquetean de ma\u00f1ana!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Bienaventurada t\u00fa, tierra, cuyo rey es de noble cuna Y cuyos pr\u00edncipes comen a su debida hora, Para fortalecerse y no para embriagarse."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Por negligencia se hunde el techo, Y por pereza tiene goteras la casa."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Para el placer se prepara la comida, Y el vino alegra la vida, Y el dinero es la respuesta para todo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ni aun en tu rec\u00e1mara maldigas al rey, Ni en tus alcobas maldigas al rico, Porque un ave de los cielos llevar\u00e1 el rumor, Y un ser alado har\u00e1 conocer el asunto."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Echa tu pan sobre las aguas, Que despu\u00e9s de muchos d\u00edas lo hallar\u00e1s."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Reparte tu porci\u00f3n con siete, o aun con ocho, Porque no sabes qu\u00e9 mal puede venir sobre la tierra."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Si las nubes est\u00e1n llenas, Derraman lluvia sobre la tierra; Y caiga el \u00e1rbol al sur o al norte, Donde cae el \u00e1rbol all\u00ed se queda."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El que observa el viento no siembra, Y el que mira las nubes no siega."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Como no sabes cu\u00e1l es el camino del viento, O c\u00f3mo se forman los huesos en el vientre de la mujer encinta, Tampoco conoces la obra de Dios que hace todas las cosas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De ma\u00f1ana siembra tu semilla Y a la tarde no des reposo a tu mano, Porque no sabes si esto o aquello prosperar\u00e1, O si ambas cosas ser\u00e1n igualmente buenas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Consejos a la juventud - Agradable es la luz, Y bueno para los ojos ver el sol."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ciertamente, si un hombre vive muchos a\u00f1os, Que en todos ellos se regocije, Pero recuerde que los d\u00edas de tinieblas ser\u00e1n muchos. Todo lo por venir es vanidad."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Al\u00e9grate, joven, en tu juventud, Y tome placer tu coraz\u00f3n en los d\u00edas de tu juventud. Sigue los impulsos de tu coraz\u00f3n y el gusto de tus ojos; Pero debes saber que por todas estas cosas, Dios te traer\u00e1 a juicio."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Por tanto, aparta de tu coraz\u00f3n la congoja Y aleja el sufrimiento de tu cuerpo, Porque la juventud y la primavera de la vida son vanidad."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Acu\u00e9rdate, pues, de tu Creador en los d\u00edas de tu juventud, Antes que vengan los d\u00edas malos, Y se acerquen los a\u00f1os en que digas: \u00abNo tengo en ellos placer\u00bb."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Antes que se oscurezcan el sol y la luz, La luna y las estrellas, Y las nubes vuelvan tras la lluvia;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El d\u00eda cuando tiemblen los guardas de la casa Y los fuertes se encorven, Las que muelen est\u00e9n ociosas porque son pocas, Y se nublen los que miran por las ventanas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Cuando adem\u00e1s se cierren las puertas de la calle Por ser bajo el sonido del molino, Y se levante uno al canto del ave, Y todas las hijas del canto sean abatidas;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Se temer\u00e1 a la altura y a los terrores en el camino. Cuando florezca el almendro, se arrastre la langosta y la alcaparra pierda su efecto; Porque el hombre va a su morada eterna Mientras los del duelo andan por la calle."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Acu\u00e9rdate de \u00c9l antes que se rompa el hilo de plata, Se quiebre el cuenco de oro, Se rompa el c\u00e1ntaro junto a la fuente, Y se haga pedazos la rueda junto al pozo;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Entonces el polvo volver\u00e1 a la tierra como lo que era, Y el esp\u00edritu volver\u00e1 a Dios que lo dio."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00abVanidad de vanidades\u00bb, dice el Predicador, \u00abtodo es vanidad\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Conclusi\u00f3n - El Predicador, adem\u00e1s de ser sabio, ense\u00f1\u00f3 tambi\u00e9n sabidur\u00eda al pueblo; y reflexion\u00f3, investig\u00f3 y compuso muchos proverbios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "El Predicador trat\u00f3 de encontrar palabras agradables, y de escribir correctamente palabras de verdad."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Las palabras de los sabios son como aguijones, y como clavos bien clavados las de los maestros de estas colecciones, dadas por un Pastor."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pero adem\u00e1s de esto, hijo m\u00edo, estate prevenido: el hacer muchos libros no tiene fin, y demasiada dedicaci\u00f3n a ellos es fatiga del cuerpo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La conclusi\u00f3n, cuando todo se ha o\u00eddo, es esta: Teme a Dios y guarda Sus mandamientos, Porque esto concierne a toda persona."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque Dios traer\u00e1 toda obra a juicio, Junto con todo lo oculto, Sea bueno o sea malo."
+                }
+            }
+        }
+    }
+}

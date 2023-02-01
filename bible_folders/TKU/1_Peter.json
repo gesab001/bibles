@@ -1,0 +1,452 @@
+{
+    "version": "TKU",
+    "book_name": "1 Peter",
+    "book_nr": "60",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kutoka kwa Petro, mtume wa Yesu Kristo. Kwa wateule wa Mungu, ambao huonekana kama ni wageni kutoka nchi nyingine, waliotawanyika katika majimbo yote ya Ponto, Galatia, Kapadokia, Asia, na Bithinia."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kwa kadri ya mpango wa Mungu Baba alioufanya muda mrefu uliopita, mliteuliwa muwe wake kwa kufanywa watakatifu na Roho Mtakatifu. Mliteuliwa kuwa waatiifu kwa Mungu na kutakaswa na kujumuishwa miongoni mwa watu wa Agano Jipya kwa kunyunyiziwa damu ya Yesu Kristo. Neema na amani ya Mungu viwe pamoja nanyi kwa wingi."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tumaini Lililo Hai - Atukuzwe Mungu Baba wa Bwana wetu Yesu Kristo! Katika rehema zake kuu, Mungu alitufanya sisi tuzaliwe upya ili tuwe na tumaini lililo hai, kwa njia ya ufufuo wa Yesu Kristo kutoka kwa waliokufa,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "na ili kuwa na urithi usioharibika, ulio safi na usiofifia, uliotunzwa kwa ajili yenu kule mbinguni."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ni kwa ajili yenu ninyi ambao kwa njia ya imani, mnalindwa na nguvu za Mungu ili mpate wokovu ulio tayari kufunuliwa wakati wa mwisho."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hili linawafanya mfurahi sana, hata kama kwa sasa imewalazimu mhuzunishwe kwa kipindi kifupi kwa masumbufu na mateso ya aina mbali mbali."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kwa masumbufu haya imani yenu inajaribiwa na kuithibitishwa kuwa ni ya kweli. Hii inafananishwa na dhahabu pale inapopitishwa kwenye moto kuthibitisha uhalisi wake. Lakini hata dhahabu ya kweli inaweza kuharibiwa. Hivyo imani ina thamani zaidi kuliko dhahabu. Pale imani yenu inapothibitika kuwa ni ya kweli, matokeo yake ni sifa, utukufu na heshima kwa Mungu wakati wa kurudi kwake Yesu Kristo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hata kama hamjamwona Yesu, lakini mnampenda. Hata kama hamuwezi kumuona kwa sasa, lakini mnamwamini yeye na mmejazwa na furaha ya ajabu isiyoweza kuelezwa kwa maneno."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mnaupokea wokovu wenu ambao ni lengo la imani yenu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Manabii waliotabiri juu ya neema ambayo ingeoneshwa kwenu, walipeleleza kwa makini na kwa uangalifu wakaulizia habari za wokovu huu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Roho wa Kristo alikuwa ndani yao, naye aliwapa ushuhuda mapema kuhusu Kristo kwamba itamlazimu kuteswa na baada ya hapo atapokea utukufu. Manabii waliuliza kutaka kujua wakati gani na katika mazingira gani mambo haya yangetokea."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ilifunuliwa kwao kwamba walikuwa hawajitumikii wenyewe. Badala yake, waliwatumikia ninyi walipotabiri juu ya mambo haya. Na sasa mmesikia juu ya mambo haya kutoka kwa wale waliyowaambia habari Njema kwa msaada wa Roho Mtakatifu aliyetumwa kutoka mbinguni. Hata malaika wangetamani sana kufahamu zaidi juu ya mambo haya mliyoambiwa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mwito Kwa Maisha Matakatifu - Hivyo mkeshe katika fahamu zenu na kuwa na kiasi. Yawekeni kikamilifu matumaini yenu katika baraka mtakazopewa wakati Yesu Kristo atakapofunuliwa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kama watoto watiifu, msiyaache maisha yenu yandelee kutawaliwa na tamaa mbaya mlizokuwa nazo awali mlipokuwa wajinga."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Badala yake, kama ambavyo yeye Mungu aliyewaita alivyo mtakatifu, hata ninyi muwe watakatifu katika kila mnalotenda."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hivyo Maandiko yanasema: \u201cIweni watakatifu, kwa sababu mimi ni mtakatifu.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Na kama Baba mnayemwita Mungu anayewahukumu watu bila upendeleo kwa kadri ya matendo ya kila mtu, muishi maisha ya utauwa na hofu kwa Mungu katika miaka yenu ya kukaa humu duniani kama wageni."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mnajua kwamba siyo kwa mambo yaharibikayo kama fedha au dhahabu, kwamba mliokolewa kutoka katika maisha yasiyofaa mliyoyapokea kutoka kwa babu zenu,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "bali kwa damu ya thamani ya Kristo, kama ile ya mwanakondoo asiye na dosari wala ila."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kristo alichaguliwa kabla ya uumbaji wa ulimwengu, lakini alidhihirishwa katika siku hizi za mwisho kwa ajili yenu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kupitia Kristo mmekuwa waamini katika Mungu, aliyemfufua kutoka kwa wafu na kumpatia utukufu. Ili imani yenu na matumaini yawekwe katika Mungu."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Sasa kwa vile mmejitakasa wenyewe kwa kuitii kweli hadi mwisho kwamba mtaonesha upendo wa kweli wa kindugu, jitahidini kupendana ninyi kwa ninyi kwa mioyo iliyo safi."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Mmezaliwa upya sio kama matokeo ya mbegu inayoharibika, lakini kama matokeo ya mbegu isiyoharibika. Mmezaliwa upya kwa njia ya ujumbe wa Mungu, ambao unaleta uzima ndani yenu."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Hivyo, kama Maandiko yanavyosema: \u201cWatu wote ni kama manyasi, na utukufu wao wote ni kama maua pori katika manyasi. Manyasi yananyauka na kukauka, na maua yanapukutika,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "bali ujumbe wa Bwana unadumu milele.\u201d Na ujumbe huo ni habari njema iliyohubiriwa kwenu."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jiwe Lililo Hai na Taifa Takatifu - Hivyo acheni uovu wote, pamoja na uongo, hali za unafiki na wivu na aina zote za kashfa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kama watoto wachanga, mnapaswa kuyatamani maziwa ya kiroho yaliyo safi, ili kwa ajili ya hayo muweze kukua na kuokolewa,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "kwa vile mmekwisha kuujaribu wema wa Bwana."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mkaribieni Bwana Yesu, aliye Jiwe lililo Hai, lililokataliwa na watu, bali kwa Mungu ni jiwe lililoteuliwa na kuheshimika."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ninyi pia, kama mawe yaliyo hai mnajengwa ili kuwa hekalu la kiroho. Mmekuwa makuhani watakatifu mkimtumikia Mungu kwa kutoa sadaka za kiroho zinazokubalika kwake kwa njia ya Yesu Kristo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hivyo, Maandiko yanasema, \u201cTazameni, naweka katika Sayuni Jiwe la msingi katika jengo, lililoteuliwa na kuheshimika, na yeyote anayeamini hataaibishwa.\u201d"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Inamaanisha heshima kwenu mnaoamini, bali kwa wasioamini, \u201cjiwe walilolikataa wajenzi limekuwa jiwe la muhimu kuliko yote.\u201d"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Na, \u201cjiwe linalowafanya watu wajikwae na mwamba unaowafanya watu waanguke.\u201d Walijikwaa kwa sababu hawakuutii ujumbe wa Mungu, na Mungu alisema hilo litatokea wasipotii."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Lakini ninyi ni watu mlioteuliwa, ni Ukuhani unaomtumikia Mfalme. Ninyi ni taifa takatifu nanyi ni watu wa Mungu. Yeye aliwaita Ili muweze kutangaza matendo yake yenye nguvu. Naye aliwaita mtoke gizani na mwingie katika nuru yake ya ajabu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kuna wakati hamkuwa watu, lakini sasa mmekuwa watu wa Mungu. Kuna wakati hamkuoneshwa rehema, lakini sasa mmeoneshwa rehema za Mungu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mwishie Mungu - Rafiki zangu, ninawasihi kama wapitaji na wageni katika ulimwengu huu kuwa mbali na tamaa za kimwili, ambazo hupingana na roho zenu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Muwe na uhakika wa kuwa na mwenendo mzuri mbele ya wapagani, ili hata kama wakiwalaumu kama wakosaji, watayaona matendo yenu mazuri nao wanaweza kumpa Mungu utukufu katika Siku ya kuja kwake."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tii Mamlaka Yote ya Kibinadamu - Nyenyekeeni kwa mamlaka yo yote ya kibinadamu kwa ajili ya Bwana. Mnyenyekeeni mfalme, aliye mamlaka ya juu kabisa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Na muwatii viongozi waliotumwa na mfalme. Wametumwa ili kuwaadhibu wale wanaokosa, na kuwapongeza wale wanaofanya mazuri."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kwa kuwa mapenzi ya Mungu ni kwamba, kwa kutenda mema mtayanyamazisha mazungumzo ya kijinga ya watu wasio na akili."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Muishi kama watu walio huru, lakini msiutumie uhuru huo kama udhuru wa kufanya maovu. Bali muishi kama watumishi wa Mungu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Onesheni heshima kwa watu wote: Wapendeni ndugu zenu na dada zenu waliomo nyumbani mwake Mungu. Mcheni Mungu na mumheshimu mfalme."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mfano wa Mateso ya Kristo - Watumwa mlio nyumbani, watumikieni mabwana wenu kwa heshima yote, siyo tu wale walio wapole na wenye busara, bali hata wale walio wakali."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Baadhi yenu mtapata mateso wakati ambapo hamjafanya kosa lolote. Ikiwa utaweza kuvumilia maumivu na kuweka fikra zako kwa Mungu, hilo linampendeza sana Mungu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kwani kuna sifa gani iliyopo kwako kama utapigwa kwa kutenda mabaya na kuvumilia? Lakini kama utateseka kwa kutenda mema na kustahimili, hili lampendeza Mungu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ni kwa kusudi hili mliitwa na Mungu, kwa sababu Kristo pia aliteseka kwa ajili yenu na kwa kufanya hivyo aliacha kielelezo kwenu, ili tuweze kuzifuata nyayo zake."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u201cHakutenda dhambi yo yote, wala hakukuwa na udanganyifu uliopatikana kinywani mwake.\u201d"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Alipotukanwa hakurudishia matusi. Alipoteseka, hakuwatishia, bali wakati wote alijitoa mwenyewe kwa Mungu ahukumuye kwa haki."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Yeye mwenyewe alizibeba dhambi zetu kwenye mwili wake hadi pale msalabani, ili tuweze kuacha kuishi kwa ajili ya dhambi na kuishi kwa ajili ya haki. Ilikuwa ni kwa njia ya majeraha yake kwamba mliponywa."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kwani mlikuwa kama kondoo wanaotangatanga huko na huko, lakini sasa mmerudi kwa Mchungaji na Mwangalizi wa maisha yenu."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wake na Waume - Vivyo hivyo, enyi wake mnapaswa kuwa radhi kuwahudumia waume zenu. Ili hata wale waliokataa kuyapokea mafundisho ya Mungu washawishike na kuamini kutokana na jinsi mnavyoishi. Hivyo hamtahitaji kusema chochote."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Waume zenu watayaona maisha safi mnayoishi yanayomheshimu Mungu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Si nywele za gharama, vito vya dhahabu, au nguo nzuri zitakazowafanya mpendeze."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Bali, uzuri wenu utoke ndani yenu, uzuri wa roho yenye upole na utulivu. Uzuri huo hautatoweka kamwe. Ni wa thamani sana kwa Mungu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hivyo ndivyo ilivyokuwa kwa wanawake watakatifu walioishi hapo zamani na kumfuata Mungu. Walijipamba kwa jinsi hiyo hiyo kwa kuwahudumia waume zao."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ninazungumza juu ya wanawake kama Sara aliyemtii Ibrahimu, mume wake na kumwita bwana wake. Na ninyi wanawake ni watoto wa kweli wa Sara ikiwa daima mnafanya yale yaliyo sahihi pasipokuwa na hofu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vivyo hivyo, enyi waume inawapasa kuishi na wake zenu kwa kuelewa udhaifu alionao mwanamke na matumaini ya Mkristo. Hamna budi kuwapa heshima kwa sababu Mungu kwa sababu Mungu anawapa baraka zile zile anazowapa ninyi, yaani neema ya maisha ya kweli. Fanyeni hivi ili maombi yenu yasizuiliwe."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kuteseka kwa kutenda haki - Hivyo ninyi nyote mnapaswa kuishi pamoja kwa amani. Mjitahidi kuelewana ninyi wenyewe. Mpendane kama kaka na dada na muwe wanyenyekevu na wema."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Msimfanyie uovu mtu yeyote ili kulipa kisasi kwa uovu aliowatendea. Msimtukane mtu yeyote ili kulipiza matusi aliyowatukana. Lakini mwombeni Mungu awabariki watu hao. Fanyeni hivyo kwa sababu ninyi wenyewe mliteuliwa kupokea baraka,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Maandiko yanasema: \u201cAnayetaka kufurahia maisha ya kweli na kuwa na siku nyingi njema tu, aepuke kusema chochote kinachoumiza, na asiruhusu uongo utoke kwenye kinywa yake."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Aache kutenda uovu, na atende mema. Atafute amani, na fanya kila analoweza ili kuwasaidia watu kuishi kwa amani."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Bwana huwaangalia wale watendao haki, na husikia maombi yao. Lakini yu kinyume cha wale watendao uovu.\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ikiwa unajaribu kwa bidii kutenda mema, ni nani atakayetaka kukudhuru?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Lakini hata ukiteseka kwa sababu kutenda yaliyo haki, unazo Baraka za Mungu. \u201cMsimwogope mtu yeyote, wala msiruhusu watu wawasumbue.\u201d"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Lakini mjitoe kikamilifu kwa Kristo ambaye ni Bwana wenu pekee. Na daima iweni tayari kumjibu mtu yeyote anayetaka ufafanuzi kuhusu tumaini linaloyaongoza maisha yenu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Lakini wajibuni kwa upole na heshima kwa ajili ya Mungu, mkizitunza dhamiri zenu mbele zake. Ndipo watu watakapoona namna njema mnayoishi kama wafuasi wa Kristo. Na wataaibika kwa kuwanenea mabaya."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ni afadhali kuteseka kwa kutenda mema kuliko kutenda mabaya. Ndiyo, ni bora ikiwa hivyo ndivyo Mungu anavyotaka."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kristo mwenyewe aliteseka alipokufa kwa ajili yenu, na kwa kifo hicho kimoja alilipa fidia kwa ajili ya dhambi. Hakuwa na hatia, lakini alikufa kwa ajili ya watu waliokuwa na hatia. Alifanya hivyo ili awalete ninyi nyote kwa Mungu. Kama mwanadamu, aliuawa, lakini uhai wake ulifanywa hai na Roho."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Na kwa Roho alikwenda akazihubiri roho zilizo kifungoni."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hizo ndizo roho zilizokataa kumtii Mungu hapo zamani wakati wa Nuhu. Mungu alisubiri kwa uvumilivu Nuhu alipokuwa anaunda safina. Na watu wachache tu, yaani wanane kwa jumla ndiyo walioingia katika safina na kuokolewa kwa kuvushwa salama katika gharika hiyo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Na maji yale ni kama ubatizo, unaowaokoa ninyi sasa kupitia ufufuo wa Yesu Kristo kutoka katika wafu na siyo kuondoa uchafu mwilini kwa kuoga. Ni ahadi ya dhati ya kuishi kwa kumcha Mungu."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Sasa yupo mbinguni upande wa kuume wa Mungu, na anatawala juu ya malaika, mamlaka na nguvu."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Maisha Mapya - Kristo aliteseka alipokuwa katika mwili wake. Hivyo mjitayarishe kwa fikra ile ile aliyokuwa nayo Kristo. Yeyote anayekubali kuteseka katika maisha haya hakika ameamua kuacha kutenda dhambi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jiimarishe wenyewe ili mweze kuishi maisha yenu yaliyosalia hapa duniani kwa kutenda yale anayotaka Mungu, siyo maovu ambayo watu wanataka kufanya."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Huko nyuma mmepoteza muda mwingi mkitenda yale ambayo wasiyomjua Mungu wanapenda kutenda. Mliishi kwa kutojali maadili, mkitenda maovu mliyotaka kutenda. Daima mlikuwa mnalewa, mlifanya sherehe mbaya za ulevi, na mlitenda mambo ya aibu katika ibada zenu za sanamu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Na sasa \u201cmarafiki\u201d zenu wa zamani wanaona ni ajabu kwamba ninyi hamshirikiani nao katika njia za maisha zilizo mbaya na zisizofaa wanazozifuata. Na hivyo wanasema mabaya juu yenu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Lakini itawalazimu kukutana na Mungu na kutoa maelezo juu ya yale waliyoyatenda. Yeye ndiye atakaye hukumu watu wote muda si mrefu, walio hai sasa na wale waliokwisha kufa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Walikosolewa na wengine katika maisha yao hapa duniani. Lakini ulikuwa mpango wa Mungu kwamba wasikie Habari Njema kabla hawajafa ili wawe na maisha mapya katika Roho."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vitumieni vizuri vipawa vya Mungu - Wakati wa kila kitu kufikia mwisho wake umekaribia. Hivyo iweni waangalifu katika akili zenu na mjizuie kwa kila jambo. Hii itawasaidia katika maombi yenu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jambo lililo muhimu kuliko yote, daima mpendane ninyi kwa ninyi kikamilifu, kwa sababu upendo huwawezesha kusamehe dhambi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mkaribishane ninyi kwa ninyi katika nyumba zenu na kushiriki chakula kwa pamoja pasipo manunguniko."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mungu amewapa neema yake kwa namna nyingi mbalimbali. Hivyo muwe watumishi wema na kila mmoja wenu atumie kipawa chochote alichopewa kwa njia iliyo bora katika kuhudumiana ninyi kwa ninyi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ikiwa kipawa chako ni kuhubiri, maneno yako yawe kama yanayotoka kwa Mungu. Ikiwa kipawa chako ni kuhudumu, unatakiwa kuhudumu kwa nguvu anazokupa Mungu. Ndipo Mungu atakaposifiwa kwa kila jambo katika Yesu Kristo. Uwezo na utukufu ni wake milele na milele. Amina."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kuteseka kama mfuasi wa Kristo - Rafiki zangu, msishangae kwa sababu ya mateso mnayoyapata sasa, mateso hayo yanaijaribu imani yenu. Msidhani kuwa linalotokea kwenu ni jambo la ajabu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Lakini mnapaswa kufurahi kwa kuwa mnayashiriki mateso ya Kristo. Mtafurahi na kujawa na raha wakati uweza wake mkuu utapodhihirishwa kwa ulimwengu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mhesabu kuwa ni heshima watu wanapowanenea mabaya kwa sababu mnamwakilisha Kristo. Linapotokea hilo inaonesha kuwa Roho wa Mungu, aliye Roho wa utukufu, yupo pamoja nanyi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mnaweza kupata mateso; lakini msiteseke kwa sababu mmeua, mmeiba, mmesababisha ghasia, au mmejaribu kutawala maisha ya watu wengine."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Lakini endapo utateswa kwa kuwa ni \u201cMkristo\u201d basi usione haya. Bali umshukuru Mungu kwa kuwa unalibeba jina hilo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wakati wa kuanza hukumu umewadia. Hukumu hiyo itaanza na familia ya Mungu. Ikiwa itaanzia kwetu, nini kitawatokea wale wasioikubali Habari Njema ya Mungu?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u201cIwapo ni vigumu hata kwa mtu mwema kuokolewa, nini kitatokea kwa yule aliye kinyume na Mungu na amejaa dhambi?\u201d"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hivyo kama mnateseka kwa sababu ya kutii mapenzi ya Mungu, yakabidhini maisha yenu kwake maana Yeye ndiye aliyewaumba, na hivyo mnapaswa kumwamini. Na anastahili kuthaminiwa na kuaminiwa."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kondoo wa Mungu - Sasa nina jambo la kuwaambia wazee walio katika kundi lenu. Mimi pia ni mzee nami mwenyewe nimeyaona mateso ya Kristo. Na nitashiriki katika utukufu utakaodhihirishwa kwetu. Hivyo ninawasihi,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "mlitunze kundi la watu mnalowajibika kwalo. Ni kundi lake Mungu. Basi lichungeni kwa moyo wa kupenda na si kwa kulazimishwa. Hivi ndivyo Mungu anavyotaka. Fanyeni hivyo kwa sababu mnafurahi kutumika, na si kwa sababu mnataka pesa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Msiwaongoze wale mnaowasimamia kwa kuwaamrisha. Lakini muwe mfano mzuri wa kuiga kwao."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ili Kristo aliye Mchungaji Mkuu atakapokuja, mpate taji yenye utukufu na isiyopoteza uzuri wake."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vijana, nina jambo la kuwaambia ninyi pia. Mnapaswa kutii mamlaka ya wazee. Na ninyi nyote mnapaswa kuwa wanyenyekevu ninyi kwa ninyi. \u201cMungu yu kinyume na wanaojivuna, lakini ni mwema kwa wanyenyekevu.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hivyo mjinyenyekeze chini ya mkono wa Mungu wenye nguvu. Kisha, wakati sahihi utakapofika, atawalipa kwa kuwainua."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mpeni Mungu masumbufu yenu yote, kwa sababu Yeye anawajali."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Iweni na kiasi na muwe waangalifu! Shetani ni adui yenu naye huzunguka zunguka kama simba anayeunguruma akimtafuta yeyote wa kumshambulia na kumla."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mpingeni ibilisi. Kisha msimame imara katika imani yenu. Mnafahamu kwamba ndugu zenu ulimwenguni kote wanapitia mateso sawa na hayo mliyonayo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ndiyo, mtateseka kwa muda mfupi. Lakini baada ya hapo, Mungu ataweka kila kitu sawa. Atawatia nguvu, atawasaidia na kuwashika msianguke. Yeye ni Mungu ndiye chanzo cha neema yote. Aliwachagua mshiriki katika utukufu wake ndani ya Kristo. Utukufu huo utadumu milele."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Uwezo wote ni wake milele. Amina."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Salamu za Mwisho - Sila ataileta barua hii kwenu. Nafahamu kwamba ni ndugu mwaminifu katika familia ya Mungu. Niliandika barua hii fupi kuwatia moyo na kuwaambia kuwa hii ni neema ya kweli ya Mungu. Simameni imara katika neema hiyo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kanisa lililoko Babeli linatuma salamu kwenu. Wameteuliwa kama ninyi. Marko, ambaye ni kama mwanangu kwangu katika Kristo, anawasalimu pia."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mpeni kila mmoja wenu salamu maalumu mnapokutana. Amani iwe kwenu ninyi nyote mlio katika Kristo."
+                }
+            }
+        }
+    }
+}

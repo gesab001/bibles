@@ -1,0 +1,367 @@
+{
+    "version": "SLB",
+    "book_name": "Ruth",
+    "book_nr": "8",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V \u010dase, ke\u010f vl\u00e1dli sudcovia, nastal v krajine hlad. Vtedy odi\u0161iel ist\u00fd mu\u017e so \u017eenou a s dvomi synmi z judsk\u00e9ho Betlehema b\u00fdva\u0165 na mo\u00e1bske str\u00e1ne."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\"Mu\u017e sa volal El\u00edmelech, jeho man\u017eelka bola No\u00e9mi a jeho dvaja synovia Machl\u00f3n a Kilj\u00f3n; boli to Efra\u0165ania z judsk\u00e9ho Betlehema. Pri\u0161li na mo\u00e1bske str\u00e1ne a ostali tam b\u00fdva\u0165.\""
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Potom zomrel No\u00e9min man\u017eel El\u00edmelech, a ona ostala s obidvoma synmi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\"T\u00ed sa o\u017eenili s Mo\u00e1bkami; jedna sa volala Orpa a druh\u00e1 R\u00fat; b\u00fdvali tam asi desa\u0165 rokov.\""
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Potom zomreli obaja, Machl\u00f3n i Kilj\u00f3n, a ona ostala bez oboch det\u00ed a bez mu\u017ea."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nato sa pobrala i so svojimi nevestami a vr\u00e1tila sa zo str\u00e1n\u00ed mo\u00e1bskych. Na mo\u00e1bskych str\u00e1\u0148ach sa toti\u017e dopo\u010dula, \u017ee Hospodin nav\u0161t\u00edvil svoj \u013eud a dal mu chlieb."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Potom odi\u0161la s oboma nevestami z miesta, na ktorom bola. Pustili sa na spiato\u010dn\u00fa cestu do Judska."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tu povedala No\u00e9mi obom svojim nevest\u00e1m: Cho\u010fte, navr\u00e1\u0165te sa ka\u017ed\u00e1 do domu svojej matky! Hospodin nech je l\u00e1skav\u00fd k v\u00e1m, ako ste vy boli k zosnul\u00fdm i ku mne!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nech v\u00e1m Hospodin d\u00e1 n\u00e1js\u0165 spo\u010dinutie, ka\u017edej v dome jej man\u017eela! Nato ich pobozkala, a ony sa hlasno rozplakali."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Povedali jej: Vr\u00e1time sa s tebou k tvojmu \u013eudu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ale No\u00e9mi povedala: Vr\u00e1\u0165te sa, dc\u00e9ry moje, na\u010do by ste \u0161li so mnou. \u010ci m\u00f4\u017eem ma\u0165 vo svojom lone e\u0161te synov, ktor\u00ed by mohli by\u0165 va\u0161imi mu\u017emi?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vr\u00e1\u0165te sa, dc\u00e9ry moje, cho\u010fte, u\u017e som pristar\u00e1 na vydaj. Ak by som si aj pomyslela: M\u00e1m n\u00e1dej! a vydala by som sa tejto noci, a dokonca by som porodila synov"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u010di by ste \u010dakali, a\u017e dorast\u00fa? \u010ci by ste sa mali preto zdr\u017ea\u0165 a nevyda\u0165 sa? Nie, dc\u00e9ry moje! Ve\u010f moje tr\u00e1penie je v\u00e4\u010d\u0161ie ako va\u0161e, lebo ruka Hospodinova sa vystrela proti mne."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Potom sa znova nahlas rozplakali. Orpa pobozkala svokru na rozl\u00fa\u010dku, ale R\u00fat pri nej ostala."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Vtedy No\u00e9mi povedala: H\u013ea, tvoja \u0161vagrin\u00e1 sa vr\u00e1tila k svojmu \u013eudu a k svojim bohom. Vr\u00e1\u0165 sa za svojou \u0161vagrinou!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ale R\u00fat povedala: Nen\u00fa\u0165 ma opusti\u0165 \u0165a a od\u00eds\u0165 od teba! Lebo kam ty p\u00f4jde\u0161, p\u00f4jdem i ja, a kde ty bude\u0161 b\u00fdva\u0165, budem b\u00fdva\u0165 i ja! Tvoj \u013eud bude moj\u00edm \u013eudom, tvoj Boh bude moj\u00edm Bohom!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kde ty zomrie\u0161, zomriem i ja, a tam chcem by\u0165 pochovan\u00e1! Tak nech mi u\u010din\u00ed Hospodin, ba nech e\u0161te prid\u00e1: len smr\u0165 ma rozl\u00fa\u010di s tebou!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ke\u010f No\u00e9mi videla, \u017ee si pevne zaumienila \u00eds\u0165 s \u0148ou, prestala ju prehov\u00e1ra\u0165."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Potom obe \u0161li, a\u017e do\u0161li do Betlehema. Ke\u010f do\u0161li do Betlehema, vzru\u0161ilo sa pre ne cel\u00e9 mesto. \u017deny sa spytovali: Je to No\u00e9mi?"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "A ona im povedala: Nevolajte ma No\u00e9mi! Volajte ma M\u00e1r\u00e1, lebo V\u0161emoh\u00faci mi sp\u00f4sobil mnoho trpkosti."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Pln\u00e1 som odi\u0161la, ale Hospodin ma vr\u00e1til pr\u00e1zdnu. Pre\u010do ma vol\u00e1te No\u00e9mi? Ve\u010f Hospodin ma pon\u00ed\u017eil, V\u0161emoh\u00faci uviedol na m\u0148a ne\u0161\u0165astie."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Tak sa No\u00e9mi navr\u00e1tila z mo\u00e1bskych str\u00e1n\u00ed so svojou nevestou, Mo\u00e1bkou R\u00fat. Do Betlehema do\u0161li na za\u010diatku \u017eatvy ja\u010dme\u0148a."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "No\u00e9mi mala po man\u017eelovi zn\u00e1meho, z\u00e1mo\u017en\u00e9ho mu\u017ea z El\u00edmelechovho rodu. Volal sa B\u00f3az."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mo\u00e1bka R\u00fat povedala No\u00e9mi: Dovo\u013e mi \u00eds\u0165 na pole, a budem zbiera\u0165 klasy za t\u00fdm, u koho n\u00e1jdem priaze\u0148. I odpovedala jej: Cho\u010f, dc\u00e9ra moja!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A ona odi\u0161la. Pri\u0161la a zbierala na poli za \u017eencami, a tu do\u0161la n\u00e1hodou na diel po\u013ea B\u00f3azovho, ktor\u00fd poch\u00e1dzal z El\u00edmelechovho rodu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vtedy B\u00f3az pri\u0161iel z Betlehema a povedal \u017eencom: Hospodin s vami!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Potom sa sp\u00fdtal sluhu, postaven\u00e9ho nad \u017eencami: \u010cia je t\u00e1to deva?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Sluha, postaven\u00fd nad \u017eencami, odpovedal: Je to mo\u00e1bska deva, ktor\u00e1 sa vr\u00e1tila s No\u00e9mi z mo\u00e1bskych str\u00e1n\u00ed"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "a povedala: Chcela by som zbiera\u0165 a zhroma\u017e\u010fova\u0165 klasy medzi snopami za \u017eencami! Pri\u0161la a zostala tu od r\u00e1na a\u017e doteraz. A neodpo\u010d\u00edvala doma ani chv\u00ed\u013eku."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vtedy B\u00f3az povedal R\u00fat: Po\u010duj, dc\u00e9ra moja! Necho\u010f zbiera\u0165 na in\u00e9 pole, ani neodch\u00e1dzaj odtia\u013eto! Prid\u0155\u017eaj sa len mojich slu\u017eobn\u00edc!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Upieraj o\u010di na pole, na ktorom ony \u017en\u00fa, a cho\u010f za nimi. Ve\u010f som prik\u00e1zal sluhom, aby sa \u0165a nedotkli! Ke\u010f bude\u0161 sm\u00e4dn\u00e1, cho\u010f k n\u00e1dob\u00e1m a napi sa z toho, \u010do na\u010derpali sluhovia."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vtedy padla na tv\u00e1r, poklonila sa a\u017e k zemi a sp\u00fdtala sa ho: Pre\u010do som na\u0161la priaze\u0148 u teba, \u017ee si sa ma ujal? Ve\u010f ja som cudzinka!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "B\u00f3az jej odpovedal: Ozn\u00e1mili mi v\u0161etko, \u010do si u\u010dinila svojej svokre po smrti svojho mu\u017ea, \u017ee si opustila svojho otca, matku, rodn\u00fa krajinu a i\u0161la si k \u013eudu, ktor\u00fd si predt\u00fdm nepoznala."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hospodin nech ti odplat\u00ed za to, \u010do si urobila, nech sa ti dostane dokonalej odmeny od Hospodina, Boha izraelsk\u00e9ho, preto\u017ee si pri\u0161la h\u013eada\u0165 \u00fato\u010disko pod Jeho kr\u00eddlami."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nato odpovedala: Kie\u017e by som na\u0161la priaze\u0148 v tvojich o\u010diach, pane m\u00f4j, ve\u010f si ma pote\u0161il a prehovoril si k srdcu svojej slu\u017eobnice, hoci nie som ani jedna z tvojich slu\u017eobn\u00edc."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ke\u010f bol \u010das jes\u0165, B\u00f3az jej povedal: Po\u010f sem, zajedz si a om\u00e1\u010daj si krajec v kyselici! Ke\u010f si sadla ved\u013ea \u017eencov, podal jej pra\u017een\u00e9 zrno a ona jedla. Ke\u010f sa nas\u00fdtila, zvy\u0161ok si nechala."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ke\u010f vstala zbiera\u0165 klasy, B\u00f3az prik\u00e1zal svojim sluhom: Vy ju nezahanbujte! Nech zbiera aj medzi snopmi!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ba naschv\u00e1l navy\u0165ahujte jej aj zo snopov a nechajte tak! Ke\u010f bude zbiera\u0165, nedohov\u00e1rajte jej!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tak zbierala na poli a\u017e do ve\u010dera. Ke\u010f vyml\u00e1tila, \u010do nazbierala, bola toho \u00e9fa ja\u010dme\u0148a."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Vzala to a \u0161la do mesta. Svokra videla, \u010do nazbierala. Potom vybrala a dala jej, \u010do jej ostalo, ke\u010f sa nas\u00fdtila."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Vtedy jej svokra povedala: Kde si dnes zbierala klasy a kde si pracovala? Nech je po\u017eehnan\u00fd, kto sa \u0165a ujal! Potom ozn\u00e1mila svokre, u koho pracovala, a povedala: Mu\u017e, u ktor\u00e9ho som dnes pracovala, sa vol\u00e1 B\u00f3az."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Vtedy povedala No\u00e9mi svojej neveste: Nech ho po\u017eehn\u00e1 Hospodin, ktor\u00fd neodoprel svoju priaze\u0148 ani \u017eiv\u00fdm, ani m\u0155tvym! Potom jej No\u00e9mi povedala: Ten mu\u017e je n\u00e1\u0161 pr\u00edbuzn\u00fd a patr\u00ed k t\u00fdm, ktor\u00ed s\u00fa povinn\u00ed vyk\u00fapi\u0165 n\u00e1\u0161 majetok."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Vtedy povedala Mo\u00e1bka R\u00fat: Aj toto mi e\u0161te povedal: Prid\u0155\u017eaj sa mojich sluhov, k\u00fdm nepo\u017en\u00fa v\u0161etko, \u010do je moje!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Vtedy povedala No\u00e9mi neveste R\u00fat: Dobre je, dc\u00e9ra moja, \u017ee vych\u00e1dza\u0161 s jeho slu\u017eobnicami, aspo\u0148 ti na inom poli nebud\u00fa ubli\u017eova\u0165."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "A prid\u0155\u017eala sa B\u00f3azov\u00fdch slu\u017eobn\u00edc pri zbieran\u00ed klasov a\u017e do zo\u017eatia ja\u010dme\u0148a a do zo\u017eatia p\u0161enice. A b\u00fdvala u svojej svokry."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Potom jej povedala svokra No\u00e9mi: Dc\u00e9ra moja, nem\u00e1m ti vyh\u013eada\u0165 domov, aby si sa mala dobre?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ve\u010f B\u00f3az, s ktor\u00e9ho dievkami si bola, je n\u00e1\u0161 zn\u00e1my. Ajh\u013ea, tejto noci previeva ja\u010dme\u0148 na humne."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Umy sa a natri mas\u0165ou, oble\u010d si r\u00facho a z\u00ed\u010f do humna. Nedaj sa v\u0161ak pozna\u0165 tomu mu\u017eovi, k\u00fdm neprestane jes\u0165 a pi\u0165!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\"Ke\u010f si \u013eahne, v\u0161imni si to miesto, na ktor\u00e9 si \u013eahne; potom pr\u00ed\u010f, odkry prikr\u00fdvku na jeho noh\u00e1ch a \u013eahni si. On ti potom povie, \u010do m\u00e1\u0161 robi\u0165.\""
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Odpovedala jej: Urob\u00edm v\u0161etko, \u010do mi hovor\u00ed\u0161."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Potom zi\u0161la do humna a urobila v\u0161etko, \u010do jej prik\u00e1zala svokra."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ke\u010f sa B\u00f3az najedol a napil - bol v dobrej n\u00e1lade a \u0161iel si \u013eahn\u00fa\u0165 na kraj h\u0155by obilia - t\u00ed\u0161ko pri\u0161la, odkryla prikr\u00fdvku na jeho noh\u00e1ch a \u013eahla si."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Okolo polnoci sa ten mu\u017e strhol, a ke\u010f sa nahol, h\u013ea: pri jeho noh\u00e1ch le\u017eala \u017eena."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sp\u00fdtal sa: Kto si? Odpovedala: Som R\u00fat, tvoja slu\u017eobnica. Rozostri okraj svojho pl\u00e1\u0161\u0165a na svoju slu\u017eobnicu, lebo si odkupuj\u00faci pr\u00edbuzn\u00fd."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vtedy povedal: Nech \u0165a po\u017eehn\u00e1 Hospodin, dc\u00e9ra moja! Svojou poslednou l\u00e1skou si prekonala svoju l\u00e1s ku na za\u010diatku, preto\u017ee si ne\u0161la ani za chudobn\u00fdmi ani za bohat\u00fdmi ml\u00e1dencami."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Teraz sa v\u0161ak neboj, dc\u00e9ra moja! Urob\u00edm ti v\u0161etko, \u010do si \u017eel\u00e1\u0161. Ve\u010f v\u0161etci moji spoluob\u010dania vedia, \u017ee si stato\u010dn\u00e1 \u017eena."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Teraz, pravda je, \u017ee som odkupuj\u00facim pr\u00edbuzn\u00fdm, ale je e\u0161te bli\u017e\u0161\u00ed odkupuj\u00faci, ako som ja."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tejto noci prenocuj tu, a ak r\u00e1no bude chcie\u0165 uplatni\u0165 svoje pr\u00edbuzensk\u00e9 pr\u00e1vo, dobre, nech ho uplatn\u00ed. Ak ho v\u0161ak nebude chcie\u0165 uplatni\u0165, potom ho uplatn\u00edm ja - ako\u017ee \u017eije Hospodin! Le\u017e a\u017e do r\u00e1na!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "I le\u017eala pri jeho noh\u00e1ch a\u017e do r\u00e1na. Potom vstala sk\u00f4r, ako niekto m\u00f4\u017ee spozna\u0165 in\u00e9ho, lebo povedal: Nech sa nedozvedia, \u017ee t\u00e1to \u017eena pri\u0161la do humna!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A dodal: Daj sem pl\u00e1\u0161\u0165, ktor\u00fd m\u00e1\u0161 na sebe, a podr\u017e ho! Podr\u017eala ho. Potom nameral \u0161es\u0165 mier ja\u010dme\u0148a a nalo\u017eil jej ho. A ona odi\u0161la do mesta."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ke\u010f pri\u0161la ku svokre, t\u00e1 sa jej spytovala: \u010co je s tebou, dc\u00e9ra moja? Ozn\u00e1mila jej v\u0161etko, \u010do jej u\u010dinil onen mu\u017e."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Povedala: T\u00fdchto \u0161es\u0165 mier ja\u010dme\u0148a mi dal, lebo mi povedal: Nem\u00f4\u017ee\u0161 sa vr\u00e1ti\u0165 napr\u00e1zdno ku svojej svokre!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Potom jej No\u00e9mi povedala: \u010cakaj, dc\u00e9ra moja, k\u00fdm sa nedozvie\u0161, ako sa to skon\u010d\u00ed, lebo onen mu\u017e si neodd\u00fdchne, k\u00fdm to dnes neskon\u010d\u00ed."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "B\u00f3az odi\u0161iel k br\u00e1ne a tam si sadol. A h\u013ea, pr\u00e1ve tadia\u013e prech\u00e1dzal pr\u00edbuzn\u00fd, o ktorom hovoril B\u00f3az. Vtedy povedal: No\u017ee, ty! Po\u010f sem a sadni si tu! Ten zastal a sadol si."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "B\u00f3az vzal desa\u0165 mu\u017eov spomedzi star\u0161\u00edch mesta a povedal: Sadnite si sem! Oni si sadli."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Potom povedal pr\u00edbuzn\u00e9mu: No\u00e9mi, ktor\u00e1 sa vr\u00e1tila z mo\u00e1bskych str\u00e1n\u00ed, chce preda\u0165 diel po\u013ea, ktor\u00fd patril n\u00e1\u0161mu bratovi El\u00edmelechovi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pomyslel som si, \u017ee ti to ozn\u00e1mim: Odk\u00fap ho pred pr\u00edsediacimi star\u0161\u00edmi m\u00f4jho \u013eudu! Ak chce\u0161 odk\u00fapi\u0165, odk\u00fap! Ale ak neodk\u00fapi\u0161, povedz mi, aby som to vedel, lebo nieto nikoho okrem teba, kto by mal pr\u00e1vo odk\u00fapi\u0165. Ja som po tebe. Ten povedal: Odk\u00fapim."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vtedy povedal B\u00f3az: V ten de\u0148, ke\u010f k\u00fapi\u0161 pole z ruky No\u00e9minej, k\u00fapi\u0161 i Mo\u00e1bku R\u00fat, \u017eenu zosnul\u00e9ho, aby si meno zosnul\u00e9ho o\u017eivil na jeho dedi\u010dstve."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vtedy pr\u00edbuzn\u00fd povedal: Nem\u00f4\u017eem ho odk\u00fapi\u0165 pre seba, aby som nezni\u010dil svoje dedi\u010dstvo. Odk\u00fap ty, \u010do som ja mal odk\u00fapi\u0165, lebo ja nem\u00f4\u017eem odk\u00fapi\u0165."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Predt\u00fdm bolo zvykom v Izraeli, \u017ee pri k\u00fape a v\u00fdmene na potvrdenie si mu\u017e vyzul obuv a dal ju tomu druh\u00e9mu. To b\u00fdvalo svedectvom v Izraeli."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pr\u00edbuzn\u00fd povedal B\u00f3azovi: K\u00fap si! Potom si vyzul obuv."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Vtedy povedal B\u00f3az star\u0161\u00edm a v\u0161etk\u00e9mu \u013eudu: Dnes ste svedkami, \u017ee som z ruky No\u00e9minej k\u00fapil v\u0161etko, \u010do bolo El\u00edmelechovo, i v\u0161etko, \u010do bolo Kilj\u00f3novo a Machl\u00f3novo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Aj Mo\u00e1bku R\u00fat, man\u017eelku Machl\u00f3novu, som z\u00edskal za \u017eenu, aby som o\u017eivil meno zosnul\u00e9ho v jeho dedi\u010dstve a aby meno zosnul\u00e9ho nebolo vyhladen\u00e9 spomedzi jeho bratov a z br\u00e1ny jeho mesta. Dnes ste toho svedkami."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Vtedy povedal v\u0161etok \u013eud v br\u00e1ne i star\u0161\u00ed: Sme svedkami. Nech Hospodin d\u00e1, aby \u017eena, ktor\u00e1 vch\u00e1dza do tvojho domu, bola ako R\u00e1chel a Lea, ktor\u00e9 spolu vybudovali dom Izraela. Z\u00edskaj si moc v Efrate, a nech je osl\u00e1ven\u00e9 meno tvoje v Betleheme."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nech tvoj dom z potomstva, ktor\u00e9 ti d\u00e1 Hospodin z tejto devy, bude ako dom Perecov, ktor\u00e9ho porodila T\u00e1m\u00e1r J\u00fadovi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Potom si B\u00f3az vzal R\u00fat a stala sa jeho \u017eenou. Ke\u010f vo\u0161iel k nej, Hospodin sp\u00f4sobil, aby po\u010dala a porodila syna."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vtedy \u017eeny povedali No\u00e9mi: Nech je po\u017eehnan\u00fd Hospodin, ktor\u00fd ti dnes neodoprel odkupuj\u00faceho pr\u00edbuzn\u00e9ho, a nech sa jeho meno oslavuje v Izraeli."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "On ti bude osvie\u017eova\u0165 du\u0161u a zaopatr\u00ed \u0165a v starobe. Ve\u010f ho porodila tvoja nevesta, ktor\u00e1 \u0165a miluje a ktor\u00e1 je lep\u0161ia k tebe ako sedem synov."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Potom No\u00e9mi vzala chlapca, polo\u017eila si ho do n\u00e1ru\u010dia a bola mu pest\u00fankou."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Susedy mu dali meno a povedali: No\u00e9mi sa narodil syn. Dali mu meno \u00d3b\u00e9d. On je otec D\u00e1vidovho otca Izaja."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Toto je rodokme\u0148 Perecov: Perec splodil Checr\u00f3na."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Checr\u00f3n splodil R\u00e1ma, R\u00e1m splodil Amm\u00edn\u00e1d\u00e1ba."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Amm\u00edn\u00e1d\u00e1b splodil Nach\u0161\u00f3na, Nach\u0161\u00f3n splodil Salm\u00f3na."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Salm\u00f3n splodil B\u00f3aza a B\u00f3az splodil \u00d3b\u00e9da. \u00d3b\u00e9d splodil Izaja a Izaj splodil D\u00e1vida."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": ""
+                }
+            }
+        }
+    }
+}

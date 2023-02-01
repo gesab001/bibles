@@ -1,0 +1,633 @@
+{
+    "version": "SFB",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "H\u00e4lsning - Fr\u00e5n Paulus, apostel, uts\u00e4nd inte av m\u00e4nniskor eller genom n\u00e5gon m\u00e4nniska utan av Jesus Kristus och Gud, Fadern, som har uppv\u00e4ckt honom fr\u00e5n de d\u00f6da."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jag och alla br\u00f6derna som \u00e4r hos mig h\u00e4lsar f\u00f6rsamlingarna i Galatien."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "N\u00e5d vare med er och frid fr\u00e5n Gud, v\u00e5r Fader, och Herren Jesus Kristus,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "som offrade sig f\u00f6r v\u00e5ra synder f\u00f6r att r\u00e4dda oss ur den nuvarande onda tids\u00e5ldern, efter v\u00e5r Guds och Faders vilja."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Honom tillh\u00f6r \u00e4ran i evigheternas evigheter, amen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Galaternas avfall fr\u00e5n evangelium - Jag \u00e4r f\u00f6rv\u00e5nad \u00f6ver att ni s\u00e5 hastigt avfaller fr\u00e5n honom som har kallat er genom Kristi n\u00e5d och v\u00e4nder er till ett annat evangelium,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "fast det inte finns n\u00e5got annat. D\u00e4remot \u00e4r det n\u00e5gra som skapar f\u00f6rvirring bland er och vill f\u00f6rvr\u00e4nga Kristi evangelium."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Men om det \u00e4n vore vi sj\u00e4lva eller en \u00e4ngel fr\u00e5n himlen som predikade evangelium f\u00f6r er i strid med vad vi har predikat, s\u00e5 skall han vara under f\u00f6rbannelse."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Det vi redan har sagt s\u00e4ger jag nu \u00e4n en g\u00e5ng: om n\u00e5gon predikar evangelium f\u00f6r er i strid med vad ni har tagit emot, s\u00e5 skall han vara under f\u00f6rbannelse."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00c4r det m\u00e4nniskor jag nu f\u00f6rs\u00f6ker f\u00e5 p\u00e5 min sida - eller Gud? Eller f\u00f6rs\u00f6ker jag st\u00e4lla mig in hos m\u00e4nniskor? Om jag fortfarande ville vara m\u00e4nniskor till lags, skulle jag inte vara Kristi tj\u00e4nare."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Paulus evangelium \u00e4r inte av m\u00e4nskligt ursprung - Jag vill g\u00f6ra klart f\u00f6r er, br\u00f6der, att det evangelium som jag har predikat inte kommer fr\u00e5n m\u00e4nniskor."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jag har inte f\u00e5tt det eller l\u00e4rt mig det av n\u00e5gon m\u00e4nniska. Jag har tagit emot det genom en uppenbarelse fr\u00e5n Jesus Kristus."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ni har ju h\u00f6rt hur jag tidigare upptr\u00e4dde som jude, hur jag ytterst v\u00e5ldsamt f\u00f6rf\u00f6ljde Guds f\u00f6rsamling och f\u00f6rs\u00f6kte utrota den,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "och hur jag gick l\u00e4ngre i judendom \u00e4n m\u00e5nga j\u00e4mn\u00e5riga i mitt folk. Mer fanatiskt \u00e4n de ivrade jag f\u00f6r mina f\u00e4ders stadgar."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Men han som utvalde mig redan i moderlivet och som kallade mig genom sin n\u00e5d,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "besl\u00f6t att uppenbara sin Son i mig, f\u00f6r att jag skulle predika evangelium om honom bland hedningarna. Jag brydde mig d\u00e5 inte om att genast fr\u00e5ga m\u00e4nniskor till r\u00e5ds."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jag for inte upp till Jerusalem, till dem som var apostlar f\u00f6re mig, utan jag begav mig till Arabien och v\u00e4nde sedan tillbaka till Damaskus."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "F\u00f6rst tre \u00e5r senare for jag upp till Jerusalem f\u00f6r att l\u00e4ra k\u00e4nna Kefas, och jag stannade hos honom i femton dagar."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "N\u00e5gon annan av apostlarna tr\u00e4ffade jag inte, bara Jakob, Herrens bror."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Det som jag h\u00e4r skriver till er, det skriver jag inf\u00f6r Gud, jag ljuger inte."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Sedan kom jag till trakterna av Syrien och Cilicien."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Men jag var personligen ok\u00e4nd f\u00f6r Kristi f\u00f6rsamlingar i Judeen."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "De hade endast h\u00f6rt s\u00e4gas: &#34;Han som tidigare f\u00f6rf\u00f6ljde oss predikar nu evangelium om den tro han f\u00f6rut ville utrota.&#34;"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Och de prisade Gud f\u00f6r min skull."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Paulus m\u00f6te med de ansedda i Jerusalem - Fjorton \u00e5r senare for jag \u00e5ter upp till Jerusalem, nu tillsammans med Barnabas. Ocks\u00e5 Titus tog jag med mig."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jag for dit p\u00e5 grund av en uppenbarelse och lade fram - enskilt, f\u00f6r de ansedda - det evangelium jag predikar bland hedningarna. Det var v\u00e4l inte s\u00e5 att jag sprang eller hade sprungit f\u00f6rg\u00e4ves?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Men inte ens min f\u00f6ljeslagare Titus som \u00e4r grek, blev tvingad att l\u00e5ta omsk\u00e4ra sig."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hade det berott p\u00e5 de falska br\u00f6der som smugit sig in, skulle han ha blivit tvungen till det. De hade n\u00e4stlat sig in f\u00f6r att spionera p\u00e5 den frihet vi har i Kristus Jesus och g\u00f6ra oss till slavar."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Men inte ens ett \u00f6gonblick gav vi vika f\u00f6r dem och underkastade oss. Vi ville att evangeliets sanning skulle bevaras hos er."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De som ans\u00e5gs betyda n\u00e5got - hurdana de en g\u00e5ng varit g\u00f6r ingen skillnad f\u00f6r mig, Gud ser inte till personen - mig ville dessa ansedda inte \u00e5l\u00e4gga n\u00e5got mer."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tv\u00e4rtom, de ins\u00e5g att jag hade blivit betrodd med evangelium till de oomskurna liksom Petrus till de omskurna."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Han som hade gett Petrus kraft att vara apostel bland de omskurna har ocks\u00e5 gett mig kraft att vara det bland hedningarna."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Och n\u00e4r Jakob, Kefas och Johannes, som ans\u00e5gs vara pelarna, f\u00f6rstod vilken n\u00e5d jag hade f\u00e5tt, r\u00e4ckte de mig och Barnabas handen som tecken p\u00e5 gemenskap. Vi skulle g\u00e5 till hedningarna, de till de omskurna."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bara en sak ville de, att vi skulle t\u00e4nka p\u00e5 de fattiga, och det har jag ocks\u00e5 vinnlagt mig om att g\u00f6ra."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Paulus klandrar Kefas - Men n\u00e4r Kefas kom till Antiokia gick jag \u00f6ppet emot honom, eftersom han stod d\u00e4r d\u00f6md."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ty innan det kom n\u00e5gra fr\u00e5n Jakob, brukade han \u00e4ta tillsammans med hedningarna. Men n\u00e4r de hade kommit, drog han sig alltmera undan och h\u00f6ll sig borta fr\u00e5n hedningarna av fruktan f\u00f6r de omskurna."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00c4ven de andra judarna hycklade p\u00e5 samma vis, s\u00e5 att till och med Barnabas drogs in i deras hyckleri."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Men n\u00e4r jag s\u00e5g att de inte var p\u00e5 r\u00e4tt v\u00e4g och inte f\u00f6ljde evangeliets sanning, sade jag till Kefas inf\u00f6r alla: &#34;Om du som \u00e4r jude lever p\u00e5 hedniskt vis och inte p\u00e5 judiskt, varf\u00f6r tvingar du d\u00e5 hedningarna att leva som judar?&#34;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "R\u00e4ttf\u00e4rdig genom tro, inte genom lagens g\u00e4rningar - Vi sj\u00e4lva \u00e4r visserligen judar till f\u00f6delsen och inga hedniska syndare."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Men eftersom vi vet att m\u00e4nniskan inte f\u00f6rklaras r\u00e4ttf\u00e4rdig genom lagg\u00e4rningar utan genom tro p\u00e5 Jesus Kristus, s\u00e5 har ocks\u00e5 vi satt v\u00e5r tro till Kristus Jesus, f\u00f6r att vi skall st\u00e5 som r\u00e4ttf\u00e4rdiga genom tro p\u00e5 Kristus och inte genom lagg\u00e4rningar. Ty genom lagg\u00e4rningar blir ingen m\u00e4nniska r\u00e4ttf\u00e4rdig."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Men om vi genom att s\u00f6ka r\u00e4ttf\u00e4rdigheten i Kristus visar oss vara syndare, skulle d\u00e5 Kristus st\u00e5 i syndens tj\u00e4nst? Nej, och \u00e5ter nej!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Men om jag bygger upp igen det som jag har rivit ner, d\u00e5 st\u00e5r jag d\u00e4r som en \u00f6vertr\u00e4dare."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ty jag har genom lagen d\u00f6tt bort fr\u00e5n lagen f\u00f6r att jag skall leva f\u00f6r Gud. Jag \u00e4r korsf\u00e4st med Kristus,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "och nu lever inte l\u00e4ngre jag, utan Kristus lever i mig. Och det liv jag nu lever i min kropp, det lever jag i tron p\u00e5 Guds Son, som har \u00e4lskat mig och utgivit sig f\u00f6r mig."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Jag f\u00f6rkastar inte Guds n\u00e5d. Om r\u00e4ttf\u00e4rdighet kunde vinnas genom lagen, d\u00e5 hade Kristus d\u00f6tt f\u00f6rg\u00e4ves."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Trons r\u00e4ttf\u00e4rdighet f\u00f6rkunnad f\u00f6r Abraham - Ni d\u00e5raktiga galater! Vem har f\u00f6rh\u00e4xat er, ni som har f\u00e5tt Jesus Kristus framst\u00e4lld f\u00f6r era \u00f6gon som korsf\u00e4st?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Endast det vill jag veta: tog ni emot Anden genom att h\u00e5lla lagen eller genom att lyssna i tro?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00c4r ni s\u00e5 d\u00e5raktiga? Ni som b\u00f6rjade i Anden, skall ni nu sluta i k\u00f6ttet?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Har ni lidit s\u00e5 mycket f\u00f6rg\u00e4ves, ja, helt f\u00f6rg\u00e4ves?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Han som ger er Anden och g\u00f6r underverk bland er, g\u00f6r han det f\u00f6r att ni h\u00e5ller lagen eller f\u00f6r att ni lyssnar i tro, liksom Abraham?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Han trodde Gud, och det r\u00e4knades honom till r\u00e4ttf\u00e4rdighet."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "D\u00e4rf\u00f6r skall ni veta att de som h\u00e5ller sig till tron, de \u00e4r Abrahams barn."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Och d\u00e5 Skriften f\u00f6ruts\u00e5g att Gud skulle f\u00f6rklara hedningarna r\u00e4ttf\u00e4rdiga av tro, f\u00f6rkunnade den i f\u00f6rv\u00e4g detta glada budskap f\u00f6r Abraham: I dig skall alla folk bli v\u00e4lsignade."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Allts\u00e5 blir de som tror v\u00e4lsignade tillsammans med Abraham som trodde."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Men alla som h\u00e5ller sig till lagg\u00e4rningar \u00e4r under f\u00f6rbannelse. Det st\u00e5r skrivet: Under f\u00f6rbannelse st\u00e5r den som inte h\u00e5ller fast vid allt som \u00e4r skrivet i lagens bok och g\u00f6r d\u00e4refter."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Att ingen f\u00f6rklaras r\u00e4ttf\u00e4rdig inf\u00f6r Gud genom lagen \u00e4r uppenbart, eftersom den r\u00e4ttf\u00e4rdige skall leva av tro."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Men lagen s\u00e4ger inte &#34;av tro&#34;, utan den som h\u00e5ller dessa bud skall leva genom dem."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kristus frik\u00f6pte oss fr\u00e5n lagens f\u00f6rbannelse, n\u00e4r han blev en f\u00f6rbannelse i v\u00e5rt st\u00e4lle. Det st\u00e5r skrivet: F\u00f6rbannad \u00e4r var och en som \u00e4r upph\u00e4ngd p\u00e5 tr\u00e4."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vi frik\u00f6ptes, f\u00f6r att den v\u00e4lsignelse Abraham f\u00e5tt skulle i Jesus Kristus komma till hedningarna och f\u00f6r att vi genom tron skulle f\u00e5 den utlovade Anden."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Lagen upph\u00e4ver ej l\u00f6ftet - Br\u00f6der, jag vill ta ett exempel fr\u00e5n vardagen: inte ens en m\u00e4nniskas testamente som har vunnit laga kraft kan g\u00f6ras ogiltigt eller f\u00e5 n\u00e5got till\u00e4gg."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nu gavs l\u00f6ftena \u00e5t Abraham och hans avkomma. Det heter inte: &#34;och \u00e5t dina avkomlingar&#34;, som n\u00e4r man talar om m\u00e5nga, utan som n\u00e4r det talas om en enda: och \u00e5t din avkomling som \u00e4r Kristus."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Vad jag menar \u00e4r detta: ett testamente som Gud sj\u00e4lv i f\u00f6rv\u00e4g har gett laga kraft, kan inte upph\u00e4vas av lagen som gavs fyrahundratrettio \u00e5r senare, s\u00e5 att l\u00f6ftet skulle s\u00e4ttas ur kraft."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ty om arvet beror p\u00e5 lagen, beror det inte p\u00e5 l\u00f6ftet. Men \u00e5t Abraham har Gud gett arvet genom ett l\u00f6fte."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Varf\u00f6r gavs d\u00e5 lagen? Den blev tillagd f\u00f6r \u00f6vertr\u00e4delsernas skull f\u00f6r att g\u00e4lla tills avkomlingen skulle tr\u00e4da fram, han som l\u00f6ftet g\u00e4llde. Den utf\u00e4rdades genom \u00e4nglar och lades i en medlares hand."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Denne medlare f\u00f6retr\u00e4der inte bara en part. Men Gud \u00e4r en."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Strider d\u00e5 lagen mot Guds l\u00f6ften? Nej, inte alls. Om vi hade f\u00e5tt en lag som kunde ge liv, d\u00e5 hade verkligen r\u00e4ttf\u00e4rdigheten kommit av lagen."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Men nu har Skriften inneslutit allt under synd, f\u00f6r att det som var utlovat skulle ges genom tron p\u00e5 Jesus Kristus \u00e5t dem som tror."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Innan tron kom h\u00f6lls vi i f\u00e4ngsligt f\u00f6rvar och var bevakade av lagen, tills tron skulle uppenbaras."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "S\u00e5 blev lagen v\u00e5r \u00f6vervakare fram till Kristus, f\u00f6r att vi skall f\u00f6rklaras r\u00e4ttf\u00e4rdiga av tro."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Men sedan tron har kommit, st\u00e5r vi inte l\u00e4ngre under n\u00e5gon \u00f6vervakare."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Abrahams barn \u00e4r arvingar enligt l\u00f6ftet - Alla \u00e4r ni Guds barn genom tron p\u00e5 Kristus Jesus."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Alla ni som har blivit d\u00f6pta till Kristus har blivit ikl\u00e4dda Kristus."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "H\u00e4r \u00e4r inte jude eller grek, slav eller fri, man och kvinna. Alla \u00e4r ni ett i Kristus Jesus."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Om ni nu tillh\u00f6r honom \u00e4r ni Abrahams avkomlingar, arvingar enligt l\u00f6ftet."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jag menar: s\u00e5 l\u00e4nge arvingen \u00e4r omyndig, \u00e4r det ingen skillnad alls mellan honom och en slav, fast han \u00e4ger allt."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Han st\u00e5r under f\u00f6rmyndare och f\u00f6rvaltare fram till den dag som hans far har best\u00e4mt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "P\u00e5 samma s\u00e4tt var det med oss. S\u00e5 l\u00e4nge vi var omyndiga var vi slavar under v\u00e4rldens stadgar."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Men n\u00e4r tiden var fullbordad s\u00e4nde Gud sin Son, f\u00f6dd av kvinna och st\u00e4lld under lagen,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "f\u00f6r att han skulle frik\u00f6pa dem som stod under lagen, s\u00e5 att vi skulle f\u00e5 s\u00f6ners r\u00e4tt."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Och eftersom ni \u00e4r s\u00f6ner, har Gud s\u00e4nt i v\u00e5ra hj\u00e4rtan sin Sons Ande som ropar: &#34;Abba! Fader!&#34;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "S\u00e5 \u00e4r du inte l\u00e4ngre slav utan son, och \u00e4r du son \u00e4r du ocks\u00e5 arvinge, insatt av Gud."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "V\u00e4nd inte tillbaka till lagen - Tidigare, d\u00e5 ni inte k\u00e4nde Gud, var ni slavar under gudar som egentligen inte \u00e4r n\u00e5gra gudar."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Men nu, d\u00e5 ni k\u00e4nner Gud, ja, \u00e4n mer, har blivit k\u00e4nda av Gud, hur kan ni d\u00e5 v\u00e4nda tillbaka till dessa svaga och ynkliga m\u00e4nniskostadgar som ni p\u00e5 nytt vill bli slavar under?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ni iakttar noga dagar och m\u00e5nader och s\u00e4rskilda tider och \u00e5r."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jag \u00e4r r\u00e4dd att jag har anstr\u00e4ngt mig f\u00f6rg\u00e4ves bland er."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jag ber er, br\u00f6der: bli som jag, eftersom jag har blivit som ni. Ni har inte gjort mig n\u00e5got ont."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ni vet att det var p\u00e5 grund av kroppslig svaghet som jag f\u00f6rsta g\u00e5ngen fick tillf\u00e4lle att predika evangeliet f\u00f6r er."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Fast\u00e4n min svaga kropp kunde ha inneburit en frestelse f\u00f6r er, s\u00e5 f\u00f6raktade ni mig inte eller avskydde mig, utan ni tog emot mig som en Guds \u00e4ngel, ja, som Kristus Jesus."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Var h\u00f6r man nu er lovprisning? Jag kan vittna om att ni d\u00e5 hade rivit ut era \u00f6gon och gett dem \u00e5t mig, om det varit m\u00f6jligt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Har jag nu blivit er fiende, d\u00e4rf\u00f6r att jag s\u00e4ger er sanningen?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Dessa m\u00e4nniskor \u00e4r ivriga att vinna er men har inte r\u00e4tt iver, utan vill skilja er fr\u00e5n oss f\u00f6r att ni med s\u00e5 mycket st\u00f6rre iver skall h\u00e5lla er till dem."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Det \u00e4r bra att vara ivrig f\u00f6r det som \u00e4r gott, det g\u00e4ller alltid, och inte bara n\u00e4r jag \u00e4r hos er."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Mina barn, som jag nu \u00e4n en g\u00e5ng med sm\u00e4rta f\u00f6der, tills Kristus har tagit gestalt i er,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "jag skulle \u00f6nska att jag nu var hos er och kunde \u00e4ndra mitt tonfall, f\u00f6r jag vet mig ingen r\u00e5d med er."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Lagens f\u00f6rbund och l\u00f6ftets - S\u00e4g mig, ni som vill st\u00e5 under lagen: lyssnar ni inte p\u00e5 lagen?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "D\u00e4r st\u00e5r skrivet att Abraham hade tv\u00e5 s\u00f6ner, en med sin slavinna och en med sin fria hustru."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Slavinnans son var f\u00f6dd av m\u00e4nsklig vilja, den fria hustruns son d\u00e4remot i kraft av ett l\u00f6fte."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Detta har en djupare mening: de tv\u00e5 kvinnorna betecknar tv\u00e5 f\u00f6rbund. Det ena kommer fr\u00e5n berget Sinai och f\u00f6der sina barn i slaveri, det \u00e4r Hagar."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ordet Hagar betecknar Sinai berg i Arabien och motsvarar det nuvarande Jerusalem, eftersom det lever i slaveri med sina barn."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Men det himmelska Jerusalem \u00e4r fritt, och det \u00e4r v\u00e5r moder."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Det st\u00e5r skrivet: Gl\u00e4d dig, du ofruktsamma, du som inte f\u00f6der barn, jubla h\u00f6gt, du som inte k\u00e4nner f\u00f6dslov\u00e5nda, ty den ensamma har m\u00e5nga barn, fler \u00e4n den som har en man."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ni, br\u00f6der, \u00e4r l\u00f6ftets barn liksom Isak."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Och som det var d\u00e5, att han som var f\u00f6dd efter naturens ordning f\u00f6rf\u00f6ljde den som var f\u00f6dd i kraft av Anden, s\u00e5 \u00e4r det ocks\u00e5 nu."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Men vad s\u00e4ger Skriften: Driv ut slavinnan och hennes son. Ty hennes son skall inte \u00e4rva tillsammans med den fria hustruns son."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Allts\u00e5, br\u00f6der, \u00e4r vi inte barn till slavinnan utan till den fria hustrun."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Friheten i Kristus - Till denna frihet har Kristus gjort oss fria. St\u00e5 d\u00e4rf\u00f6r fasta och l\u00e5t er inte p\u00e5 nytt tvingas in under slavoket."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Se, jag Paulus s\u00e4ger er att om ni l\u00e5ter omsk\u00e4ra er, kommer Kristus inte att vara till n\u00e5gon hj\u00e4lp f\u00f6r er."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jag f\u00f6rs\u00e4krar er \u00e4n en g\u00e5ng: var och en som l\u00e5ter omsk\u00e4ra sig \u00e4r skyldig att h\u00e5lla hela lagen."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ni har kommit bort ifr\u00e5n Kristus, ni som f\u00f6rs\u00f6ker bli r\u00e4ttf\u00e4rdiga genom lagen. Ni har fallit ur n\u00e5den."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vi d\u00e4remot v\u00e4ntar i Anden genom tron p\u00e5 den r\u00e4ttf\u00e4rdighet som \u00e4r v\u00e5rt hopp."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ty i Kristus Jesus beror det inte p\u00e5 om vi \u00e4r omskurna eller oomskurna, utan om vi har en tro som \u00e4r verksam i k\u00e4rlek."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ni b\u00f6rjade bra. Vem har nu hindrat er, s\u00e5 att ni inte l\u00e4ngre lyder sanningen?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Till det har ni inte blivit \u00f6vertalade av honom som kallade er."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Lite surdeg syrar hela degen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jag f\u00f6r min del litar i Herren p\u00e5 att ni inte skall vara av annan mening. Men den som skapar f\u00f6rvirring bland er skall f\u00e5 sin dom, vem han \u00e4n \u00e4r."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Br\u00f6der, om jag fortfarande predikade omsk\u00e4relse, varf\u00f6r skulle jag d\u00e5 bli f\u00f6rf\u00f6ljd? D\u00e5 vore korsets anst\u00f6t borta."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De som uppviglar er borde g\u00e5 och stympa sig."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ni \u00e4r kallade till frihet, br\u00f6der. Anv\u00e4nd bara inte friheten s\u00e5 att den onda naturen f\u00e5r n\u00e5got tillf\u00e4lle, utan tj\u00e4na varandra i k\u00e4rlek."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ty hela lagen \u00e4r uppfylld i detta enda budord: Du skall \u00e4lska din n\u00e4sta som dig sj\u00e4lv."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Men om ni biter och sliter i varandra, se d\u00e5 till att ni inte blir uppslukade av varandra."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "K\u00f6ttets g\u00e4rningar och Andens frukt - Vad jag vill s\u00e4ga \u00e4r detta: vandra i Anden, s\u00e5 kommer ni inte att g\u00f6ra vad k\u00f6ttet beg\u00e4r."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ty k\u00f6ttet s\u00f6ker det som \u00e4r emot Anden och Anden s\u00f6ker det som \u00e4r emot k\u00f6ttet. De tv\u00e5 strider mot varandra f\u00f6r att hindra er att g\u00f6ra det ni vill."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Men om ni leds av Anden, st\u00e5r ni inte under lagen."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "K\u00f6ttets g\u00e4rningar \u00e4r uppenbara: de \u00e4r otukt, orenhet, l\u00f6saktighet,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "avgudadyrkan, svartkonst, fiendskap, kiv, avund, vredesutbrott, gr\u00e4l, splittringar, villol\u00e4ror,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "illvilja, fylleri, utsv\u00e4vningar och annat s\u00e5dant. Jag s\u00e4ger er i f\u00f6rv\u00e4g vad jag redan har sagt: de som lever s\u00e5 skall inte \u00e4rva Guds rike."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Andens frukt d\u00e4remot \u00e4r k\u00e4rlek, gl\u00e4dje, frid, t\u00e5lamod, v\u00e4nlighet, godhet,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "trohet, mildhet och sj\u00e4lvbeh\u00e4rskning. S\u00e5dant \u00e4r lagen inte emot."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "De som tillh\u00f6r Kristus Jesus har korsf\u00e4st sitt k\u00f6tt med dess lidelser och beg\u00e4r."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Om vi har liv genom Anden, l\u00e5t oss d\u00e5 \u00e4ven f\u00f6lja Anden."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "L\u00e5t oss inte s\u00f6ka tom \u00e4ra, inte utmana varandra och inte avundas varandra."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "B\u00e4r varandras b\u00f6rdor - Br\u00f6der, om ni kommer p\u00e5 n\u00e5gon med att beg\u00e5 en \u00f6vertr\u00e4delse, d\u00e5 skall ni som \u00e4r andliga m\u00e4nniskor i mildhet uppr\u00e4tta en s\u00e5dan. Men se till att inte du ocks\u00e5 blir frestad."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "B\u00e4r varandras b\u00f6rdor, s\u00e5 uppfyller ni Kristi lag."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ty den som tror sig vara n\u00e5got, fast han ingenting \u00e4r, han bedrar sig sj\u00e4lv."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Var och en skall pr\u00f6va sina egna g\u00e4rningar. Han beh\u00e5ller d\u00e5 f\u00f6r sig sj\u00e4lv det som \u00e4r v\u00e4rt att vara stolt \u00f6ver och j\u00e4mf\u00f6r sig inte med andra."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ty var och en skall b\u00e4ra sin egen b\u00f6rda."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Men den som f\u00e5r undervisning i ordet b\u00f6r dela med sig av allt gott till den som undervisar honom."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Bedra inte er sj\u00e4lva. Gud bedrar man inte: det m\u00e4nniskan s\u00e5r skall hon ocks\u00e5 sk\u00f6rda."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Den som s\u00e5r i sitt k\u00f6tts \u00e5ker skall av k\u00f6ttet sk\u00f6rda underg\u00e5ng, men den som s\u00e5r i Andens \u00e5ker skall av Anden sk\u00f6rda evigt liv."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "L\u00e5t oss inte tr\u00f6ttna p\u00e5 att g\u00f6ra gott. Ty n\u00e4r tiden \u00e4r inne f\u00e5r vi sk\u00f6rda, om vi inte ger upp."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "L\u00e5t oss d\u00e4rf\u00f6r g\u00f6ra gott mot alla m\u00e4nniskor medan vi har tillf\u00e4lle, och framf\u00f6r allt mot dem som delar v\u00e5r tro."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Inte omsk\u00e4relse utan ny skapelse - Se h\u00e4r med vilka stora bokst\u00e4ver jag skriver till er med egen hand."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Alla som vill ha gott anseende genom n\u00e5got yttre f\u00f6rs\u00f6ker tvinga er till omsk\u00e4relse, och detta bara f\u00f6r att de inte skall bli f\u00f6rf\u00f6ljda f\u00f6r Kristi kors."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ty de som l\u00e5ter omsk\u00e4ra sig kan inte ens sj\u00e4lva h\u00e5lla lagen, men de vill att ni skall l\u00e5ta omsk\u00e4ra er, f\u00f6r att de skall kunna skryta med att ni \u00e4r omskurna."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "F\u00f6r min del vill jag aldrig ber\u00f6mma mig av n\u00e5got annat \u00e4n v\u00e5r Herre Jesu Kristi kors, genom vilket v\u00e4rlden \u00e4r korsf\u00e4st f\u00f6r mig och jag f\u00f6r v\u00e4rlden."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Det har ingen betydelse om man \u00e4r omskuren eller oomskuren. Det som verkligen betyder n\u00e5got \u00e4r en ny skapelse."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Frid och barmh\u00e4rtighet \u00f6ver dem som f\u00f6ljer denna regel, ja, \u00f6ver Guds Israel."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nu m\u00e5 ingen pl\u00e5ga mig l\u00e4ngre, eftersom jag b\u00e4r Jesu m\u00e4rken p\u00e5 min kropp."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "V\u00e5r Herre Jesu Kristi n\u00e5d vare med er ande, br\u00f6der. Amen."
+                }
+            }
+        }
+    }
+}

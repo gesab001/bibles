@@ -1,0 +1,3822 @@
+{
+    "version": "SLV",
+    "book_name": "Proverbs",
+    "book_nr": "20",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pregovori Salomona, Davidovega sina, Izraelovega kralja;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "da bi spoznali modrost in pou\u010devanje; da bi zaznali besede razumevanja;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "da bi sprejeli pou\u010devanje modrosti, pravice in sodbe in nepristranost;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "da bi dali premetenost preprostemu, mladeni\u010du spoznanje in preudarnost."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Moder \u010dlovek bo sli\u0161al in bo pove\u010dal u\u010denje; in razumen \u010dlovek se bo dokopal k modrim nasvetom:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "da bo razumel pregovor in razlago; besede modrih in njihove temne izreke."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Strah Gospodov je za\u010detek spoznanja: toda bedaki prezirajo modrost in pou\u010devanje."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Moj sin, prisluhni pou\u010devanju svojega o\u010deta in ne zapusti postave svoje matere:"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "kajti ona bosta ornament milosti tvoji glavi in veri\u017eici okoli tvojega vratu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Moj sin, \u010de te gre\u0161niki privabljajo, ne privoli."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u010ce re\u010dejo: \u201ePridi z nami, v zasedi pre\u017eimo na kri, brez razloga se tajno pritajimo za nedol\u017enega:"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "po\u017erimo jih \u017eive kakor grob; in cele, kakor tiste, ki gredo dol v jamo:"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "na\u0161li bomo vse dragoceno imetje, na\u0161e hi\u0161e bomo napolnili z ukradenim blagom:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "svoj \u017ereb vrzi med nas; vsi imejmo eno mo\u0161njo.\u201c"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Moj sin, ne hodi z njimi na pot; svoje stopalo zadr\u017ei pred njihovo stezo:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "kajti njihova stopala te\u010dejo k zlu in hitijo, da prelijejo kri."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Zagotovo je zaman razprostrta mre\u017ea v pogledu katerekoli ptice."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "In oni pre\u017eijo v zasedi na svojo lastno kri; tajno se pritajijo za svoja lastna \u017eivljenja."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Tak\u0161ne so poti vsakogar, ki je pohlepen dobi\u010dka; ki odvzema \u017eivljenje svojim lastnikom."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Modrost kli\u010de zunaj; svoj glas izreka na ulicah:"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "kli\u010de na glavnem kraju vrve\u017ea, v odprtinah velikih vrat: v mestu izreka svoje besede, reko\u010d:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u201eDoklej boste, vi topi, ljubili topost? In se posmehljivci razveseljevali v svojem posmehovanju in bedaki sovra\u017eili spoznanje?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Obrnite se na moj opomin: glejte, na vas bom izlila svojega duha, razgla\u0161ala vam bom svoje besede."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ker sem klicala, pa ste odklonili; iztegovala sem svojo roko, pa noben \u010dlovek ni upo\u0161teval;"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "toda vi ste zani\u010devali vse moje svetovanje in niste hoteli mojega opomina:"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "se bom tudi jaz smejala ob va\u0161i katastrofi; zasmehovala bom, ko pride va\u0161 strah;"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "ko prihaja va\u0161 strah kakor opusto\u0161enje in va\u0161e uni\u010denje prihaja kakor vrtin\u010dast veter; ko nad vas prihajata tegoba in tesnoba."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Tedaj se bodo obra\u010dali name, toda jaz jim ne bom odgovorila; iskali me bodo zgodaj, toda ne bodo me na\u0161li:"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "zaradi tega so sovra\u017eili spoznanje in niso izbrali strahu Gospodovega:"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "ni\u010desar niso hoteli od mojega nasveta: prezirali so ves moj opomin."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Zato bodo jedli od sadu svoje lastne poti in napolnjeni bodo s svojimi lastnimi naklepi."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Kajti odvra\u010danje od preprostosti jih bo ubilo in uspevanje bedakov jih bo uni\u010dilo."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Toda kdorkoli me poslu\u0161a, bo varno prebival in bo miren pred strahom zla.\u201c"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Moj sin, \u010de bo\u0161 sprejel moje besede in moje zapovedi skril s seboj;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "tako da bo\u0161 svoje uho nagnil k modrosti in svoje srce usmeril k razumevanju;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "da, \u010de kli\u010de\u0161 za spoznanjem in svoj glas dviga\u0161 za razumevanjem;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u010de jo i\u0161\u010de\u0161 kakor srebro in preiskuje\u0161 za njo kakor za skritimi zakladi;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "potem bo\u0161 razumel strah Gospodov in na\u0161el spoznanje Boga."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kajti Gospod daje modrost: iz njegovih ust prihajata spoznanje in razumevanje."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zdravo modrost shranjuje za pravi\u010dnega: on je majhen \u0161\u010dit tem, ki hodijo po\u0161teno."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u010cuva steze sodbe in varuje pot svojih svetih."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Potem bo\u0161 razumel pravi\u010dnost in sodbo in nepristranost; da, vsako dobro stezo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kadar v tvoje srce vstopa modrost in je spoznanje prijetno tvoji du\u0161i;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "te bo varovala preudarnost, razumevanje te bo ohranilo:"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "da te osvobodi pred potjo zlega \u010dloveka, pred \u010dlovekom, ki govori kljubovalne stvari;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "ki zapu\u0161\u010da steze po\u0161tenosti, da hodi po poteh teme;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "ki se veseli, da po\u010dne zlo in se razveseljuje v kljubovalnosti zlobnih:"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "katerih poti so sprijene, oni pa kljubovalno na svojih stezah:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "da te osvobodi pred tujo \u017eensko, cel\u00f3 pred tujko, ki laska s svojimi besedami;"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "ki se odpoveduje vodniku svoje mladosti in pozablja zavezo svojega Boga."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kajti njena hi\u0161a se nagiba k smrti in njene steze k mrtvim."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Nih\u010de, ki gre k njej, se ne vrne ponovno niti se ne oprime stez\u00e1 \u017eivljenja."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Da bo\u0161 lahko hodil po stezi dobrih ljudi in se dr\u017eal poti pravi\u010dnih."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kajti iskreni bodo prebivali v de\u017eeli in popolni bodo preostali v njej."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Toda zlobni bodo iztrebljeni iz zemlje in prestopniki bodo izkoreninjeni iz nje."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Moj sin, ne pozabi moje postave; temve\u010d naj tvoje srce ohrani moje zapovedi:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "kajti dol\u017eino dni in dolgo \u017eivljenje in mir bodo dodale k tebi."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Usmiljenje in resnica naj te ne zapustita: prive\u017ei si ju okoli svojega vratu; zapi\u0161i si ju na tablico svojega srca:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "tako bo\u0161 na\u0161el naklonjenost in dobro razumevanje v o\u010deh Boga in \u010dloveka."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Zaupaj v Gospoda z vsem svojim srcem; in ne zana\u0161aj se na svoje lastno razumevanje."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Na vseh svojih poteh ga priznavaj in on bo usmerjal tvoje steze."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ne bodi moder v svojih lastnih o\u010deh: boj se Gospoda in odidi od zla."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "To bo zdravje tvojemu popku in mozeg tvojim kostem."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u010casti Gospoda s svojim imetjem in s prvimi sadovi vsega svojega donosa:"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "tako bodo tvoji skednji napolnjeni z obiljem in tvoje stiskalnice bodo izbruhnile z novim vinom."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Moj sin, ne preziraj Gospodovega karanja; niti ne bodi naveli\u010dan njegovega grajanja:"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "kajti katerega Gospod ljubi, on graja; celo kakor o\u010de sina v katerem se razveseljuje."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sre\u010den je \u010dlovek, ki odkriva modrost in \u010dlovek, ki pridobiva razumevanje."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kajti trgovsko blago od tega je bolj\u0161e kakor trgovsko blago od srebra in njegov dobi\u010dek, kakor \u010disto zlato."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ona je bolj dragocena kakor rubini: in vse stvari, katere si lahko \u017eeli\u0161, se ne morejo primerjati z njo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Dol\u017eina dni je v njeni desnici; in v njeni levici bogastva in \u010dast."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Njene poti so poti prijetnosti in vse njene steze so mir."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Je drevo \u017eivljenja tistim, ki se jo oprimejo: in sre\u010den je vsak, ki jo ohranja."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Gospod je z modrostjo utemeljil zemljo; z razumevanjem je utrdil nebesni obok."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Z njegovim spoznanjem so izbruhnile globine in oblaki kapljajo roso."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Moj sin, naj ti dve ne odideta od tvojih o\u010di: ohrani zdravo modrost in preudarnost:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "tako bosta \u017eivljenje tvoji du\u0161i in milost tvojemu vratu."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Potem bo\u0161 na svoji stezi hodil varno in tvoje stopalo se ne bo spotikalo."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ko se ule\u017ee\u0161, ne bo\u0161 prestra\u0161en: da, ulegel se bo\u0161 in tvoje spanje bo sladko."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ne bodi prestra\u0161en od nenadnega strahu niti od opusto\u0161enja zlobnih, kadar to prihaja."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kajti Gospod bo tvoje zaupanje in tvoja stopala bo varoval pred odvzemom."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ne zadr\u017euj dobrega pred tistimi, katerim je to primerno, kadar je v mo\u010di tvoje roke, da to stori\u0161."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ne reci svojemu bli\u017enjemu: \u201ePojdi in ponovno pridi in jutri ti bom dal; \u201c\u010de ti to ima\u0161 pri sebi."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Ne snuj zla zoper svojega soseda, glede na to, da on varno prebiva poleg tebe."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Ne prepiraj se brez razloga s \u010dlovekom, \u010de ti ni ni\u010d hudega storil."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Ne zavidaj zatiralcu in ne izberi nobenih njegovih poti."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Kajti kljubovalni je ogabnost Gospodu: toda njegova skrivnost je s pravi\u010dnimi."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Gospodovo prekletstvo je v hi\u0161i zlobnega: toda on blagoslavlja prebivali\u0161\u010de pravi\u010dnega."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "On zagotovo zasmehuje posmehljivce: toda milost daje poni\u017enim."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Modri bo podedoval slavo: toda napredovanje bedakov bo sramota."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Prisluhnite, vi otroci, pou\u010devanju o\u010deta in pazite, da spoznate razumevanje."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kajti dajem vam dober nauk, ne zapustite moje postave."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kajti jaz sem bil sin svojega o\u010deta, ne\u017een in edini ljubljen v o\u010deh svoje matere."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tudi u\u010dil me je in mi rekel: \u201eTvoje srce naj ohrani moje besede: dr\u017ei se mojih zapovedi in \u017eivi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pridobivaj modrost, pridobivaj razumevanje: tega ne pozabi; niti se ne nagni od besed iz mojih ust."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne zapusti je, pa te bo varovala: ljubi jo, pa te bo \u010duvala."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Modrost je glavna stvar; zato pridobivaj modrost: in z vsem svojim dobi\u010dkom pridobivaj razumevanje."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Poveli\u010duj jo, pa te bo povi\u0161ala: prinesla ti bo \u010dast, ko jo bo\u0161 objemal."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tvoji glavi bo dala ornament milosti: izro\u010dila ti bo krono slave.\u201c"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Prisluhni, oh moj sin in sprejmi moje izreke; in mnogo bo let tvojega \u017eivljenja."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "U\u010dil sem te po poti modrosti; vodil sem te po pravih poteh."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kadar gre\u0161, tvoje stopinje ne bodo utesnjene; in kadar te\u010de\u0161, se ne bo\u0161 spotaknil."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Trdno se oprimi pou\u010devanja; naj ona ne odide: obdr\u017ei jo; kajti ona je tvoje \u017eivljenje."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ne stopaj na pot zlobnih in ne pojdi na pot zlobnih ljudi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Izogibaj se je, ne hodi mimo nje in obrni se od nje ter pojdi pro\u010d."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kajti oni ne spijo, razen \u010de niso storili vragolije; in njihovo spanje je odvzeto, razen \u010de nekomu ne povzro\u010dijo, da pade."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kajti jedo kruh zlobnosti in pijejo vino nasilja."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Toda steza pravi\u010dnih je kakor svetlikajo\u010da svetloba, ki bolj in bolj sije do popolnega dne."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Pot zlobnih je kakor tema: ne vedo ob kaj se spotaknejo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Moj sin, prisluhni mojim besedam; svoje uho nagni k mojim izrekom."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Naj le-ti ne odidejo od tvojih o\u010di; obdr\u017ei jih v sredi svojega srca."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kajti \u017eivljenje so tistim, ki jih najdejo in zdravje vsemu njihovemu mesu."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Svoje srce varuj z vso marljivostjo; kajti iz njega so zadeve \u017eivljenja."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kljubovalna usta daj od sebe in sprevr\u017eene ustnice odlo\u017ei dale\u010d stran od sebe."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Tvoje o\u010di naj gledajo naravnost in tvoje veke naj gledajo direktno pred teboj."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Preudari stezo svojih stopal in vse tvoje poti naj bodo utrjene."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ne obrni se ne k desni roki niti ne k levi: svoje stopalo odstrani od zla."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Moj sin, prisluhni moji modrosti in svoje uho pripogni k mojemu razumevanju:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "da bo\u0161 lahko upo\u0161teval preudarnost in da bodo tvoje ustnice lahko obvarovale spoznanje."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kajti ustnice tuje \u017eenske kapljajo kakor satovje in njena usta so bolj prilizljiva kakor olje:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "toda njen konec je grenek kakor pelin, oster kakor dvorezen me\u010d."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Njena stopala gredo dol k smrti; njeni koraki se prijemljejo pekla."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Da ne bi preudarjal steze \u017eivljenja, njene poti so premi\u010dne, da jih ti ne more\u0161 spoznati."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zato mi torej prisluhnite, oh vi otroci in ne odidite od besed mojih ust."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Svojo pot odstrani dale\u010d od nje in ne pridi blizu vrat njene hi\u0161e,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "da ne bi svoje \u010dasti dal drugim in svojih let krutemu,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "da ne bi bili tujci nasi\u010deni s tvojim premo\u017eenjem; in bi bili tvoji napori v hi\u0161i tujca;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "in ti bo\u0161 kon\u010dno \u017ealoval, ko je tvoje meso in tvoje telo iztro\u0161eno"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "in re\u010de\u0161: \u201eKako sem sovra\u017eil pou\u010devanje in je moje srce preziralo opomin;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "in nisem ubogal glasu svojih u\u010diteljev niti svojega u\u0161esa nagnil k tem, ki so me pou\u010devali!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Bil sem skoraj v vsem zlu v sredi skupnosti in zbora.\u201c"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pij vode iz svojega lastnega vodnega zbiralnika in teko\u010de vode iz svojega lastnega izvira."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Naj bodo tvoji studenci razpr\u0161eni naokoli in reke vod\u00e1 po ulicah."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Naj bodo samo tvoji lastni in ne s teboj [tudi] tuj\u010devi."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Naj bo tvoj studenec blagoslovljen: in razveseljuj se z \u017eeno svoje mladosti."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ona naj bo kakor ljube\u010da ko\u0161uta in prijetna srna; naj te njene prsi zadovoljijo ob vseh \u010dasih; in vedno bodi o\u010daran z njeno ljubeznijo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "In zakaj ho\u010de\u0161 biti ti, moj sin, o\u010daran s tujo \u017eensko in objemati naro\u010dje tujke?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kajti \u010dlovekove poti so pred Gospodovimi o\u010dmi in on preudarja vsa njegova ravnanja."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Njegove lastne krivi\u010dnosti bodo zlobnega vzele k sebi in dr\u017ean bo z vrvmi svojih grehov."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Umrl bo brez pou\u010devanja; in v veli\u010dini svoje neumnosti bo za\u0161el na stranpot."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Moj sin, \u010de si p\u00f4rok za svojega prijatelja, \u010de si udaril svojo roko s tujcem,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "si ulovljen z besedami svojih ust, si vzet z besedami svojih ust."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Sedaj st\u00f4ri to, moj sin in se osvobodi, ko si pri\u0161el v roko svojega prijatelja; pojdi, poni\u017eaj se in prepri\u010daj svojega prijatelja."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ne daj spanja svojim o\u010dem niti dremanja svojim vekam."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Osvobodi se kakor srna pred lov\u010devo roko in kakor ptica pred pti\u010darjevo roko."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pojdi k mravlji, ti lenuh; preudari njene poti in bodi moder:"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "ki nima ne vodnika, ne nadzornika ali ne vladarja,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "svojo hrano si pripravlja poleti in svojo hrano zbira na \u017eetvi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Doklej bo\u0161 ti spal, oh lenuh? Kdaj bo\u0161 vstal iz svojega spanja?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u0160e malo spanja, malo dremanja, malo prekri\u017eanih rok za spanje:"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "tako bo tvoja rev\u0161\u010dina pri\u0161la kakor nekdo, ki se klati in tvoje pomanjkanje kakor oboro\u017een \u010dlovek."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nespodobna oseba, zloben \u010dlovek, ki hodi s kljubovalnimi usti."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Me\u017eika s svojimi o\u010dmi, govori s svojimi stopali, u\u010di s svojimi prsti;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "kljubovalnost je v njegovem srcu, nenehno snuje vragolijo; seje neenotnost."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Zato bo njegova katastrofa pri\u0161la nenadoma; nenadoma bo zlomljen brez zdravila."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Teh \u0161est stvari sovra\u017ei Gospod: da, sedem mu jih je ogabnost:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "ponosen pogled, la\u017eniv jezik in roke, ki prelijejo nedol\u017eno kri,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "srce, ki snuje zlobne zamisli, stopala, ki so nagla v teku k vragoliji,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "kriva pri\u010da, ki govori la\u017ei in kdor seje neenotnost med brati."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Moj sin, dr\u017ei se zapovedi svojega o\u010deta in ne zapusti postave svoje matere:"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "nenehno si ju privezuj na svoje srce in zavezuj si ju okrog svojega vratu."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kadar gre\u0161, te bo vodila; kadar spi\u0161, te bo obvarovala; in kadar se zbudi\u0161, se bo pogovarjala s teboj."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kajti zapoved je svetilka; in postava je svetloba; in graje pou\u010devanja so pot \u017eivljenja:"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "da te obvarujejo pred zlo \u017eensko, pred priliznjenim jezikom tuje \u017eenske."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "V svojem srcu si ne po\u017e\u00eali njene lepote; niti naj te ona ne ujame s svojimi vekami."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kajti s pomo\u010djo vla\u010dugarske \u017eenske je mo\u017e priveden do ko\u0161\u010dka kruha: in zakonolomka bo lovila dragoceno \u017eivljenje."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ali lahko \u010dlovek vzame ogenj v svoje naro\u010dje in njegova obla\u010dila ne bodo o\u017egana?"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ali lahko kdo hodi po \u017eerjavici in njegova stopala ne bodo ope\u010dena?"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Tako kdor hodi k \u017eeni svojega soseda; kdorkoli se jo dotika, ne bo nedol\u017een."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Ljudje ne prezirajo tatu, \u010de krade, da zadovolji svojo du\u0161o, kadar je la\u010den;"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "toda \u010de je najden, naj povrne sedemkratno; izro\u010di naj vse imetje svoje hi\u0161e."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Toda kdorkoli z \u017eensko gre\u0161no po\u010denja zakonolomstvo, nima razumevanja: tisti, ki to po\u010dne, uni\u010duje svojo lastno du\u0161o."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Prejel bo rano in ne\u010dast; in njegova graja ne bo izbrisana."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Kajti ljubosumje je bes mo\u0161kega: zato ne bo prizanesel na dan ma\u0161\u010devanja."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Ne bo se ozrl na kakr\u0161nokoli odkupnino; niti ne bo zadovoljen po\u010dival, \u010deprav mu daje\u0161 mnogo daril."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Moj sin, dr\u017ei se mojih besed in moje zapovedi shrani s seboj."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ohranjaj moje zapovedi in \u017eivi; in mojo postavo [ohranjaj] kakor pun\u010dico svojega o\u010desa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Prive\u017ei si jih na svoje prste, zapi\u0161i jih na tablo svojega srca."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Modrosti reci: \u201eTi si moja sestra; \u201cin razumevanje imenuj svojo sorodnico:"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "da te lahko obvarujejo pred tujo \u017eensko, pred tujko, ki laska s svojimi besedami."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kajti pri oknu svoje hi\u0161e sem pogledal skozi oknico"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "in zagledal med preprostimi, razpoznal sem med mladostniki, mladeni\u010da brez razumevanja,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "ki gre po ulici v bli\u017eini njenega vogala; in \u0161el je [na] pot k njeni hi\u0161i,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "v poltemi, zve\u010der, v \u010drnini temne no\u010di:"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "in glej, tam ga je sre\u010dala \u017eenska z okrasom pocestnice in premetenega srca."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "(Ona je glasna in trmoglava; njena stopala ne ostanejo v njeni hi\u0161i:"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "sedaj je zunaj, sedaj na ulicah in pre\u017ei na vsakem vogalu.)"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tako ga je ujela in poljubila in mu s predrznim obrazom rekla:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u201eS seboj imam mirovne daritve; danes sem izpolnila svoje zaobljube."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Zato sem pri\u0161la, da se sre\u010dam s teboj, da marljivo i\u0161\u010dem tvoj obraz in sem te na\u0161la."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Svojo posteljo sem odela s pokrivali iz tapiserije, z rezbarskimi deli, s tankim lanenim platnom iz Egipta."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Svojo posteljo sem odi\u0161avila z miro, alojo in cimetom."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pridi, vzemiva si najino nasi\u010devanje ljubezni do jutra: tola\u017eiva se z ljubeznimi."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kajti mo\u017ea ni doma, od\u0161el je [na] dolgo potovanje:"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "s seboj je vzel torbo denarja in domov bo pri\u0161el na dolo\u010den dan.\u201c"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Z mnogo njenega vljudnega govorjenja je povzro\u010dila, da je popustil, z laskanjem svojih ustnic ga je prisilila."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "On gre nemudoma za njo, kakor gre vol v klanje ali kakor bedak h grajanju \u017eivine;"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "dokler pu\u0161\u010dica ne prodre skozi njegova jetra; kakor ptica hiti k zanki in ne spozna, da je to za njegovo \u017eivljenje."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Zato mi sedaj prisluhnite, oh vi otroci in bodite pozorni na besede iz mojih ust."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Naj se tvoje srce na nagne k njenim potem, ne zaidi na njene steze."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kajti ona je vrgla dol mnogo ranjenih: da, mnogo mo\u010dnih mo\u017e je bilo umorjenih po njej."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Njena hi\u0161a je pot v pekel, spu\u0161\u010dajo\u010da se k celicam smrti."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ali ne kli\u010de modrost? In razumevanje [ne] dviguje svojega glasu?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ona stoji na vrhu visokih krajev, ob poti, na krajih steza."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ona kli\u010de pri velikih vratih, pri mestnem vhodu, pri vstopanju, pri vratih."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vam, oh mo\u017eje, kli\u010dem; in moj glas je k \u010dlove\u0161kim sinovom."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Oh vi preprosti, razumite modrost: in, vi bedaki, bodite razumevajo\u010dega srca."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Poslu\u0161ajte; kajti govorila bom o odli\u010dnih stvareh; in odpiranje mojih ustnic bodo prave stvari."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kajti moja usta bodo govorila resnico; zlobnost pa je mojim ustnicam ogabnost."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vse besede mojih ust so v pravi\u010dnosti; v njih ni ni\u010desar kljubovalnega ali sprevr\u017eenega."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "So \u010disto preproste tistemu, ki razume in pravilne tem, ki najdejo spoznanje."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sprejmite moje pou\u010devanje in ne srebra; in spoznanje raje kakor izbrano zlato."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kajti modrost je bolj\u0161a kakor rubini; in vse stvari, ki se lahko \u017eelijo, se ne morejo primerjati k njej."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jaz, modrost, prebivam z razumnostjo, odkrivam spoznanje razumnih domiselnosti."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Strah Gospodov je sovra\u017eiti zlo: ponos in aroganco in zlobno pot in kljubovalna usta sovra\u017eim."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nasvet je moj in zdrava modrost: jaz sem razumevanje; jaz imam mo\u010d."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Po meni kraljujejo kralji in princi odrejajo pravico."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Po meni vladajo princi in plemi\u010di, cel\u00f3 vsi zemeljski sodniki."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ljubim tiste, ki me ljubijo; in tisti, ki me i\u0161\u010dejo zgodaj, me bodo na\u0161li."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Bogastva in \u010dast sta z menoj; da, trajna bogastva in pravi\u010dnost."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Moj sad je bolj\u0161i kakor zlato, da, kakor \u010disto zlato; in moje popla\u010dilo kakor izbrano srebro."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Vodim po poti pravi\u010dnosti, po sredi stez\u00e1 sodbe:"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "da lahko povzro\u010dim tistim, ki me ljubijo, da podedujejo imetje; in jaz bom napolnila njihove zaklade."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Gospod me je imel v lasti od za\u010detka svoje poti, pred svojimi deli od davnine."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Bila sem postavljena od ve\u010dnosti, od za\u010detka ali preden je bila zemlja."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ko tam ni bilo globin, sem bila rojena; ko tam ni bilo studencev, obilnih z vodo."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Preden so bile gore name\u0161\u010dene, pred hribi sem bila rojena:"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "do tega trenutka iz prahu zemeljskega kroga \u0161e ni naredil zemlje niti polj niti najvi\u0161jega dela."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ko je pripravljal nebesni obok sem bila tam: ko je postavil obod na obli\u010dju globine:"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "ko je zgoraj osnoval oblake: ko je utrdil studence globin:"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "ko je morju dal svoj odlok, da vode ne bodo prekora\u010dile njegove zapovedi: ko je dolo\u010dil temelje zemlje:"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "tedaj sem bila poleg njega, kakor nekdo vzgojen z njim: in dnevno sem bila njegovo veselje, vedno radostna pred njim;"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "radostna na naseljivem delu njegove zemlje; in moja veselja so bila s \u010dlove\u0161kimi sinovi."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Zdaj mi torej prisluhnite, oh vi otroci; kajti blagoslovljeni so tisti, ki se dr\u017ee mojih poti."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Poslu\u0161ajte pou\u010devanje in bodite modri in tega ne zavrnite."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Blagoslovljen je \u010dlovek, ki me poslu\u0161a, ki dnevno bedi pri mojih velikih vratih, ki \u010daka pri podbojih mojih vrat."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Kajti kdorkoli me najde, najde \u017eivljenje in dosegel bo naklonjenost od Gospoda."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Toda kdor zoper mene gre\u0161i, \u0161kodi svoji lastni du\u0161i: vsi tisti, ki me sovra\u017eijo, ljubijo smrt."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Modrost je zgradila svojo hi\u0161o, izklesala je svojih sedem stebrov:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "pobila je svoje \u017eivali; zme\u0161ala je svoje vino; prav tako je opremila svojo mizo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Poslala je svoje dekle: na visokih krajih mesta kli\u010de:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u201eKdorkoli je preprost, naj vstopi s\u00e8m: \u201cglede tistega, ki ho\u010de razumevanje, mu re\u010de:"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u201ePridi, jej od mojega kruha in pij od vina, ki sem ga name\u0161ala.\u201c"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Zapusti nespametne in \u017eivi; in pojdi po poti razumevanja."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kdor graja posmehljivca, samemu sebi pridobiva sramoto: in kdor o\u0161teje zlobnega \u010dloveka, sebi pridobiva made\u017e."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ne grajaj posmehljivca, da te ne zasovra\u017ei: o\u0161tej modrega \u010dloveka, in te bo ljubil."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Daj pou\u010devanje modremu \u010dloveku in bo \u0161e modrej\u0161i: pou\u010di pravi\u010dnega \u010dloveka in pomno\u017eil se bo v znanju."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Strah Gospodov je za\u010detek modrosti: in spoznanje svetega je razumevanje."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kajti po meni bodo tvoji dnevi pomno\u017eeni in leta tvojega \u017eivljenja ti bodo narasla."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u010ce si moder, bo\u0161 moder zase: toda \u010de se posmehuje\u0161, bo\u0161 to sam trpel."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nespametna \u017eenska je kri\u010dava: je naivna in ni\u010desar ne ve."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kajti sedi pri vratih svoje hi\u0161e, na sede\u017eu, na visokih krajih mesta,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "da kli\u010de potnike, ki gredo naravnost na svojih poteh:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u201eKdorkoli je preprost, naj vstopi s\u00e8m: \u201cin glede tistega, ki ho\u010de razumevanje, mu pravi:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u201eUkradene vode so sladke in kruh, pojeden na skrivnem, je prijeten.\u201c"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Toda ta ne spozna, da so tam mrtvi; in da so njeni gostje v globinah pekla."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Salomonovi pregovori. Moder sin dela o\u010deta sre\u010dnega: toda nespameten sin je potrtost svoji materi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Zakladi zlobnosti ni\u010d ne koristijo: toda pravi\u010dnost osvobaja pred smrtjo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Gospod ne bo trpel, da du\u0161a pravi\u010dnega izstrada: toda odvr\u017ee imetje zlobnega."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Reven postaja tisti, ki ravna s po\u010dasno roko: toda roka marljivega dela bogastvo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kdor zbira poleti, je moder sin: toda kdor ob \u017eetvi spi, je sin, ki povzro\u010da sramoto."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Blagoslovi so na glavi pravi\u010dnega: toda nasilje pokriva usta zlobnega."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Spomin na pravi\u010dnega je blagoslovljen: toda ime zlobnega bo strohnelo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Moder v srcu bo sprejel zapovedi: toda \u017elobudrav bedak bo padel."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kdor hodi po\u0161teno, hodi sigurno: toda kdor svoje poti izkrivlja, bo razpoznan."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kdor zavija z o\u010desom, povzro\u010da bridkost: toda \u017elobudrav bedak bo padel."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Usta pravi\u010dnega \u010dloveka so izvir \u017eivljenja: toda nasilje pokriva usta zlobnega."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sovra\u0161tvo razvnema prepire: toda ljubezen pokriva vse grehe."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Na ustnicah tistega, ki ima razumevanje, je najti modrost: toda palica je za hrbet tistega, ki je brez razumevanja."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Modri ljudje kopi\u010dijo spoznanje: toda usta nespametnega so blizu uni\u010denja."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Bogata\u0161evo premo\u017eenje je njegovo mo\u010dno mesto: uni\u010denje revnih je njihova rev\u0161\u010dina."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Trud pravi\u010dnega se nagiba k \u017eivljenju: sad zlobnega h grehu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tisti, ki se dr\u017ei pou\u010devanja, je na poti \u017eivljenja: toda kdor odklanja opomin, se moti."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kdor z la\u017enivimi ustnicami skriva sovra\u0161tvo in kdor izreka obrekovanje, je bedak."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "V mno\u017eici besed ne manjka greha: toda kdor zadr\u017euje svoje ustnice, je moder."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Jezik pravi\u010dnega je kakor izbrano srebro: srce zlobnega je malo vredno."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ustnice pravi\u010dnega hranijo mnoge, toda bedaki umrejo zaradi pomanjkanja modrosti."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Gospodov blagoslov, ta dela bogate in s tem on ne dodaja nobene bridkosti."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "To je kakor zabava bedaku, da po\u010dne vragolijo: toda razumevajo\u010d \u010dlovek ima modrost."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Strah zlobnega bo pri\u0161el nanj: toda \u017eelja pravi\u010dnega bo zagotovljena."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kakor mine vrtin\u010dast veter, tako zlobnega ni ve\u010d: toda pravi\u010dni je ve\u010den temelj."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kakor kis zobem in kakor dim o\u010dem, tako je lenuh tistim, ki ga po\u0161ljejo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Strah Gospodov podalj\u0161uje dneve: toda leta zlobnega bodo skraj\u0161ana."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Upanje pravi\u010dnega bo veselje: toda pri\u010dakovanje zlobnega bo propadlo."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Gospodova pot je mo\u010d iskrenemu: toda uni\u010denje bo za delavce krivi\u010dnosti."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Pravi\u010dni ne bo nikoli odstranjen: toda zloben ne bo poselil zemlje."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Usta pravi\u010dnega prina\u0161ajo modrost: toda kljubovalen jezik bo odrezan."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Ustnice pravi\u010dnega vedo, kaj je sprejemljivo: toda usta zlobnega govorijo kljubovalnost."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Neto\u010dna tehtnica je ogabnost Gospodu: toda pravi\u010dno tehtanje je njegovo veselje."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ko prihaja ponos, zatem prihaja sramota: toda s poni\u017enim je modrost."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Neokrnjenost iskrenih jih bo usmerjala; toda perverznost prestopnikov jih bo uni\u010dila."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Bogastva ne koristijo na dan besa: toda pravi\u010dnost osvobaja pred smrtjo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pravi\u010dnost popolnega bo vodila njegovo pot: toda zlobni bo padel po svoji lastni zlobnosti."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pravi\u010dnost iskrenega jih bo osvobodila: toda prestopniki bodo prevarani v svoji lastni porednosti."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kadar zloben \u010dlovek umre, bo njegovo pri\u010dakovanje propadlo: in upanje nepravi\u010dnih ljudi propada."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pravi\u010dni je osvobojen iz stiske, zlobni pa prihaja namesto njega."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hinavec s svojimi usti uni\u010duje svojega bli\u017enjega: toda zaradi spoznanja bo pravi\u010dni osvobojen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kadar gre dobro pravi\u010dnim, se mesto razveseljuje: kadar zlobni propadajo, pa je vriskanje."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Z blagoslovom iskrenega je mesto povi\u0161ano: toda premagano je z usti zlobnega."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kdor je brez modrosti, prezira svojega bli\u017enjega: toda razumevajo\u010d \u010dlovek ohranja svoj mir."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "To\u017eljivec razodeva skrivnosti: toda kdor je zanesljivega duha, prikriva zadevo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kjer ni nasveta, ljudstvo pada: toda v mno\u017eici svetovalcev je varnost."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kdor je p\u00f4rok za tujca, se bo kesal za to: in kdor sovra\u017ei poro\u0161tvo, je zanesljiv."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Milostljiva \u017eenska ohranja \u010dast: in mo\u010dni ljudje ohranjajo bogastva."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Usmiljen \u010dlovek dela dobro svoji lastni du\u0161i: toda kdor je krut, nadleguje svoje lastno meso."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Zlobne\u017e po\u010dne varljivo delo: toda tistemu, ki seje pravi\u010dnost, bo pla\u010dilo zanesljivo."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kakor se pravi\u010dnost nagiba k \u017eivljenju: tako kdor zasleduje zlo, to zasleduje do svoje lastne smrti."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Tisti, ki so kljubovalnega srca, so ogabnost Gospodu: toda tisti, ki so na svoji poti iskreni, so njegovo veselje."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u010ceprav se roka rokuje z roko, zlobni ne bodo nekaznovani: toda seme pravi\u010dnih bo osvobojeno."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kakor dragocenost iz zlata v svinjskem rilcu, tako je lepa \u017eenska brez preudarnosti."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u017delja pravi\u010dnega je samo dobro: toda pri\u010dakovanje zlobnega je bes."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Tam je, ki razsipa in \u0161e pove\u010duje; in tam je, ki zadr\u017euje ve\u010d, kot je primerno, toda to nagiba k rev\u0161\u010dini."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Velikodu\u0161na du\u0161a bo postala premo\u017ena: in kdor napaja, bo tudi sam napojen."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kdor zadr\u017euje \u017eito, ga bo ljudstvo preklelo: toda blagoslov bo na glavi tistega, ki ga prodaja."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Kdor marljivo i\u0161\u010de dobro, dosega naklonjenost: toda kdor i\u0161\u010de vragolijo, bo ta pri\u0161la k njemu."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Kdor zaupa v svoja bogastva, bo padel: toda pravi\u010dni bo cvetel kakor mladika."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Kdor nadleguje svojo lastno hi\u0161o, bo podedoval veter: in bedak bo slu\u017eabnik modremu v srcu."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Sad pravi\u010dnega je drevo \u017eivljenja; in kdor pridobiva du\u0161e, je moder."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Glej, pravi\u010dni bo popla\u010dan v zemlji: toliko bolj zlobni in gre\u0161nik."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kdorkoli ljubi pou\u010devanje, ljubi spoznanje: toda kdor sovra\u017ei opomin, je brutalen."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dober \u010dlovek dose\u017ee naklonjenost od Gospoda: toda \u010dlovek zlobnih naklepov bo obsojen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u010clovek ne bo uveljavljen z zlobnostjo: toda korenina pravi\u010dnih ne bo omajana."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vrla \u017eenska je krona svojemu soprogu: toda tista, ki sramoti, je gniloba v njegovih kosteh."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Misli pravi\u010dnih so pravilne: toda nasveti zlobnih so prevara."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Besede zlobnih so pre\u017eanje v zasedi na kri: toda usta iskrenih jih bodo osvobodila."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zlobni so premagani in jih ni: toda hi\u0161a pravi\u010dnega bo stala."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u010clovek bo priporo\u010den glede na svojo modrost: toda kdor je sprevr\u017eenega srca, bo preziran."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kdor je preziran pa ima slu\u017eabnika, je bolj\u0161i kakor tisti, ki \u010dasti samega sebe pa nima kruha."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Pravi\u010den \u010dlovek se ozira na \u017eivljenje svoje \u017eivali: toda ne\u017ena usmiljenja zlobnih so kruta."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kdor orje svojo zemljo, bo nasi\u010den s kruhom: toda kdor sledi praznim osebam, je brez razumevanja."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Zlobni \u017eeli mre\u017eo zlobnih ljudi: toda korenina pravi\u010dnih rojeva sad."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Zlobni je ujet s prestopkom svojih ustnic: toda pravi\u010dni bo pri\u0161el iz stiske."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u010clovek bo nasi\u010den z dobrim po sadu svojih ust: in popla\u010dilo \u010dlove\u0161kih rok mu bo vrnjeno."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Bedakova pot je v njegovih lastnih o\u010deh pravilna: toda kdor prisluhne nasvetu, je moder."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Bedakov bes je takoj znan: toda razsoden \u010dlovek prikriva sramoto."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kdor govori resnico, naznanja pravi\u010dnost: toda kriva pri\u010da prevaro."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tam je, ki govori kakor prebadanje z me\u010dem: toda jezik modrega je zdravje."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ustnica resnice bo utrjena za vedno: toda la\u017eniv jezik je samo za trenutek."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Prevara je v srcu tistih, ki si domi\u0161ljajo zlo: toda svetovalcem miru je radost."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Nobeno zlo se ne bo zgodilo pravi\u010dnemu: toda zlobni bodo napolnjeni z vragolijo."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "La\u017enive ustnice so ogabnost Gospodu: toda tisti, ki se vedejo odkrito, so njegovo veselje."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Razsoden \u010dlovek prikriva spoznanje: toda srce bedakov razgla\u0161a nespametnost."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Roka marljivega bo vladala: toda leni bo podvr\u017een pla\u010devanju davka."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Potrtost v \u010dlovekovem srcu ga dela sklonjenega: toda dobra beseda ga dela veselega."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Pravi\u010dni je odli\u010dnej\u0161i od svojega soseda: toda pot zlobnih jih zapeljuje."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Len \u010dlovek ne pe\u010de tega kar je ujel na lovu: toda imetje marljivega \u010dloveka je dragoceno."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Na poti pravi\u010dnosti je \u017eivljenje; in na tej potki ni smrti."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Moder sin poslu\u0161a pou\u010devanje svojega o\u010deta: toda posmehljivec ne poslu\u0161a o\u0161tevanja."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u010clovek bo jedel dobro po sadu svojih ust: toda du\u0161a prestopnikov bo jedla nasilje."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kdor varuje svoja usta, varuje svoje \u017eivljenje: toda kdor \u0161iroko odpira svoje ustnice, bo imel uni\u010denje."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Lenuhova du\u0161a \u017eeli, pa ni ma ni\u010desar: toda du\u0161a marljivega bo postala obilna."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pravi\u010den \u010dlovek sovra\u017ei laganje: toda zloben \u010dlovek je gnusen in prihaja v sramoto."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pravi\u010dnost varuje tistega, ki je na poti iskren: toda zlobnost ru\u0161i gre\u0161nika."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tam je, ki se dela bogatega, vendar nima ni\u010desar: tam je, ki se dela ubogega, vendar ima velika bogastva."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Odkupnina \u010dlovekovega \u017eivljenja so njegova bogastva: toda ubogi ne sli\u0161ijo o\u0161tevanja."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Svetloba pravi\u010dnega razveseljuje: toda svetilka zlobnega bo ugasnjena."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Samo s ponosom pride spor: toda z dobrim svetovanjem je modrost."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Premo\u017eenje, pridobljeno s praznimi re\u010dmi, bo zmanj\u0161ano: toda kdor zbira s trudom, bo pove\u010dal."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Upanje, ki se prelaga, dela srce bolno: toda ko prihaja \u017eelja, je to drevo \u017eivljenja."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kdorkoli prezira besedo, bo uni\u010den: toda kdor se boji zapovedi, bo nagrajen."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Postava modrega je studenec \u017eivljenja, da odide od zank smrti."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Dobro razumevanje daje naklonjenost: toda pot prestopnikov je te\u017eka."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vsak razsoden \u010dlovek se ukvarja s spoznanjem: toda bedak izpostavlja svojo neumnost."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Zloben poslanec pada v vragolijo: toda zvest predstavnik je zdravje."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Rev\u0161\u010dina in sramota bosta tistemu, ki odklanja pou\u010devanje: toda kdor upo\u0161teva opomin, bo spo\u0161tovan."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Izpolnjena \u017eelja je du\u0161i sladka: toda bedakom je to ogabnost, da odidejo od zla."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kdor hodi z modrimi ljudmi bo moder: toda skupina bedakov bo uni\u010dena."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zlo preganja gre\u0161nike: toda dobro bo pravi\u010dnim popla\u010dano."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Dober \u010dlovek zapu\u0161\u010da dedi\u0161\u010dino otrokom svojih otrok: premo\u017eenje gre\u0161nika pa je prihranjeno za pravi\u010dnega."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Mnogo hrane je v oranju zemlje ubogih: toda tam je, kar je uni\u010deno zaradi pomanjkanja sodbe."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kdor prizana\u0161a svoji \u0161ibi, sovra\u017ei svojega sina: toda kdor ga ljubi, ga zgodaj kara."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Pravi\u010dni j\u00e9 do zadovoljitve svoje du\u0161e: toda trebuh zlobnega bo \u010dutil pomanjkanje."
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vsaka modra \u017eenska gradi svojo hi\u0161o: toda nespametna jo ru\u0161i s svojimi rokami."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kdor hodi v svoji po\u0161tenosti, se boji Gospoda: toda kdor je sprevr\u017een na svojih poteh, ga prezira."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "V ustih nespametnih je \u0161iba ponosa: toda ustnice modrih jih bodo varovale."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kjer ni volov, so jasli \u010diste: toda mnogo pove\u010danje je z volovsko mo\u010djo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Zvesta pri\u010da ne bo lagala: toda kriva pri\u010da bo izrekala la\u017ei."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Posmehljivec i\u0161\u010de modrost, pa je ne najde: toda spoznanje je lahko tistemu, ki razume."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pojdi izpred prisotnosti nespametnega \u010dloveka, kadar v njem ne zaznava\u0161 ustnic spoznanja."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Modrost razsodnega je razumeti svojo pot: toda neumnost bedakov je prevara."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bedaki se posmehujejo ob grehu: toda med pravi\u010dnimi je naklonjenost."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Srce pozna svojo lastno grenkobo; in tujec se ne vme\u0161ava s svojo radostjo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hi\u0161a zlobnega bo zru\u0161ena: toda \u0161otor iskrenega bo cvetel."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Obstaja pot, ki se zdi \u010dloveku prava, toda njen konec so poti smrti."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Celo v smehu je srce \u017ealostno; in konec tega veselja je potrtost."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Odpadnik v srcu bo nasi\u010den s svojimi lastnimi potmi: dober \u010dlovek pa bo zadovoljen sam od sebe."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Naivne\u017e verjame vsaki besedi: toda razsoden \u010dlovek dobro pazi na svojo hojo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Moder \u010dlovek se boji in se oddaljuje od zla: toda bedak besni in je samozavesten."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kdor je hitro jezen, se vede nespametno: \u010dlovek zlobnih naklepov pa je osovra\u017een."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Naivne\u017ei podedujejo neumnost: toda razsodni so kronani s spoznanjem."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Zlobni se priklonijo pred dobrimi; in zlobni pri velikih vratih pravi\u010dnih."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ubogi je osovra\u017een celo od svojega lastnega soseda: toda bogati ima mnogo prijateljev."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kdor prezira svojega soseda, gre\u0161i: toda kdor ima usmiljenje do ubogega, je sre\u010den."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ali se ne motijo tisti, ki snujejo zlo? Toda usmiljenje in resnica bosta tem, ki snujejo dobro."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "V vsem trudu je korist: toda govorjenje ustnic se nagiba samo k ubo\u017enosti."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Krona modrih so njihova bogastva: toda nespametnost bedakov je neumnost."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Po\u0161tena pri\u010da osvobaja du\u0161e: toda varljiva pri\u010da govori la\u017ei."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "V strahu Gospodovem je mo\u010dno zaupanje: in njegovi otroci bodo imeli kraj zato\u010di\u0161\u010da."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Strah Gospodov je studenec \u017eivljenja, da se odide od zank smrti."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "V mno\u017eici ljudstva je kraljeva \u010dast: toda v pomanjkanju ljudstva je uni\u010denje princa."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Kdor je po\u010dasen za bes, ima veliko razumevanja: toda kdor je naglega duha, povi\u0161uje neumnost."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Zdravo srce je \u017eivljenje mesu: toda zavist gniloba kostem."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Kdor zatira ubogega, graja njegovega Stvarnika: toda kdor ga \u010dasti, ima usmiljenje do ubogih."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Zlobni je v svoji zlobnosti odpeljan pro\u010d: toda pravi\u010dni ima upanje v svoji smrti."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Modrost po\u010diva v srcu tistega, ki ima razumevanje: toda tisti, ki je v sredi bedakov, je spoznan."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Pravi\u010dnost povi\u0161uje narod: toda greh je o\u010ditek kateremukoli ljudstvu."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Kraljeva naklonjenost je k modremu slu\u017eabniku: toda njegov bes je zoper tistega, ki povzro\u010da sramoto."
+                }
+            }
+        },
+        "15": {
+            "chapter_nr": "15",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mil odgovor bes obra\u010da stran: toda bole\u010de besede razvnamejo jezo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jezik modrega pravilno uporablja spoznanje: toda usta bedakov izlivajo nespametnost."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Gospodove o\u010di so na vsakem kraju, opazujejo zlo in dobro."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Zdrav jezik je drevo \u017eivljenja: toda perverznost v njem je vrzel v duhu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bedak prezira pou\u010devanje svojega o\u010deta: toda kdor upo\u0161teva opomin, je razsoden."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "V hi\u0161i pravi\u010dnega je velik zaklad: toda v popla\u010dilih zlobnega je te\u017eava."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ustnice modrega razpr\u0161ujejo znanje: toda srce nespametnega ne dela tako."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u017drtvovanje zlobnega je Gospodu ogabnost: toda molitev iskrenega je njegovo veselje."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pot zlobnega je Gospodu ogabnost: toda ljubi tistega, ki si prizadeva za pravi\u010dnost."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Grajanje je nadle\u017eno tistemu, ki zapu\u0161\u010da pot: in kdor sovra\u017ei opomin, bo umrl."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pekel in uni\u010denje sta pred Gospodom: koliko bolj potem srca \u010dlove\u0161kih otrok?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Posmehljivec nima rad tistega, ki ga graja: niti ne bo \u0161el k modremu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Veselo srce dela vedro obli\u010dje: toda s sr\u010dno bridkostjo je duh zlomljen."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Srce tistega, ki ima razumevanje, i\u0161\u010de spoznanje, toda usta bedakov se hranijo na nespametnosti."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Vsi dnevi prizadetega so zli: toda kdor je veselega srca ima nenehno praznovanje."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Bolje je malo s strahom Gospodovim, kakor velik zaklad in te\u017eave s tem."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Bolj\u0161a je zelenjavna ve\u010derja, kjer je ljubezen, kakor tolst vol in s tem sovra\u0161tvo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Srdit \u010dlovek razvnema prepir: toda kdor je po\u010dasen za jezo, pomirja prepir."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Pot lenega \u010dloveka je kakor trnova ograja: toda pot pravi\u010dnega je narejena preprosto."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Moder sin dela o\u010deta veselega: toda nespameten \u010dlovek prezira svojo mater."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Neumnost je radost tistemu, ki je oropan modrosti: toda razumevajo\u010d \u010dlovek \u017eivi po\u0161teno."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Brez nasveta so nameni razo\u010darani: toda v mno\u017eici svetovalcev so uveljavljeni."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u010clovek ima radost z odgovorom svojih ust: in beseda, izgovorjena v prav\u0161njem obdobju, kako dobro je to!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Pot \u017eivljenja je modremu zgoraj, da lahko odide od pekla spodaj."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Gospod bo uni\u010dil hi\u0161o ponosnega: toda uveljavil bo vdovino mejo."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Misli zlobnega so Gospodu ogabnost: toda besede \u010distega so prijetne besede."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Kdor je pohlepen dobi\u010dka, nadleguje svojo lastno hi\u0161o; toda kdor sovra\u017ei darila, bo \u017eivel."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Srce pravi\u010dnega razmi\u0161lja, da odgovori: toda usta zlobnega izlivajo zle stvari."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Gospod je dale\u010d od zlobnega: toda sli\u0161i molitev pravi\u010dnega."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Svetloba o\u010di razveseljuje srce: in dober glas dela kosti debele."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Uho, ki poslu\u0161a opomin \u017eivljenja, ostaja med modrimi."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Kdor odklanja pou\u010devanje, prezira svojo lastno du\u0161o: toda kdor poslu\u0161a opomin, pridobiva razumevanje."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Strah Gospodov je pou\u010devanje modrosti; in pred \u010dastjo je poni\u017enost."
+                }
+            }
+        },
+        "16": {
+            "chapter_nr": "16",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Priprave srca v \u010dloveku in odgovor z jezika sta od Gospoda."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vse \u010dlovekove poti so \u010diste v njegovih lastnih o\u010deh; toda Gospod tehta duhove."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Svoja dela izro\u010di Gospodu in tvoje misli bodo uspele."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Gospod je vse stvari naredil zase: da, celo zlobne za dan zla."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kdorkoli, ki je v srcu ponosen, je ogabnost Gospodu: \u010deprav se roka rokuje z roko, on ne bo nekaznovan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Z usmiljenjem in resnico je krivi\u010dnost o\u010di\u0161\u010dena: in s strahom pred Gospodom ljudje odidejo od zla."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kadar \u010dlovekove poti ugajajo Gospodu, on celo njegove sovra\u017enike pripravi, da so v miru z njim."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Bolj\u0161e je malo s pravi\u010dnostjo, kakor velika popla\u010dila brez pravice."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u010clovekovo srce snuje svojo pot: toda Gospod usmerja njegove korake."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bo\u017eanska razsodba je na kraljevih ustnicah: njegova usta ne gre\u0161ijo na sodbi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pravi\u010dna ute\u017e in tehtnica sta Gospodovi: vse ute\u017ei iz torbe so njegovo delo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Zagre\u0161iti zlobnost je kraljem ogabnost, kajti prestol je utrjen s pravi\u010dnostjo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pravi\u010dne ustnice so kraljem veselje; in ljubijo tistega, ki govori resnico."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kraljev bes je kakor poslanci smrti: toda moder \u010dlovek ga bo pomiril."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "V svetlobi kraljevega obli\u010dja je \u017eivljenje; in njegova naklonjenost je kakor oblak poznega de\u017eja."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kako mnogo bolje je pridobiti modrost kakor zlato! In toliko bolje izbrati pridobivanje razumevanja kakor srebro!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Glavna cesta iskrenega je, da odide od zla: kdor ohranja svojo pot, varuje svojo du\u0161o."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ponos gre pred uni\u010denjem in o\u0161aben duh pred padcem."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Bolje je biti poni\u017enega duha s poni\u017enimi, kakor deliti plen s ponosnimi."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kdor modro ravna z zadevo, bo na\u0161el dobro: in kdorkoli zaupa v Gospoda, je sre\u010den."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Moder v srcu bo imenovan razsoden: in ljubkost ustnic pove\u010duje znanje."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Razumevanje je vrelec \u017eivljenja tistemu, ki ga ima: toda pou\u010devanje bedakov je neumnost."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Srce modrega pou\u010duje njegova usta in dodaja u\u010denje njegovim ustnicam."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Prijetne besede so kakor satovje, sladke du\u0161i in zdravje kostem."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Je pot, ki se zdi \u010dloveku pravilna, toda njen konec so poti smrti."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kdor se trudi, se trudi zase; kajti njegova usta to od njega nujno potrebujejo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Brezbo\u017een \u010dlovek koplje zlo: in na njegovih ustnicah je kakor gore\u010d ogenj."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Kljubovalen \u010dlovek seje prepir: in opravljivec razdvaja glavne prijatelje."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Nasilne\u017e privablja svojega soseda in ga vodi na pot, ki ni dobra."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Zapira svoje o\u010di, da si izmi\u0161lja kljubovalne re\u010di: premikanje njegovih ustnic prina\u0161a, da se zgodi zlo."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Osivela glava je krona slave, \u010de je ta najdena na poti pravi\u010dnosti."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Kdor je po\u010dasen za jezo, je bolj\u0161i kakor mogo\u010den; in kdor vlada svojemu duhu, kakor tisti, ki zavzema mesto."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "\u017dreb je vr\u017een v naro\u010dje; toda njegova celotna razporeditev je od Gospoda."
+                }
+            }
+        },
+        "17": {
+            "chapter_nr": "17",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bolj\u0161i je suh ko\u0161\u010dek in z njim spokojnost, kakor hi\u0161a polna \u017ertvovanj s prepirom."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Moder slu\u017eabnik bo imel vladarstvo nad sinom, ki povzro\u010da sramoto in bo imel dele\u017e dedi\u0161\u010dine med brati."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Talilni lonec je za srebro, talilna pe\u010d pa za zlato: toda Gospod preizku\u0161a srca."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Zloben storilec daje prednost nepravim ustnicam; in la\u017enivec pazljivo prisluhne nespodobnemu jeziku."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kdorkoli zasmehuje ubogega, graja njegovega Stvarnika: in kdor je ob katastrofah vesel, ne bo nekaznovan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Otrok otroci so krona starcem; in slava otrok so njihovi o\u010detje."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Odli\u010den govor se ne spodobi bedaku: veliko manj la\u017enive ustnice princu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Darilo je kakor dragocen kamen v o\u010deh tistega, ki ga ima: kamor ga obra\u010da, to uspeva."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kdor taji prestopek, i\u0161\u010de ljubezni; toda kdor ponavlja zadevo, lo\u010duje prave prijatelje."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Opomin bolj prodira v modrega kakor sto udarcev z bi\u010dem v bedaka."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hudoben \u010dlovek i\u0161\u010de samo upor: zato bo zoper njega poslan krut poslanec."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Naj medvedka, oropana svojih mladi\u010dev, sre\u010da \u010dloveka, raje kakor bedaka v svoji neumnosti."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kdorkoli nagrajuje zlo za dobro, se zlo ne bo lo\u010dilo od njegove hi\u0161e."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pri\u010detek prepira je kakor kadar nekdo izpu\u0161\u010da vodo: zato prenehaj s sporom, preden se bo ta vme\u0161al."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kdor opravi\u010duje zlobnega in kdor obsoja pravi\u010dnega, celo oba sta Gospodu ogabnost."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zakaj je denarna vsota v bedakovi roki, da pridobi modrost, glede na to, da on nima srca za to?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Prijatelj ljubi ob vseh \u010dasih, in brat je rojen za stisko."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u010clovek brez razumevanja udarja v roke in postaja p\u00f4rok v prisotnosti svojega prijatelja."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kdor ljubi prestopek, ta ljubi prepir: in kdor povi\u0161uje svoja velika vrata, i\u0161\u010de uni\u010denje."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kdor ima kljubovalno srce, ne najde dobrega: in kdor ima sprevr\u017een jezik, pada v vragolijo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kdor zaplodi bedaka, to po\u010dne v svojo bridkost in o\u010de bedaka nima radosti."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Veselo srce dela dobro, podobno kot zdravilo: toda zlomljen duh su\u0161i kosti."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Zloben \u010dlovek iz naro\u010dja izvle\u010de darilo, da izkrivlja poti sodbe."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Modrost je pred tistim, ki ima razumevanje; toda o\u010di bedaka so na koncih zemlje."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Nespameten sin je \u017ealost svojemu o\u010detu in grenkoba njej, ki ga je rodila."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Tudi kaznovati pravi\u010dnega ni dobro, niti udariti prince zaradi nepristranosti."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Kdor ima spoznanje, prizana\u0161a svojim besedam: in razumevajo\u010d \u010dlovek je iz odli\u010dnega duha."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Celo bedak, ko mol\u010di, velja kot moder: in kdor zapira svoje ustnice, je cenjen kot razumevajo\u010d \u010dlovek."
+                }
+            }
+        },
+        "18": {
+            "chapter_nr": "18",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Preko \u017eelje \u010dlovek, ki je samega sebe oddvojil, i\u0161\u010de in se vme\u0161ava z vso modrostjo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Bedak nima veselja v razumevanju, temve\u010d da njegovo srce lahko odkrije samo sebe."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kadar prihaja zlobni, potem prihaja tudi zani\u010devanje in s sramoto graja."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Besede iz \u010dlovekovih ust so kakor globoke vode in vrelec modrosti kakor teko\u010d potok."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ni dobro sprejeti osebo zlobnega, da pravi\u010dnega zru\u0161i na sodbi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bedakove ustnice vstopajo v spor in njegova usta kli\u010dejo za udarci."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Bedakova usta so njegovo uni\u010denje in njegove ustnice so zanka njegovi du\u0161i."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Besede to\u017eljivca so kakor rane in gredo navzdol v najnotranjej\u0161e dele trebuha."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tudi tisti, ki je len v svojem delu, je brat tistemu, ki je velik kvarilec."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Gospodovo ime je mo\u010dan stolp: pravi\u010dni te\u010de vanj in je varen."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Bogata\u0161evo premo\u017eenje je njegovo mo\u010dno mesto in kakor visok zid v njegovi lastni domi\u0161ljavosti."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pred uni\u010denjem je \u010dlovekovo srce o\u0161abno in pred \u010dastjo je poni\u017enost."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kdor odgovarja zadevo, preden jo sli\u0161i, mu je to neumnost in sramota."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u010clovekov duh bo podpiral njegovo \u0161ibkost; toda kdo lahko prena\u0161a ranjenega duha?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Srce razsodnega pridobiva spoznanje: uho modrega pa i\u0161\u010de spoznanje."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u010clovekovo darilo zanj pripravlja prostor in ga prina\u0161a pred velike ljudi."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kdor je prvi v svoji lastni zadevi, je videti pravi\u010den; toda prihaja njegov sosed in ga preiskuje."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u017dreb povzro\u010da sporom, da se ustavijo in razdeljuje med mogo\u010dnimi."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "U\u017ealjenega brata je te\u017eje pridobiti kakor mo\u010dno mesto: in njihovi spori so podobni grajskim zapahom."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u010clovekov trebuh bo pote\u0161en s sadom svojih ust; in nasi\u010den bo z donosom svojih ustnic."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Smrt in \u017eivljenje sta v oblasti jezika: in tisti, ki to ljubijo, bodo jedli od tega sadu."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kdorkoli najde \u017eeno, najde dobro stvar in dosega naklonjenost od Gospoda."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ubogi uporablja rotenje; toda bogata\u0161 odgovarja surovo."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "\u010clovek, ki ima prijatelje, se mora samemu sebi kazati prijatelja: in obstaja prijatelj, ki ti\u010di bli\u017eje kakor brat."
+                }
+            }
+        },
+        "19": {
+            "chapter_nr": "19",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bolj\u0161i je ubogi, ki hodi v svoji neokrnjenosti, kakor kdor je sprevr\u017een v svojih ustnicah in je bedak."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tudi, da bi bila du\u0161a brez spoznanja, to ni dobro; in kdor hiti s svojimi stopali, gre\u0161i."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u010clovekova nespametnost izkrivlja njegovo pot: in njegovo srce se razburja zoper Gospoda."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Premo\u017eenje dela mnoge prijatelje; toda reven je lo\u010den od svojega soseda."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kriva pri\u010da ne bo nekaznovana in kdor govori la\u017ei, ne bo pobegnil."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mnogi bodo milo prosili naklonjenost od princev: in vsak \u010dlovek je prijatelj tistemu, ki daje darila."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ubogega sovra\u017eijo vsi njegovi bratje: koliko bolj gredo njegovi prijatelji dale\u010d od njega? Zasleduje jih z besedami, vendar mu manjkajo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kdor pridobiva modrost, ljubi svojo lastno du\u0161o: kdor ohranja razumevanje, bo na\u0161el dobro."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kriva pri\u010da ne bo nekaznovana in kdor govori la\u017ei, bo propadel."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Veselje ni spodobno za bedaka; veliko manj za slu\u017eabnika, da vlada nad princi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u010clovekova preudarnost odla\u0161a njegovo jezo; in to je njegova slava, da gre \u010dez prestopek."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kraljev bes je kakor rjovenje leva; toda njegova naklonjenost je kakor rosa na travo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nespameten sin je katastrofa svojega o\u010deta: in \u017eenini spori so nenehno kapljanje."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hi\u0161a in bogastva so dedi\u0161\u010dina od o\u010detov: razsodna \u017eena pa je od Gospoda."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Lenoba me\u010de v globoko spanje; brezdelna du\u0161a pa bo trpela lakoto."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kdor varuje zapoved, varuje svojo lastno du\u0161o; toda kdor prezira njegove poti, bo umrl."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kdor ima usmiljenje za ubogega, posoja Gospodu; in to, kar je dal, mu bo on ponovno pla\u010dal."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Karaj svojega sina, dokler je upanje in naj tvoja du\u0161a ne prizana\u0161a zaradi njegovega joka."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u010clovek velikega besa bo trpel kaznovanje, kajti \u010de ga osvobodi\u0161, bo\u0161 vendarle moral to ponovno storiti."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Prisluhni nasvetu in sprejmi pou\u010devanje, da bo\u0161 lahko moder v svojem zadnjem koncu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Mnogo naklepov je v \u010dlovekovem srcu; vendarle [je] Gospodova namera, ki bo obstala."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u010clovekova \u017eelja je njegova prijaznost: reven \u010dlovek pa je bolj\u0161i kakor la\u017enivec."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Strah Gospodov se nagiba k \u017eivljenju: in kdor ga ima, bo ostal nasi\u010den; ne bo obiskan z zlom."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Len \u010dlovek skriva svojo roko v svojem naro\u010dju in jo bo komaj ponovno ponesel k svojim ustom."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Udari posmehljivca in preprosti se bo \u010duval: in grajaj nekoga, ki ima razumevanje in bo razumel spoznanje."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kdor slabi svojega o\u010deta in preganja svojo mater, je sin, ki povzro\u010da sramoto in prina\u0161a grajo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Nehaj, moj sin, poslu\u0161ati pouk, ki povzro\u010da, da zaide\u0161 od besed spoznanja."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Brezbo\u017ena pri\u010da zasmehuje sodbo: in usta zlobnega po\u017eirajo krivi\u010dnost."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Sodbe so pripravljene za posmehljivce in udarci z bi\u010dem za hrbte bedakov."
+                }
+            }
+        },
+        "20": {
+            "chapter_nr": "20",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vino je zasmehovalec, mo\u010dna pija\u010da je huda: in kdorkoli je s tem zaveden, ni moder."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kraljev strah je kakor rjovenje leva: kdorkoli ga dra\u017ei do jeze, gre\u0161i zoper svojo lastno du\u0161o."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Za \u010dloveka je \u010dast, da odneha od prepira: toda vsak bedak se bo vme\u0161aval."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Lenuh ne bo oral zaradi razloga mraza; zatorej bo prosil v \u010dasu \u017eetve in ni\u010desar ne bo imel."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nasvet v \u010dlovekovem srcu je podoben globoki vodi; toda razumevajo\u010d \u010dlovek ga bo izvlekel."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ve\u010dina ljudi bo vsakemu razgla\u0161ala svojo lastno dobroto: toda kdo lahko najde zvestega \u010dloveka?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pravi\u010den \u010dlovek hodi v svoji neokrnjenosti: njegovi otroci so blagoslovljeni za njim."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kralj, ki sedi na sodnem prestolu, s svojimi o\u010dmi vse zlo razkropi pro\u010d."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kdo lahko re\u010de: \u201eSvoje srce sem o\u010distil, \u010dist sem pred svojim grehom?\u201c"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Neenake ute\u017ei in neenake mere, oboji so Gospodu podobna ogabnost."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Celo otrok je spoznan po svojih dejanjih, \u010de so njegova dela \u010dista in \u010de so ta pravilna."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Uho, ki sli\u0161i in oko, ki vidi, celo oboje je naredil Gospod."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ne ljubi spanja, da ne bi pri\u0161el v rev\u0161\u010dino; odpri svoje o\u010di in nasi\u010den bo\u0161 s kruhom."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u201e To je ni\u010dvredno, to je ni\u010dvredno, \u201cpravi kupec: toda, ko je od\u0161el svojo pot, potem se baha."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Je zlato in mno\u017eica rubinov: toda ustnice spoznanja so dragocen dragulj."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vzemi njegovo obleko, ki je p\u00f4rok za tujca: in vzemi jamstvo od njega za tujo \u017eensko."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kruh prevare je sladek \u010dloveku; toda njegova usta bodo potem napolnjena s gramozom."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Vsak namen je utrjen s posvetovanjem: in vojskuje\u0161 se z dobrim nasvetom."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kdor kro\u017ei kakor to\u017eljivec, razodeva skrivnosti: zato se ne vme\u0161avaj s tistim, ki laska s svojimi ustnicami."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kdorkoli preklinja svojega o\u010deta ali svojo mater, bo njegova svetilka izlo\u010dena v zatemnjeno temo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Dedi\u0161\u010dina je lahko spo\u010detka naglo pridobljena; toda njen konec ne bo blagoslovljen."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ne reci: \u201eJaz bom popla\u010dal zlo; \u201ctemve\u010d \u010dakaj na Gospoda in re\u0161il te bo."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Razli\u010dne ute\u017ei so ogabnost Gospodu; in varljiva tehtnica ni dobra."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "\u010clovekovi opravki so od Gospoda: kako lahko potem \u010dlovek razume svojo lastno pot?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Zanka je \u010dloveku, ki po\u017eira to, kar je sveto in da po zaobljubah dela poizvedovanje."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Moder kralj razkropi zlobne in nadnje prina\u0161a kolo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u010clove\u0161ki duh je Gospodova sve\u010da, ki preiskuje vse notranje dele trebuha."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Usmiljenje in resnica ohranjata kralja: in njegov prestol dr\u017ei pokonci usmiljenje."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Slava mladeni\u010dev je njihova mo\u010d: lepota starcev pa je siva glava."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Modrica od rane o\u010di\u0161\u010duje zlo: tako storijo udarci bi\u010da notranjim delom trebuha."
+                }
+            }
+        },
+        "21": {
+            "chapter_nr": "21",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kraljevo srce je v Gospodovi roki, kakor vodne reke: obra\u010da ga kamor ho\u010de."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vsaka \u010dlovekova pot je pravilna v njegovih lastnih o\u010deh: toda Gospod preudarja srca."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Izvajati pravi\u010dnost in sodbo je Gospodu bolj sprejemljivo kakor \u017ertvovanje."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vzvi\u0161en pogled in ponosno srce in oranje zlobnih je greh."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Misli marljivega se nagibajo samo k obilju; toda od vsakega, ki je nagel, samo za pomanjkanje."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pridobivanje zakladov z la\u017enivim jezikom je ni\u010dnost, premetavana sem ter tja, od tistih, ki i\u0161\u010dejo smrt."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ropanje zlobnih jih bo uni\u010dilo; ker so odklonili izvr\u0161evati sodbo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u010clovekova pot je kljubovalna in nenavadna: toda glede \u010distega, je njegovo delo pravilno."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bolje je prebivati v kotu hi\u0161ne strehe, kakor s prepirljivo \u017eensko v prostrani hi\u0161i."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Du\u0161a zlobnega \u017eeli zlo: njegov sosed v njegovih o\u010deh ne najde naklonjenosti."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kadar je posmehljivec kaznovan, preprosti postane moder: in kadar je moder pou\u010den, prejema znanje."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pravi\u010den \u010dlovek modro preudarja hi\u0161o zlobnega: toda Bog ru\u0161i zlobne zaradi njihove zlobnosti."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kdorkoli ma\u0161i svoja u\u0161esa ob joku ubogega, bo tudi sam jokal, toda ne bo usli\u0161an."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Darilo na skrivnem pomirja jezo: nagrada v naro\u010dje pa mo\u010dan bes."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pravi\u010dnim je veselje izvr\u0161evati sodbo: toda uni\u010denje bo za delavce krivi\u010dnosti."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u010clovek, ki tava izven poti razumevanja, bo ostal v skupnosti mrtvih."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kdor ljubi u\u017eitek bo reve\u017e: kdor ljubi vino in olje, ne bo bogat."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Zlobni bodo odkupnina za pravi\u010dne, prestopniki pa za po\u0161tene."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Bolje je prebivati v divjini kakor s prepirljivo in jezno \u017eensko."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Je za\u017eelen zaklad in olje v prebivali\u0161\u010du modrega; toda nespameten \u010dlovek ga zapravlja."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kdor si prizadeva za pravi\u010dnostjo in usmiljenjem, najde \u017eivljenje, pravi\u010dnost in \u010dast."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Moder \u010dlovek zmanj\u0161uje mesto mogo\u010dnega in podira mo\u010d zaupanja iz tega."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kdorkoli zadr\u017euje svoja usta in svoj jezik, svojo du\u0161o zadr\u017euje pred te\u017eavami."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ponosen in o\u0161aben posmehljivec je njegovo ime, kdor ravna v ponosnem besu."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u017delja lenega, ga ubija; kajti njegove roke odklanjajo delati."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "On lakomno hlepi skozi ves dan: toda pravi\u010dni daje in ne skopari."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u017drtvovanje zlobnega je ogabnost: koliko bolj, ko to prina\u0161a z zlobnim umom?"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Kriva pri\u010da bo propadla: toda \u010dlovek, ki poslu\u0161a, nenehno govori."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Zloben \u010dlovek otrdi svoj obraz: toda kar se ti\u010de po\u0161tenega, on uravnava svojo pot."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Ne obstaja niti modrost niti razumevanje niti namera zoper Gospoda."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Konj je pripravljen za dan bitke, toda re\u0161itev je od Gospoda."
+                }
+            }
+        },
+        "22": {
+            "chapter_nr": "22",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dobro ime je bolje izbrati kakor velika bogastva in ljube\u010do naklonjenost raje kakor srebro in zlato."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Bogati in revni se sre\u010dajo skupaj: Gospod je stvarnik njih vseh."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Razsoden \u010dlovek sluti zlo in se skrije: toda naivne\u017ei gredo dalje in so kaznovani."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "S poni\u017enostjo in strahom Gospodovim so bogastva in \u010dast in \u017eivljenje."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Trni in zanke so na poti kljubovalnega: kdor varuje svojo du\u0161o bo dale\u010d od njih."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vzgajaj otroka na poti po kateri bi moral iti: in ko je star, z nje ne bo za\u0161el."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Bogati vlada nad revnim in dol\u017enik je slu\u017eabnik upniku."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kdor seje krivi\u010dnost, bo \u017eel prazne re\u010di: in \u0161iba njegove jeze bo prenehala."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kdor ima radodarno oko, bo blagoslovljen; kajti od svojega kruha daje revnim."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sp\u00f4di posmehljivca in spor bo \u0161el ven; da, spor in graja se bosta kon\u010dala."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kdor ljubi neopore\u010dnost srca, bo zaradi milosti njegovih ustnic kralj njegov prijatelj."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Gospodove o\u010di varujejo spoznanje in on ru\u0161i besede prestopnika."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Len \u010dlovek pravi: \u201eZunaj je lev, umorjen bom na ulicah.\u201c"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Usta tujih \u017eensk so globoka jama: kdor je preziran od Gospoda, bo padel vanjo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nespametnost je vezana na otrokovo srce; toda \u0161iba graje jo bo odgnala dale\u010d od njega."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kdor stiska ubogega, da narastejo njegova bogastva in kdor daje bogatim, bosta zagotovo pri\u0161la v potrebo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nagni svoje uho in prisluhni besedam modrega in svoje srce usmeri k mojemu spoznanju."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kajti to je prijetna stvar, \u010de jih varuje\u0161 znotraj sebe; poleg tega bodo pristojale na tvoje ustnice."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Da bo tvoje trdno upanje lahko v Gospodu, sem ti to dal spoznati ta dan, celo tebi."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ali ti nisem napisal odli\u010dnih stvari v nasvetih in spoznanju,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "da ti lahko dam spoznati zagotovost besed resnice; da bo\u0161 lahko odgovoril besede resnice tistim, ki so poslani k tebi?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ne ropaj revnega, ker je reven: niti ne stiskaj prizadetega v velikih vratih."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kajti Gospod bo zagovarjal njihovo pravdo in oplenil du\u0161e tistih, ki jih plenijo."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ne sklepaj prijateljstva z jeznim \u010dlovekom; in z besnim \u010dlovekom naj ne bi \u0161el:"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "da se ne bi nau\u010dil njegovih poti in svoji du\u0161i pridobil zanko."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ne bodi nekdo izmed tistih, ki udarijo v roko ali izmed tistih, ki so p\u00f4roki za dolgove."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u010ce nima\u0161 ni\u010desar za pla\u010dati, zakaj bi izpod tebe vzel tvojo posteljo?"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ne odstranjuj starodavnega mejnika, katerega so postavili tvoji o\u010detje."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Vidi\u0161 marljivega \u010dloveka v svojem poklicu? Stal bo pred kralji; ne bo stal pred navadnimi ljudmi."
+                }
+            }
+        },
+        "23": {
+            "chapter_nr": "23",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kadar sede\u0161, da je\u0161 z vladarjem, marljivo preudari, kaj je pred teboj:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "in si nastavi no\u017e na svoj vrat, \u010de si po\u017ere\u0161en \u010dlovek."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ne bodi \u017eeljan njegovih sla\u0161\u010dic, kajti le-te so varljiva hrana."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ne trudi se biti bogat: odnehaj od svoje lastne modrosti."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ho\u010de\u0161 postaviti svoje o\u010di na tisto, \u010desar ni? Kajti bogastva sebi zagotovo delajo krila; odletijo pro\u010d kakor orel proti nebu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne jej kruha tistega, ki ima zlobno oko niti si ne \u017eeli njegove okusne hrane:"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "kajti kakor misli v svojem srcu, tak\u0161en je: \u201eJej in pij, \u201cti pravi, toda njegovo srce ni s teboj."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ko\u0161\u010dek, katerega si pojedel, bo\u0161 izbljuval in izgubil svoje sladke besede."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ne govori v u\u0161esa bedaka, kajti preziral bo modrost tvojih besed."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ne odstrani starega mejnika; in ne vstopaj na polja osirotelih:"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "kajti njihov odkupitelj je mogo\u010den; s teboj bo zagovarjal njihovo pravdo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Svoje srce usmeri k pou\u010devanju in svoja u\u0161esa k besedam spoznanja."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ne zadr\u017euj grajanja pred otrokom, kajti \u010de ga udari\u0161 s \u0161ibo, ne bo umrl."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Udaril ga bo\u0161 s \u0161ibo, njegovo du\u0161o pa bo\u0161 re\u0161il pred peklom."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Moj sin, \u010de bo tvoje srce modro, se bo moje srce veselilo, celo moje."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Da, moja notranjost se bo veselila, ko tvoje ustnice govorijo prave besede."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Naj tvoje srce ne zavida gre\u0161nikom: temve\u010d sam bodi ves dan v strahu Gospodovem."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kajti zagotovo je konec; in tvoje pri\u010dakovanje ne bo odrezano."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Prisluhni, ti, moj sin in bodi moder in svoje srce usmerjaj na poti."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ne bodi med vinskimi bratci; med upornimi jedci mesa:"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "kajti pijanec in po\u017eeruh bosta pri\u0161la k rev\u0161\u010dini: in zaspanost bo \u010dloveka oblekla s cunjami."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Prisluhni svojemu o\u010detu, ki te je zaplodil in ne preziraj svoje matere, ko je stara."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kupi resnico in je ne prodaj; tudi modrost in pou\u010devanje in razumevanje."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "O\u010de pravi\u010dnega se bo silno veselil: in kdor je zaplodil modrega otroka, bo zaradi njega imel veselje."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Tvoj o\u010de in tvoja mati bosta vesela in tista, ki te je nosila, se bo veselila."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Moj sin, daj mi svoje srce in naj tvoje o\u010di opazujejo moje poti."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Kajti vla\u010duga je globok jarek; in tuja \u017eenska je tesna jama."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Prav tako pre\u017ei, kakor za plenom in pove\u010duje prestopnike med mo\u017emi."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Kdo ima gorje? Kdo ima bridkost? Kdo ima spore? Kdo ima blebetanje? Kdo ima rane brez razloga? Kdo ima rde\u010dino o\u010di?"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Tisti, ki se dolgo zadr\u017eujejo pri vinu; gredo, da i\u0161\u010dejo me\u0161ano vino."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Ne glej na vino, kadar je rde\u010de, kadar daje svojo barvo v \u010da\u0161i, ko jo pravilno primakne\u0161 k sebi."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Nazadnje udari kakor ka\u010da in pi\u010di kakor gad."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Tvoje o\u010di bodo zagledale tujo \u017eensko in tvoje srce bo izreklo sprevr\u017eene stvari."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Da, ti bo\u0161 kakor tisti, ki se ule\u017ee na sredo morja ali kakor kdor le\u017ei na vrhu jambora."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "\u201eUdarili so me, \u201cbo\u0161 rekel in \u201enisem bil bolan; pretepli so me, pa tega nisem \u010dutil: kdaj se bom prebudil? Ponovno ga bom poiskal.\u201c"
+                }
+            }
+        },
+        "24": {
+            "chapter_nr": "24",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ne bodi nevo\u0161\u010dljiv proti hudobne\u017eem niti si ne \u017eeli biti z njimi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kajti njihovo srce razmi\u0161lja uni\u010denje in njihove ustnice govorijo o vragoliji."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Z modrostjo je hi\u0161a zgrajena: in z razumevanjem je utrjena:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "in po spoznanju bodo sobe napolnjene z vsemi dragocenimi in prijetnimi bogastvi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Moder \u010dlovek je mo\u010dan; da, \u010dlovek spoznanja pove\u010duje mo\u010d."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kajti po modrem nasvetu bo\u0161 vojskoval svojo vojno: in v mno\u017eici svetovalcev je varnost."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Modrost je za bedaka previsoka: on svojih ust ne odpira v velikih vratih."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kdor snuje delati zlo, bo imenovan [za] pogubno osebo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Misel nespametnosti je greh: in posmehljivec je ogabnost ljudem."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u010ce na dan nadloge slabi\u0161, je tvoja mo\u010d majhna."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u010ce opusti\u0161 osvoboditi tiste, ki so potegnjeni v smrt in tiste, ki so pripravljeni, da bodo umorjeni;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u010de re\u010de\u0161: \u201eGlej, tega nismo vedeli; \u201cmar ne bo tisti, ki preudarja srce, to premislil? In tisti, ki varuje tvojo du\u0161o, mar tega ne ve? In ali ne bo vsakemu \u010dloveku povrnil glede na njegova dela?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Moj sin, jej med, ker je dober; in satovje, ki je sladko tvojemu okusu:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "tak\u0161no bo spoznanje modrosti tvoji du\u0161i: ko jo najde\u0161, potem bo nagrada in tvoje pri\u010dakovanje ne bo prekinjeno."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ne pre\u017ei v zasedi, oh zlobni \u010dlovek, zoper prebivanje pravi\u010dnega; ne pokvari njegovega po\u010divali\u0161\u010da:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "kajti pravi\u010den \u010dlovek pade sedemkrat in ponovno vstane: toda zlobni bo padel v vragolijo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ne veseli se kadar tvoj sovra\u017enik pada in naj tvoje srce ne bo veselo, ko se spotika:"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "da ne bi tega videl Gospod in ga to raz\u017eali in svoj bes odvrne od njega."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ne razburjaj se zaradi hudobnih ljudi niti ne bodi nevo\u0161\u010dljiv na zlobne;"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "kajti nobene nagrade ne bo za hudobnega \u010dloveka; sve\u010da zlobnih bo ugasnjena."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Moj sin, boj se Gospoda in kralja: in ne vme\u0161avaj se s tistimi, ki so nagnjeni k spremembi:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "kajti njihova katastrofa bo nenadoma vstala; in kdo pozna njihov propad?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Tudi te stvari pripadajo modremu. Ni dobro imeti spo\u0161tovanja oseb na sodbi."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kdor zlobnemu pravi: \u201eTi si pravi\u010den; \u201cnjega bo ljudstvo preklinjalo, narodi ga bodo prezirali:"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "toda tistim, ki ga o\u0161tevajo, bo veselje in nadnje bo pri\u0161el dober blagoslov."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Vsak \u010dlovek bo poljubil ustnice tistega, ki daje pravilen odgovor."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Pripravi svoje delo zunaj in pripravi, [da] ti ustreza na polju; in potem zgradi svojo hi\u0161o."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ne bodi brez razloga pri\u010da zoper svojega bli\u017enjega; in s svojimi ustnicami ne zavajaj."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Ne reci: \u201eTako mu bom storil, kakor je on storil meni: \u010dloveku bom povrnil glede na njegovo delo.\u201c"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "\u0160el sem mimo polja lenega in mimo vinograda \u010dloveka brez razumevanja;"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "in glej, vse je bilo preraslo s trni in koprive so pokrile njegovo obli\u010dje in njegov kamniti zid je bil poru\u0161en."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Potem sem videl in to dobro preudaril: pogledal sem na to in prejel pou\u010devanje."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "\u0160e malo spanja, malo dremanja, malo prekri\u017eanih rok za spanje:"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "tako bo tvoja rev\u0161\u010dina pri\u0161la kakor nekdo, ki se klati; in tvoja potreba kakor oboro\u017een \u010dlovek."
+                }
+            }
+        },
+        "25": {
+            "chapter_nr": "25",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Tudi to so Salomonovi pregovori, ki so jih na \u010disto prepisali mo\u017eje Ezek\u00edja, Judovega kralja."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Prikrivati stvar je Bogu slava: toda kraljeva \u010dast je, da zadevo prei\u0161\u010de."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nebes v vi\u0161ino in zemlje v globino in srce kraljev se ne da raziskati."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Odstrani \u017elindro od srebra in iz\u0161la bo posoda za zlatarja."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Odvzemi zlobnega iz pred kralja, pa bo njegov prestol utrjen v pravi\u010dnosti."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne postavi se v prisotnost kralja in ne stoj na kraju v\u00e9likih ljudi:"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "kajti bolje je, da ti je re\u010deno: \u201ePridi s\u00e8m gor; \u201ckakor, da bo\u0161 postavljen ni\u017eje v prisotnost princa, katerega so tvoje o\u010di videle."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ne hodi naglo naprej, da se pri\u010dka\u0161, da ne bi vedel kaj storiti na koncu le-tega, ko te tvoj sosed izro\u010di v sramoto."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sam razpravljaj svojo zadevo s svojim sosedom; in skrivnosti ne izdaj drugemu:"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "da te ne bi, kdor to sli\u0161i, izro\u010dil v sramoto in se tvoja razvpitost ne odvrne pro\u010d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Beseda, primerno izgovorjena, je podobna jabolkom iz zlata na slikah iz srebra."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kakor uhan iz zlata in ornament iz \u010distega zlata, tak\u0161en je moder grajavec nad poslu\u0161nim u\u0161esom."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kakor hlad snega v \u010dasu \u017eetve, tako je zvest poslanec tistim, ki so ga poslali, kajti osve\u017euje du\u0161o svojih gospodarjev."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kdorkoli se baha z la\u017enim darom, je podoben oblakom in vetru brez de\u017eja."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Z dolgotrajnim prizana\u0161anjem je princ pregovorjen in blag jezik lomi kost."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Si na\u0161el med? Jej [ga] toliko, kolikor ti je potrebno, da ne bi bil nasi\u010den z njim in ga izbljuval."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Svoje stopalo umakni od hi\u0161e svojega soseda; da se te ne bi naveli\u010dal in te tako zasovra\u017eil."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u010clovek, ki prina\u0161a krivo pri\u010devanje zoper svojega soseda, je macola in me\u010d in ostra pu\u0161\u010dica."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Zaupanje v nezvestega \u010dloveka v \u010dasu stiske je podobno zlomljenemu zobu in izpahnjenemu stopalu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kakor kdor odvzema obleko v hladnem vremenu in kakor kis na soliter, tak je kdor prepeva pesmi potrtemu srcu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u010ce je tvoj sovra\u017enik la\u010den, mu daj jesti kruha; in \u010de je \u017eejen, mu daj piti vode:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "kajti kopi\u010dil bo\u0161 ognjeno oglje na njegovo glavo in Gospod te bo nagradil."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Severni veter odna\u0161a de\u017e: tako jezno obli\u010dje po\u010dne obrekljivemu jeziku."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Bolje je prebivati v kotu hi\u0161ne strehe, kakor s prepirljivo \u017eensko in v prostrani hi\u0161i."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kakor hladne vode \u017eejni du\u0161i, tak\u0161ne so dobre novice iz daljne de\u017eele."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Pravi\u010den \u010dlovek, padajo\u010d pred zlobnim, je kakor nemiren studenec in pokvarjen izvir."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ni dobro jesti veliko medu: tako za ljudi iskati svojo lastno slavo, to ni slava."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Kdor nima prevlade nad svojim lastnim duhom je podoben mestu, ki je poru\u0161eno in brez zidov."
+                }
+            }
+        },
+        "26": {
+            "chapter_nr": "26",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kakor sneg poleti in kakor de\u017e ob \u010dasu \u017eetve, tako \u010dast ni spodobna za bedaka."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kakor ptica s potepanjem, kakor lastovka z letenjem, tako prekletstvo ne bo pri\u0161lo brez vzroka."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bi\u010d za konja, uzda za osla in palica za hrbet bedaka."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Bedaku ne odgovori glede na njegovo neumnost, da ne bi bil tudi ti podoben njemu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Odgovori bedaku glede na njegovo neumnost, da ne bi bil moder v svoji lastni domi\u0161ljavosti."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kdor po\u0161ilja sporo\u010dilo po roki bedaka, si odseka stopala in pije \u0161kodo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nogi hromega nista enaki: taka je prispodoba v ustih bedakov."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kakor kdor pove\u017ee kamen v pra\u010do, tak je kdor daje \u010dast bedaku."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kakor gre trn v roko pijanca, taka je prispodoba v ustih bedakov."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Velik Bog, ki je ustvaril vse stvari, nagrajuje tako bedaka kakor prestopnike."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kakor se pes vra\u010da k svojemu izbljuvku, tako se bedak vra\u010da k svoji neumnosti."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ali vidi\u0161 modrega \u010dloveka v njegovi lastni domi\u0161ljavosti? Ve\u010d upanja je za bedaka kakor zanj."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Len \u010dlovek pravi: \u201e Tam je lev na poti; lev je na ulicah.\u201c"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kakor se vrata obra\u010dajo na svojih te\u010dajih, tako se leni na svoji postelji."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Leni skriva svojo roko v svojem naro\u010dju; \u017ealosti ga, da ponovno prinese k svojim ustom."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Lenuh je modrej\u0161i v svoji lastni domi\u0161ljavosti, kakor sedem mo\u017e, ki lahko izka\u017eejo razlog."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kdor gre mimo in se vme\u0161ava v prepir, ki ne spada k njemu, je podoben tistemu, ki psa zgrabi za u\u0161esa."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kakor zme\u0161an \u010dlovek, ki me\u010de kose gore\u010dega lesa, pu\u0161\u010dice in smrt,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "tak je \u010dlovek, ki zavaja svojega bli\u017enjega in pravi: \u201eAli nisem na zabavi?\u201c"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kjer ni nobenega lesa, tam ogenj poide: tako kjer ni to\u017eljivca prepir preneha."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kakor je oglje za vro\u010do \u017eerjavico in drva za ogenj; tako je prepirljiv \u010dlovek za pod\u017eiganje prepira."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Besede to\u017eljivca so kakor rane in gredo navzdol v najnotranjej\u0161e dele trebuha."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Gore\u010de ustnice in zlobno srce sta podobna \u010drepinji, pokriti s srebrovo \u017elindro."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kdor sovra\u017ei, prikriva s svojimi ustnicami in znotraj sebe shranjuje prevaro;"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "kadar govori lepo, mu ne verjemi, kajti sedem ogabnosti je v njegovem srcu."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u010cigar sovra\u0161tvo je pokrito s prevaro, bo njegova zlobnost razkazana pred celotno skupnostjo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Kdorkoli koplje jamo, bo padel vanjo: in kdor vali kamen, se bo le-ta vrnil nadenj."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "La\u017eniv jezik sovra\u017ei tiste, ki so prizadeti z njim; in prilizovanje ust dela propad."
+                }
+            }
+        },
+        "27": {
+            "chapter_nr": "27",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ne bahaj se z jutrom; kajti ne ve\u0161 kak\u0161en dan se lahko rodi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Naj te hvali drug \u010dlovek in ne tvoja lastna usta; tujec in ne tvoje lastne ustnice."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kamen je te\u017eak in pesek ima te\u017eo; toda bedakov bes je te\u017eji kakor oba skupaj."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Bes je krut in jeza je nezasli\u0161ana; toda kdo je zmo\u017een obstati pred zavistjo?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Odprto o\u0161tevanje je bolj\u0161e kakor skrita ljubezen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Zveste so rane od prijatelja; toda poljubi sovra\u017enika so varljivi."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Siti du\u0161i se satovje gabi; toda la\u010dni du\u0161i je vsaka grenka stvar sladka."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kakor ptica, ki se oddaljuje od svojega gnezda, tako je \u010dlovek, ki se oddaljuje od svojega kraja."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mazilo in di\u0161ava razveseljujeta srce: tako po\u010dne sladkost \u010dlovekovega prijatelja s sr\u010dnim nasvetom."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Svojega lastnega prijatelja in prijatelja svojega o\u010deta ne zapusti; niti na dan svoje katastrofe ne pojdi v hi\u0161o svojega brata: kajti bolj\u0161i je sosed, ki je blizu, kakor brat dale\u010d pro\u010d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Moj sin, bodi moder in razveseli moje srce, da lahko odgovorim tistemu, ki me graja."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Razsoden \u010dlovek sluti zlo in se skrije; toda naivne\u017ei gredo dalje in so kaznovani."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Vzemi njegovo obleko, ki je p\u00f4rok za tujca in vzemi njegovo jamstvo za tujo \u017eensko."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kdor z mo\u010dnim glasom blagoslavlja svojega prijatelja, vzdigujo\u010d ga zgodaj zjutraj, se mu bo to \u0161telo [v] prekletstvo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nenehno kapljanje na zelo de\u017eeven dan in prepirljiva \u017eenska sta si podobna."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kdorkoli jo skriva, skriva veter in mazilo svoje desnice, ki izdaja samo sebe."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u017delezo ostri \u017eelezo; tako \u010dlovek ostri obli\u010dje svojega prijatelja."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kdorkoli varuje figovo drevo, bo jedel sadje od tega; tako bo spo\u0161tovan, kdor \u010daka na svojega gospodarja."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kakor v vodi obraz odzdravlja obrazu, tako srce \u010dloveka k \u010dloveku."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Pekel in uni\u010denje nikdar nista polna: tako \u010dlovekove o\u010di nikoli niso nasi\u010dene."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kakor je talilni lonec za srebro in talilna pe\u010d za zlato; tak je \u010dlovek do svoje hvale."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u010ceprav bi bedaka s tolka\u010dem stolkel v stopi med p\u0161enico, vendarle njegova nespametnost ne bo od\u0161la od njega."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Bodi marljiv, da spozna\u0161 stanje svojih tropov in dobro glej k svojim \u010dredam."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kajti bogastva ni so na veke: in mar se krona prena\u0161a vsakemu rodu?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Pojavlja se seno in prika\u017ee se ne\u017ena trava in gorska zeli\u0161\u010da se zberejo."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Jagnjeta so za tvoje obla\u010dilo in koze so nagrada polja."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "In imel bo\u0161 dovolj kozjega mleka za tvojo hrano, za hrano tvoje dru\u017eine in za vzdr\u017eevanje tvojih dekel."
+                }
+            }
+        },
+        "28": {
+            "chapter_nr": "28",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Zlobni zbe\u017eijo kadar jih noben \u010dlovek ne preganja: toda pravi\u010dni so pogumni kakor lev."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Zaradi prestopka de\u017eele so \u0161tevilni njeni princi: toda s \u010dlovekom razumevanja in spoznanja bo njihova dr\u017eava podalj\u0161ana."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Reve\u017e, ki zatira ubogega, je podoben pometajo\u010demu de\u017eju, ki ne zapu\u0161\u010da nobene hrane."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tisti, ki zapustijo postavo, hvalijo zlobne: toda tisti, ki se dr\u017eijo postave, se z njimi pri\u010dkajo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hudobne\u017ei ne razumejo sodbe: toda tisti, ki i\u0161\u010dejo Gospoda, razumejo vse stvari."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bolj\u0161i je ubogi, ki hodi v svoji po\u0161tenosti, kakor kdor je sprevr\u017een na svojih poteh, \u010detudi je bogat."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kdorkoli ohranja postavo, je moder sin: toda kdor je dru\u017eabnik upornih ljudi, svojega o\u010deta spravlja v sramoto."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kdor z obrestmi in nepravi\u010dnim zaslu\u017ekom pove\u010duje svoje imetje, ga bo zbiral za tistega, ki bo pomiloval ubogega."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kdor svoje uho obra\u010da stran od poslu\u0161anja postave, bo celo njegova molitev ogabnost."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kdorkoli pravi\u010dnemu povzro\u010di, da zaide na zlo pot, bo tudi sam padel v svojo lastno jamo: toda po\u0161teni bodo imeli v posesti dobre stvari."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Bogata\u0161 je moder v svoji lastni domi\u0161ljavosti; toda revni, ki ima razumevanje, ga preiskuje."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kadar se pravi\u010dni ljudje razveseljujejo, je velika slava: toda kadar vstanejo zlobni, je \u010dlovek skrit."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kdor prikriva svoje grehe, ne bo uspe\u0161en: toda kdorkoli jih priznava in se jim odreka, bo imel usmiljenje."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Sre\u010den je \u010dlovek, ki se vedno boji: toda kdor svoje srce zakrkne, bo padel v vragolijo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kakor rjove\u010d lev in pohajkujo\u010d medved; tak je zloben vladar nad ubogim ljudstvom."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Princ, ki mu manjka razumevanja, je prav tako velik zatiralec: toda kdor sovra\u017ei pohlepnost, bo podalj\u0161al svoje dneve."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u010clovek, ki po\u010dne nasilje krvi kateregakoli \u010dloveka, bo zbe\u017eal v jamo; naj ga noben \u010dlovek ne zadr\u017euje."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kdorkoli \u017eivi po\u0161teno, bo re\u0161en: toda kdor je na svojih poteh sprevr\u017een, bo naenkrat padel."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kdor obdeluje svojo zemljo, bo imel obilo kruha: toda kdor sledi za ne\u010dimrnimi osebami, bo imel dosti rev\u0161\u010dine."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Zvest \u010dlovek bo obilen z blagoslovi; toda kdor hiti biti bogat, ne bo nedol\u017een."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ozirati se na osebe ni dobro, kajti za ko\u0161\u010dek kruha se bo ta \u010dlovek pregre\u0161il."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kdor hiti biti bogat, ima hudobno oko in ne upo\u0161teva, da bo nadenj pri\u0161la rev\u0161\u010dina."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kdor o\u0161teva \u010dloveka, bo kasneje na\u0161el ve\u010djo naklonjenost, kakor kdor laska z jezikom."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kdorkoli krade svojemu o\u010detu ali svoji materi in pravi: \u201e To ni prestopek; \u201cisti je dru\u017eabnik uni\u010devalcu."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kdor je ponosnega srca, razvnema prepir: toda kdor svoje trdno upanje polaga v Gospoda, bo narastel."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kdor zaupa v svoje lastno srce, je bedak: toda kdorkoli hodi modro, bo osvobojen."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Kdor daje ubogemu, ne bo trpel pomanjkanja: toda kdor prikriva svoje o\u010di, bo mnogim [v] kletev."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Kadar zlobni vstanejo, se ljudje skrijejo: toda kadar oni izginejo, pravi\u010dni narastejo."
+                }
+            }
+        },
+        "29": {
+            "chapter_nr": "29",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Tisti, ki je pogosto grajan, otrjuje svoj vrat, nenadoma bo uni\u010den in to brez re\u0161itve."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kadar so pravi\u010dni na oblasti, se ljudstvo veseli; toda kadar zlobni rojevajo pravila, ljudstvo \u017ealuje."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kdorkoli ljubi modrost, razveseljuje svojega o\u010deta: toda kdor se zadr\u017euje s pocestnicami, zapravlja svoje imetje."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kralj s sodbo vzpostavlja de\u017eelo: toda kdor prejema darila, jo prevra\u010da."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u010clovek, ki laska svojemu sosedu, plete mre\u017eo za njegova stopala."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "V prestopku hudobne\u017ea je zanka: toda pravi\u010dni prepeva in se veseli."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pravi\u010dni preudarja stvar ubogega: toda zlobni se na to ne ozira."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Posmehljivci mesto privedejo v zanko: toda modri mo\u017eje odvrnejo bes."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u010ce se moder \u010dlovek pri\u010dka z nespametnim \u010dlovekom, bodisi besni ali se smeje, tam ni po\u010ditka."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Krvolo\u010dne\u017e sovra\u017ei po\u0161tenega, toda pravi\u010dni i\u0161\u010de njegovo du\u0161o."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Bedak izreka vse svoje mi\u0161ljenje: toda moder \u010dlovek ga zadr\u017ei za pozneje."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u010ce vladar prisluhne la\u017eem, so vsi njegovi slu\u017eabniki zlobni."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ubog in varljiv \u010dlovek se skupaj sre\u010data: Gospod razsvetljuje o\u010di obeh."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kralju, ki zvesto sodi ubogega, bo njegov prestol utrjen na veke."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Palica in opomin dajeta modrost: toda otrok, prepu\u0161\u010den samemu sebi, svoji materi prina\u0161a sramoto."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kadar so zlobni pomno\u017eeni, nara\u0161\u010da prestopek: toda pravi\u010dni bodo videli njihov padec."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Grajaj svojega sina in dal ti bo po\u010ditek; da, tvoji du\u0161i bo dal veselje."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kjer ni videnja, ljudstvo propada: toda kdor se dr\u017ei postave, je sre\u010den."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Slu\u017eabnik ne bo grajan z besedami, kajti \u010deprav razume, ne bo odgovoril."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Vidi\u0161 \u010dloveka, ki je nagel v svojih besedah? Ve\u010d upanja je za bedaka kakor zanj."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kdor svojega slu\u017eabnika od otro\u0161kih let prefinjeno vzgaja, mu bo kon\u010dno postal njegov sin."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Jezen \u010dlovek razvnema prepir, besen \u010dlovek pa je obilen v prestopku."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u010clovekov ponos ga bo poni\u017eal: toda spo\u0161tovanje bo podpiralo poni\u017enega v duhu."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kdorkoli je tovari\u0161 s tatom, sovra\u017ei svojo lastno du\u0161o: sli\u0161i preklinjanje, pa tega ne razkriva."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Strah pred \u010dlovekom prina\u0161a zanko: toda kdorkoli svoje trdno upanje polaga v Gospoda, bo varen."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Mnogi i\u0161\u010dejo vladarjevo naklonjenost; toda sodba vsakega \u010dloveka prihaja od Gospoda."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Nepravi\u010den \u010dlovek je ogabnost pravi\u010dnemu: in kdor je na svoji poti po\u0161ten, je ogabnost zlobnemu."
+                }
+            }
+        },
+        "30": {
+            "chapter_nr": "30",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Besede Ag\u00farja, Jak\u00e9jevega sina, cel\u00f3 prerokba: \u010dlovek je govoril Iti\u00e9lu, celo Iti\u00e9lu in Uk\u00e1lu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Zagotovo sem bolj brutalen kakor katerikoli \u010dlovek in nimam \u010dlove\u0161kega razumevanja."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Niti se nisem u\u010dil modrosti niti imel spoznanja o svetih."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kdo se je povzpel v nebo ali se spustil? Kdo je zbral veter v svoje pesti? Kdo je vode omejil v obleko? Kdo je utrdil vse konce zemlje? Kak\u0161no je njegovo ime in kak\u0161no je ime njegovega sina, \u010de lahko pove\u0161?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vsaka Bo\u017eja beseda je \u010dista: on je \u0161\u010dit vsem tem, ki svoje trdno upanje polagajo vanj."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne dodajaj njegovim besedam, da te ne graja in bi bil spoznan za la\u017enivca."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dve stvari sem zahteval od tebe: ne odrekaj mi ju, preden umrem:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "ni\u010dnost in la\u017ei odstrani dale\u010d od mene: ne daj mi niti rev\u0161\u010dine niti bogastev; hrani me s hrano zame primerno:"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "da ne bi bil sit in te utajil in rekel: \u201eKdo je Gospod?\u201cAli, da ne bi bil reven in kradel in zaman vzel ime svojega Boga."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Slu\u017eabnika ne zato\u017ei njegovemu gospodarju, da te ne bi preklel in bi bil ti spoznan [za] krivega."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Je rod, ki preklinja svojega o\u010deta in ne blagoslavlja svoje matere."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Je rod, ki je \u010dist v svojih lastnih o\u010deh in vendar ni umit pred svojimi umazanostmi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Je rod, oh kako vzvi\u0161ene so njihove o\u010di! In njihove veke povzdignjene."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Je rod, katerih zobje so kakor me\u010di in zobje njihove \u010deljusti kakor no\u017ei, da po\u017ero uboge z zemlje in pomo\u010di potrebne iz med ljudi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pijavka ima dve h\u010deri, kri\u010de\u010d: \u201eDaj, daj.\u201cSo tri stvari, ki niso nikoli nasi\u010dene, da, \u0161tiri stvari ne re\u010dejo: \u201e To je dovolj: \u201c"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "grob; in jalova maternica; zemlja, ki ni napolnjena z vodo; in ogenj, ki ne govori: \u201eDovolj je.\u201c"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Oko, ki zasmehuje svojega o\u010deta in prezira pokoravanje svoji materi, bodo izkljuvali dolinski krokarji in mladi orli ga bodo pojedli."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tri stvari so, ki so mi pre\u010dudovite, da, \u0161tiri, katerih ne poznam:"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "pot orla na nebu; pot ka\u010de na skali; pot ladje na sredini morja; in pot \u010dloveka z dekletom."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Podobna je pot zakonolomne \u017eenske; j\u00e9 in si obri\u0161e svoja usta ter re\u010de: \u201eNobene zlobnosti nisem storila.\u201c"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zaradi treh stvari je zemlja vznemirjena in zaradi \u0161tirih kar ne more prenesti:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "zaradi slu\u017eabnika, kadar kraljuje; in bedaka, kadar je nasi\u010den s hrano;"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "zaradi zoprne \u017eenske, kadar je poro\u010dena; in pomo\u010dnice, ki je dedinja svoje gospodarice."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "\u0160tiri stvari so, ki so majhne na zemlji, toda le-te so silno modre:"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "mravlje ni so mo\u010dno ljudstvo, vendar svojo hrano pripravljajo poleti;"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "kunci so samo slaboten narod, vendar si svoje hi\u0161e naredijo v skalah;"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "lete\u010de kobilice nimajo kralja, pa vendar gredo vse izmed njih s trumami;"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "pajkovka grabi s svojimi rokami in je v kraljevih pala\u010dah."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Tri stvari so, ki dobro hodijo, da, \u0161tiri so ljubke v hoji:"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "lev, ki je najmo\u010dnej\u0161i med \u017eivalmi in se ne obra\u010da pro\u010d zaradi kogarkoli;"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "hrt; in tudi kozel; in kralj, zoper katerega ni vstajanja."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "\u010ce si nespametno storil s povzdigovanjem samega sebe, ali \u010de snuje\u0161 zlo, polo\u017ei svojo roko na svoja usta."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Zagotovo stepanje mleka prina\u0161a maslo in mo\u010dno stiskanje nosu prina\u0161a kri: tako pospe\u0161evanje besa prina\u0161a prepir."
+                }
+            }
+        },
+        "31": {
+            "chapter_nr": "31",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Besede kralja Lemu\u00e9la, prerokba, katero ga je nau\u010dila njegova mati."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kaj, moj sin? In kaj, sin moje maternice? In kaj, sin mojih zaobljub?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Svoje mo\u010di ne daj \u017eenski niti svojih poti tistim, kateri uni\u010dujejo kralje."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "To ni za kralje, oh Lemu\u00e9l, to ni za kralje, da pijejo vino; niti za prince mo\u010dna pija\u010da:"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "da ne bi pili in pozabili postave in izkrivili sodbo kateregakoli izmed prizadetih."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mo\u010dno pija\u010do daj tistemu, ki je pripravljen, da propade in vino tistim, ki so potrtih src."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Naj pije in pozabi svojo rev\u0161\u010dino in se ni\u010d ve\u010d ne spominja svoje bede."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Odpri svoja usta za nemega v imenu vseh tak\u0161nih, ki so dolo\u010deni k uni\u010denju."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Odpri svoja usta, sodi pravi\u010dno in zagovarjaj pravdo ubogega in pomo\u010di potrebnega."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kdo lahko najde vrlo \u017eensko? Kajti njena vrednost je dale\u010d nad rubini."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Srce njenega soproga varno zaupa vanjo, tako da ne bo imel nobene potrebe po plenu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Delala mu bo dobro in ne zla vse dni svojega \u017eivljenja."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ona i\u0161\u010de volno in lan in voljno dela s svojimi rokami."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Podobna je trgov\u010devim ladjam; svojo hrano prina\u0161a od dale\u010d."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tudi vstaja, ko je \u0161e no\u010d in daje hrano svoji dru\u017eini ter obrok svojim deklam."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Prou\u010di polje in ga kupuje: s sadom svojih rok zasadi vinograd."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Svoja ledja opasuje z mo\u010djo in utrjuje svoje lakte."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Zaznava, da je njeno trgovsko blago dobro: njena sve\u010da pono\u010di ne ugasne."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Svoje roke polaga k vretenu in njene roke dr\u017eijo preslico."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Svojo roko izteguje k ubogemu; da, svoji roki izteguje pomo\u010di potrebnemu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ne boji se snega za svojo dru\u017eino, kajti vsa njena dru\u017eina je oble\u010dena s \u0161krlatom."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Sama izdeluje pokrivala iz tapiserije; njeno obla\u010dilo sta svila in \u0161krlat."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Njen soprog je poznan v velikih vratih, ko sedi med stare\u0161inami de\u017eele."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ona izdeluje tanko laneno platno in ga prodaja; in pasove dostavlja trgovcu."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Mo\u010d in spo\u0161tovanje sta njeno obla\u010dilo; in veselila se bo v \u010dasu, ki pride."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Svoja usta odpira z modrostjo; in na njenem jeziku je zakon prijaznosti."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Dobro gleda k potem svoje dru\u017eine in ne j\u00e9 kruha brezdelja."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Njeni otroci vstanejo in jo kli\u010dejo blagoslovljena; tudi njen soprog in jo hvali."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Mnoge h\u010dere so storile krepostno, toda ti jih preka\u0161a\u0161 vse."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Naklonjenost je varljiva in lepota je ni\u010deva: toda \u017eenska, ki se boji Gospoda, bo hvaljena."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Daj ji od sadu njenih rok; in naj jo njena lastna dela hvalijo v velikih vratih."
+                }
+            }
+        }
+    }
+}

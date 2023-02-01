@@ -1,0 +1,314 @@
+{
+    "version": "TLA",
+    "book_name": "Joel",
+    "book_nr": "29",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El ataque de los saltamontes - Dios le dio un mensaje a Joel hijo de Petuel, y Joel se lo comunic\u00f3 al pueblo de Israel:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00ab\u00a1Pongan mucha atenci\u00f3n ustedes, jefes del pueblo, y todos los que viven en este pa\u00eds! \u00a1Cuatro plagas de saltamontes han venido sobre nuestra tierra y han acabado con nuestras siembras! \u00bfCu\u00e1ndo han visto ustedes algo as\u00ed? \u00a1Ni siquiera los antepasados de ustedes vieron en su vida algo parecido! \u00bb\u00a1Cu\u00e9ntenselo a sus hijos, para que ellos, a su vez, se lo cuenten a sus nietos, bisnietos y tataranietos!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00ab\u00a1Pongan mucha atenci\u00f3n ustedes, jefes del pueblo, y todos los que viven en este pa\u00eds! \u00a1Cuatro plagas de saltamontes han venido sobre nuestra tierra y han acabado con nuestras siembras! \u00bfCu\u00e1ndo han visto ustedes algo as\u00ed? \u00a1Ni siquiera los antepasados de ustedes vieron en su vida algo parecido! \u00bb\u00a1Cu\u00e9ntenselo a sus hijos, para que ellos, a su vez, se lo cuenten a sus nietos, bisnietos y tataranietos!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00ab\u00a1Pongan mucha atenci\u00f3n ustedes, jefes del pueblo, y todos los que viven en este pa\u00eds! \u00a1Cuatro plagas de saltamontes han venido sobre nuestra tierra y han acabado con nuestras siembras! \u00bfCu\u00e1ndo han visto ustedes algo as\u00ed? \u00a1Ni siquiera los antepasados de ustedes vieron en su vida algo parecido! \u00bb\u00a1Cu\u00e9ntenselo a sus hijos, para que ellos, a su vez, se lo cuenten a sus nietos, bisnietos y tataranietos!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bb\u00a1Vamos, borrachos, lev\u00e1ntense! \u00a1Despierten y p\u00f3nganse a llorar, pues ya no van a tener vino!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Una plaga de saltamontes ha invadido nuestro pa\u00eds, como si fuera un gran ej\u00e9rcito. Sus dientes tienen tanto filo que hasta parecen leones furiosos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Destruyeron nuestras vi\u00f1as y despedazaron nuestras higueras; \u00a1pelaron las ramas por completo!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbLa gente llora desconsolada, como la novia que llora de tristeza porque se ha muerto su novio."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tambi\u00e9n lloran los sacerdotes que est\u00e1n al servicio de Dios, pues ya nadie lleva al templo ofrendas de vino y de cereales."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbYa no hay trigo, ya no hay vino ni aceite, pues los campos se secaron y quedaron hechos un desierto."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbUstedes, los campesinos, y ustedes, los agricultores: \u00a1lloren de tristeza! Ya se han perdido las cosechas de trigo y de cebada;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "ya se han secado los vi\u00f1edos, las higueras, los granados, las palmeras, los manzanos y todos los \u00e1rboles del campo; \u00a1la gente misma ha perdido la alegr\u00eda!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00bbUstedes, los sacerdotes, que sirven a Dios en el altar, p\u00f3nganse ropa de luto y pasen la noche llorando, pues ya nadie trae al templo ofrendas de vino y de cereales."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Re\u00fanan en el templo a los israelitas y a sus jefes, para que ayunen y oren a Dios."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00a1Nuestro Dios viene! \u00a1Ya est\u00e1 cerca el d\u00eda! \u00a1Ser\u00e1 un d\u00eda de destrucci\u00f3n por parte del Todopoderoso!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00bbEn nuestra propia cara nos quitaron la comida; nos quitaron la alegr\u00eda de estar en el templo de nuestro Dios."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "La siembra de trigo se sec\u00f3, por eso est\u00e1n vac\u00edos todos nuestros graneros."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00a1Mugen nuestras vacas y balan nuestras ovejas! \u00a1Los ganados se mueren de hambre porque ya no encuentran pastos!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00bbDios nuestro, \u00a1en ti buscamos ayuda porque el fuego ha quemado nuestros campos y nuestros bosques!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00a1Tambi\u00e9n te piden ayuda los animales del campo, pues los arroyos est\u00e1n secos y el fuego ha acabado con los pastos!"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La invasi\u00f3n de un ej\u00e9rcito enemigo - \u00bb\u00a1Que toquen la trompeta en Jerusal\u00e9n! \u00a1Que suene la alarma en el templo! \u00a1Que comiencen a temblar todos los habitantes de este pa\u00eds! \u00a1Nuestro Dios viene! \u00a1Ya est\u00e1 cerca el d\u00eda!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ser\u00e1 un d\u00eda de gran oscuridad, un d\u00eda de nubes y de sombras. \u00bbUn ej\u00e9rcito grande y poderoso se extender\u00e1 sobre los montes, y caer\u00e1 sobre toda la tierra como las sombras al anochecer. No hubo antes, ni habr\u00e1 despu\u00e9s, otro ej\u00e9rcito que se le parezca."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ese ej\u00e9rcito es como el fuego, que quema todo lo que encuentra: antes de su llegada, la tierra es un para\u00edso; despu\u00e9s de su llegada, la tierra queda hecha un desierto. \u00a1No hay nada que se le escape!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bbEse ej\u00e9rcito de saltamontes ataca como la caballer\u00eda;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "cuando saltan sobre los montes, el ruido que hacen se parece al que hacen los carros de guerra; son como el crujido de hojas secas que se queman en el fuego; son como un ej\u00e9rcito poderoso que est\u00e1 listo para el ataque."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbEstos saltamontes parecen una banda de ladrones, son como un ej\u00e9rcito que ataca por sorpresa la ciudad, y siempre ataca de frente. Escalan las murallas, se trepan a las casas, se meten por las ventanas, sin chocar unos con otros. Todos mantienen el paso, jam\u00e1s rompen la formaci\u00f3n, \u00a1jam\u00e1s dan un paso atr\u00e1s! \u00a1Ni una lluvia de flechas puede hacer que se detengan! Al ver estos saltamontes la gente tiembla y se pone p\u00e1lida de miedo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbEstos saltamontes parecen una banda de ladrones, son como un ej\u00e9rcito que ataca por sorpresa la ciudad, y siempre ataca de frente. Escalan las murallas, se trepan a las casas, se meten por las ventanas, sin chocar unos con otros. Todos mantienen el paso, jam\u00e1s rompen la formaci\u00f3n, \u00a1jam\u00e1s dan un paso atr\u00e1s! \u00a1Ni una lluvia de flechas puede hacer que se detengan! Al ver estos saltamontes la gente tiembla y se pone p\u00e1lida de miedo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbEstos saltamontes parecen una banda de ladrones, son como un ej\u00e9rcito que ataca por sorpresa la ciudad, y siempre ataca de frente. Escalan las murallas, se trepan a las casas, se meten por las ventanas, sin chocar unos con otros. Todos mantienen el paso, jam\u00e1s rompen la formaci\u00f3n, \u00a1jam\u00e1s dan un paso atr\u00e1s! \u00a1Ni una lluvia de flechas puede hacer que se detengan! Al ver estos saltamontes la gente tiembla y se pone p\u00e1lida de miedo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbEstos saltamontes parecen una banda de ladrones, son como un ej\u00e9rcito que ataca por sorpresa la ciudad, y siempre ataca de frente. Escalan las murallas, se trepan a las casas, se meten por las ventanas, sin chocar unos con otros. Todos mantienen el paso, jam\u00e1s rompen la formaci\u00f3n, \u00a1jam\u00e1s dan un paso atr\u00e1s! \u00a1Ni una lluvia de flechas puede hacer que se detengan! Al ver estos saltamontes la gente tiembla y se pone p\u00e1lida de miedo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tiemblan el cielo y la tierra, se oscurecen el sol y la luna, y pierden su brillo las estrellas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbAl frente de este ej\u00e9rcito, que es muy grande y poderoso, Dios deja o\u00edr su voz de mando y este ej\u00e9rcito lo obedece. Nuestro Dios viene. \u00a1El d\u00eda de su llegada ser\u00e1 impresionante y terrible! \u00a1Nadie podr\u00e1 mantenerse firme!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "El pueblo de Dios debe arrepentirse - \u00bbNuestro Dios nos dice: \u201c\u00a1Arrepi\u00e9ntanse ahora mismo y cambien su manera de vivir! \u00a1Lloren, ayunen y v\u00edstanse de luto!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00a1Arrepi\u00e9ntanse y vuelvan a m\u00ed, pero h\u00e1ganlo de todo coraz\u00f3n, y no s\u00f3lo de palabra! Yo soy tierno y bondadoso, y no me enojo f\u00e1cilmente; yo los amo mucho y estoy dispuesto a perdonarlos\u201d."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bb\u00a1Tal vez Dios decida perdonarnos! \u00a1Tal vez nos d\u00e9 en abundancia vino y cereal para las ofrendas!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00bb\u00a1Toquen la trompeta en Jerusal\u00e9n! \u00a1Que se re\u00fana todo el pueblo! \u00a1Que vengan los ancianos y los ni\u00f1os, y hasta los reci\u00e9n casados! \u00a1Que ayunen y se preparen para adorar a Dios!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00bb\u00a1Toquen la trompeta en Jerusal\u00e9n! \u00a1Que se re\u00fana todo el pueblo! \u00a1Que vengan los ancianos y los ni\u00f1os, y hasta los reci\u00e9n casados! \u00a1Que ayunen y se preparen para adorar a Dios!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00a1Que vengan los sacerdotes, los servidores de Dios! Que se paren ante el altar, y con l\u00e1grimas en los ojos oren de esta manera: \u201c\u00a1Dios nuestro, perdona a tu pueblo! \u00a1No permitas que las naciones nos desprecien y nos humillen! No permitas que con tono burl\u00f3n nos pregunten: \u2018\u00bfD\u00f3nde est\u00e1 su Dios?\u2019\u201d"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dios ama a los que se arrepienten - \u00bbDios ama mucho a esta tierra, por eso nos tendr\u00e1 compasi\u00f3n y nos responder\u00e1: \u201cPongan mucha atenci\u00f3n: Voy a llenar sus graneros de trigo, y sus bodegas de vino y de aceite. No volver\u00e9 a permitir que las naciones los humillen."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Dios ama a los que se arrepienten - \u00bbDios ama mucho a esta tierra, por eso nos tendr\u00e1 compasi\u00f3n y nos responder\u00e1: \u201cPongan mucha atenci\u00f3n: Voy a llenar sus graneros de trigo, y sus bodegas de vino y de aceite. No volver\u00e9 a permitir que las naciones los humillen."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "A ese enemigo del norte, que se atrevi\u00f3 a atacarlos, lo arrojar\u00e9 al desierto; a los que ven\u00edan al frente los ahogar\u00e9 en el Mar Muerto, y a los que ven\u00edan atr\u00e1s los ahogar\u00e9 en el Mediterr\u00e1neo. \u00a1Sus cad\u00e1veres despedir\u00e1n mal olor!\u201d \u00bbPatria m\u00eda, \u00a1no tengas miedo! Al contrario, ll\u00e9nate de gozo, pues Dios hace grandes maravillas; \u00a1s\u00ed, Dios hace grandes maravillas!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "A ese enemigo del norte, que se atrevi\u00f3 a atacarlos, lo arrojar\u00e9 al desierto; a los que ven\u00edan al frente los ahogar\u00e9 en el Mar Muerto, y a los que ven\u00edan atr\u00e1s los ahogar\u00e9 en el Mediterr\u00e1neo. \u00a1Sus cad\u00e1veres despedir\u00e1n mal olor!\u201d \u00bbPatria m\u00eda, \u00a1no tengas miedo! Al contrario, ll\u00e9nate de gozo, pues Dios hace grandes maravillas; \u00a1s\u00ed, Dios hace grandes maravillas!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00bbBestias salvajes, \u00a1no tengan miedo! Los campos se cubrir\u00e1n de pasto, los \u00e1rboles se llenar\u00e1n de frutos, y habr\u00e1 higos y uvas en abundancia."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u00bbUstedes, habitantes de Jerusal\u00e9n, \u00a1hagan fiesta en honor de nuestro Dios! En el momento justo Dios nos enviar\u00e1 la lluvia, como lo hac\u00eda en tiempos pasados. Como prueba de su perd\u00f3n, har\u00e1 que llueva en primavera, as\u00ed como llueve en invierno."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "As\u00ed habr\u00e1 una buena cosecha, y tendremos gran abundancia de trigo, vino y aceite."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u00bbDios habr\u00e1 de devolvernos todo lo que perdimos estos a\u00f1os por culpa de los saltamontes que \u00e9l mand\u00f3 contra nosotros."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Tendremos mucha comida, y alabaremos a nuestro Dios por todas las grandes maravillas que ha hecho en favor nuestro\u00bb. Dios promete enviar su esp\u00edritu - Dios le dijo al profeta: \u00abYo soy el Dios de los israelitas. Yo vivo en medio de mi pueblo. Ellos me reconocer\u00e1n como su \u00fanico Dios, pues no hay otro como yo. \u00a1Y no volver\u00e1n a ser humillados!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Tendremos mucha comida, y alabaremos a nuestro Dios por todas las grandes maravillas que ha hecho en favor nuestro\u00bb. Dios promete enviar su esp\u00edritu - Dios le dijo al profeta: \u00abYo soy el Dios de los israelitas. Yo vivo en medio de mi pueblo. Ellos me reconocer\u00e1n como su \u00fanico Dios, pues no hay otro como yo. \u00a1Y no volver\u00e1n a ser humillados!"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "\u00bbCuando esto haya pasado, les dar\u00e9 a todos mi esp\u00edritu: hombres y mujeres hablar\u00e1n de parte m\u00eda; a los ancianos les hablar\u00e9 en sue\u00f1os y a los j\u00f3venes, en visiones."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "\u00bbTambi\u00e9n en esos tiempos dar\u00e9 mi esp\u00edritu a los esclavos y a las esclavas."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "\u00bbDar\u00e9 muestras de mi poder en el cielo y en la tierra: habr\u00e1 sangre y fuego, y grandes columnas de humo."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "El sol dejar\u00e1 de alumbrar, y la luna se pondr\u00e1 roja, como si estuviera ba\u00f1ada en sangre. \u00bbEsto pasar\u00e1 antes de que llegue el maravilloso d\u00eda en que juzgar\u00e9 a este mundo."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Pero yo salvar\u00e9 a los que me reconozcan como su Dios. Mi templo est\u00e1 en Jerusal\u00e9n, y en esta ciudad vivir\u00e1n los que hayan escapado, junto con mis elegidos."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dios juzgar\u00e1 a las naciones - \u00bbCuando llegue ese d\u00eda, har\u00e9 que los de Jud\u00e1 y de Jerusal\u00e9n vuelvan de las naciones a donde los llevaron prisioneros."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Reunir\u00e9 a todas las naciones en el valle de Josafat, y las declarar\u00e9 culpables por todo lo que le hicieron a mi querido pueblo Israel: lo dispersaron por todas partes, y echando suertes entre ellos se repartieron su territorio; vendieron como esclavos a los ni\u00f1os y a las ni\u00f1as, \u00a1y con ese dinero compraron vino para emborracharse, y les pagaron a las prostitutas!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Reunir\u00e9 a todas las naciones en el valle de Josafat, y las declarar\u00e9 culpables por todo lo que le hicieron a mi querido pueblo Israel: lo dispersaron por todas partes, y echando suertes entre ellos se repartieron su territorio; vendieron como esclavos a los ni\u00f1os y a las ni\u00f1as, \u00a1y con ese dinero compraron vino para emborracharse, y les pagaron a las prostitutas!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bbCiudades de Tiro y de Sid\u00f3n, no les conviene ponerse en mi contra. Y a ustedes, provincias de Filistea, no les conviene desquitarse conmigo, porque yo les dar\u00e9 su merecido m\u00e1s pronto de lo que piensan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ustedes se han robado todo mi oro y toda mi plata; \u00a1mis m\u00e1s ricos tesoros se los llevaron a sus templos!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbUstedes, gente de Tiro y de Sid\u00f3n, se llevaron muy lejos a la gente de Jud\u00e1; a los habitantes de Jerusal\u00e9n los vendieron como esclavos. Pero yo los rescatar\u00e9; los har\u00e9 volver de Grecia, donde ustedes los vendieron. \u00bbAhora yo har\u00e9 con ustedes lo mismo que hicieron con mi pueblo:"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbUstedes, gente de Tiro y de Sid\u00f3n, se llevaron muy lejos a la gente de Jud\u00e1; a los habitantes de Jerusal\u00e9n los vendieron como esclavos. Pero yo los rescatar\u00e9; los har\u00e9 volver de Grecia, donde ustedes los vendieron. \u00bbAhora yo har\u00e9 con ustedes lo mismo que hicieron con mi pueblo:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "vender\u00e9 a sus hijos y a sus hijas al pueblo de Jud\u00e1, para que ellos los revendan a las tribus del desierto. Les juro que as\u00ed lo har\u00e9\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El profeta anuncia el juicio - El profeta Joel les dijo a las naciones vecinas: \u00ab\u00a1Preparen sus ej\u00e9rcitos! \u00a1Prep\u00e1renlos para la batalla! \u00a1Dios les declara la guerra!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00a1Conviertan sus herramientas en armas de guerra! \u00a1Conviertan a los m\u00e1s cobardes en hombres de valor!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bb\u00a1Vengan, naciones vecinas! Re\u00fananse pronto en el valle de Josafat. \u00a1All\u00ed Dios las juzgar\u00e1 y las declarar\u00e1 culpables!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00bb\u00a1Vengan, naciones vecinas! Re\u00fananse pronto en el valle de Josafat. \u00a1All\u00ed Dios las juzgar\u00e1 y las declarar\u00e1 culpables!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dios las cortar\u00e1 como al trigo cuando est\u00e1 listo para la cosecha; las aplastar\u00e1 como a las uvas cuando est\u00e1n listas para hacer vino. \u00a1Ya es demasiada su maldad!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bbMucha gente se ha reunido en el Valle de la Decisi\u00f3n, porque all\u00ed llegar\u00e1 nuestro Dios. \u00a1Cercano est\u00e1 el d\u00eda de su llegada!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Cuando Dios llegue, se oscurecer\u00e1n el sol y la luna, y perder\u00e1n su brillo las estrellas;"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "temblar\u00e1n el cielo y la tierra, y nuestro Dios se enojar\u00e1 y hablar\u00e1 desde Jerusal\u00e9n. Pero proteger\u00e1 a los israelitas y ser\u00e1 un refugio para ellos\u00bb."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Habla Dios - Dios le dijo a su pueblo: \u00abCuando llegue ese d\u00eda, ustedes reconocer\u00e1n que yo soy su Dios. Me quedar\u00e9 a vivir en mi templo, y Jerusal\u00e9n ser\u00e1 mi ciudad preferida. \u00a1Nunca m\u00e1s un ej\u00e9rcito extranjero volver\u00e1 a poner un pie en ella!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00bbCuando llegue ese d\u00eda, en los cerros y en las colinas habr\u00e1 vino y leche en abundancia; y nunca faltar\u00e1 el agua en los arroyos de Jud\u00e1, pues del templo saldr\u00e1 un manantial que regar\u00e1 el valle de Sitim."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00bbA Egipto y a Edom los convertir\u00e9 en un desierto, porque atacaron sin motivo a los habitantes de Jud\u00e1, y en su propio pa\u00eds mataron a gente inocente."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Pero yo vengar\u00e9 su muerte; el culpable no quedar\u00e1 sin castigo. Las ciudades de Jud\u00e1 y de Jerusal\u00e9n ser\u00e1n habitadas todo el tiempo, y yo vivir\u00e9 en mi templo para castigar al culpable y defender al inocente\u00bb."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Pero yo vengar\u00e9 su muerte; el culpable no quedar\u00e1 sin castigo. Las ciudades de Jud\u00e1 y de Jerusal\u00e9n ser\u00e1n habitadas todo el tiempo, y yo vivir\u00e9 en mi templo para castigar al culpable y defender al inocente\u00bb."
+                }
+            }
+        }
+    }
+}

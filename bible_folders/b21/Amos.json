@@ -1,0 +1,636 @@
+{
+    "version": "b21",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Slova Amose, jednoho z tekojsk\u00fdch pastevc\u016f. Dva roky p\u0159ed zem\u011bt\u0159esen\u00edm, za vl\u00e1dy judsk\u00e9ho kr\u00e1le Uzi\u00e1\u0161e a izraelsk\u00e9ho kr\u00e1le Jerobo\u00e1ma, syna Jehoa\u0161ova, m\u011bl vid\u011bn\u00ed o Izraeli."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u0158\u00edkal: Hospodin bude ze Sionu \u0159v\u00e1t, bur\u00e1cet bude z Jeruzal\u00e9ma! Vyprahnou louky past\u00fd\u0159\u016f, uschne i vrchol Karmelu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "U\u017e toho m\u00e1m dost! - Toto prav\u00ed Hospodin: Dama\u0161ek h\u0159e\u0161il trojn\u00e1sob, \u010dty\u0159n\u00e1sob \u2013 u\u017e toho m\u00e1m dost! Za to, \u017ee Gile\u00e1da ml\u00e1tili cepy okovan\u00fdmi,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "se\u0161lu na Chazael\u016fv d\u016fm ohe\u0148, aby pohltil Ben-hadadovy pal\u00e1ce."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Rozl\u00e1mu z\u00e1voru Dama\u0161ku; odstran\u00edm tr\u016fn\u00edc\u00edho v \u00dadol\u00ed h\u0159\u00edchu, t\u0159\u00edmaj\u00edc\u00edho \u017eezlo v Bet-edenu. Aramejsk\u00fd lid bude vyhn\u00e1n do K\u00edru, prav\u00ed Hospodin."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Toto prav\u00ed Hospodin: Gaza h\u0159e\u0161ila trojn\u00e1sob, \u010dty\u0159n\u00e1sob \u2013 u\u017e toho m\u00e1m dost! Za to, \u017ee vyh\u00e1n\u011bli v\u0161echen lid a prod\u00e1vali je Edomsk\u00fdm,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "se\u0161lu na hradby Gazy ohe\u0148, aby pohltil jej\u00ed pal\u00e1ce."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Odstran\u00edm toho, kdo tr\u016fn\u00ed v A\u0161dodu, kdo t\u0159\u00edm\u00e1 \u017eezlo v A\u0161kelonu. Obr\u00e1t\u00edm svou ruku proti Ekronu a zbytky Fili\u0161t\u00edn\u016f zahynou, prav\u00ed Panovn\u00edk Hospodin."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Toto prav\u00ed Hospodin: T\u00fdr h\u0159e\u0161il trojn\u00e1sob, \u010dty\u0159n\u00e1sob \u2013 u\u017e toho m\u00e1m dost! Za to, \u017ee prod\u00e1vali vyhnance Edomsk\u00fdm a na bratrskou smlouvu ani nevzpomn\u011bli,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "se\u0161lu na hradby T\u00fdru ohe\u0148, aby pohltil jeho pal\u00e1ce."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Toto prav\u00ed Hospodin: Edom h\u0159e\u0161il trojn\u00e1sob, \u010dty\u0159n\u00e1sob \u2013 u\u017e toho m\u00e1m dost! Za to, \u017ee bratra st\u00edhal me\u010dem a v\u0161echen soucit potla\u010dil, neust\u00e1le jen soptil hn\u011bvem, d\u00e1l a d\u00e1l ve sv\u00e9m zu\u0159en\u00ed \u2013"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "za to se\u0161lu na Teman ohe\u0148, aby pohltil pal\u00e1ce v Bos\u0159e."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Toto prav\u00ed Hospodin: Amonci h\u0159e\u0161ili trojn\u00e1sob, \u010dty\u0159n\u00e1sob \u2013 u\u017e toho m\u00e1m dost! Za to, \u017ee v Gile\u00e1du rozp\u00e1rali t\u011bhotn\u00e9, aby roz\u0161i\u0159ovali sv\u00e9 hranice,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "zap\u00e1l\u00edm na hradb\u00e1ch Raby ohe\u0148, aby pohltil jej\u00ed pal\u00e1ce uprost\u0159ed v\u0159avy v den boje, uprost\u0159ed bou\u0159e v den vich\u0159ice."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Jejich kr\u00e1l p\u016fjde do vyhnanstv\u00ed a jeho velmo\u017ei spolu s n\u00edm, prav\u00ed Hospodin."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Toto prav\u00ed Hospodin: Mo\u00e1b h\u0159e\u0161il trojn\u00e1sob, \u010dty\u0159n\u00e1sob \u2013 u\u017e toho m\u00e1m dost! Za to, \u017ee kosti edomsk\u00e9ho kr\u00e1le sp\u00e1lili na pr\u00e1\u0161ek,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "se\u0161lu na Mo\u00e1ba ohe\u0148, aby pohltil keriotsk\u00e9 pal\u00e1ce. Mo\u00e1b zahyne uprost\u0159ed v\u0159avy, v\u00e1le\u010dn\u00e9ho k\u0159iku a trouben\u00ed."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Odstran\u00edm z jeho st\u0159edu soudce, v\u0161echny jeho velmo\u017ee pobiji spolu s n\u00edm, prav\u00ed Hospodin."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Toto prav\u00ed Hospodin: Juda h\u0159e\u0161il trojn\u00e1sob, \u010dty\u0159n\u00e1sob \u2013 u\u017e toho m\u00e1m dost! Za to, \u017ee Hospodin\u016fv z\u00e1kon zavrhli a ne\u0159\u00eddili se jeho pravidly, \u017ee se dali sv\u00e9st sv\u00fdmi podvody, za kter\u00fdmi u\u017e jejich p\u0159edci \u0161li,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "za to se\u0161lu na Judu ohe\u0148, aby pohltil jeruzal\u00e9msk\u00e9 pal\u00e1ce."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "H\u0159\u00edch Izraele - Toto prav\u00ed Hospodin: Izrael h\u0159e\u0161il trojn\u00e1sob, \u010dty\u0159n\u00e1sob \u2013 u\u017e toho m\u00e1m dost! Nevinn\u00e9 prod\u00e1vaj\u00ed za pen\u00edz a uboh\u00e9 za dva sand\u00e1ly."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Chud\u00e9 za\u0161lap\u00e1vaj\u00ed do zem\u011b a pon\u00ed\u017een\u00e9 kr\u00e1t\u00ed na pr\u00e1vech. Za nev\u011bstkou chod\u00ed otec i syn, aby m\u00e9 svat\u00e9 jm\u00e9no prznili."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "P\u0159i kdejak\u00e9m olt\u00e1\u0159i se na zabaven\u00fdch pl\u00e1\u0161t\u00edch v\u00e1lej\u00ed a v chr\u00e1m\u011b sv\u00e9ho boha pij\u00ed v\u00edno vybran\u00e9 na pokut\u00e1ch."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "J\u00e1 jsem p\u0159ed nimi Emorejce porazil, a\u010d byli jako cedry vysoc\u00ed a jako duby mohutn\u00ed. Zni\u010dil jsem je shora od koruny a\u017e dol\u016f po ko\u0159eny."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "J\u00e1 jsem v\u00e1s vyvedl z Egypta a \u010dty\u0159icet let po pou\u0161ti vedl v\u00e1s, aby v\u00e1m emorejsk\u00e1 zem\u011b p\u0159ipadla."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Z va\u0161ich syn\u016f jsem probouzel proroky a z va\u0161ich mlad\u00edk\u016f naz\u00edry. Copak to tak nen\u00ed, Izraelci? prav\u00ed Hospodin."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vy jste v\u0161ak naz\u00edry nap\u00e1jeli v\u00ednem, prorok\u016fm jste p\u0159ikazovali: \u201eNeprorokujte!\u201c"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hle, j\u00e1 v\u00e1s k zemi p\u0159itla\u010d\u00edm jako t\u011b\u017ek\u00fd v\u016fz pln\u00fd obil\u00ed."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "B\u011b\u017eec nebude m\u00edt kam ut\u00e9ct, sil\u00e1kovi s\u00edla nezbude, hrdina nezachr\u00e1n\u00ed se."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Neobstoj\u00ed ani lukost\u0159elec, rychlonoh\u00fd posel neunikne, jezdec na koni nezachr\u00e1n\u00ed se."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nejstate\u010dn\u011bj\u0161\u00ed hrdina v ten den bude nah\u00fd ut\u00edkat, prav\u00ed Hospodin."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Z\u00fa\u010dtuji s v\u00e1mi - Sly\u0161te, Izraelci, slovo, je\u017e Hospodin mluv\u00ed proti v\u00e1m \u2013 proti cel\u00e9 t\u00e9 \u010del\u00e1dce, kterou jsem vyvedl z Egypta:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jedin\u011b v\u00e1s jsem vyvolil ze v\u0161ech \u010deled\u00ed na zemi, a proto s v\u00e1mi z\u00fa\u010dtuji za v\u0161echen v\u00e1\u0161 h\u0159\u00edch!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mohou snad j\u00edt dva spole\u010dn\u011b, kdy\u017e nejsou ve shod\u011b?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u0158ve snad v divo\u010din\u011b lev, kdy\u017e nem\u00e1 \u00falovek? Vr\u010d\u00ed snad ve sv\u00e9m doup\u011bti, kdy\u017e ko\u0159ist nelapil?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Padne snad do pasti na zem pt\u00e1k, kdy\u017e chyb\u00ed n\u00e1vnada? Sklapne snad n\u011bkdy past, ani\u017e by ko\u0159ist lapila?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kdy\u017e se ve m\u011bst\u011b troub\u00ed na poplach, copak lid nem\u00e1 strach? Kdy\u017e se ve m\u011bst\u011b stane ne\u0161t\u011bst\u00ed, copak to nedopustil Hospodin?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jist\u011b! Panovn\u00edk Hospodin nep\u016fsob\u00ed nic, ani\u017e sd\u00edl\u00ed sv\u00e9 tajemstv\u00ed se sv\u00fdmi slu\u017eebn\u00edky, proroky."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Lev \u0159ve, kdo by se neb\u00e1l? Panovn\u00edk Hospodin mluv\u00ed, kdo by neprorokoval?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Na pal\u00e1c\u00edch v A\u0161dodu zvolejte, vyhlaste na pal\u00e1c\u00edch v Egypt\u011b: Shrom\u00e1\u017ed\u011bte se na hory Sama\u0159\u00ed \u2013 jen se pod\u00edvejte na ten zmatek, na to vyko\u0159is\u0165ov\u00e1n\u00ed!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jednat spr\u00e1vn\u011b jsou neschopn\u00ed, prav\u00ed Hospodin. To, co hromad\u00ed ve sv\u00fdch pal\u00e1c\u00edch, z\u00edskali n\u00e1sil\u00edm a loupe\u017e\u00ed!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nu\u017ee, toto prav\u00ed Panovn\u00edk Hospodin: Tuto zem obkl\u00ed\u010d\u00ed protivn\u00edk, strhne tv\u00e9 pevnosti a tv\u00e9 pal\u00e1ce vyplen\u00ed."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Toto prav\u00ed Hospodin: Jako kdy\u017e past\u00fd\u0159 vyrve z tlamy lva jen dv\u011b nohy anebo kus ucha, tak budou vyrv\u00e1ni Izraelci, kte\u0159\u00ed si hov\u00ed na divanech v Sama\u0159\u00ed, na dama\u0161kov\u00fdch pol\u0161t\u00e1\u0159\u00edch."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sly\u0161te to a varujte d\u016fm J\u00e1kob\u016fv, prav\u00ed Panovn\u00edk Hospodin, B\u016fh z\u00e1stup\u016f:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "V den, kdy s Izraelem z\u00fa\u010dtuji za jeho vzbou\u0159en\u00ed, z\u00fa\u010dtuji tak\u00e9 s betelsk\u00fdmi olt\u00e1\u0159i: Rohy olt\u00e1\u0159e budou odsek\u00e1ny a popadaj\u00ed k zemi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ude\u0159\u00edm na zimn\u00ed d\u016fm tak jako na letn\u00ed a z\u0159\u00edt\u00ed se domy ze slonoviny; ty skv\u011bl\u00e9 domy vymiz\u00ed, prav\u00ed Hospodin."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nevr\u00e1tili jste se - Vy, b\u00e1\u0161ansk\u00e9 kr\u00e1vy, tohle posly\u0161te, vy, je\u017e se na sama\u0159sk\u00e9 ho\u0159e pasete, vy, kter\u00e9 utiskujete uboh\u00e9, vy, kter\u00e9 chud\u00e9 drt\u00edte a man\u017eel\u016fm \u0159\u00edk\u00e1te: \u201eP\u0159ines, a\u0165 pijeme!\u201c"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Panovn\u00edk Hospodin p\u0159\u00edsah\u00e1 p\u0159i sv\u00e9 svatosti: Hle, p\u0159ijdou na v\u00e1s dny, kdy v\u00e1s pot\u00e1hnou na h\u00e1c\u00edch a va\u0161e d\u011bti na udic\u00edch!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jednu za druhou v\u00e1s odvedou skrz hradbu zbo\u0159enou a k Harmonu v\u00e1s po\u017eenou, prav\u00ed Hospodin."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jd\u011bte si do Bet-elu zah\u0159e\u0161it, v Gilgalu h\u0159e\u0161te je\u0161t\u011b v\u00edc! R\u00e1no co r\u00e1no p\u0159in\u00e1\u0161ejte ob\u011bti a ka\u017ed\u00e9 t\u0159i dny des\u00e1tky."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Palte kva\u0161en\u00e9 chleby jako ob\u011b\u0165 vd\u011b\u010dnosti a hlu\u010dn\u011b pok\u0159ikujte o sv\u00e9 \u0161t\u011bdrosti \u2013 tak to p\u0159ece m\u00e1te, Izraelci, r\u00e1di, prav\u00ed Panovn\u00edk Hospodin."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ve v\u0161ech va\u0161ich m\u011bstech jsem zp\u016fsobil, \u017ee jste co do \u00fast nem\u011bli; ve v\u0161ech va\u0161ich vesnic\u00edch byl nedostatek potravy. A p\u0159esto jste se ke mn\u011b nevr\u00e1tili, prav\u00ed Hospodin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Odep\u0159el jsem v\u00e1m tak\u00e9 d\u00e9\u0161\u0165, kdy\u017e do \u017en\u011b zb\u00fdvaly t\u0159i m\u011bs\u00edce. Jedno m\u011bsto jsem skr\u00e1p\u011bl de\u0161t\u011bm, druh\u00e9mu jsem jej v\u0161ak odep\u0159el; jeden d\u00edl zem\u011b byl zavla\u017een, druh\u00fd v\u0161ak uschl bez de\u0161t\u011b."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ze dvou t\u0159\u00ed m\u011bst se k dal\u0161\u00edmu plaho\u010dili, aby se vody napili, uhasit \u017e\u00edze\u0148 ale nemohli. A p\u0159esto jste se ke mn\u011b nevr\u00e1tili, prav\u00ed Hospodin."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Va\u0161e zahrady a vinice jsem bil znovu a znovu pl\u00edsn\u00ed a sn\u011bt\u00ed; va\u0161e f\u00edky a olivy \u017eraly housenky. A p\u0159esto jste se ke mn\u011b nevr\u00e1tili, prav\u00ed Hospodin."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Poslal jsem na v\u00e1s mor jako na Egypt, va\u0161e mlad\u00edky jsem me\u010dem bil, va\u0161e kon\u011b byli zajati, va\u0161e t\u00e1bory jsem puchem naplnil. A p\u0159esto jste se ke mn\u011b nevr\u00e1tili, prav\u00ed Hospodin."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "J\u00e1 B\u016fh jsem mezi v\u00e1mi p\u016fsobil zk\u00e1zu, jako kdy\u017e jsem rozvr\u00e1til Sodomu a Gomoru; byli jste jako oharek vyrvan\u00fd z plamen\u016f. A p\u0159esto jste se ke mn\u011b nevr\u00e1tili, prav\u00ed Hospodin."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tak tedy s tebou, Izraeli, nalo\u017e\u00edm, a proto\u017ee tak s tebou nalo\u017e\u00edm, p\u0159iprav se, Izraeli, setkat s Bohem sv\u00fdm!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hle \u2013 tv\u016frce hor a stvo\u0159itel v\u011btru, jen\u017e oznamuje \u010dlov\u011bku sv\u00e9 my\u0161lenky, ten, kter\u00fd tvo\u0159\u00ed sv\u00edt\u00e1n\u00ed i tmu a p\u0159ekra\u010duje zemsk\u00e9 v\u00fd\u0161iny, v m\u00e1 jm\u00e9no Hospodin, B\u016fh z\u00e1stup\u016f."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Panna izraelsk\u00e1 padne - Sly\u0161te slovo, je\u017e pron\u00e1\u0161\u00edm nad v\u00e1mi \u2013 \u017ealozp\u011bv nad domem Izraele:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Panna izraelsk\u00e1 padne a v\u00edckr\u00e1t nevstane. Opu\u0161t\u011bna bude v zemi sv\u00e9, nikdo ji nezvedne."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Toto prav\u00ed Panovn\u00edk Hospodin domu Izraele: M\u011bstu, je\u017e vyt\u00e1hne s tis\u00edcem, jen sto jich z\u016fstane a tomu, je\u017e se stem vyt\u00e1hne, z\u016fstane jen deset."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Toto prav\u00ed Hospodin domu Izraele: Hledejte mne, a\u0165 \u017eijete!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nehledejte Bet-el, do Gilgalu necho\u010fte, do Beer-\u0161eby neputujte. Gilgal toti\u017e bude vys\u00eddlen a z Bet-elu nic nezbude."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hledejte Hospodina, a\u0165 \u017eijete! A\u0165 se na d\u016fm Josef\u016fv nevrhne jak ohe\u0148, kter\u00fd stravuje, kter\u00fd nikdo v Bet-elu uhasit nem\u016f\u017ee!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vy ale obrac\u00edte pr\u00e1vo v pelyn\u011bk a spravedlnost k zemi sr\u00e1\u017e\u00edte."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ten, kter\u00fd stvo\u0159il Plej\u00e1dy a Orion, kter\u00fd obrac\u00ed st\u00edn smrti na jitro a den pak zase stm\u00edv\u00e1 v noc, ten, kter\u00fd p\u0159ivol\u00e1v\u00e1 mo\u0159sk\u00e9 vody a vyl\u00e9v\u00e1 je na zemi, m\u00e1 jm\u00e9no Hospodin."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Do zk\u00e1zy um\u00ed vrhnout mocn\u00e9ho, z\u00e1huba p\u0159ijde i na pevnost!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vy ale nen\u00e1vid\u00edte toho, kdo soud\u00ed v br\u00e1n\u011b, \u0161t\u00edt\u00edte se toho, kdo mluv\u00ed pravdiv\u011b."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Proto\u017ee dupete po chud\u00e1c\u00edch a nut\u00edte je odv\u00e1d\u011bt dan\u011b z obil\u00ed, nebudete bydlet v t\u011bch sv\u00fdch pal\u00e1c\u00edch, kter\u00e9 jste si postavili z kamen\u00ed; z t\u011bch v\u00fdte\u010dn\u00fdch vinic, co jste s\u00e1zeli, nebudete moci v\u00edno p\u00edt."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jen j\u00e1 v\u00edm, kolik je va\u0161ich vin a jak hrozn\u00fd je v\u00e1\u0161 h\u0159\u00edch. Nevinn\u00e9 su\u017eujete, berete \u00faplatek, uboh\u00e9 v br\u00e1n\u011b kr\u00e1t\u00edte na pr\u00e1vech."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Rozumn\u00fd bude v t\u00e9 dob\u011b ml\u010det \u2013 ty \u010dasy budou zl\u00e9."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hledejte dobr\u00e9, a ne zl\u00e9, a\u0165 \u017eijete! Hospodin, B\u016fh z\u00e1stup\u016f, pak s v\u00e1mi bude, jak \u0159\u00edk\u00e1te."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Zlo nen\u00e1vi\u010fte a dobro milujte, u soudu v br\u00e1n\u011b pr\u00e1vo podpo\u0159te \u2013 snad se Hospodin, B\u016fh z\u00e1stup\u016f, smiluje nad t\u00edm, co z Josefa z\u016fstane."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nu\u017ee, toto prav\u00ed Panovn\u00edk Hospodin, B\u016fh z\u00e1stup\u016f: N\u00e1\u0159ek bude zn\u00edt na v\u0161ech prostranstv\u00edch, \u201eAch, b\u011bda!\u201c bude sly\u0161et na v\u0161ech ulic\u00edch. Roln\u00edky povolaj\u00ed k oplak\u00e1v\u00e1n\u00ed a znalce \u017ealozp\u011bv\u016f k truchlen\u00ed."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "N\u00e1\u0159ek bude zn\u00edt na v\u0161ech vinic\u00edch, a\u017e projdu mezi v\u00e1mi, prav\u00ed Hospodin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Nen\u00e1vid\u00edm va\u0161e sv\u00e1tky - B\u011bda t\u011bm, kte\u0159\u00ed tou\u017e\u00ed po Hospodinov\u011b dni! K \u010demu v\u00e1m bude Hospodin\u016fv den? P\u0159ijde s tmou, a ne se sv\u011btlem!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Jako by n\u011bkdo ut\u00edkal p\u0159ed lvem a potkal by se s medv\u011bdem; jako by se doma op\u0159el rukou o ze\u010f a byl by u\u0161tknut hadem."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hospodin\u016fv den nep\u0159inese sv\u011btlo, ale tmu, \u010dernotu bez jedin\u00e9ho paprsku!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Nen\u00e1vid\u00edm va\u0161e sv\u00e1tky, jsou mi odporn\u00e9, va\u0161e shrom\u00e1\u017ed\u011bn\u00ed nemohu vydr\u017eet!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kdy\u017e mi p\u0159in\u00e1\u0161\u00edte z\u00e1paln\u00e9 a mou\u010dn\u00e9 ob\u011bti, mn\u011b se to nel\u00edb\u00ed. Na pokojn\u00e9 ob\u011bti z va\u0161ich dobyt\u010dat se nechci ani pod\u00edvat."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "S r\u00e1musem sv\u00fdch p\u00edsn\u00ed m\u011b nechte b\u00fdt, nechci poslouchat va\u0161e hran\u00ed na loutny!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "A\u0165 se val\u00ed pr\u00e1vo jako mocn\u00e1 \u0159eka, spravedlnost jako proud, jen\u017e nevysych\u00e1!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "P\u0159in\u00e1\u0161eli jste mi ob\u011bti a dary t\u011bch \u010dty\u0159icet let na pou\u0161ti, dome izraelsk\u00fd?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Nosili jste sv\u00e9ho \u201ekr\u00e1le\u201c Sak\u00fata a hv\u011bzdu sv\u00e9ho \u201eboha\u201c Saturna \u2013 obrazy, je\u017e jste si museli sami ud\u011blat?"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Proto v\u00e1s vyst\u011bhuji a\u017e za Dama\u0161ek, prav\u00ed Hospodin, B\u016fh z\u00e1stup\u016f \u2013 tak se jmenuje."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bude konec hostin\u00e1m - B\u011bda t\u011bm, kdo maj\u00ed na Sionu klid, b\u011bda sebejist\u00fdm na ho\u0159e Sama\u0159\u00ed! M\u00e1te se za v\u00fdkv\u011bt prvn\u00edho mezi n\u00e1rody, cel\u00fd d\u016fm Izraele chod\u00ed za v\u00e1mi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Na Kalne se jd\u011bte pod\u00edvat a odtud na Velik\u00fd Cham\u00e1t a pak dol\u016f na fili\u0161t\u00ednsk\u00fd Gat. Jste lep\u0161\u00ed ne\u017e tato kr\u00e1lovstv\u00ed? Maj\u00ed snad v\u011bt\u0161\u00ed \u00fazem\u00ed ne\u017e vy?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Zl\u00fd den byste cht\u011bli odvr\u00e1tit, nastolujete v\u0161ak n\u00e1sil\u00ed."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vyleh\u00e1v\u00e1te na l\u016f\u017ek\u00e1ch slonov\u00fdch, povalujete se na sv\u00fdch pol\u0161t\u00e1\u0159\u00edch. Cpete se v\u00fdb\u011brov\u00fdm skopov\u00fdm a nej\u0161\u0165avnat\u011bj\u0161\u00edm telec\u00edm."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vyjete u loutny, jako byste byli David, loud\u00edte t\u00f3ny na hudebn\u00edch n\u00e1stroj\u00edch."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pijete v\u00edno pln\u00fdmi miskami, ma\u017eete se nejjemn\u011bj\u0161\u00edmi oleji a zk\u00e1za Josefa v\u00e1s v\u016fbec netr\u00e1p\u00ed."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Proto budete vyhn\u00e1ni mezi prvn\u00edmi, bude konec va\u0161im hostin\u00e1m i v\u00e1len\u00ed!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "J\u00e1kobova p\u00fdcha - Panovn\u00edk Hospodin p\u0159\u00edsah\u00e1 s\u00e1m p\u0159i sob\u011b \u2013 Hospodin, B\u016fh z\u00e1stup\u016f, prohla\u0161uje: Z J\u00e1kobovy p\u00fdchy se mi d\u011bl\u00e1 \u0161patn\u011b, jeho pal\u00e1ce jsou mi odporn\u00e9. Proto to m\u011bsto vyd\u00e1m v plen i se v\u0161\u00edm, co je v n\u011bm!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Zbude-li v jedin\u00e9m dom\u011b jen deset lid\u00ed, zem\u0159ou i ti."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "P\u0159ijde-li p\u0159\u00edbuzn\u00fd, aby vynesl a sp\u00e1lil jejich ostatky, a najde n\u011bkoho, kdo se tam v koutku skryl, zept\u00e1 se: \u201eJe s tebou je\u0161t\u011b n\u011bkdo?\u201c \u201eNikdo,\u201c hlesne on. A tehdy \u0159ekne: \u201eTi\u0161e! A\u0165 ani nezm\u00edn\u00edme Hospodinovo jm\u00e9no!\u201c"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hle, Hospodin d\u00e1v\u00e1 rozkazy \u2013 rozbije velik\u00fd d\u016fm na kusy a mal\u00fd domek na t\u0159\u00edsky!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dok\u00e1\u017eou kon\u011b b\u011b\u017eet po sk\u00e1le? D\u00e1 se snad s voly orat mo\u0159e? Vy jste v\u0161ak dok\u00e1zali obr\u00e1tit pr\u00e1vo v jed a ovoce spravedlnosti v pelyn\u011bk \u2013"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "vy, kdo j\u00e1s\u00e1te radost\u00ed nad Lo-debarem nicotn\u00fdm a \u0159\u00edk\u00e1te: \u201eNedobyli jsme sv\u00fdmi silami ten mocn\u00fd Karnajim?\u201c"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hle, dome Izraele, jsem to j\u00e1, prav\u00ed Hospodin, B\u016fh z\u00e1stup\u016f, kdo vzbud\u00ed proti v\u00e1m n\u00e1rod, kter\u00fd v\u00e1s bude utla\u010dovat od Lebo-cham\u00e1tu a\u017e po \u00fadol\u00ed Arava!"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u00edckr\u00e1t je neu\u0161et\u0159\u00edm - Panovn\u00edk Hospodin mi uk\u00e1zal toto: Kdy\u017e skon\u010dila senose\u010d pro kr\u00e1le a tr\u00e1va za\u010d\u00ednala r\u016fst k pozdn\u00edmu se\u010den\u00ed, hle \u2013 nachystal roje kobylek!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kdy\u017e se\u017eraly ve\u0161kerou zele\u0148 na zemi, \u0159ekl jsem: \u201eHospodine, Pane m\u016fj, pros\u00edm odpus\u0165! Jak to J\u00e1kob vydr\u017e\u00ed? V\u017edy\u0165 je tak mali\u010dk\u00fd!\u201c"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A Hospodin byl pohnut l\u00edtost\u00ed. \u201eNestane se to,\u201c \u0159ekl Hospodin."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Panovn\u00edk Hospodin mi uk\u00e1zal toto: Hle \u2013 Panovn\u00edk Hospodin volal, \u017ee povede soud ohn\u011bm! Kdy\u017e str\u00e1vil \u0161ir\u00fd oce\u00e1n a m\u011bl pohltit i zem,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u0159ekl jsem: \u201ePanovn\u00edku Hospodine, pros\u00edm p\u0159esta\u0148! Jak to J\u00e1kob vydr\u017e\u00ed? V\u017edy\u0165 je tak mali\u010dk\u00fd!\u201c"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A Hospodin byl pohnut l\u00edtost\u00ed. \u201eNestane se ani toto,\u201c \u0159ekl Panovn\u00edk Hospodin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Potom mi uk\u00e1zal toto: P\u00e1n st\u00e1l na hradb\u011b s olovnic\u00ed, s olovnic\u00ed v ruce."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u201eCo vid\u00ed\u0161, Amosi?\u201c zeptal se m\u011b Hospodin. \u201eOlovnici,\u201c odpov\u011bd\u011bl jsem. Tehdy mi P\u00e1n \u0159ekl: \u201eHle, spou\u0161t\u00edm olovnici doprost\u0159ed sv\u00e9ho lidu, Izraele. V\u00edckr\u00e1t u\u017e je neu\u0161et\u0159\u00edm."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Iz\u00e1kovy ob\u011btn\u00ed v\u00fd\u0161iny budou zni\u010deny, z izraelsk\u00fdch svatyn\u00ed budou sutiny, a\u017e s me\u010dem povstanu proti Jerobo\u00e1movu domu!\u201c"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Izrael bude vyhn\u00e1n - Betelsk\u00fd kn\u011bz Amaci\u00e1\u0161 tehdy vzk\u00e1zal izraelsk\u00e9mu kr\u00e1li Jerobo\u00e1movi: \u201eAmos proti tob\u011b osnuje spiknut\u00ed v sam\u00e9m srdci Izraele. Zem\u011b nem\u016f\u017ee v\u0161echny ty jeho \u0159e\u010di sn\u00e9st."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Amos toti\u017e \u0159\u00edk\u00e1: \u201aJerobo\u00e1m zahyne me\u010dem! Izrael bude vyhn\u00e1n ze zem\u011b!\u2018\u201c"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Potom Amaci\u00e1\u0161 \u0159ekl Amosovi: \u201eSeber se, vidouc\u00ed, a ut\u00edkej do Judska! Tam si vyd\u011bl\u00e1vej na chleba, prorokuj si tam."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "V Bet-elu u\u017e ale v\u00edckr\u00e1t neprorokuj \u2013 v\u017edy\u0165 je to kr\u00e1lova svatyn\u011b, je to chr\u00e1m kr\u00e1lovstv\u00ed!\u201c"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Amos na to Amaci\u00e1\u0161ovi odpov\u011bd\u011bl: \u201eNeb\u00fdval jsem prorok ani prorock\u00fd u\u010dedn\u00edk \u2013 choval jsem dobytek a p\u011bstoval f\u00edky."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hospodin m\u011b ale vzal od ovc\u00ed a \u0159ekl mi: \u201aJdi, prorokuj m\u00e9mu lidu, Izraeli.\u2018"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Proto te\u010f sly\u0161 slovo Hospodinovo. Ty \u0159\u00edk\u00e1\u0161: \u201aNeprorokuj o Izraeli, o domu Iz\u00e1kovu ne\u0159e\u010dni!\u2018"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nu\u017ee, toto prav\u00ed Hospodin: Tv\u00e1 \u017eena bude smilnit ve m\u011bst\u011b a tv\u00ed synov\u00e9 i dcery padnou me\u010dem. Tv\u00e1 zem\u011b bude rozm\u011b\u0159ena provazcem a ty zem\u0159e\u0161 v zemi ne\u010dist\u00e9. Izrael mus\u00ed b\u00fdt jistojist\u011b ze sv\u00e9 zem\u011b vys\u00eddlen!\u201c"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Zral\u00ed pro konec - Panovn\u00edk Hospodin mi uk\u00e1zal toto: Hle \u2013 ko\u0161 zral\u00e9ho ovoce!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201eCo vid\u00ed\u0161, Amosi?\u201c zeptal se m\u011b. \u201eKo\u0161 zral\u00e9ho ovoce,\u201c odpov\u011bd\u011bl jsem. Tehdy mi Hospodin \u0159ekl: \u201eM\u016fj lid Izrael je zral\u00fd pro konec! V\u00edckr\u00e1t u\u017e je neu\u0161et\u0159\u00edm."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "V ten den se chr\u00e1mov\u00e9 zp\u011bvy obr\u00e1t\u00ed v kv\u00edlen\u00ed, prav\u00ed Panovn\u00edk Hospodin. V\u0161ude spousta rozh\u00e1zen\u00fdch mrtvol! V\u0161ude ticho.\u201c"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sly\u0161te, vy, kdo \u0161lapete po chud\u00e1c\u00edch, vy, kdo ni\u010d\u00edte ubo\u017e\u00e1ky na zemi,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "se slovy: \u201eKdy u\u017e skon\u010d\u00ed sv\u00e1tek novolun\u00ed, abychom prod\u00e1vali obil\u00ed? Kdy u\u017e skon\u010d\u00ed den sobotn\u00ed, abychom zrn\u00ed nab\u00eddli, abychom z m\u00edry ubrali a k cen\u011b p\u0159idali, abychom \u0161idili fale\u0161n\u00fdmi v\u00e1hami,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "abychom si nuzn\u00e9 koupili za pen\u00edz a uboh\u00e9 za dva sand\u00e1ly, abychom m\u00edsto zrn\u00ed prod\u00e1vali otruby?\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hospodin p\u0159\u00edsah\u00e1 p\u0159i P\u00fd\u0161e J\u00e1kobov\u011b: \u201eNikdy nezapomenu na \u017e\u00e1dn\u00fd jejich skutek.\u201c"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Copak se kv\u016fli tomu neot\u0159ese zem\u011b, ned\u00e1 se ka\u017ed\u00fd jej\u00ed obyvatel do pl\u00e1\u010de? Jako Nil se cel\u00e1 rozlije, vzedme se a zase opadne jako ta \u0159eka v Egypt\u011b!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "V ten den, prav\u00ed Panovn\u00edk Hospodin, nech\u00e1m slunce zaj\u00edt v poledne a zatemn\u00edm zemi vprost\u0159ed dne."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Va\u0161e slavnosti obr\u00e1t\u00edm v truchlen\u00ed a v\u0161echny va\u0161e p\u00edsn\u011b v kv\u00edlen\u00ed. V\u0161echny v\u00e1s oble\u010du do pytloviny a v\u0161echny hlavy budou oholeny. Nech\u00e1m zem truchlit jako nad jednorozen\u00fdm \u2013 jej\u00ed posledn\u00ed den bude nejtrp\u010d\u00ed!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hle, p\u0159ich\u00e1zej\u00ed dny, prav\u00ed Panovn\u00edk Hospodin, dy na zem po\u0161lu hlad \u2013 ne hlad po chlebu ani \u017e\u00edze\u0148 po vod\u011b, ale po sly\u0161en\u00ed Hospodinov\u00fdch slov."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Od mo\u0159e k mo\u0159i se budou plaho\u010dit a od severu bloudit na v\u00fdchod, aby hledali Hospodinovo slovo, ale nenajdou."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "V ten den budou omdl\u00e9vat \u017e\u00edzn\u00ed kr\u00e1sn\u00e9 panny i statn\u00ed mlad\u00edci \u2013"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "ti, kte\u0159\u00ed p\u0159\u00edsahaj\u00ed na h\u0159\u00edch Sama\u0159\u00ed. Pr\u00fd: \u201eJako\u017ee je tv\u016fj B\u016fh, Dane, \u017eiv! Jako\u017ee \u017eije pou\u0165 do Beer-\u0161eby!\u201c \u2013 takov\u00ed padnou, aby u\u017e nevstali."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nikdo neunikne - Spat\u0159il jsem P\u00e1na, jak stoj\u00ed nad olt\u00e1\u0159em a \u0159\u00edk\u00e1: \u201eUde\u0159 ty sloupy do hlavic, a\u0165 se zachv\u011bj\u00ed z\u00e1klady! Strhni je jim v\u0161em na hlavy. Ty, kdo p\u0159e\u017eij\u00ed, me\u010dem pobiji! Neute\u010de ani jeden z nich, neunikne mi ani jedin\u00fd!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I kdyby se zakopali do pekla, m\u00e1 ruka by je odtud vyt\u00e1hla. Kdyby snad vystoupili do nebe, i odtud strhnu je."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kdyby se ukryli na vr\u0161ku Karmelu, najdu je a odtud p\u0159ivedu. Kdyby se mi schovali na mo\u0159sk\u00e9m dn\u011b, p\u0159ik\u00e1\u017eu hadu, a\u0165 je odtud vy\u0161t\u00edpe."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kdyby je nep\u0159\u00e1tel\u00e9 do zajet\u00ed zahnali, p\u0159ik\u00e1\u017eu me\u010di, aby je tam vyhubil. Spo\u010dinu na nich sv\u00fdm pohledem \u2013 av\u0161ak ne v dobr\u00e9m, ale ve zl\u00e9m!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Panovn\u00edk, Hospodin z\u00e1stup\u016f, se dotkne zem\u011b a ta se rozt\u0159ese, v\u0161ichni jej\u00ed obyvatel\u00e9 se daj\u00ed do pl\u00e1\u010de. Jako Nil se cel\u00e1 rozlije a zase opadne jako ta \u0159eka v Egypt\u011b."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ten, kter\u00fd si stav\u00ed v nebi komnaty a svoji klenbu zalo\u017eil na zemi, ten, kter\u00fd p\u0159ivol\u00e1v\u00e1 mo\u0159sk\u00e9 vody a vyl\u00e9v\u00e1 je na zemi, m\u00e1 jm\u00e9no Hospodin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Copak nejste, Izraelci, pro m\u011b stejn\u00ed jako Habe\u0161an\u00e9? prav\u00ed Hospodin. Copak jsem Izrael nevyvedl z Egypta stejn\u011b jako Fili\u0161t\u00edny z Kaftoru a Aramejce z K\u00edru?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hle, o\u010di Panovn\u00edka Hospodina utkv\u011bly na tomto h\u0159\u00ed\u0161n\u00e9m kr\u00e1lovstv\u00ed! Vyhlad\u00edm d\u016fm J\u00e1kob\u016fv ze zem\u011b, nevyhlad\u00edm je v\u0161ak \u00fapln\u011b, prav\u00ed Hospodin."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hle, u\u017e d\u00e1v\u00e1m rozkazy! Budu p\u0159es\u00edvat d\u016fm Izraele p\u0159es v\u0161echny n\u00e1rody, tak jako se p\u0159es\u00edv\u00e1 s\u00edtem, aby nepropadly \u017e\u00e1dn\u00e9 kam\u00ednky."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Stejn\u011b tak zahynou me\u010dem v m\u00e9m lidu v\u0161ichni h\u0159\u00ed\u0161n\u00edci, kte\u0159\u00ed \u0159\u00edkaj\u00ed: \u201eN\u00e1m se nic nestane. Nepotk\u00e1 n\u00e1s \u017e\u00e1dn\u00e9 ne\u0161t\u011bst\u00ed!\u201c"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Obnov\u00edm sv\u016fj lid - Toho dne obnov\u00edm zbo\u0159en\u00fd stan David\u016fv. Oprav\u00edm jeho trhliny a jeho trosky obnov\u00edm \u2013 vzty\u010d\u00edm jej jako za d\u00e1vn\u00fdch dn\u016f."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tehdy jim p\u0159ipadne zbytek Edomu i v\u0161echny n\u00e1rody m\u00e9 jm\u00e9no nesouc\u00ed, prav\u00ed Hospodin, kter\u00fd to zp\u016fsob\u00ed."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hle, p\u0159ich\u00e1zej\u00ed dny, prav\u00ed Hospodin, kdy \u017eence do\u017eene or\u00e1\u010d a toho, kdo \u0161lape hrozny, rozs\u00e9va\u010d. Hory budou tehdy v\u00ednem opl\u00fdvat a v\u0161echny kopce p\u0159\u00edmo p\u0159et\u00e9kat."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Sv\u016fj lid Izrael p\u0159ivedu zp\u011bt ze zajet\u00ed. Vystav\u011bj\u00ed m\u011bsta, je\u017e museli opustit, a budou v nich znovu \u017e\u00edt. Budou s\u00e1zet vinice a jejich v\u00edno p\u00edt, zakl\u00e1dat zahrady a ovoce z nich j\u00edst."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Zasad\u00edm je v jejich zemi, kterou jsem dal jim, a z t\u00e9 zem\u011b nebudou u\u017e nikdy vyrv\u00e1ni, prav\u00ed Hospodin, tv\u016fj B\u016fh."
+                }
+            }
+        }
+    }
+}

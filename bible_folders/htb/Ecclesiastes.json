@@ -1,0 +1,955 @@
+{
+    "version": "htb",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wijsheid heeft niets te betekenen - De schrijver van dit boek wordt Prediker genoemd. Hij is koning in Jeruzalem en zoon van David."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Naar mijn mening is niets van blijvende waarde, alles is zinloos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Want wat bereikt een mens met al zijn harde werken hier op aarde?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Generaties gaan en generaties komen, maar er verandert niets wezenlijks."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De zon komt op en gaat onder en haast zich rond de aarde om opnieuw op te gaan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De wind blaast vanuit het zuiden en het noorden, hier en daar, steeds wisselend van kracht en richting, zonder ooit een doel te bereiken."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De rivieren monden uit in de zee, maar de zee raakt nooit vol. Het water keert weer terug naar de rivieren en vloeit weer naar de zee."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Alles is onuitsprekelijk vermoeiend. Hoeveel wij ook zien, het is nooit genoeg. Hoeveel wij ook horen, tevreden zijn wij nooit."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "De geschiedenis herhaalt zich steeds weer. Niets is werkelijk nieuw,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "alles is al eens gezegd of gedaan. Kunt u iets nieuws aanwijzen? Hoe weet u of het eeuwen geleden ook al niet bestond?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wij kunnen niet meer achterhalen wat in vroeger tijden gebeurde en toekomstige generaties zullen zich niet meer herinneren wat wij in onze tijd hebben gedaan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ik, Prediker, was koning van Isra\u00ebl en regeerde vanuit Jeruzalem."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ik nam mij voor de zin van alles wat onder de hemel gebeurde, te willen begrijpen. Dat is een vermoeiende bezigheid die God de mens heeft gegeven om hem nederig te maken."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Alle arbeid is een opeenvolging van zinloosheid, het bouwen van luchtkastelen."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Wat verkeerd is, kan niet worden goedgepraat en wat niet bestaat, kan niet worden onderzocht, het heeft geen enkel nut na te denken over wat had kunnen gebeuren."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ik zei tegen mijzelf: \u2018Kijk, ik heb meer onderzocht dan welke andere koning ook die voor mij in Jeruzalem regeerde. Ik ben wijzer en heb meer inzicht.\u2019"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Daarom deed ik mijn uiterste best wijs te zijn in plaats van dwaas, maar nu realiseer ik mij dat zelfs d\u00e1t een luchtkasteel is."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Want hoe wijzer ik werd, des te bezorgder werd ik. Hoe meer iemand weet, des te meer verdriet hij heeft."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Werk en levensvreugde betekenen niets - Ik zei tegen mijzelf: \u2018Vooruit, geniet van het leven en vermaak je zo goed mogelijk.\u2019 Maar ik merkte dat ook dat zinloos was."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Want het is dwaas om de hele tijd te lachen. Plezier maken heeft immers geen enkel nut."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Daarom besloot ik, na lang nadenken, voldoening te zoeken in het drinken van veel wijn. Ondertussen bleef ik mijn doel, het zoeken naar wijsheid, scherp voor ogen houden. Ik probeerde het met die dwaasheid om er zo achter te komen wat voor de meeste mensen het enige geluk in hun leven betekent."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Daarna probeerde ik bevrediging te vinden in het uitvoeren van grootse dingen, zoals het bouwen van huizen en aanleggen van wijngaarden,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "tuinen, parken en boomgaarden voor mijzelf"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "en de waterreservoirs die nodig waren om alle aangeplante gewassen van water te voorzien."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Daarna kocht ik slaven en slavinnen en ook hun kinderen werden mijn slaven. Ik fokte grote kuddes vee, meer dan een koning v\u00f3\u00f3r mij ooit had bezeten."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ik verzamelde zilver en goud door belastingen te heffen van vele koningen en gebieden. Ik liet zangers en zangeressen optreden en genoot het gezelschap van veel vrouwen."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ik werd machtiger en rijker dan enige andere koning v\u00f3\u00f3r mij in Jeruzalem, maar bij dat alles bleef ik mijn wijsheid houden."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ik nam alles wat ik wilde en ontzegde mijzelf geen enkel plezier. Ik merkte zelfs dat hard werken mij goed deed. Het plezier dat ik daarin had, was dan ook de enige beloning die ik voor al mijn inspanningen kreeg."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Toen ik terugkeek op alles wat ik had ondernomen, leek het mij echter allemaal nutteloos. Het was weer een najagen van dromen en nergens was iets werkelijk waardevols te vinden."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Toen begon ik de wijsheid en de dwaasheid met elkaar te vergelijken. Wat doet de nieuwe koning met het werk van zijn voorganger?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wel heb ik gezien dat wijsheid waardevoller is dan dwaasheid, net zoals het licht beter is dan de duisternis,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "want een wijze ziet wat hij doet, maar een dwaas dwaalt in het donker. Maar tegelijk merkte ik dat er \u00e9\u00e9n ding was dat zowel de wijze als de dwaas overkwam:"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "ik sterf net zo goed als de dwaas. Welke waarde heeft mijn wijsheid dan? Zo kwam ik erachter dat zelfs de wijsheid slechts betrekkelijke waarde heeft."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Want de wijze en de dwaas sterven allebei en in de toekomst worden beiden vergeten."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Daarom heb ik een hekel gekregen aan het leven: al het werk op aarde stond mij tegen. Alles schijnt nutteloos, dwaas en het najagen van dromen te zijn."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ik kreeg een gevoel van afkeer toen ik bedacht dat ik alle vruchten van mijn harde werken aan anderen moest nalaten."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Want wie kan mij vertellen of mijn zoon een wijs man of een dwaas zal zijn? En toch zal alles aan hem worden gegeven, het lijkt zinloos."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Daarom begon ik eraan te twijfelen of alles waarvoor ik zoveel moeite had gedaan, dat wel waard was."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Want ook al zou ik mijn hele leven besteden aan het zoeken naar wijsheid, kennis en vaardigheden, ik moet het toch allemaal nalaten aan iemand die er niets voor heeft gedaan, dat is niet alleen dwaas, maar ook erg onrechtvaardig."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Wat krijgt een mens dus als beloning voor al zijn werk?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Dagen, gevuld met zorgen en verdriet en rusteloze, doorwaakte nachten. Een ontmoedigend idee."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Daarom besloot ik dat een mens niets beters kan doen dan genieten van eten en drinken, bij al het werk dat hij doet. Toen realiseerde ik mij dat ook dat genoegen afkomstig is uit de hand van God."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Wie kan zonder Hem eten of vrolijk zijn?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Want God geeft een mens die Hem bevalt wijsheid, kennis en vreugde, maar van iemand die Hem niet bevalt, neemt God zijn rijkdom af en geeft het aan hen die Hij graag mag. En ook dit is weer een voorbeeld van de zinloosheid van luchtkastelen bouwen."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Alles op zijn tijd - Voor alles bestaat een bepaalde tijd:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "een tijd om te worden geboren en een tijd om te sterven, een tijd om te planten en een tijd om te oogsten,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "een tijd om te doden en een tijd om te genezen, een tijd om te verwoesten en een tijd om te herbouwen,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "een tijd om te huilen en een tijd om te lachen, een tijd om te treuren en een tijd om te dansen,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "een tijd om stenen weg te gooien en een tijd om stenen bij elkaar te zoeken, een tijd om te omhelzen en een tijd om niet te omhelzen,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "een tijd om te vinden en een tijd om te verliezen, een tijd om iets te bewaren en een tijd om iets weg te gooien,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "een tijd om te scheuren en een tijd om te herstellen, een tijd om stil te zijn en een tijd om te spreken,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "een tijd om lief te hebben en een tijd om te haten, een tijd van oorlog en een tijd van vrede."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wat bereikt iemand nu werkelijk door hard te werken?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ik heb hierover nagedacht met betrekking tot alle soorten werk die God de mensheid heeft gegeven."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Voor alles wat Hij heeft gemaakt, bestaat een geschikt moment. Ook al heeft God het besef van de eeuwigheid in het hart van de mensen geplant, toch kan de mens al Gods werk, vanaf het eerste begin tot het absolute einde, niet overzien."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Daarom trek ik de conclusie dat er niets beters voor een mens is dan blij te zijn en plezier in het leven te scheppen, zolang hij kan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "En daarnaast dat hij zou moeten eten en drinken en zou moeten genieten van alle vruchten van zijn werk, omdat dat alles een geschenk van God is."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En ik weet dat alles wat God doet, onherroepelijk is, er kan niets aan worden toegevoegd of van worden afgedaan, God heeft daarbij voor ogen dat de mens ontzag moet hebben voor de Almachtige God."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Wat er nu is, was er lang geleden ook al, en wat nog gaat gebeuren, is al eerder gebeurd. Wat in het verre verleden gebeurde en toen verdween, brengt God weer terug."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Verder merkte ik dat overal op aarde de misdaad zich onder het oog van de justitie afspeelt en dat zelfs de rechtbanken corrupt zijn."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ik zei bij mijzelf: \u2018God zal op het juiste moment alles wat de mens doet, beoordelen, zowel het goede als het kwade.\u2019"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "En toen besefte ik dat God de wereld haar zondige gang laat gaan om de mensheid op de proef te stellen en de mensen te laten zien dat zij in feite niets beter zijn dan de dieren."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Want mensen en dieren ademen allebei dezelfde lucht in en sterven ook allebei. De mensheid heeft in feite dus niets v\u00f3\u00f3r op de dierenwereld, wat zinloos eigenlijk!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Zij gaan allemaal naar dezelfde plaats, het stof waaruit zij kwamen en waarnaar zij ook weer moeten terugkeren."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Want wie kan bewijzen dat de geest van de mensen opstijgt en de geest van de dieren neerdaalt in het stof?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Op die manier kwam ik erachter dat er voor een mens niets beters bestaat dan vreugde te scheppen in zijn werk, want daarom is hij hier. Niemand kan hem van iets laten genieten na zijn dood, daarom moet hij er n\u00fa van genieten."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Verdrukking en verdriet op aarde - Daarna keek ik naar alle verdrukking en verdriet op aarde, ik zag de tranen van de onderdrukten, er was niemand die hen hielp. Hun onderdrukkers gebruikten veel geweld, maar er was niemand die de onderdrukten hielp."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ik kwam tot de slotsom dat de doden beter af zijn dan de levenden."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "En het beste af zijn zij die nooit werden geboren en al het kwaad en onrecht op aarde niet zullen zien."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vervolgens ontdekte ik dat succes meestal voortkomt uit afgunst en jaloezie. Maar ook dat is dwaasheid."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De dwaas weigert te werken en verhongert daardoor bijna."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Beter nu en dan een beetje rust, dan steeds maar hard werken en zinloos gejaag."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ik constateerde nog een zinloze zaak op aarde."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Daarbij gaat het om de mens die helemaal alleen is, zonder zoon of broer, maar die toch keihard werkt om meer rijkdom te krijgen. Maar aan wie moet hij dat alles nalaten? En waarom ontzegt hij zich nu zoveel? Het is allemaal nutteloos en ontmoedigend."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Twee mensen kunnen door samenwerking meer bereiken dan een."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Als er een valt, helpt de ander hem overeind. Maar als er een valt en hij is alleen, zit hij in moeilijkheden."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "In een koude nacht kunnen twee mensen onder \u00e9\u00e9n deken elkaar verwarmen, maar hoe zou iemand in zijn eentje warm moeten worden?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Iemand die alleen staat, kan worden aangevallen en verslagen, maar twee mensen kunnen elkaar te hulp komen en zo de overwinning behalen, drie is zelfs nog beter, want een koord dat uit drie strengen is gevlochten is niet gemakkelijk te breken."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Het is beter een arme, maar wijze jongere te zijn dan een oude en dwaze koning die alle goede raad van de hand wijst."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Want zo\u02bcn jongere zou uit de gevangenis kunnen komen om koning te worden, ook al werd hij arm geboren."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Iedereen wil zo\u02bcn jongere graag helpen, omdat hij de nieuwe machthebber wordt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Hij kan de leider van miljoenen mensen worden en een goede heerser voor zijn onderdanen zijn. Maar dan groeit rond hem een nieuwe generatie op die hem weer aan de kant wil zetten. Dus ook hiervan blijkt weer de dwaasheid en zinloosheid."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Respect voor God - Denk eerst na voor u iets zegt en doe God geen overhaaste beloften. Want Hij is in de hemel en wij slechts hier op aarde. Zeg daarom alleen het hoognodige."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Net zoals te veel drukte u nachtmerries bezorgt, zo gaat u door te veel gepraat verkeerde dingen zeggen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Als u met God spreekt en Hem zweert dat u iets voor Hem zult doen, stel dat dan niet uit, want God heeft een hekel aan ondoordachte beloften. Kom uw belofte aan Hem na."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Het is veel beter niet te zeggen dat u iets zult doen, dan het wel te zeggen en het daarna toch niet te doen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "In dat geval zondigt u met uw mond. Probeer u niet te verdedigen door de priester van God te vertellen dat het allemaal een misverstand was. Dat zou God boos maken, Hij zou dan wel eens een eind kunnen maken aan uw voorspoed in het leven."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dromen en veel gepraat zijn er al genoeg, heb liever ontzag voor God."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Als u ziet dat een arme door rijken wordt onderdrukt en dat overal in het land het recht geweld wordt aangedaan, wees dan niet verbaasd. Want iedere beambte houdt rekening met zijn chef en de hogere beambten luisteren ook weer naar hun superieuren."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En boven al die mensen staat de koning. En als die koning nu maar toegewijd is aan zijn land!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Iemand die van geld houdt, heeft nooit genoeg. Wat een dwaasheid om te denken dat geld gelukkig maakt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hoe meer u hebt, des te meer mensen ervan willen profiteren. Dus wat is het voordeel van rijkdom, behalve dan toekijken hoe het geld u door de vingers glipt?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Een man die hard werkt, slaapt goed, of hij nu veel of weinig eet, maar de rijken maken zich zorgen en lijden aan slapeloosheid."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Er is nog een groot kwaad dat ik gezien heb en dat veel leed met zich meebrengt, als een rijke verandert in een vrek."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Als die rijkdom door een ongeluk verloren gaat, is er niets om aan de zoon na te laten."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Zo iemand sterft net zo arm als hij op de wereld gekomen is. Hij heeft alles voor niets gedaan en laat niets na."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Dit alles is triest en ellendig, want zoals hij in de wereld is gekomen, zo moet hij ook heengaan. Wat heeft al die moeite opgeleverd?"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Het was een triest bestaan, vol verdriet, ziekte en ergernis."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Maar er is tenminste nog \u00e9\u00e9n goed ding voor een mens, hij mag genieten van lekker eten en drinken en andere prettige dingen bij al het harde werken dat hij doet in de korte tijd die God hem laat leven."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "En natuurlijk is het ook goed als een mens rijkdom heeft gekregen van God en bovendien de gezondheid bezit om ervan te kunnen genieten. Houden van je werk en je plaats in het leven te aanvaarden, dat is werkelijk een geschenk van God."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Iemand die dat doet, denkt er niet vaak aan dat hij maar kort leeft, want God geeft hem vreugde."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Het leven is volgens de koning zinloos - Er is nog een groot kwaad dat ik op vele plaatsen heb gezien."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "God heeft sommige mensen grote rijkdom en veel aanzien gegeven, zodat zij alles kunnen krijgen wat zij wensen, maar God laat hem er niet van genieten, alles komt bij anderen terecht. Dat is zinloos en triest."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Als een man honderd kinderen heeft en heel oud wordt, maar hij kan er niet van genieten en hij krijgt niet eens een fatsoenlijke begrafenis, dan vind ik dat hij beter af was geweest als hij dood was geboren."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Want al was zijn geboorte dan zinloos geweest en was hij naamloos in duisternis ge\u00ebindigd,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "zonder ooit de zon te hebben gezien of van haar bestaan te hebben geweten, dan was dat toch beter dan een heel oude, maar ongelukkige man te zijn."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Al leeft een man tweeduizend jaar, maar zonder van het goede in dit leven te genieten, wat heeft hij daar dan aan?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zowel wijzen als dwazen besteden hun leven aan het bijeenschrapen van voedsel, zonder dat zij ooit genoeg schijnen te krijgen."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Welk voordeel heeft een wijze vergeleken met een dwaas? Wat heeft een arme eraan te weten wat er allemaal bereikt kan worden in dit leven?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Het is beter te genieten van wat je hebt, dan altijd maar meer te willen. Dat is dwaas en heeft geen enkel nut."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wat voor mens men ook is, al lang geleden was bekend wat er van hem zou worden. Daarom heeft het totaal geen nut met God in discussie te gaan over uw levensbestemming."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hoe meer woorden u gebruikt, des te minder betekenen zij, waarom zou u dus nog veel zeggen?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Wie kan zeggen hoe iemand zijn tijd het beste kan gebruiken in de weinige dagen van zijn vluchtige leven? Wie weet wat voor de toekomst het beste is, als hij dan al dood is? Want wie kan in de toekomst kijken?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wijsheid gaat boven rijkdom - Een goede reputatie is beter dan het duurste parfum. De dag waarop iemand sterft, is beter dan de dag van zijn geboorte."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Het is beter uw tijd te besteden aan begrafenissen dan aan feesten. Want ook u zult eens sterven en het is goed daaraan te denken nu u er nog de tijd voor hebt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Verdriet is beter dan blijdschap, want verdriet is beter voor je ziel."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Een wijs mens denkt vaak aan de dood, terwijl een dwaas zich alleen maar zorgen maakt over de vraag hoe hij dit moment het prettigste kan doorbrengen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Het is beter kritiek te krijgen van een wijs man dan lof te ontvangen van een dwaas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Want het compliment van een dwaas is net zo snel verdwenen als een stuk papier in het vuur en het is dom daarvan onder de indruk te raken."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De wijze man wordt een dwaas als hij zich laat omkopen, het ondermijnt zijn inzicht."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Iets afmaken is beter dan met iets beginnen. Geduld is beter dan trots."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Erger je niet, want ergernis is iets voor dwazen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vraag niet waarom het vroeger beter was dan nu, zo\u02bcn vraag getuigt niet van wijsheid."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wijsheid en bezit zijn goede zaken in het leven."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Zowel met wijsheid als met geld kunt u veel bereiken, maar wijsheid stelt u in staat in leven te blijven."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kijk eens hoe God te werk gaat en probeer niet zijn werk te veranderen: niemand kan recht maken wat Hij gebogen heeft."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Geniet van de voorspoed zoveel u kunt en als er moeilijker tijden aanbreken, bedenk dan dat God zowel het een als het ander geeft. Wij weten niet hoe de toekomst zal zijn."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "In dit zinloze leven heb ik alles gezien wat er te zien valt, ook het feit dat goede mensen jong sterven en sommige slechte mensen heel oud worden."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wees daarom niet al te goed en niet al te wijs. Waarom zou u zichzelf vernietigen?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Aan de andere kant moet u ook niet al te slecht zijn, wees geen dwaas. Waarom zou u sterven voor het uw tijd is?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Voor wie ontzag voor God heeft, is het het beste de middenweg te kiezen tussen verstandig en dwaas zijn."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Een wijs man is sterker dan de bestuurders van tien grote steden."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Nergens op aarde is een mens te vinden die altijd het goede doet en nooit zondigt."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Luister geen gesprekken af. U zou wel eens kunnen horen dat uw dienaar u verwenst."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "U weet toch hoe vaak u zelf anderen verwenst!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ik heb mijn best gedaan wijs te zijn. Ik verklaarde: \u2018Ik z\u00e1l wijs zijn,\u2019 maar het hielp niet."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wijsheid ligt te ver weg en is moeilijk te vinden."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ik zocht overal, vastbesloten de wijsheid en de reden voor alle gebeurtenissen te vinden en mijzelf te bewijzen dat zonde dwaasheid is en dat dwaasheid gelijk staat aan waanzin."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ik ontdekte iets dat bitterder is dan de dood: een vrouw die tot ontucht wil verleiden, zij is een valstrik en een vangnet. Wie met God leeft, ontsnapt daaraan, maar zondaars raken in haar web verstrikt."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Dit is mijn conclusie, zegt de Prediker, stap voor stap bereikte ik dit resultaat, na in elke richting te hebben gezocht:"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "\u00e9\u00e9n op de duizend mensen met wie ik sprak, kan als wijs worden beschouwd. Onder hen bevond zich echter geen enkele vrouw."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "En ik kwam erachter dat God de mens eenvoudig heeft gemaakt en dat de mens zelf allerlei ingewikkelde dingen bedenkt."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Gehoorzaamheid aan God gaat boven alles - Wat is het heerlijk wijs te zijn, dingen te begrijpen, te bestuderen en te kunnen uitleggen! Wijsheid legt een glans over het gezicht van een mens en verzacht zijn hardheid."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Gehoorzaam de koning zoals u hebt gezworen te doen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Probeer niet onder uw plichten uit te komen en verzet u niet tegen hem, want wat de koning wil, gebeurt toch wel."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Achter het bevel van de koning staat een grote macht, waaraan niemand kan twijfelen en waartegen niemand is opgewassen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Wie de geboden gehoorzaamt, zal niets overkomen. De wijze weet wanneer en hoe hij moet handelen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Voor alles is een tijd en een manier, ook al drukken de problemen van een mens zwaar op hem,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "want wie weet wat er komen gaat? Wie kan het hem vertellen?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Niemand kan zijn geest ervan weerhouden hem te verlaten, geen enkel mens heeft de mogelijkheid zijn sterfdag te verzetten, want aan die duistere strijd ontkomt niemand. Het zal duidelijk zijn dat de goddeloosheid van een mens hem bij die gelegenheid niet te hulp komt."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ik heb diep nagedacht over alles wat plaatsvindt op deze aarde, waar de mensen de mogelijkheid hebben elkaar kwaad te doen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ik heb gezien hoe goddeloze mensen eervol werden begraven, terwijl rechtvaardige mensen de heilige stad Jeruzalem moesten verlaten en vergeten werden. Ook dat is zinloos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Omdat God zondaars niet onmiddellijk straft, denken veel mensen dat zij rustig kwaad kunnen doen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Maar ook al blijft een mens, na honderd keer te hebben gezondigd, gewoon leven, toch weet ik heel goed dat zij die God vrezen beter af zijn."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Maar de goddelozen daarentegen zullen geen lang en gelukkig leven leiden: hun levensdagen zullen als schaduwen voorbijschieten, omdat zij geen ontzag voor God hebben."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Er gebeurt iets vreemds hier op aarde: sommige rechtvaardige mensen worden behandeld alsof zij zondaars zijn en sommige zondaars alsof zij rechtvaardig zijn. Ook dat is een vreemde en zinloze zaak."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Daarom lijkt het mij beter dat een mens geniet van zijn leven, want niets is beter dan dat een mens geniet van eten en drinken. De vreugde is het enige dat de mens heeft bij al het harde werk tijdens het leven dat God hem geeft."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Terwijl ik naar wijsheid zocht, keek ik oplettend naar alles wat op aarde gebeurde, de voortdurende activiteit die dag en nacht doorging:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "ik zag in dat geen mens Gods werk hier op aarde kan begrijpen. Zelfs de meest wijze man, die zegt dat hij het begrijpt, vergist zich."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ieder deelt in hetzelfde lot - Ook dit onderzocht ik grondig: het feit dat gelovige en wijze mensen afhankelijk zijn van Gods wil, niemand weet of hij liefde of haat zal ontmoeten. Men weet niets van tevoren."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Iedereen krijgt te maken met dezelfde ervaringen, of hij nu goed of slecht, godsdienstig of niet godsdienstig, werelds of gelovig is."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ieder deelt in hetzelfde lot en dat lijkt onrechtvaardig. Daarom doen de mensen slechte en dwaze dingen en kiezen zij hun eigen onverstandige weg, want het ontbreekt hun aan hoop, het enige dat de toekomst hun brengt, is de dood."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Er bestaat alleen hoop voor de levenden. U kunt beter een levende hond dan een dode leeuw zijn!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Want de levenden weten tenminste dat zij op zekere dag zullen sterven. Maar de doden weten van niets, zij hebben geen loon meer te verwachten. Er wordt niet meer aan hen gedacht."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Wat zij tijdens hun leven deden\u2014liefhebben, haten, benijden\u2014is allang vergeten en zij hebben niets meer van doen met wat hier op aarde gebeurt."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ga daarom maar gewoon door met eten en drinken en wees er blij mee, want zo heeft God het altijd al gewild."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Draag feestkleren en zorg dat u er goed verzorgd uitziet."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Geniet van een gelukkig leven met de vrouw van wie u houdt gedurende de dagen van uw voorbijglijdende leven, want dat komt u toe in dit leven, bij alle moeite die u zich op aarde getroost."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Benut alle mogelijkheden die je krijgt om iets te doen, want in de dood waar u naar toe gaat, bestaat geen werk, geen voorbereiding, geen weten en geen begrijpen."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Opnieuw keek ik over de aarde en ik zag dat de snelste man niet altijd de wedstrijd wint, dat de sterkste niet altijd als overwinnaar uit de strijd komt, dat wijze mensen vaak arm zijn en mensen met grote vaardigheden niet als vanzelfsprekend beroemd zijn. Alles komt neer op geluk, op het juiste moment op de juiste plaats zijn."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Een mens weet nooit wanneer hem iets zal overkomen. Hij is als een vis die in het net wordt gevangen en als een vogel die in een strik komt vast te zitten."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Bij het observeren van het menselijke maakte ook het volgende een diepe indruk op mij:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "een klein stadje met slechts enkele inwoners werd belegerd door een koning met zijn leger."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "In dat stadje woonde een wijze, arme man, die wist wat er moest gebeuren om de stad te redden, maar niemand dacht eraan hem om raad te vragen."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Toen besefte ik dat men de arme wijze veracht en niet naar hem luistert, ook al is wijsheid beter dan kracht."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Maar toch zijn de rustige woorden van een wijze man beter dan de kreten van een koning van dwazen."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wijsheid is beter dan oorlogstuig, maar \u00e9\u00e9n dwaas bederft veel goeds."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wees bedachtzaam - Dode vliegen zullen zelfs een pot zalf doen stinken. Ja, een kleine dwaasheid kan veel wijsheid en aanzien tenietdoen!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Het hart van een wijs man laat hem het goede doen, maar het hart van een dwaas leidt hem naar het kwaad."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Waar de dwaas ook heen gaat, steeds ontbreekt het hem aan verstand, zodat iedereen merkt dat hij een dwaas is."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Als u van uw meerdere de wind van voren krijgt, neem dan geen ontslag. Een rustig optreden kan fouten voorkomen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Er is nog een slecht ding dat ik zag toen ik de wereld in het voorbijgaan bekeek, een droevige zaak, die koningen en heersers betreft:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "ik heb gezien hoe onnadenkende mensen groot gezag kregen en verstandige mensen hun verdiende ereplaats werd onthouden."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ik heb zelfs dienaren zien rijden, terwijl vorsten te voet gingen als dienaren."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wie een put graaft, kan erin vallen. Wie een oude muur sloopt, kan gebeten worden door een slang."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Terwijl u aan het werk bent in een mijn, kunnen vallende stenen u verpletteren. Elke slag van uw bijl kan gevaarlijk zijn."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Een botte bijl vraagt veel van uw krachten, wees wijs en slijp het blad."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Als een slang bijt v\u00f3\u00f3r de bezwering, dan baat de bezweerder niet."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Het is prettig om naar wijze woorden te luisteren, maar als een dwaas het woord neemt, voert hem dat naar de ondergang."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Omdat hij al vanuit een dwaas uitgangspunt begint, is zijn conclusie pure onzin!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Een dwaas vertelt iedereen precies wat er gebeuren gaat, maar bestaat er werkelijk iemand die kan vertellen wat de toekomst brengt?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Een dwaas raakt ondersteboven van een klein beetje werk, omdat hij niet eens weet hoe hij het moet aanpakken."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wee het land waarvan de koning een kind is en waarvan de leiders al in de ochtenduren dronken zijn!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Gelukkig is het land waarvan de leiders edel zijn en alleen eten en drinken om op krachten te komen en niet om zich te bedrinken."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Door luiheid raakt het dak lek, waarna de dakbalken al snel beginnen te rotten."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Sommigen eten alleen voor hun plezier en drinken wijn om vrolijk te worden, dat kun je doen als je geld hebt."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Vervloek nooit de koning, zelfs niet in gedachten en doe dat ook niet bij een rijke man, want een klein vogeltje zal hun gaan vertellen wat u hebt gezegd."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Investeer overvloedig - Laat uw vermogen over de zee\u00ebn varen: na geruime tijd zal het bij u terugkomen."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Verdeel uw geld over zeven of acht ondernemingen, want u weet niet wat voor onheil er nog komen kan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Als de wolken zwaar zijn, komt er regen, een boom blijft liggen waar hij valt."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Als u steeds blijft wachten op de beste omstandigheden, krijgt u nooit iets gedaan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De wegen van God, die alles maakt, zijn net zo ondoorgrondelijk als die van de wind en als de manier waarop het leven groeit in de buik van een vrouw."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Blijf uw zaad uitzaaien, want u weet nooit welk deel zal gaan groeien, misschien komt alles wel op."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Het licht is heerlijk, het is een weldaad voor de ogen om de zon te zien schijnen."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Als iemand een hoge leeftijd bereikt, laat hij dan genieten van elke dag van zijn leven, maar laat hij er ook aan denken dat de eeuwigheid nog veel langer duurt en dat daarbij vergeleken, alles wat hier beneden gebeurt, zeer betrekkelijk is."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jongeman, het is heerlijk om jong te zijn! Geniet van elke minuut! Doe alles wat u wilt, pak alles wat u krijgen kunt, maar vergeet niet dat u van alles wat u doet, ook verantwoording moet afleggen tegenover God."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ga niet zitten tobben, leef gezond en bedenk dat uw jeugd, net als het morgenrood, snel voorbijgaat."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Denk in je jonge jaren aan je Schepper - Laat de verrukking van het jong-zijn u er niet toe verleiden uw Schepper te vergeten. Eer Hem in uw jeugd, voordat de moeilijke jaren aanbreken waarin u niet meer met volle teugen van het leven geniet."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dan is het te laat om aan Hem te denken, als u de zon, het licht, de maan en de sterren nauwelijks meer kunt zien met uw oude ogen en u geen zilveren randje meer om de donkere wolken zult kunnen ontdekken."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Want er komt een tijd dat uw handen zullen beven van ouderdom, uw sterke benen zwak zullen worden, u niet genoeg tanden meer hebt om goed te kunnen eten en u ook langzaam blind begint te worden,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "dat uw oren doof worden en uw stem zachter klinkt, dat u de vogels nog maar nauwelijks kunt horen fluiten."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "U zult hoogtevrees hebben en bang zijn om te vallen, een oude man met witte haren, die zich voortsleept, zonder lichamelijke behoeften. Want de mens staat voor de deur van de dood en nadert zijn eeuwige huis, terwijl de klagers over straat lopen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Denk in uw jonge jaren aan uw Schepper, voordat het zilveren koord van uw leven losschiet, de gouden schaal wordt gebroken, de kruik bij de put in stukken valt en het scheprad in de put onklaar raakt,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "voor het stof terugkeert naar de aarde zoals het was, en de geest terugkeert naar God, die hem gaf."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Alles is betrekkelijk, zegt de Prediker, uiterst betrekkelijk."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "En omdat de Prediker zo wijs was, ging hij verder met het volk te onderwijzen in alles wat hij wist, hij verzamelde spreuken en rangschikte die."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Want de Prediker was niet alleen een wijs man, maar ook een goede leraar, hij gaf zijn kennis niet zomaar door aan het volk, maar deed dat op een manier die de mensen boeide."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De woorden van een wijze man zijn als sporen van een ruiter die een paard tot actie aanzetten. Zij bevatten grote waarheden die ons gegeven zijn door \u00e9\u00e9n Herder."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Maar, mijn zoon, wees gewaarschuwd: er komt geen einde aan het schrijven van boeken. Het bestuderen daarvan wordt ten slotte zeer vermoeiend."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dit is mijn uiteindelijke conclusie: heb ontzag voor God en volg zijn geboden op, want dat is de opdracht voor ieder mens."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "God zal ons doen en laten namelijk beoordelen, ook alle verborgen dingen, of ze nu goed of slecht waren."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,636 @@
+{
+    "version": "MBBTAG",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang aklat na ito ay naglalaman ng mga pahayag ni Amos, isang pastol na taga-Tekoa. Ang mga bagay na tungkol sa Israel ay ipinahayag sa kanya ng Diyos dalawang taon bago lumindol. Si Uzias noon ang hari ng Juda, at si Jeroboam namang anak ni Joas ang hari ng Israel."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sinabi ni Amos, \u201cDumadagundong mula sa Bundok ng Zion ang tinig ni Yahweh, mula sa Jerusalem ang kanyang tinig ay naririnig. Natutuyo ang mga pastulan, nalalanta pati ang mga damo sa Bundok Carmel.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Paghatol sa mga Karatig-bansa ng Israel Sa Siria - Ganito ang sabi ni Yahweh: \u201cPaulit-ulit na nagkasala ang mga taga-Damasco, kaya sila&#39;y paparusahan ko. Pinagmalupitan nila ang Gilead, dinurog nila ito sa giikang bakal."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Susunugin ko ang palasyo ni Hazael, at tutupukin ko ang mga tanggulan ni Ben-hadad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Wawasakin ko ang pintuan ng Lunsod ng Damasco; pupuksain ko ang mga taga libis ng Aven, pati ang may hawak ng setro sa Beth-eden; ang mga taga-Siria naman ay dadalhing-bihag sa Kir.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Sa Filistia - Ganito ang sabi ni Yahweh: \u201cPaulit-ulit na nagkasala ang mga taga-Gaza, kaya sila&#39;y paparusahan ko. Binihag nila ang isang bansa at ipinagbili sa mga taga-Edom."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Susunugin ko ang mga pader ng Gaza; tutupukin ko ang mga tanggulan doon."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Aalisin ko ang mga pinuno ng Asdod, at ang may hawak ng setro sa Ashkelon. Hahanapin ko ang Ekron, at lilipulin ko ang mga Filisteo roon.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sa Tiro - Ganito ang sabi ni Yahweh: \u201cPaulit-ulit na nagkasala ang mga taga-Tiro, kaya sila&#39;y paparusahan ko. Ipinagbili nila sa Edom ang libu-libo nilang bihag; sinisira nila ang kasunduan ng pagkakapatiran."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Susunugin ko ang mga pader ng Tiro; tutupukin ko ang mga palasyo roon.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sa Edom - Ganito ang sabi ni Yahweh: \u201cPaulit-ulit na nagkasala ang mga taga-Edom, kaya sila&#39;y paparusahan ko. Hinabol nila ng tag\u00e2 ang mga kapatid nilang Israelita at hindi sila naawa kahit bahagya. Hindi naglubag ang kanilang poot kailanman."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Susunugin ko ang Teman, tutupukin ko naman ang mga tanggulan sa Bozra.\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sa Ammon - Ganito ang sabi ni Yahweh: \u201cPaulit-ulit na nagkasala ang mga taga-Ammon, kaya sila&#39;y paparusahan ko. Sa labis nilang kasakiman sa lupain, nilaslas nila ang tiyan ng mga buntis sa Gilead."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Susunugin ko ang mga pader sa Rabba; tutupukin ko ang mga tanggulan doon. Magsisigawan sila sa panahon ng labanan; mag-aalimpuyo ang labanan tulad ng isang bagyo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mabibihag ang kanilang hari, gayundin ang kanyang mga tauhan.\u201d"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sa Moab - Ganito ang sabi ni Yahweh: \u201cPaulit-ulit na nagkasala ang mga taga-Moab, kaya sila&#39;y paparusahan ko. Sinunog nila at pinulbos ang mga buto ng hari ng Edom."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Susunugin ko ang lupain ng Moab; tutupukin ko ang mga tanggulan sa Keriot. Masasawi ang mga taga-Moab sa gitna ng ingay ng labanan, sa sigawan ng mga kawal at tunog ng mga trumpeta."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Papatayin ko ang hari ng Moab, gayundin ang mga pinuno sa lupaing iyon.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sa Juda - Ganito ang sabi ni Yahweh: \u201cPaulit-ulit na nagkasala ang mga taga-Juda, kaya sila&#39;y paparusahan ko. Hinamak nila ang aking mga katuruan; nilabag nila ang aking mga kautusan. Iniligaw sila ng mga diyus-diyosang pinaglingkuran ng kanilang mga ninuno."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Susunugin ko ang Juda; tutupukin ko ang mga tanggulan ng Jerusalem.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ang Paghatol sa Israel - Ganito ang sabi ni Yahweh: \u201cPaulit-ulit na nagkasala ang mga taga-Israel, kaya sila&#39;y paparusahan ko. Dahil sa suhol, pinarusahan nila ang mga matutuwid, at ibinentang alipin sa halagang isang pares ng sandalyas ang mga taong hindi makabayad ng utang."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Niyuyurakan nila ang mga ab\u00e2; ipinagtutulakan nila ang mahihirap. Nakikipagtalik ang mag-ama sa iisang babaing alipin, kaya&#39;t nalalapastangan ang aking banal na pangalan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ginagamit nilang higaan sa tabi ng alinmang altar ang balabal na sangla ng isang may utang. Sa templo ng kanilang Diyos, sila&#39;y nag-iinuman ng alak na binili sa salaping ninakaw sa mga dukha."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nagawa pa nila ito sa akin matapos kong lipulin ang mga Amoreo, na kasintangkad ng mga punong sedar at kasintigas ng punong ensina. Pinuksa kong lahat ang mga ito alang-alang sa kanila."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Inilabas ko kayo mula sa Egipto, pinatnubayan sa ilang sa loob ng apatnapung taon, at ibinigay sa inyo ang lupain ng mga Amoreo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Itinalaga kong propeta ang ilan sa inyong mga anak; ginawa kong Nazareo ang iba ninyong kabataan. Mga taga-Israel, hindi ba totoo ang aking sinasabi?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ngunit pinainom ninyo ng alak ang mga Nazareo, at pinagbawalang mangaral ang mga propeta."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kaya ngayo&#39;y pababagsakin ko kayo sa lupa, gaya ng kariton na di makausad sa bigat ng dala."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Maging ang matutuling tumakbo ay di makakatakas. Manghihina pati na ang malalakas, maging ang magigiting ay di rin makakaligtas;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "walang tatamaan ang mga manunudla; di makakaligtas ang matutuling tumakbo, di rin makakatakas ang mga nakakabayo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sa araw na iyon ay magsisitakas maging ang pinakamatatapang.\u201d"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pakinggan ninyo, mga taga-Israel, itong sinabi ni Yahweh laban sa inyo na inilabas niya mula sa Egipto:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201cSa lahat ng bansa sa ibabaw ng lupa, kayo lamang ang aking itinangi at inalagaan. Kaya&#39;t kayo&#39;y aking paparusahan dahil sa inyong mga kasalanan.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ang Gawain ng Propeta - Maaari bang magsama sa paglalakbay ang dalawang taong hindi nagkakasundo?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Umuungal ba ang leon sa kagubatan kung wala siyang mabibiktima? Umaatungal ba ang batang leon sa loob ng yungib, kung wala siyang nahuling anuman?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mabibitag ba ang isang ibon kung hindi pinainan? Iigkas ba ang bitag kung ito&#39;y walang huli?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kapag ang mga trumpeta&#39;y humudyat sa lunsod, hindi ba&#39;t manginginig sa takot ang mga tao? Kapag may sakunang dumating sa lunsod, hindi ba si Yahweh ang may gawa niyon?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tunay na ang Panginoong Yahweh ay di kumikilos, kung hindi pa ipinababatid sa mga lingkod niyang propeta."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kapag umungal ang leon, sino ang hindi matatakot? Kapag nagsalita ang Panginoong Yahweh, sinong hindi magpapahayag?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ang Hatol sa Samaria - Ipahayag mo sa mga nakatira sa mga tanggulan ng Asdod, at sa mga tanggulan ng Egipto, \u201cMagtipon kayo sa mga bundok ng Samaria, tingnan ninyo ang malaking kaguluhan doon, maging ang nagaganap na pang-aapi sa lunsod.\u201d"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201cHindi na nila alam ang paggawa ng mabuti,\u201d sabi ni Yahweh. \u201cAng mga bahay nila&#39;y punung-puno ng mga bagay na kinamkam sa pamamagitan ng karahasan at pagpatay."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kaya&#39;t lulusubin sila ng isang kaaway, wawasakin ang kanilang mga tanggulan, hahalughugin ang kanilang mga tahanan.\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sabi pa ni Yahweh, \u201cKung paanong walang maililigtas ang isang pastol sa tupang sinila ng isang leon, liban sa dalawang paa&#39;t isang tainga. Iilan din ang ililigtas ng Diyos sa mga Israelitang nakatira ngayon sa Samaria at nakahiga sa magagarang higaan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u201cPakinggan ninyong mabuti ito at babalaan ang mga anak ni Jacob,\u201d sabi ng Panginoong Yahweh, ang Diyos na Makapangyarihan sa lahat."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u201cSa araw na parusahan ko ang mga taga-Israel dahil sa kanilang mga kasalanan, wawasakin ko ang mga altar sa Bethel, at malalaglag sa lupa ang mga iyon."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Wawasakin ko ang mga bahay na pantaglamig at pantag-araw. Guguho ang mga bahay na yari sa garing; ang malalaking bahay ay wawasaking lahat.\u201d"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pakinggan ninyo ito, mga babae sa Samaria na naglalakihang gaya ng mga baka ng Bashan, na nang-aapi sa mahihina, nangingikil sa mahihirap, at nag-uutos sa inyong mga asawa upang dalhan kayo ng inumin."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ang Panginoong Yahweh ay banal, at kanyang ipinangako: \u201cDarating ang araw na kayo&#39;y huhulihin ng pamingwit. Bawat isa sa inyo&#39;y matutulad sa isdang nabingwit."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ilalabas kayo sa siwang ng pader at kayo&#39;y itatapon sa Harmon.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ang Pagmamatigas ng Israel - \u201cMga mamamayan ng Israel,\u201d sabi ng Panginoong Yahweh, \u201cPumunta kayo sa Bethel at doo&#39;y gumawa ng kasalanan! Pumunta rin kayo sa Gilgal at dagdagan pa ang inyong mga kasalanan! Magdala kayo ng mga hayop na ihahandog tuwing umaga; magdala kayo ng ikasampung bahagi tuwing ikatlong araw."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Maghandog kayo ng tinapay bilang pasasalamat; ipagyabang ninyo ang inyong mga kusang-loob na handog! sapagkat ito ang gustung-gusto ninyong gawin."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u201cGinutom ko kayo sa bawat lunsod; walang tinapay na makain sa bawat bayan, gayunma&#39;y hindi kayo nanumbalik sa akin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hindi ko rin pinapatak ang ulan na kailangan ng inyong halaman. Nagpaulan ako sa isang lunsod ngunit sa iba&#39;y hindi. Dinilig ko ang isang bukirin ngunit ang iba&#39;y hinayaang matuyo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kaya&#39;t naghanap ang mga tao mula sa dalawa o tatlong lunsod ng tubig sa karatig-lunsod ngunit di rin napatid ang kanilang uhaw. Gayunman, hindi pa rin kayo nanumbalik sa akin."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201cSinira ko ang inyong pananim, sa pamamagitan ng mainit na hangin at amag. Kinain ng mga balang ang inyong mga halaman, pati ang mga puno ng ubas, igos at olibo, gayunma&#39;y hindi pa rin kayo nanumbalik sa akin."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201cPinadalhan ko kayo ng salot tulad ng aking ginawa sa Egipto. Pinatay ko sa digmaan ang inyong kabinataan; inagaw ko ang inyong mga kabayo. Bumaho ang inyong mga kampo dahil sa mga nabubulok na bangkay; halos hindi kayo makahinga, subalit hindi pa rin kayo nanumbalik sa akin."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u201cPinuksa ko ang ilan sa inyong lunsod tulad ng Sodoma at Gomorra. Kayo&#39;y parang nagbabagang kahoy na inagaw sa apoy, ngunit ayaw pa rin ninyong manumbalik sa akin,\u201d sabi ni Yahweh."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201cMga taga-Israel, gagawin ko ito sa inyo, kaya humanda kayong humarap sa inyong Diyos!\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Siya ang lumikha ng mga bundok at ng hangin, at ang nagpapahayag sa mga tao ng kanyang kaisipan. Ginagawa niyang gabi ang araw; siya ang naghahari sa buong sanlibutan. Yahweh, ang Diyos na Makapangyarihan sa lahat ang kanyang pangalan!"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Panawagan Upang Magsisi - Mga taga-Israel, pakinggan ninyo ang panaghoy kong ito tungkol sa inyo:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nabuwal ang Israel at di na makakabangon. Nakahandusay siya at sa kanya&#39;y walang tumutulong."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Sinabi ng Panginoong Yahweh, \u201cSa sanlibong kawal na inatasan ng isang lunsod, iisang daan ang makakabalik; sa sandaan namang inatasan ng isa pang lunsod, ang makakabalik ay sampu na lamang.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ito pa ang sabi ni Yahweh sa mga taga-Israel: \u201cLumapit kayo sa akin at kayo&#39;y mabubuhay;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "huwag kayong pumunta sa Bethel upang humingi ng tulong; huwag kayong pumunta doon sa Beer-seba, sapagkat ang mga taga-Gilgal ay tiyak na mabibihag, at ang Bethel ay mawawalang kabuluhan.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Lumapit kayo kay Yahweh at kayo&#39;y mabubuhay. Kung hindi, babab\u00e2 siyang parang apoy sa mga anak ni Jose, susunugin ang Bethel at walang makakasugpo sa apoy na ito."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kahabag-habag kayo na nagkakait ng katarungan at yumuyurak sa karapatan ng mga tao!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nilikha ni Yahweh ang Pleyades at ang Orion. Itinatakda niya ang araw at ang gabi. Tinipon niya ang tubig mula sa karagatan, upang muling ibuhos sa sangkalupaan; Yahweh ang kanyang pangalan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Winawasak niya ang mga kuta at dinudurog ang mga tanggulan."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Namumuhi kayo sa naninindigan sa katarungan, at hinahamak ang nagsasabi ng katotohanan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ginigipit ninyo ang mahihirap at hinuhuthot ang kanilang ani. Kaya&#39;t hindi ninyo matitirhan ang bahay na batong inyong itinayo, ni malalasap man lang ang alak mula sa malalawak ninyong ubasan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Alam ko kung gaano karami ang inyong ginawang kasamaan, at kung gaano kabigat ang inyong mga kasalanan. Kayo&#39;y humihingi ng suhol sa mga taong matuwid, at ipinagkakait ninyo sa mga mahihirap ang katarungan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Naghahari ang kasamaan sa panahong ito; kaya&#39;t kung ika&#39;y matalino, mananahimik ka na lang."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Gawin mo ang matuwid, hindi ang masama, upang ikaw ay mabuhay. Sa gayon, sasaiyo si Yahweh, ang Diyos na Makapangyarihan sa lahat, tulad ng sinasabi mo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kamuhian mo ang masama, ibigin ang mabuti. Pairalin mo sa mga hukuman ang katarungan, baka sakaling kahabagan ni Yahweh ang matitirang buh\u00e1y sa lahi ni Jose."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kaya&#39;t sinasabi ni Yahweh, ang Diyos na Makapangyarihan sa lahat, ang Panginoon, \u201cMaririnig sa mga lansangan ang mga pagtangis; at ang mga paghihinagpis sa mga liwasan. Pati ang mga magsasaka ay makikidalamhati, kasama ng mga bayarang taga-iyak."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "May mga pagtangis sa bawat ubasan, sapagkat darating na ako sa inyong kalagitnaan.\u201d"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kahabag-habag kayo na naghihintay sa pagdating ng araw ni Yahweh! Bakit ninyo hinihintay ang araw na iyon? Iyon ay magiging araw ng kadiliman, hindi ng kaliwanagan."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Para kayong umiwas sa leon ngunit oso ang nasagupa! O kaya&#39;y gaya ng isang taong umuwi sa bahay, ngunit pagsandal sa dingding ay tinuklaw ng ahas!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Magiging pusikit na kadiliman at hindi kaliwanagan ang araw ni Yahweh; araw na napakalungkot at napakadilim!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u201cNamumuhi ako sa inyong mga handaan, hindi ako nalulugod sa inyong mga banal na pagtitipon."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Hindi ko matatanggap ang inyong mga handog na sinusunog, handog na mga pagkaing butil at mga hayop na pinataba. Kahit na ang mga iyon ay handog pangkapayapaan, hindi ko pa rin papansinin."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Tigilan na ninyo ang maiingay na awitan; ayoko nang marinig ang inyong mga alpa."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Sa halip ay padaluyin ninyo ang katarungan, gaya ng isang ilog; gayundin ang katuwiran tulad ng isang di natutuyong batis."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u201cSa loob ng apatnapung ta\u00f3ng pamamalagi ninyo sa ilang, O Israel, nagdala ba kayo sa akin ng mga handog na sinusunog at ng mga handog ng pasasalamat?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Buhatin na ninyo ang rebulto ni Sakut na inyong hari at ni Kaiwan, ang diyos na bituin, ang mga imahen na inyong ginawa."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Dahil dito&#39;y itatapon ko kayo sa kabila pa ng Damasco,\u201d sabi ni Yahweh, na ang pangalan ay Diyos na Makapangyarihan sa lahat."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang Pagkawasak ng Israel - Kahabag-habag kayong namumuhay na maginhawa sa Zion, at kayong naninirahang matiwasay sa Bundok ng Samaria, kayo na kinikilala sa Israel, ang bansang pinili at nilalapitan ng mga nangangailangan!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tingnan ninyo ang lunsod ng Calne; puntahan ninyo ang tanyag na lunsod ng Hamat, at ang Gat, na lunsod ng mga Filisteo. Nakakahigit ba sila kaysa Juda at Israel? Mas malaki ba ang lupaing sakop nila kaysa inyo?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Gusto ninyong ipagpaliban ang araw ng inyong kapahamakan, ngunit sa ginagawa ninyo&#39;y lalong nalalapit ang araw ng karahasan."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kahabag-habag kayo na nahihiga sa magagarang kama na yari sa garing, at nagpapahinga sa malalapad na himlayan, habang nagpapakabusog sa mga piling tupa at pinatabang guya."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Lumilikha pa kayo ng mga walang kabuluhang awitin sa saliw ng alpa; tulad ni David, gumagawa kayo ng mga instrumento para sa inyong musika."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Sa malalaking mangkok na kayo umiinom ng alak, at mamahaling pabango ang ipinapahid sa katawan, ngunit hindi kayo nagdadalamhati sa pagkawasak ng Israel!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kaya nga&#39;t kayo ang unang magiging bihag; matitigil na ang inyong mga handaan at pagdiriwang."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mariing ipinahayag ng Panginoong Yahweh, ang Diyos na Makapangyarihan sa lahat, \u201cNamumuhi ako sa labis na kapalaluan ng Israel! Hindi ako nalulugod sa kanilang mga tanggulan. Ibibigay ko sa kaaway ang buong lunsod at ang lahat ng bagay na naroon.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kung sasampung lalaki ang natira sa isang pamilya, silang lahat ay mamamatay."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kapag dumating ang kamag-anak ng mga namatay upang ilabas at sunugin ang mga bangkay, magtatanong siya sa sinumang nagtatago sa bahay kung mayroon pa siyang ibang kasama. Kung ang sagot ay, \u201cWala!\u201d sasabihin nito, \u201cTumahimik ka!\u201d Ingatan nating huwag mabanggit man lang ang pangalan ni Yahweh."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kapag siya ang nag-utos, magkakadurug-durog ang mga bahay, malaki man o maliit."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tumatakbo ba sa batuhan ang mga kabayo? Naipang-aararo ba sa dagat ang mga baka? Hindi nga, ngunit ginawa ninyong lason ang katarungan at pinalitaw na mali ang tama."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tuwang-tuwa kayo nang masakop ninyo ang bayan ng Lo-debar. Sabi ninyo, \u201cTayo&#39;y malakas at nakaya nating sakupin ang Karnaim.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ngunit ito ang sagot ni Yahweh, ang Diyos na Makapangyarihan sa lahat: \u201cSusuguin ko ang isang bansa laban sa inyo, mga taga-Israel. Kayo&#39;y pahihirapan buhat sa Pasong Hamat sa hilaga hanggang sa Batis ng Araba sa timog.\u201d"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang mga Balang sa Pangitain - Ito ang pangitaing ipinakita sa akin ng Panginoong Yahweh: Nagpakawala siya ng maraming balang pagkatapos na gapasin ang bahagi ng ani na para sa hari, at habang nagsisimulang tumubo ang pananim."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nakita kong sinimot ng mga balang ang lahat ng halaman sa lupain. At nasabi ko, \u201cPanginoong Yahweh, patawarin mo po ang iyong bayan! Paano pa sila mabubuhay? Sila&#39;y maliliit at mahihina!\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nagbago ang isip ni Yahweh at sinabi niya, \u201cSige, hindi na mangyayari ang iyong nakita.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ang Apoy sa Pangitain - Ito ang sumunod na ipinakita sa akin ng Panginoong Yahweh: Handa na siya upang parusahan ang mga tao sa pamamagitan ng apoy. Ang tubig sa kalaliman ng lupa ay tinuyo ng apoy at ngayo&#39;y nasusunog na ang lupain."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kaya&#39;t ako&#39;y nakiusap, \u201cPanginoong Yahweh, maawa po kayo sa kanila! Sila&#39;y mahihina&#39;t maliliit, baka hindi sila makatagal!\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nagbago ang isip ni Yahweh at ang sabi, \u201cHindi ko na rin ito hahayaang mangyari.\u201d"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ang Hulog sa Pangitain - Ito pa ang ipinakita niya sa akin: Siya&#39;y nakatayo sa tabi ng pader na ginamitan ng hulog. Nakita kong hawak niya ang hulog."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tinanong ako ni Yahweh, \u201cAmos, ano ang nakikita mo?\u201d \u201cIsang hulog po,\u201d sagot ko. At sinabi niya, \u201cSa pamamagitan ng hulog na ito, ipapakita ko ang pagkakamali ng aking bayang Israel. Hindi na magbabago pa ang pasya ko, paparusahan ko sila."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mawawasak ang mga altar ng mga salinlahi ni Isaac. Mawawasak ang mga banal na dako ng Israel. Sa pamamagitan ng tabak, pupuksain ko ang sambahayan ni Jeroboam.\u201d"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Si Amos at si Amazias - Si Amazias na pari sa Bethel ay nagsumbong kay Haring Jeroboam ng Israel. \u201cKasama ng mga tao, si Amos ay may balak na masama laban sa inyo,\u201d sabi niya. \u201cDahil sa mga sinasabi niya&#39;y nagugulo ang bayan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sinasabi niyang, \u2018Mamamatay si Jeroboam sa digmaan, at ang Israel ay dadalhing-bihag sa isang malayong lupain.\u2019\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pagkatapos, hinarap naman ni Amazias si Amos at sinabi, \u201cTama na iyan, Propeta! Magbalik ka na sa Juda; doon ka mangaral. Hayaan mong sila ang magbayad sa iyo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Huwag ka nang mangaral dito sa Bethel. Narito ang templo ng kaharian at dito sumasamba ang hari.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Sumagot si Amos, \u201cHindi ako propeta na nangangaral at hindi rin nagsanay na maging isang propeta upang bayaran. Ako&#39;y pastol at nag-aalaga rin ng mga puno ng sikamoro."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ngunit inalis ako ni Yahweh sa gawaing iyon at inutusang magpahayag sa mga taga-Israel para kay Yahweh."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kaya pakinggan ninyo ang sinasabi ni Yahweh. Sinabi ninyo, \u2018Huwag kang mangaral laban sa Israel, at huwag kang mangaral laban sa sambahayan ni Isaac.\u2019"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Sinasabi ni Yahweh, \u2018Ang asawa mo&#39;y magiging babaing bayaran, at masasawi naman sa digmaan ang iyong mga anak. Paghahati-hatian ng iba ang iyong lupain at ikaw ay mamamatay. Sa isang bayang hindi kumikilala kay Yahweh, ang mga taga-Israel ay dadalhing-bihag sa isang malayong lupain.\u2019\u201d"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang Pangitain tungkol sa Isang Basket ng Prutas - Ipinakita naman sa akin ng Panginoong Yahweh ang isang basket ng prutas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sinabi niya, \u201cAmos, ano ang nakikita mo?\u201d \u201cIsa pong basket ng prutas,\u201d sagot ko. At sinabi sa akin ni Yahweh, \u201cDumating na ang wakas ng Israel. Ang pagpaparusa sa kanila&#39;y di ko na maipagpapaliban pa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "At sa araw na iyon, malulungkot na awitin ang maririnig sa palasyo. May mga bangkay na naghambalang sa labas at maghahari ang katahimikan.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ang Kapahamakan ng Israel - Pakinggan ninyo ito, kayong sumisikil sa mga nangangailangan, at kayong umaapi sa mga dukha."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ang sabi ninyo sa inyong sarili, \u201cInip na inip na kaming matapos ang mga araw ng pagdiriwang. Hindi tuloy namin maipagbili ang aming mga inani. Kailan ba matatapos ang Sabbath, para maipagbili namin ang mga trigo? Tataasan namin ang halaga, gagamit kami ng madayang takalan, at dadayain namin sa timbang ang mga mamimili."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bibilhin namin upang maging alipin ang mga mahihirap sa halagang isang pilak, at ang mga nangangailangan ay sa halagang katumbas ng isang pares na sandalyas. At ipagbibili namin ang ipa ng trigo.\u201d"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sumumpa si Yahweh, ang Diyos ng Israel, \u201cHindi ko na mapapatawad ang masasama nilang gawa."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Magkakaroon ng lindol sa lupa at mananangis ang bawat isa. Mayayanig ang buong bayan; tataas-babab\u00e2 ito na tulad ng Ilog Nilo.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sa araw na iyon, sabi ng Panginoong Yahweh, \u201cLulubog ang araw sa katanghaliang-tapat, at magdidilim sa buong maghapon."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ang iyong kapistahan ay gagawin kong araw ng kapighatian; at ang masasayang awitin ninyo&#39;y magiging panaghoy. Pipilitin ko kayong magsuot ng panluksa, at mapipilitan kayong mag-ahit ng ulo. Matutulad kayo sa magulang na nagdadalamhati, dahil sa pagkamatay ng kaisa-isang anak. Ang araw na iyon ay magiging mapait hanggang sa wakas.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sinabi ng Panginoong Yahweh, \u201cDarating din ang araw na papairalin ko sa lupain ang taggutom. Magugutom sila ngunit hindi sa pagkain; mauuhaw sila ngunit hindi sa tubig, kundi sa pakikinig ng aking mga salita."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mula sa hilaga papuntang timog, mula sa silangan hanggang sa kanluran, hahanapin nila ang salita ni Yahweh, subalit iyon ay hindi nila matatagpuan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dahil sa matinding pagkauhaw na ito, mawawalan ng malay-tao ang magagandang dalaga at ang malalakas na binata."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ang mga sumusumpa sa pangalan ng mga diyus-diyosan sa Samaria, ang mga nagsasabing, \u2018Sa ngalan ng diyos ng Dan,\u2019 at \u2018Sa ngalan ng diyos ng Beer-seba,\u2019 sila&#39;y mabubuwal at hindi na makakabangon pa.\u201d"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang mga Hatol ng PANGINOON - Nakita kong nakatayo sa may altar ang Panginoon. At siya&#39;y nag-utos ng ganito: \u201cBayuhin mo ang mga haligi ng templo hanggang sa mauga ang buong pundasyon, at ihampas ito sa ulo ng mga tao. Ang mga nalabi ay masasawi sa digmaan, walang sinumang makakatakas; isa ma&#39;y walang makakaligtas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Humukay man sila patungo sa daigdig ng mga patay, aabutan ko pa rin sila. Umakyat man sila sa langit, hihilahin ko silang pababa mula roon."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kung magtago man sila sa Bundok ng Carmel, tutugisin ko sila&#39;t huhulihin. Magtago man sila sa kalaliman ng dagat, uutusan ko ang dambuhala sa dagat upang sila&#39;y lamunin."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kung bihagin man sila ng kanilang kaaway, iuutos kong sila&#39;y patayin sa pamamagitan ng tabak. Ipinasya ko nang puksain sila at hindi tulungan.\u201d"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Si Yahweh, ang Makapangyarihang Panginoon, siya na humipo sa lupa at iyon ay natutunaw, at ang lahat ng naroon ay nagdadalamhati. Dahil dito&#39;y ang buong lupain ay tumataas gaya ng Ilog Nilo, at bumababa gaya ng ilog sa Egipto."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Siya na gumagawa ng mga silid doon sa kalangitan, at naglalagay ng pundasyon nito sa ibabaw ng lupa, inipon niya ang tubig sa dagat, at ibinubuhos iyon sa lupa. Yahweh ang kanyang pangalan!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sinasabi ni Yahweh, \u201cPara sa akin, kayong mga taga-Israel, ay kapantay lang ng mga taga-Etiopia. Hinango ko ang Israel mula sa Egipto; iniahon ko ang mga Filisteo sa Caftor at ang mga taga-Siria mula sa Kir."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ako ang Panginoong Yahweh na nagmamasid sa makasalanang kaharian ng Israel. Lilipulin ko sila sa balat ng lupa, ngunit di ko lubusang pupuksain ang lahi ni Jacob."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201cIuutos kong ligligin ang bayan ng Israel kasama ng lahat ng bansa; tulad ng pag-alog sa salaan, ngunit walang butil na babagsak sa lupa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ang mga makasalanan sa aking bayan ay masasawi sa digmaan; lahat ng nagsasabing, \u2018Hindi ipahihintulot ng Diyos na tayo&#39;y mapahamak.\u2019\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Manunumbalik ang Israel - \u201cSa araw na iyon, ibabangon kong muli ang nawasak na kaharian ni David, at aayusin kong muli ang mga nasirang dako. Ibabalik ang mga guho; itatayo kong muli iyon, kagaya noong una."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sa gayon ay sasakupin ng Israel ang nalalabi sa lupain ng Edom at ang lahat ng bansang dati&#39;y aking pag-aari,\u201d sabi ni Yahweh na siyang gagawa ng mga bagay na ito."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sinabi rin ni Yahweh, \u201cDarating ang panahon, mag-aararo ang magbubukid habang nag-aani pa ang manggagapas; at maghahasik na ng binhi ng ubas ang magsasaka habang gumagawa pa ng alak ang mag-aalak. Dadaloy sa mga bundok ang bagong alak, at masaganang aagos sa mga burol."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ibabalik ko sa kanilang lupain ang aking bayan. Itatayo nilang muli ang kanilang mga lunsod na nawasak, at doon sila maninirahan. Tatamnan nilang muli ang mga ubasan at sila&#39;y iinom ng alak. Magtatanim silang muli sa mga halamanan at kakain ng mga bunga niyon."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ibabalik ko ang Israel sa lupaing ibinigay ko sa kanila, at hindi na sila maaalis pang muli roon.\u201d Si Yahweh na inyong Diyos ang nagsasalita."
+                }
+            }
+        }
+    }
+}

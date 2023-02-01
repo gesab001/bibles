@@ -1,0 +1,515 @@
+{
+    "version": "sch2000",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Die innige Liebe des Geliebten zu seiner Braut - Das Lied der Lieder,von Salomo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sulamit: - Er k\u00fcsse mich mit den K\u00fcssen seines Mundes!Denn deine Liebe ist besser als Wein."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Lieblich duften deine Salben;dein Name ist wie ausgegossenes Salb\u00f6l:darum lieben dich die Jungfrauen!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Zieh mich dir nach, so laufen wir!Der K\u00f6nig hat mich in seine Gem\u00e4cher gebracht;wir wollen jauchzen und uns freuen an dir,wollen deine Liebe preisen, mehr als Wein;mit Recht haben sie dich lieb!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Schwarz bin ich, aber lieblich,ihr T\u00f6chter Jerusalems,wie die Zelte Kedars,wie die Vorh\u00e4nge Salomos."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Seht mich nicht an, weil ich so schw\u00e4rzlich bin,weil die Sonne mich verbrannt hat!Die S\u00f6hne meiner Mutter z\u00fcrnten mir,sie setzten mich zur H\u00fcterin der Weinberge;[doch] meinen eigenen Weinberg habe ich nicht geh\u00fctet!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sage mir doch, du, den meine Seele liebt:Wo weidest du? Wo h\u00e4ltst du Mittagsrast?Warum soll ich wie eine Verschleierte seinbei den Herden deiner Gef\u00e4hrten?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Salomo: - Ist es dir nicht bekannt,du Sch\u00f6nste unter den Frauen,so geh nur hinaus, den Spuren der Schafe nach,und weide deine Zickleinbei den Wohnungen der Hirten!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Einer Stute am Wagen des Pharaovergleiche ich dich, meine Freundin!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Deine Wangen sind lieblich in den Kettchen,dein Hals in den Perlenschn\u00fcren!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wir wollen dir goldene Kettchen machenmit silbernen Punkten!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sulamit: - Solange der K\u00f6nig an seiner Tafel war,gab meine Narde ihren Duft."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mein Geliebter ist mir ein Myrrhenb\u00fcschel,das zwischen meinen Br\u00fcsten ruht."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mein Geliebter ist mir wie ein B\u00fcschel der Cyperblumein den Weinbergen von En-Gedi!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Salomo: - Siehe, du bist sch\u00f6n, meine Freundin,siehe, du bist sch\u00f6n;deine Augen sind [wie] Tauben!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sulamit: - Siehe, du bist sch\u00f6n, mein Geliebter,und so lieblich!Ja, unser Lager ist gr\u00fcn."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Zedern sind die Balken unseres Hauses,Zypressen unsere T\u00e4felung."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Die Sehnsucht der Braut nach dem Geliebten - Ich bin eine Narzisse von Saron,eine Lilie der T\u00e4ler."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Salomo: - Wie eine Lilie unter den Dornen,so ist meine Freundin unter den T\u00f6chtern!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Sulamit: - Wie ein Apfelbaum unter den B\u00e4umen des Waldes,so ist mein Geliebter unter den S\u00f6hnen!In seinem Schatten sa\u00df ich so gern,und seine Frucht war meinem Gaumen s\u00fc\u00df."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Er f\u00fchrte mich ins Weinhaus,und die Liebe ist sein Banner \u00fcber mir."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "St\u00e4rkt mich mit Rosinenkuchen,erquickt mich mit \u00c4pfeln;denn ich bin krank vor Liebe!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Er lege seine Linke unter mein Hauptund umarme mich mit seiner Rechten!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ich beschw\u00f6re euch, ihr T\u00f6chter Jerusalems,bei den Gazellen oder den Hindinnen des Feldes:Erregt und erweckt nicht die Liebe,bis es ihr gef\u00e4llt!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Da ist die Stimme meines Geliebten!Siehe, er kommt!Er springt \u00fcber die Berge,er h\u00fcpft \u00fcber die H\u00fcgel!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mein Geliebter gleicht einer Gazelleoder dem jungen Hirsch.Siehe, da steht erhinter unserer Mauer,schaut zum Fenster hinein,blickt durchs Gitter."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mein Geliebter beginnt und spricht zu mir: \u00bbMach dich auf, meine Freundin,komm her, meine Sch\u00f6ne!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Denn siehe, der Winter ist vor\u00fcber,der Regen hat sich auf und davon gemacht;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "die Blumen zeigen sich auf dem Land,die Zeit des Singvogels ist da,und die Stimme der TurteltaubenL\u00e4sst sich h\u00f6ren in unserem Land;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "am Feigenbaum r\u00f6ten sich die Fr\u00fchfeigen,und die Reben verbreiten Bl\u00fctenduft;komm, mach dich auf, meine Freundin;meine Sch\u00f6ne, komm doch!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Meine Taube in den Felsenkl\u00fcften,im Versteck der Felsenwand;Lass mich deine Gestalt sehen,Lass mich deine Stimme h\u00f6ren!Denn deine Stimme ist s\u00fc\u00df,und lieblich ist deine Gestalt.\u00ab"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Fangt uns die F\u00fcchse,die kleinen F\u00fcchse,welche die Weinberge verderben;denn unsere Weinberge stehen in Bl\u00fcte!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Mein Geliebter ist mein,und ich bin sein,der unter den Lilien weidet."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Bis der Tag k\u00fchl wirdund die Schatten fliehen,kehre um, mein Geliebter,sei gleich der Gazelleoder dem jungen Hirschauf den zerkl\u00fcfteten Bergen!"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Die Suche der Braut \u2013 die Herrlichkeit des Geliebten Sulamit: - Auf meinem Lager in den N\u00e4chtensuchte ich ihn, den meine Seele liebt;ich suchte ihn, aber ich fand ihn nicht."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00bbIch will doch aufstehen und in der Stadt umherlaufen,auf den Stra\u00dfen und Pl\u00e4tzen;ich will ihn suchen, den meine Seele liebt!\u00abIch suchte ihn, aber ich fand ihn nicht."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mich fanden die W\u00e4chter,welche die Runde machten in der Stadt:Habt ihr ihn gesehen, den meine Seele liebt?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kaum war ich an ihnen vor\u00fcbergegangen,da fand ich ihn, den meine Seele liebt.Ich hielt ihn fest und lie\u00df ihn nicht mehr los,bis ich ihn in das Haus meiner Mutter gebracht hatte,ins Gemach derer, die mich empfangen hat."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ich beschw\u00f6re euch, ihr T\u00f6chter Jerusalems,bei den Gazellen oder bei den Hindinnen des Feldes:Erregt und erweckt nicht die Liebe,bis es ihr gef\u00e4llt!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Die T\u00f6chter Jerusalems: - Wer kommt da von der W\u00fcste herauf?Es sieht aus wie Rauchs\u00e4ulenvon brennendem Weihrauch und Myrrhe,von allerlei Gew\u00fcrzpulver der Kr\u00e4mer."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Siehe da, Salomos S\u00e4nfte:sechzig Helden sind rings um sie her,von den Helden Israels!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Sie alle sind mit Schwertern bewaffnet,im Krieg ge\u00fcbt,jeder hat sein Schwert an der Seite,damit nichts zu f\u00fcrchten sei w\u00e4hrend der Nacht."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Der K\u00f6nig Salomo lie\u00df sich eine S\u00e4nfte machen,aus dem Holz des Libanon."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ihre S\u00e4ulen lie\u00df er aus Silber machen,ihre Lehne aus Gold,ihren Sitz aus Purpur,das Innere wurde mit Liebe ausgestattetvon den T\u00f6chtern Jerusalems."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kommt heraus, ihr T\u00f6chter Zions, und betrachtetden K\u00f6nig Salomo mit dem Kranz,mit dem seine Mutter ihn bekr\u00e4nzt hatan seinem Hochzeitstag,am Tag der Freude seines Herzens!"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Die Vorz\u00fcge der Braut Salomo: - Siehe, du bist sch\u00f6n, meine Freundin,siehe, du bist sch\u00f6n;deine Augen sind [wie] Taubenhinter deinem Schleier;dein Haar gleicht der Ziegenherde,die vom Bergland Gilead herabwallt."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Deine Z\u00e4hne gleichen einer Herde frisch geschorener Schafe,die von der Schwemme kommen,die allesamt Zwillinge tragen,und von denen keines unfruchtbar ist."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Deine Lippen sind wie eine Karmesinschnur,und dein Mund ist lieblich;wie Granat\u00e4pfelh\u00e4lften sind deine Schl\u00e4fenhinter deinem Schleier."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dein Hals gleicht dem Turm Davids,zum Arsenal erbaut,mit tausend Schildern beh\u00e4ngt,allen Schilden der Helden."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Deine beiden Br\u00fcste gleichen jungen Gazellen,Gazellenzwillingen,die zwischen den Lilien weiden."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bis der Tag k\u00fchl wirdund die Schatten fliehen,will ich auf den Myrrhenberg gehenund auf den Weihrauchh\u00fcgel!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sch\u00f6n bist du, meine Freundin, in allem,und kein Makel ist an dir!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Komm mit mir vom Libanon, [meine] Braut,komm mit mir vom Libanon!Steig herab vom Gipfel des Amana,vom Gipfel des Schenir und des Hermon,von den Lagerst\u00e4tten der L\u00f6wen,von den Bergen der Leoparden!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Du hast mir das Herz geraubt,meine Schwester, [meine] Braut;mit einem einzigen deiner Blickehast du mir das Herz geraubt,mit einem einzigen Kettchen von deinem Halsschmuck!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wie sch\u00f6n ist deine Liebe,meine Schwester, [meine] Braut;wie viel besser ist deine Liebe als Wein,und der Duft deiner Salbenals alle Wohlger\u00fcche!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Honigseim tr\u00e4ufeln deine Lippen, [meine] Braut,Honig und Milch sind unter deiner Zunge,und der Duft deiner Kleiderist wie der Duft des Libanon!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ein verschlossener Gartenist meine Schwester, [meine] Braut;ein verschlossener Born,eine versiegelte Quelle."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Deine Sch\u00f6sslinge sind ein Lustgarten von Granatb\u00e4umenmit herrlicher Frucht,Cyperblumen mit Narden;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Narden und Safran,Kalmus und Zimt,samt allerlei Weihrauchgeh\u00f6lz,Myrrhe und Aloeund den edelsten Gew\u00fcrzen;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "eine Gartenquelle,ein Brunnen lebendigen Wassers,und B\u00e4che, die vom Libanon flie\u00dfen!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sulamit: - Erwache, du Nordwind,und komm, du S\u00fcdwind,durchwehe meinen Garten,Dass sein Balsam tr\u00e4ufle!Mein Geliebter komme in seinen Gartenund esse seine herrliche Frucht!"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Die Braut auf der Suche nach dem Geliebten Salomo: - Ich komme in meinen Garten,meine Schwester, [meine] Braut;ich pfl\u00fccke meine Myrrhe samt meinem Balsam;ich esse meine Wabe samt meinem Honig,ich trinke meinen Wein samt meiner Milch.Esst, [meine] Freunde,trinkt und berauscht euch an der Liebe!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sulamit: - Ich schlafe, aber mein Herz wacht.Da ist die Stimme meines Geliebten, der anklopft!\u00bbTu mir auf, meine Schwester, meine Freundin,meine Taube, meine Makellose;denn mein Haupt ist voll Tau,meine Locken voll von Tropfen der Nacht!\u00ab"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bbIch habe mein Kleid ausgezogen,wie sollte ich es [wieder] anziehen?Ich habe meine F\u00fc\u00dfe gewaschen,wie sollte ich sie [wieder] besudeln?\u00ab"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Aber mein Geliebter streckte seine Hand durch die Luke;da geriet mein Herz in Wallung seinetwegen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ich stand auf, um meinem Geliebten zu \u00f6ffnen;da troffen meine H\u00e4nde von Myrrheund meine Finger von feinster Myrrheauf dem Griff des Riegels."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ich tat meinem Geliebten auf;aber mein Geliebter hatte sich zur\u00fcckgezogen, war fortgegangen.Meine Seele ging hinaus, auf sein Wort;ich suchte ihn, aber ich fand ihn nicht;ich rief ihm, aber er antwortete mir nicht."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Es fanden mich die W\u00e4chter,welche die Runde machen in der Stadt;die schlugen mich wund,sie nahmen mir meinen Schleier weg,die W\u00e4chter auf der Mauer."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ich beschw\u00f6re euch, ihr T\u00f6chter Jerusalems,wenn ihr meinen Geliebten findet,was sollt ihr ihm berichten?Dass ich krank bin vor Liebe!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Die T\u00f6chter Jerusalems: - Was ist dein Geliebter vor anderen Geliebten,o du Sch\u00f6nste unter den Frauen?Was ist dein Geliebter vor anderen Geliebten,dass du uns so beschw\u00f6rst?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sulamit: - Mein Geliebter ist wei\u00df und rot,hervorragend unter Zehntausenden!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sein Haupt ist reines Feingold,seine Locken sind gewellt,schwarz wie ein Rabe."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Seine Augen sind wie Taubenan Wasserb\u00e4chen,gebadet in Milch,sie sitzen [wie Edelsteine] in ihrer Fassung."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Seine Wangen sind wie Balsambeete,in denen w\u00fcrzige Pflanzen turmhoch wachsen;seine Lippen wie Lilien,aus denen feinste Myrrhe flie\u00dft."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Seine Finger sind wie goldene St\u00e4bchen,mit Tarsisstein besetzt;sein Leib ein Kunstwerk von Elfenbein,mit Saphiren \u00fcbers\u00e4t."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Seine Schenkel sind S\u00e4ulen aus wei\u00dfem Marmor,gegr\u00fcndet auf goldene Sockel;seine Gestalt wie der Libanon,auserlesen wie Zedern."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sein Gaumen ist s\u00fc\u00df,und alles an ihm ist lieblich.So ist mein Geliebter,und so ist mein Freund,ihr T\u00f6chter Jerusalems!"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Die Freude der Wiedervereinigung Die T\u00f6chter Jerusalems: - Wohin ist dein Geliebter gegangen,du Sch\u00f6nste unter den Frauen?Wohin hat sich dein Geliebter gewandt?Wir wollen ihn mit dir suchen!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sulamit: - Mein Geliebter ist in seinen Garten hinabgegangen,zu den Balsambeeten,um sich in den G\u00e4rten zu ergehenund Lilien zu pfl\u00fccken!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ich bin meines Geliebten,und mein Geliebter ist mein,der unter den Lilien weidet."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Salomo: - Du bist sch\u00f6n, meine Freundin, wie Tirza,lieblich wie Jerusalem,furchtgebietend wie Heerscharen mit Kriegsbannern!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Wende deine Augen ab von mir,denn sie \u00fcberw\u00e4ltigen mich!Dein Haar gleicht der Ziegenherde,die vom Bergland Gilead herabwallt."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Deine Z\u00e4hne gleichen einer Herde Mutterschafe,die von der Schwemme kommen,die allesamt Zwillinge tragen,und von denen keines unfruchtbar ist."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Wie Granatapfelh\u00e4lften sind deine Schl\u00e4fenhinter deinem Schleier."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Sechzig K\u00f6niginnen sind es,und achtzig Nebenfrauen,dazu Jungfrauen ohne Zahl;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "[doch] diese eine ist meine Taube,meine Makellose;sie ist die Einzige ihrer Mutter,sie ist die Auserw\u00e4hlte derer, die sie geboren hat.Die T\u00f6chter sahen sieund priesen sie gl\u00fccklich,die K\u00f6niginnen und Nebenfrauenr\u00fchmten sie:"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wer ist sie, die hervorgl\u00e4nzt wie das Morgenrot,sch\u00f6n wie der Mond,klar wie die Sonne,furchtgebietend wie Heerscharen mit Kriegsbannern?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sulamit: - Zum Nussgarten war ich hinabgegangen,um die gr\u00fcnen Triebe des Tales zu betrachten,um zu sehen, ob der Weinstock ausgeschlagen,ob die Granatb\u00e4ume Bl\u00fcten getrieben h\u00e4tten"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u2014 ich wusste nicht, dass mein Verlangen mich gesetzt hatteauf die Wagen meines edlen Volkes."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Die Sch\u00f6nheit der Braut und ihre Zuneigung zu dem Geliebten Die T\u00f6chter Jerusalems: - Dreh dich, dreh dich, o Sulamit,dreh dich, dreh dich, dass wir dich betrachten! Sulamit: - Was wollt ihr Sulamit betrachtenwie den Reigen von Mahanaim?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Die T\u00f6chter Jerusalems: - Wie sch\u00f6n sind deine Schritte in den Schuhen,du Tochter eines Edlen!Die W\u00f6lbungen deiner H\u00fcften sind wie ein Schmuckst\u00fcck,von K\u00fcnstlerhand gemacht."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dein Scho\u00df ist wie eine runde Schale,in der der Mischwein nicht fehlt;dein Leib ist wie aufgeh\u00e4ufte Weizenk\u00f6rner,mit Lilien eingefasst;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "deine beiden Br\u00fcste gleichen zwei jungen Gazellen,Gazellenzwillingen;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "dein Hals gleicht einem Turm aus Elfenbein,deine Augen den Teichen von Hesbon am Tor Batrabbim;deine Nase ist wie der Libanonturm,der nach Damaskus schaut."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dein Haupt gleicht dem Karmel,und dein herabh\u00e4ngendes Haupthaar dem Purpur;der K\u00f6nig ist gefesselt durch deine Locken."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Salomo: - Wie sch\u00f6n bist du und wie lieblich,o Liebe voller Wonnen!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dieser dein Wuchs ist der Palme gleich,und deine Br\u00fcste den Trauben."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ich sprach: Ich will die Palme besteigenund ihre Zweige erfassen;dann werden deine Br\u00fcste mir seinwie Trauben des Weinstocks,und der Duft deiner Nase wie \u00c4pfel,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "und dein Gaumen wie der beste Wein \u2014 Sulamit: - \u2026 der meinem Geliebten sanft hinuntergleitet,\u00dcber die Lippen der Schlafenden rieselt."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ich geh\u00f6re meinem Geliebten,und sein Verlangen steht nach mir!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Komm, mein Geliebter,wir wollen aufs Feld hinausgehen,in den D\u00f6rfern \u00fcbernachten;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "wir wollen fr\u00fch zu den Weinbergen aufbrechen,nachsehen, ob der Weinstock ausgeschlagen hat,ob die Bl\u00fcten sich ge\u00f6ffnet haben,ob die Granatb\u00e4ume bl\u00fchen;dort will ich dir meine Liebe schenken!"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Die Macht der Liebe Sulamit: - Ach, dass du mir w\u00e4rst wie ein Bruder,der die Br\u00fcste meiner Mutter sog!Dann d\u00fcrfte ich dich doch k\u00fcssen,wenn ich dich drau\u00dfen tr\u00e4fe,ohne dass man mich deshalb verachtete."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ich wollte dich f\u00fchren, dich bringenins Haus meiner Mutter;du w\u00fcrdest mich lehren;ich w\u00fcrde dich mit W\u00fcrzwein tr\u00e4nken,mit meinem Granat\u00e4pfelmost."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Seine Linke sei unter meinem Haupt,und seine Rechte umfange mich!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ich beschw\u00f6re euch, ihr T\u00f6chter Jerusalems:Erregt und erweckt nicht die Liebe,bis es ihr gef\u00e4llt!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Die T\u00f6chter Jerusalems: - Wer ist sie, die da heraufkommt von der W\u00fcste,gest\u00fctzt auf ihren Geliebten? Salomo: - Unter dem Apfelbaum weckte ich dich auf;dort litt deine Mutter Wehen f\u00fcr dich,dort litt sie Wehen, die dich gebar."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Setze mich wie ein Siegel auf dein Herz,wie ein Siegel an deinen Arm!Denn die Liebe ist stark wie der Tod,und ihr Eifer unbezwinglich wie das Totenreich;ihre Glut ist Feuerglut,eine Flamme des HERRN."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Gro\u00dfe Wasser k\u00f6nnen die Liebe nicht ausl\u00f6schen,und Str\u00f6me sie nicht ertr\u00e4nken.Wenn einer allen Reichtum seines Hauses um die Liebe g\u00e4be,so w\u00fcrde man ihn nur verachten!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Die T\u00f6chter Jerusalems: - Wir haben eine kleine Schwester,die noch keine Br\u00fcste hat.Was tun wir nun mit unserer Schwesteran dem Tag, da man um sie wirbt?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ist sie eine Mauer, so bauen wireine silberne Zinne darauf;ist sie aber eine T\u00fcr,so verschlie\u00dfen wir siemit einem Zedernbrett!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sulamit: - Ich bin eine Mauer,und meine Br\u00fcste sind wie T\u00fcrme;da wurde ich in seinen Augenwie eine, die Frieden gefunden hat."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Salomo hatte einen Weinbergbei Baal-Hamon;er \u00fcbergab den Weinberg den H\u00fctern,jeder sollte f\u00fcr seine Frucht tausend Silberlinge bringen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mein eigener Weinberg liegt vor mir;die tausend geh\u00f6ren dir, o Salomo,und zweihundert den H\u00fctern seiner Frucht!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Salomo: - Die du in den G\u00e4rten wohnst,die Gef\u00e4hrten lauschen deiner Stimme;Lass mich sie h\u00f6ren!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Sulamit: - Eile dahin, mein Geliebter,und sei der Gazelle gleichoder dem jungen Hirschauf den Balsambergen!"
+                }
+            }
+        }
+    }
+}

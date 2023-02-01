@@ -1,0 +1,515 @@
+{
+    "version": "SLV",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pesem pesmi, ki je Salomonova."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Naj me poljublja s poljubi svojih ust, kajti tvoja ljubezen je bolj\u0161a kakor vino."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Zaradi vonja tvojih dobrih mazil je tvoje ime kakor izlito mazilo, zato te ljubijo device."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Povleci me, me bomo tekle za teboj: kralj me je privedel v svoje sobe: me bomo vesele in se veselile v tebi, me se bomo spominjale tvoje ljubezni bolj kakor vina: po\u0161teni te ljubijo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u010crna sem, toda ljubka, oh ve h\u010dere jeruzalemske, kakor ked\u00e1rski \u0161otori, kakor Salomonove zavese."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne glejte name, ker sem po\u010drnela, ker je name pogledalo sonce: otroci moje matere so bili jezni name; postavili so me za varuhinjo vinogradov; toda svojega lastnega vinograda nisem varovala."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Povej mi, oh ti, katerega ljubi moja du\u0161a, kje ti pase\u0161, kje daje\u0161 svojemu tropu, da po\u010diva opoldan, kajti zakaj bi bila jaz kakor nekdo, ki se obra\u010da vstran ob tropih tvojih dru\u017eabnikov?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u010ce ne ve\u0161, oh, najlep\u0161a med \u017eenami, pojdi svojo pot naprej ob stopinjah tropa in pasi svoje kozli\u010dke poleg pastirskih \u0161otorov."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Primerjal sem te, oh moja ljubezen, s skupino konj v faraonovih bojnih vozovih."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tvoja lica so ljubka z nizi draguljev, tvoj vrat z veri\u017eicami iz zlata."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Naredile ti bomo zlate robove s srebrnimi kroglicami."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Medtem ko kralj sedi pri svoji mizi, moja narda oddaja svoj vonj."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Moj sr\u010dno ljubljeni mi je sve\u017eenj mire; vso no\u010d bo le\u017eal med mojimi prsmi."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Moj ljubljeni mi je kakor skupina kan v engedijskih vinogradih."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Glej, lepa si, moja ljubezen; glej, lepa si; ima\u0161 o\u010di golobice."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Glej, lep si, moj ljubljeni, da, prijeten: tudi najina postelja je zelena."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Bruna najine hi\u0161e so cedre in najini trami v ostre\u0161ju iz cipresovine."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jaz sem vrtnica \u0160ar\u00f3na in dolinska lilija."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kakor lilija med trnjem, tako je moja ljubezen med h\u010derami."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kakor jablana med gozdnim drevjem, tak je moj ljubljeni med sinovi. Z velikim veseljem sem se usedla pod njeno senco in njen sad je bil sladek mojemu okusu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Privedel me je v hi\u0161o gostije in njegov prapor nad menoj je bila ljubezen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pote\u0161ite me s fla\u0161koni, tola\u017eite me z jabolki; kajti jaz sem bolna od ljubezni."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Njegova leva roka je pod mojo glavo in njegova desnica me objema."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Naro\u010dam vam, oh ve h\u010dere jeruzalemske, pri srnah in pri poljskih ko\u0161utah, da ne razvnamete niti ne zbudite moje ljubezni, dokler njemu ugaja."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Glas mojega ljubljenega! Glej, prihaja, ska\u010de na gorah, poskakuje na hribih."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Moj ljubljeni je podoben srni ali mlademu jelenu: glej, stoji za na\u0161im zidom, gleda pri oknih, ka\u017ee se skozi mre\u017eo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Moj ljubljeni je spregovoril in mi rekel: \u201eVstani, moja ljubezen, moja lepotica in odleti."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kajti glej, zima je minila, de\u017e je mimo in je izginil;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "cvetlice se pojavljajo na zemlji; pri\u0161el je \u010das petja ptic in glas grlice se sli\u0161i v na\u0161i de\u017eeli;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "figovo drevo poganja svoje zelene fige in trte z ne\u017enim grozdjem dajejo dober vonj. Vstani, moja ljubezen, moja lepotica in odleti."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Oh, moja golobica, ki si v razpokah skale, na skrivnih krajih stopnic, naj vidim tvoje obli\u010dje, naj sli\u0161im tvoj glas; kajti tvoj glas je prijeten in tvoje obli\u010dje je ljubko.\u201c"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ujemite nama lisice, majhne lisice, ki plenijo trte, kajti najine trte imajo ne\u017eno grozdje."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Moj ljubljeni je moj in jaz sem njegova: on pase med lilijami."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Dokler se ne zdani in sence [ne] odletijo, se obrni, moj ljubljeni in bodi podoben srni ali mlademu jelenu na gorah Beterja."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pono\u010di sem na svoji postelji iskala njega, ki ga ljubi moja du\u0161a: iskala sem ga, toda nisem ga na\u0161la."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sedaj se bom dvignila in \u0161la okoli mesta, po ulicah in po \u0161irokih poteh bom iskala njega, ki ga ljubi moja du\u0161a: iskala sem ga, toda nisem ga na\u0161la."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Stra\u017earji, ki hodijo po mestu, so me na\u0161li: katerim sem rekla: \u201eAli ste videli tistega, ki ga ljubi moja du\u0161a?\u201c"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ni bilo dolgo, ko sem od\u0161la od njih, toda na\u0161la sem tistega, ki ga ljubi moja du\u0161a: prijela sem ga in ga nisem hotela izpustiti, dokler ga nisem privedla v hi\u0161o svoje matere in v sobo nje, ki me je spo\u010dela."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Naro\u010dam vam, oh ve h\u010dere jeruzalemske, pri srnah in pri poljskih ko\u0161utah, da ne razvnamete niti ne zbudite moje ljubezni, dokler njemu ugaja."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kdo je ta, ki prihaja iz divjine, podobna stebrom dima, odi\u0161avljena z miro in kadilom, z vsemi trgov\u010devimi pra\u0161ki?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Poglej njegovo posteljo, ki je Salomonova; \u0161estdeset hrabrih mo\u017e je okoli nje, izmed Izraelovih hrabrih."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vsi dr\u017eijo me\u010de, izku\u0161eni so v vojni: vsak \u010dlovek ima svoj me\u010d na svojem stegnu zaradi strahu pono\u010di."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kralj Salomon si je naredil bojni voz iz libanonskega lesa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Njegove stebre je naredil iz srebra, njegovo dno iz zlata, njegovo pokrivalo iz \u0161krlata, njegova sreda je bila tlakovana z ljubeznijo do jeruzalemskih h\u010dera."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pojdite ven, oh ve, h\u010dere sionske in glejte kralja Salomona s krono, s katero ga je na dan njegovih zarok kronala njegova mati in na dan veselja njegovega srca."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Glej, ti si lepotica, moja ljubezen; glej, ti si lepotica: znotraj svojih pramenov ima\u0161 o\u010di golobice: tvoji lasje so kakor trop koz, ki se pojavljajo z gore Gile\u00e1d."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tvoji zobje so podobni tropu ovc, ki so gladko ostri\u017eene, ki so pri\u0161le gor iz kopanja; od katerih vsaka rodi dvoj\u010dke in med njimi ni nobene jalove."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tvoje ustnice so podobne \u0161krlatnemu sukancu in tvoj govor je ljubek: tvoja s\u00e8nca so podobna ko\u0161\u010dku granatnega jabolka znotraj tvojih pramenov."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tvoj vrat je podoben Davidovemu stolpu, zgrajenemu za oro\u017earno, na katerem visi tiso\u010d majhnih \u0161\u010ditov, vsi \u0161\u010diti mogo\u010dnih ljudi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tvoji dve dojki sta podobni dvema mladima srnama, ki sta dvoj\u010dici, ki se paseta med lilijami."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dokler se ne zdani in sence ne odletijo, se bom spravila do gore mire in k hribu kadila."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ti si docela lepotica, moja ljubezen; made\u017ea ni na tebi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pridi z menoj iz Libanona, moja nevesta; z menoj iz Libanona: poglej iz vrha Am\u00e1ne, iz vrha Sen\u00edrja in Hermona, iz levjih brlogov, z gora leopardov."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "O\u010darala si moje srce, moja sestra, moja nevesta; z enim izmed svojih o\u010des si o\u010darala moje srce, z eno veri\u017eico svojega vratu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kako po\u0161tena je tvoja ljubezen, moja sestra, moja nevesta! Kako mnogo bolj\u0161a je tvoja ljubezen kakor vino! In vonj tvojih mazil kakor vse di\u0161ave."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tvoje ustnice, oh moja nevesta, kapljajo kakor satovje: med in mleko sta pod tvojim jezikom; in vonj tvojih oblek je podoben vonju Libanona."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Obdan vrt je moja sestra, moja nevesta; zaprt izvir, zape\u010daten studenec."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tvoje rastline so sadovnjak granatnih jabolk s prijetnimi sadovi; kana z nardo,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "narda in \u017eafran; kolme\u017e in cimet, z vsemi kadilnimi drevesi; mira in aloja z vsemi vodilnimi di\u0161avami:"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "vrtni studenec, vodnjak \u017eivih vod\u00e1 in vodotoki iz Libanona."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zbudi se, oh severni veter; in pridi, ti jug; pihaj na moj vrt, da bodo njegove di\u0161ave lahko iztekale. Naj moj ljubljeni pride v svoj vrt in j\u00e9 svoje prijetno sadje."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pri\u0161el sem v svoj vrt, moja sestra, moja nevesta: nabral sem svojo miro s svojo di\u0161avo; pojedel sem svoje satovje s svojim medom; popil sem svoje vino s svojim mlekom: jejta, oh prijatelja; pijta, da, obilno pijta, oh ljubljena."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Spim, toda moje srce bedi: to je glas mojega ljubljenega, ki trka, reko\u010d: \u201eOdpri mi, moja sestra, moja ljubezen, moja golobica, moja neomade\u017eevana, kajti moja glava je napolnjena z roso in moji prameni z no\u010dnimi kapljami.\u201c"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Slekla sem svoj pla\u0161\u010d; kako naj ga oble\u010dem? Umila sem svoja stopala; kako naj jih omade\u017eujem?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Moj ljubljeni je svojo roko polo\u017eil pri lini od vrat in moja notranjost je bila spodbujena zanj."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vstala sem, da odprem svojemu ljubljenemu; in moje roke so kapljale z miro in moji prsti s sladko di\u0161e\u010do miro na ro\u010daje zapaha."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Odprla sem svojemu ljubljenemu; toda moj ljubljeni se je umaknil in izginil: moji du\u0161i ni zadostovalo, ko je govoril: iskala sem ga, toda nisem ga mogla najti: klicala sem ga, toda ni mi dal odgovora."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Stra\u017earji, ki so \u0161li okoli mesta, so me na\u0161li, udarili so me, ranili so me; \u010duvaji zidov so mi odvzeli moje zagrinjalo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Naro\u010dam vam, oh h\u010dere jeruzalemske, \u010de najdete mojega ljubljenega, da mu poveste, da sem bolna od ljubezni."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kaj je tvoj ljubljeni ve\u010d kakor drug ljubljeni, oh ti, najlep\u0161a med \u017eenami? Kaj je tvoj ljubljeni ve\u010d kakor drug ljubljeni, da nas ti tako bremeni\u0161?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Moj ljubljeni je bel in rde\u010dkast, vodilen med deset tiso\u010di."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Njegova glava je kakor najbolj \u010disto zlato, njegovi prameni so ko\u0161ati in \u010drni kakor krokar."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Njegove o\u010di so kakor o\u010di golobice pri rekah vod\u00e1, umite z mlekom in primerno postavljene."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Njegova lica so kakor postelja iz di\u0161av, kakor di\u0161e\u010de cvetlice: njegove ustnice [so] podobne lilijam, ki kapljajo sladko di\u0161e\u010do miro."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Njegove roke so kakor niz zlatih prstanov z berilom: njegov trebuh je kakor svetla slonovina, prevle\u010dena s safirji."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Njegove noge so kakor marmorni stebri, postavljeni na podstavke iz \u010distega zlata: njegovo obli\u010dje je kakor Libanon, odli\u010dno kakor cedre."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Njegova usta so najbolj sladka: da, on je povsem o\u010darljiv. To je moj ljubljeni in to je moj prijatelj. Oh h\u010dere jeruzalemske."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kam je od\u0161el tvoj ljubljeni, oh ti, najlep\u0161a med \u017eenami? Kam se je tvoj ljubljeni obrnil? Da ga bomo lahko iskale s teboj."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Moj ljubljeni je od\u0161el dol v svoj vrt, k posteljam iz di\u0161av, da pase v vrtovih in da nabira lilije."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jaz sem svojega ljubljenega in moj ljubljeni je moj: on pase med lilijami."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ti si krasna, oh moja ljubezen, kakor Tirca, ljubka kakor Jeruzalem, stra\u0161na kakor vojska s prapori."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Svoje o\u010di odvrni od mene, kajti prevzele so me: tvoji lasje so kakor trop koz, ki se pojavljajo iz Gile\u00e1da."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tvoji zobje so kakor trop ovc, ki gredo gor s kopanja, od katerih vsaka rojeva dvoj\u010dke in med njimi ni niti ene jalove."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kakor ko\u0161\u010dek granatnega jabolka so tvoja s\u00e8nca znotraj tvojih pramenov."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u0160estdeset je kraljic in osemdeset prile\u017enic in devic brez \u0161tevila."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Moja golobica, moja neomade\u017eevana je le ena; je samo ena od svoje matere, je izbranka nje, ki jo je rodila. H\u010dere so jo videle in jo blagoslovile; da, kraljice in prile\u017enice in so jo hvalile."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kdo je tista, ki gleda kakor jutro, lepa kakor luna, \u010dista kakor sonce in stra\u0161na kakor vojska s prapori?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Od\u0161la sem dol v orehov vrt, da vidim sadove doline in da vidim, \u010de trta cveti in granatna jabolka brste."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Preden sem se zavedla, me je moja du\u0161a naredila podobno Aminad\u00e1bovim bojnim vozovom."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Vrni se, vrni se, oh \u0160ul\u00e1mka; vrni se, vrni se, da te lahko pogledamo. Kaj boste videli na \u0160ul\u00e1mki? Kot bi bila to skupina dveh vojsk."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kako krasna so tvoja stopala s \u010devlji, oh prin\u010deva h\u010di! Sklepi tvojih stegen so podobni draguljem, delo rok spretnega delavca."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tvoj popek je podoben okrogli \u010da\u0161ici, ki no\u010de \u017egane pija\u010de: tvoj trebuh je podoben kupu p\u0161enice, obsutemu z lilijami."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tvoji dve dojki sta podobni dvema mladima srnama, ki sta dvoj\u010dici."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tvoj vrat je kakor stolp iz slonovine; tvoje o\u010di [so] podobne ribnikom v He\u0161b\u00f3nu, pri Batrab\u00edmskih velikih vratih: tvoj nos je kakor libanonski stolp, ki gleda proti Damasku."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tvoja glava na tebi je podobna Karmelu in lasje tvoje glave [so] podobni \u0161krlatu; kralj je zadr\u017ean v galerijah."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kako lepa in kako prijetna si ti, oh ljubezen, za naslade!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ta tvoja postava je podobna palmovemu drevesu in tvoje prsi grozdnim grozdom."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Rekel sem: \u201e\u0160el bom gor k palmovemu drevesu, zgrabil bom njegove veje: sedaj bodo tudi tvoje prsi kakor grozdi vinske trte in vonj tvojega nosu podoben jabolkom;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "in nebo tvojih ust podobno najbolj\u0161emu vinu za mojega ljubljenega, ki gre med\u00e9no dol, povzro\u010dujo\u010d ustnicam tistih, ki spijo, da spregovorijo.\u201c"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jaz sem svojega ljubljenega in njegovo hrepenenje je po meni."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pridi, moj ljubljeni, pojdiva na polje; preno\u010dujva v vaseh."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vstaniva zgodaj k vinogradom; poglejva, \u010de trta cveti, ali se pojavlja ne\u017eno grozdje in granatna jabolka brste: tam ti bom dala svoje ljubezni."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nadli\u0161\u010dki dajejo vonj in pri na\u0161ih velikih vratih so vse vrste prijetnih sadov, novi in stari, katere sem oskrbela zate, oh moj ljubljeni."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Oh, da bi bil kakor moj brat, ki je sesal prsi moje matere! Ko bi te na\u0161la zunaj, bi te poljubila; da, ne bi bila prezirana."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vodila bi te in te privedla v hi\u0161o svoje matere, ki bi me pou\u010dila: povzro\u010dila bi ti, da pije\u0161 di\u0161e\u010d vinski sok mojih granatnih jabolk."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Njegova leva roka bi bila pod mojo glavo in njegova desnica bi me objela."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Naro\u010dam vam, oh h\u010dere jeruzalemske, da ne razvnamete niti ne zbudite moje ljubezni, dokler njemu ugaja."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kdo je ta, ki prihaja iz divjine, naslonjena na svojega ljubljenega? Dvignil sem te pod jablano: tam te je rodila tvoja mati: tam te je rodila, ki te je nosila."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Postavi me kakor pe\u010dat na svoje srce, kakor pe\u010dat na svoj laket, kajti ljubezen je mo\u010dna kakor smrt; ljubosumje je kruto kakor grob: njegovi ogorki so ognjeno oglje, ki ima najbolj silovit plamen."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mnogo vod\u00e1 ne more pogasiti ljubezni niti je poplave ne morejo potopiti: \u010de bi \u010dlovek vse imetje svoje hi\u0161e dal za ljubezen, bi bil popolnoma zani\u010devan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mi imamo majhno sestro in ona nima prsi: kaj bomo storili za na\u0161o sestro na dan, ko jo bodo snubili?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u010ce bo zid, bomo na njej zgradili srebrno pala\u010do; in \u010de bo vrata, jo bomo obdali s cedrovimi deskami."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jaz sem zid in moje prsi kakor stolpa: potem sem bila v njegovih o\u010deh kakor nekdo, ki je na\u0161el naklonjenost."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Salomon je imel vinograd v B\u00e1al Ham\u00f3nu; vinograd je dal v najem \u010duvajem; vsak naj bi za njegov sad prinesel tiso\u010d ko\u0161\u010dkov srebra."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Moj vinograd, ki je moj, je pred menoj: ti, oh Salomon, mora\u0161 imeti tiso\u010d, tisti, ki varujejo sad od njega, pa dvesto."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ti, ki prebiva\u0161 v vrtovih, dru\u017eabniki prisluhnejo tvojemu glasu: pripravi me, da ga sli\u0161im."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Podvizaj se, moj ljubljeni in bodi podoben srni ali mlademu jelenu na gorah di\u0161av."
+                }
+            }
+        }
+    }
+}

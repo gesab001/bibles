@@ -1,0 +1,955 @@
+{
+    "version": "DB",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hier volg die woorde van die Prediker, \u2019n seun van Dawid, die koning van Jerusalem."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Alles is sinloos, s\u00ea die Prediker. Absoluut alles. Die lewe het geen sin nie. Alles loop uit op niks."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Elke dag werk jy hard, maar wat kry jy van al jou gesukkel?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Geslagte kom en gaan, maar watter sin het dit? Die lewe gaan maar op sy ou manier voort."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Elke dag kom die son op. Teen sononder gaan dit moeg onder, maar die volgende oggend staan dit weer op."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "En die wind waai eindeloos heen en weer. Dit waai nou di\u00e9 kant toe en dan weer daardie kant toe."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Al die riviere loop see se kant toe, maar die see word nooit vol nie. Die riviere se loop see toe bly altyd dieselfde. Hulle vat altyd dieselfde pad."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Woorde kan \u2019n mens moeg maak met \u2019n moegheid wat niemand kan beskryf nie. Jou oog kyk en kyk sonder om ooit klaar te sien. En jou oor hoor en hoor, maar dit kry nooit klaar gehoor nie."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wat reeds gebeur het, sal maar weer gebeur. En wat mense tot nou toe gedoen het, sal hulle maar m\u00f4re en oorm\u00f4re weer doen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sal iemand ooit kan s\u00ea: \u201cKyk, dit is nou werklik iets nuuts\u201d? Hoegenaamd nie! Dit het al in die gryse verlede en lank voor ons tyd bestaan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Niemand dink meer aan die mense wat lank gelede geleef het nie. Of aan hulle wat nog moet kom nie. Elke geslag dink net aan hulleself. Hulle het die voorgeslag lankal vergeet."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ek, die Prediker, was koning van Israel, in Jerusalem."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ek het besluit om alles wat in hierdie w\u00eareld gebeur, te ondersoek en te probeer verstaan. Ek het uitgevind dat dit \u2019n moeilike taak is wat God die mens opgel\u00ea het om oor sulke dinge na te dink en dit na te vors."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ek het alles gesien wat mense op aarde doen. Net mooi alles was sinloos; \u2019n gejaag agter wind aan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Dit is presies soos die spreekwoord s\u00ea: \u201cAs iets krom is, kan niemand dit reguit maak nie, want niemand kan die w\u00eareld verbeter nie.\u201d"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ek het by myself gedink dat ek oor die jare sommer baie wysheid en lewenskennis versamel het. Baie meer as enigeen wat voor my in Jerusalem regeer het. Al die kennis en wysheid het deel van my lewe geword."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Toe het ek besluit om die verskil tussen wysheid en kennis aan die een kant en domheid en dwaasheid aan die ander kant te leer ken. En ek moet erken dat daar eintlik geen verskil is nie. Alles is maar \u2019n sinlose gejaag na wind."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wie insig in die lewe het, het ook baie verdriet. En wie kennis versamel, ervaar ook groot hartseer."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ek het toe besluit om die lewe te geniet en uit te vind wat vreugde nou eintlik is. Ook dit was \u2019n sinlose gejaag na wind."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ek het ontdek dat om te lag nie veel sin het nie en dat vreugde nie veel beteken nie."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Omdat ek na insig in die lewe gesmag het, het ek my toe aan wyn en genot oorgegee. Ek wou vasstel wat goed is vir \u2019n mens en wat nie."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ek het toe groot projekte aangepak: ek het huise gebou, wingerde aangeplant"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "parke en tuine uitgel\u00ea, verskillende vrugtebome geplant en"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "watervore uitgekap om \u2019n groot bos met groen bome nat te lei."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Verder het ek \u2019n groot klomp werkers, mans en vroue, in diens geneem en hulle kinders my eiendom gemaak. Ek het ook groot troppe vee vir my gekoop, meer as wat enige koning voor my gehad het."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hope silwer en goud het ek bymekaargemaak. Ek het talle sangers en sangeresse aangestel, en baie mooi meisies gekry om my gelukkig te hou."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Naderhand was ek groter en belangriker as enigiemand wat ooit in Jerusalem gewoon het. My soektog na wysheid en insig het ek egter nooit verloor nie."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wat ek in di\u00e9 tyd wou gehad het, het ek gekry. Ek het myself niks onts\u00ea nie. En ek was gelukkig oor wat ek alles bereik het. Dit was die beloning vir al my moeite."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Toe het ek alles wat ek gedoen het, krities begin ondersoek. Oor my werk en inspanning het ek baie nagedink. En ek het besef dat alles sinloos is. Dit is bloot net \u2019n mors van tyd. In hierdie w\u00eareld is daar absoluut g\u00e9\u00e9n sin nie."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ter wille van my opvolger het ek toe besluit om goed na te dink oor die nut van wysheid en dwaasheid."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "En my slotsom? Soos \u2019n lig in die donker beter is as niks nie, so is wysheid beter as domheid."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u2019n Wyse kan dus sien waar om te loop en die dwase nie. Een ding het ek egter ontdek: dieselfde lot tref wyse en dwase mense."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En ek het hiermee geworstel. As dieselfde dinge met die wyse \u00e9n die dwase gebeur, wat is dan die sin van al my wysheid? Ek het toe besef daar is geen sin nie. Die lewe is absoluut sinloos."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Die wyse en die dwase gaan albei die een of ander tyd sterf. En die mense gaan die wyse gou vergeet en die dwase ook nie lank onthou nie."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Die lewe het vir my alle betekenis verloor, want niks op aarde het sin nie. Alles is sinloos en net \u2019n gejaag agter wind aan."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Alles wat ek in my lewe bereik het, het ek begin verafsku omdat my opvolger die vrug daarvan gaan pluk."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "En niemand weet of hy wys of dwaas gaan wees nie. Een ding is egter seker: hy sal alles besit en geniet waarvoor ek hard gewerk het. Dit wat ek deur my wysheid vermag het, sal hy net so oorneem. D\u00edt wys net hoe sinloos die lewe werklik is."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Daarom het ek oor die sin van al my geswoeg op aarde begin twyfel."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u2019n Mens kan elke dag met oorgawe werk, en dan kom daar iemand wat glad nie daarvoor gewerk het nie en hy stap met alles weg. Dit is mos verkeerd; dis opperste sinloosheid."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Wat is dan die sin van al ons harde werk? Wat het \u2019n mens van al sy ideale en sy geswoeg op aarde?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u2019n Mens bring al sy dae deur in hartseer en bekommernis. Selfs nie eens in die nag kry jy rus nie. Alles is sinloos. Absoluut alles."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Die beste ding wat met enige mens kan gebeur, is om te eet en te drink en iets van sy harde werk te geniet. En ek het agtergekom dat ook dit uit God se hand kan kom."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Wie kan tog eet en geniet sonder dat God dit toelaat en dit ook goedkeur?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "As God van iemand hou, gee Hy hom wysheid en kennis en geluk. Al die ander moet hard werk en al hulle geld spaar sodat dit weer aan daardie mense van wie God hou, gegee kan word. Ook dit kom tot niks. Dis \u2019n gejaag na wind."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Alles gebeur op \u2019n bepaalde tyd. Alles in die lewe is vooraf bepaal:\n\u2022"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "daar is \u2019n tyd om gebore te word en daar is \u2019n tyd om dood te gaan;\ndaar is \u2019n tyd om te plant en daar is \u2019n tyd om weer die plante uit te trek;\n\u2022"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "daar is \u2019n vasgestelde tyd om dood te maak en daar is ook \u2019n tyd om gesond te maak;\ndaar is \u2019n tyd om dinge af te breek en \u2019n tyd om dit te herstel;\n\u2022"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "daar is \u2019n tyd wanneer \u2019n mens hartseer is en dan is daar ook weer \u2019n tyd vir vreugde;\ndaar is \u2019n tyd om te huil en \u2019n tyd om weer gelukkig te wees;\n\u2022"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "daar is \u2019n tyd om mekaar lief te h\u00ea en \u2019n tyd om weg van mekaar te wees;\ndaar is \u2019n tyd om mekaar te liefkoos en \u2019n tyd wanneer liefkosing nie pas nie;\n\u2022"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "daar is \u2019n tyd om te soek en \u2019n tyd om goed te laat wegraak;\ndaar is \u2019n tyd om op te gaar en \u2019n tyd om weg te gooi;\n\u2022"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "daar is \u2019n tyd om iets te skeur en \u2019n tyd om dit heel te maak;\ndaar is \u2019n tyd om te praat en \u2019n tyd om stil te bly;\n\u2022"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "daar is \u2019n tyd vir liefh\u00ea en \u2019n tyd vir haat;\n\u2019n tyd vir oorlog en \u2019n tyd vir vrede."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Watter voordeel kry \u2019n mens dan op die ou end uit al sy harde werk?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "God het vir mense \u2019n baie moeilike werk gegee. Hulle moes probeer om God se werk te verstaan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "God het alles mooi en op die regte tyd gemaak. Toe het Hy die mense iets laat verstaan van hoe sy soort tyd werk, maar die mense kon niks daarvan verstaan nie. Absoluut niks nie."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Toe het ek besef al wat die mens maar moet doen, is om gelukkig te wees en die lewe te geniet."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Om tussen al die harde werk deur nog te kan eet en drink en gelukkig te wees is \u2019n geskenk uit die hand van God."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ek weet dat alles wat God doen, vir altyd sal bestaan. Niemand sal iets daarby voeg of iets daarvan wegneem nie omdat God te groot en te sterk is."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Wat nou bestaan, het vroe\u00ebr ook reeds bestaan. En wat nog gaan kom, was alreeds daar. God laat dieselfde dinge weer en weer gebeur."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ek het om my rondgekyk. Toe sien ek: waar die regte dinge moes gebeur, was daar net onreg. Niemand het gedoen wat God vra nie."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ek het gedink daar is \u2019n tyd om te oordeel en \u2019n tyd om te straf, en dat God mense wat doen wat Hy s\u00ea en sondaars billik sal oordeel."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Maar dit sal ongelukkig nie gebeur nie, want volgens God is ons niks beter as \u2019n dier nie."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wat met \u2019n mens gebeur, gebeur ook met \u2019n dier. Die een gaan net soos die ander dood. Albei het dieselfde asem. Die mens is nie beter as die dier nie. Die lewe is regtig sinloos."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u2019n Dooie mens en \u2019n dooie dier gaan na dieselfde plek toe terug. En dit is die stof waaruit albei gemaak is."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Wie weet of die mens se asem opstyg en of die dier s\u2019n in die aarde in wegsink?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Die lewe het my geleer dat die mens dit waarmee hy hom elke dag besig hou, maar moet geniet. Hy kan eintlik nie iets anders nie, want niemand weet wat hierna in die dood gaan gebeur nie."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ek het weer rondom my gekyk en al die slegte dinge raakgesien wat op aarde gebeur. Mense wat deur ander mishandel en verdruk word, het gehuil, maar niemand het hulle getroos nie. Die onderdrukkers het die mag gehad, maar hulle lewe was ook sonder geluk of blydskap."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ek beny daardie mense wat klaar dood is, want hulle is beter daaraan toe as di\u00e9 wat nog leef."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Van almal is die mense wat nog nie gebore is nie, die gelukkigste, want hulle het nog nie al die slegte dinge op aarde gesien nie."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ek het ook agtergekom waarom mense soms so hard werk. Dit is uit jaloesie omdat mense mekaar niks gun nie. Sulke arbeid is absoluut sinloos. Dis niks anders as \u2019n gejaag agter wind aan nie."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hulle s\u00ea dit is dwaas om met jou hande gevou te sit en niks te werk nie, want jy sal van die honger doodgaan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Maar ek s\u00ea: Wees eerder met minder tevrede as om heeltyd agter wind aan te hardloop."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ek het ook iets anders in die lewe gesien wat geen sin maak nie."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En dit is \u2019n man wat ongetroud is en geen seun of broer het nie. Elke dag werk hy hard. Alles wat hy sien, koop hy vir homself. Vir wie sloof hy hom nou af? Wie gaan alles geniet wat hy bymekaarmaak? Die lewe is sinloos, absoluut sinloos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Twee is beter as een, want twee mense kan meer regkry as net een."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "As die een val, kan die ander een hom ophelp. Dit is sleg as die een val en daar is niemand om hom te help nie."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u2019n Mens kan homself nie warm maak nie, maar as twee saaml\u00ea, hou hulle mekaar warm."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Een word maklik oorwin, maar twee kan \u2019n aanval keer. Om nie eens van drie te praat nie. \u2019n Driedubbele tou breek tog nie maklik nie."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dit is goed as \u2019n jong, intelligente man oor die land regeer. Al kom hy uit \u2019n arm familie en al was hy in die tronk"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "is hy nogtans beter as \u2019n dom, ou koning na wie niemand luister nie."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ek het gesien hoe al die mense \u2019n jong koning ondersteun."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Baie mense het van hom gehou, maar volgende geslagte het nie eens meer aan hom gedink nie. Dit wys net hoe sinloos alles is. Alles kom tot niks."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dink mooi voordat jy met die Here praat. Moenie sommer vinnige beloftes aan God maak nie. Onthou, God is baie groot en jy is baie klein. Hy is bo in die hemel en jy is onder op die aarde. Daarom moet jy mooi kyk wat jy s\u00ea."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pas op hoe jy oor jou drome praat, want van te veel praat, kom groot probleme. Kort voor lank s\u00ea jy verkeerde dinge oor God."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "As jy God iets belowe het, moet jy dit so gou moontlik doen. God hou nie van mense wat los en vas beloftes maak nie. Doen wat jy belowe het."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "As jy God iets belowe het, moet jy dit so gou moontlik doen. God hou nie van mense wat los en vas beloftes maak nie. Doen wat jy belowe het."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Moenie dat baie praat jou in die moeilikheid bring nie, want dan moet jy weer vir die priester gaan s\u00ea jy het dit nie so bedoel nie. Waarom wil jy God met al jou gepraat kwaad maak sodat Hy al jou harde werk vernietig?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pas op vir ydele droompraatjies, want dit maak \u2019n mens net vol van jouself. Dien God eerder met groot eerbied."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Moenie verbaas wees as \u2019n regering armes onderdruk en daar geen reg en geregtigheid bestaan nie. Die fout l\u00ea by korrupte amptenare wat mekaar beskerm."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "As \u2019n regeerder in sulke omstandighede ten minste nog die boere help en bystaan, is dit \u2019n stukkie genade."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "As jy lief is vir geld, sal jy altyd nog meer wil h\u00ea. As jy baie besittings wil h\u00ea, sal jy nooit genoeg kry nie. Dit is sinloos. Alles kom tot niks."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hoe ryker jy is, hoe meer mense moet jy kos gee. En watter sin het al jou geld dan? Jy sien dit net, maar geniet dit nooit nie."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Of sy maag nou vol is of nie, \u2019n werker slaap altyd lekker. \u2019n Ryke slaap min, want hy is oor besittings bekommerd. Ook dit kom tot niks."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ek het \u2019n verskriklike ding in hierdie lewe sien gebeur: mense spaar hulle geld, maar dan verloor hulle dit in \u2019n oogwink."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Iemand doen \u2019n slegte transaksie en verloor alles. Dan is daar niks vir sy kinders oor nie."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Soos hy sonder enige besittings gebore is, so gaan hy dan ook sonder enige besittings dood. Ten spyte van al sy harde werk kan hy niks saamvat nie."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Net soos hy met le\u00eb hande in die w\u00eareld gekom het, verlaat hy dit ook weer met le\u00eb hande. Dit is mos nie reg nie, want watter nut het al sy harde werk dan?"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Bowendien is sy hele lewe ook vol swaarkry, kommer en pyn."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Die allerbeste ding wat met \u2019n mens in sy lewe kan gebeur, is om te eet en te drink en die goeie dinge tussen al die swaarkry deur te geniet. Dit is die mens se enigste erfporsie hier op aarde."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wanneer God die mens rykdom gee en hom boonop toelaat om dit te geniet en hom vreugde tussen al die swaarkry hier op aarde gee, is dit \u2019n spesiale geskenk van God."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "As God hom bly en gelukkig maak, dink hy glad nie aan hoe kort en swaar die lewe is nie."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": ""
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "In hierdie lewe het ek iets gesien wat tragies is"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "God gee aan iemand rykdom, besittings en \u2019n baie goeie naam sodat hy aan niks \u2019n tekort het nie, maar Hy laat hom nie toe om dit te geniet nie. \u2019n Vreemdeling kom en geniet dit dan. So iets is bitter swaar om te verstaan. Dit maak die lewe sinloos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Iemand mag baie kinders h\u00ea en lank leef, maar as hy nie die goeie van die lewe kan geniet nie en ook nie \u2019n behoorlike begrafnis kry nie, was alles tevergeefs. Iemand wat doodgebore is, is dan beter daaraan toe as hy."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Iemand wat doodgebore is, word nooit onthou nie en ontvang ook nooit \u2019n naam nie."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "So iemand ken nie die lewe nie, maar het ten minste meer rus"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "as iemand wat nie die goeie van die lewe kan geniet nie. Albei word in elk geval weer stof. Al leef iemand ook 2 000 jaar, maar hy kan nie die lewe geniet nie, is alles sinloos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Al waarvoor die mens werk, is om sy maag vol te kry, want hongerpyne verdwyn nooit nie."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hoe is \u2019n wyse beter daaraan toe as \u2019n dwaas? En watter waarde het dit vir \u2019n arme om reg te leef?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Absoluut niks nie. Dit is \u2019n gejaag agter wind aan, want dit is beter om iets te besit as om voortdurend daarna te smag."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Alles is vooraf bepaal. Wat kan \u2019n mens daaraan doen? Wie kan tog teen iemand veg wat sterker as jy is?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hoe meer jy probeer, hoe meer deurmekaar en sinloos word die lewe."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Wie weet wat vir die mens goed is in sy kort lewe wat soos \u2019n skaduwee verbytrek? Wie weet wat hier op aarde gaan gebeur?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u2019n Goeie naam is beter as lekkerruikgoed, en die sterfdag beter as die geboortedag."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dit is beter om na \u2019n plek van rou te gaan as na \u2019n plek waar mense partytjie hou. Elkeen se sterfdag wag vir hom. Daarmee moet die mens rekening hou."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Hartseer is beter as om te lag. Agter \u2019n strak gesig skuil soms \u2019n diep insig in die lewe."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Iemand wat net geluk najaag, is dwaas. \u2019n Wyse weet geluk is onmoontlik. Daarom dink hy baie aan die einde."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dit is beter dat wyse mense jou kritiseer as dat dommes heeltyd jou lof besing."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Soos die knetterklanke van brandhout in \u2019n vuur, so klink die gelag van \u2019n dwaas. Dit is sinloos en irriteer \u2019n mens net."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Iemand wat dink hy is wys, maar ander afpers, is dwaas. En \u2019n omkoopgeskenk kan jou vernietig."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Die einde van \u2019n saak is baie beter as die begin. En geduld is beter as om vol van jouself te wees."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Beheer jouself en moenie jou humeur verloor nie; dit is net dwase mense wat so maak."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Moet nooit vra waarom dit in die goeie ou dae beter was as nou nie, want dit is nie \u2019n goeie vraag nie."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Om baie te besit en ook te weet hoe om reg te leef is wonderlik."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Geld kan jou baie help, so ook die insig om reg te leef. Insig is beter, want dit kan jou ook gelukkig maak."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kyk na God se werk in die w\u00eareld. Wie kan reguit buig wat Hy krom gemaak het?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "God laat die goeie en die slegte gebeur. Of dit goed of sleg gaan, onthou, albei kom van God af. Niemand weet wat m\u00f4re of oorm\u00f4re gaan gebeur nie."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "In my sinlose lewe het ek gesien dat goeie mense vroeg doodgaan, terwyl slegte mense lank leef. Dit maak nie eintlik saak of jy goed of sleg leef nie."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Moet daarom nie te goed of te regverdig wil wees nie, want jy kan jouself vernietig."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Moet ook nie te sleg of te onregverdig leef nie, want dan kan jy dalk te vroeg doodgaan."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kry \u2019n middeweg, anders word die lewe ondraaglik. Leef met respek vir God, dan sal jy weet hoe om te leef."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wysheid en die insig hoe om reg te leef maak \u2019n mens sterker as die magtigste leiers."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Niemand doen net goed sonder om ook verkeerd te doen nie."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Moenie na alle skinderpraatjies luister nie, want dan moet jy dalk jou werkers se beledigings aanhoor."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Onthou, jy het ook al baie keer mense beskinder en beledig."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ek het al my kennis en insig gebruik om die lewe te verstaan, maar ek kon nie."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wie weet wat die sin van die lewe is? Dit is te moeilik vir \u2019n mens om te ontdek."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ek het toe weer begin studeer en navorsing oor wysheid en dwaasheid gedoen. Ek wou weet hoe \u2019n mens moet leef en wat die gevolg van \u2019n slegte lewe is."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ek het wel iets ontdek wat erger as die dood is. En dit is dat \u2019n slegte vrou soos \u2019n valstrik is. Haar hart is soos \u2019n vangnet en haar hande soos boeie. As God van jou hou, sal jy van haar kan ontsnap, maar die dwaas val in haar strikke."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Al hierdie kennis en insig het ek stukkie vir stukkie gekry toe ek die lewe bestudeer het."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Daar is nog iets wat ek gesien en waarop ek geen antwoord het nie. En dit is dat jy dalk nog \u2019n goeie man tussen duisend mense sal kry, maar nie so \u2019n vrou nie."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Ek het tot die slotsom gekom dat God die mens maar \u2019n eenvoudige wese gemaak het, maar dat hy altyd moeilike vrae vra."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wie is regtig slim? En wie het die antwoord op al die vrae? Die mens wat baie weet, se gesig straal van vriendelikheid."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Doen wat die regeerder s\u00ea. Moenie haastige beloftes aan God maak nie."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Omdat \u2019n regeerder kan doen wat hy wil, moet jy nie te lank by hom bly of \u2019n slegte saak ondersteun nie."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Die regeerder se woord is wet. Wie kan hom aanspreek oor wat hy doen?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Solank jy maar doen wat die regeerder s\u00ea, is jy veilig. Die wyse weet wat om op die regte tyd te s\u00ea en te doen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vir alles is daar \u2019n tyd en \u2019n uur, maar die mens ken dit nie."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Niemand weet wat gaan gebeur nie en niemand kan jou ook vertel wat voorl\u00ea nie."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u2019n Mens is magteloos. Hy kan nie die wind keer nie, hy kan nie sy sterfdag uitstel nie, hy kan nie milit\u00eare diens vermy nie en hy kan nie alles met sy rykdom regkry nie."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Toe ek oor alles in die lewe nagedink het, het ek besef sommige het baie mag en sommige nie. Di\u00e9 wat nie mag het nie, moet altyd ly onder di\u00e9 wat mag het."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ek het gesien hoe slegte mense begrawe word en hoe mense hulle prys, terwyl goeie mense uit hulle stad moet vlug en vergeet word. Dit wys net hoe sinloos en deurmekaar die lewe is."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mense doen maklik verkeerde dinge omdat dit lank vat voordat die skuldiges gestraf word."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u2019n Slegte mens kan selfs 100 misdade pleeg en nog steeds lank leef. Die mense s\u00ea mos altyd: \u201cAs jy vir God bang is, sal dit met jou goed gaan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Slegte mense wat God nie dien nie, sal net te\u00ebspoed ervaar. Hulle lewe is soos \u2019n skaduwee en hulle lewensjare min.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Dit is egter verkeerd. Net die teenoorgestelde gebeur. Met goeie mense sal dit sleg gaan en met slegte mense goed. Dit wys net weer hoe absurd die lewe eintlik is."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ek het daarom besluit dat wat die mens eintlik nodig het, vreugde is. Niks is beter as om te eet en te drink en die lewe te geniet nie. D\u00edt kan die mens help om die sinloosheid te verwerk van hierdie lewe wat God ons gegee het."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ek het dag en nag gewerk om die lewe en die dinge wat in die w\u00eareld gebeur, te probeer begryp."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Uiteindelik moes ek opgee, want die mens kan nooit God se werk deurgrond nie. Al probeer hy hoe hard, sal hy die sin van die lewe nooit kan ontsluit nie."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ek het die lewe ondersoek en besef dat alles voorafbepaal is. God beheer wyse mense en hulle dade, asook hulle gevoelens van liefde en haat. Niemand weet wat m\u00f4re of oorm\u00f4re gaan gebeur nie."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dieselfde lot tref almal. Dit maak die lewe sinloos. Of iemand nou goed of sleg is, en of iemand offer of nie offer nie, maak nie eintlik saak nie. \u2019n Goeie mens is nie in \u2019n beter posisie as \u2019n slegte mens nie en iemand wat beloftes voor God afl\u00ea, is nie beter as iemand wat dit nie doen nie."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Daar is \u2019n slegte ding in hierdie w\u00eareld en dit is dat almal dieselfde lot deel. Mense gee hulle aan sinlose dinge oor en bedink allerlei booshede. Daarna gaan hulle dood."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Almal wat leef, het egter \u2019n skrale troos; amper soos die waardelose voordeel van \u2019n brandsiekhond wat nog leef teenoor \u2019n sterk leeu wat klaar dood is."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "En dit is dat die lewende weet hy gaan sterf, terwyl die dooie dit nie weet nie. Die dooie kan niks meer geniet nie. Hy word heeltemal vergeet."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Selfs sy liefde, haat en jaloesie gaan saam met hom dood. Hy het geen deel meer aan enigiets wat op aarde gebeur nie."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "In sulke omstandighede moet jy jou kos met vreugde geniet en jou wyn met blydskap drink. God het dit lank gelede al so bepaal."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dra die regte klere om te wys hoe gelukkig en bly jy is. Laat jou klere wys dat jy die lewe tot \u2019n fees verklaar het."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Geniet die lewe met die vrou vir wie jy lief is. Geniet haar elke dag in die sinlose lewe wat jou gegun is. Sy sal jou troos wees in hierdie sinlose w\u00eareld waarin jy jou dag en nag moet afsloof."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Werk hard en probeer dit geniet. Doen wat jou hand vind om te doen, want in die blyplek van die dooies waarheen jy op pad is, werk niemand nie. Daar is ook geen kennis of wysheid nie."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Daar is nog iets wat my baie omkrap. En dit is dat die vinnigstes nie altyd die resies wen of die sterkstes die geveg nie. Verder het daardie mens wat reg leef, nie altyd kos nie; \u2019n skrander mens is ook nie altyd ryk nie en slimmes word nie altyd bevorder nie. Slegte dinge tref almal."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Niemand weet wanneer iets slegs met hom gaan gebeur nie. Soos wanneer vo\u00ebls skielik in \u2019n wip beland, of visse in \u2019n net, net so vinnig en onverwags tref ongeluk die mens."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ek het in hierdie w\u00eareld gesien dat mense nie veel van wysheid dink nie."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Op \u2019n keer was daar \u2019n klein dorpie met \u2019n paar inwoners. \u2019n Groot sterk koning het teen die dorpie opgetrek. Hy het dit omsingel en die mure begin afbreek."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Binne-in die dorpie was daar \u2019n arm man, maar baie wys. Deur sy kennis en insig het hulle die koning se aanslag afgeweer. Maar na \u2019n tydjie het niemand meer aan di\u00e9 wyse man gedink nie."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Toe het ek vir myself ges\u00ea dit is tipies van die lewe. Wysheid is baie beter as krag en mag, maar die arm wyse sal altyd verag word. Niemand luister na hom nie."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Om rustig na die diep gedagtes van \u2019n wyse te luister is baie beter as die geskree van \u2019n politieke leier in die geselskap van dwase mense."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wysheid is beter as oorlogswapens. \u2019n Dwaas kan egter alle goeie dinge met een woord vernietig."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dooie vlie\u00eb wat in \u2019n apteker se medisyne beland, kan dit alles laat sleg word sodat dit begin stink. So maak \u2019n dwase mens ook. Met net \u2019n bietjie dwaasheid kan hy \u2019n goeie naam deur die modder sleep."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Die wyse se pad loop op die roete van vreugde en geluk. Die dwaas se pad loop op die roete van ellende en ongeluk."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u2019n Dwaas leef op so \u2019n manier dat almal sy dwaasheid agterkom."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "As die regeerder hom vir jou vererg, moet jy nie jou goed vat en loop nie. Bly eerder kalm sodat die situasie nie vererger nie."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Daar is een slegte ding wat ek in die lewe gesien het en wat my bly hinder. En dit is iets wat magsfigure doen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hulle stel dwase mense in ho\u00eb posisies aan terwyl die ware kundiges vernederende werkies moet verrig."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ek het slawe op perde gesien, terwyl vername mense soos \u2019n slaaf met hulle voete moes loop."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wie \u2019n gat vir iemand anders grawe, kan self daarin val. Wie \u2019n muur afbreek, kan deur \u2019n slang gepik word."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wie stene losbreek, kan beseer word. Wie hout kap, kan seerkry."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "As die byl stomp is omdat niemand dit geslyp het nie, moet \u2019n mens dubbel so hard werk. Wat help wysheid en kundigheid \u2019n mens nou in sulke gevalle?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "As die slang eerste byt, is die slangvanger se werk nutteloos. Ook hier help vaardigheid niks."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u2019n Wyse se woorde is aangenaam om na te luister. \u2019n Dwaas vernietig homself deur sy woorde."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "As \u2019n dwaas begin praat, hoor jy sommer die domheid. Hoe meer hy praat, hoe waansinniger word dit."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u2019n Dwaas praat aanmekaar, maar niemand weet wat m\u00f4re of na die dood gaan gebeur nie. Daarom is dit beter om stil te bly."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Die dwaas maak hom so moeg met sy gepraat dat hy nie eens die pad huis toe kan kry nie."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Dit gaan sleg met die land wie se regeerder \u2019n kind is en wie se raadgewers vroegdag al begin partytjie hou."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Gelukkig is die land wie se koning die regte dinge doen en wie se leiers op die regte tyd met die fees begin en dit met waardigheid en sonder dronkgelag kan vier."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Luiheid veroorsaak dat die dak begin insak en dat dit aanmekaar lek."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u2019n Fees maak jou gelukkig en wyn beur jou op, maar albei kos geld."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Moenie die koning selfs eens in jou gedagtes kritiseer nie. En moenie die magtiges eens in jou slaapkamer slegs\u00ea nie, want die vo\u00ebltjies kan dit dalk hoor en jou woorde aan hulle gaan oorvertel."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Waag soms \u2019n kans met \u2019n belegging. Wie weet, dit verras jou dalk nog eendag."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Versprei dit net oor \u2019n paar plekke, want \u2019n mens weet nooit watter te\u00ebspoed jou nog in hierdie land kan tref nie."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Alles is vooraf bepaal. As die wolke vol re\u00ebn is, sal hulle dit op die aarde uitgiet. En as \u2019n boom afgekap word, sal dit op die bestemde plek val. Of dit nou noord of suid is, maak nie saak nie. Dit sal op die regte plek val."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Moenie heeltyd die wind dophou en na die wolke opkyk nie, want die re\u00ebn sal op sy bepaalde tyd kom. Werk liewer voluit voort."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Soos jy nie weet hoe lewe in \u2019n vrou wat verwag se buik ontstaan nie, net so min verstaan \u2019n mens die werk van God."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Saai in die oggend, maar ook in die aand, want jy weet nooit watter van die twee gaan opkom nie."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hoe mooi is lig nie, en hoe lekker die strale van die son!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "As iemand lank leef en oud word, moet hy die lewe geniet. Hy moet egter ook aan die dood dink en onthou dat die tyd na die dood lank gaan duur. Alles is sinloos. Daar is niks om na uit te sien nie."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jongmens, geniet daarom jou lewe en wees altyd gelukkig. Gaan oral waar jou hart en jou o\u00eb jou lei. Leef altyd voluit. Doen waarvan jy hou. Maar onthou, God sal jou nog oordeel. Jy sal aan Hom rekenskap moet gee van alles wat jy doen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jongmens, verban alle verdriet en pyn uit jou hart, want \u2019n mens is nie vir altyd jonk nie. Jonkwees kom ook tot niks."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dink aan God wat jou geskep het terwyl jy nog jonk is. Voordat die swaar dae kom en jy sal s\u00ea: \u201cDie lewe is nie meer lekker nie.\u201d"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dit is daardie tyd in \u2019n mens se lewe wanneer die son se strale vir jou dof begin word en jy die maan se lig en die sterre se geflikker in die aand skaars nog sien."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dit is wanneer jou hande begin bewe, die bene moeilik loop, die tande moeilik kou omdat hulle so min is, en die o\u00eb sleg sien"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "die ore nie meer die straat se geraas hoor nie, die stem sagter en dowwer word. En as die vo\u00ebls vroegoggend begin koer, staan jy op sonder dat jy hulle eens hoor."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dit is wanneer jy vir steil opdraandes en baie ander dinge bang word omdat jy te swak geword het. En terwyl die amandelboom bloei, die sprinkaan hom vol eet en die kapperkruid blom, sterf die mens. In die strate sal hulle die doodsberig vertel. Dan sal hulle saamkom om hom te begrawe."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dit is soos \u2019n silwertou wat afbreek by \u2019n put, soos die goue skepemmer wat breek, soos die drinkbeker wat stukkend breek en soos die wiel wat by die put inval."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dan word die mens weer stof soos vroe\u00ebr, en sy lewensasem gaan terug na God toe waar dit vandaan gekom het."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Die lewe is sinloos. Absoluut sinloos, so s\u00ea die Prediker."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Die Prediker het baie van die lewe af geweet. Hy het aangehou om die mense te leer. Hy het baie gestudeer, die lewe nagevors en talle spreuke neergeskryf."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hy het probeer om fyn te formuleer en dinge te beskryf soos dit was."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sy woorde was soos \u2019n skerp stok waarmee \u2019n mens diere aanjaag. En sy spreuke was soos spykers wat voortdurend ingeslaan moet word. Sy woorde was betroubaar omdat dit van God af kom."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Die Prediker het ges\u00ea: \u201cMy seun, aan boeke skryf kom daar nooit \u2019n einde nie. Baie studie put \u2019n mens uit.\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Een ding bly nog oor, en dit is dat almal God moet vrees en sy voorskrifte moet gehoorsaam."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Onthou, God kyk na wat almal doen. En God self sal besluit of dit goed is of sleg."
+                }
+            }
+        }
+    }
+}

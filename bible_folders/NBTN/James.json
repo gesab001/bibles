@@ -1,0 +1,464 @@
+{
+    "version": "NBTN",
+    "book_name": "James",
+    "book_nr": "59",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Naja, Yakob, ne itekitini ne Teut wan ne Tajtzin Yeshu Mawaltijtuk, nikintajpalua ne majtakti-ume tribuj musentalujtiwit!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Shikmatikan wey pakilis, nukniwan, kwak anmutasat iwan ankakeski taejekulis,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ika ankimatit ka kwak muejekua ne tayulmatilis, uni kichiwa ka titejchiat nejnejmach."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ne tanejmachselilis ma kipia ne itekiw ken muneki pal anmuchiwat ken muneki wan yejyek, ma inte shimunekikan tatka."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Asu aka ipal anmejemet inte kipia tamatilis, ma kitajtani ne Teut ne kinmaka muchi tay munekit wan te kinhijilwia, wan yawi kipia."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ma kitajtani iwan tayulmatilis. Ma inte kichiwa dudar, ika k\u00e1 ne kichiwa dudar yaja ken se olaj ipal ne weyat ne mutzejtzelua wan mutamuta iwan ne ejekat."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Uni takat ma inte kimati ka yawi kikwi tatka itech Tutajwan;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "se takat kipia ume iyulu, kweliwi ijtik muchi ne ijiuj."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ma mumati wey ne tuiknew k\u00e1 kanawak kwak muajkukia,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "wan ne kipia wey kwak muchiwa kanawak, ika ken se sakashuchit yawi puliwi:"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "kiskia ne tunal tatutunia wan kiwatzki ne sakat wan ne ishuchiu wetzki wan ne itachialis yektzin panutuka. Ijkiuni ne kipia wey nusan yawi puliwi tik ne inejnemilis."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Suertej kipia ne takat ne kiselia taejekulis, ika su muita yek kikwis ne yawal yultuk ne inak ne Teut ka yawit kipiat muchi ne kitasujtat."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ma inte ina aka ne muejekua ka &#34;ne Teut nechejekua&#34;, ika ne Teut nian weli muejekua iwan ne te yejyek, nian yaja kiejekua aka."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Muchi tejemet techejekua ne tutaelewilis isel kwak techtilana wan techpewia;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "neman ne taelewilis kipunia ne tateyekchijtuk wan ne tateyekchijtuk kipunia mikilis."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Maka shimushijshikukan, nukniwan yektasujtatuk:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "muchi yek tay techmakat wan muchi tay techtakuliat ken yek, techtemultilia ne Tuteku ipal ne tajtawil ka ikajku, k\u00e1 ne inte mupata nian muyawalua iekawyu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Yaja techpunij iwan palabraj yekkaya ika kinekik, pal timuchiwat ken ne achtu ipal muchi tay kichijki."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Shikmatikan, nukniwan yektasujtatuk: sejse takat ma ijisiwi takaki, ma ishtuna tanutza, ma ishtuna kwalani."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ika ikwalan takat inte kichiwa itamelakchiwalis Teut."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Neka nimetzinhilwia ma shiktamutakan muchi tay susul wan tay teyek wan ma shikwikan iwan yulyamanikayu ne palabraj tukatuk ne weli kipalewia ne tuajalmaj."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Shimuchiwakan sejse k\u00e1 kichiwat tay ina ne palabraj, inte semaya takaki wan mushijshikua;"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "ika su se takaki wan te kichiwa ne palabraj, yajane ken se takat ne muishkejketza tik se espejoj:"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "muishkejketzki wan yajki, wan nemanha kielkaw ken yaja."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "K\u00e1 ne tachishtuk tik ne yek tajtuli ipal ne tamakishtilis wan naktuk, tesu ken se takaki wan kielkawa sute se kichiwa itekiw, yaja kipias suertej tik ne tay kichiwa."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Asu se kimati ka yaja tayulmatini wan te munenepilpachua sute muyulshijshikua, te tatka ipatiw ne itayulmatilis yajane."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ini tay ne tayulmatilis pupujtuk wan yek ipal ne Teut wan Tuteku: ma tajpia iknupipil wan siwatket ne mikik ishulejyu kwak tajseliat; ma inte kiajkawa ma kisusulwi ne taltikpak."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nukniwan, su ankiyulmatit ne tutajtzin Yeshu Mawaltijtuk ne tzitzinaka, maka shikelkawakan ka muchi tikenhat."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tinakan ka kalaki ijtik anmusennemit se takat iwan iajanilloj ipal teukwit wan ikwajkwach yektzin; kalaki nusan se takat te kipia tatka iwan ikwejkwechpala susul."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Su tikita ne kipia ne ikwajkwach yektzin wan tikilwia: &#34;Shimutali ka nikan kan tinemit yek&#34; , wan tikilwia ne te kipia tatka: &#34;Shinaka ejkatuk ka ne&#34; o &#34;Shimutali talchi&#34;,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "tejkia ka su ijkiuni ankielkawtiwit ka muchi anmejemet kenhat, wan ankichijtiwit juzgar seuk iwan yujyultaketzalis teyek, o inte?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Shinechkakikan nukniwan tasujtatuk: anka te kishpejpen ne Teut ne te kipiat tatka ipal ne taltikpak pal kipiat wey tayulmatilis wan pal kipiat ne tatekimakalis, ken inatuk ka yawi kinmaka muchi k\u00e1 ne kitasujtat sujsul?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Anmejemet inte kitasujtaket ne te kipia tatka. Anka ne kipiat wey inte metzinpiat itan intajpal wan metzintilanat ka juicioj?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Yejemet te kukujtaketzat ne itukay yek ne iwan anmunutzat?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Melka muchi uni, su ankichiwat tay ina ne tajtuli mas wey ken nemi ijkwilujtuk, &#34;Tiktasujtas ne muiknew ken tajasan timutasujta&#34;, ankichiwat tay yek."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Su ankielkawat ka muchi tikenhat, ankichiwat tay teyek wan ne tajtuli metzinhajwa ika antateyekchiwat,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "ika k\u00e1 ne tajpia muchi ne tajtuli wan tatzunchalua tik sechin kipia culpaj ipal muchi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ne k\u00e1 inak &#34;Maka shimawilti&#34; nusan inak &#34;Maka shitamikti&#34;. Asu te timawiltia wan su titamiktia, titateyekchijtuk."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ijkiuni shitanutzakan wan ijkiuni shikchiwakan ken ne yawit muchiwat juzgar iwan ne tajtuli ipal ne tamakishtilis,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "ika k\u00e1 ne te kipalewia seuk, te yawit kipalewiat kwak yawit kichiwat juzgar. Ne tetasujtalis mas wey que ne juicioj."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ken kipalewia se, nukniwan, su ina ka kipia tayulmatilis wan te kichiwa tatka? Anka ne tayulmatilis te weli kipalewia?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tinakan ka se takat o se siwat te kipiat inkwajkwach wan te kipiat intakwal ipal ne tunal."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Su se anmejemet kinhilwia: &#34;Ma shinemikan yek! Shimutakentikan wan shishwikan!&#34; wan te kinmaka tay muneki ne inweyka, ken kipalewia?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ijkiuni nusan ne tayulmatilis: su te kichiwa tatka, yaja mikik."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Weli ina se: &#34;Taja titayulmati, naja nikchiwa&#34;. Shinechilwiti ka tikmati tik muyulu sin que tikchiwa tatka wan naja nimetzilwitis iwan ne tay nikchiwa ka nitayulmati!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Taja tikmati tik muyulu ka sanse Teut nemi. Yek tikchiwa; hasta ne nawalmet kimatit wan muishmutiat."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mele, tikneki tikishmati ka te kipia ipatiw ma titayulmatikan su te tikchiwat tatka?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Anka te tikmati ka tuteku Abraham muitak yek kwak kitejkultij ne ipiltzin Itzak ijpak ne tikashit?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Tiweli tikita ka ne tayulmatilis sentekiti iwan tay ne kichiwa, wan ne tayulmatilis yekawik ijtik ne itejtekiw,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "wan temik ne ijkwilujtuk ina: &#34;Abraham kiyulmatki ne Teut, wan mupujki ken tamelakchiwalis.&#34; Wan munutzki iyuliknew Teut."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ankitat ka se muchiwa yek ipanpa tay kichiwa wan tesu ipanpa tay kimati tik iyulu isel."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kenhaya nusan ne siwapala Rajab kwak kinkalaktij ne tanawatianimet tik ne ikal wan kintitanij tik ukse ujti."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kenha ken ne tuweyka miktuk su te kanaj tuijiu, ijkiuni nusan ne tayulmatilis miktuk su te tikchiwat tatka."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Maka shimuchiwakan miak anmejemet tamachtianimet, nukniwan: tikmatit ka tiawit timuchiwat juzgar mas;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "ika muchi titatzunchaluat sujsul. Asu se inte tatzunchalua tik ne palabraj, yajane se takat ken muneki wan weli kiwika yek muchi ne iweyka nusan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Su tiktaliliat ne caballoj se tentepusti ijtik ne iten pal yaja techtakamati, welit tikwikat kan tiknekit muchi ne iweyka."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nusan ne barcoj, melka tetekia wey wan ne ejekat kishtupewa sujsul, welit tikwikat kanka tikelewiat iwan se chikitik melajkwawit wan yaja mumelawa wan yawi kan ina ne capitan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ijkiuni ne tunenepil nusan: melka se chikitik takutun ipal tuweyka, mumati sea wey. Chikitik ne tit, wey ne kwawit kitatia!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nusan ne tunenepil tit. Yaja ne taltikpak ipal tay te yek ne nemi ijtik ne tutajtakutun! Yaja kilwitia muchi ne tuweyka wan kitimaka ne yawal ipal ne takatilis wan ne Miktanshaput kitimaka."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tekwanimet wan tujtutut, ulininimet wan mijmichin ipal muchi ne clajclasej, muchi yejemet ne takat weli kichiwa ka nejmachnemit wan ijkiuni kichijtuk."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Melka uni, te aka weli kichiwa ma nejmachnemi ne inenepil takamet: malintik, te yek, kalwika mikilis ika nemi tentuk iwan pajchilmekat."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Iwan tinat ka wey ne Tajtzin Tuteku wan iwan tikchiwat maldictar ne takamet ne muchijtiwit kenha ken Teut."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tik sanse tuten kisa bendicion wan maldicion. Nukniwan, ini te weli ijkiuni!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Shinechilwi su tik sanse kuyuntuk weli puni ne at tzupelek wan ne achichik."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nukniwan, anka se kuyutzaput weli kichiwa shujshukut? Anka se shukumekat weli tamaka tzajtzaput? Se at puyek nusan te weli tzupelekisa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "K\u00e1 anmutzalan kimati wey? Ma muwika yek pal mumati wan ma kichiwa itekiw iwan ne yulyamanikayu ipal tamatilis."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Saman su ankipiat kwalan, chichikayu wan envidiaj tik anmuyulu, maka shimuweymatikan, maka tanutzakan ken te tejkia."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Uni inte ne tamatilis ne temutuk ka ikajku asunte ne tay ipal ne taltikpak, ipal tuweyka, ipal ne nawalmet,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "ika kan nemi kwalan wan envidiaj, ikuni nemi kumunilis wan muchi tutejtekiw inte yejyek."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ne tamatilis ipal ne ikajku, achtu chipawak, tipan ipal nejmachnemilis, yulyamanikayu wan tetakamatilis, tentuk iwan tetasujtalis wan itajtakil yek; inte taishtemua, inte tashijshikua."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ne itakil tamelakchiwalis mutuka kwak tinejmachnemit, wan ne tanejmachchiwanit kitukat."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Taika anmusumat wan taika anmuchaluat anmutzalan? Muita ka yaja ipanpa ne mujmuyulkwesulis ne musumat ijtik ne anmutajtakutun."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Anmejemet taelewiat wan te kipiat; tamiktiat wan tatemuat, wan te welit kiajsit. Anmusumat wan anmuchaluat: inte ankipiat ika inte ankitajtanit."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ankitajtanit wan te ankikwit ika inte ankitajtanit yek, pal ankitzunpuluat tik muyulkwesulis."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mawiltianit, anka te ankimatit ka su ankitasujtat ne taltikpak, te ankitasujtat ne Teut? Yajika tel, k\u00e1 ne kineki naka yek iwan ne taltikpak te weli naka yek iwan ne Teut."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ina ne tajkwilul: &#34;Ne tuijiu ne muchantia ijtik tejemet kielewia kwalan.&#34; Su ina ijkiuni, kipia se taika!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tamaka wey tetasujtalis; ipanpa uni ina: &#34;Ne Teut inte kinneki ne mumatit wejwey; ne kajkanawak kia kintasujta.&#34;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Yajika, shiktakamatikan ne Teut. Shikilwikan ne Tamintuk inte, wan yawi chulua wejka anmutech."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Shitzinkisakan itech ne Teut wan yawi tzinkisa anmutech. Shikpupukan anmumejmey, tateyekchiwanimet! Wan shimuyulpupukan, anmejemet k\u00e1 kipiat ume anmuyulu!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Shikwajkwalukan wan shimutechtikan wan shichukakan. Ne anmuwetzka yawi mukwepa mutechtilis wan ne anmupakilis, yulkakasiwilis."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Shimutemultikan tik itachialis ne Tajtzin wan yawi metzinhajkukia."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Maka shimuijilwikan nukniwan. K\u00e1 ne kijilwia iiknew wan kichiwa juzgar ne iiknew, yaja kijilwia ne tajtuli wan kichiwa juzgar ne tajtuli. Su tikchiwa juzgar ne tajtuli, tesu titajtulchiwa sute tina k\u00e1 yek wan k\u00e1 te yek."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ne tajtulchiwani wan juez sesan, wan yajasan weli techpalewia wan weli techwilewa. K\u00e1 taja? Wan tikchiwaskia juzgar ne muiknew?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Shitakaki yek: melka anmejemet welit inat &#34;Ashan o musta tiasnekit tik uni techan wan ka n\u00e9 tiawit tipashaluat titanamakat ijtik se shiwit wan tiawit tikishtiat wey tumin&#34;,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "te ankimatit tay yawi muchiwa musta. Ashan annemit yultuk, wan tay ini? Anmejemet se mishti muita se chiupi wan tipan yawia."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ini tay nemi pal anhinat: ka su ne Tajtzin kineki, tinemisket wan tikchiwasket uni wan ini."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ashan anmumatit wejwey wan anmuwikat ken tensasalmet. Senpa kwak anmuweymatit kiane, te yek."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Yajika, k\u00e1 ne kimati ken weli kichiwa tay yek wan te kichiwa, yaja tateyekchiwa."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Shitakaki yek: asu ankipiat wey, shichukakan shichukakan ipanpa ne tay yawi metzinkukua kwak Yaja witz!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ne anmupalwan palantiwit wan ne anmukwajkwach papalukwalutiwit;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ne anmuteukwit wan ne anmutumin ijtakawtuk wan ne palantuk yawi metzinhijilwia wan kikwas ne anmunakayu ken tit: ankianket anmupalwan pal tijtipan tunal."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Shikita, ne ipatiw ne tekitinimet tik ne anmumijmil, tay inte ankintashtawilij, tzajtzi wan ne itakakilis ne Tutajwan kinkaki tzajtzit ne tapishkanimet."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ankipishtiwit muchi galantzin tik ne tal, wan sema anpajpakitiwit. Antakwajtiwit wey tik se tunal ipal tamiktilis."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Anhinatiwit ka kipia culpaj wan ankimiktijtiwit ne yulmelawak; yaja inte metzinsuntuk."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Shitejchiakan tel, nukniwan, hasta ma ajsi ne Tajtzin. Shikita ne talchiwani, kichia ne itakil yek ipal ne tal, yaja tejchia hasta wetzi ne achtu at wan nusan ne tipan at."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Shitejchiakan anmejemet nusan. Ma chikawayakan ne anmuyujyulu ika yawi ajsi ne Tajtzin."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Maka kikinakakan anmutzalan, nukniwan, pal te anmuchiwat juzgar. Ne juez ikuni nemi ejkatuk tik ne tenkal."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nukniwan, shikchiwakan ken ne taketzanimet ne tanutzket ipanpa ne Tutajwan kwak tajselijket wan tejchishket."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tinat ka kipiat suertej ne kiseliat wey. Antakaktiwit ken Iob kipiatuya tanejmachselilis, nusan ankimatit ken tamik Tutajtzin, wan ka ne Tutajwan kipia wey yulkukulis wan taeknelilis."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ini ne achtu pal muchi, nukniwan: maka shikchiwakan jurar ipanpa ne ilwikak, nian ne tal, nian ukseuk juramentoj. Kwak tina &#34;Yek!&#34; ma yek, kwak tina &#34;Inte!&#34; ma inte, pal te tiwetzi itan juicioj."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Su se anmutzalan kiekua se teyek, ma kitajtani Teut. Su yulchikawaya se, ma takwika ipal Teut."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Su se anmutzalan kukuya, ma kinnutza ne noymet ipal ne sennemit wan ma kitajtanikan Teut ka imaku wan ma kimawaltikan iwan tumakka tik itukay ne Tutajwan,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "wan ne iteutajtanilis ne tayulmati yawi kipalewia ne kukuyani wan ne Tutajwan yawi kiketza, wan su yaja tateyekchijtuya mutapupulwis."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Yajika, shimuyulkwitikan ne se iwan ne seuk ipanpa tay ankichijtiwit tay teyek wan shiktajtanikan Teut ne se ipanpa ne seuk ma shimupajtikan. Kwak se yulmelawak kitajtani iwan muchi iyulu, weli wey."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Eliya katka se takat mumati kenha ken tejemet wan yaja kitajtan Teut iwan wey teutajtanilis ma inte wetzi ne at, wan te wetzki at ijpak ne tal ijtik yey shiwit wan chikwasen metzti."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wan kitajtan senpa, wan ne ilwikak tashinij wan ne tal tamakak ne itakil."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Nukniwan, asu se anmejemet kipulua ne ujti yekkaya, wan seuk kikwepa tik ne ujti,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "ma yaja kimati ka kwak se kikwepa se tateyekchiwa ne kipulujtuk ne ujti, yawi mupalewia ne ialmaj wan te yawi miki, wan kitzakwas miak teyek tay kichijtiwit."
+                }
+            }
+        }
+    }
+}

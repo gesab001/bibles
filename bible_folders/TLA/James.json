@@ -1,0 +1,464 @@
+{
+    "version": "TLA",
+    "book_name": "James",
+    "book_nr": "59",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Saludo - Yo, Santiago, estoy al servicio de Dios y del Se\u00f1or Jesucristo, y les env\u00edo un saludo a los cristianos que viven en todo el mundo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Confianza en Dios - Hermanos en Cristo, ustedes deben sentirse muy felices cuando pasen por toda clase de dificultades."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "As\u00ed, cuando su confianza en Dios sea puesta a prueba, ustedes aprender\u00e1n a soportar con m\u00e1s fuerza las dificultades."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Por lo tanto, deben resistir la prueba hasta el final, para que sean mejores y puedan obedecer lo que se les ordene."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Si alguno de ustedes no tiene sabidur\u00eda, p\u00eddasela a Dios. \u00c9l se la da a todos en abundancia, sin echarles nada en cara."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Eso s\u00ed, debe pedirla con la seguridad de que Dios se la dar\u00e1. Porque los que dudan son como las olas del mar, que el viento lleva de un lado a otro."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "La gente que no es confiable ni capaz de tomar buenas decisiones no recibir\u00e1 nada del Se\u00f1or."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "La gente que no es confiable ni capaz de tomar buenas decisiones no recibir\u00e1 nada del Se\u00f1or."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Los pobres y los ricos - Si alguno de ustedes es pobre, debe sentirse orgulloso de lo mucho que vale ante Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Si alguno es rico, debe sentirse feliz cuando Dios lo humille, pues las riquezas duran muy poco; son como las flores del campo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Cuando hace mucho calor, las plantas se secan; entonces sus flores se marchitan y pierden su belleza. Lo mismo pasa con el rico: ni \u00e9l ni sus riquezas durar\u00e1n."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Las tentaciones - Al que soporta las dificultades, Dios lo bendice y, cuando las supera, le da el premio y el honor m\u00e1s grande que puede recibir: la vida eterna, que ha prometido a quienes lo aman."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Cuando ustedes sean tentados a hacer lo malo, no le echen la culpa a Dios, porque \u00e9l no puede ser tentado, ni tienta a nadie a hacer lo malo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Al contrario, cuando somos tentados, son nuestros propios deseos los que nos arrastran y dominan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Los malos deseos nos llevan a pecar; y cuando vivimos s\u00f3lo para hacer lo malo, lo \u00fanico que nos espera es la muerte eterna."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Mis queridos hermanos, no sean tontos ni se enga\u00f1en a ustedes mismos."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Dios nunca cambia. Fue Dios quien cre\u00f3 todas las estrellas del cielo, y es quien nos da todo lo bueno y todo lo perfecto."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Adem\u00e1s, quiso que fu\u00e9ramos sus hijos. Por eso, por medio de la buena noticia de salvaci\u00f3n nos dio una vida nueva."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Obediencia al mensaje de Dios - Mis queridos hermanos, pongan atenci\u00f3n a esto que les voy a decir: todos deben estar siempre dispuestos a escuchar a los dem\u00e1s, pero no dispuestos a enojarse y hablar mucho."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Porque la gente violenta no puede hacer lo que Dios quiere."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Por eso, dejen de hacer lo malo, pues ya hay mucha maldad en el mundo. Hacer lo malo es como andar vestido con ropa sucia. M\u00e1s bien, reciban con humildad el mensaje que Dios les ha dado. Ese mensaje tiene poder para salvarlos."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00a1Obedezcan el mensaje de Dios! Si lo escuchan, pero no lo obedecen, se enga\u00f1an a ustedes mismos y les pasar\u00e1 lo mismo que a quien se mira en un espejo: tan pronto como se va, se olvida de c\u00f3mo era."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u00a1Obedezcan el mensaje de Dios! Si lo escuchan, pero no lo obedecen, se enga\u00f1an a ustedes mismos y les pasar\u00e1 lo mismo que a quien se mira en un espejo: tan pronto como se va, se olvida de c\u00f3mo era."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "\u00a1Obedezcan el mensaje de Dios! Si lo escuchan, pero no lo obedecen, se enga\u00f1an a ustedes mismos y les pasar\u00e1 lo mismo que a quien se mira en un espejo: tan pronto como se va, se olvida de c\u00f3mo era."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Por el contrario, si ustedes ponen toda su atenci\u00f3n en la palabra de Dios, y la obedecen siempre, ser\u00e1n felices en todo lo que hagan. Porque la palabra de Dios es perfecta y los libera del pecado."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Si alguien se cree muy santo y no cuida sus palabras, se enga\u00f1a a s\u00ed mismo y de nada le sirve tanta religiosidad."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Creer en Dios el Padre es agradarlo y hacer el bien, ayudar a las viudas y a los hu\u00e9rfanos cuando sufren, y no dejarse vencer por la maldad del mundo."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00a1No tengan favoritos! - Hermanos m\u00edos, ustedes han confiado en nuestro poderoso Se\u00f1or Jesucristo, as\u00ed que no deben tratar a unas personas mejor que a otras."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Imag\u00ednense que un rico, vestido con ropa muy fina y con un anillo de oro, entra en donde ustedes se re\u00fanen, y que al mismo tiempo entra un pobre, vestido con ropa muy gastada."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Si ustedes atienden mejor al rico y le dicen: \u00abVen, si\u00e9ntate en el mejor lugar\u00bb, pero al pobre le dicen: \u00abQu\u00e9date all\u00ed de pie\u00bb, o \u00abSi\u00e9ntate en el suelo\u00bb,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "ser\u00e1n como los malos jueces, que favorecen a unos m\u00e1s que a otros."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Esc\u00fachenme bien, hermanos queridos: Dios eligi\u00f3 a la gente pobre de este mundo para que la confianza en Dios sea su verdadera riqueza, y para que reciban el reino que \u00e9l ha prometido a los que lo aman."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bfC\u00f3mo se atreven ustedes a maltratar y despreciar a los pobres? \u00bfAcaso no son los ricos quienes los maltratan a ustedes y los meten en la c\u00e1rcel?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bfAcaso no son los ricos los que insultan a nuestro Se\u00f1or?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Si ustedes obedecen el mandamiento m\u00e1s importante que Dios nos ha dado, har\u00e1n muy bien. Ese mandamiento dice: \u00abRecuerden que cada uno debe amar a su pr\u00f3jimo como se ama a s\u00ed mismo.\u00bb"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pero si ustedes les dan m\u00e1s importancia a unas personas, y las tratan mejor que a otras, est\u00e1n pecando y desobedeciendo la ley de Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Si ustedes obedecen todas las leyes, menos una de ellas, es lo mismo que si desobedecieran todas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Porque el mismo Dios que dijo: \u00abNo sean infieles en su matrimonio\u00bb, tambi\u00e9n dijo: \u00abNo maten\u00bb. Por eso, si t\u00fa eres fiel en el matrimonio, pero matas, eres culpable de haber desobedecido la ley de Dios."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "En el d\u00eda del juicio, Dios nos juzgar\u00e1 de acuerdo con la ley que nos libera del pecado. Por eso, debemos tener mucho cuidado en todo lo que hacemos y decimos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Porque Dios no tendr\u00e1 compasi\u00f3n de quienes no se compadecieron de otros. Pero los que tuvieron compasi\u00f3n de otros, saldr\u00e1n bien del juicio."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Confianza y buenas acciones - Hermanos en Cristo, \u00bfde qu\u00e9 sirve que algunos de ustedes digan que son fieles a Dios, si no hacen nada bueno para demostrarlo? \u00a1As\u00ed no se van a salvar!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Si alg\u00fan hermano o hermana de la iglesia no tiene ropa ni comida,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "y t\u00fa no le das lo que necesita para abrigarse y comer bien, de nada le sirve que t\u00fa le digas \u00abQue te vaya bien, abr\u00edgate y come hasta que te llenes\u00bb."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Lo mismo pasa con la fidelidad a Dios: de nada nos sirve decir que le somos fieles, si no hacemos nada que lo demuestre. Esa clase de fidelidad est\u00e1 muerta."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "A los que dicen que son fieles a Dios, pero no hacen lo bueno, yo les podr\u00eda decir: \u00abT\u00fa dices que eres fiel a Dios, y yo hago lo que es bueno. Demu\u00e9strame que es posible ser fiel a Dios sin tener que hacer lo bueno, y yo te demostrar\u00e9 que soy fiel a Dios por medio del bien que hago."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "T\u00fa crees que existe un solo Dios. \u00a1Muy bien! Pero hasta los demonios creen en \u00e9l y tiemblan de miedo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "No seas tonto. Debes aceptar que de nada te sirve decir que eres fiel a Dios y confiar en \u00e9l, si no haces lo bueno."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Nuestro antepasado Abraham agrad\u00f3 a Dios cuando puso a su hijo Isaac sobre el altar, para sacrificarlo. Y Dios lo acept\u00f3 por eso."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "La confianza que Abraham tuvo en Dios se demostr\u00f3 con todo lo que hizo, y por medio de todo lo que hizo su confianza lleg\u00f3 a ser perfecta.\u00bb"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "As\u00ed se cumpli\u00f3 lo que dice en la Biblia: \u00abAbraham confi\u00f3 en la promesa de Dios, y por eso Dios lo acept\u00f3\u00bb. Fue as\u00ed como Abraham se hizo amigo de Dios."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Como pueden ver, Dios nos acepta por lo que hacemos, y no s\u00f3lo por lo que creemos."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "As\u00ed le sucedi\u00f3 a Rahab, la prostituta. Dios la acept\u00f3 por haber recibido y escondido a los esp\u00edas en su casa, y por ayudarlos tambi\u00e9n a escapar por otro camino."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "As\u00ed como un cuerpo sin alma est\u00e1 muerto, tambi\u00e9n la confianza en Dios est\u00e1 muerta si no va acompa\u00f1ada de buenas acciones."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La lengua - Hermanos en Cristo, no debemos tratar de ser todos maestros, pues bien sabemos que Dios juzgar\u00e1 a los maestros m\u00e1s estrictamente que a los dem\u00e1s."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Todos cometemos muchas faltas. \u00bfQui\u00e9n, entonces, es una persona madura? S\u00f3lo quien es capaz de dominar su lengua y de dominarse a s\u00ed mismo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Al caballo podemos dominarlo, y hacer que nos obedezca, si le ponemos un freno en la boca."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Algo parecido pasa con los barcos. Por grande que sea un barco, y por fuertes que sean los vientos que lo empujan, el navegante puede controlarlo con un tim\u00f3n muy peque\u00f1o."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Y lo mismo pasa con nuestra lengua. Es una de las partes m\u00e1s peque\u00f1as de nuestro cuerpo, pero es capaz de hacer grandes cosas. \u00a1Es una llama peque\u00f1a que puede incendiar todo un bosque!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Las palabras que decimos con nuestra lengua son como el fuego. Nuestra lengua tiene mucho poder para hacer el mal. Puede echar a perder toda nuestra vida, y hacer que nos quememos en el infierno."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Podemos dominar toda clase de animales salvajes, de aves, serpientes y animales del mar,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "pero no hemos podido controlar nuestra lengua ni evitar decir palabras que da\u00f1en. La lengua parece un animal salvaje, que nadie puede dominar y que est\u00e1 lleno de veneno mortal."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Con nuestra lengua podemos bendecir o maldecir. Con ella alabamos a nuestro Dios y Padre, y tambi\u00e9n insultamos a nuestros semejantes, que Dios hizo parecidos a \u00e9l mismo. Hermanos, \u00a1esto no debe ser as\u00ed!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Con nuestra lengua podemos bendecir o maldecir. Con ella alabamos a nuestro Dios y Padre, y tambi\u00e9n insultamos a nuestros semejantes, que Dios hizo parecidos a \u00e9l mismo. Hermanos, \u00a1esto no debe ser as\u00ed!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "De un mismo pozo no puede salir agua dulce y agua amarga o salada."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tampoco da higos un \u00e1rbol de aceitunas, ni da uvas un \u00e1rbol de higos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La sabidur\u00eda que Dios da - Si alguno de ustedes es sabio y entendido, demu\u00e9strelo haciendo el bien y port\u00e1ndose con humildad."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pero si ustedes lo hacen todo por envidia o por celos, vivir\u00e1n tristes y amargados; no tendr\u00e1n nada de qu\u00e9 sentirse orgullosos, y faltar\u00e1n a la verdad."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Porque esa sabidur\u00eda no viene de Dios, sino que es de este mundo y del demonio,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "y produce celos, peleas, problemas y todo tipo de maldad."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "En cambio, los que tienen la sabidur\u00eda que viene de Dios, no hacen lo malo; al contrario, buscan la paz, son obedientes y amables con los dem\u00e1s, se compadecen de los que sufren, y siempre hacen lo bueno; tratan a todos de la misma manera, y son verdaderos cristianos."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "A los que buscan la paz entre las personas, Dios los premiar\u00e1 d\u00e1ndoles paz y justicia."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Las guerras y los pleitos - \u00bfSaben por qu\u00e9 hay guerras y pleitos entre ustedes? \u00a1Pues porque no saben dominar su ego\u00edsmo y su maldad!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Son tan envidiosos que quisieran tenerlo todo, y cuando no lo pueden conseguir, son capaces hasta de pelear, matar y promover la guerra. \u00a1Pero ni as\u00ed pueden conseguir lo que quieren! Ustedes no tienen, porque no se lo piden a Dios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Y cuando piden, lo hacen mal, porque lo \u00fanico que quieren es satisfacer sus malos deseos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ustedes no aman a Dios, ni lo obedecen. \u00bfPero acaso no saben que hacerse amigo del mundo es volverse enemigo de Dios? \u00a1Pues as\u00ed es! Si ustedes aman lo malo del mundo, se vuelven enemigos de Dios."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bfAcaso no creen que, como dice la Biblia, \u00abDios nos ama mucho\u00bb?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "En realidad, Dios nos trata con mucho m\u00e1s amor, como dice la Biblia: \u00abDios se opone a los orgullosos, pero brinda su ayuda a los humildes.\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Por eso, obedezcan a Dios. H\u00e1ganle frente al diablo, y \u00e9l huir\u00e1 de ustedes."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "H\u00e1ganse amigos de Dios, y \u00e9l se har\u00e1 amigo de ustedes. \u00a1Pecadores, dejen de hacer el mal! Los que quieren amar a Dios, pero tambi\u00e9n quieren pecar, deben tomar una decisi\u00f3n: o Dios, o el mundo de pecado."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "P\u00f3nganse tristes y lloren de dolor. Dejen de re\u00edr y p\u00f3nganse a llorar, para que Dios vea su arrepentimiento."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sean humildes delante del Se\u00f1or, y \u00e9l los premiar\u00e1."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "No critiquen a los dem\u00e1s - Hermanos, no hablen mal de los dem\u00e1s. El que habla mal del otro, o lo critica, es como si estuviera criticando a la ley de Dios, o hablando mal de ella. Lo que ustedes deben hacer es obedecer la ley de Dios, no criticarla."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dios es el \u00fanico juez. \u00c9l nos dio la ley, y es el \u00fanico que puede decir si somos inocentes o culpables. Por eso no tenemos derecho de criticar a los dem\u00e1s."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "No sean orgullosos - Esc\u00fachenme, ustedes, los que dicen: \u00abHoy o ma\u00f1ana iremos a la ciudad; all\u00ed nos quedaremos todo un a\u00f1o, y haremos buenos negocios y ganaremos mucho dinero.\u00bb"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bfC\u00f3mo pueden hablar as\u00ed, cuando ni siquiera saben lo que les va a suceder ma\u00f1ana? Su vida es como la niebla: aparece por un poco de tiempo, y luego desaparece."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "M\u00e1s bien, deber\u00edan decir: \u00abSi Dios quiere, viviremos y haremos esto o aquello.\u00bb"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sin embargo, a ustedes les gusta hablar con orgullo, como si fueran due\u00f1os del futuro, y eso es muy malo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Si ustedes saben hacer lo bueno y no lo hacen, ya est\u00e1n pecando."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00a1Advertencia a los ricos! - Ahora esc\u00fachenme ustedes, los ricos: lloren y griten de dolor por todo lo que muy pronto van a sufrir."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sus riquezas se pudrir\u00e1n, y la polilla les comer\u00e1 la ropa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El dinero que han estado juntando en estos \u00faltimos tiempos se oxidar\u00e1, y ese \u00f3xido ser\u00e1 el testigo que los acusar\u00e1 en el juicio final, y que los destruir\u00e1 como un fuego."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ustedes no les han pagado el sueldo a sus trabajadores, y el Se\u00f1or todopoderoso ha o\u00eddo las protestas de ellos. Ese dinero que no han pagado tambi\u00e9n los acusar\u00e1 delante de Dios."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ustedes los ricos han vivido con mucho lujo, y se han dado la gran vida en esta tierra. Han engordado tanto que parecen ganado listo para el matadero."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Injustamente han acusado y matado a personas inocentes, que ni siquiera pod\u00edan defenderse."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Paciencia y valor - Pero ustedes, hermanos, tengan paciencia y no se desesperen, pues ya pronto viene Cristo el Se\u00f1or. Hagan como el campesino, que con paciencia espera la lluvia, y tambi\u00e9n espera que la tierra le d\u00e9 buenas cosechas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Paciencia y valor - Pero ustedes, hermanos, tengan paciencia y no se desesperen, pues ya pronto viene Cristo el Se\u00f1or. Hagan como el campesino, que con paciencia espera la lluvia, y tambi\u00e9n espera que la tierra le d\u00e9 buenas cosechas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "No se quejen unos de otros, para que Dios no los castigue, pues \u00e9l es nuestro juez, y ya pronto viene."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sigan el ejemplo de los profetas, que hace mucho tiempo anunciaban el mensaje de Dios. Nosotros los admiramos porque fueron pacientes y soportaron el sufrimiento. Y seguramente se acuerdan de Job, y de c\u00f3mo soport\u00f3 con valor los sufrimientos y, al final, Dios lo trat\u00f3 muy bien. Y es que Dios es muy bueno y amoroso con los que sufren."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sigan el ejemplo de los profetas, que hace mucho tiempo anunciaban el mensaje de Dios. Nosotros los admiramos porque fueron pacientes y soportaron el sufrimiento. Y seguramente se acuerdan de Job, y de c\u00f3mo soport\u00f3 con valor los sufrimientos y, al final, Dios lo trat\u00f3 muy bien. Y es que Dios es muy bueno y amoroso con los que sufren."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Otros consejos - Sobre todo, queridos hermanos, no juren ni por el cielo ni por la tierra, ni por ninguna otra cosa. Cumplan m\u00e1s bien con su palabra. Cuando digan \u00abs\u00ed\u00bb, que sea \u00abs\u00ed\u00bb; y cuando digan \u00abno\u00bb, que sea \u00abno\u00bb. \u00a1No vaya a castigarlos Dios por no cumplir con su palabra!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Si alguno de ustedes est\u00e1 triste, p\u00f3ngase a orar. Si est\u00e1 alegre, alabe a Dios con c\u00e1nticos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Si alguno est\u00e1 enfermo, que llame a los l\u00edderes de la iglesia, para que oren por \u00e9l; entonces ellos le untar\u00e1n aceite y le pedir\u00e1n al Se\u00f1or que lo sane."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Si oran con confianza, Dios les responder\u00e1 y sanar\u00e1 al enfermo, y si ha pecado tambi\u00e9n lo perdonar\u00e1."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Por eso, confiesen sus pecados unos a otros, y oren unos por otros, para que Dios los sane. La oraci\u00f3n de una persona buena es muy poderosa, porque Dios la escucha."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Por ejemplo, el profeta El\u00edas era en todo igual a todos nosotros; pero le pidi\u00f3 a Dios con mucha confianza que no lloviera, \u00a1y durante tres a\u00f1os y medio no llovi\u00f3 sobre la tierra!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Despu\u00e9s volvi\u00f3 a orar, \u00a1y llovi\u00f3 y la tierra dio sus cosechas!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hermanos en Cristo, si alguno de ustedes deja de confiar en la verdad que ha aprendido, y otro le devuelve la confianza,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "quiero que sepan esto: quien hace que un pecador deje de pecar, salva de la muerte al pecador y logra que Dios le perdone sus muchos pecados."
+                }
+            }
+        }
+    }
+}

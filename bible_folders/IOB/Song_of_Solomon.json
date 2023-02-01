@@ -1,0 +1,515 @@
+{
+    "version": "IOB",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ti Kanta dagiti Kankanta, nga inaramid ni Solomon. Kasarsarita ti balasang ti mangay-ayat kenkuana"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "O agkannak koma babaen kadagiti agek ti ngiwatmo, ta nasaysayaat ti ayatmo ngem ti arak."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Addaan dagiti pangsapsapo a lanam iti makaparagsak nga ayamuom; maiyarig iti agay-ayus a bangbanglo ti naganmo, isu nga ayatendaka dagiti babbalasang."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Isurotnak ket agtarayta. Kasarsarita ti babai ti bagina; Impannak ti ari kadagiti siledna. Kasarsarita ti babai ti mangay-ayat kenkuana Maragsakanak; Agragsao-ak gapu kenka; palubosannak a mangrambak iti ayatmo; nasaysayaat daytoy ngem ti arak. Gagangay laeng a magustoandaka dagiti dadduma a babbai."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kasarsarita ti babai dagiti dadduma a babbai, nangisitak ngem napintasak, dakayo nga annak a babbai dagiti tattao ti Jerusalem\u2014nangisit a kasla kadagiti tolda ti Kedar, napintas a kasla kadagiti kurtina ni Solomon."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Saannak a matmatan gapu ta nangisitak, gapu ta pinangisitnak ti init. Kaguradak dagiti kakabsatko a lallaki; pinagaywandak kadagiti kaubasan, ngem saanko a naaywanan ti bukodko a kaubasan. Kasarsarita ti babai ti mangay-ayat kenkuana;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ibagam kaniak, sika nga ay-ayatek, sadino ti pangipastoram ti arbanmo? Sadino ti pangipalinongam ti arbanmo iti tengnga ti aldaw? Apay a masapul a kaslaak iti maysa a tao nga agalla-alla iti asideg ti arban dagiti kakaduam? Sumungsungbat kenkuana ti mangay-ayat kenkuana"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "No saanmo nga ammo, kapipintasan kadagiti babbai, surotem dagiti tugot ti arbanko, ken ipastormo dagiti urbon a kaldingmo iti asideg dagiti tolda dagiti agpaspastor."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Iyarigka, ay-ayatek, iti kabaian a kabalio manipud kadagiti kabalio ti karwahe ni Faraon."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nagpintas dagiti pingpingmo nga addaan kadagiti arkos, ti tingngedmo nga addaan kadagiti alahas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Iyaramidankanto kadagiti balitok nga arkos nga addaan ti butonesna a pirak. Kasarsarita ti babai ti bagina"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kabayatan nga agid-idda ti ari iti sofana, agayamuom ti bangbanglok a nardo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Para kaniak, maiyarig ti ay-ayatek iti maysa a pagkargaan ti mira nga agpatnag nga agid-idda iti nagbaetan dagiti susok."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Para kaniak, maiyarig ti ay-ayatek iti sangaraay dagiti sabsabong a kandaroma idiay kaubasan ti Engedi. Kasarsarita isuna iti lalaki a mangay-ayat kenkuana"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kitaem, nagpintaska ay-ayatek; kitaem, nagpintaska; kasla kadagiti kalapati dagiti matam. Kasarsarita ti babai ti mangay-ayat kenkuana"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kitaem, nagtaerka, ay-ayatek, anian a nagtaraerka. Dagiti nalangto a mulmula ti agserbi a pagiddaanta."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Dagiti busoran ti balayta ket sangsanga dagiti kayo a sedro, ken dagiti bobedata ket dagiti sangsanga ti aruo."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kaslaak laeng iti sabong iti patad, kas iti lirio iti tanap. Karsarita ti lalaki isuna"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kas iti lirio kadagiti sisiit, kastaka met ay-ayatek, kadagiti annak a babbai dagiti kailiak. Kasarsarita ti babai ti bagina"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kas iti kayo ti aprikot kadagiti kaykayo iti kabakiran, kasta met ti ay-ayatek kadagiti babbaro. Agtugawak iti sirok ti aniniwanna a maragragsakan, ket nagsam-it iti panagramanko ti bungana."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Inserreknak iti pagdadayaan, ken imbayogna ti wagayway ni ayat kaniak. Kasarsarita ti babai ti mangay-ayat kenkuana"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Biagennak babaen kadagiti bibingka a pasas ken pabaroennak babaen kadagiti aprikot, gapu ta nakapuyak no maipapan iti ayat. Kasarsarita ti babai iti bagina"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ti kannigid nga imana ket adda iti babaen ti ulok, ken nakaarakup kaniak ti kannawan nga imana. Kasarsarita ti babai dagiti dadduma a babbai"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kayatko nga agkarikayo kaniak, annak a babbai ti Jerusalem, babaen kadagiti korso ken kadagiti ugsa iti aw-away, a saanyonto a singsingaen agingga a malpas ti panagkakaiddami. Kasarsarita ti babai ti bagina"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Daydiayen ti timek ti ay-ayatek! O sumungsungaden isuna, laylayawenna dagiti kabanbantayan, laglagtoenna dagiti katurturodan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Arigna ti ay-ayatek iti korso wenno iti urbon nga ugsa; adtoy, agtaktakder isuna iti likudan ti bakudmi, agtantannawag iti tawa, sumirsirip iti rehas ti tawa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nakisarita kaniak ti ay-ayatek ket kinunana, \u201cTumakderkan, ay-ayatek; Imnasko, agtaraytan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kitaem, naglabasen ti lammiis; awanen ken napukawen ti tudo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nagparangen dagiti sabsabong iti daga; dimtengen ti tiempo ti panagsasalingsing ken ti panagkankanta dagiti billit, ket mangngeganen ti uni dagiti kalapati iti dagatayo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Luluumen ti kayo nga igos dagiti naganus a bungana, ken agsabungen dagiti ubas; itdenda dagiti ayamuomda. Tumakderka ay-ayatek, imnasko, ket umadayotan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ti kalapatik, nga adda iti rengngat iti dakkel a bato, idiay nalimed a rengngat iti nangato a bantay, ipakitam koma ti rupam kaniak. Ipangngegmo koma ti timekmo kaniak ta daytoy ket makaay-ayo, ken ti rupam ket nalibnos.\u201d Kasarsarita ti babai ti bagina"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tiliwem dagiti naatap nga aso para kadata, dagiti naatap nga uken a mangdaddadael kadagiti kaubasan, ta agsabsabongen dagiti kaubasanta."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kukuak laeng ti ay-ayatek, ket kukuanak; siraragsak isuna nga agar-arab kadagiti lirio. Kasarsarita ti babai ti mangay-ayat kenkuana"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pumanawkan, ay-ayatek, sakbay nga agpul-oy ti nalamiis nga angin iti parbangon ken agpukaw dagiti aniniwan. Pumanawkan; agbalinka a kas iti korso wenno maysa a bumaro nga ugsa kadagiti kababatoan a banbantay."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Iti rabii idiay pagiddaak, kail-iliwko ti lalaki nga ay-ayatek; binirokko isuna ngem saanko a masarakan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kinunak iti bagik, \u201cBumangonak ken sursurek ti siudad, dagiti daldalan ken dagiti pagpasyaran; birukek ti ay-ayatek.\u201d Binirokko isuna ngem saanko a nasarakan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nasarankandak dagiti agbanbantay a lallaki bayat ti panagpatpatroliada iti siudad. Sinaludsodko kadakuada, \u201cNakitayo kadi ti ay-ayatek?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Apaman a nakalabasak kadakuada idi nakitak ti ay-ayaten ti kararuak. Inarakupko isuna ket saanko nga inibbatan agingga a naiyunegko isuna iti balay ni inak, iti uneg ti kuarto ti babai a nangisukog kaniak. Kasarsarita ti babai dagiti dadduma a babbai"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kayatko nga agkarikayo, annak a babbai dagiti tattao ti Jerusalem, babaen kadagiti korso ken kadagiti kabaian nga ugsa iti aw-away, a saanyonto a singsingaen agingga a malpas ti panagkakaiddami. Kasarsarita ti balasang ti bagina"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ania daytoy a sumangsang-at nga aggapu idiay let-ang a kasla simbuyok ti asuk, agat-mira ken insenso, nga addaan kadagiti amin a polbos nga ilaklako dagiti agtagtagilako?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kitaem, ti trono nga awit dagiti adipen ni Solomon; innem a pulo a mannakigubat ti nanglawlaw iti daytoy, innem a pulo a soldado ti Israel."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nalalaingda no maipapan iti kampilan ken beteranoda iti pannakigubat. Addaan ti tunggal lalaki iti kampilan iti sikiganna, naarmasanda maibusor kadagiti mangriribuk iti rabii."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nagpaaramid ni Ari Solomon iti sedan a tugawna a naaramid iti kayo a naggapu idiay Libano."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Naaramid dagiti postena iti pirak; naaramid ti balitok iti likodna, ken lila a lupot ti tugawna. Iti akin-uneg a pasetna ket naarkusan nga addaan iti ayat babaen kadagiti annak a babbai dagiti tattao ti Jerusalem"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Rummuarkayo, annak a babbai dagiti tattao ti Sion, ket matmatanyo ni Ari Solomon, suotna ti korona nga inkorona ni inana kenkuana idi aldaw ti panagasawana, iti naragsak nga aldaw iti biagna."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O nagpintaska, ay-ayatek; nagpintaska. Dagiti matam ket kasla kadagiti kalapati iti likodan ti belom. Kayarigan ti buokmo dagiti arban dagiti kalding a sumalsalog manipud iti Bantay Galaad."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dagiti ngipenmo ket kasla iti arban dagiti kapukpukis a kabaian a karnero, a sumangsang-at manipud iti pagdidigusan. Tunggal maysa kadakuada ket addaan iti singinna, ken awan kadakuada iti natay."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dagiti bibigmo ket kasla iti nalabaga a lupot; makaay-ayo ti ngiwatmo. Dagiti pingpingmo ket kasla kadagiti pisi ti granada iti likodan ti belom."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ti tengngedmo ket kasla iti torre ni David a naipatakder iti hilera dagiti batbato, nga addaan iti rinibribu a kalasag nga agbitbitin iti daytoy, kalasag amin dagiti soldado."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dagiti dua a susom ket kasla kadagiti dua nga urbon a karnero, singin iti korso nga agar-arab iti tengnga dagiti lirio."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Agingga a dumteng ti parbangon ken agpukaw dagiti aniniwan, sumang-atakto idiay bantay ti mira ken idiay turod ti insenso."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ay-ayatek, nagpintaska iti aniaman nga anggulo, ken awan ti pakapilawan kenka."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kumuyogka kaniak manipud Libano, o nobiak. Kumuyogka kaniak manipud Libano; umayka manipud iti tuktok ti Amana, manipud iti tuktok ti Senir ken Hermon, manipud iti rukib dagiti leon, manipud iti bantay a rukib dagiti leopardo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tinakawmo toy pusok, kabsatko a babai, o nobiak; tinakawmo toy pusok, iti laeng maysa a kitam kaniak, babaen iti maysa a napateg a bato iti kuentasmo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Anian a nagimnas ti ayatmo, kabsatko a babai, o nobiak! Anian a nasaysayaat ti ayatmo ngem ti arak, ken ti ayamuom ti bangbanglom ngem ti aniaman a rekado."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dagiti bibigmo, o nobiak, ket kasla agtedted a diro; adda iti diro ken gatas iti sirok ti dilam; ti ayamuom ti pagan-anaymo ket kasla iti ayamuom ti Libano."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ti kabsatko a babai, ti nobiak ket kasla hardin a nakakandado, maysa a hardin a nakakandado, maysa nga ubbog nga adda seliona."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dagiti sangsangam ket kabakiran dagiti kaykayo a granada nga addaan kadagiti nasasayaat a bunga, ken iti alkamfor ken nardo a mula,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "nardo, asafran, calamus ken cinnamon nga addaan kadagiti amin a kita dagiti rekado, mira ken aloes nga addaan kadagiti amin a kasasayaatan a rekrekado."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Maysaka nga ubbog iti hardin, maysa a bubon iti nadalus a danum, agay-ayus a karayan manipud idiay Libano. Kasarsarita ti balasang ti mangay-ayat kenkuana"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Agriingka, o angin ti amianan; umayka, o angin ti abagatan; agpul-oyka iti hardinko tapno dagiti rekadona ket mangparnuay iti nabanglo nga ayamuom. Umay koma ti ay-ayatek iti hardinna ket mangan kadagiti sumagmamano iti kasayaatan a bungana."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Napanak iti hardinko, kabsatko a babai, o nobiak; Inummongko ti mirak agraman iti rekadok. Kinnankon ti balay ti dirok agraman ti dirok; Ininomkon ti arakko ken ti gatasko. Manganka gayyem. Manganka gayyem; uminomka a siwayawaya, ay-ayatek. Kasarsarita ti babai ti bagina"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nakaturogak ngem nakariing ti pusok iti maysa a tagtagainep. Adda ti timek ti ay-ayatek nga agtuktuktok a kunkunana, \u201cIlukatannak, kabsatko a babai, ay-ayatek, o kalapatik, o awan pagkuranganna nga ay-ayatek, ta nabasa ti ulok gapu iti linnaaw, nabasa ti buokko gapu iti lammiis ti rabii.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u201cInussobko ti kagayko; masapul kadi nga isuotko manen? Binuggoakon dagiti sakak; masapul kadi a rugitak manen dagitoy?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Iniggaman ti ay-ayatek iti paglukatan ti ridaw, ket nariing ti pusok kenkuana."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bimmangonak tapno lukatak ti ridaw para iti ay-ayatek; agtedtedted ti mira kadagiti imak, nabasa dagiti ramayko kadagiti alingasaw ti mira, iti pagiggaman ti ridaw."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Inlukatko ti ridaw para iti ay-ayatek, ngem timmalikod ti ay-ayatek ket nakapanawen. Nalmes ti pusok; naawananak iti namnama. Binirokko isuna ngem saanko isuna a masarakan; inayabak isuna, ngem saannak a sinungbatan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nakitadak dagiti lallaki nga agwanwanawan iti siudad; dinanog ken sinugatdak; dagiti agbanbantay iti ngatoen dagiti pader ket innalada ti kagayko. Kasarsarita ti balasang dagiti babbai iti siudad"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kayatko nga agkarikayo, annak a babbai ti Jerusalem, a no masarakanyo ti ay-ayatek, ibagayo kenkuana nga agsakitak gapu iti ayatko kenkuana. Kasarsarita dagiti babbai ti siudad ti balasang"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kasano a nasaysayaat ti ay-ayatem ngem iti sabali pay a lalaki nga ayaten, sika a kapipintasan kadagiti babbai? Apay a nasaysayaat ti ay-ayatem ngem iti sabali pay a lalaki nga ayaten, a kiddawem kadakami nga agkarikami a kas iti daytoy? Kasarsarita ti balasang dagiti babbalasang iti siudad"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ti ay-ayatek ket napudaw ken lumabbaga, kangrunaan kadagiti sangapulo a ribu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kasudian a balitok ti ulona; kulot ken nangisit a kasla uwak ti buokna."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dagiti matana ket kasla kadagiti kalapati iti igid dagiti waig, nadigos iti gatas, naiyurnos a kasla kadagiti alahas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dagiti pingpingna ket kasla pagmulaan dagiti rekado, nga agpatpataud iti nabanglo nga ayamuom. Dagiti bibigna ket kasla kadagiti lirio, nga agar-aruyot iti mira."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nagsippukel dagiti takkiagna nga addaan iti balitok a naarkusan kadagiti napapateg a bato; ti tianna ket kasla marfil a nakalupkopan kadagiti safiro."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Dagiti luppona ket kasla kadagiti adigi a marmol, a naisaad kadagiti batay a puro a balitok; ti langana ket kasla iti Libano, a napili a kas kadagiti sedro."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ti ngiwatna ti kasasam-itan; naimnas isuna. Daytoy ti ay-ayatek, ken ti gayyemko, annak a babbai dagiti tattao ti Jerusalem."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sadino ti nagturongan ti ay-ayatem, sika a kapipintasan kadagiti babbai? Sadino ti nagturongan ti ay-ayatem, tapno kaduaandaka a mangbirok kenkuana? Kasarsarita ti balasitang ti bagina"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Simmalog ti ay-ayatek iti minuyonganna, iti pagmulaan dagiti rekado, tapno agarab idiay minuyonganna ken mangala kadagiti lirio."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kukuanak ti ay-ayatek, ken kukuak ti mangay-ayat kaniak; agar-arab isuna a siraragsak iti tengnga dagiti lirio. Makisarsarita iti babai ti mangay-ayat kenkuana"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nagpintaska a kasla iti Tirsa, ay-ayatek, naimnas a kasla ti Jerusalem, nakaskasdaaw a kas iti armada a nakaiggem iti wagayway."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Iyadayom ti kitam kaniak, ta mangguyogoy daytoy kaniak. Maiyarig ti buokmo iti pangen dagiti kalding a sumalsalog nga aggapu iti bakrang ti Bantay Galaad."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dagiti ngipenmo ket kasla iti arban dagiti kabaian a karnero a tumaktakdang a naggapu iti pagdidigusan. Addaan ti singin ti tunggal maysa, ken awan ti natay kadakuada."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Umasping dagiti pingpingmo iti sangapisi a bunga ti granada iti likod ti belom. Kasarsarita ti mangay-ayat iti babai ti bagina"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Adda ti innem a pulo a reyna, walopulo nga inkabbalay ti ari, ken babbalasang a di mabilang."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ti kalapatik, ti saan a narugitan nga ay-ayatek, ket ti kakaisuna; isuna ti naisangsangayan nga anak a babai ti inana; isuna ti dungdungoen ti babai a nangisikog kenkuana. Nakita isuna dagiti annak a babai dagiti kailliak ket inawaganda isuna a nagasat; nakita pay isuna dagiti reyna ken dagiti inkabbalay ti ari, ket dinayawda isuna; Kinuna dagiti reyna ken dagiti inkabbalay ti ari"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201cSiasino daytoy nga aglanglanga a kasla iti parbangon, napintas a kas iti bulan, nalawag a kas ti init, nakaskasdaaw a kas iti armada a nakaiggem iti wagayway?\u201d Kasarsarita ti mangay-ayat iti babai ti bagina"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Simmalogak iti minuyongan dagiti nuekes a mangkita iti karusrusing idiay tanap, a mangkita no nagrusingen dagiti puon ti ubas, ken no nagsabongen dagiti granada."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nakaro ti ragsakko ta kaslaak la agluglugan iti karwahe ti prinsipe. Makisarsarita iti babai ti mangay-ayat kenkuana"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Agsublika, agsublika, sika nga awan pagkuranganna a babai; agsublika, agsublika tapno mamatmatanka. Kasarsarita ti balasang ti mangay-ayat kenkuana Apay a matmatannak, ti babai nga awan pagkuranganna, a kaslaak la agsalsala iti nagbaetan dagiti dua a linia dagiti sumasala?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Anian a nagpintas ti buya dagiti sakam kadagiti sandaliasmo, o anak a babai ti prinsipe! Maiyasping dagiti sukog ti patongmo kadagiti alahas, ti aramid dagiti ima iti nalaing a dumidisenio."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Maiyasping ti pusegmo iti nagbukel a malukong; sapay koma ta saan daytoy a maibusan iti nagampor nga arak. Maiyasping ti buksitmo iti napenpen a trigo a napalikawkawan kadagiti lirio."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kasla iti dua nga urbon a karnero a singin iti korso dagiti dua a susom."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Maiyasping ti tengngedmo iti torre ti marfil; Dagiti matam ket kasla kadagiti dan-aw idiay Hesbon iti igid ti ruangan ti Bat-Rabbim. Maiyasping ti agongmo iti torre idiay Libano a tumantannawag idiay Damasco."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kasla iti Carmelo ti ulom; ti buok iti ulom ket nalidem a lila. Nakayawan ti ari kadagiti sallapidna."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Anian a nagpintas ken nagimnaska, ay-ayatek, kadagiti pagragsakam!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ti tayagmo ket kasla iti kayo ti palma, ken dagiti susom ket kasla kadagiti raay ti bunga ti kayo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Imbagak, \u201cKayatko nga ulien dayta a kayo ti palma; agkapetak kadagiti sangsangana.\u201d Agbalin koma dagiti susom a kas kadagiti raay ti ubas, ken ti anges ti agongmo ket agbalin koma a kas kadagiti aprikot."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Agbalin koma ti ngiwatmo a kas iti kaiimasan nga arak, nga in-inayad nga agay-ayus iti ay-ayatek, agay-ayus kadagiti bibig ken kadagiti ngipenta. Kasarsarita ti balasitang ti mangay-ayat kenkuana"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kukuanak ti ay-ayatek, ken tartarigagayannak."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Umayka, ay-ayatek, mapanta idiay away; umianta nga agpatpatnag kadagiti barbario."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Agriingta a masapa tapno mapanta idiay kaubasan; kitaenta no nagrusingen dagiti puon ti ubas, no nagukraden dagiti sabongda, ken no agsabungen dagiti granada. Sadiay nga itedkonto ti ayatko kenka."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Agayamuom ti angot dagiti mandragoras; iti ridaw a paggigiananta ket adda dagiti amin a kita dagiti kasayaatan a bungbunga ti kayo, baro ken baak, nga indulinko para kenka, ay-ayatek."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Tarigagayak a kaslaka la koma iti kabsatko a lalaki, a nagsuso kenni inangko. Ket no masabatka iti ruar, mabalinka nga agkan, ket awan ti siasinoman ti manguyaw kaniak."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Idalanka ket iyegka iti balay ni inangko, ket suroannak. Ikkanka iti natimplan nga arak ken sangkabassit a tubbog ti bunga ti granadak. Kasarsarita ti balasang ti bagina."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ig-iggaman ti makannigid nga imana ti ulok; ar-arakupennak ti makannawan nga imana. Kasarsarita ti babai dagiti dadduma a babbai"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kayatko nga agkarikayo, annak a babbai dagiti tattao ti Jerusalem, a saanyo a singsingaen ti panagkakaiddami agingga a malpas daytoy. Agsarsarita dagiti babbai ti Jerusalem"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Siasino daytoy a sumangsang-at a naggapu idiay let-ang, nga agsadsadag iti ay-ayatenna? Kasarsarita ti balasang ti ay-ayatenna Riniingka iti sirok ti kayo nga aprikot; insikognaka sadiay ni inangmo; sadiay ti nangipasngayanna kenka, inyanaknaka."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Isaadnak a kas tanda iti pusom, a kas tanda iti takkiagmo, ta iti ayat ket napigsa a kas iti patay. Ti imon ket naranggas a kas iti"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Saan a kabaelan a sebseban ti agsabua-sabuag a dalluyon ti ayat, saan a kabaelan uray ti layus nga iyanud daytoy. No ited ti maysa a lalaki ti amin a sanikua nga adda iti balayna para iti ayat, maumsinto a naan-anay ti sagutna. Agsasarita dagiti kabsat a lalaki ti babai"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Adda kabsatmi nga ubing a babai, ken saan pay a nagpammukel. Ania ti aramidenmi para iti kabsatmi a babai iti aldaw a maikarinto isuna a maiyasawa?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "No isuna ket maysa a pader, agpatakderkami iti maysa a torre a pirak para kenkuana. No isuna ket maysa a ridaw, pakalupkopanminto isuna kadagiti tabla a sedro. Kasarsarita ti balasang ti bagina"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Maysaak a pader, ngem dagitoy susok ket kasla torre a pagkamangan; isu a naan-anayakon a nataengan iti imatangna. Kasarsarita ti balasang ti bagina"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Adda kaubasan ni Solomon idiay Baal-hamon; impaabangna ti kaubasan kadagiti mangtaripato iti daytoy. Mangted ti tunggal maysa iti sangaribu a siklo ti pirak para kadagiti bungana."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kukuak ti kaubasak; kukuam ti sangaribo a siklo, o dungdungoek a Solomon, ken ti duagasut a siklo ket para kadagiti mangtartaripato iti ditoy para iti bungana. Makisarsarita iti babai ti mangay-ayat kenkuana"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sika nga agnanaed kadagiti minuyongan, dumdumngeg iti timekmo dagiti kakaduak; Ipangngegmo met koma kaniak daytoy. Kasarsarita ti balasang ti mangay-ayat kenkuana"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Apuraem, ay-ayatek, ket agbalinka a kas iti korso wenno urbon a kalakian nga ugsa kadagiti banbantay dagiti rekado a pangpabanglo."
+                }
+            }
+        }
+    }
+}

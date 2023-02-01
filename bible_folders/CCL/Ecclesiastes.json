@@ -1,0 +1,955 @@
+{
+    "version": "CCL",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Zapansipano N\u02bczopandapake - Mawu a Mlaliki, mwana wa Davide, mfumu ya ku Yerusalemu:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201cZopandapake! Zopandapake!\u201d atero Mlaliki. \u201cZopandapake kotheratu! Zopandapake.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kodi munthu amapindulanji pa ntchito zake zonse zimene amasautsidwa nazo pansi pano?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mibado imabwera ndipo mibado imapita, koma dziko lapansi limakhalapobe nthawi zonse."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dzuwa limatuluka ndipo dzuwa limalowa ndipo limapita mwamsanga kumene limatulukira."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mphepo imawombera cha kummwera ndi kukhotera cha kumpoto; imawomba mozungulirazungulira, kumangobwererabwerera komwe yachokera."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mitsinje yonse imakathira ku nyanja, koma nyanjayo sidzaza; kumene madziwo amachokera, amabwereranso komweko."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Zinthu zonse ndi zotopetsa, kutopetsa kwake ndi kosaneneka. Maso satopa ndi kuona kapena khutu kukwaniritsidwa ndi kumva."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Zomwe zinalipo kale zidzakhalaponso, zomwe zinachitika kale zidzachitikanso. Ndiye kuti chatsopano palibiretu pansi pano."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kodi chilipo chinthu chimene wina anganene kuti, \u201cTaona! Ichi ndiye chatsopano?\u201d Chinalipo kale, kalekale; chinalipo ife kulibe."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Anthu akale sakumbukiridwa, ngakhale amene adzabwera m\u02bctsogolomu sadzakumbukiridwa ndi iwo amene adzabwere pambuyo pawo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nzeru N\u02bczopandapake - Ine, Mlalikine, ndinali mfumu ya Israeli mu Yerusalemu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ndinayika mtima wanga pophunzira ndi kufunafuna mwa nzeru zinthu zonse zimene zimachitika pansi pa thambo. Ndi ntchito yolemetsa ndithu imene Mulungu anayipereka kwa anthu!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ine ndaona zinthu zonse zochitika pansi pano; zinthu zonsezo ndi zopandapake, n\u02bckungodzivuta chabe."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Chinthu chokhota sichingathe kuwongoledwa; chimene palibe sichingathe kuwerengedwa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ine ndinaganiza mu mtima mwanga, \u201cTaona, ine ndakula ndi kukhala wa nzeru zochuluka kupambana aliyense amene analamulirapo Yerusalemu ndisanabadwe; ndaphunzira nzeru zochuluka ndi luntha.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ndipo ndinadzipereka kuti ndithe kumvetsa kuti nzeru n\u02bcchiyani, misala n\u02bcchiyani, uchitsiru n\u02bcchiyani, koma ndinazindikira ichi, kuti kuteronso n\u02bckungodzivuta chabe."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pakuti nzeru zochuluka zimabweretsa chisoni chochulukanso: chidziwitso chochuluka, zowawa zochulukanso."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Zosangalatsa N\u02bczopandapake - Ine ndinaganiza mu mtima mwanga, \u201cTsopano ndiyese zosangalatsa kuti ndipeze zomwe ndi zabwino.\u201d Koma izi zinaonekanso kuti ndi zopandapake."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201cKuseka,\u201d ndinati, \u201cimeneyo ndi misala. Ndipo kodi chisangalalo chimabweretsa phindu lanji?\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ndinayesa kudzisangalatsa ndi vinyo, koma umenewu unali uchitsiru, pamenepo n\u02bckuti maganizo anga akutsogozedwa ndi nzeru. Ine ndinkati mwina kapena njira yotero n\u02bckukhala yopambana, imene anthu amatsata pofuna kusangalala pa masiku owerengeka a moyo wawo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ndinagwira ntchito zikuluzikulu: Ndinadzimangira nyumba ndi kuwoka mipesa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ndinalima madimba ndi minda yamitengo; ndipo ndinadzalamo mitengo ya zipatso za mitundu yonse."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ndinakumba mayiwe osungiramo madzi woti ndizithirira minda ya mitengo yodzalidwa ija."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ndinagula akapolo aamuna ndi akapolo aakazi, ndiponso ndinali ndi akapolo ena omwe anabadwira m\u02bcnyumba mwanga. Ndinalinso ndi ng\u02bcombe ndi nkhosa zambiri kupambana aliyense mu Yerusalemu amene analipo ndisanabadwe."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ndinadzikundikira siliva ndi golide, ndiponso chuma chochokera kwa mafumu ndi madera awo. Ndinali ndi amuna ndi akazi oyimba ndiponso azikazi; zinthu zokondweretsa mtima wa munthu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ndinali munthu wotchuka kupambana wina aliyense mu Yerusalemu amene analipo ndisanabadwe. Mu zonsezi nzeru zanga zinali nane."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sindinadzimane chilichonse chimene maso anga anachifuna; mtima wanga sindinawumane zokondweretsa. Mtima wanga unakondwera ndi ntchito yanga yonse, ndipo iyi ndiyo inali mphotho ya ntchito zanga zonse zolemetsa."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Koma pamene ndinayamba kuyang\u02bcanayang\u02bcana zonse zimene ndinachita ndi manja anga, ndi zimene ndinazivutikira kuti ndizipeze, zonsezi zinali zopandapake; kungodzivuta chabe, palibe chomwe ndinapindula pansi pano."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nzeru ndi Uchitsiru N\u02bczopandapake - Kenaka maganizo anga anayamba kulingalira zakuti nzeru n\u02bcchiyani, komanso kuti misala ndi uchitsiru n\u02bcchiyani. Kodi munthu wodzalowa ufumu tsopanoyo angachite chiyani choposa chimene chinachitidwa kale?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ndinaona kuti nzeru ndi yopambana uchitsiru, monga momwe kuwala kumapambanira mdima."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Munthu wanzeru amayenda maso ali patsogolo, pamene chitsiru chimayenda m\u02bcchimbulimbuli; koma ndinazindikira kuti chomwe chimawachitikira onsewo ndi chimodzi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pamenepo ndinalingalira mu mtima mwanga, \u201cZochitikira chitsiru zidzandichitikiranso ine. Nanga tsono phindu langa n\u02bcchiyani pakukhala wanzeru?\u201d Ndinati mu mtima mwanga, \u201cIchinso ndi chopandapake.\u201d"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Pakuti munthu wanzeru, pamodzinso ndi chitsiru sadzakumbukiridwa nthawi yayitali; m\u02bcmasiku am\u02bctsogolo awiriwo adzayiwalika. Mmene chimafera chitsiru ndi mmenenso amafera wanzeru!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kugwira Ntchito N\u02bckopandapake - Kotero ndinadana nawo moyo chifukwa ntchito zimene zimagwiridwa pansi pano ndi zosautsa kwa ine. Ntchito zonsezo ndi zopandapake, n\u02bckungodzivuta chabe."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ine ndinadana nazo ntchito zonse zimene ndinazigwira pansi pano, chifukwa ndinayenera kudzazisiyira wina amene adzalowa m\u02bcmalo mwanga."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ndipo ndani amadziwa kuti munthu ameneyo adzakhala wanzeru kapena chitsiru? Komabe munthuyo adzakhala wolamulira zonse zimene ndinazichita pansi pano mwa nzeru zanga. Izinso ndi zopandapake."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Motero ndinayamba kutaya mtima chifukwa cha ntchito zonse zimene ndinazivutikira pansi pano."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Pakuti munthu atha kugwira ntchito yake mwanzeru, chidziwitso ndi luntha, ndipo kenaka n\u02bckusiyira wina amene sanakhetserepo thukuta. Izinso ndi zopandapake ndiponso tsoka lalikulu."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kodi munthu amapindulanji pa ntchito zonse zolemetsa ndi zodetsa nkhawa zimene amazichita pansi pano?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Masiku ake onse amakhala achisoni, ntchito yake imakhala yovuta; ngakhale usiku womwe, mtima wake supumula. Izinso ndi zopandapake."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kwa munthu palibe chabwino china kuposa kudya, kumwa ndi kukondwerera ntchito zake. Izinso ndaona kuti ndi zochokera kwa Mulungu,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "pakuti popanda Iye, ndani angadye ndi kupeza chisangalalo?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Munthu amene amakondweretsa Mulungu, Mulunguyo amamusandutsa wanzeru, wozindikira ndi wachisangalalo, koma wochimwa, Mulungu amamupatsa ntchito yosonkhanitsa ndi kusunga chuma kuti adzachipereke kwa amene Mulunguyo amakondwera naye. Izinso ndi zopandapake, n\u02bckungodzivuta chabe."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chilichonse Chili ndi Nthawi - Chinthu chilichonse chili ndi nthawi yake, ndi nyengo yake yomwe anayika Mulungu:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nthawi yobadwa ndi nthawi yomwalira, nthawi yodzala ndi nthawi yokolola."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nthawi yakupha ndi nthawi yochiritsa, nthawi yogwetsa ndi nthawi yomanga."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nthawi yomva chisoni ndi nthawi yosangalala, nthawi yolira maliro ndi nthawi yovina."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nthawi yotaya miyala ndi nthawi yokundika miyala, nthawi yokumbatirana ndi nthawi yoleka kukumbatirana."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nthawi yofunafuna ndi nthawi yoleka kufunafuna, nthawi yosunga ndi nthawi yotaya."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nthawi yong\u02bcamba ndi nthawi yosoka, nthawi yokhala chete ndi nthawi yoyankhula."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nthawi yokondana ndi nthawi yodana, nthawi ya nkhondo ndi nthawi ya mtendere."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kodi wantchito amapeza phindu lanji pa ntchito yake yolemetsa?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ine ndinaona chipsinjo chimene Mulungu anayika pa anthu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Iye anapanga chinthu chilichonse kuti chikhale chabwino pa nthawi yake. Anayika nzeru zamuyaya m\u02bcmitima ya anthu; komabe anthuwo sangathe kuzindikira zomwe Mulungu wachita kuyambira pa chiyambi mpaka chimaliziro."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ine ndikudziwa kuti palibenso kanthu kabwino kwa anthu kopambana kusangalala ndi kuchita zabwino pamene ali ndi moyo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ndi mphatso ya Mulungu kwa munthu kuti azidya, azimwa ndi kumakondwera ndi ntchito zake zolemetsa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ndikudziwa kuti chilichonse chimene Mulungu amachita chidzakhala mpaka muyaya; palibe zimene zingawonjezedwe kapena kuchotsedwa. Mulungu amazichita kuti anthu azimuopa."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Chilichonse chimene chilipo chinalipo kale, ndipo chimene chidzakhalapo chinalipo poyamba; Mulungu amabwezanso zakale zimene zinapita kuti zichitikenso."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ndipo ndinaona chinthu chinanso pansi pano: ku malo achiweruzo, kuyipa mtima kuli komweko, ku malo achilungamo, kuyipa mtima kuli komweko."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ndinalingalira mu mtima mwanga kuti; \u201cMulungu adzaweruza olungama pamodzi ndi oyipa omwe, pakuti anayika nthawi yochitikira chinthu chilichonse, nthawi ya ntchito iliyonse.\u201d"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ndinalingaliranso kuti, \u201cKunena za anthu, Mulungu amawayesa ndi cholinga choti awaonetse kuti iwo ali ngati nyama."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Zimene zimachitikira munthu, zomwezonso zimachitikira nyama; chinthu chimodzi chomwecho chimachitikira onse: Monga munthu amafa momwemonso nyama imafa. Zonsezi zimapuma mpweya umodzimodzi omwewo; munthu saposa nyama. Zonsezi ndi zopandapake."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Zonse zimapita kumodzimodzi; zonsezi zimachokera ku fumbi, ndipo zimabwereranso ku fumbi komweko."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kodi ndani amene amadziwa ngati mzimu wa munthu umakwera kumwamba, ndipo mzimu wa nyama umatsikira kunsi kwa dziko?\u201d"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kotero ndinaona kuti palibe chinthu chabwino kwa munthu kuposa kuti munthu azisangalala ndi ntchito yake, pakuti ichi ndiye chake chenicheni. Pakuti ndani amene angamubweretse kuti adzaone zimene zidzamuchitikira iye akadzamwalira?"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Matsoka ndi Mavuto a Moyo Uno - Ndinayang\u02bcananso ndi kuona chipsinjo chimene chimachitika pansi pano: ndinaona misozi ya anthu opsinjika, ndipo iwo alibe owatonthoza; mphamvu zinali ndi anthu owapsinjawo ndipo iwonso analibe owatonthoza."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ndipo ndinanena kuti akufa, amene anafa kale, ndi osangalala kuposa amoyo, amene akanalibe ndi moyo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Koma wopambana onsewa ndi amene sanabadwe, amene sanaone zoyipa zimene chimachitika pansi pano."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ndipo ndinazindikira kuti ntchito zonse zolemetsa ndiponso ntchito zonse zaluso zimachitika chifukwa choti wina akuchitira nsanje mnzake. Izinso ndi zopandapake, n\u02bckungodzivuta chabe."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Chitsiru chimangoti manja ake lobodo ndi kudzipha chokha ndi njala."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "N\u02bckwabwino kukhala ndi dzanja limodzi lodzaza uli pa mtendere, kuposa kukhala ndi manja awiri odzaza uli pa mavuto, ndipo uku n\u02bckungodzivuta chabe."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ndinaonanso chinthu china chopanda phindu pansi pano:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Panali munthu amene anali yekhayekha; analibe mwana kapena m\u02bcbale. Ntchito yake yolemetsa sinkatha, ndipo maso ake sankakhutitsidwa ndi chuma chake. Iye anadzifunsa kuti, \u201cKodi ntchito yosautsayi ndikuyigwirira yani? Nanga n\u02bcchifukwa chiyani ndikudzimana chisangalalo?\u201d Izinso ndi zopandapake, zosasangalatsa!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kukhala awiri n\u02bckwabwino kuposa kukhala wekha, chifukwa ntchito ya anthu awiri ili ndi phindu:"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ngati winayo agwa, mnzakeyo adzamudzutsa. Koma tsoka kwa munthu amene agwa ndipo alibe wina woti amudzutse!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Komanso ngati anthu awiri agona malo amodzi, adzafunditsana. Koma nanga mmodzi angadzifunditse yekha?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Munthu mmodzi angathe kugonjetsedwa, koma anthu awiri akhoza kudziteteza. Chingwe cha maulusi atatu sichidukirapo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kutukuka N\u02bckopandapake - Wachinyamata wosauka koma wanzeru aposa mfumu yokalamba koma yopusa imene simvanso malangizo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Wachinyamatayo angathe kuchokera ku ndende ndi kudzakhala mfumu, kapena angathe kubadwa wosauka m\u02bcdziko la mfumuyo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ndipo ndinaona kuti iwo onse amene anakhala ndi moyo ndi kuyenda pansi pano anatsatira wachinyamatayo, amene anatenga malo a mfumu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Mfumu ikhoza kulamulira anthu osawerengeka, komabe itamwalira, palibe amene adzayamikire zomwe mfumuyo inachita. Izinso ndi zopandapake, n\u02bckungozivuta chabe."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Lemekeza Mulungu - Uzisamala mayendedwe ako pamene ukupita ku nyumba ya Mulungu. Upite pafupi kuti ukamvetsere m\u02bcmalo mopereka nsembe ya zitsiru zimene sizizindikira kuti zikuchita zolakwa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Usamafulumire kuyankhula, usafulumire mu mtima mwako kunena chilichonse pamaso pa Mulungu. Mulungu ali kumwamba ndipo iwe uli pa dziko lapansi, choncho mawu ako akhale ochepa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kuchuluka kwa mavuto mu mtima kumabweretsa maloto oyipa, ndipo kuchuluka kwa mawu kumadzetsa uchitsiru."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pamene ulumbira kwa Mulungu usachedwe kukwaniritsa chimene walumbiracho. Iye sakondweretsedwa ndi chitsiru; kwaniritsa lumbiro lako."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kuli bwino kusalumbira kusiyana ndi kulumbira koma osakwaniritsa lumbirolo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pakamwa pako pasakuchimwitse. Ndipo usanene kwa mthenga wa m\u02bcNyumba ya Mulungu kuti, \u201cNdinalakwitsa polumbira.\u201d Chifukwa chiyani ukufuna Mulungu akwiye ndi mawu ako ndiponso ntchito ya manja ako?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Maloto ochuluka ndi mawu ochuluka ndi zinthu zopandapake. Kotero lemekeza Mulungu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Chuma N\u02bcchopandapake - Ngati uwona anthu osauka akuzunzika m\u02bcdziko, ndiponso anthu ena akupsinja anzawo ndi kuwalanda ufulu wawo, usadabwe ndi zinthu zimenezi; pakuti woyang\u02bcanira ali naye wina womuyang\u02bcanira wamkulu, ndipo pamwamba pa awiriwa pali ena akuluakulu owaposa."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Anthu onse amatengako zokolola za m\u02bcminda: koma ndi mfumu yokha imene imapeza phindu la mindayi."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Aliyense amene amakonda ndalama sakhutitsidwa ndi ndalamazo; aliyense amene amakonda chuma sakhutitsidwa ndi zimene amapeza. Izinso ndi zopandapake."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Chuma chikachuluka akudya nawo chumacho amachulukanso. Nanga mwini wake amapindulapo chiyani kuposa kumangochiyang\u02bcana ndi maso ake?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Wantchito amagona tulo tabwino ngakhale adye pang\u02bcono kapena kudya kwambiri, koma munthu wolemera, chuma sichimulola kuti agone."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ine ndinaona choyipa chomvetsa chisoni pansi pano: chuma chokundikidwa chikupweteka mwini wake yemwe,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "kapena chuma chowonongedwa pa nthawi yatsoka, kotero kuti pamene wabereka mwana alibe kanthu koti amusiyire."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Munthu anabadwa wamaliseche kuchokera m\u02bcmimba mwa amayi ake, ndipo monga iye anabadwira, adzapitanso choncho. Pa zonse zimene iye anakhetsera thukuta palibe n\u02bcchimodzi chomwe chimene adzatenge m\u02bcmanja mwake."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Izinso ndi zoyipa kwambiri: munthu adzapita monga momwe anabwerera, ndipo iye amapindula chiyani, pakuti amagwira ntchito yolemetsa yopanda phindu?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Masiku ake onse ndi odzaza ndi mdima, kukhumudwa kwakukulu, masautso ndi nkhawa."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tsono ndinazindikira kuti n\u02bcchabwino ndi choyenera kuti munthu azidya ndi kumwa, ndi kukhutitsidwa ndi ntchito yake yolemetsa imene amayigwira pansi pano pa nthawi yake yochepa imene Mulungu amamupatsa, poti ichi ndiye chake."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Komatu pamene Mulungu apereka chuma kwa munthu aliyense ndi zinthu zina, ndi kulola kuti akondwere ndi chumacho, munthuyo alandire chumacho ndi kusangalala ndi ntchito yake, imene ndi mphatso yochokera kwa Mulungu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Munthu wotereyu saganizirapo za masiku a moyo wake, chifukwa Mulungu amamutanganidwitsa ndi chisangalalo cha mu mtima mwake."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ine ndinaona choyipa china pansi pano, ndipo chimasautsa anthu kwambiri:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mulungu amapereka chuma, zinthu ndi ulemu kwa munthu, kotero kuti munthuyo sasowa kanthu kalikonse kamene akukalakalaka, koma Mulungu samulola kuti adyerere zinthuzo, ndipo m\u02bcmalo mwake amadyerera ndi mlendo. Izi ndi zopandapake, ndi zoyipa kwambiri."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ngakhale munthu atabereka ana 100 ndi kukhala ndi moyo zaka zambiri; komatu ngakhale atakhala zaka zambiri chotani, ngati iye sangadyerere chuma chake ndi kuyikidwa m\u02bcmanda mwaulemu, ine ndikuti mtayo umamuposa iyeyo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mtayo umangopita pachabe ndipo umapita mu mdima, ndipo mu mdimamo dzina lake limayiwalika."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ngakhale kuti mtayowo sunaone dzuwa kapena kudziwa kanthu kalikonse, koma umapumula kuposa munthu uja,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "ngakhale munthuyo atakhala ndi moyo zaka 2,000, koma ndi kulephera kudyerera chuma chake. Kodi onsewa sapita malo amodzi?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ntchito yonse ya munthu imathera pakamwa pake, komatu iye sakhutitsidwa ndi pang\u02bcono pomwe."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kodi munthu wanzeru amaposa motani chitsiru? Kodi munthu wosauka amapindula chiyani podziwa kukhala bwino pamaso pa anthu ena?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kuli bwino kumangoona zinthu ndi maso kusiyana ndi kumangozilakalaka mu mtima. Izinso ndi zopandapake, n\u02bckungodzivuta chabe."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Chilichonse chimene chilipo anachitchula kale dzina, za mmene munthu alili n\u02bczodziwika; sangathe kutsutsana ndi munthu amene ali wamphamvu kupambana iyeyo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mawu akachuluka zopandapake zimachulukanso, nanga munthu zimamupindulira chiyani?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pakuti ndani amene amadziwa chomwe ndi chabwino pa moyo wa munthu, pakuti moyo wake ndi wa masiku ochepa ndi opandapake, umangopitira ngati mthunzi. Ndani amene angamufotokozere zimene zidzachitika pansi pano iye atapita?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nzeru - Mbiri yabwino ndi yopambana mafuta onunkhira bwino, ndipo tsiku lomwalira ndi lopambana tsiku lobadwa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kuli bwino kupita ku nyumba yamaliro kusiyana ndi kupita ku nyumba yamadyerero: Pakuti imfa ndiye mathero a munthu aliyense; anthu amoyo azichisunga chimenechi m\u02bcmitima mwawo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Chisoni n\u02bcchabwino kusiyana ndi kuseka, pakuti nkhope yakugwa ndi yabwino chifukwa imakonza mtima."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mtima wa munthu wanzeru nthawi zonse umalingalira za imfa, koma mitima ya zitsiru imalingalira za chisangalalo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kuli bwino kumva kudzudzula kwa munthu wanzeru kusiyana ndi kumvera mayamiko a zitsiru."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kuseka kwa zitsiru kuli ngati kuthetheka kwa moto kunsi kwa m\u02bcphika, izinso ndi zopandapake."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kuzunza ena kumasandutsa munthu wanzeru kukhala chitsiru, ndipo chiphuphu chimawononga mtima."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mathero ake a chinthu ndi abwino kupambana chiyambi chake, ndipo kufatsa n\u02bckwabwino kupambana kudzikuza."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Usamafulumire kukwiya mu mtima mwako, pakuti mkwiyo ndi bwenzi la zitsiru."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Usamafunse kuti, \u201cN\u02bcchifukwa chiyani masiku amakedzana anali abwino kupambana masiku ano?\u201d pakuti si chinthu chanzeru kufunsa mafunso oterewa."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nzeru ngati cholowa, ndi chinthu chabwino ndipo imapindulitsa wamoyo aliyense pansi pano."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nzeru ndi chitetezo, monganso ndalama zili chitetezo, koma phindu la chidziwitso ndi ili: kuti nzeru zimasunga moyo wa munthu amene ali nazo nzeruzo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Taganizirani zimene Mulungu wazichita: ndani angathe kuwongola chinthu chimene Iye anachipanga chokhota?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pamene zinthu zili bwino, sangalala; koma pamene zinthu sizili bwino, ganizira bwino: Mulungu ndiye anapanga nthawi yabwinoyo, ndiponso nthawi imene si yabwinoyo. Choncho munthu sangathe kuzindikira chilichonse cha m\u02bctsogolo mwake."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pa moyo wanga wopanda phinduwu ndaona zinthu ziwiri izi: munthu wolungama akuwonongeka m\u02bcchilungamo chake, ndipo munthu woyipa akukhala moyo wautali m\u02bczoyipa zake."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Usakhale wolungama kwambiri kapena wanzeru kwambiri, udziwonongerenji wekha?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Usakhale woyipa kwambiri, ndipo usakhale chitsiru, uferenji nthawi yako isanakwane?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "N\u02bckwabwino kuti utsate njira imodzi, ndipo usataye njira inayo. Munthu amene amaopa Mulungu adzapewa zinthu ziwiri zonsezi."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Nzeru zimapereka mphamvu zambiri kwa munthu wanzeru kupambana olamulira khumi a mu mzinda."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Palibe munthu wolungama pa dziko lapansi amene amachita zabwino zokhazokha ndipo sachimwa."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Usamamvetsere mawu onse amene anthu amayankhula, mwina udzamva wantchito wako akukutukwana,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "pakuti iwe ukudziwa mu mtima mwako kuti nthawi zambiri iwenso unatukwanapo ena."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Zonsezi ndinaziyesa ndi nzeru zanga ndipo ndinati, \u201cIne ndatsimikiza mu mtima mwanga kuti ndikhale wanzeru,\u201d koma nzeruyo inanditalikira."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Nzeru zimene zilipo, zili kutali ndipo ndi zozama kwambiri, ndani angathe kuzidziwa?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kotero ndinayikapo mtima wanga kuti ndidziwe, ndifufuze ndi kumafunafuna nzeru ndi mmene zinthu zimakhalira ndipo ndinafunanso kudziwa kuyipa kwa uchitsiru ndiponso kupusa kwake kwa misala."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ndinapeza kanthu kowawa kupambana imfa, mkazi amene ali ngati khoka, amene mtima wake uli ngati khwekhwe, ndipo manja ake ali ngati maunyolo. Munthu amene amakondweretsa Mulungu adzathawa mkaziyo, koma mkaziyo adzakola munthu wochimwa."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Mlaliki akunena kuti, \u201cTaonani, chimene ndinachipeza ndi ichi: \u201cKuwonjezera chinthu china pa china kuti ndidziwe mmene zinthu zimachitikira,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "pamene ine ndinali kufufuzabe koma osapeza kanthu, ndinapeza munthu mmodzi wolungama pakati pa anthu 1,000, koma pakati pawo panalibepo mkazi mmodzi wolungama."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Chokhacho chimene ndinachipeza ndi ichi: Mulungu analenga munthu, anamupatsa mtima wolungama, koma anthu anatsatira njira zawozawo zambirimbiri.\u201d"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ndani angafanane ndi munthu wanzeru? Ndani angadziwe kutanthauzira zinthu? Nzeru imabweretsa chimwemwe pa nkhope ya munthu ndipo imasintha maonekedwe ake awukali."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Za Kumvera Mfumu - Ine ndikuti, mvera lamulo la mfumu, chifukwa unalumbira pamaso pa Mulungu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Usafulumire kuchoka pamaso pa mfumu. Usawumirire chinthu choyipa, pakuti mfumu idzachita chilichonse chomwe imasangalatsidwa nacho."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Popeza mawu a mfumu ali ndi mphamvu, ndani anganene kwa mfumuyo kuti, \u201cKodi mukuchita chiyani?\u201d"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Aliyense amene amamvera lamulo lake sadzapeza vuto lililonse, ndipo munthu wanzeru amadziwa nthawi yoyenera ndi machitidwe ake."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pakuti pali nthawi yoyenera ndiponso machitidwe a chinthu chilichonse, ngakhale kuti mavuto ake a munthu amupsinja kwambiri."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Popeza palibe munthu amene amadziwa zam\u02bctsogolo, ndani angamuwuze zomwe zidzachitika m\u02bctsogolo?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Palibe munthu amene ali ndi mphamvu yolamulira mpweya wa moyo kuti athe kuwusunga, choncho palibe amene ali ndi mphamvu pa tsiku la imfa yake. Nkhondo sithawika; tsono anthu ochita zoyipa, kuyipa kwawoko sikudzawapulumutsa."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Zonsezi ndinaziona pamene ndinalingalira mu mtima mwanga, zonse zimene zimachitika pansi pano. Ilipo nthawi imene ena amalamulira anzawo mwankhanza."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kenaka, ndinaona anthu oyipa akuyikidwa m\u02bcmanda, iwo amene ankalowa ndi kumatuluka m\u02bcmalo opatulika ndipo ankatamandidwa mu mzindawo pamene ankachita zimenezi. Izinso ndi zopandapake."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pamene chigamulo cha anthu opalamula mlandu chikuchedwa, mitima ya anthu imadzaza ndi malingaliro ochita zolakwa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ngakhale munthu woyipa apalamule milandu yambirimbiri, n\u02bckumakhalabe ndi moyo wautali, ine ndikudziwa kuti anthu owopa Mulungu zinthu zidzawayendera bwino, omwe amapereka ulemu pamaso pa Mulungu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Koma popeza oyipa saopa Mulungu zinthu sizidzawayendera bwino, ndipo moyo wawo sudzakhalitsa monga mthunzi."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Palinso chinthu china chopanda phindu chomwe chimachitika pa dziko lapansi: anthu olungama amalangidwa ngati anthu osalungama. Pamene oyipa amalandira zabwino ngati kuti ndi anthu abwino."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "N\u02bcchifukwa chake ndikuti munthu azikondwerera moyo, pakuti munthu alibe chinanso chabwino pansi pano choposa kudya, kumwa ndi kumadzikondweretsa. Akamatero, munthuyo adzakhala ndi chimwemwe pa ntchito yake masiku onse a moyo wake amene Mulungu wamupatsa pansi pano."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Pamene ndinayikapo mtima wanga kuti ndidziwe nzeru ndi kuonetsetsa ntchito za munthu pa dziko lapansi, osapeza tulo usana ndi usiku,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "pamenepo ndinaona zonse zimene Mulungu anazichita. Palibe munthu amene angathe kuzimvetsa zonse zimene zimachitika pansi pano. Ngakhale munthu ayesetse kuzifufuza, sangathe kupeza tanthauzo lake. Ngakhale munthu wanzeru atanena kuti iye amadziwa, sangathe kuzimvetsetsa zinthuzo."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mathero a Zinthu Zonse ndi Wofanana - Ndinalingalira zonse ndanenazi ndipo ndinapeza kuti anthu olungama ndi anthu anzeru ali m\u02bcmanja mwa Mulungu pamodzi ndi zimene amachita, koma palibe amene amadziwa zimene zikumudikira m\u02bctsogolo mwake, kaya chikondi kapena chidani."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Onsewa mathero awo ndi amodzi, anthu olungama ndi anthu oyipa, abwino ndi oyipa, oyera ndi odetsedwa, amene amapereka nsembe ndi amene sapereka nsembe. Zomwe zimachitikira munthu wabwino, zimachitikiranso munthu wochimwa, zomwe zimachitikira amene amalumbira, zimachitikiranso amene amaopa kulumbira."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Choyipa chimene chili m\u02bczonse zochitika pansi ndi ichi: Mathero a zonse ndi amodzi. Ndithu, mitima ya anthu ndi yodzaza ndi zoyipa, ndipo m\u02bcmitima mwawo muli zamisala pamene ali ndi moyo, potsiriza pake iwo amakakhala pamodzi ndi anthu akufa."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Aliyense amene ali ndi moyo amakhala ndi chiyembekezo, pajatu galu wamoyo aposa mkango wakufa!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pakuti amoyo amadziwa kuti adzafa, koma akufa sadziwa kanthu; alibe mphotho ina yowonjezera, ndipo palibe amene amawakumbukira."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Chikondi chawo, chidani chawo ndiponso nsanje yawo, zonse zinatha kalekale; sadzakhalanso ndi gawo pa zonse zochitika pansi pano."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pita, kadye chakudya chako mokondwera ndi kumwa vinyo wako ndi mtima wosangalala, pakuti tsopano Mulungu akukondwera ndi zochita zako."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Uzivala zovala zoyera nthawi zonse, uzidzola mafuta m\u02bcmutu mwako nthawi zonse."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Uzikondwerera moyo pamodzi ndi mkazi wako amene umamukonda, masiku onse a moyo uno wopanda phindu, amene Mulungu wakupatsa pansi pano. Pakuti mkaziyo ndiye gawo la moyo wako pa ntchito yako yolemetsa pansi pano."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ntchito iliyonse imene ukuyigwira, uyigwire ndi mphamvu zako zonse, pakuti ku manda kumene ukupita kulibe kugwira ntchito, kulibe malingaliro, chidziwitso ndiponso nzeru."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ine ndinaonanso chinthu china pansi pano: opambana pa kuthamanga si aliwiro, kapena opambana pa nkhondo si amphamvu, ndiponso okhala ndi chakudya si anzeru, kapena okhala ndi chuma si odziwa zambiri, kapena okomeredwa mtima si ophunzira; koma mwayi umangowagwera onsewa pa nthawi yake."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kungoti palibe munthu amene amadziwa kuti nthawi yake idzafika liti: monga momwe nsomba zimagwidwira mu ukonde, kapena mmene mbalame zimakodwera mu msampha, chimodzimodzinso anthu amakodwa mu msampha pa nthawi yoyipa, pamene tsoka limawagwera mosayembekezera."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nzeru Iposa Uchitsiru - Ine ndinaonanso pansi pano chitsanzo ichi cha nzeru chimene chinandikhudza kwambiri:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Panali mzinda waung\u02bcono umene unali ndi anthu owerengeka. Ndipo mfumu yamphamvu inabwera kudzawuthira nkhondo, inawuzungulira ndi kumanga mitumbira yankhondo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tsono mu mzindamo munali munthu wosauka koma wanzeru, ndipo anapulumutsa mzindawo ndi nzeru zakezo. Koma palibe amene anakumbukira munthu wosaukayo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Choncho ine ndinati, \u201cNzeru ndi yopambana mphamvu.\u201d Koma nzeru ya munthu wosauka imanyozedwa, ndipo palibe amene amalabadirako za mawu ake."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mawu oyankhula mofatsa a munthu wanzeru, anthu amawasamalira kwambiri kupambana kufuwula kwa mfumu ya zitsiru."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Nzeru ndi yabwino kupambana zida zankhondo, koma wochimwa mmodzi amawononga zinthu zambiri zabwino."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Monga ntchentche zakufa zimayika fungo loyipa m\u02bcmafuta onunkhira, choncho kupusa pang\u02bcono kumawononganso nzeru ndi ulemu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mtima wa munthu wanzeru umamutsogolera bwino, koma mtima wa munthu wopusa umamusocheretsa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Chitsiru ngakhale chikamayenda mu msewu, zochita zake ndi zopanda nzeru ndipo chimaonetsa aliyense kuti icho ndi chitsirudi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ngati wolamulira akukwiyira, usachoke pa ntchito yako; kufatsa kumakonza zolakwa zazikulu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pali choyipa chimene ndinachiona pansi pano, kulakwitsa kumene kumachokera kwa wolamulira:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Zitsiru amazipatsa ntchito zambiri zapamwamba, pamene anthu olemera amawapatsa ntchito zotsika."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ndaona akapolo atakwera pa akavalo, pamene akalonga akuyenda pansi ngati akapolo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Amene amakumba dzenje adzagwamo yekha; amene amabowola khoma adzalumidwa ndi njoka."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Amene amaphwanya miyala adzapwetekedwa ndi miyalayo; amene amawaza nkhuni adzapwetekedwa nazo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ngati nkhwangwa ili yobuntha yosanoledwa, pamafunika mphamvu zambiri potema, koma luso limabweretsa chipambano."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "N\u02bckopanda phindu kudziwa kuseweretsa njoka ngati njokayo yakuluma kale."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mawu a pakamwa pa munthu wanzeru ndi okondweretsa, koma chitsiru chidzawonongedwa ndi milomo yake yomwe."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Chitsiru chimayamba ndi mawu opusa; potsiriza pake zoyankhula zake ndi zamisala"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "ndipo chitsiru chimachulukitsa mawu. Palibe amene amadziwa zimene zikubwera m\u02bctsogolo, ndani angamuwuze zomwe zidzachitika iye akadzafa?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Chitsiru chimatopa msanga ndi ntchito yochepa; ndipo sichikhala ndi mphamvu zobwererera ku mudzi."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Tsoka kwa iwe, iwe dziko ngati mfumu yako ikali mwana, ndipo atsogoleri ako amakhala pa madyerero mmamawa."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wodala iwe, iwe dziko ngati mfumu yako ndi mwana wolemekezeka ndipo atsogoleri ako amadya pa nthawi yake, kuti apeze mphamvu osati kuti aledzere."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ngati munthu ndi waulesi, denga lake limaloshoka; ngati manja ake ndi alobodo nyumba yake imadontha."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Phwando ndi lokondweretsa anthu, ndipo vinyo ndi wosangalatsa moyo, koma ndalama ndi yankho la chilichonse."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Usanyoze mfumu ngakhale mu mtima mwako, kapena kutukwana munthu wachuma m\u02bcchipinda chako, pakuti mbalame yamlengalenga itha kutenga mawu ako n\u02bckukafotokoza zomwe wanena."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kuponya Chakudya pa Madzi - Ponya chakudya chako pa madzi, udzachipezanso patapita masiku ambiri."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ndalama zako uzisungitse kwa anthu asanu ndi awiri, inde kwa anthu asanu ndi atatu, pakuti sudziwa ndi tsoka lanji limene likubwera pa dziko."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ngati mitambo yadzaza ndi madzi, imagwetsa mvula pa dziko lapansi. Mtengo ukagwera cha kummwera kapena cha kumpoto, ndiye kuti udzagonera kumene wagwerako."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Amene amayang\u02bcana mphepo sadzadzala; amene amayang\u02bcana mitambo sadzakolola."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Momwe sudziwira mayendedwe a mphepo, kapena momwe mzimu umalowera m\u02bcthupi la mwana m\u02bcmimba mwa amayi, momwemonso sungathe kudziwa ntchito za Mulungu, Mlengi wa zinthu zonse."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dzala mbewu zako mmawa ndipo madzulo usamangoti manja lobodo, pakuti sudziwa chimene chidzapindula, mwina ichi kapena icho, kapena mwina zonse ziwiri zidzachita bwino."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kumbukira Mlengi Wako - Kuwala n\u02bckwabwino, ndipo maso amasangalala kuona dzuwa."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Munthu akakhala wa zaka zambiri, mulekeni akondwerere zaka zonsezo, koma iye azikumbukira masiku a mdima, pakuti adzakhala ochuluka. Chilichonse chimene chikubwera ndi chopanda phindu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kondwera mnyamata iwe, pamene ukanali wamng\u02bcono, ndipo mtima wako usangalale pa nthawi ya unyamata wako. Tsatira zimene mtima wako ukufuna, ndiponso zimene maso ako akuona, koma dziwa kuti pa zinthu zonsezo Mulungu adzakuweruza."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Choncho uchotse zokusautsa mu mtima mwako, upewe zokupweteka m\u02bcthupi mwako, pakuti unyamata ndi ubwana ndi zopandapake."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Uzikumbukira mlengi wako masiku a unyamata wako, masiku oyipa asanafike, nthawi isanafike pamene udzanena kuti, \u201cIzi sizikundikondweretsa.\u201d"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nthawi ya ukalamba wako, dzuwa ndi kuwala, mwezi ndi nyenyezi zidzada. Mitambo idzabweranso mvula itagwa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nthawi imene manja ako adzanjenjemera, miyendo yako idzafowoka, pamene mano ako adzalephera kutafuna chifukwa ndi owerengeka, ndipo maso ako adzayamba kuchita chidima."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Makutu ako adzatsekeka, ndipo sudzamva phokoso lakunja; sudzamvanso kusinja kwa pa mtondo kapena kulira kwa mbalame mmawa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Imeneyi ndiyo nthawi imene anthu amaopa kupita kumalo okwera, amaopa kuyenda m\u02bcmisewu; Mutu umatuwa kuti mbuu, amayenda modzikoka ngati ziwala ndipo chilakolako chimatheratu. Nthawi imeneyo munthu amapita ku nyumba yake yamuyaya ndipo anthu olira maliro amayendayenda m\u02bcmisewu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kumbukira Iye chingwe cha siliva chisanaduke, kapena mbale yagolide isanasweke; mtsuko usanasweke ku kasupe, kapena mkombero usanathyoke ku chitsime."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Iyi ndi nthawi imene thupi lidzabwerera ku dothi, kumene linachokera, mzimu udzabwerera kwa Mulungu amene anawupereka."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u201cZopanda phindu! Zopandapake!\u201d akutero Mlaliki. \u201cZonse ndi zopandapake!\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mawu Otsiriza - Mlaliki sanali wozindikira zinthu kokha ayi, komanso ankaphunzitsa anthu. Iye ankasinkhasinkha ndi kufufuzafufuza ndi kulemba mwadongosolo miyambi yambiri."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mlaliki anafufuzafufuza kuti apeze mawu oyenera, ndipo zimene analemba zinali zolondola ndiponso zoona."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mawu a anthu anzeru ali ngati zisonga, zokamba zawo zimene anasonkhanitsa zili ngati misomali yokhomera, yoperekedwa ndi m\u02bcbusa mmodzi."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Samalira mwana wanga, za kuwonjezera chilichonse pa zimenezi. Kulemba mabuku ambiri sikutha, ndipo kuphunzira kwambiri kumatopetsa thupi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Basi zonse zamveka; mathero a nkhaniyi ndi awa: uziopa Mulungu ndi kusunga malamulo ake, pakuti umenewu ndiwo udindo wa anthu onse."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pakuti Mulungu adzaweruza zochita zonse, kuphatikizanso zinthu zonse zobisika, kaya zabwino kapena zoyipa."
+                }
+            }
+        }
+    }
+}

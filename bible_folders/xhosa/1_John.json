@@ -1,0 +1,452 @@
+{
+    "version": "xhosa",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "book": {
+        "1": {
+            "chapter_nr": 1,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Oko kwakukho kwasekuqalekeni, oko sikuvileyo, oko sikubonileyo ngawethu amehlo, oko sakukhangelayo, zakuphatha izandla zethu, okwelizwi labo ubomi\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "(obu bomi ke babonakaliswa; sibubonile, siyabungqinela,  siyabuxela kuni, ubomi obo bungunaphakade, bona obo bebukuye uYise, baza babonakaliswa kuthi):\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "oko ke sikubonileyo, sikuvileyo, siyakuxela kuni, ukuze nani nibe nobudlelane nathi. Baye ke ubudlelane bethu bunaye uYise,  bunaye uNyana wakhe uYesu Kristu.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Ezo zinto sinibhalela ukuze uvuyo lwenu luzaliseke.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Lulo olu ke udaba esiluvileyo kuye, esinityela lona, lokuba uThixo ukukukhanya, akukho bumnyama kuye nakanye.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Ukuba sithi sinobudlelane naye, sibe sihamba ebumnyameni,  soba siyaxoka, asiyenzi inyaniso;\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "ke, ukuba sihamba ekukhanyeni, njengokuba yena esekukhanyeni, soba sinobudlelane omnye nomnye, lithi negazi likaYesu Kristu, uNyana Wakhe, lisihlambulule kuso sonke isono.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Ukuba sithi asinasono, siyazikhohlisa, inyaniso ayikho kuthi.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Ukuba sithi sizivume izono zethu, uthembekile, ulilungisa,  ukuba asixolele izono zethu, asihlambulule kuko konke ukungalungisi.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Ukuba sithi asonanga, simenza ixoki; ilizwi lakhe alikho kuthi.\n"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": 2,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Bantwanana bam, ndinibhalela ezi zinto, ukuze ningoni. Ukuba kukho othe wona, sinoMthetheleli kuye uYise, uYesu Kristu ilungisa.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Yena usisicamagushelo sezono zethu; engesazethu zodwa, usiso nesehlabathi liphela.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Sazi ngale nto ukuba siyamazi, ngokuthi siyigcine imithetho yakhe.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Lowo uthi, Ndimazile, abe engayigcini imithetho yakhe,  ulixoki, kulowo ayikho inyaniso.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Ke othi aligcine ilizwi lakhe, okwenyaniso uthando lukaThixo lugqibelele kulowo; sazi ngaloo nto ukuba sikuye.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Lowo uthi uhleli kuye, ufanele ukuthi, njengoko wahambayo yena, enjenjalo ukuhamba naye.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Bazalwana, andinibhaleli mthetho mtsha; ngumthetho omdala,  ebeninawo kwasekuqalekeni. Umthetho omdala ke lilizwi enalivayo kwasekuqalekeni.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Ndibuya ndinibhalele umthetho omtsha, okuyinene oko kuye nakuni; ngokuba ubumnyama buyadlula, kwaye ukukhanya okuyinyaniso sekubonakala.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Lowo uthi usekukhanyeni, abe emthiyile umzalwana wakhe,  usebumnyameni unangoku.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Lowo umthandayo umzalwana wakhe uhleli ekukhanyeni,  akanasikhubekiso.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Ke lowo umthiyileyo umzalwana wakhe usebumnyameni, uhamba ebumnyameni. Akazi apho aya khona, ngokuba ubumnyama buwamfamekisile amehlo akhe.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Ndiyanibhalela, bantwanana, ngokuba nizixolelwe izono zenu ngenxa yegama lakhe.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Ndiyanibhalela, boyise, ngokuba nimazile owasekuqalekeni.  Ndiyanibhalela, madodana, ngokuba nimeyisile ongendawo.  Ndiyanibhalela, bantwana, ngokuba nimazile uYise.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Ndanibhalela, boyise, ngokuba nimazile owasekuqalekeni.  Ndanibhalela, madodana, ngokuba nomelele, laye ilizwi likaThixo lihleli kuni, nimoyisile ke ongendawo.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Musani ukulithanda ihlabathi, kwanezinto ezisehlabathini.  Ukuba kukho othi alithande ihlabathi, uthando lukaYise alukho kuye.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Ngokuba konke okusehlabathini, inkanuko yenyama, nenkanuko yamehlo, noqhankqalazo lobu bomi, asikokuphuma kuye uYise,  kokuphuma ehlabathini.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Ihlabathi ke liyadlula, nenkanuko yalo; ke yena owenza ukuthanda kukaThixo uhleli ngonaphakade.\n"
+                },
+                "18": {
+                    "verse_nr": 18,
+                    "verse": "Bantwana, lilixa lokugqibela eli; njengoko nevayo ukuba umchasi-Kristu uyeza, nangoku kuthe kwabakho abachasi-Kristu abaninzi, ekuthe ngoko sazi ukuba lilixa lokugqibela.\n"
+                },
+                "19": {
+                    "verse_nr": 19,
+                    "verse": "Baphuma kuthi, babengengabo abethu; kuba, ukuba babengabethu, ngebahlalayo nathi. Baphuma ukuze babonakale,  ukuba bonke babengengabo abethu.\n"
+                },
+                "20": {
+                    "verse_nr": 20,
+                    "verse": "Nina ninentambiso evela koyiNgcwele, niyazazi ke izinto zonke.\n"
+                },
+                "21": {
+                    "verse_nr": 21,
+                    "verse": "Andinibhalelanga ngakuba ningayazi inyaniso; ndinibhalele ngokuba niyazi, nangokuba kungekho buxoki buphuma enyanisweni.\n"
+                },
+                "22": {
+                    "verse_nr": 22,
+                    "verse": "Ngubani na ixoki, ingenguye okhanyelayo ukuba uYesu unguye uKristu? Lowo ungumchasi-Kristu, omkhanyelayo uYise noNyana.\n"
+                },
+                "23": {
+                    "verse_nr": 23,
+                    "verse": "Bonke abamkhanyelayo uNyana, abanaye noYise.\n"
+                },
+                "24": {
+                    "verse_nr": 24,
+                    "verse": "Nina ngoko, oko nakuvayo kwasekuqalekeni makuhlale kuni.  Ukuba kuthi kuhlale kuni oko nakuvayo kwasekuqalekeni, nani niya kuhlala kuye uNyana, nakuye uYise.\n"
+                },
+                "25": {
+                    "verse_nr": 25,
+                    "verse": "Lilo eli idinga, awalibekayo ngokwakhe kuthi, ubomi obungunaphakade.\n"
+                },
+                "26": {
+                    "verse_nr": 26,
+                    "verse": "Ezo zinto ndinibhalele ngabo banilahlekisayo.\n"
+                },
+                "27": {
+                    "verse_nr": 27,
+                    "verse": "Nina intambiso enayamkelayo kuye ihleli kuni, aniswele kwakuba nifundiswe ngubani; kunjengokuba kwaloo ntambiso inifundisa ngeento zonke, iyinene, ingebuxoki; njengokuba ke yanifundisayo, hlalani kuye.\n"
+                },
+                "28": {
+                    "verse_nr": 28,
+                    "verse": "Ngoku ke, bantwanana, hlalani kuye, ukuze xa athe wabonakalaliswa, sibe nokungafihlisi singadani, simbaleke ekufikeni kwakhe.\n"
+                },
+                "29": {
+                    "verse_nr": 29,
+                    "verse": "Ukuba niyazi ukuba ulilungisa, yazini ukuba bonke abenza ubulungisa bazelwe nguye.\n"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": 3,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Bonani uthando olungaka asenzele lona uYise, olu lokuba sibizwe ngokuba singabantwana bakaThixo. Ngenxa yoko ihlabathi alisazi thina, ngokuba lingamazanga yena.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Zintanda, ngoku singabantwana bakaThixo. Akukabonakali ke into esiya kuba yiyo; ke siyazi ukuba, xa athe wabonakala,  sofana naye; ngokuba siya kumbona njengoko anjalo.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Bonke abanalo eli themba kuye, bazenza nyulu, njengokuba yena enyulu.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Bonke abasenzayo isono benza okuchasene nomthetho; sona isono sikukuchasana nomthetho.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Niyazi ke ukuba yena wabonakaliswa, ukuze azithwale azisuse izono zethu; kananjalo akukho sono kuye.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Bonke abahlala kuye aboni; bonke abonayo abambonanga,  abamazanga nokumazi.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Bantwanana, makungabikho namnye unikhohlisayo; lowo ubenzayo ubulungisa lilungisa, njengokuba yena elilungisa.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Lowo usenzayo isono ungokaMtyholi; ngokuba uMtyholi wone kwasekuqalekeni. Wabonakaliselwa oku uNyana kaThixo, ukuze ayichithe imisebenzi kaMtyholi.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Bonke abazelwe nguThixo abenzi sono, ngokuba imbewu yakhe ihleli kubo; kananjalo abanakona, ngokuba bezelwe nguThixo.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Babonakala ngaloo nto abantwana bakaThixo, nabantwana bakaMtyholi. Bonke abangenzi bulungisa abangabakaThixo, nalowo ungamthandiyo umzalwana wakhe.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Ngokuba le yintshumayelo enayivayo kwasekuqalekeni, ukuba sithandane;\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "singabi njengoKayin, obengowongendawo, wambulala umninawa wakhe. Wambulalelani na? Ngokuba imisebenzi yakhe ibingendawo,  ke yona eyomninawa wakhe ibinobulungisa.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Musani ukumangaliswa, bazalwana bam, ukuba ihlabathi linithiyile.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Thina siyazi ukuba sidlule ekufeni, sangena ebomini,  ngokuba sibathanda abazalwana. Lowo ungamthandiyo umzalwana uhleli ekufeni.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Lowo umthiyileyo umzalwana wakhe usisibulala-mntu; niyazi ukuba akukho sibulala-mntu sinobomi bungunaphakade buhleliyo kuso.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Ngale nto silwazile uthando, kuba yena wasincamela ubomi bakhe; nathi ke sifanele ukubancamela abazalwana ubomi bethu.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Osukuba ke enayo impilo yeli hlabathi, aze ambone umzalwana wakhe eswele, azivalele iimfesane zakhe kuye, luthini na ukuhlala uthando lukaThixo ngaphakathi kwakhe?\n"
+                },
+                "18": {
+                    "verse_nr": 18,
+                    "verse": "Bantwanana bam, masingathandi ngazwi nangamlomo; masithande ngezenzo nangenyaniso.\n"
+                },
+                "19": {
+                    "verse_nr": 19,
+                    "verse": "Siyazi ngale nto ke ukuba singabenyaniso; siya kuzileleza iintliziyo zethu phambi kwakhe.\n"
+                },
+                "20": {
+                    "verse_nr": 20,
+                    "verse": "Ngokuba ukuba intliziyo yethu iyasigweba, uThixo mkhulu kunentliziyo yethu, ezazi izinto zonke.\n"
+                },
+                "21": {
+                    "verse_nr": 21,
+                    "verse": "Zintanda, ukuba intliziyo yethu ayisigwebi,  sinokungafihlisi kuye uThixo;\n"
+                },
+                "22": {
+                    "verse_nr": 22,
+                    "verse": "nesithi sikucele siyakwamkela kuye, ngokuba imithetho yakhe siyigcina, sizenze izinto ezikholekileyo emehlweni akhe.\n"
+                },
+                "23": {
+                    "verse_nr": 23,
+                    "verse": "Nguwo lo umthetho wakhe, ukuba sikholwe ligama lonyana wakhe, uYesu Kristu, sithandane njengoko wasiwiselayo umthetho.\n"
+                },
+                "24": {
+                    "verse_nr": 24,
+                    "verse": "Lowo uyigcinayo imithetho yakhe uhleli kuye, naye uhleli kulowo. Sazi ngale nto ke, ukuba uhleli kuthi ngoMoya lo wasinikayo.\n"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": 4,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Zintanda, musani ukukholwa ngoomoya bonke, bacikideni oomoya ukuba ngabakaThixo na; ngokuba baninzi abaprofeti ababuxoki,  abaphume bangena ehlabathini.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Mazini ngale nto uMoya kaThixo: umoya wonke omvumayo uYesu Kristu eze esenyameni, ungokaThixo;\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "nomoya wonke ongamvumiyo uYesu Kristu eze esenyameni,  asingokaThixo; lo ngokamchasi-Kristu, lowo niwuvileyo ukuba uyeza; nangoku uselukho ehlabathini.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Nina ningabakaThixo, bantwanana, nibeyisile bona; ngokuba lowo ukuni nguyena mkhulu kunalowo usehlabathini.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Bona ngabehlabathi; ngenxa yoko bathetha okwehlabathi,  ihlabathi liyabeva ke.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Thina singabakaThixo, lowo umaziyo uThixo uyasiva thina;  ongengokaThixo akasiva. Siwazi ngaloo nto umoya wayo inyaniso,  nomoya walo ulahlekiso.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Zintanda, masithandane; ngokuba uthando lwaphuma kuThixo.  Bonke abanothando bazelwe nguThixo, bayamazi uThixo.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Lowo ungenaluthando akazanga amazi uThixo, ngokuba uThixo uluthando.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Kwabonakaliswa ngale nto ukusithanda kukaThixo, ngokuthi uThixo amthume ehlabathini uNyana wakhe, ekuphela kwamzeleyo,  ukuze sidle ubomi naye.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Uthando lulapha, ingekukuba samthandayo uThixo thina,  ikukuba wasithandayo yena, wamthuma uNyana wakhe ukuba abe sisicamagushelo sezono zethu.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Zintanda, ukuba wenjenjalo uThixo ukusithanda, nathi sifanele ukuthandana.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Akukho namnye owakha wambona uThixo; ukuba sithi sithandane, uThixo uhleli kuthi, nothando lwakhe lugqibelele ngaphakathi kwethu.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Sazi ngale nto ukuba sihleli kuye, naye uhleli kuthi;  ngokuba usinike okoMoya wakhe.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Sibonile thina, siyangqina, ukuba uYise umthumile uNyana ukuba nguMsindisi wehlabathi.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Othe wavuma ukuba uYesu unguye uNyana kaThixo, uThixo uhleli kuye, naye uhleli kuye uThixo.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Sikwazile thina, sakholwa kukusithanda kukaThixo. UThixo uluthando; lowo uhleli eluthandweni uhleli kuye uThixo, noThixo uhleli kuye.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Lugqibelele ngale nto uthando olukuthi, ukuze sibe nokungafihlisi ngomhla womgwebo; ngokuba, njengoko anjalo yena,  sinjalo nathi kweli hlabathi.\n"
+                },
+                "18": {
+                    "verse_nr": 18,
+                    "verse": "Akukho loyiko eluthandweni; lusuka uthando olugqibeleleyo luluphose phandle uloyiko; ngokuba uloyiko lunexhala; lowo ke woyikayo akagqibelele eluthandweni.\n"
+                },
+                "19": {
+                    "verse_nr": 19,
+                    "verse": "Thina siyamthanda, ngokuba yena wasithanda kuqala.\n"
+                },
+                "20": {
+                    "verse_nr": 20,
+                    "verse": "Ukuba umntu uthe, Ndiyamthanda uThixo, wamthiya umzalwana wakhe, ulixoki; kuba lowo ungamthandiyo umzalwana wakhe ambonileyo, angathini na ukumthanda uThixo angambonanga?\n"
+                },
+                "21": {
+                    "verse_nr": 21,
+                    "verse": "Nguwo lo umthetho esinawo uvela kuye: ukuba athi lowo umthandayo uThixo, amthande nomzalwana wakhe.\n"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": 5,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Bonke abakholwayo ukuba uYesu unguye uKristu, bazelwe nguThixo; bonke abamthandayo lowo wazalayo, bayamthanda nalowo uzelweyo nguye.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Sazi ngale nto ukuba siyabathanda abantwana bakaThixo, xa sukuba simthanda uThixo, siyigcina imithetho yakhe.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Kuba ukumthanda uThixo kuko ukuthi, siyigcine imithetho yakhe; ayinzima ke imithetho yakhe.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Ngokuba konke okuzelweyo nguThixo kuyaleyisa ihlabathi; lulo ke olu uloyiso oluleyisayo ihlabathi, ukholo lwethu.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Ngubani na lowo uleyisayo ihlabathi, ingenguye okholwayo ukuba uYesu unguye uNyana kaThixo?\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Lowo ngulo wezayo ngamanzi negazi, uYesu Kristu; engenawo amanzi odwa, enawo amanzi, enalo igazi. UMoya ke ungulo ungqinayo, ngokuba uMoya uyiyo inyaniso.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Ngokuba bathathu abo bangqinayo emazulwini: uYise, noLizwi,  noMoya oyiNgcwele; abo bathathu banye.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Bathathu abo bangqinayo emhlabeni : uMoya, namanzi, negazi;  aba bathathu basingise ntweni-nye.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Ukuba ubungqina babantu siyabamkela, ubungqina bukaThixo bungaphezulu; ngokuba bubo obu ubungqina bukaThixo, angqinele uNyana wakhe ngabo.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Lowo ukholwayo kuye uNyana kaThixo unabo ubungqina ngaphakathi kwakhe; lowo ungakholwayo nguye uThixo umenze ixoki, ngokuba engakholwanga bubo ubungqina abungqinele uNyana wakhe uThixo.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Bubo obu ke ubungqina: ukuba uThixo usinike ubomi obungunaphakade; baye obo bomi bukuye uNyana wakhe.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Lowo unaye uNyana, unabo ubomi; lowo ungenaye uNyana kaThixo, akanabo ubomi.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Ndinibhalele ezi zinto, nina nikholwayo kwigama loNyana kaThixo, ukuze nazi ukuba ninobomi obungunaphakade, nokuze nikholwe kwigama loNyana kaThixo.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Kuko oku ukungafihlisi esinako kuye: ukuba sithi sicele into ngokokuthanda kwakhe, uyasiva.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Ukuba siyazi okokuba uyasiva esisukuba sikucela, siyazi ukuba sinazo izinto ezicelwayo, esizicelileyo kuye.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Ukuba umntu uthe wambona umzalwana wakhe esona isono esingasingisi kufeni, wocela, uThixo amnike ubomi, enika abo bonayo ngokungasingisi kufeni. Kukho sona sisingisa ekufeni;  anditsho ukuthi makacelele sona.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Konke ukungalungisi sisono; kukho sono singasingisi khona ekufeni.\n"
+                },
+                "18": {
+                    "verse_nr": 18,
+                    "verse": "Siyazi ukuba bonke abazelwe nguThixo aboni; usuke athi lowo wazalwayo nguThixo azigcine, aze ongendawo angamchukumisi.\n"
+                },
+                "19": {
+                    "verse_nr": 19,
+                    "verse": "Siyazi ukuba singabakaThixo, nokuba ihlabathi liphela lilele kongendawo.\n"
+                },
+                "20": {
+                    "verse_nr": 20,
+                    "verse": "Ke siyazi ukuba uNyana kaThixo ufikile, wasinika ingqondo,  ukuze simazi oyinyaniso. Sikuye ke oyinyaniso, kuye uNyana wakhe uYesu Kristu. Nguye lo uThixo oyinyaniso, nobomi obungunaphakade.\n"
+                },
+                "21": {
+                    "verse_nr": 21,
+                    "verse": "Bantwanana, zigcineni kuzo izithixo. Amen.\n"
+                }
+            }
+        }
+    }
+}

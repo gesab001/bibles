@@ -1,0 +1,865 @@
+{
+    "version": "OL",
+    "book_name": "Hosea",
+    "book_nr": "28",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Estas s\u00e3o as mensagens que o SENHOR dirigiu a Oseias, filho de Beeri, durante os reinados de Uzias, Jot\u00e3o, Acaz e Ezequias, reis de Jud\u00e1, e tamb\u00e9m durante o reinado de Jerobo\u00e3o, filho de Jeo\u00e1s, rei de Israel."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A esposa e os filhos de Oseias - Foi esta a primeira mensagem que o SENHOR comunicou a Oseias: \u201cCasa-te com uma rapariga que seja prostituta e tem filhos com ela, de modo que sejam da mesma \u00edndole da m\u00e3e. Isto ilustrar\u00e1 a forma infiel como o meu povo se tem conduzido para comigo, cometendo abertamente adult\u00e9rio contra mim ao adorarem outros deuses.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ent\u00e3o Oseias casou com Gomer, filha de Diblaim, e ela concebeu e deu \u00e0 luz um filho."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "O SENHOR disse-lhe: \u201cP\u00f5e-lhe o nome de Jezreel, porque no vale de Jezreel em breve castigarei a dinastia do rei Je\u00fa, por causa dos assass\u00ednios que cometeu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Na verdade, em breve porei fim a Israel como reino independente, quebrando o arco de Israel, nesse vale de Jezreel.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Gomer tornou a conceber e teve outro filho, uma rapariga. Deus disse a Oseias: \u201cP\u00f5e-lhe o nome de Lo-Ruama (sem miseric\u00f3rdia), porque n\u00e3o mais terei miseric\u00f3rdia de Israel para lhe perdoar."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Contudo, da tribo de Jud\u00e1, desta sim, terei miseric\u00f3rdia. Hei de salv\u00e1-los, porque sou o SENHOR, seu Deus. E n\u00e3o os salvarei pelo arco ou pela espada, pela guerra ou pelos cavalos e cavaleiros.\u201d"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Depois de ter desmamado Lo-Ruama, Gomer teve outro filho, um outro rapaz."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "E Deus mandou: \u201cChama-lhe Lo-Ami (n\u00e3o s\u00e3o meu povo), porque Israel n\u00e3o me pertence e eu n\u00e3o sou o seu Deus."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Todavia, h\u00e1 de vir o tempo em que Israel se tornar\u00e1 uma grande e pr\u00f3spera na\u00e7\u00e3o. Nessa altura, o seu povo ser\u00e1 demasiado numeroso para se poder contar; ser\u00e1 como a areia do mar! E ent\u00e3o, em vez de lhes dizer voc\u00eas n\u00e3o s\u00e3o meu povo, dir-lhes-ei, voc\u00eas s\u00e3o meus filhos, filhos do Deus vivo!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "O povo de Israel e de Jud\u00e1 unir-se-\u00e3o sob um \u00fanico l\u00edder e regressar\u00e3o juntos do ex\u00edlio. Que grande dia ser\u00e1 esse, em que Deus plantar\u00e1 novamente o seu povo no f\u00e9rtil solo da sua pr\u00f3pria terra!"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Israel \u00e9 castigado e restaurado - \u00d3 Jezreel, chama o teu irm\u00e3o pelo nome de Ami (meu povo) e a tua irm\u00e3 pelo nome de Ruama (tem miseric\u00f3rdia), porque agora Deus ter\u00e1 miseric\u00f3rdia dela!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Contestem junto da vossa m\u00e3e, porque se tornou na mulher doutro homem; eu j\u00e1 n\u00e3o sou seu marido; pe\u00e7am-lhe que pare com a sua vida de prostitui\u00e7\u00e3o, que pare de se entregar a outros."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Se n\u00e3o o fizer, deix\u00e1-la-ei inteiramente despida, como no dia em que nasceu, e f\u00e1-la-ei perder-se e morrer de sede, como numa terra des\u00e9rtica, assolada pela fome e pela seca."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "N\u00e3o me compadecerei dos seus filhos como faria se fossem os meus pr\u00f3prios; eles pertencem a outra gente."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A sua m\u00e3e cometeu adult\u00e9rio, conduziu-se torpemente quando disse: \u2018Irei atr\u00e1s doutros homens; vender-me-ei em troca de boa comida, bebida, e roupas de l\u00e3 e de linho.\u2019"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Portanto, cerc\u00e1-la-ei de espinhos e de sar\u00e7as; bloquearei os seus caminhos para que se perca nas suas veredas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Assim, quando correr atr\u00e1s dos seus amantes, n\u00e3o os apanhar\u00e1. Ir\u00e1 \u00e0 procura deles mas n\u00e3o os encontrar\u00e1. Dir\u00e1 ent\u00e3o para consigo: \u2018Tornarei para o meu primeiro marido, porque estava melhor com ele do que estou agora!\u2019"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ela n\u00e3o se d\u00e1 conta de que tudo o que possui veio de mim. Fui eu quem lhe deu o trigo, o vinho novo e o azeite, todo o ouro e a prata que usou no culto que prestou a Baal, o seu deus!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Por isso, recuperarei o vinho e o trigo que constantemente lhe forneci e a roupa que lhe dei para cobrir a sua nudez; n\u00e3o mais lhe darei ricas colheitas na esta\u00e7\u00e3o pr\u00f3pria e vinho no tempo das vindimas."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Exporei a sua nudez em p\u00fablico, para que a vejam todos os seus amantes, e ningu\u00e9m poder\u00e1 livr\u00e1-la das minhas m\u00e3os."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Porei um fim a todos os seus divertimentos, festas e feriados. Destruirei as suas vinhas e pomares, presentes que diz terem sido oferecidos pelos amantes, que se tornar\u00e3o em bosques in\u00f3spitos; s\u00f3 animais selvagens por l\u00e1 andar\u00e3o, comendo os frutos que encontrarem."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porei um fim a todos os seus divertimentos, festas e feriados. Destruirei as suas vinhas e pomares, presentes que diz terem sido oferecidos pelos amantes, que se tornar\u00e3o em bosques in\u00f3spitos; s\u00f3 animais selvagens por l\u00e1 andar\u00e3o, comendo os frutos que encontrarem."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Por todo o incenso que ela queimou a Baal, o seu \u00eddolo, e por todas as vezes em que p\u00f4s brincos e gargantilhas e saiu \u00e0 procura dos amantes, esquecendo-se de mim, por tudo isso a castigarei, diz o SENHOR."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Contudo, tornarei a atra\u00ed-la; hei de traz\u00ea-la para o deserto e falar-lhe ao cora\u00e7\u00e3o."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Devolver-lhe-ei as suas vinhas, transformarei o seu vale de Acor (vale da Desgra\u00e7a) numa porta de esperan\u00e7a. Ela me responder\u00e1 ali, cantando com alegria, como nos dias primeiros da sua juventude, depois que a libertei do cativeiro do Egito."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Naquele dia que h\u00e1 de vir, Israel chamar-me-\u00e1 \u2018Meu marido\u2019 em vez de \u2018Meu mestre, Baal\u2019."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00d3 Israel, farei com que te esque\u00e7as do nome do deus Baal! Os seus nomes nunca mais ser\u00e3o proferidos no meio de ti!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Farei uma alian\u00e7a entre ti e os animais selvagens, as aves, as serpentes, para que n\u00e3o tenham mais medo uns dos outros; destruirei tudo o que for armamento e as guerras acabar\u00e3o. Tu descansar\u00e1s em paz e em seguran\u00e7a, sem nada recear."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ligar-te-ei a mim para sempre com cadeias de justi\u00e7a e retid\u00e3o, de amor e miseric\u00f3rdia."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Desposar-te-ei em fidelidade e amor; conhecer-me-\u00e1s como SENHOR!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Nesse dia, diz o SENHOR, responderei aos rogos dirigidos ao c\u00e9u, para que venham nuvens que derramem chuva sobre a terra, para que haja \u00e1gua."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ent\u00e3o a terra poder\u00e1 responder com trigo, vinho novo e azeite, e todos estes produtos responder\u00e3o a Jezreel (sementeira de Deus)!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Nesse tempo, farei uma sementeira de israelitas que h\u00e1 de crescer s\u00f3 para mim! Terei compaix\u00e3o dos que est\u00e3o sem miseric\u00f3rdia; direi \u00e0queles que n\u00e3o s\u00e3o meus: Agora s\u00e3o meu povo! E estes responder\u00e3o: \u2018Tu \u00e9s o nosso Deus!\u2019\u2006\u201d"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A reconcilia\u00e7\u00e3o de Oseias com a sua mulher - Disse-me o SENHOR: \u201cVai ter novamente com a tua mulher, tr\u00e1-la para junto de ti e ama-a, ainda que ela continue a amar o adult\u00e9rio. Porque o SENHOR continua a amar Israel, ainda que se tenha voltado para outros deuses, oferecendo-lhes bolos de passas!\u201d"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ent\u00e3o comprei-a de novo para mim, em troca de 170 gramas de prata e de 330 litros de cevada."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "E disse-lhe: \u201cDever\u00e1s ficar aqui comigo por muito tempo. N\u00e3o ir\u00e1s com outros homens nem te prostituir\u00e1s! Tamb\u00e9m eu serei fiel!\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Isto ilustra o facto de que Israel estar\u00e1 muito tempo sem rei nem governantes, e sem um altar, nem coluna sagrada, nem sacerdotes, nem mesmo \u00eddolos!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Posteriormente voltar-se-\u00e3o para o SENHOR, seu Deus, para o descendente de David, o seu rei; vir\u00e3o tremendo e buscando o SENHOR e as suas b\u00ean\u00e7\u00e3os, no fim dos tempos."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A acusa\u00e7\u00e3o contra Israel - Ouve a palavra do SENHOR, \u00f3 povo de Israel! O SENHOR tem contra ti um processo de acusa\u00e7\u00e3o, com as seguintes den\u00fancias: \u201cN\u00e3o h\u00e1 nem honestidade, nem bondade, nem conhecimento de Deus na tua terra."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Juras, mentes, matas, roubas e cometes adult\u00e9rio. V\u00ea-se viol\u00eancia por toda a parte; os homic\u00eddios sucedem-se uns ap\u00f3s outros."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00c9 por isso que a tua terra est\u00e1 ressequida; est\u00e1 cheia de tristeza e tudo o que vive tem doen\u00e7a e acaba por morrer; quadr\u00fapedes, aves e at\u00e9 os peixes come\u00e7am a desaparecer."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "N\u00e3o apontes para outros, tentando aliviar as culpas de cima de ti! Para ti, sacerdote, \u00e9 que eu aponto o dedo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Em consequ\u00eancia dos vossos crimes, voc\u00eas, os sacerdotes, ser\u00e3o derrubados tanto em pleno dia como durante a noite, conjuntamente com os vossos falsos profetas; destruirei igualmente a vossa m\u00e3e, Israel."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "O meu povo \u00e9 destru\u00eddo porque n\u00e3o me conhece! E tudo por culpa vossa, sacerdotes, porque voc\u00eas mesmos n\u00e3o se interessam por me conhecer; por isso, recuso reconhecer-vos como meus sacerdotes. Visto que se esqueceram da Lei do vosso Deus, tamb\u00e9m me esquecerei de aben\u00e7oar os vossos filhos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Quanto mais o meu povo se multiplicou, tanto mais pecou contra mim; trocou a gl\u00f3ria de Deus pela vergonha dos \u00eddolos."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Os sacerdotes alimentam-se dos pecados do meu povo e intimamente desejam que o povo continue a pecar!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Por isso, se pode dizer: Tal povo, tais sacerdotes! Se o povo \u00e9 mau, os sacerdotes n\u00e3o lhe ficam atr\u00e1s. Por isso, castigarei ambos, sacerdotes e povo, pelos seus atos perversos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Comer\u00e3o e nunca se sentir\u00e3o satisfeitos. Far\u00e3o grande neg\u00f3cio com a prostitui\u00e7\u00e3o e nunca ter\u00e3o filhos, porque me voltaram as costas e procuraram outros deuses."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Vinho novo, mulheres e can\u00e7\u00f5es tiraram a intelig\u00eancia ao meu povo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Consultam um peda\u00e7o de madeira sobre o que devem fazer. A divina resposta \u00e9-lhes dada pela maneira como uma vara cai, quando atirada ao ch\u00e3o. O correr atr\u00e1s de outros deuses os corrompeu; o esp\u00edrito de lux\u00faria enganou-os e apartaram-se da sujei\u00e7\u00e3o ao seu Deus."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Fazem sacrif\u00edcios no cimo das eleva\u00e7\u00f5es; sobem aos montes para queimar incenso sob a sombra agrad\u00e1vel dos carvalhos, choupos e olmeiros. Ali se prostituem as vossas filhas e as vossas mulheres adulteram."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mas n\u00e3o ser\u00e3o estas que eu castigarei; s\u00e3o voc\u00eas, os homens, os respons\u00e1veis por isso mesmo, adulterando com meretrizes e com as prostitutas dos templos. Loucos! A vossa condena\u00e7\u00e3o est\u00e1 decretada, pois recusaram ter intelig\u00eancia!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mas se tu, Israel, te queres corromper, que Jud\u00e1 se mantenha afastado de uma tal vida! \u00d3 Jud\u00e1, n\u00e3o te corrompas juntamente com esses que hipocritamente me v\u00e3o adorar em Gilgal e em Bete-Aven, e que dizem: \u2018T\u00e3o certo como vive o SENHOR!\u2019 O culto que celebram \u00e9 uma simples apar\u00eancia."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "N\u00e3o te fa\u00e7as semelhante a Israel, teimoso como uma novilha rebelde, resistindo ao SENHOR que queria conduzi-lo para pastagens verdes."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "A gente de Efraim est\u00e1 toda entregue aos \u00eddolos! Deixem-na!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Os homens de Israel acabaram as suas rodadas de vinho; v\u00e3o para a rua \u00e0 procura de meretrizes. A sua atra\u00e7\u00e3o pelo que \u00e9 corrupto \u00e9 muito maior do que o amor pela honra."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Por isso, um vento cicl\u00f3nico os varrer\u00e1 com viol\u00eancia; morrer\u00e3o no meio de vileza, por causa do culto da idolatria."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ju\u00edzo contra Israel - Ou\u00e7am, sacerdotes e todos os l\u00edderes de Israel! Ou\u00e7am, todos os membros da fam\u00edlia real! Voc\u00eas est\u00e3o condenados, porque enganaram o povo com \u00eddolos em Mizp\u00e1 e Tabor; puseram-lhe uma cova profunda no caminho, como ratoeira,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "para o apanhar em Sitim. N\u00e3o se esque\u00e7am que irei ajustar contas com todos por aquilo que fizeram."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tenho observado as vossas m\u00e1s a\u00e7\u00f5es. Israel, tu deixaste-me tal como a prostituta que abandona o seu marido; voc\u00eas est\u00e3o profundamente corrompidos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "N\u00e3o t\u00eam vontade, sequer, de se voltarem de novo para Deus, porque no vosso \u00edntimo o esp\u00edrito de adult\u00e9rio \u00e9 muito forte e n\u00e3o vos deixa conhecer o SENHOR."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00c9 a vossa pr\u00f3pria soberba que testemunha contra voc\u00eas, perante mim. Israel cambalear\u00e1 sob o fardo da sua culpa e Jud\u00e1 igualmente cair\u00e1."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Por fim, acabar\u00e3o por se chegar, com os seus rebanhos, com o seu gado, para sacrificarem a Deus, mas ser\u00e1 demasiado tarde; n\u00e3o poder\u00e3o encontrar o SENHOR, que se esconder\u00e1 deles e ser\u00e3o deixados s\u00f3s."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tra\u00edram a honra do SENHOR, gerando filhos que n\u00e3o s\u00e3o seus. Por isso, as festas da lua nova os consumir\u00e3o juntamente com todos os seus bens e propriedades."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Toquem o alarme! Fa\u00e7am soar as cornetas em Gibe\u00e1, Ram\u00e1 e at\u00e9 Bete-Aven! Treme, terra de Benjamim!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Efraim tornar-se-\u00e1 numa terra assolada. Isto que anuncio entre as tribos de Israel \u00e9 coisa certa!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Os chefes de Israel s\u00e3o como aqueles que removem os marcos que limitam as terras. Por isso, derramarei a minha ira sobre eles como uma torrente de \u00e1gua."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Efraim ser\u00e1 esmagado e destru\u00eddo pelo meu ju\u00edzo, visto que preferiu seguir miragens, ou seja, \u00eddolos in\u00fateis."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ser\u00e3o destru\u00eddos como a tra\u00e7a faz com a l\u00e3. Farei desaparecer a for\u00e7a de Jud\u00e1 que se tornar\u00e1 como uma coisa podre."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Quando Efraim e Jud\u00e1 virem o estado em que ficaram, Efraim voltar-se-\u00e1 para a Ass\u00edria, para o seu grande rei; contudo, em nada o poder\u00e1 ajudar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Dilacerarei Efraim e Jud\u00e1 como faz um le\u00e3o com a sua presa. Mand\u00e1-los-ei para longe e impedirei que algu\u00e9m venha em seu socorro."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Abandon\u00e1-los-ei e voltarei para o meu lugar, at\u00e9 que admitam a sua culpa e me busquem, pedindo aux\u00edlio. Basta apenas que a ang\u00fastia comece e buscar-me-\u00e3o.\u201d"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Israel \u00e9 impenitente - \u201cVenham, voltemos para o SENHOR! Foi ele quem nos despeda\u00e7ou e ser\u00e1 ele quem nos h\u00e1 de curar. Fez a ferida e tratar\u00e1 dela."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Daqui a dois dias, nos dar\u00e1 a vida; ao terceiro, nos ressuscitar\u00e1 e viveremos diante dele."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Oh! Que possamos conhecer o SENHOR! Apressemo-nos a conhec\u00ea-lo! Responder-nos-\u00e1 t\u00e3o seguramente como o aparecimento da alva todas as manh\u00e3s ou como a chuva da primavera que rega a terra.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u201c\u00d3 Efraim e Jud\u00e1, que hei de eu fazer convosco? Porque o teu amor desaparece como as nuvens pela manh\u00e3 e como o orvalho com o nascer do Sol."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Enviei os meus profetas para te advertirem da minha condena\u00e7\u00e3o; abati-te com as minhas palavras, amea\u00e7ando-te de morte. De repente, sem aviso, os meus ju\u00edzos cair\u00e3o sobre ti, t\u00e3o certo como o dia seguir-se \u00e0 noite."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mais do que os vossos sacrif\u00edcios, quero a vossa miseric\u00f3rdia; mais do que os vossos holocaustos quero o conhecimento de Deus."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mas, \u00e0 semelhan\u00e7a de Ad\u00e3o, quebraste a minha alian\u00e7a; recusaste o meu amor."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Gileade \u00e9 uma cidade de pecadores, cheia de vest\u00edgios de sangue."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Os seus cidad\u00e3os s\u00e3o bandos de salteadores que armam ciladas \u00e0s suas v\u00edtimas; magotes de sacerdotes p\u00f5em-se ao longo do caminho para Siquem e praticam toda a esp\u00e9cie de abomina\u00e7\u00f5es."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sim, vi uma coisa horr\u00edvel em Israel, Efraim andando atr\u00e1s dos \u00eddolos, Israel contaminando-se."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00d3 Jud\u00e1, para ti haver\u00e1 igualmente uma abundante colheita de castigos, que espera por ti, e eu queria tanto aben\u00e7oar-te!"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Eu queria perdoar Israel, mas os seus pecados s\u00e3o grandes demais! Ningu\u00e9m consegue sequer viver em Samaria sem se tornar tamb\u00e9m ladr\u00e3o, salteador, falsificador!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "O seu povo parece que n\u00e3o sabe reconhecer que os vigio. As suas a\u00e7\u00f5es pecaminosas cercam-nos por todos os lados; vejo-as a todas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "O rei est\u00e1 satisfeito com a sua maldade; os governantes riem-se com as suas mentiras."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "S\u00e3o todos ad\u00falteros! Tal como o forno do padeiro est\u00e1 constantemente aceso, exceto enquanto amassa a farinha e espera que levede, assim est\u00e1 esta gente acesa com a lux\u00faria."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "No dia do anivers\u00e1rio do rei, os governantes embebedam-no; faz-se passar por idiota e bebe na companhia dos que tro\u00e7am dele."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Os seus cora\u00e7\u00f5es incendeiam-se com as intrigas. As suas combina\u00e7\u00f5es tramam-se durante a noite e pela manh\u00e3 ateiam-se como um fogo intenso."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Todos eles ardem como um forno e devoram os seus governantes. Matam os seus reis, uns ap\u00f3s outros, e ningu\u00e9m clama a mim por socorro."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Efraim mistura-se com gente pag\u00e3, copiando-lhes os maus caminhos; tornam-se assim uns in\u00fateis, como um p\u00e3o que n\u00e3o foi virado no forno!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "O prestar culto a deuses estranhos tirou-lhes a for\u00e7a e n\u00e3o se apercebem disso. Come\u00e7am a aparecer cabelos brancos a Efraim e n\u00e3o se d\u00e1 conta de como vai enfraquecendo e se torna decadente."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "O orgulho que tem noutros deuses condena-o abertamente; mesmo assim, n\u00e3o se volta para o SENHOR, seu Deus, nem tenta sequer encontr\u00e1-lo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Efraim \u00e9 como uma pomba sem ju\u00edzo e tonta que procura o Egito e voa para a Ass\u00edria."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Durante o seu voo, lan\u00e7arei a rede sobre ela e a farei descer; castig\u00e1-la-ei por todos os seus atos pecaminosos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ai do meu povo, que fugiu de mim! Sejam destru\u00eddos, pois pecaram contra mim! Quis redimi-los, mas os seus duros cora\u00e7\u00f5es n\u00e3o aceitaram a verdade."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ali est\u00e3o, o sono a fugir-lhes por causa da ang\u00fastia, sem querer pedir-me aux\u00edlio. Em vez disso, adoram os \u00eddolos dos povos pag\u00e3os, dirigindo-lhes ora\u00e7\u00f5es a pedir vinho novo e boas searas."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Socorri-os, fortaleci-os e agora voltam-se contra mim!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Olham para todo o lado exceto para o c\u00e9u, para o Deus alt\u00edssimo. S\u00e3o como um arco defeituoso que lan\u00e7a flechas errando sempre o alvo. Os seus chefes perecer\u00e3o pela espada do inimigo, por causa da sua insol\u00eancia para comigo, e todo o Egito se rir\u00e1 deles."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Israel a colher tempestades - Toquem a trombeta de alarme! Eles aproximam-se! Como \u00e1guia, o inimigo abate-se contra a casa do SENHOR, porque quebrou a minha alian\u00e7a e se revoltou contra a minha Lei."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "E agora Israel clama junto de mim dizendo: \u2018Socorre-nos, porque \u00e9s o nosso Deus!\u2019"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mas \u00e9 demasiado tarde! Israel rejeitou o bom momento com viol\u00eancia e agora ser\u00e3o os seus inimigos a persegui-lo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Designaram os reis e os governantes que haveriam de ter, tudo sem o meu consentimento. Prestaram culto aos deuses que fabricaram com prata e ouro, para sua pr\u00f3pria destrui\u00e7\u00e3o."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00d3 Samaria, rejeita em absoluto esse bezerro, esse \u00eddolo, que fizeste! A minha ira acende-se contra ti. Quanto tempo haver\u00e1 ainda at\u00e9 que se encontre no meio de ti um homem honesto?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Quando ser\u00e1 que reconheces, enfim, que esse bezerro n\u00e3o passa de um objeto feito por m\u00e3os humanas? N\u00e3o \u00e9 Deus! Por essa raz\u00e3o, ter\u00e1 de ser feito em peda\u00e7os."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Semearam ventos, colher\u00e3o tempestades. As suas searas n\u00e3o deram frutos nenhuns, n\u00e3o t\u00eam farinha; e se alguma se encontrar, ser\u00e3o os estrangeiros a com\u00ea-la."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Israel est\u00e1 destru\u00eddo; jaz no meio das na\u00e7\u00f5es como uma bilha de barro feita em cacos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00c9 como um jumento solit\u00e1rio, selvagem, a vaguear. Os \u00fanicos amigos que tem s\u00e3o aqueles que compra e a Ass\u00edria \u00e9 um deles."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ainda que consiga comprar amigos de v\u00e1rias regi\u00f5es, mand\u00e1-los-ei para o ex\u00edlio. Logo come\u00e7ar\u00e3o a definhar debaixo da opress\u00e3o do rei dos pr\u00edncipes, o rei poderoso!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Efraim construiu muitos altares, mas n\u00e3o s\u00e3o para me prestar culto! S\u00e3o altares de pecado!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Escrevi-lhes, muitas vezes, ensinamentos da minha Lei, mas eram para eles coisas estranhas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Esse povo ama o ritual dos sacrif\u00edcios, mas para mim eles n\u00e3o t\u00eam significado! Farei um rol de todos os seus pecados e ser\u00e3o castigados; regressar\u00e3o ao Egito."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Israel construiu grandes pal\u00e1cios; Jud\u00e1 edificou grandes defesas para as suas cidades, contudo, esqueceu-se do grande construtor. Eis a raz\u00e3o por que mandarei fogo sobre esses pal\u00e1cios e queimarei essas fortalezas.\u201d"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Castigo para Israel - \u00d3 Israel, n\u00e3o te regozijes mais, como os outros fazem, pois afastaste-te do teu Deus, prostituindo-te em todas as eiras de trigo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Eis que a eira e o lagar n\u00e3o vos sustentar\u00e3o; o vinho novo vos faltar\u00e1."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "N\u00e3o poder\u00e3o mais ficar nesta terra do SENHOR; ser\u00e3o levados para o Egito e para a Ass\u00edria, passando a viver de restos de comida imunda."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ali, longe da p\u00e1tria, n\u00e3o vos deixar\u00e3o recolher vinho para os sacrif\u00edcios ao SENHOR, porque nenhum sacrif\u00edcio que seja oferecido ali pode agradar-lhe; s\u00e3o s\u00edtios polu\u00eddos, tal como o alimento dos pranteadores; seja quem for que coma disso ficar\u00e1 ritualmente impuro; poder\u00e3o comer para si pr\u00f3prios, mas n\u00e3o para ofertas ao SENHOR."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Que far\u00e3o no dia de celebra\u00e7\u00f5es santas, nos dias das festividades do SENHOR?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Eis que eles fogem da destrui\u00e7\u00e3o, mas o Egito os recolher\u00e1; mas Menfis enterr\u00e1-los-\u00e1. Depois apenas se ver\u00e3o crescer espinhos e urtigas por entre as ru\u00ednas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Chegou o tempo do castigo de Israel; est\u00e1 quase a\u00ed, o dia da recompensa, e Israel conhec\u00ea-lo-\u00e1 em toda a sua extens\u00e3o. \u201cOs profetas s\u00e3o gente louca, esses inspiradores est\u00e3o doidos!\u201d, dizem eles com ar de tro\u00e7a, mas toda a na\u00e7\u00e3o est\u00e1 carregada de pecado e s\u00f3 sabe mostrar \u00f3dio por aqueles que amam a Deus."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "O profeta \u00e9 a sentinela de Deus em Efraim, mas esse povo est\u00e1 contra ele e a cada momento declara-lhe publicamente a sua raiva, at\u00e9 mesmo na casa do seu Deus."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "As coisas que o meu povo faz s\u00e3o t\u00e3o depravadas como o que fizeram h\u00e1 tempos atr\u00e1s em Gibe\u00e1. O Senhor n\u00e3o se esquece disso e com certeza que dar\u00e1 o castigo merecido."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201cComo recordo esses primeiros dias, deliciosos como cachos de uvas no deserto, quando eu, o Senhor, encontrei Israel! Como o vosso amor era refrescante como os primeiros figos no ver\u00e3o! Mas depois fugiram de mim para Baal-Peor, entregando-se a outros deuses, e tornaram-se t\u00e3o abomin\u00e1veis quanto aquilo que amaram."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "A gl\u00f3ria de Efraim vai-se como se se tratasse dum p\u00e1ssaro; os seus filhos morrer\u00e3o \u00e0 nascen\u00e7a ou perecer\u00e3o ainda no ventre da m\u00e3e; outros nunca chegar\u00e3o a ser concebidos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "E aqueles que conseguirem crescer, tir\u00e1-los-ei da sua guarda; todos est\u00e3o condenados. Sim, ser\u00e1 um dia bem triste, esse em que os deixarei e ficar\u00e3o sozinhos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Vi Efraim, tal como Tiro, plantado num lugar apraz\u00edvel, mas Efraim deixar\u00e1 os filhos serem levados para o matadouro.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00d3 SENHOR, o que dar\u00e1s a esse povo? D\u00e1-lhe ventres maternos que n\u00e3o deem \u00e0 luz, seios que n\u00e3o possam alimentar."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u201cToda a sua maldade come\u00e7ou em Gilgal; ali comecei a aborrec\u00ea-los. Expuls\u00e1-los-ei da minha casa por causa da sua idolatria. N\u00e3o mais os amarei, porque os seus chefes s\u00e3o rebeldes."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Efraim est\u00e1 condenado; a sua raiz est\u00e1 seca; n\u00e3o dar\u00e1 mais fruto; se chegar a dar \u00e0 luz filhos, matarei esses seus filhos amados.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "O meu Deus destruir\u00e1 o povo de Israel, por n\u00e3o terem querido dar ouvidos e obedecer \u00e0 sua voz. Andar\u00e3o errantes sem p\u00e1tria entre as na\u00e7\u00f5es."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Como Israel prosperou! \u00c9 uma vinha luxuriante, cheia de frutos! Mas quanto mais vitalidade tem, mais vida d\u00e1 aos altares dos deuses pag\u00e3os; quanto mais ricas searas tem, mais belas s\u00e3o as est\u00e1tuas que ergue em honra das colunas sagradas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "O cora\u00e7\u00e3o do povo \u00e9 falso para com Deus. S\u00e3o pecadores e devem ser castigados. Deus derrubar\u00e1 os seus altares profanos e esmigalhar\u00e1 as suas colunas sagradas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ent\u00e3o dir\u00e3o: \u201cN\u00e3o temos rei, porque n\u00e3o tememos ao SENHOR. No entanto, ainda que tiv\u00e9ssemos um rei, o que poderia fazer por n\u00f3s?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Fazem promessas que n\u00e3o t\u00eam inten\u00e7\u00e3o nenhuma de vir a cumprir. Por isso, o castigo surgir\u00e1 entre eles como ervas venenosas nos regos dos campos."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "O povo de Samaria anda a tremer com medo que o seu deus-bezerro de Bete-Aven venha a ser ferido; os sacerdotes id\u00f3latras, juntamente com o povo, andam a lamentar-se por causa da gl\u00f3ria que se apartou dali para o ex\u00edlio."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Esse tal \u00eddolo, essa coisa que \u00e9 um deus-bezerro, ser\u00e1 levado com eles, quando partirem como escravos para a Ass\u00edria, como presente para o rei ass\u00edrio. Efraim ser\u00e1 alvo de risotas, por ter confiado num tal \u00eddolo; Israel ser\u00e1 alvo de ignom\u00ednia."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tal como Samaria, o seu rei desaparecer\u00e1, como um peda\u00e7o de espuma sobre as ondas do oceano."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "E os santu\u00e1rios pag\u00e3os dos \u00eddolos de Bete-Aven, em Betel, onde Israel pecou, ser\u00e3o feitos em peda\u00e7os. Espinhos e urtigas crescer\u00e3o por ali em volta. O povo clamar\u00e1 \u00e0s montanhas: \u201cEscondam-nos!\u201d e \u00e0s colinas: \u201cCaiam sobre n\u00f3s!\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201c\u00d3 Israel, desde aquela tremenda noite em Gibe\u00e1 apenas tem havido pecado e mais pecado! N\u00e3o fizeste progressos nenhuns. N\u00e3o ter\u00e1 sido justo que os homens de Gibe\u00e1 tenham sido castigados?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Serei ent\u00e3o contra ti, por causa da tua desobedi\u00eancia; juntarei os ex\u00e9rcitos das na\u00e7\u00f5es contra ti, para te castigar por causa das tuas transgress\u00f5es."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Efraim \u00e9 como uma bezerra domada que gosta de trilhar o trigo; \u00e9 um trabalho f\u00e1cil que gosta de fazer. Eu pus-lhe o jugo, obriguei-o a estender o seu belo pesco\u00e7o. Conduzirei Efraim mediante arreios; farei Jud\u00e1 lavrar a terra e Jacob se ocupar\u00e1 de fazer sulcos no solo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Plantem boas sementeiras de justi\u00e7a e colher\u00e3o searas do meu amor; lavrem o duro solo do vosso cora\u00e7\u00e3o, porque chegou o tempo de buscar o SENHOR, para que venha e derrame chuvas de justi\u00e7a e salva\u00e7\u00e3o sobre voc\u00eas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mas cultivaram antes a maldade e segaram abund\u00e2ncia de pecado. Colheram a recompensa total de haverem confiado na mentira; julgaram que o poder militar e um grande ex\u00e9rcito poderia dar seguran\u00e7a a uma na\u00e7\u00e3o!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Por isso, terrores de guerra levantar-se-\u00e3o entre o teu povo e todas as tuas fortifica\u00e7\u00f5es cair\u00e3o, tal como aconteceu em Bete-Arbel que Salm\u00e3 destruiu; at\u00e9 as m\u00e3es com os seus filhinhos foram esmagadas."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Esse ser\u00e1 igualmente o vosso destino, Betel, por causa da vossa grande maldade. Numa s\u00f3 manh\u00e3 o rei de Israel ser\u00e1 destru\u00eddo."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O amor de Deus para com Israel - Quando Israel era uma crian\u00e7a, amei-o, e do Egito chamei o meu filho."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mas quanto mais chamava por ele mais rebelde se tornava, sacrificando a Baal e queimando incenso a \u00eddolos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Eduquei a Efraim, desde a inf\u00e2ncia, ensinei-o a andar, segurei-o com os meus bra\u00e7os. Mas ele n\u00e3o se deu conta de que era eu quem curava e cuidava dele."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Conduzi-o com la\u00e7os de amor, com la\u00e7os de muita humanidade. Fui como o dono dum animal que lhe tira o jugo, para que possa comer \u00e0 vontade. Eu mesmo lhe dei de comer."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mas o meu povo acabar\u00e1 por voltar para o Egito e para a Ass\u00edria porque se recusou voltar para mim."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A guerra rondar\u00e1 as suas cidades; os seus inimigos acabar\u00e3o por cair em peso sobre os port\u00f5es de entrada e fech\u00e1-los-\u00e3o nas suas pr\u00f3prias fortalezas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Porque o meu povo est\u00e1 decidido a deixar-me. Embora clamem ao Alt\u00edssimo, de maneira alguma me adoram."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Oh! Mas como te poderia eu deixar, Efraim? Como poderei eu deixar-te ir embora? Como te poderia eu abandonar como a Adm\u00e1 e Zeboim? O meu cora\u00e7\u00e3o chora dentro de mim. Como eu desejo socorrer-te!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "N\u00e3o! N\u00e3o te castigarei tanto quanto a minha ira me pede! Esta \u00e9 a \u00faltima vez que destruirei Efraim, porque eu sou Deus e n\u00e3o um homem. Eu sou o Deus santo que vive no meio de ti; n\u00e3o vim para destruir-te."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "O povo seguir\u00e1 o SENHOR. Rugirei como um le\u00e3o sobre os seus inimigos e o meu povo regressar\u00e1, tremendo, das bandas do poente."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Como um bando de aves, vir\u00e3o do Egito, como pombas voando desde a Ass\u00edria. Instal\u00e1-los-ei de novo na sua p\u00e1tria. Esta \u00e9 uma promessa do SENHOR."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Israel cerca-me com mentiras e com engano e Jud\u00e1 mant\u00e9m-se insubordinado contra Deus, contra o Deus santo e fiel.\u201d"
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O pecado de Israel - Efraim anda ao sabor do vento; corre atr\u00e1s do vento de leste o dia todo e multiplica enganos e viol\u00eancia. Envia azeite para o Egito e faz alian\u00e7a com a Ass\u00edria para obter aux\u00edlio."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mas o SENHOR tamb\u00e9m tem um contencioso com Jud\u00e1. Jacob ser\u00e1 igualmente castigado pelos seus maus caminhos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ainda no ventre de sua m\u00e3e segurou o calcanhar do seu irm\u00e3o, a fim de suplant\u00e1-lo, e depois de adulto lutou contra Deus."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sim, lutou com o Anjo e prevaleceu. Chorou e suplicou por uma b\u00ean\u00e7\u00e3o. Encontrou-se face a face com Deus em Betel e Deus falou-lhe;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "o SENHOR, o Deus dos ex\u00e9rcitos; SENHOR \u00e9 o seu nome."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Oh! Volta para o teu Deus! Guia-te pelos princ\u00edpios da justi\u00e7a e do amor e coloca a tua depend\u00eancia sempre no teu Deus."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mas n\u00e3o. O meu povo \u00e9 como aqueles comerciantes desonestos que vendem com balan\u00e7as falsificadas e que amam a fraude."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Efraim vangloria-se: \u201cJ\u00e1 estou rico, j\u00e1 fiz uma grande fortuna! N\u00e3o encontrar\u00e3o mal e pecado algum em mim, em todo o meu trabalho!\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201cEu sou o mesmo SENHOR, o vosso Deus que vos livrou da escravid\u00e3o do Egito; mas tamb\u00e9m sou aquele que vos mandar\u00e1 habitar em tendas, como fazem em cada ano, na festa dos tabern\u00e1culos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mandei-vos os meus profetas para vos advertirem com muitas vis\u00f5es, com muitas par\u00e1bolas e sonhos.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mas os pecados de Gilgal continuam a florescer da mesma maneira. Multiplicam-se os altares como sulcos abertos por charruas nos campos, os quais s\u00e3o usados para sacrif\u00edcios aos \u00eddolos. Gileade tamb\u00e9m est\u00e1 cheia de loucos que adoram \u00eddolos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jacob fugiu para Aram e serviu como pastor para obter uma mulher."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ent\u00e3o o SENHOR tirou o seu povo do Egito por meio de um profeta que os conduziu e protegeu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Contudo, Efraim provocou amargamente a Deus. O Senhor conden\u00e1-lo-\u00e1 \u00e0 morte, como paga dos seus pecados."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A ira de Deus contra Israel - Antigamente, quando Efraim falava, as pessoas costumavam tremer de medo; era como se fosse a voz de um poderoso chefe, mas come\u00e7ou a prestar culto a Baal e selou assim a sua condena\u00e7\u00e3o."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Agora o povo desobedece cada vez mais. Derretem a prata que possuem para modelar \u00eddolos com a habilidade de m\u00e3os humanas. \u201cSacrifiquem a estes!\u201d, dizem eles, e \u00e9 v\u00ea-los, seres humanos a beijarem um bezerro!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "H\u00e3o de desaparecer como o orvalho matinal e as nuvens passageiras que se v\u00e3o logo pela manh\u00e3, como o folhelho que a tempestade varre num instante, como o fumo duma chamin\u00e9."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u201cS\u00f3 eu sou o SENHOR, o vosso Deus, desde sempre, desde que vos tirei do Egito! Voc\u00eas n\u00e3o t\u00eam outro Deus al\u00e9m de mim, porque n\u00e3o h\u00e1 outro Salvador!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Cuidei de voc\u00eas na travessia do deserto, nessa terra seca e sedenta."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mas depois de comerem e ficarem fartos tornaram-se orgulhosos e esqueceram-me."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Por isso, virei sobre voc\u00eas como um le\u00e3o ou como um leopardo que espera a presa \u00e0 beira do caminho."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Far-vos-ei em peda\u00e7os, como uma ursa a quem tenham roubado os filhotes; devorar-vos-ei como um le\u00e3o."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00d3 Israel, tu foste destru\u00eddo, porque te rebelaste contra mim, contra quem poderia socorrer-te!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Onde est\u00e1 agora o vosso rei? Porque n\u00e3o procuram o seu socorro em todas as cidades? Onde est\u00e3o todos os l\u00edderes da terra? Quiseram t\u00ea-los, agora que sejam eles a livrar-vos!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Na minha ira dei-te reis e no meu furor retirei-tos novamente."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Os pecados de Efraim est\u00e3o ceifados e armazenados, visando o castigo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00c9-lhe oferecido um novo nascimento, mas ele \u00e9 como uma crian\u00e7a que resiste ao nascimento, dentro do ventre materno. Que rebeldia! Que loucura!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Redimi-lo-ei do mundo dos mortos. Resgat\u00e1-lo-ei da morte. \u00d3 morte, onde est\u00e3o as tuas pragas? \u00d3 morte, onde est\u00e1 a tua perdi\u00e7\u00e3o? O arrependimento est\u00e1 escondido dos meus olhos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Era considerado o mais frutuoso entre os seus irm\u00e3os, mas o vento de leste, um vento do SENHOR vindo do deserto, soprar\u00e1 com dureza sobre ele e secar\u00e1 a sua terra. Secar-se-\u00e3o todas as fontes e todos os po\u00e7os. Todos os seus tesouros ser\u00e3o saqueados dos seus dep\u00f3sitos."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Samaria ter\u00e1 de carregar com a culpa do seu pecado, porque se rebelou contra o seu Deus. O seu povo ser\u00e1 morto por um ex\u00e9rcito invasor, os seus beb\u00e9s esmagados contra o solo, as mulheres gr\u00e1vidas abertas pelas espadas.\u201d"
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O arrependimento trar\u00e1 b\u00ean\u00e7\u00e3o - \u00d3 Israel, volta-te para o SENHOR, o teu Deus, porque foste desfeito pelos teus pecados."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Apresenta a tua defesa, se quiseres. Vem at\u00e9 ao SENHOR e diz-lhe: \u201c\u00d3 SENHOR, tira a nossa iniquidade; s\u00ea misericordioso para connosco e recebe-nos; oferecer-te-emos sacrif\u00edcios de louvor."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A Ass\u00edria n\u00e3o pode salvar-nos; t\u00e3o-pouco o far\u00e1 a nossa pr\u00f3pria for\u00e7a na batalha; nunca mais oraremos aos \u00eddolos dos quais fizemos nossos deuses, porque s\u00f3 em ti o \u00f3rf\u00e3o encontrar\u00e1 piedade.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u201cEnt\u00e3o curar-vos-ei da idolatria e da infidelidade; o meu amor n\u00e3o ter\u00e1 limites; a minha ira desaparecer\u00e1 para sempre!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Refrescarei Israel como o orvalho que cai dos c\u00e9us; florescer\u00e1 como o l\u00edrio e aprofundar\u00e1 as suas ra\u00edzes, tal como os cedros do L\u00edbano."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Os seus ramos estender-se-\u00e3o; ser\u00e3o como os das belas oliveiras; o seu odor ser\u00e1 como o das florestas do L\u00edbano."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "O seu povo regressar\u00e1 do ex\u00edlio long\u00ednquo onde se encontrava e vir\u00e1 descansar sob a minha sombra. Tornar-se-\u00e3o como um jardim bem regado; florescer\u00e3o como vinhas, ter\u00e3o a frag\u00e2ncia do vinho do L\u00edbano."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00d3 Efraim, afasta-te dos \u00eddolos! Eu estou vivo e sou forte! Olho por ti e cuidarei de ti. Sou como uma \u00e1rvore sempre verde, dando-te os meus frutos todo o ano. A minha miseric\u00f3rdia n\u00e3o ter\u00e1 fim.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Quem for s\u00e1bio, que compreenda estas coisas. Quem \u00e9 inteligente, que as ou\u00e7a. Porque os caminhos do SENHOR s\u00e3o retos e os justos andar\u00e3o neles. Contudo, os pecadores neles cair\u00e3o."
+                }
+            }
+        }
+    }
+}

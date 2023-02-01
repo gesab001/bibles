@@ -1,0 +1,955 @@
+{
+    "version": "bis",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kata-kata dalam buku ini berasal dari Sang Pemikir, putra Daud, yang menggantikan Daud menjadi raja di Yerusalem."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sang Pemikir berkata: Semuanya sia-sia dan tidak berguna! Hidup itu percuma, semuanya tak ada artinya."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Seumur hidup kita bekerja, memeras keringat. Tetapi, mana hasilnya yang dapat kita banggakan?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Keturunan yang satu muncul dan keturunan yang lain lenyap, tetapi dunia tetap sama saja."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Matahari masih terbit dan masih pula terbenam. Dengan letih ia kembali ke tempatnya semula, lalu terbit lagi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Angin bertiup ke selatan, lalu berhembus ke utara; ia berputar-putar, lalu kembali lagi."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Semua sungai mengalir ke laut, tetapi laut tak kunjung penuh. Airnya kembali ke hulu sungai, lalu mulai mengalir lagi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Segalanya membosankan dan kebosanan itu tidak terkatakan. Mata kita tidak kenyang-kenyang memandang; telinga kita tidak puas-puas mendengar."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Apa yang pernah terjadi, akan terjadi lagi. Apa yang pernah dilakukan, akan dilakukan lagi. Tidak ada sesuatu yang baru di dunia ini."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ada orang yang berkata, \"Lihatlah, ini baru!\" Tetapi, itu sudah ada sebelum kita lahir."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Orang tak akan ingat kejadian di masa lalu. Begitu pun kejadian sekarang dan nanti, tidak akan dikenang oleh orang di masa mendatang."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Aku, Sang Pemikir, memerintah di Yerusalem sebagai raja atas Israel."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Aku bertekad untuk menyelidiki dan mempelajari dengan bijaksana segala yang terjadi di dunia ini. Nasib yang disediakan Allah bagi kita sungguh menyedihkan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Aku telah melihat segala perbuatan orang di dunia ini. Percayalah, semuanya itu sia-sia, seperti usaha mengejar angin."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Yang bengkok tak dapat diluruskan, dan yang tak ada tak dapat dihitung."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Pikirku, \"Aku ini telah menjadi orang penting dan arif, jauh lebih arif daripada semua orang yang memerintah di Yerusalem sebelum aku. Aku mengumpulkan banyak pengetahuan dan ilmu.\""
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Maka aku bertekad untuk mengetahui perbedaan antara pengetahuan dan kebodohan, antara kebijaksanaan dan kedunguan. Tetapi ternyata aku ini seperti mengejar angin saja."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Sebab semakin banyak hikmat kita, semakin banyak pula kecemasan kita. Semakin banyak pengetahuan kita, semakin banyak pula kesusahan kita."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Aku memutuskan untuk menyenangkan diri saja untuk mengetahui apa kebahagiaan. Tetapi ternyata itu pun sia-sia."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Aku menjadi sadar bahwa tawa adalah kebodohan dan kesenangan tak ada gunanya."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Terdorong oleh keinginanku untuk menjadi arif, aku bertekad untuk bersenang-senang dengan minum anggur dan berpesta pora. Kusangka itulah cara yang terbaik bagi manusia untuk menikmati hidupnya yang pendek di bumi ini."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Karya-karya besar telah kulaksanakan. Kubangun rumah-rumah bagiku. Kubuat taman-taman dan kebun-kebun yang kutanami dengan pohon anggur dan segala macam pohon buah-buahan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": ""
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kugali kolam-kolam untuk mengairi taman-taman dan kebun-kebun itu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Aku mempunyai banyak budak, baik yang kubeli, maupun yang lahir di rumahku. Ternakku jauh lebih banyak daripada ternak siapa pun yang pernah tinggal di Yerusalem."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kukumpulkan perak dan emas hasil upeti dari raja-raja di negeri-negeri jajahanku. Biduan dan biduanita menyenangkan hatiku dengan nyanyian-nyanyian mereka. Kumiliki juga selir-selir sebanyak yang kuinginkan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sungguh, aku lebih besar daripada siapa pun yang pernah tinggal di Yerusalem, dan hikmatku pun tetap unggul."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Segala keinginanku, kupuaskan. Tak pernah aku menahan diri untuk menikmati kesenangan apa pun. Aku bangga atas segala hasil jerih payahku, dan itulah upahku."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tetapi kemudian kuteliti segala karyaku, dan juga segala jerih payahku untuk menyelesaikan karya-karya itu, maka sadarlah aku bahwa semuanya itu tak ada artinya. Usahaku itu sia-sia seperti mengejar angin saja."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Bagaimanapun juga seorang raja hanya dapat melakukan apa yang telah dilakukan oleh raja-raja sebelum dia. Lalu aku mulai berpikir: Apa artinya menjadi arif atau dungu atau bodoh?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Memang, aku tahu, \"Hikmat lebih baik daripada kebodohan, seperti terang pun lebih baik daripada kegelapan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Orang arif dapat melihat arah yang ditujunya; orang bodoh seperti berjalan meraba-raba.\" Tetapi aku tahu juga bahwa nasib yang sama akan menimpa mereka semua."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Maka pikirku, \"Nasib yang menimpa orang bodoh akan kualami juga. Jadi, apa gunanya segala hikmatku?\" Lalu kuambil kesimpulan bahwa hikmat itu memang tak ada gunanya sama sekali."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Orang yang bodoh akan segera dilupakan, tetapi orang yang mempunyai hikmat pun tak akan dikenang. Lambat laun kita semua akan hilang dari ingatan. Kita semua harus mati, baik orang yang arif maupun orang yang dungu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Sebab itu hidup tak ada artinya lagi bagiku, lain tidak. Semuanya sia-sia; aku telah mengejar angin saja."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Segala hasil kerjaku dan pendapatanku tak akan ada gunanya bagiku, sebab aku harus meninggalkannya kepada penggantiku."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Dan siapa tahu apakah dia arif atau bodoh? Tetapi bagaimanapun juga ia akan menjadi pemilik hasil usahaku yang telah kucapai selama hidupku di dunia ini berkat jerih payah dan hikmatku. Jadi, itu pun sia-sia."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Sekarang aku menyesal telah bekerja begitu keras."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Sebab manusia bekerja keras dengan memakai segala hikmat, pengetahuan dan keahliannya untuk mencapai sesuatu. Tetapi pada akhirnya ia harus meninggalkan segala hasil jerih payahnya kepada orang yang sama sekali tidak mengeluarkan keringat untuk itu. Jadi, itu pun sia-sia, lagipula sungguh tak adil!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Seumur hidup manusia bekerja berat dan bersusah-susah; lalu mana hasil jerih payahnya yang dapat dibanggakannya?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Apa saja yang dia lakukan selama hidupnya, membawa derita dan sakit hati baginya. Di waktu malam pun hatinya resah. Jadi, semua itu sia-sia belaka."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Tak ada yang lebih baik bagi manusia daripada makan, minum dan menikmati hasil kerjanya. Aku sadar bahwa itu pun pemberian Allah."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Siapakah yang dapat makan dan bersenang-senang tanpa Allah?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Allah memberikan hikmat, pengetahuan dan kebahagiaan kepada orang yang menyenangkan hati-Nya. Tetapi orang berdosa disuruh-Nya bekerja mencari nafkah dan menimbun hasilnya untuk diserahkan kepada orang yang menyenangkan hati Allah. Jadi, semuanya itu sia-sia seperti usaha mengejar angin."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Segala sesuatu di dunia ini terjadi pada waktu yang ditentukan oleh Allah."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Allah menentukan waktu untuk melahirkan dan waktu untuk meninggal, waktu untuk menanam dan waktu untuk mencabut,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "waktu untuk membunuh dan waktu untuk menyembuhkan, waktu untuk merombak dan waktu untuk membangun."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Allah menentukan waktu untuk menangis dan waktu untuk tertawa, waktu untuk meratap dan waktu untuk menari,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "waktu untuk bersenggama dan waktu untuk pantang senggama, waktu untuk memeluk dan waktu untuk menahan diri."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Allah menentukan waktu untuk menemukan dan waktu untuk kehilangan, waktu untuk menabung dan waktu untuk memboroskan,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "waktu untuk merobek dan waktu untuk menjahit, waktu untuk berdiam diri dan waktu untuk berbicara."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Allah menentukan waktu untuk mengasihi dan waktu untuk membenci, waktu untuk berperang dan waktu untuk berdamai."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Apakah hasil segala jerih payah kita?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Aku tahu bahwa Allah memberi beban yang berat kepada kita."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ia menentukan waktu yang tepat untuk segala sesuatu. Ia memberi kita keinginan untuk mengetahui hari depan, tetapi kita tak sanggup mengerti perbuatan Allah dari awal sampai akhir."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Aku tahu bahwa bagi kita tak ada yang lebih baik daripada bergembira dan menikmati hidup sepanjang umur kita."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sebaiknya kita semua makan dan minum serta menikmati hasil kerja kita. Itu adalah pemberian Allah."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Aku tahu bahwa segala karya Allah akan tetap ada selama-lamanya. Manusia tak dapat menambah atau menguranginya. Dan Allah bertindak demikian supaya kita takut kepada-Nya."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Yang sekarang terjadi, sudah terjadi sebelumnya. Yang akan ada, sudah lama ada. Allah menentukan supaya yang sudah terjadi, terjadi lagi."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ada lagi yang kulihat di dunia ini: di mana seharusnya ada keadilan dan kebaikan, di situ ada kejahatan."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pikirku, Allah akan mengadili orang yang baik maupun orang yang jahat, sebab setiap hal dan setiap tindakan akan terjadi pada waktu yang ditentukan Allah."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kesimpulanku ialah: Allah menguji kita untuk menunjukkan bahwa nasib kita tidak berbeda dengan nasib binatang."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Bagaimanapun juga, nasib manusia dan binatang adalah serupa. Yang satu akan mati, begitu juga yang lain. Kedua-duanya adalah sama-sama makhluk. Jadi, manusia tidak lebih beruntung daripada binatang, sebab bagi kedua-duanya hidup itu sia-sia."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mereka menuju ke tempat yang sama. Mereka berasal dari debu dan akan kembali kepada debu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kita tidak tahu, apakah roh manusia naik ke atas dan roh binatang turun ke dalam tanah."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Sebab itu aku menyadari bahwa tidak ada yang lebih baik bagi manusia daripada menikmati hasil kerjanya. Selain itu tak ada yang dapat dilakukannya. Tak mungkin ia mengetahui apa yang akan terjadi setelah ia mati."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kemudian kuperhatikan lagi segala ketidakadilan yang terjadi di dunia ini. Orang-orang yang ditindas menangis dan tak ada yang mau menolong mereka. Tak seorang pun mau membantu, karena para penindas itu mempunyai kuasa yang besar."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Aku iri mengingat orang-orang yang sudah lama meninggal karena mereka lebih bahagia daripada orang-orang yang masih hidup."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tetapi yang lebih berbahagia lagi ialah orang-orang yang belum lahir, sebab mereka belum melihat kejahatan yang dilakukan di dunia ini."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Aku tahu juga bahwa manusia bekerja begitu keras, hanya karena iri hati melihat hasil usaha tetangganya. Semua itu sia-sia belaka seperti usaha mengejar angin."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Konon, hanya orang bodoh saja yang duduk berpangku tangan dan membiarkan dirinya mati kelaparan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mungkin itu benar, tetapi lebih baik harta sedikit disertai ketenangan hati daripada bekerja keras menggunakan dua tangan dan mengejar angin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Masih ada lagi yang sia-sia dalam hidup ini."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ada orang yang hidup sebatang kara tanpa anak, atau pun saudara. Meskipun begitu, ia bekerja keras terus-menerus dan hatinya tak pernah puas dengan hartanya. Untuk siapakah ia memeras keringat dan menolak segala kesenangan? Itu pun sia-sia, dan suatu cara hidup yang sengsara."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Berdua lebih menguntungkan daripada seorang diri. Kalau mereka bekerja, hasilnya akan lebih baik."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kalau yang seorang jatuh yang lain dapat menolongnya. Tetapi kalau seorang jatuh, padahal ia sendirian, celakalah dia, karena tidak ada yang dapat menolongnya."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pada malam yang dingin, dua orang yang tidur berdampingan dapat saling menghangatkan, tetapi bagaimana orang bisa menjadi hangat kalau sendirian?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dua orang yang bepergian bersama dapat menangkis serangan, tapi orang yang sendirian mudah dikalahkan. Tiga utas tali yang dijalin menjadi satu, sulit diputuskan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Orang miskin bisa menjadi raja, dan seorang tahanan bisa pindah ke atas takhta. Tetapi jika pada usia lanjut raja itu terlalu bodoh untuk menerima nasihat, maka nasibnya lebih buruk daripada pemuda yang miskin tetapi cerdas."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": ""
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kupikirkan tentang semua orang di dunia ini, maka sadarlah aku bahwa di antara mereka pasti ada seorang pemuda yang akan menggantikan raja."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Rakyat yang dipimpinnya boleh jadi tak terhitung jumlahnya, tetapi setelah ia pergi, tak ada yang berterima kasih mengingat jasanya. Memang, semuanya sia-sia seperti usaha mengejar angin."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Berhati-hatilah kalau mau pergi ke Rumah TUHAN. Lebih baik pergi ke situ untuk belajar daripada untuk mempersembahkan kurban, seperti yang dilakukan oleh orang-orang bodoh. Mereka itu tidak dapat membedakan mana yang benar dan mana yang salah."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Berpikirlah sebelum berbicara, dan jangan terlalu cepat berjanji kepada Allah. Dia ada di surga dan engkau ada di bumi, jadi berhematlah dengan kata-katamu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Makin bercemas, makin besar kemungkinan mendapat mimpi buruk. Makin banyak bicara, makin besar kemungkinan mengeluarkan kata-kata bodoh."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jadi, kalau engkau berjanji kepada Allah, tepatilah secepat mungkin. Dia tidak suka kepada orang yang berlaku bodoh. Sebab itu, tepatilah janjimu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Lebih baik tidak membuat janji daripada berjanji tetapi tidak menepatinya."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Janganlah kata-katamu membuat engkau berdosa, sehingga engkau terpaksa mengatakan kepada imam yang melayani TUHAN, bahwa engkau keliru mengucapkan janji. Untuk apa membuat Allah marah kepadamu sehingga dihancurkan-Nya hasil pekerjaanmu?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sebagaimana banyak mimpi itu tidak ada artinya, begitu juga banyak bicara tidak ada gunanya. Tetapi takutlah kepada TUHAN."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jangan heran jika melihat penguasa menindas orang miskin, merampas hak mereka dan tidak memberi mereka keadilan. Setiap pegawai dilindungi oleh atasannya dan keduanya dilindungi oleh pejabat yang lebih tinggi pangkatnya."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bahkan hidup raja pun bergantung dari hasil panen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Orang yang mata duitan, tidak pernah cukup uangnya; orang yang gila harta, tidak pernah puas dengan laba. Semuanya sia-sia."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Makin banyak kekayaan seseorang makin banyak orang lain yang harus diberinya makan. Tak ada keuntungan bagi pemiliknya, ia hanya tahu bahwa ia kaya."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Seorang pekerja boleh jadi tidak punya cukup makanan, tapi setidak-tidaknya ia bisa tidur nyenyak. Sebaliknya, seorang kaya hartanya begitu banyak, sehingga ia tak bisa tidur karena cemas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kulihat di dunia ini sesuatu yang menyedihkan: Seorang menimbun harta untuk masa kekurangan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Tetapi harta itu hilang karena suatu kemalangan, sehingga tak ada yang dapat diwariskannya kepada anak-anaknya."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kita lahir dengan telanjang; begitu juga kita tinggalkan dunia ini, tanpa membawa apa-apa dari segala jerih payah kita."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Itu sungguh menyedihkan! Kita pergi seperti pada waktu kita sekarang datang. Kita berlelah-lelah untuk mengejar angin, dan apa hasilnya?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Selama hidup, kita meraba-raba dalam gelap, kita bersusah-susah, cemas, jengkel dan sakit hati."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Maka mengertilah aku bahwa yang paling baik bagi kita ialah makan, minum dan menikmati hasil kerja kita selama hidup pendek yang diberikan Allah kepada kita; itulah nasib kita."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Jika seorang menerima kekayaan dan harta benda dari Allah, dan ia diizinkan menikmati kekayaan itu, haruslah ia merasa bersyukur dan menikmati segala hasil kerjanya. Itu adalah juga pemberian Allah."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Allah memenuhi hati orang itu dengan kegembiraan, maka ia tidak cemas memikirkan tentang pendeknya hidup ini."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kulihat lagi ketidakadilan yang sangat menekan manusia di dunia ini."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ada kalanya Allah memberi kekayaan, kehormatan dan harta benda kepada seseorang, sehingga tak ada lagi yang diinginkannya. Tetapi Allah tidak mengizinkan dia menikmati semua pemberian itu. Sebaliknya, orang yang tidak dikenal-Nya akan menikmati kekayaan itu. Jadi, semua itu sia-sia dan menyedihkan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Walaupun seorang mempunyai seratus anak dan hidup lama sehingga mencapai usia lanjut, tetapi jika ia tidak merasa bahagia dan tidak pula mendapat penguburan yang pantas, maka menurut pendapatku, bayi yang lahir mati lebih baik nasibnya daripada orang itu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sebab bagi bayi itu tidak jadi soal apakah ia dilahirkan atau tidak; dia pergi ke dalam kegelapan, lalu segera dilupakan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Belum pernah ia melihat sinar matahari, dan ia belum juga mengerti apa hidup ini, sehingga ia dapat berbaring dengan tentram."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dan itu lebih baik daripada orang yang hidup dua ratus tahun, namun tidak pernah bahagia. Bukankah kedua-duanya pergi ke tempat yang sama juga?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Manusia bekerja hanya untuk makan, tetapi ia tidak pernah merasa puas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jadi, apa keuntungan orang arif dibandingkan dengan orang bodoh? Apa pula gunanya jika orang miskin berkelakukan baik di tengah-tengah masyarakat?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Semua itu sia-sia seperti usaha mengejar angin. Lebih baik kita puas dengan apa yang ada pada kita daripada selalu menginginkan lebih banyak lagi."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Segala sesuatu yang ada, sudah ada sejak lama. Kita tahu bahwa manusia tidak dapat membantah orang yang lebih kuat daripada dia."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Semakin lama ia membantah, semakin tidak berarti kata-katanya, malahan ia tidak mendapat keuntungan apa-apa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Bagaimana orang dapat mengetahui apa yang paling baik baginya di dalam hidupnya yang pendek dan tidak berguna, dan yang lewat seperti bayangan? Bagaimana seorang dapat mengerti apa yang akan terjadi di dunia ini setelah ia tiada?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nama harum lebih baik daripada minyak bernilai tinggi; dan hari kematian lebih baik daripada hari jadi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Lebih baik pergi ke rumah duka daripada ke tempat pesta. Sebab kita harus selalu mengenang bahwa maut menunggu setiap orang."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kesedihan lebih baik daripada tawa. Biar wajah murung, asal hati lega."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Orang bodoh terus mengejar kesenangan; orang arif selalu memikirkan kematian."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Lebih baik ditegur oleh orang yang berbudi, daripada dipuji oleh orang yang sukar mengerti."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tawa orang bodoh tidak berarti, seperti bunyi duri dimakan api."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jika orang arif menipu, bodohlah tindakannya; jika orang menerima uang suap, rusaklah wataknya."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Lebih baik akhir suatu perkara daripada permulaannya; lebih baik bersabar daripada terlalu bangga."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jangan buru-buru naik pitam; hanya orang bodoh menyimpan dendam."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Janganlah bertanya, \"Mengapa zaman dulu lebih baik daripada zaman sekarang?\" Hanya orang dungu yang bertanya begitu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Orang hidup seharusnya berhikmat; nilai hikmat sama dengan warisan;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "sama pula dengan uang pemberi rasa aman. Apalagi pengetahuan tentang hikmat! Siapa memilikinya akan selamat."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Perhatikanlah pekerjaan Allah. Sebab siapa dapat meluruskan apa yang dibengkokkan Allah?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jadi, bergembiralah jika engkau sedang mujur. Tetapi kalau engkau ditimpa bencana, jangan lupa bahwa Allah memberikan kedua-duanya. Kita tak tahu apa yang terjadi selanjutnya."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hidupku tak ada gunanya, tetapi selama hidupku itu kulihat yang berikut ini: Ada kalanya orang yang baik binasa, walaupun dia saleh. Adakalanya orang yang jahat panjang umurnya, walaupun dia terus berdosa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Janganlah terlalu baik dan jangan pula terlalu bijaksana. Apa gunanya bunuh diri?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jangan juga terlalu jahat atau terlalu dungu. Untuk apa mati sebelum waktunya?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Hindarilah kedua-duanya tadi. Jika kita takut kepada Allah, pastilah kita berhasil baik."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hikmat membuat pemiliknya lebih perkasa daripada sepuluh penguasa di sebuah kota."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Di bumi ini tak ada orang yang sempurna; tak ada yang selalu berbuat baik dan tak pernah berdosa."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Jangan suka mendengarkan omongan-omongan, siapa tahu kau sedang dikutuk seorang pelayan."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Engkau sendiri pun menyadari bahwa orang lain pernah juga kaukutuki."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Semua itu kuuji dengan hikmatku. Namun semakin kucari hikmat itu, semakin jauh ia daripadaku."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Siapa dapat menemukan arti hidup ini? Terlalu dalam untuk dapat dimengerti!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Namun aku tekun belajar dan mencari pengetahuan, supaya mendapat hikmat dan jawaban atas segala pertanyaan. Aku mencoba mengerti bahwa dosa itu kebodohan, dan kejahatan adalah kenekatan."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Aku mendapati bahwa wanita lebih pahit daripada maut. Cinta wanita seperti jala dan perangkap yang siap menangkap mangsanya. Pelukannya seperti belenggu yang mengikat erat. Orang yang melakukan kehendak Allah terhindar dari jeratnya, tapi orang berdosa pasti akan ditawannya."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Lihat, kata Sang Pemikir: Semua itu kutemukan, ketika langkah demi langkah kucari jawaban."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Masih juga aku mencari jawaban-jawaban lain, namun tidak berhasil. Di antara seribu orang, kudapati seorang laki-laki yang kuhormati. Tetapi di antara mereka tak ada wanita yang dapat kuhargai."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Hanya inilah yang kudapat: Allah membuat kita sederhana dan biasa. Tetapi kita sendirilah yang membuat diri kita rumit dan berbelit-belit."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Alangkah senangnya orang bijaksana. Ia tahu jawaban atas segala perkara. Hikmat membuat dia tersenyum gembira, sehingga wajahnya cerah senantiasa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Patuhlah jika raja memberi perintah, dan jangan membuat janji gegabah kepada Allah."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Raja dapat bertindak semaunya, kalau ia tak berkenan, lebih baik jauhi dia."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Raja bertindak dengan wibawa; tak ada yang berani membantahnya!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Orang yang taat kepadanya, akan aman dan sentosa; orang arif tahu kapan dan bagaimana mentaati raja."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bagi segala sesuatu ada waktu dan caranya sendiri, tetapi sedikit sekali yang kita fahami!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tidak seorang pun tahu nasib apa yang menanti, dan tak ada yang dapat mengatakan apa yang akan terjadi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tak seorang pun dapat menahan atau menunda kematiannya. Itu perjuangan yang tak dapat dielakkannya, tak dapat ia luput daripadanya, walaupun dengan muslihat dan tipu daya."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Semua ini kulihat ketika kuperhatikan segala kejadian di dunia. Ada kalanya manusia memakai kuasanya untuk mencelakakan sesamanya."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Pernah kulihat orang jahat mati dan dikuburkan. Tetapi waktu orang-orang pulang dari penguburannya, mereka memuji dia di kota tempat ia melakukan kejahatan. Jadi, itu pun sia-sia."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mengapa begitu mudah orang melakukan kejahatan? Karena hukuman tidak segera diberikan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Meskipun seratus kejahatan dilakukan seorang berdosa, ia tetap hidup bahkan panjang umurnya. Konon, siapa taat kepada Allah, pasti hidupnya serba mudah."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sebaliknya, orang jahat mendapat banyak kesukaran. Hidupnya cepat berlalu seperti bayangan. Ia akan mati pada usia muda karena ia tidak taat kepada Tuhannya."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Namun semua itu omong kosong belaka. Lihat saja apa yang terjadi di dunia: Ada orang saleh yang dihukum bagai pendurhaka, ada penjahat yang diganjar bagai orang saleh. Jadi, itu pun sia-sia."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kesimpulanku ialah bahwa orang harus bergembira. Karena dalam hidupnya di dunia tak ada kesenangan lain baginya kecuali makan, minum dan bersukaria. Itu saja yang dapat dinikmati di tengah jerih payahnya, selama hidup yang diberikan Allah kepadanya."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ketika aku berusaha mendapat hikmat, dan kuperhatikan segala kejadian di dunia ini, maka sadarlah aku bahwa meskipun kita bersusah payah siang malam tanpa beristirahat,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "kita tak mampu mengerti tindakan Allah. Bagaimanapun kita berusaha, tak mungkin kita memahaminya. Orang arif mengaku bahwa ia tahu, tetapi sebenarnya ia tidak tahu."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Semua itu kupikirkan dengan seksama. Allah mengatur hidup orang yang baik dan bijaksana, bahkan kalau orang itu membenci atau mencinta. Tak ada yang tahu apa yang akan terjadi di kemudian hari."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Memang, nasib yang sama menimpa setiap orang: Orang jujur maupun orang bejat, orang baik maupun orang jahat, orang yang bersih maupun orang yang najis, orang yang mempersembahkan kurban maupun yang tidak. Orang baik tidak lebih mujur daripada orang yang berdosa, orang yang bersumpah sama saja dengan orang yang tidak mau bersumpah."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jadi, nasib yang sama juga menimpa mereka semua. Dan itu suatu hal yang menyedihkan sebagaimana juga segala kejadian di dunia. Selama hidupnya hati manusia penuh kejahatan, dan pikirannya pun penuh kebodohan. Lalu tiba-tiba ia menemui ajalnya."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tetapi selama hayat di kandung badan, selama itu ada harapan. Bukankah anjing yang hidup lebih bahagia daripada singa yang tak bernyawa?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Setidaknya, orang hidup tahu bahwa ajal menantinya, sedangkan orang mati tidak tahu apa-apa. Baginya tidak ada upah atau imbalan, dan namanya sudah dilupakan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Rasa cinta, benci serta nafsunya, semuanya mati bersama dia. Ia tidak lagi mengambil bagian apa-apa dalam segala kejadian di dunia."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ayo, makanlah saja dan bergembira, minumlah anggurmu dengan sukacita. Allah tidak berkeberatan, malahan Ia berkenan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Biarlah wajahmu cerah dan berseri."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nikmatilah hidup dengan istri yang kaukasihi selama hidupmu yang sia-sia, yang diberi Allah kepadamu di dunia. Nikmatilah setiap hari meskipun tidak berguna. Sebab upah jerih payahmu hanya itu saja."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kerjakanlah segala tugasmu dengan sekuat tenaga. Sebab nanti tak ada lagi pikiran atau kerja. Tak ada ilmu atau hikmat di dunia orang mati. Dan ke sanalah engkau akan pergi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Di dunia ini ada lagi yang kulihat: perlombaan tidak selalu dimenangkan oleh pelari cepat, pertempuran tidak selalu dimenangkan oleh orang yang kuat. Orang bijaksana tidak selalu mendapat mata pencaharian. Dan orang cerdas tidak selalu memperoleh kekayaan. Juga para ahli tidak selalu menjadi terkenal. Sebab siapa saja bisa ditimpa nasib sial."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Manusia tidak tahu kapan saatnya tiba. Seperti burung terjerat dan ikan terjala, begitu pula manusia ditimpa bencana pada saat yang tak terduga."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Berikut ini ada sebuah contoh jitu bagaimana orang menghargai hikmat:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ada sebuah kota kecil yang sedikit penduduknya. Pada suatu hari seorang raja besar datang menyerang kota itu. Ia mengepungnya dan bersiap-siap mendobrak temboknya."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Di kota itu ada seorang miskin yang bijaksana. Ia dapat menyelamatkan kota itu. Tetapi karena ia miskin, jasanya segera dilupakan dan tak seorang pun ingat kepadanya."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Jadi, benarlah pendapatku bahwa hikmat melebihi kekuatan. Walaupun begitu, hikmat orang miskin tidak diindahkan. Kata-katanya tidak ada yang diperhatikan."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Lebih baik mendengarkan kata-kata tenang seorang berilmu daripada teriakan seorang penguasa dalam kumpulan orang-orang dungu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Hikmat lebih berguna daripada senjata, tetapi nila setitik merusak susu sebelanga."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bangkai lalat membusukkan sebotol minyak wangi, sedikit kebodohan menghilangkan hikmat yang tinggi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Wajarlah kalau orang arif melakukan kebajikan, dan orang bodoh melakukan kejahatan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kebodohannya tampak pada segala gerak-geriknya. Dan kepada semua orang ditunjukkannya kedunguannya."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jika engkau dimarahi penguasa, janganlah minta berhenti bekerja. Biarpun kesalahanmu besar, engkau dimaafkan bila tenang dan sabar."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ada kejahatan lain yang kulihat di dunia, yaitu penyelewengan para penguasa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Orang bodoh diberi kedudukan yang mulia, sedangkan orang terkemuka tak mendapat apa-apa."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pernah kulihat budak-budak menunggang kuda sedangkan kaum bangsawan berjalan kaki seperti hamba."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Siapa menggali lubang, akan jatuh ke dalamnya; siapa mendobrak tembok akan digigit ular berbisa."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Siapa bekerja di tambang batu, akan terbentur dan luka. Siapa membelah kayu, mungkin sekali mendapat cedera."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Apabila parangmu tumpul dan tidak kauasah, engkau harus bekerja dengan lebih bersusah payah. Pakailah akal sehatmu, dan buatlah rencana lebih dahulu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kalau ular menggigit sebelum dijinakkan dengan mantera, maka pawang ular tak ada lagi gunanya."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ucapan orang arif membuat ia dihormati, tetapi orang bodoh binasa karena kata-katanya sendiri."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ia mulai dengan omong kosong biasa, tetapi akhirnya bicaranya seperti orang gila."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Memang, orang bodoh banyak bicara. Hari depan tersembunyi bagi kita semua. Tak ada yang dapat meramalkan kejadian setelah kita tiada."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Cuma orang bodoh yang tak tahu jalan ke rumahnya, ia bekerja keras dengan tak henti-hentinya."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Celakalah negeri yang rajanya muda belia, dan para pembesarnya semalam suntuk berpesta pora."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mujurlah negeri yang rajanya berwibawa, yang pembesarnya makan pada waktunya, tak suka mabuk dan pandai menahan dirinya."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Atap rumah akan bocor kalau tidak dibetulkan, dan akhirnya rumah itu lapuk akibat kemalasan."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Pesta membuat tertawa, dan anggur membuat gembira. Tapi perlu ada uang untuk membayarnya."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Jangan mengecam raja, biar di dalam hati. Jangan mengumpat orang kaya, biar di kamar tidur pribadi. Mungkin seekor burung mendengar apa yang kaukatakan, lalu menyampaikannya kepada yang bersangkutan."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Tanamlah uangmu dalam usaha di luar negeri. Pasti kaudapat untung di kemudian hari."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tanamlah modalmu di berbagai niaga; carilah usaha sebanyak-banyaknya. Sebab orang perlu waspada, sebelum musibah menimpa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ke arah mana pun pohon itu rubuh, tetap akan terbaring di tempat ia jatuh. Bila awan mengandung air hingga sarat, hujan pun turun ke bumi dengan lebat."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Siapa menunggu sampai angin dan cuaca sempurna, tak akan menanam dan tidak pula memetik hasilnya."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Allah membuat segala-galanya, dan manusia tak dapat memahami tindakan-Nya; begitu pula ia tak mengerti tumbuhnya kehidupan baru di dalam kandungan seorang ibu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Taburlah benihmu di waktu pagi dan janganlah berhenti di malam hari. Sebab kita tak tahu taburan mana yang baik tumbuhnya. Barangkali juga keduanya tumbuh dengan sempurna."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sinar matahari membuat bahagia; alangkah senangnya bila dapat menikmatinya."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hendaklah engkau bersyukur kalau bertambah umur. Tapi ingat, biar engkau hidup lama di bumi, masamu di alam maut masih lebih lama lagi. Jadi, apa yang mau diharapkan pula? Semuanya percuma dan sia-sia."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nikmatilah masa mudamu, hai pemuda! Bergembiralah selama engkau masih remaja. Penuhilah segala hasrat jiwamu, laksanakanlah semua niat hatimu. Tetapi ingat, Allah yang ada di surga, kelak mengadili tindakanmu semua."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Usirlah khawatir dan susah dari hatimu, sebab masa mudamu cepat berlalu."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ingatlah pada Penciptamu selagi engkau muda, sebelum tiba tahun-tahun penuh sengsara. Pada masa itu engkau akan berkata, \"Hidupku tidak bahagia.\""
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Bila tiba saat itu matamu tak lagi terang, sehingga pudarlah sinar surya, bulan dan bintang. Awan mendung pembawa hujan, tetap menyertaimu bagai ancaman."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Lenganmu gemetar dan tak lagi memberi perlindungan. Kakimu yang kekar akan goyah tanpa kekuatan. Gigimu tidak lengkap untuk mengunyah makanan. Matamu kabur sehingga menyuramkan pandangan."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Keramaian di jalan sampai di telingamu dengan samar-samar. Bunyi musik dan penggilingan hampir-hampir tidak terdengar. Engkau tak dapat tidur terlena. Kicauan burung pun membuat engkau terjaga."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Engkau takut mendaki tempat yang tinggi dan harus berjalan dengan hati-hati. Rambutmu beruban dan kakimu kauseret waktu berjalan. Maka hilanglah segala hasrat dan keinginan. Kita menuju ke tempat tinggal kita yang penghabisan, orang-orang berkabung dan meratap di sepanjang jalan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Rantai perak akan putus dan terpisah-pisah; lampu emas jatuh dan pecah; tali timba putus dan rusak; kendi hancur dan terserak-serak."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tubuh kita akan kembali, menjadi debu di bumi. Nafas kehidupan kita akan kembali kepada Allah. Dialah yang memberikannya sebagai anugerah."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kataku, memang semuanya itu sia-sia, semuanya percuma, tak ada artinya."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sang Pemikir itu arif dan bijaksana. Sebab itu diajarkannya kepada umat segala pengetahuannya. Banyak amsal dipelajarinya lalu ia menguji kebenarannya."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ia berusaha menemukan kata-kata penghibur, dan kata-kata yang ditulisnya adalah jujur."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Perkataan orang arif itu seperti tongkat tajam seorang gembala, tongkat yang dipakainya untuk melindungi dombanya. Kumpulan amsal dan nasihat, seperti paku yang tertancap kuat. Semua itu pemberian Allah juga, gembala kita yang satu-satunya."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Anakku, tentang satu hal engkau harus waspada. Penulisan buku tak ada akhirnya, dan terlalu banyak belajar melelahkan jiwa dan raga."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sesudah semuanya kupertimbangkan, inilah kesimpulan yang kudapatkan. Takutlah kepada Allah dan taatilah segala perintah-Nya, sebab hanya untuk itulah manusia diciptakan-Nya."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Allah akan mengadili segala perbuatan kita; yang baik dan yang buruk, bahkan yang tersembunyi juga."
+                }
+            }
+        }
+    }
+}

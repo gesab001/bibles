@@ -1,0 +1,955 @@
+{
+    "version": "SKD",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Rije\u00e8i propovjednika sina Davidova cara u Jerusalimu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ta\u0161tina nad ta\u0161tinama, veli propovjednik, ta\u0161tina nad ta\u0161tinama, sve je ta\u0161tina."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kaka je korist \u00e8ovjeku od svega truda njegova, kojim se trudi pod suncem?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nara\u0161taj jedan odlazi i drugi dolazi, a zemlja stoji uvijek."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sunce izlazi i zalazi, i opet hiti na mjesto svoje odakle izlazi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vjetar ide na jug i obr\u00e6e se na sjever: ide jednako obr\u00e6u\u00e6i se, i u obrtanju svom vra\u00e6a se."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sve rijeke teku u more, i more se ne prepunja; odakle teku rijeke, onamo se vra\u00e6aju da opet teku."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Sve je mu\u00e8no, da \u00e8ovjek ne mo\u017ee iskazati; oko se ne mo\u017ee nagledati, niti se uho mo\u017ee naslu\u0161ati."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u0160to je bilo to \u00e6e biti, \u0161to se \u00e8inilo to \u00e6e se \u00e8initi, i nema ni\u0161ta novo pod suncem."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ima li \u0161to za \u0161to bi ko rekao: vidi, to je novo? Ve\u00e6 je bilo za vijekova koji su bili prije nas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ne pominje se \u0161to je prije bilo; ni ono \u0161to \u00e6e poslije biti ne\u00e6e se pominjati u onijeh koji \u00e6e poslije nastati."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ja propovjednik bijah car nad Izrailjem u Jerusalimu;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I upravih srce svoje da tra\u017eim i razberem mudro\u0161\u00e6u sve \u0161to biva pod nebom; taj mu\u00e8ni posao dade Bog sinovima ljudskim da se mu\u00e8e oko njega."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vidjeh sve \u0161to biva pod suncem, i gle, sve je ta\u0161tina i muka duhu."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u0160to je krivo ne mo\u017ee se ispraviti, i nedostaci ne mogu se izbrojiti."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ja rekoh u srcu svom govore\u00e6i: evo, ja postah velik, i pretekoh mudro\u0161\u00e6u sve koji bi\u0161e prije mene u Jerusalimu, i srce moje vidje mnogo mudrosti i znanja."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "I upravih srce svoje da poznam mudrost i da poznam bezumlje i ludost; pa doznah da je i to muka duhu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Jer gdje je mnogo mudrosti, mnogo je brige, i ko umno\u017eava znanje, umno\u017eava muku."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ja rekoh u srcu svom: daj da te oku\u0161am veseljem; u\u017eivaj dobra. Ali gle, i to bje\u0161e ta\u0161tina."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Smijehu rekoh: luduje\u0161; i veselju: \u0161ta to radi\u0161?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Razmi\u0161ljah u srcu svom da pu\u0161tam tijelo svoje na pi\u00e6e, i srcem svojim upravljaju\u00e6i mudro da se dr\u017eim ludosti dokle ne vidim \u0161ta bi dobro bilo sinovima ljudskim da \u00e8ine pod nebom dok su \u017eivi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Velika djela u\u00e8inih: sazidah sebi ku\u00e6e, nasadih sebi vinograde;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Na\u00e8inih sebi vrtove i vo\u00e6njake, i nasadih u njima svakojakih drveta rodnijeh;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Na\u00e8inih sebi jezera vodena da zaljevam iz njih \u0161umu gdje rastu drveta;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nabavih sebi sluga i slu\u0161kinja, i imah sluga ro\u00f0enijeh u ku\u00e6i mojoj; i imah goveda i ovaca vi\u0161e od svijeh koji bi\u0161e prije mene u Jerusalimu;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tako\u00f0er nakupih sebi srebra i zlata i zaklada od careva i zemalja; nabavih sebi pjeva\u00e8a i pjeva\u00e8ica i milina ljudskih, i sprava muzi\u00e8kih svakojakih."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "I tako postah ve\u00e6i i silniji od svijeh koji bi\u0161e prije mene u Jerusalimu; i mudrost moja osta sa mnom."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I \u0161to god \u017eeljahu o\u00e8i moje, ne branjah im niti ukra\u00e6ivah srcu svojemu kakoga veselja, nego se srce moje veselja\u0161e sa svakoga truda mojega, i to mi bija\u0161e dio od svakoga truda mojega."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "A kad pogledah na sva djela svoja \u0161to uradi\u0161e ruke moje, i na trud kojim se trudih da uradim, gle, sve bje\u0161e ta\u0161tina i muka duhu, i nema koristi pod suncem."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tada se obratih da vidim mudrost i ludost i bezumlje, jer \u0161ta bi \u00e8inio \u00e8ovjek koji bi nastao poslije cara? \u0161to je ve\u00e6 u\u00e8injeno."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I vidjeh da je bolja mudrost od ludosti, kao \u0161to je bolja svjetlost od mraka."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mudri ima o\u00e8i u glavi, a bezumni ide po mraku; ali tako\u00f0er doznah da jednako biva svjema."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Zato rekoh u srcu svom: meni \u00e6e biti kao bezumniku \u0161to biva; \u0161ta \u00e6e mi dakle pomo\u00e6i \u0161to sam mudar? I rekoh u srcu svom: i to je ta\u0161tina."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Jer se ne\u00e6e spominjati mudarac kao ni bezumnik dovijeka; jer \u0161to sada jest, sve se zaboravlja poslije, i mudarac umire kao i bezumnik."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Zato mi omrze \u017eivot, jer mi nije milo \u0161to biva pod suncem, jer je sve ta\u0161tina i muka duhu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "I omrze mi sav trud moj oko kojega se trudih pod suncem, jer \u00e6u ga ostaviti \u00e8ovjeku koji \u00e6e nastati nakon mene."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "I ko zna ho\u00e6e li biti mudar ili lud? i opet \u00e6e biti gospodar od svega truda mojega oko kojega se trudih i mudrovah pod suncem. I to je ta\u0161tina."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Zato do\u00f0oh na to da mi srce izgubi nadanje o svakom trudu oko kojega se trudih pod suncem."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Jer ima ljudi koji se trude mudro i razumno i pravo, pa to ostavljaju u dio drugome koji se nije trudio oko toga. I to je ta\u0161tina i veliko zlo."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Jer \u0161ta ima \u00e8ovjek od svega truda svoga i od muke srca svoga, koju podnosi pod suncem?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Jer su svi dani njegovi muka a poslovi njegovi briga; ni no\u00e6u se ne odmara srce njegovo. I to je ta\u0161tina."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Nije li dakle dobro \u00e8ovjeku da jede i pije i da gleda da mu je du\u0161i dobro od truda njegova? Ja vidjeh i to da je iz ruke Bo\u017eije."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Jer ko je jeo i u\u017eivao vi\u0161e nego ja?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Jer \u00e8ovjeku koji mu je po volji daje mudrost i razum i radost, a grje\u0161niku daje muku da sabira i skuplja da da onome koji je po volji Bogu. I to je ta\u0161tina i muka duhu."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Svemu ima vrijeme, i svakom poslu pod nebom ima vrijeme."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ima vrijeme kad se ra\u00f0a, i vrijeme kad se umire; vrijeme kad se sadi, i vrijeme kad se \u00e8upa posa\u00f0eno;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Vrijeme kad se ubija, i vrijeme kad se iscjeljuje; vrijeme kad se razvaljuje, i vrijeme kad se gradi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vrijeme pla\u00e8u i vrijeme smijehu; vrijeme ridanju i vrijeme igranju;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vrijeme kad se razme\u00e6e kamenje, i vrijeme kad se skuplja kamenje; vrijeme kad se grli, i vrijeme kad se ostavlja grljenje;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vrijeme kad se te\u00e8e, i vrijeme kad se gubi; vrijeme kad se \u00e8uva, i vrijeme kad se baca;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vrijeme kad se dere, i vrijeme kad se sa\u0161iva; vrijeme kad se mu\u00e8i, i vrijeme kad se govori;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vrijeme kad se ljubi, i vrijeme kad se mrzi; vrijeme ratu i vrijeme miru."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kaka je korist onome koji radi od onoga oko \u00e8ega se trudi?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vidio sam poslove koje je Bog dao sinovima ljudskim da se mu\u00e8e oko njih."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sve je u\u00e8inio da je lijepo u svoje vrijeme, i svijet metnuo im je u srce, ali da ne mo\u017ee \u00e8ovjek doku\u00e8iti djela koja Bog tvori, ni po\u00e8etka ni kraja."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Doznah da nema ni\u0161ta bolje za njih nego da se vesele i \u00e8ine dobro za \u017eivota svoga."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I kad svaki \u00e8ovjek jede i pije i u\u017eiva dobra od svakoga truda svojega, to je dar Bo\u017eji."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Doznah da \u0161to god tvori Bog ono traje dovijeka, ne mo\u017ee mu se ni\u0161ta dodati niti se od toga mo\u017ee \u0161to oduzeti; i Bog tvori da bi ga se bojali."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u0160to je bilo to je sada, i \u0161to \u00e6e biti to je ve\u00e6 bilo; jer Bog povra\u00e6a \u0161to je pro\u0161lo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Jo\u0161 vidjeh pod suncem gdje je mjesto suda bezbo\u017enost i mjesto pravde bezbo\u017enost."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "I rekoh u srcu svom: Bog \u00e6e suditi pravedniku i bezbo\u017eniku; jer ima vrijeme svemu i svakom poslu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Rekoh u srcu svom za sinove ljudske da im je Bog pokazao da vide da su kao stoka."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Jer \u0161to biva sinovima ljudskim to biva i stoci, jednako im biva; kako gine ona tako ginu i oni, i svi imaju isti duh; i \u00e8ovjek ni\u0161ta nije bolji od stoke, jer je sve ta\u0161tina."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Sve ide na jedno mjesto; sve je od praha i sve se vra\u00e6a u prah."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ko zna da duh sinova ljudskih ide gore, a duh stoke da ide dolje pod zemlju?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Zato vidjeh da ni\u0161ta nema bolje \u00e8ovjeku nego da se veseli onijem \u0161to radi, jer mu je to dio; jer ko \u00e6e ga dovesti da vidi \u0161to \u00e6e biti poslije njega?"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Opet vidjeh sve nepravde koje se \u00e8ine pod suncem, i gle, suze onijeh kojima se \u00e8ini nepravda, i nemaju ko bi ih potje\u0161io ni snage da se izbave iz ruku onijeh koji im \u00e8ine nepravdu; nemaju nikoga da ih potje\u0161i."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Zato hvalih mrtve koji ve\u00e6 pomrije\u0161e vi\u0161e nego \u017eive koji jo\u0161 \u017eive."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ali je bolji i od jednijeh i od drugih onaj koji jo\u0161 nije postao, koji nije vidio zla \u0161to biva pod suncem."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jer vidjeh svaki trud i svako dobro djelo da od njega biva zavist \u00e8ovjeku od bli\u017enjega njegova. I to je ta\u0161tina i muka duhu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bezumnik sklapa ruke svoje, i jede svoje tijelo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bolja je jedna grst u miru nego obje grsti s trudom i mukom u duhu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Opet vidjeh ta\u0161tinu pod suncem:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ima ko je sam, inokosan, nema ni sina ni brata, i opet nema kraja trudu njegovu, i o\u00e8i njegove ne mogu da se nasite bogatstva; a ne misli: za koga se mu\u00e8im i oduzimam svojoj du\u0161i dobra? I to je ta\u0161tina i zao posao."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bolje je dvojici nego jednomu, jer imaju dobru dobit od svoga truda."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jer ako jedan padne, drugi \u00e6e podignuti druga svojega; a te\u0161ko jednomu! ako padne, nema drugoga da ga podigne."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jo\u0161te ako dvojica spavaju zajedno, grije jedan drugoga; a jedan kako \u00e6e se zgrijati?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "I ako bi ko nadja\u00e8ao jednoga, dvojica \u00e6e mu odoljeti; i trostruka vrvca ne kida se lako."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Bolje je dijete ubogo a mudro nego car star a bezuman, koji se ve\u00e6 ne zna pou\u00e8iti."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jer jedan izlazi iz tamnice da caruje, a drugi koji se rodi da caruje osiroma\u0161i."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Vidjeh sve \u017eive koji hode pod suncem gdje pristaju za djetetom drugim, koje \u00e6e stupiti na njegovo mjesto."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nema kraja narodu koji bija\u0161e pred njim, a koji poslije nastanu ne\u00e6e se radovati njemu. I to je ta\u0161tina i muka duhu."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c8uvaj nogu svoju kad ide\u0161 u dom Bo\u017eji, i pristupi da slu\u0161a\u0161; to je bolje nego \u0161to bezumni daju \u017ertve, jer ne znaju da zlo \u00e8ine."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nemoj nagliti ustima svojim, i srce tvoje da ne bude brzo izgovoriti \u0161to pred Bogom, jer je Bog na nebu a ti si na zemlji, zato neka bude malo rije\u00e8i tvojih."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jer san dolazi od mnogoga posla, a glas bezumnikov od mnogih rije\u00e8i."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kad u\u00e8ini\u0161 zavjet Bogu, ne oklijevaj ispuniti ga, jer mu nijesu mili bezumnici; \u0161to god zavjetuje\u0161, ispuni."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bolje je da ne zavjetuje\u0161 negoli da zavjetuje\u0161 pa ne ispuni\u0161."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne daj ustima svojima da na grijeh navode tijelo tvoje, i ne govori pred an\u00f0elom da je bilo nehotice. Za\u0161to bi se gnjevio Bog na rije\u00e8i tvoje i potro djelo ruku tvojih?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jer kao \u0161to u mno\u0161tvu sanova ima ta\u0161tine, tako i u mnogim rije\u00e8ima; nego boj se Boga."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ako vidi\u0161 gdje se \u00e8ini nepravda siromahu i otima sud i pravda u zemlji, ne \u00e8udi se tome, jer vi\u0161i pazi na visokoga, i ima jo\u0161 vi\u0161ih nad njima."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ali je zemlja korisnija od svega; i car njivi slu\u017ei."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ko ljubi novce, ne\u00e6e se nasititi novaca; i ko ljubi bogatstvo, ne\u00e6e imati koristi od njega. I to je ta\u0161tina."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Gdje je mnogo dobra, mnogo je i onijeh koji ga jedu; pa kaka je korist od toga gospodaru? osim \u0161to gleda svojim o\u00e8ima."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sladak je san onome koji radi, jeo malo ili mnogo; a sitost bogatome ne da spavati."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ima ljuto zlo koje vidjeh pod suncem: bogatstvo koje se \u00e8uva na zlo onome \u00e8ije je."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jer tako bogatstvo propadne zlom nezgodom, te sinu kojega je rodio ne ostane ni\u0161ta u ruku."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kao \u0161to je iza\u0161ao iz utrobe matere svoje nag, tako opet odlazi kako je do\u0161ao; i ni\u0161ta ne uzima od truda svojega da ponese u ruci svojoj."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "I to je ljuto zlo \u0161to odlazi kako je do\u0161ao; i kaka mu je korist \u0161to se trudio u vjetar,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "I svega vijeka svojega jeo u mraku, i mnogo se brinuo i \u017ealostio i ljutio?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Eto, to vidjeh da je dobro i lijepo \u00e8ovjeku da jede i pije i u\u017eiva dobro od svega truda svojega kojim se trudi pod nebom za \u017eivota svojega, koji mu Bog da, jer mu je to dio."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "I kad kome Bog da bogatstvo i blago, i da mu da u\u017eiva i uzima svoj dio i da se veseli s truda svojega, to je dar Bo\u017eji."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Jer se ne\u00e6e mnogo opominjati dana \u017eivota svojega, jer mu Bog daje da mu je srce veselo."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ima zlo koje vidjeh pod suncem i \u00e8esto je me\u00f0u ljudima:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nekome Bog da bogatstvo i blago i slavu, te du\u0161a njegova ima sve \u0161to god \u017eeli, ali mu ne da Bog da to u\u017eiva, nego u\u017eiva drugi. To je ta\u0161tina i ljuto zlo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Da bi ko rodio sto sinova i \u017eivio mnogo godina i dani bi se vijeka njegova veoma namno\u017eili, a du\u0161a se njegova ne bi nasitila dobra, te ni pogreba ne bi imao, ka\u017eem da je bolje nedono\u0161\u00e8e od njega."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jer uzalud do\u00f0e i u tamu otide i ime mu je tamom pokriveno;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ni sunca ne vidje, niti \u0161to pozna, a po\u00e8iva bolje nego onaj."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I da bi \u017eivio dvije tisu\u00e6e godina, a dobra ne bi u\u017eivao, ne odlaze li svi na jedno mjesto?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sav je trud \u00e8ovje\u00e8ji za usta njegova, ali se ne mo\u017ee nasititi du\u0161a njegova."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jer \u0161ta ima mudri vi\u0161e nego bezumni? \u0161ta li siromah, koji se umije vladati me\u00f0u \u017eivima?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bolje je vidjeti o\u00e8ima negoli \u017eeljeti; i to je ta\u0161tina i muka duhu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u0160to je ko, davno je tijem nazvan; i zna se da je \u00e8ovjek i da se ne mo\u017ee suditi s ja\u00e8im od sebe."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kad dakle ima mnogo stvari koje umno\u017eavaju ta\u0161tinu, kaka je korist \u00e8ovjeku?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jer ko zna \u0161to je dobro \u00e8ovjeku u \u017eivotu, za malo dana ta\u0161tega \u017eivota njegova, koji mu prolaze kao sjen? ili ko \u00e6e kazati \u00e8ovjeku \u0161ta \u00e6e biti poslije njega pod suncem?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bolje je ime nego dobro ulje, i dan smrtni nego dan u koji se ko rodi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Bolje je i\u00e6i u ku\u00e6u gdje je \u017ealost nego i\u00e6i u ku\u00e6u gdje je gozba, jer je ondje kraj svakoga \u00e8ovjeka, i ko je \u017eiv, sla\u017ee u srce svoje."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bolja je \u017ealost nego smijeh, jer kad je lice neveselo, srce postaje bolje."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Srce je mudrijeh ljudi u ku\u00e6i gdje je \u017ealost, a srce bezumnijeh u ku\u00e6i gdje je veselje."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bolje je slu\u0161ati karanje mudroga nego da ko slu\u0161a pjesmu bezumnijeh."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jer kao \u0161to pra\u0161ti trnje pod loncem, taki je smijeh bezumnikov; i to je ta\u0161tina."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nasilje obezumljuje mudroga, i poklon izopa\u00e8uje srce."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Bolji je kraj stvari nego po\u00e8etak joj; bolji je ko je strpljiva duha negoli ko je ponosita duha."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ne budi nagao u duhu svom na gnjev, jer gnjev po\u00e8iva u njedrima bezumnijeh."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ne govori: \u0161ta je to, te su pre\u00f0a\u0161nji dani bili bolji od ovijeh? jer ne bi bilo mudro da za to pita\u0161."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dobra je mudrost s imanjem, i korisna je onima koji vide sunce."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jer je mudrost zaklon, i novci su zaklon; ali je prete\u017enije znanje mudrosti tijem \u0161to daje \u017eivot onome ko je ima."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pogledaj djelo Bo\u017eije; jer ko mo\u017ee ispraviti \u0161to on iskrivi?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "U dobro vrijeme u\u017eivaj dobro, a u zlo vrijeme gledaj, jer je Bog stvorio jedno prema drugom zato da \u00e8ovjek ne zna \u0161ta \u00e6e biti."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sva\u0161ta vidjeh za vremena ta\u0161tine svoje: pravednika koji propada u pravdi svojoj, i bezbo\u017enika koji dugo \u017eivi u svojoj zlo\u00e6i."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ne budi suvi\u0161e pravedan ni suvi\u0161e mudar; za\u0161to bi sebe upropastio?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ne budi suvi\u0161e bezbo\u017ean ni lud; za\u0161to bi umro prije vremena?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dobro je da dr\u017ei\u0161 jedno a drugo da ne pu\u0161ta\u0161 iz ruke; jer ko se boji Boga izbavi\u00e6e se od svega."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Mudrost krijepi \u00e8ovjeka vi\u0161e nego deset knezova koji su u gradu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Doista nema \u00e8ovjeka pravedna na zemlji koji tvori dobro i ne grije\u0161i."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ne uzimaj na um sva\u0161ta \u0161to se govori, ako bi i slugu svojega \u00e8uo gdje te psuje;"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Jer srce tvoje zna da si i ti vi\u0161e puta psovao druge."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Sve to ogledah mudro\u0161\u00e6u i rekoh: bi\u00e6u mudar; ali mudrost bje\u0161e daleko od mene."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "\u0160to je tako daleko i vrlo duboko, ko \u00e6e na\u00e6i?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Okretoh se srcem svojim da poznam i izvidim i izna\u00f0em mudrost i razum, i da poznam bezbo\u017enost ludosti i ludost bezumlja."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "I na\u00f0oh da je gr\u00e8a od smrti \u017eena kojoj je srce mre\u017ea i pruglo, kojoj su ruke okovi; ko je mio Bogu, sa\u00e8uva\u00e6e se od nje, a grje\u0161nika \u00e6e uhvatiti ona."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Gle, to na\u00f0oh, veli propovjednik, jedno prema drugom, tra\u017ee\u00e6i da razumijem."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Jo\u0161 tra\u017ei du\u0161a moja, ali ne na\u00f0oh. \u00c8ovjeka jednoga u tisu\u00e6i na\u00f0oh, ali \u017eene me\u00f0u svjema ne na\u00f0oh."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Samo, gle, ovo na\u00f0oh: da je Bog stvorio \u00e8ovjeka dobra; a oni tra\u017ee svakojake pomisli."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ko je kao mudri? i ko zna \u0161ta zna\u00e8e stvari? Mudrost prosvjetljuje \u00e8ovjeku lice, a tvrdo\u00e6a lica njegova mijenja se."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ja ti ka\u017eem: izvr\u0161uj zapovijest carevu, i to zakletve Bo\u017eije radi."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ne budi brz da otide\u0161 ispred njega; ne stoj u zloj stvari, jer \u00e6e u\u00e8initi \u0161to god ho\u00e6e."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jer gdje je god rije\u00e8 careva ondje je vlast, i ko \u00e6e mu re\u00e6i: \u0161ta radi\u0161?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ko izvr\u0161uje zapovijest, ne\u00e6e znati za zlo, jer srce mudroga zna vrijeme i na\u00e8in."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jer sva\u00e8emu ima vrijeme i na\u00e8in; ali mnoga zla snalaze \u00e8ovjeka,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u0160to ne zna \u0161ta \u00e6e biti; jer kad \u00e6e \u0161to biti, ko \u00e6e mu kazati?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00c8ovjek nije vlastan nad duhom da bi ustavio duh, niti ima vlasti nad danom smrtnijem, niti ima obrane u toj borbi; ni bezbo\u017enost ne izbavlja onoga u koga je."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sve ovo vidjeh, i upravih srce svoje na sve \u0161to se radi pod suncem. Katkad vlada \u00e8ovjek nad \u00e8ovjekom na zlo njegovo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I tada vidjeh bezbo\u017enike pogrebene, gdje se vrati\u0161e; a koji dobro \u00e8injahu otido\u0161e sa svetoga mjesta i bi\u0161e zaboravljeni u gradu. I to je ta\u0161tina."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u0160to nema odmah osude za zlo djelo, zato srce sinova ljudskih kipi u njima da \u00e8ine zlo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Neka grje\u0161nik sto puta \u00e8ini zlo i odga\u00f0a mu se, ja ipak znam da \u00e6e biti dobro onima koji se boje Boga, koji se boje lica njegova."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "A bezbo\u017eniku ne\u00e6e biti dobro, niti \u00e6e mu se produljiti dani, nego \u00e6e biti kao sjen onome koji se ne boji lica Bo\u017eijega."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ta\u0161tina je koja biva na zemlji \u0161to ima pravednika kojima biva po djelima bezbo\u017eni\u00e8kim, a ima bezbo\u017enika kojima biva po djelima pravedni\u00e8kim. Rekoh: i to je ta\u0161tina."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Zato ja hvalih veselje, jer nema ni\u0161ta bolje \u00e8ovjeku pod suncem nego da jede i pije i da se veseli; i to mu je od truda njegova za \u017eivota njegova, koji mu Bog da pod suncem."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kad upravih srce svoje da poznam mudrost i vidim \u0161ta se radi na zemlji, te ni danju ni no\u00e6u ne dolazi \u00e8ovjeku san na o\u00e8i,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Vidjeh na svijem djelima Bo\u017eijim da \u00e8ovjek ne mo\u017ee doku\u00e8iti ono \u0161to se radi pod suncem, oko \u00e8ega se trudi \u00e8ovjek tra\u017ee\u00e6i, ali ne nalazi, i ako i mudarac re\u00e8e da zna, ipak ne mo\u017ee doku\u00e8iti."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Doista sve ovo slo\u017eih u srce svoje da bih rasvijetlio sve to, kako su pravedni i mudri i djela njihova u ruci Bo\u017eijoj, a \u00e8ovjek ne zna ni ljubavi ni mr\u017enje od svega \u0161to je pred njim."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sve biva svjema jednako: pravedniku biva kao bezbo\u017eniku, dobromu i \u00e8istomu kao ne\u00e8istomu, onome koji prinosi \u017ertvu kao onome koji ne prinosi, kako dobromu tako grje\u0161niku, onome koji se kune kao onome koji se boji zakletve."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A to je najgore od svega \u0161to biva pod suncem \u0161to svjema jednako biva, te je i srce ljudsko puno zla, i ludost im je u srcu dok su \u017eivi, a potom umiru."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jer ko \u00e6e biti izabran? U \u017eivijeh svijeh ima nadanja; i psu \u017eivu bolje je nego mrtvu lavu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jer \u017eivi znaju da \u00e6e umrijeti, a mrtvi ne znaju ni\u0161ta niti im ima plate, jer im se spomen zaboravio."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I ljubavi njihove i mr\u017enje njihove i zavisti njihove nestalo je, i vi\u0161e nemaju dijela nigda ni u \u00e8emu \u0161to biva pod suncem."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hajde, jedi hljeb svoj s rado\u0161\u00e6u, i vesela srca pij vino svoje, jer su mila Bogu djela tvoja."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Svagda neka su ti haljine bijele, i ulja na glavi tvojoj da se ne premi\u00e8e."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "U\u017eivaj \u017eivot sa \u017eenom koju ljubi\u0161 svega vijeka svojega ta\u0161tega, koji ti je dat pod suncem za sve vrijeme ta\u0161tine tvoje, jer ti je to dio u \u017eivotu i od truda tvojega kojim se trudi\u0161 pod suncem."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sve \u0161to ti do\u00f0e na ruku da \u00e8ini\u0161, \u00e8ini po mogu\u00e6nosti svojoj, jer nema rada ni mi\u0161ljenja ni znanja ni mudrosti u grobu u koji ide\u0161."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Opet vidjeh pod suncem da nije do brzijeh trka, ni rat do hrabrijeh, ni hljeb do mudrijeh, ni bogatstvo do razumnijeh, ni dobra volja do vje\u0161tijeh, nego da sve stoji do vremena i zgode."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jer \u00e8ovjek ne zna vremena svojega, nego kao \u0161to se ribe hvataju mre\u017eom nesre\u00e6nom i kao \u0161to se ptice hvataju pruglom, tako se hvataju sinovi \u00e8ovje\u00e8iji u zao \u00e8as, kad navali na njih iznenada."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Vidjeh i ovu mudrost pod suncem, koja mi se u\u00e8ini velika:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Bija\u0161e malen grad i u njemu malo ljudi; i do\u00f0e na nj velik car, i opkoli ga i na\u00e8ini oko njega velike opkope."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A na\u00f0e se u njemu siromah \u00e8ovjek mudar, koji izbavi grad mudro\u0161\u00e6u svojom, a niko se ne sje\u00e6a\u0161e toga siromaha \u00e8ovjeka."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Tada ja rekoh: bolja je mudrost nego snaga, ako se i ne mara\u0161e za mudrost onoga siromaha i rije\u00e8i se njegove ne slu\u0161ahu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Rije\u00e8i mudrijeh ljudi valja s mirom slu\u0161ati vi\u0161e nego viku onoga koji zapovijeda me\u00f0u ludima."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Bolja je mudrost nego oru\u017eje ubojito; ali jedan grje\u0161nik kvari mnogo dobra."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Od mrtvijeh muha usmrdi se i pokvari ulje apotekarsko, tako od malo ludosti cijena mudrosti i slavi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Srce je mudromu s desne strane, a ludomu je s lijeve strane."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bezumnik i kad ide putem, bez razuma je i kazuje svjema da je bezuman."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ako se podigne na te gnjev onoga koji vlada, ne ostavljaj mjesta svojega, jer blagost uklanja velike grijehe."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ima zlo koje vidjeh pod suncem, kao pogrje\u0161ka koja dolazi od vladaoca:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ludost se posa\u00f0uje na najvi\u0161e mjesto, i bogati sjede na niskom mjestu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vidjeh sluge na konjma, a knezovi idu pje\u0161ice kao sluge."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ko jamu kopa, u nju \u00e6e pasti, i ko razvaljuje ogradu, uje\u0161\u00e6e ga zmija."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ko odmi\u00e8e kamenje, udari\u00e6e se o njih; ko cijepa drva, nije miran od njih."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kad se zatupi gvo\u017e\u00f0e i o\u0161trice mu se ne nao\u0161tri, tada treba vi\u0161e snage; ali mudrost mo\u017ee bolje opraviti."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ako ujede zmija prije bajanja, ni\u0161ta ne\u00e6e pomo\u00e6i baja\u00e8."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Rije\u00e8i iz usta mudroga ljupke su, a bezumnoga pro\u017ediru usne njegove."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Po\u00e8etak je rije\u00e8ima usta njegovijeh ludost, a svr\u0161etak govoru njegovu zlo bezumlje."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jer ludi mnogo govori, a \u00e8ovjek ne zna \u0161to \u00e6e biti; i ko \u00e6e mu kazati \u0161to \u00e6e poslije njega biti?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Lude mori trud njihov, jer ne znaju ni u grad oti\u00e6i."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Te\u0161ko tebi, zemljo, kad ti je car dijete i knezovi tvoji rano jedu!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Blago tebi, zemljo, kad ti je car plemenit i knezovi tvoji jedu na vrijeme da se potkrijepe a ne da se opiju."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "S lijenosti ugiblje se krov i s nemarnijeh ruku prokapljuje ku\u00e6a."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Radi veselja gotove se gozbe, i vino veseli \u017eive, a novci vr\u0161e sve."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ni u misli svojoj ne psuj cara, ni u klijeti, u kojoj spava\u0161, ne psuj bogatoga, jer ptica nebeska odnije\u00e6e glas i \u0161to krila ima dokaza\u00e6e rije\u00e8."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Baci hljeb svoj povrh vode; jer \u00e6e\u0161 ga na\u00e6i poslije mnogo vremena."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Razdijeli sedmorici i osmorici; jer ne zna\u0161 kako \u00e6e zlo biti na zemlji."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kad se napune oblaci, prosipaju da\u017ed na zemlju, i ako padne drvo na jug ili na sjever, gdje padne drvo ondje \u00e6e ostati."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ko pazi na vjetar, ne\u00e6e sijati, i ko gleda na oblake, ne\u00e6e \u017eeti."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kako ne zna\u0161 koji je put vjetru ni kako postaju kosti u utrobi trudne \u017eene, tako ne zna\u0161 djela Bo\u017eijega i kako tvori sve."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Izjutra sij sjeme svoje i uve\u00e8e nemoj da ti po\u00e8ivaju ruke, jer ne zna\u0161 \u0161ta \u00e6e biti bolje, ovo ili ono, ili \u00e6e oboje biti jednako dobro."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Slatka je svjetlost, i dobro je o\u00e8ima gledati sunce;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ali da \u00e8ovjek \u017eivi mnogo godina i svagda se veseli, pa se opomene dana tamnijeh kako \u00e6e ih biti mnogo, sve \u0161to je bilo bi\u00e6e ta\u0161tina."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Raduj se, mladi\u00e6u, za mladosti svoje, i neka se veseli srce tvoje dok si mlad, i hodi kuda te srce tvoje vodi i kuda o\u00e8i tvoje gledaju; ali znaj da \u00e6e te za sve to Bog izvesti na sud."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ukloni dakle \u017ealost od srca svojega, i odrini zlo od tijela svojega, jer je djetinjstvo i mladost ta\u0161tina."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ali opominji se tvorca svojega u mladosti svojoj prije nego do\u00f0u dani zli i prispiju godine, za koje \u00e6e\u0161 re\u00e6i: nijesu mi mile;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Prije nego pomrkne sunce i vidjelo i mjesec i zvijezde, i opet do\u00f0u oblaci iza da\u017eda,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kad \u00e6e drktati stra\u017eari ku\u00e6ni i pognuti se junaci, i stati mlinarice, \u0161to ih je malo, i potamnjeti koji gledaju kroz prozore,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "I kad \u00e6e se zatvoriti vrata s ulice, i oslabiti zveka od mljevenja, i kad \u00e6e se ustajati na pti\u00e8ji glas i prestati sve pjeva\u00e8ice,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I visokoga mjesta kad \u00e6e se bojati i stra\u0161iti se na putu, kad \u00e6e badem ucvjetati i skakavac ote\u017eati i \u017eelja pro\u00e6i, jer \u00e8ovjek ide u ku\u00e6u svoju vje\u00e8nu, i pokajnice \u00e6e hoditi po ulicama;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Prije nego se prekine u\u017ee srebrno, \u00e8a\u0161a se zlatna razbije i raspe se vijedro na izvoru i slomi se to\u00e8ak na studencu,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "I vrati se prah u zemlju, kako je bio, a duh se vrati k Bogu, koji ga je dao."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ta\u0161tina nad ta\u0161tinama, veli propovjednik, sve je ta\u0161tina."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A ne samo mudar bija\u0161e propovjednik, nego jo\u0161 i narod u\u00e8a\u0161e mudrosti, i motre\u00e6i i istra\u017euju\u00e6i slo\u017ei mnogo pri\u00e8a."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Stara\u0161e se propovjednik da na\u00f0e ugodne rije\u00e8i, i napisa \u0161to je pravo, rije\u00e8i istine."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Rije\u00e8i su mudrijeh ljudi kao \u017ealci i kao klini udareni; rije\u00e8i onijeh koji ih slo\u017ei\u0161e dao je jedan pastir."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "I tako, sine moj, \u00e8uvaj se onoga \u0161to je preko ovoga, jer nema kraja sastavljanju mnogih knjiga, i mnogo \u00e8itanje umor je tijelu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Glavno je svemu \u0161to si \u00e8uo: Boga se boj, i zapovijesti njegove dr\u017ei, jer to je sve \u00e8ovjeku."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jer \u00e6e svako djelo Bog iznijeti na sud i svaku tajnu, bila dobra ili zla."
+                }
+            }
+        }
+    }
+}

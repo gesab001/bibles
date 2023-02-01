@@ -1,0 +1,955 @@
+{
+    "version": "ICELAND",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Or\u00f0 pr\u00e9dikarans, sonar Dav\u00ed\u00f0s, konungs \u00ed Jer\u00fasalem."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Aumasti h\u00e9g\u00f3mi, segir pr\u00e9dikarinn, aumasti h\u00e9g\u00f3mi, allt er h\u00e9g\u00f3mi!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Hva\u00f0a \u00e1vinning hefir ma\u00f0urinn af \u00f6llu striti s\u00ednu, er hann streitist vi\u00f0 undir s\u00f3linni?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ein kynsl\u00f3\u00f0in fer og \u00f6nnur kemur, en j\u00f6r\u00f0in stendur a\u00f0 eil\u00edfu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Og s\u00f3lin rennur upp, og s\u00f3lin gengur undir og hra\u00f0ar s\u00e9r til samasta\u00f0ar s\u00edns, \u00fear sem h\u00fan rennur upp."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vindurinn gengur til su\u00f0urs og sn\u00fdr s\u00e9r til nor\u00f0urs, hann sn\u00fdr s\u00e9r og sn\u00fdr s\u00e9r og fer aftur a\u00f0 hringsn\u00faast \u00e1 n\u00fdjan leik."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Allar \u00e1r renna \u00ed sj\u00f3inn, en sj\u00f3rinn ver\u00f0ur aldrei fullur, \u00feanga\u00f0 sem \u00e1rnar renna, \u00feanga\u00f0 halda \u00fe\u00e6r \u00e1vallt \u00e1fram a\u00f0 renna."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Allt er s\u00edstritandi, enginn ma\u00f0ur f\u00e6r \u00fev\u00ed me\u00f0 or\u00f0um l\u00fdst, auga\u00f0 ver\u00f0ur aldrei satt af a\u00f0 sj\u00e1, og eyra\u00f0 ver\u00f0ur aldrei mett af a\u00f0 heyra."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00dea\u00f0 sem hefir veri\u00f0, \u00fea\u00f0 mun ver\u00f0a, og \u00fea\u00f0 sem gj\u00f6rst hefir, \u00fea\u00f0 mun gj\u00f6rast, og ekkert er n\u00fdtt undir s\u00f3linni."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "S\u00e9 nokku\u00f0 til, er um ver\u00f0i sagt: sj\u00e1, \u00feetta er n\u00fdtt _ \u00fe\u00e1 hefir \u00fea\u00f0 or\u00f0i\u00f0 fyrir l\u00f6ngu, \u00e1 t\u00edmum sem \u00e1 undan oss voru."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Forfe\u00f0ranna minnast menn eigi, og ekki ver\u00f0ur heldur eftirkomendanna, sem s\u00ed\u00f0ar ver\u00f0a uppi, minnst me\u00f0al \u00feeirra, sem s\u00ed\u00f0ar ver\u00f0a."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9g, pr\u00e9dikarinn, var konungur yfir \u00cdsrael \u00ed Jer\u00fasalem."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00c9g lag\u00f0i allan hug \u00e1 a\u00f0 rannsaka og kynna m\u00e9r me\u00f0 hyggni allt \u00fea\u00f0, er gj\u00f6rist undir himninum: \u00dea\u00f0 er lei\u00f0a \u00ferautin, sem Gu\u00f0 hefir fengi\u00f0 m\u00f6nnunum a\u00f0 \u00fereyta sig \u00e1."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00c9g hefi s\u00e9\u00f0 \u00f6ll verk, sem gj\u00f6rast undir s\u00f3linni, og sj\u00e1: Allt var h\u00e9g\u00f3mi og eftirs\u00f3kn eftir vindi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hi\u00f0 bogna getur ekki or\u00f0i\u00f0 beint, og \u00fea\u00f0 sem skortir ver\u00f0ur eigi tali\u00f0."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00c9g hugsa\u00f0i me\u00f0 sj\u00e1lfum m\u00e9r: Sj\u00e1, \u00e9g hefi afla\u00f0 m\u00e9r meiri og v\u00ed\u00f0t\u00e6kari speki en allir \u00feeir, er r\u00edkt hafa yfir Jer\u00fasalem \u00e1 undan m\u00e9r, og hjarta mitt hefir liti\u00f0 speki og \u00feekkingu \u00ed r\u00edkum m\u00e6li."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Og er \u00e9g lag\u00f0i allan hug \u00e1 a\u00f0 \u00feekkja speki og a\u00f0 \u00feekkja fl\u00f3nsku og heimsku, \u00fe\u00e1 komst \u00e9g a\u00f0 raun um, a\u00f0 einnig \u00fea\u00f0 var a\u00f0 s\u00e6kjast eftir vindi."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00dev\u00ed a\u00f0 mikilli speki er samfara mikil gremja, og s\u00e1 sem eykur \u00feekking s\u00edna, eykur kv\u00f6l s\u00edna."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c9g sag\u00f0i vi\u00f0 sj\u00e1lfan mig: J\u00e6ja \u00fe\u00e1, reyndu gle\u00f0ina og nj\u00f3ttu g\u00e6\u00f0a l\u00edfsins! En sj\u00e1, einnig \u00fea\u00f0 er h\u00e9g\u00f3mi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Um hl\u00e1turinn sag\u00f0i \u00e9g: hann er vitlaus! og um gle\u00f0ina: hverju f\u00e6r h\u00fan til vegar komi\u00f0?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "M\u00e9r kom til hugar a\u00f0 g\u00e6\u00f0a l\u00edkama m\u00ednum \u00e1 v\u00edni _ en hjarta mitt skyldi stj\u00f3rna \u00f6llu viturlega _ og a\u00f0 halda fast vi\u00f0 heimskuna, uns \u00e9g s\u00e6i, hva\u00f0 gott v\u00e6ri fyrir mennina a\u00f0 gj\u00f6ra undir himninum alla \u00e6vidaga \u00feeirra."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00c9g gj\u00f6r\u00f0i st\u00f3rvirki: \u00c9g reisti m\u00e9r h\u00fas, \u00e9g planta\u00f0i m\u00e9r v\u00edngar\u00f0a,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00e9g gj\u00f6r\u00f0i m\u00e9r jurtagar\u00f0a og aldingar\u00f0a og gr\u00f3\u00f0ursetti \u00fear alls konar aldintr\u00e9,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00e9g bj\u00f3 m\u00e9r til vatnstjarnir til \u00feess a\u00f0 v\u00f6kva me\u00f0 vaxandi vi\u00f0arsk\u00f3g,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00e9g keypti \u00fer\u00e6la og amb\u00e1ttir, og \u00e9g \u00e1tti heimaf\u00e6dd hj\u00fa. \u00c9g \u00e1tti og meiri hjar\u00f0ir nauta og sau\u00f0a en allir \u00feeir, sem veri\u00f0 h\u00f6f\u00f0u \u00e1 undan m\u00e9r \u00ed Jer\u00fasalem."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00c9g safna\u00f0i m\u00e9r og silfri og gulli og fj\u00e1rsj\u00f3\u00f0um fr\u00e1 konungum og l\u00f6ndum, \u00e9g f\u00e9kk m\u00e9r s\u00f6ngmenn og s\u00f6ngkonur og \u00fea\u00f0 sem er yndi karlmannanna: fj\u00f6lda kvenna."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Og \u00e9g var\u00f0 mikill og meiri \u00f6llum \u00feeim, er veri\u00f0 h\u00f6f\u00f0u \u00ed Jer\u00fasalem \u00e1 undan m\u00e9r. Einnig speki m\u00edn var kyrr hj\u00e1 m\u00e9r."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Og allt \u00fea\u00f0 sem augu m\u00edn girntust, \u00fea\u00f0 l\u00e9t \u00e9g eftir \u00feeim. \u00c9g neita\u00f0i ekki hjarta m\u00ednu um nokkra gle\u00f0i, \u00fev\u00ed a\u00f0 hjarta mitt haf\u00f0i \u00e1n\u00e6gju af allri fyrirh\u00f6fn minni, og \u00feetta var hlutdeild m\u00edn af allri fyrirh\u00f6fn minni."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "En er \u00e9g leit \u00e1 \u00f6ll verk m\u00edn, \u00feau er hendur m\u00ednar h\u00f6f\u00f0u unni\u00f0, og \u00e1 \u00fe\u00e1 fyrirh\u00f6fn, er \u00e9g haf\u00f0i haft fyrir a\u00f0 gj\u00f6ra \u00feau, \u00fe\u00e1 s\u00e1 \u00e9g, a\u00f0 allt var h\u00e9g\u00f3mi og eftirs\u00f3kn eftir vindi, og a\u00f0 enginn \u00e1vinningur er til undir s\u00f3linni."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9g sneri m\u00e9r a\u00f0 \u00fev\u00ed a\u00f0 vir\u00f0a fyrir m\u00e9r speki og fl\u00f3nsku og heimsku, _ \u00fev\u00ed a\u00f0 hva\u00f0 mun s\u00e1 ma\u00f0ur gj\u00f6ra, er kemur eftir konunginn? Hann gj\u00f6rir \u00fea\u00f0 sem menn hafa gj\u00f6rt fyrir l\u00f6ngu. _"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00de\u00e1 s\u00e1 \u00e9g, a\u00f0 spekin hefir yfirbur\u00f0i yfir heimskuna eins og lj\u00f3si\u00f0 hefir yfirbur\u00f0i yfir myrkri\u00f0."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Vitur ma\u00f0ur hefir augun \u00ed h\u00f6f\u00f0inu, en heimskinginn gengur \u00ed myrkri. Jafnframt t\u00f3k \u00e9g eftir \u00fev\u00ed, a\u00f0 eitt og hi\u00f0 sama kemur fram vi\u00f0 alla."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Og \u00e9g sag\u00f0i vi\u00f0 sj\u00e1lfan mig: Hi\u00f0 sama sem kemur fram vi\u00f0 heimskingjann, \u00fea\u00f0 kemur og fram vi\u00f0 mig, og til hvers hefi \u00e9g \u00fe\u00e1 or\u00f0i\u00f0 svo fr\u00e1b\u00e6rlega vitur? \u00de\u00e1 hugsa\u00f0i \u00e9g \u00ed hjarta m\u00ednu, a\u00f0 einnig \u00fea\u00f0 v\u00e6ri h\u00e9g\u00f3mi."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00dev\u00ed a\u00f0 menn minnast ekki hins vitra a\u00f0 eil\u00edfu, frekar en heimskingjans, \u00fev\u00ed a\u00f0 allir ver\u00f0a \u00feeir l\u00f6ngu gleymdir \u00e1 komandi t\u00edmum, og deyr ekki jafnt vitur sem heimskur?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00de\u00e1 var\u00f0 m\u00e9r illa vi\u00f0 l\u00edfi\u00f0, \u00fev\u00ed a\u00f0 m\u00e9r misl\u00edka\u00f0i \u00fea\u00f0, er gj\u00f6rist undir s\u00f3linni, \u00fev\u00ed a\u00f0 allt er h\u00e9g\u00f3mi og eftirs\u00f3kn eftir vindi."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Og m\u00e9r var\u00f0 illa vi\u00f0 allt mitt strit, er \u00e9g streittist vi\u00f0 undir s\u00f3linni, me\u00f0 \u00fev\u00ed a\u00f0 \u00e9g ver\u00f0 a\u00f0 eftirskilja \u00fea\u00f0 \u00feeim manni, er kemur eftir mig."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Og hver veit, hvort hann ver\u00f0ur spekingur e\u00f0a heimskingi? Og \u00fe\u00f3 \u00e1 hann a\u00f0 r\u00e1\u00f0a yfir \u00f6llu striti m\u00ednu, er \u00e9g hefi streitst vi\u00f0 og viturlega me\u00f0 fari\u00f0 undir s\u00f3linni _ einnig \u00fea\u00f0 er h\u00e9g\u00f3mi."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00de\u00e1 hvarf \u00e9g a\u00f0 \u00fev\u00ed a\u00f0 l\u00e1ta hjarta mitt \u00f6rv\u00e6nta yfir allri \u00feeirri m\u00e6\u00f0u, er \u00e9g haf\u00f0i \u00e1tt \u00ed undir s\u00f3linni."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00dev\u00ed a\u00f0 hafi einhver unni\u00f0 starf sitt me\u00f0 hyggindum, \u00feekking og dugna\u00f0i, ver\u00f0ur hann a\u00f0 selja \u00fea\u00f0 \u00f6\u00f0rum \u00ed hendur til eignar, sem ekkert hefir fyrir \u00fev\u00ed haft. Einnig \u00fea\u00f0 er h\u00e9g\u00f3mi og miki\u00f0 b\u00f6l."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Hva\u00f0 f\u00e6r \u00fe\u00e1 ma\u00f0urinn fyrir allt strit sitt og \u00e1stundun hjarta s\u00edns, er hann m\u00e6\u00f0ist \u00ed undir s\u00f3linni?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u00dev\u00ed a\u00f0 allir dagar hans eru kv\u00f6l, og starf hans er arm\u00e6\u00f0a. Jafnvel \u00e1 n\u00e6turnar f\u00e6r hjarta hans eigi hv\u00edld. Einnig \u00feetta er h\u00e9g\u00f3mi."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "\u00dea\u00f0 er ekkert betra til me\u00f0 m\u00f6nnum en a\u00f0 eta og drekka og l\u00e1ta s\u00e1lu s\u00edna nj\u00f3ta fagna\u00f0ar af striti s\u00ednu. En \u00fea\u00f0 hefi \u00e9g s\u00e9\u00f0, a\u00f0 einnig \u00feetta kemur af Gu\u00f0s hendi."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u00dev\u00ed a\u00f0 hver m\u00e1 eta e\u00f0a neyta nokkurs \u00e1n hans?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00dev\u00ed a\u00f0 \u00feeim manni, sem honum ge\u00f0jast, gefur hann visku, \u00feekking og gle\u00f0i, en syndaranum f\u00e6r hann \u00fea\u00f0 starf a\u00f0 safna og hr\u00faga saman til \u00feess a\u00f0 selja \u00fea\u00f0 \u00feeim \u00ed hendur, er Gu\u00f0i ge\u00f0jast. Einnig \u00fea\u00f0 er h\u00e9g\u00f3mi og eftirs\u00f3kn eftir vindi."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00d6llu er afm\u00f6rku\u00f0 stund, og s\u00e9rhver hlutur undir himninum hefir sinn t\u00edma."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A\u00f0 f\u00e6\u00f0ast hefir sinn t\u00edma og a\u00f0 deyja hefir sinn t\u00edma, a\u00f0 gr\u00f3\u00f0ursetja hefir sinn t\u00edma og a\u00f0 r\u00edfa \u00fea\u00f0 upp, sem gr\u00f3\u00f0ursett hefir veri\u00f0, hefir sinn t\u00edma,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "a\u00f0 dey\u00f0a hefir sinn t\u00edma og a\u00f0 l\u00e6kna hefir sinn t\u00edma, a\u00f0 r\u00edfa ni\u00f0ur hefir sinn t\u00edma og a\u00f0 byggja upp hefir sinn t\u00edma,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "a\u00f0 gr\u00e1ta hefir sinn t\u00edma og a\u00f0 hl\u00e6ja hefir sinn t\u00edma, a\u00f0 kveina hefir sinn t\u00edma og a\u00f0 dansa hefir sinn t\u00edma,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "a\u00f0 kasta steinum hefir sinn t\u00edma og a\u00f0 t\u00edna saman steina hefir sinn t\u00edma, a\u00f0 fa\u00f0mast hefir sinn t\u00edma og a\u00f0 halda s\u00e9r fr\u00e1 fa\u00f0ml\u00f6gum hefir sinn t\u00edma,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "a\u00f0 leita hefir sinn t\u00edma og a\u00f0 t\u00fdna hefir sinn t\u00edma, a\u00f0 geyma hefir sinn t\u00edma og a\u00f0 fleygja hefir sinn t\u00edma,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "a\u00f0 r\u00edfa sundur hefir sinn t\u00edma og a\u00f0 sauma saman hefir sinn t\u00edma, a\u00f0 \u00feegja hefir sinn t\u00edma og a\u00f0 tala hefir sinn t\u00edma,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "a\u00f0 elska hefir sinn t\u00edma og a\u00f0 hata hefir sinn t\u00edma, \u00f3fri\u00f0ur hefir sinn t\u00edma, og fri\u00f0ur hefir sinn t\u00edma."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hvern \u00e1vinning hefir starfandinn af \u00f6llu striti s\u00ednu?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00c9g virti fyrir m\u00e9r \u00fe\u00e1 \u00feraut, sem Gu\u00f0 hefir fengi\u00f0 m\u00f6nnunum a\u00f0 \u00fereyta sig \u00e1."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Allt hefir hann gj\u00f6rt hagfellt \u00e1 s\u00ednum t\u00edma, jafnvel eil\u00edf\u00f0ina hefir hann lagt \u00ed brj\u00f3st \u00feeirra, a\u00f0eins f\u00e6r ma\u00f0urinn ekki skili\u00f0 \u00fea\u00f0 verk, sem Gu\u00f0 gj\u00f6rir, fr\u00e1 upphafi til enda."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9g komst a\u00f0 raun um, a\u00f0 ekkert er betra me\u00f0 \u00feeim en a\u00f0 vera gla\u00f0ur og g\u00e6\u00f0a s\u00e9r me\u00f0an \u00e6vin endist."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "En \u00fea\u00f0, a\u00f0 ma\u00f0ur etur og drekkur og n\u00fdtur fagna\u00f0ar af \u00f6llu striti s\u00ednu, einnig \u00fea\u00f0 er Gu\u00f0s gj\u00f6f."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00c9g komst a\u00f0 raun um, a\u00f0 allt, sem Gu\u00f0 gj\u00f6rir, stendur a\u00f0 eil\u00edfu, vi\u00f0 \u00fea\u00f0 er engu a\u00f0 b\u00e6ta, og af \u00fev\u00ed ver\u00f0ur ekkert teki\u00f0. Gu\u00f0 hefir gj\u00f6rt \u00fea\u00f0 svo, til \u00feess a\u00f0 menn \u00f3ttu\u00f0ust hann."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00dea\u00f0 sem er, var fyrir l\u00f6ngu, og \u00fea\u00f0 sem mun ver\u00f0a, hefir veri\u00f0 fyrir l\u00f6ngu, og Gu\u00f0 leitar aftur hins li\u00f0na."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Og enn fremur s\u00e1 \u00e9g undir s\u00f3linni: \u00dear sem r\u00e9tturinn \u00e1tti a\u00f0 vera, \u00fear var rangl\u00e6ti, og \u00fear sem r\u00e9ttl\u00e6ti\u00f0 \u00e1tti a\u00f0 vera, \u00fear var rangl\u00e6ti."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00c9g sag\u00f0i vi\u00f0 sj\u00e1lfan mig: Hinn r\u00e1\u00f0vanda og hinn \u00f3gu\u00f0lega mun Gu\u00f0 d\u00e6ma, \u00fev\u00ed a\u00f0 hann hefir sett t\u00edma \u00f6llum hlutum og \u00f6llum gj\u00f6r\u00f0um."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00c9g sag\u00f0i vi\u00f0 sj\u00e1lfan mig: \u00dea\u00f0 er mannanna vegna, til \u00feess a\u00f0 Gu\u00f0 geti reynt \u00fe\u00e1, og til \u00feess a\u00f0 \u00feeir sj\u00e1i, a\u00f0 \u00feeir eru sj\u00e1lfir ekki anna\u00f0 en skepnur."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00dev\u00ed a\u00f0 \u00f6rl\u00f6g mannanna og \u00f6rl\u00f6g skepnunnar _ \u00f6rl\u00f6g \u00feeirra eru hin s\u00f6mu: Eins og skepnan deyr, svo deyr og ma\u00f0urinn, og allt hefir sama andann, og yfirbur\u00f0i hefir ma\u00f0urinn enga fram yfir skepnuna, \u00fev\u00ed a\u00f0 allt er h\u00e9g\u00f3mi."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Allt fer s\u00f6mu lei\u00f0ina: Allt er af moldu komi\u00f0, og allt hverfur aftur til moldar."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Hver veit, hvort andi mannanna fer upp \u00e1 vi\u00f0, en andi skepnunnar ni\u00f0ur \u00e1 vi\u00f0 til jar\u00f0ar?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00deannig s\u00e1 \u00e9g, a\u00f0 ekkert betra er til en a\u00f0 ma\u00f0urinn gle\u00f0ji sig vi\u00f0 verk s\u00edn, \u00fev\u00ed a\u00f0 \u00fea\u00f0 er hlutdeild hans. \u00dev\u00ed a\u00f0 hver kemur honum svo langt, a\u00f0 hann sj\u00e1i \u00fea\u00f0 sem ver\u00f0ur eftir hans dag?"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Og enn s\u00e1 \u00e9g alla \u00fe\u00e1 k\u00fagun, sem vi\u00f0gengst undir s\u00f3linni: \u00dearna streyma t\u00e1r hinna undiroku\u00f0u, en enginn huggar \u00fe\u00e1. Af hendi k\u00fagara sinna s\u00e6ta \u00feeir ofbeldi, en enginn huggar \u00fe\u00e1."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00de\u00e1 taldi \u00e9g hina framli\u00f0nu s\u00e6la, \u00fe\u00e1 er fyrir l\u00f6ngu eru d\u00e1nir, \u00ed samanbur\u00f0i vi\u00f0 hina lifandi, \u00fe\u00e1 er enn eru \u00e1 l\u00edfi,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "en s\u00e6lli en \u00feessa hvora tveggja \u00feann, sem enn er ekki til or\u00f0inn og ekki hefir s\u00e9\u00f0 \u00feau vondu verk, sem framin eru undir s\u00f3linni."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Og \u00e9g s\u00e1, a\u00f0 allt strit og dugna\u00f0ur \u00ed framkv\u00e6mdum er ekki anna\u00f0 en \u00f6fund eins vi\u00f0 annan. Einnig \u00fea\u00f0 er h\u00e9g\u00f3mi og eftirs\u00f3kn eftir vindi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Heimskinginn spennir greipar og etur sitt eigi\u00f0 hold."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Betri er hnefafylli af r\u00f3 en b\u00e1\u00f0ar hendur fullar af striti og eftirs\u00f3kn eftir vindi."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Og enn s\u00e1 \u00e9g h\u00e9g\u00f3ma undir s\u00f3linni:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ma\u00f0ur stendur einn og enginn annar me\u00f0 honum, hann \u00e1 hvorki son n\u00e9 br\u00f3\u00f0ur, og \u00fe\u00f3 er enginn endir \u00e1 \u00f6llu striti hans, og augu hans mettast ekki \u00e1 au\u00f0leg\u00f0. En fyrir hvern er \u00e9g \u00fe\u00e1 a\u00f0 stritast og fyrir hvern l\u00e6t \u00e9g \u00fe\u00e1 s\u00e1l m\u00edna fara g\u00f3\u00f0s \u00e1 mis? Einnig \u00feetta er h\u00e9g\u00f3mi og lei\u00f0 \u00feraut."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Betri eru tveir en einn, me\u00f0 \u00fev\u00ed a\u00f0 \u00feeir hafa g\u00f3\u00f0 laun fyrir strit sitt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00dev\u00ed a\u00f0 falli annar \u00feeirra, \u00fe\u00e1 getur hinn reist f\u00e9laga sinn \u00e1 f\u00e6tur, en vei einst\u00e6\u00f0ingnum, sem fellur og enginn annar er til a\u00f0 reisa \u00e1 f\u00e6tur."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "S\u00f6mulei\u00f0is ef tveir sofa saman, \u00fe\u00e1 er \u00feeim heitt, en s\u00e1 sem er einn, hvernig getur honum hitna\u00f0?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Og ef einhver r\u00e6\u00f0st \u00e1 \u00feann sem er einn, \u00fe\u00e1 munu tveir geta veitt honum m\u00f3tst\u00f6\u00f0u, og \u00ferefaldan \u00fer\u00e1\u00f0 er eigi au\u00f0velt a\u00f0 sl\u00edta."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Betri er f\u00e1t\u00e6kur unglingur, s\u00e9 hann vitur, heldur en gamall konungur, s\u00e9 hann heimskur og \u00fe\u00fd\u00f0ist eigi framar vi\u00f0varanir."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00dev\u00ed a\u00f0 hann gekk \u00fat \u00far d\u00fdflissunni og var\u00f0 konungur, \u00fe\u00f3tt hann hef\u00f0i f\u00e6\u00f0st snau\u00f0ur \u00ed r\u00edki annars."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00c9g s\u00e1 alla lifandi menn, \u00fe\u00e1 er gengu undir s\u00f3linni, vera \u00e1 bandi unglingsins, hins annars, \u00feess er koma \u00e1tti \u00ed hins sta\u00f0."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Enginn endir var \u00e1 \u00f6llu \u00fev\u00ed f\u00f3lki, \u00e1 \u00f6llum \u00feeim, er hann var fyrir. \u00de\u00f3 gl\u00f6ddust eftirkomendurnir ekki yfir honum. \u00dev\u00ed a\u00f0 einnig \u00fea\u00f0 er h\u00e9g\u00f3mi og eftirs\u00f3kn eftir vindi."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vertu ekki of munnhvatur, og hjarta \u00feitt hra\u00f0i s\u00e9r ekki a\u00f0 m\u00e6la or\u00f0 frammi fyrir Gu\u00f0i, \u00fev\u00ed a\u00f0 Gu\u00f0 er \u00e1 himnum, en \u00fe\u00fa \u00e1 j\u00f6r\u00f0u, ver \u00fev\u00ed eigi margor\u00f0ur."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00dev\u00ed a\u00f0 draumar koma, \u00fear sem \u00e1hyggjurnar eru miklar, og heimskutal, \u00fear sem m\u00f6rg or\u00f0 eru vi\u00f0h\u00f6f\u00f0."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00deegar \u00fe\u00fa gj\u00f6rir Gu\u00f0i heit, \u00fe\u00e1 fresta \u00fe\u00fa eigi a\u00f0 efna \u00fea\u00f0, \u00fev\u00ed a\u00f0 hann hefir eigi vel\u00fe\u00f3knun \u00e1 heimskingjum. Efn \u00fea\u00f0 er \u00fe\u00fa heitir."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Betra er a\u00f0 \u00fe\u00fa heitir engu en a\u00f0 \u00fe\u00fa heitir og efnir ekki."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Leyf eigi munni \u00fe\u00ednum a\u00f0 baka l\u00edkama \u00fe\u00ednum sekt og seg eigi vi\u00f0 sendibo\u00f0ann: \u00dea\u00f0 var flj\u00f3tf\u00e6rni! Hvers vegna \u00e1 Gu\u00f0 a\u00f0 rei\u00f0ast tali \u00fe\u00ednu og skemma verk handa \u00feinna?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00dev\u00ed a\u00f0 \u00fear sem miki\u00f0 er um drauma og or\u00f0, \u00fear er og mikill h\u00e9g\u00f3mi. \u00d3ttastu heldur Gu\u00f0!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sj\u00e1ir \u00fe\u00fa hinn snau\u00f0a undiroka\u00f0an og a\u00f0 r\u00e9tti og r\u00e9ttl\u00e6ti er r\u00e6nt \u00ed h\u00e9ra\u00f0inu, \u00fe\u00e1 fur\u00f0a \u00fe\u00fa \u00feig ekki \u00e1 \u00fev\u00ed ath\u00e6fi, \u00fev\u00ed a\u00f0 h\u00e1r vakir yfir h\u00e1um og hinn h\u00e6sti yfir \u00feeim \u00f6llum."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Konungur, sem gefinn er fyrir jar\u00f0yrkju, er \u00ed alla sta\u00f0i \u00e1vinningur fyrir land."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "S\u00e1 sem elskar peninga, ver\u00f0ur aldrei saddur af peningum, og s\u00e1 sem elskar au\u00f0inn, hefir ekki gagn af honum. Einnig \u00fea\u00f0 er h\u00e9g\u00f3mi."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00dear sem eigurnar vaxa, \u00fear fj\u00f6lgar og \u00feeim er ey\u00f0a \u00feeim, og hva\u00f0a \u00e1bata hefir eigandinn af \u00feeim annan en a\u00f0 horfa \u00e1 \u00fe\u00e6r?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "S\u00e6tur er svefninn \u00feeim sem erfi\u00f0ar, hvort sem hann etur l\u00edti\u00f0 e\u00f0a miki\u00f0, en offylli hins au\u00f0uga l\u00e6tur hann eigi hafa fri\u00f0 til a\u00f0 sofa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Til er sl\u00e6mt b\u00f6l, sem \u00e9g hefi s\u00e9\u00f0 undir s\u00f3linni: au\u00f0ur sem eigandinn var\u00f0veitir sj\u00e1lfum s\u00e9r til \u00f3g\u00e6fu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Missist \u00feessi au\u00f0ur fyrir slys, og hafi eigandinn eignast son, \u00fe\u00e1 ver\u00f0ur ekkert til handa honum."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Eins og hann kom af m\u00f3\u00f0url\u00edfi, svo mun hann nakinn fara burt aftur eins og hann kom, og hann mun ekkert \u00e1 burt hafa fyrir strit sitt, \u00fea\u00f0 er hann taki me\u00f0 s\u00e9r \u00ed hendi s\u00e9r."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Einnig \u00fea\u00f0 er sl\u00e6mt b\u00f6l: Me\u00f0 \u00f6llu svo sem hann kom mun hann aftur fara, og hva\u00f0a \u00e1vinning hefir hann af \u00fev\u00ed, a\u00f0 hann stritar \u00fat \u00ed ve\u00f0ur og vind?"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Auk \u00feess elur hann allan aldur sinn \u00ed myrkri og vi\u00f0 sorg og mikla gremju og \u00fej\u00e1ning og rei\u00f0i."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Sj\u00e1, \u00fea\u00f0 sem \u00e9g hefi s\u00e9\u00f0, a\u00f0 er gott og fagurt, \u00fea\u00f0 er, a\u00f0 ma\u00f0urinn eti og drekki og nj\u00f3ti fagna\u00f0ar af \u00f6llu striti s\u00ednu, \u00fev\u00ed er hann streitist vi\u00f0 undir s\u00f3linni alla \u00e6vidaga s\u00edna, \u00fe\u00e1 er Gu\u00f0 gefur honum, \u00fev\u00ed a\u00f0 \u00fea\u00f0 er hlutdeild hans."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Og \u00feegar Gu\u00f0 gefur einhverjum manni r\u00edkid\u00e6mi og au\u00f0\u00e6fi og gj\u00f6rir hann f\u00e6ran um a\u00f0 nj\u00f3ta \u00feess og taka hlutdeild s\u00edna og a\u00f0 gle\u00f0jast yfir starfi s\u00ednu, \u00fe\u00e1 er og \u00fea\u00f0 Gu\u00f0s gj\u00f6f."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00dev\u00ed a\u00f0 sl\u00edkur ma\u00f0ur hugsar ekki miki\u00f0 um \u00e6vidaga l\u00edfs s\u00edns, me\u00f0an Gu\u00f0 l\u00e6tur hann hafa n\u00f3g a\u00f0 s\u00fdsla vi\u00f0 f\u00f6gnu\u00f0 hjarta s\u00edns."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Til er b\u00f6l, sem \u00e9g hefi s\u00e9\u00f0 undir s\u00f3linni, og \u00fea\u00f0 liggur \u00feungt \u00e1 m\u00f6nnunum:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00deegar Gu\u00f0 gefur einhverjum manni r\u00edkid\u00e6mi, au\u00f0\u00e6fi og hei\u00f0ur, svo a\u00f0 hann skortir ekkert af \u00fev\u00ed er hann girnist, en Gu\u00f0 gj\u00f6rir hann ekki f\u00e6ran um a\u00f0 nj\u00f3ta \u00feess, heldur n\u00fdtur annar ma\u00f0ur \u00feess _ \u00fea\u00f0 er h\u00e9g\u00f3mi og vond \u00fej\u00e1ning."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00de\u00f3tt einhver eigna\u00f0ist hundra\u00f0 b\u00f6rn og lif\u00f0i m\u00f6rg \u00e1r, og \u00e6vidagar hans yr\u00f0u margir, en s\u00e1l hans metta\u00f0ist ekki af g\u00e6\u00f0um og hann fengi heldur enga greftrun, \u00fe\u00e1 segi \u00e9g: \u00d3t\u00edmabur\u00f0urinn er s\u00e6lli en hann."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00dev\u00ed a\u00f0 hann er kominn \u00ed h\u00e9g\u00f3ma og fer burt \u00ed myrkur, og nafn hans er myrkri huli\u00f0."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hann hefir ekki heldur s\u00e9\u00f0 s\u00f3lina n\u00e9 \u00feekkt hana, hann hefir meiri r\u00f3 en hinn."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Og \u00fe\u00f3tt hann lifi tvenn \u00fe\u00fasund \u00e1r, en nj\u00f3ti einskis fagna\u00f0ar, fer ekki allt s\u00f6mu lei\u00f0ina?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Allt strit mannsins er fyrir munn hans, og \u00fe\u00f3 se\u00f0st girndin aldrei."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00dev\u00ed a\u00f0 hva\u00f0a yfirbur\u00f0i hefir spekingurinn fram yfir heimskingjann? hva\u00f0a yfirbur\u00f0i hinn snau\u00f0i, er kann a\u00f0 ganga frammi fyrir \u00feeim sem lifa?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Betri er sj\u00f3n augnanna en reik girndarinnar. Einnig \u00fea\u00f0 er h\u00e9g\u00f3mi og eftirs\u00f3kn eftir vindi."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00dea\u00f0 sem vi\u00f0 ber, hefir fyrir l\u00f6ngu hloti\u00f0 nafn sitt, og \u00fea\u00f0 er \u00e1kve\u00f0i\u00f0, hva\u00f0 menn eiga a\u00f0 ver\u00f0a, og ma\u00f0urinn getur ekki deilt vi\u00f0 \u00feann sem honum er m\u00e1ttkari."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Og \u00fe\u00f3tt til s\u00e9u m\u00f6rg or\u00f0, sem auka h\u00e9g\u00f3mann _ hva\u00f0 er ma\u00f0urinn a\u00f0 b\u00e6ttari?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00dev\u00ed a\u00f0 hver veit, hva\u00f0 gott er fyrir manninn \u00ed l\u00edfinu, alla daga hans f\u00e1n\u00fdta l\u00edfs, er hann lifir sem skuggi? \u00dev\u00ed a\u00f0 hver segir manninum, hva\u00f0 bera muni vi\u00f0 eftir hans dag undir s\u00f3linni?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Betra er gott mannor\u00f0 en g\u00f3\u00f0 ilmsmyrsl og dau\u00f0adagur betri en f\u00e6\u00f0ingardagur."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Betra er a\u00f0 ganga \u00ed sorgarh\u00fas en a\u00f0 ganga \u00ed veislusal, \u00fev\u00ed a\u00f0 \u00fea\u00f0 eru endalok s\u00e9rhvers manns, og s\u00e1 sem lifir, hugfestir \u00fea\u00f0."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Betri er hrygg\u00f0 en hl\u00e1tur, \u00fev\u00ed a\u00f0 \u00feegar andliti\u00f0 er dapurt, l\u00ed\u00f0ur hjartanu vel."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hjarta spekinganna er \u00ed sorgarh\u00fasi, en hjarta heimskingjanna \u00ed gle\u00f0ih\u00fasi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Betra er a\u00f0 hl\u00fd\u00f0a \u00e1 \u00e1v\u00edtur viturs manns en \u00e1 s\u00f6ng heimskra manna."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00dev\u00ed a\u00f0 hl\u00e1tur heimskingjans er eins og \u00feegar snarkar \u00ed \u00feyrnum undir potti. Einnig \u00fea\u00f0 er h\u00e9g\u00f3mi."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "K\u00fagun gj\u00f6rir vitran mann a\u00f0 heimskingja, og m\u00fatur spilla hjartanu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Betri er endir m\u00e1ls en upphaf, betri er \u00feolinm\u00f3\u00f0ur ma\u00f0ur en \u00fe\u00f3ttafullur."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ver \u00fe\u00fa eigi flj\u00f3tur til a\u00f0 l\u00e1ta \u00fe\u00e9r gremjast, \u00fev\u00ed a\u00f0 gremja hv\u00edlir \u00ed brj\u00f3sti heimskra manna."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Seg ekki: Hvernig stendur \u00e1 \u00fev\u00ed, a\u00f0 hinir fyrri dagar voru betri en \u00feessir? \u00dev\u00ed a\u00f0 eigi er \u00fea\u00f0 af skynsemi, a\u00f0 \u00fe\u00fa spyr um \u00fea\u00f0."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Speki er eins g\u00f3\u00f0 og \u00f3\u00f0al, og \u00e1vinningur fyrir \u00fe\u00e1 sem s\u00f3lina l\u00edta."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00dev\u00ed a\u00f0 spekin veitir fors\u00e6lu eins og silfri\u00f0 veitir fors\u00e6lu, en yfirbur\u00f0ir \u00feekkingarinnar eru \u00feeir, a\u00f0 spekin heldur l\u00edfinu \u00ed \u00feeim sem hana \u00e1."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sko\u00f0a \u00fe\u00fa verk Gu\u00f0s. Hver getur gj\u00f6rt \u00fea\u00f0 beint, er hann hefir gj\u00f6rt bogi\u00f0?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ver \u00fe\u00fa \u00ed g\u00f3\u00f0u skapi \u00e1 hinum g\u00f3\u00f0a degi, og huglei\u00f0 \u00feetta \u00e1 hinum vonda degi: Gu\u00f0 hefir gj\u00f6rt \u00feennan alveg eins og hinn, til \u00feess a\u00f0 ma\u00f0urinn ver\u00f0i einskis v\u00edsari um \u00fea\u00f0 sem s\u00ed\u00f0ar kemur."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Allt hefi \u00e9g s\u00e9\u00f0 \u00e1 m\u00ednum f\u00e1n\u00fdtu \u00e6vid\u00f6gum: Margur r\u00e9ttl\u00e1tur ma\u00f0ur ferst \u00ed r\u00e9ttl\u00e6ti s\u00ednu, og margur gu\u00f0laus ma\u00f0ur lifir lengi \u00ed illsku sinni."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ver \u00fe\u00fa ekki of r\u00e9ttl\u00e1tur og s\u00fdn \u00feig ekki fr\u00e1b\u00e6rlega vitran _ hv\u00ed vilt \u00fe\u00fa tort\u00edma sj\u00e1lfum \u00fe\u00e9r?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Breyttu eigi of \u00f3gu\u00f0lega og ver \u00fe\u00fa eigi heimskingi _ hv\u00ed vilt \u00fe\u00fa deyja \u00e1\u00f0ur en \u00feinn t\u00edmi er kominn?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00dea\u00f0 er gott, a\u00f0 \u00fe\u00fa s\u00e9rt fastheldinn vi\u00f0 \u00feetta, en sleppir \u00fe\u00f3 ekki hendinni af hinu, \u00fev\u00ed a\u00f0 s\u00e1 sem \u00f3ttast Gu\u00f0, kemst hj\u00e1 \u00fev\u00ed \u00f6llu."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Spekin veitir vitrum manni meiri kraft en t\u00edu valdhafar, sem eru \u00ed borginni."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Enginn r\u00e9ttl\u00e1tur ma\u00f0ur er til \u00e1 j\u00f6r\u00f0inni, er gj\u00f6rt hafi gott eitt og aldrei syndga\u00f0."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Gef \u00fe\u00fa heldur ekki gaum \u00f6llum \u00feeim or\u00f0um sem t\u00f6lu\u00f0 eru, til \u00feess a\u00f0 \u00fe\u00fa heyrir eigi \u00fej\u00f3n \u00feinn b\u00f6lva \u00fe\u00e9r."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00dev\u00ed a\u00f0 \u00fe\u00fa ert \u00fe\u00e9r \u00feess me\u00f0vitandi, a\u00f0 \u00fe\u00fa hefir og sj\u00e1lfur oftsinnis b\u00f6lva\u00f0 \u00f6\u00f0rum."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Allt \u00feetta hefi \u00e9g rannsaka\u00f0 me\u00f0 speki. \u00c9g hugsa\u00f0i: \u00c9g vil ver\u00f0a vitur, en spekin er fjarl\u00e6g m\u00e9r."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Fjarl\u00e6gt er \u00fea\u00f0, sem er, og dj\u00fapt, j\u00e1 dj\u00fapt. Hver getur fundi\u00f0 \u00fea\u00f0?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u00c9g sneri m\u00e9r og beindi huga m\u00ednum a\u00f0 \u00fev\u00ed a\u00f0 \u00feekkja og rannsaka og leita visku og hygginda og a\u00f0 gera m\u00e9r lj\u00f3st, a\u00f0 gu\u00f0leysi er heimska og heimska vitleysa."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Og \u00e9g fann a\u00f0 konan er bitrari en dau\u00f0inn, \u00fev\u00ed a\u00f0 h\u00fan er net og hjarta hennar snara, hendur hennar fj\u00f6trar. S\u00e1 sem Gu\u00f0i \u00fe\u00f3knast, kemst undan henni, en syndarinn ver\u00f0ur fanginn af henni."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Sj\u00e1, \u00feetta hefi \u00e9g fundi\u00f0, segir pr\u00e9dikarinn, me\u00f0 \u00fev\u00ed a\u00f0 leggja eitt vi\u00f0 anna\u00f0 til \u00feess a\u00f0 komast a\u00f0 hyggindum."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "\u00dea\u00f0 sem \u00e9g hefi st\u00f6\u00f0ugt leita\u00f0 a\u00f0, en ekki fundi\u00f0, \u00fea\u00f0 er \u00feetta: Einn mann af \u00fe\u00fasundi hefi \u00e9g fundi\u00f0, en konu \u00e1 me\u00f0al allra \u00feessara hefi \u00e9g ekki fundi\u00f0."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Sj\u00e1, \u00feetta eitt hefi \u00e9g fundi\u00f0, a\u00f0 Gu\u00f0 hefir skapa\u00f0 manninn beinan, en \u00feeir leita margra brag\u00f0a."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hver er sem spekingurinn og hver skilur \u00fe\u00fd\u00f0ingu hlutanna? Speki mannsins h\u00fdrgar andlit hans, og harkan \u00ed svipnum breytist."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00c9g segi: Var\u00f0veit \u00fe\u00fa bo\u00f0 konungsins, og \u00fea\u00f0 vegna ei\u00f0sins vi\u00f0 Gu\u00f0."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ver \u00fe\u00fa eigi flj\u00f3tur til a\u00f0 ganga burt fr\u00e1 honum, gef \u00feig eigi vi\u00f0 illu m\u00e1lefni. \u00dev\u00ed a\u00f0 hann gj\u00f6rir allt, sem hann vill,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "af \u00fev\u00ed a\u00f0 konungsor\u00f0 er m\u00e1ttugt, og hver segir vi\u00f0 hann: Hva\u00f0 gj\u00f6rir \u00fe\u00fa?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "S\u00e1 sem var\u00f0veitir skipunina, mun ekki kenna \u00e1 neinu illu, og hjarta viturs manns \u00feekkir t\u00edma og d\u00f3m."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00dev\u00ed a\u00f0 s\u00e9rhvert fyrirt\u00e6ki \u00e1 sinn t\u00edma og d\u00f3m, \u00fev\u00ed a\u00f0 b\u00f6l mannsins hv\u00edlir \u00feungt \u00e1 honum."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hann veit ekki, hva\u00f0 ver\u00f0a muni, \u00fev\u00ed a\u00f0 hver segir honum, hvernig \u00fea\u00f0 muni ver\u00f0a?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Enginn ma\u00f0ur r\u00e6\u00f0ur yfir vindinum, svo a\u00f0 hann geti st\u00f6\u00f0va\u00f0 vindinn, og enginn ma\u00f0ur hefir vald yfir dau\u00f0adeginum, og enginn f\u00e6r sig lausan \u00far bardaganum, og \u00f3h\u00e6fan bjargar ekki \u00feeim, er hana fremur."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Allt \u00feetta hefi \u00e9g s\u00e9\u00f0, og \u00fea\u00f0 me\u00f0 \u00fev\u00ed a\u00f0 \u00e9g veitti athygli \u00f6llu \u00fev\u00ed, sem gj\u00f6rist undir s\u00f3linni, \u00feegar einn ma\u00f0urinn drottnar yfir \u00f6\u00f0rum honum til \u00f3g\u00e6fu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00de\u00e1 hefi \u00e9g s\u00e9\u00f0 \u00f3gu\u00f0lega menn jar\u00f0a\u00f0a, en \u00feeir er gj\u00f6rt h\u00f6f\u00f0u \u00fea\u00f0 sem r\u00e9tt var, m\u00e1ttu fara burt fr\u00e1 hinum heilaga sta\u00f0 og gleymdust \u00ed borginni. Einnig \u00fea\u00f0 er h\u00e9g\u00f3mi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Af \u00fev\u00ed a\u00f0 d\u00f3mi yfir verkum illskunnar er ekki fulln\u00e6gt \u00feegar \u00ed sta\u00f0, \u00fe\u00e1 svellur m\u00f6nnum m\u00f3\u00f0ur til \u00feess a\u00f0 gj\u00f6ra \u00fea\u00f0 sem illt er."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Syndarinn gj\u00f6rir \u00fea\u00f0 sem illt er hundra\u00f0 sinnum og ver\u00f0ur samt gamall, \u00fe\u00f3tt \u00e9g hins vegar viti, a\u00f0 gu\u00f0hr\u00e6ddum m\u00f6nnum, er \u00f3ttast Gu\u00f0, muni vel vegna."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "En hinum gu\u00f0lausa mun ekki vel vegna, og hann mun ekki ver\u00f0a langl\u00edfur fremur en skugginn, af \u00fev\u00ed a\u00f0 hann \u00f3ttast ekki Gu\u00f0."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00dea\u00f0 er h\u00e9g\u00f3mi, sem gj\u00f6rist \u00e1 j\u00f6r\u00f0inni, a\u00f0 til eru r\u00e9ttl\u00e1tir menn, sem ver\u00f0a fyrir \u00fev\u00ed, er \u00f3gu\u00f0legir eiga skili\u00f0, og til eru \u00f3gu\u00f0legir menn, sem ver\u00f0a fyrir \u00fev\u00ed, er r\u00e9ttl\u00e1tir eiga skili\u00f0. \u00c9g sag\u00f0i: Einnig \u00fea\u00f0 er h\u00e9g\u00f3mi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Fyrir \u00fev\u00ed lofa\u00f0i \u00e9g gle\u00f0ina, \u00fev\u00ed a\u00f0 ekkert betra er til fyrir manninn undir s\u00f3linni en a\u00f0 eta og drekka og vera gla\u00f0ur. Og \u00fea\u00f0 fylgi honum \u00ed striti hans um \u00e6vidagana, sem Gu\u00f0 hefir gefi\u00f0 honum undir s\u00f3linni."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00deegar \u00e9g lag\u00f0i allan hug \u00e1 a\u00f0 kynna m\u00e9r speki og a\u00f0 sj\u00e1 \u00fea\u00f0 starf, sem frami\u00f0 er \u00e1 j\u00f6r\u00f0inni _ \u00fev\u00ed a\u00f0 hvorki dag n\u00e9 n\u00f3tt kemur manni blundur \u00e1 auga _"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00fe\u00e1 s\u00e1 \u00e9g, a\u00f0 ma\u00f0urinn getur ekki skili\u00f0 til fulls allt Gu\u00f0s verk, \u00fea\u00f0 verk sem gj\u00f6rist undir s\u00f3linni, \u00fev\u00ed a\u00f0 hversu mj\u00f6g sem ma\u00f0urinn gj\u00f6rir s\u00e9r far um a\u00f0 leita, f\u00e6r hann \u00fe\u00f3 ekki skili\u00f0 \u00fea\u00f0 til fulls, og enda \u00fe\u00f3tt spekingurinn hyggist a\u00f0 \u00feekkja \u00fea\u00f0, \u00fe\u00e1 f\u00e6r hann eigi skili\u00f0 \u00fea\u00f0 til fulls."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00d6llu \u00feessu veitti \u00e9g athygli, og allt \u00feetta reyndi \u00e9g a\u00f0 rannsaka: A\u00f0 hinir r\u00e9ttl\u00e1tu og vitru og verk \u00feeirra eru \u00ed hendi Gu\u00f0s. Hvorki elsku n\u00e9 hatur veit ma\u00f0urinn fyrir, allt liggur fram undan \u00feeim."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Allt getur alla hent, s\u00f6mu \u00f6rl\u00f6g m\u00e6ta r\u00e9ttl\u00e1tum og \u00f3gu\u00f0legum, g\u00f3\u00f0um og hreinum og \u00f3hreinum, \u00feeim er f\u00f3rnf\u00e6rir og \u00feeim er ekki f\u00f3rnf\u00e6rir. Hinum g\u00f3\u00f0a farnast eins og syndaranum, og \u00feeim er sver eins og \u00feeim er \u00f3ttast svardaga."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00dea\u00f0 er \u00f3kostur vi\u00f0 allt, sem vi\u00f0 ber undir s\u00f3linni, a\u00f0 s\u00f6mu \u00f6rl\u00f6g m\u00e6ta \u00f6llum, og \u00fev\u00ed fyllist hjarta mannanna illsku, og heimska r\u00edkir \u00ed hj\u00f6rtum \u00feeirra alla \u00e6vi \u00feeirra, og s\u00ed\u00f0an liggur lei\u00f0in til hinna dau\u00f0u."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00dev\u00ed a\u00f0 me\u00f0an ma\u00f0ur er sameina\u00f0ur \u00f6llum sem lifa, \u00e1 me\u00f0an er von, \u00fev\u00ed a\u00f0 lifandi hundur er betri en dautt lj\u00f3n."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00dev\u00ed a\u00f0 \u00feeir sem lifa, vita a\u00f0 \u00feeir eiga a\u00f0 deyja, en hinir dau\u00f0u vita ekki neitt og hlj\u00f3ta engin laun framar, \u00fev\u00ed a\u00f0 minning \u00feeirra gleymist."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "B\u00e6\u00f0i elska \u00feeirra og hatur og \u00f6fund, \u00fea\u00f0 er fyrir l\u00f6ngu fari\u00f0, og \u00feeir eiga aldrei framar hlutdeild \u00ed neinu \u00fev\u00ed, sem vi\u00f0 ber undir s\u00f3linni."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Far \u00fev\u00ed og et brau\u00f0 \u00feitt me\u00f0 \u00e1n\u00e6gju og drekk v\u00edn \u00feitt me\u00f0 gl\u00f6\u00f0u hjarta, \u00fev\u00ed a\u00f0 Gu\u00f0 hefir \u00feegar lengi haft vel\u00fe\u00f3knun \u00e1 verkum \u00fe\u00ednum."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kl\u00e6\u00f0i \u00fe\u00edn s\u00e9u \u00e6t\u00ed\u00f0 hv\u00edt og h\u00f6fu\u00f0 \u00feitt skorti aldrei ilmsmyrsl."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nj\u00f3t \u00fe\u00fa l\u00edfsins me\u00f0 \u00feeirri konu, sem \u00fe\u00fa elskar, alla daga \u00fe\u00edns f\u00e1n\u00fdta l\u00edfs, sem hann hefir gefi\u00f0 \u00fe\u00e9r undir s\u00f3linni, alla \u00fe\u00edna f\u00e1n\u00fdtu daga, \u00fev\u00ed a\u00f0 \u00fea\u00f0 er hlutdeild \u00fe\u00edn \u00ed l\u00edfinu og \u00fea\u00f0 sem \u00fe\u00fa f\u00e6r fyrir strit \u00feitt, sem \u00fe\u00fa streitist vi\u00f0 undir s\u00f3linni."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Allt, sem h\u00f6nd \u00fe\u00edn megnar a\u00f0 gj\u00f6ra me\u00f0 kr\u00f6ftum \u00fe\u00ednum, gj\u00f6r \u00fe\u00fa \u00fea\u00f0, \u00fev\u00ed a\u00f0 \u00ed d\u00e1narheimum, \u00feanga\u00f0 sem \u00fe\u00fa fer, er hvorki starfsemi n\u00e9 hyggindi n\u00e9 \u00feekking n\u00e9 viska."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Enn s\u00e1 \u00e9g undir s\u00f3linni, a\u00f0 hinir flj\u00f3tu r\u00e1\u00f0a ekki yfir hlaupinu, n\u00e9 kapparnir yfir str\u00ed\u00f0inu, n\u00e9 heldur spekingarnir yfir brau\u00f0inu, n\u00e9 hinir hyggnu yfir au\u00f0num, n\u00e9 vitsmunamennirnir yfir vins\u00e6ldinni, \u00fev\u00ed a\u00f0 t\u00edmi og tilviljun m\u00e6tir \u00feeim \u00f6llum."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00dev\u00ed a\u00f0 ma\u00f0urinn \u00feekkir ekki einu sinni sinn t\u00edma: Eins og fiskarnir festast \u00ed hinu h\u00e1skalega neti og eins og fuglarnir festast \u00ed sn\u00f6runni _ \u00e1 l\u00edkan h\u00e1tt ver\u00f0a mennirnir fangnir \u00e1 \u00f3heillat\u00ed\u00f0, \u00fe\u00e1 er h\u00fan kemur skyndilega yfir \u00fe\u00e1."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00deetta s\u00e1 \u00e9g einnig sem speki undir s\u00f3linni, og fannst m\u00e9r miki\u00f0 um:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Einu sinni var l\u00edtil borg og f\u00e1ir menn \u00ed henni. Voldugur konungur f\u00f3r \u00ed m\u00f3ti henni og settist um hana og reisti mikil hervirki gegn henni."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En \u00ed borginni var f\u00e1t\u00e6kur ma\u00f0ur, en vitur, og hann bjarga\u00f0i borginni me\u00f0 viturleik s\u00ednum. En enginn ma\u00f0ur minntist \u00feessa f\u00e1t\u00e6ka manns."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00de\u00e1 hugsa\u00f0i \u00e9g: Viska er betri en afl, en viska f\u00e1t\u00e6ks manns er fyrirlitin, og or\u00f0um hans er eigi gaumur gefinn."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Or\u00f0 viturra manna, sem hlusta\u00f0 er \u00e1 \u00ed r\u00f3, eru betri en \u00f3p valdhafans me\u00f0al heimskingjanna."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Viska er betri en hervopn, en einn syndari spillir m\u00f6rgu g\u00f3\u00f0u."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dau\u00f0ar flugur valda \u00f3daun me\u00f0 \u00fev\u00ed a\u00f0 hleypa \u00f3lgu \u00ed ol\u00edu smyrslarans. Ofurl\u00edtill aulaskapur er \u00feyngri \u00e1 metunum heldur en viska, heldur en s\u00f3mi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hjarta viturs manns stefnir \u00e1 heillabraut, en hjarta heimskingjans lei\u00f0ir hann \u00ed \u00f3g\u00e6fu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Og \u00feegar aulinn er kominn \u00fat \u00e1 veginn, brestur og \u00e1 viti\u00f0, og hann segir vi\u00f0 hvern mann, a\u00f0 hann s\u00e9 auli."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ef rei\u00f0i drottnarans r\u00eds \u00ed gegn \u00fe\u00e9r, \u00fe\u00e1 yfirgef ekki st\u00f6\u00f0u \u00fe\u00edna, \u00fev\u00ed a\u00f0 stilling afst\u00fdrir st\u00f3rum glappaskotum."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Til er b\u00f6l, sem \u00e9g hefi s\u00e9\u00f0 undir s\u00f3linni, nokkurs konar yfirsj\u00f3n af h\u00e1lfu valdhafans:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Heimskan er sett \u00ed h\u00e1u st\u00f6\u00f0urnar, en g\u00f6fugmennin sitja \u00ed ni\u00f0url\u00e6gingu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00c9g s\u00e1 \u00fer\u00e6la r\u00ed\u00f0andi hestum og h\u00f6f\u00f0ingja f\u00f3tgangandi eins og \u00fer\u00e6la."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "S\u00e1 sem grefur gr\u00f6f, getur falli\u00f0 \u00ed hana, og \u00feann sem r\u00edfur ni\u00f0ur vegg, getur h\u00f6ggormur biti\u00f0."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "S\u00e1 sem sprengir steina, getur meitt sig \u00e1 \u00feeim, s\u00e1 sem kl\u00fdfur vi\u00f0, getur me\u00f0 \u00fev\u00ed stofna\u00f0 s\u00e9r \u00ed h\u00e6ttu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ef \u00f6xin er or\u00f0in slj\u00f3 og eggin er ekki br\u00fdnd, \u00fe\u00e1 ver\u00f0ur ma\u00f0urinn a\u00f0 neyta \u00fev\u00ed meiri orku. \u00dea\u00f0 er \u00e1vinningur a\u00f0 undirb\u00faa s\u00e9rhva\u00f0 me\u00f0 hags\u00fdni."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ef h\u00f6ggormurinn b\u00edtur, af \u00fev\u00ed a\u00f0 s\u00e6ringar hafa veri\u00f0 vanr\u00e6ktar, \u00fe\u00e1 kemur s\u00e6ringama\u00f0urinn a\u00f0 engu li\u00f0i."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Or\u00f0 af munni viturs manns eru yndisleg, en varir heimskingjans vinna honum tj\u00f3n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Fyrstu or\u00f0in fram \u00far honum eru heimska, og endir r\u00e6\u00f0u hans er ill fl\u00f3nska."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Heimskinginn talar m\u00f6rg or\u00f0. Og \u00fe\u00f3 veit ma\u00f0urinn ekki, hva\u00f0 ver\u00f0a muni. Og hva\u00f0 ver\u00f0a muni eftir hans dag _ hver segir honum \u00fea\u00f0?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Amstur heimskingjans \u00fereytir hann, hann ratar ekki veginn inn \u00ed borgina."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vei \u00fe\u00e9r, land, sem hefir dreng a\u00f0 konungi og h\u00f6f\u00f0ingjar \u00fe\u00ednir setjast a\u00f0 \u00e1ti a\u00f0 morgni dags!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "S\u00e6lt ert \u00fe\u00fa, land, sem hefir e\u00f0alborinn mann a\u00f0 konungi og h\u00f6f\u00f0ingjar \u00fe\u00ednir eta \u00e1 r\u00e9ttum t\u00edma, s\u00e9r til styrkingar, en ekki til \u00feess a\u00f0 ver\u00f0a drukknir."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Fyrir leti s\u00edga bj\u00e1lkarnir ni\u00f0ur, og vegna i\u00f0julausra handa lekur h\u00fasi\u00f0."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Til gle\u00f0skapar b\u00faa menn m\u00e1lt\u00ed\u00f0ir, og v\u00edn gj\u00f6rir l\u00edfi\u00f0 skemmtilegt og peningarnir veita allt."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Form\u00e6l ekki konunginum, jafnvel ekki \u00ed huga \u00fe\u00ednum, og form\u00e6l ekki r\u00edkum manni \u00ed svefnherbergjum \u00fe\u00ednum, \u00fev\u00ed a\u00f0 fuglar loftsins kynnu a\u00f0 bera burt hlj\u00f3\u00f0i\u00f0 og hinir v\u00e6ngju\u00f0u a\u00f0 hafa or\u00f0in eftir."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Varpa \u00fe\u00fa brau\u00f0i \u00fe\u00ednu \u00fat \u00e1 vatni\u00f0, \u00fev\u00ed \u00feegar margir dagar eru um li\u00f0nir, munt \u00fe\u00fa finna \u00fea\u00f0 aftur."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Skiptu hlutanum sundur \u00ed sj\u00f6 e\u00f0a jafnvel \u00e1tta, \u00fev\u00ed a\u00f0 \u00fe\u00fa veist ekki, hva\u00f0a \u00f3g\u00e6fa muni koma yfir landi\u00f0."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00deegar sk\u00fdin eru or\u00f0in full af vatni, hella \u00feau regni yfir j\u00f6r\u00f0ina. Og \u00feegar tr\u00e9 fellur til su\u00f0urs e\u00f0a nor\u00f0urs _ \u00e1 \u00feeim sta\u00f0, \u00fear sem tr\u00e9\u00f0 fellur, \u00fear liggur \u00fea\u00f0 kyrrt."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "S\u00e1 sem s\u00edfellt g\u00e1ir a\u00f0 vindinum, s\u00e1ir ekki, og s\u00e1 sem s\u00edfellt horfir \u00e1 sk\u00fdin, uppsker ekki."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Eins og \u00fe\u00fa veist ekki, hva\u00f0a veg vindurinn fer og hvernig beinin myndast \u00ed m\u00f3\u00f0urkvi\u00f0i \u00feunga\u00f0rar konu, eins \u00feekkir \u00fe\u00fa heldur ekki verk Gu\u00f0s, sem allt gj\u00f6rir."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "S\u00e1 s\u00e6\u00f0i \u00fe\u00ednu a\u00f0 morgni og l\u00e1t hendur \u00fe\u00ednar eigi hv\u00edlast a\u00f0 kveldi, \u00fev\u00ed a\u00f0 \u00fe\u00fa veist ekki, hva\u00f0 muni heppnast, \u00feetta e\u00f0a hitt, e\u00f0a hvort tveggja ver\u00f0i gott."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ind\u00e6lt er lj\u00f3si\u00f0, og lj\u00faft er fyrir augun a\u00f0 horfa \u00e1 s\u00f3lina."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00dev\u00ed lifi ma\u00f0urinn m\u00f6rg \u00e1r, \u00fe\u00e1 \u00e1 hann a\u00f0 vera gla\u00f0ur \u00f6ll \u00feau \u00e1r og minnast \u00feess, a\u00f0 dagar myrkursins ver\u00f0a margir. Allt sem \u00e1 eftir kemur er h\u00e9g\u00f3mi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Gle\u00f0 \u00feig, ungi ma\u00f0ur, \u00ed \u00e6sku \u00feinni, og l\u00e1t liggja vel \u00e1 \u00fe\u00e9r unglings\u00e1r \u00fe\u00edn, og breyt \u00fe\u00fa eins og hjarta\u00f0 lei\u00f0ir \u00feig og eins og augun girnast, en vit, a\u00f0 fyrir allt \u00feetta lei\u00f0ir Gu\u00f0 \u00feig fyrir d\u00f3m."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Og hrind gremju burt fr\u00e1 hjarta \u00fe\u00ednu og l\u00e1t eigi b\u00f6l koma n\u00e6rri l\u00edkama \u00fe\u00ednum, \u00fev\u00ed a\u00f0 \u00e6ska og morgunro\u00f0i l\u00edfsins eru hverful."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Og mundu eftir skapara \u00fe\u00ednum \u00e1 unglings\u00e1rum \u00fe\u00ednum, \u00e1\u00f0ur en vondu dagarnir koma og \u00feau \u00e1rin n\u00e1lgast, er \u00fe\u00fa segir um: &#34;M\u00e9r l\u00edka \u00feau ekki&#34; _"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00e1\u00f0ur en s\u00f3lin myrkvast og lj\u00f3si\u00f0 og tungli\u00f0 og stj\u00f6rnurnar, og \u00e1\u00f0ur en sk\u00fdin koma aftur eftir regni\u00f0 _"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00fe\u00e1 er \u00feeir skj\u00e1lfa, sem h\u00fassins geyma, og sterku mennirnir ver\u00f0a bognir og kvarnarst\u00falkurnar hafast ekki a\u00f0, af \u00fev\u00ed a\u00f0 \u00fe\u00e6r eru or\u00f0nar f\u00e1ar, og dimmt er or\u00f0i\u00f0 hj\u00e1 \u00feeim, sem l\u00edta \u00fat um gluggana,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "og dyrunum \u00fat a\u00f0 g\u00f6tunni er loka\u00f0, og h\u00e1va\u00f0inn \u00ed kv\u00f6rninni minnkar, og menn fara \u00e1 f\u00e6tur vi\u00f0 fuglskvak, en allir s\u00f6ngvarnir ver\u00f0a l\u00e1gv\u00e6rir,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00fe\u00e1 menn eru hr\u00e6ddir vi\u00f0 h\u00e6\u00f0ir og sj\u00e1 skelfingar \u00e1 veginum, og \u00feegar m\u00f6ndlutr\u00e9\u00f0 stendur \u00ed bl\u00f3ma og engispretturnar dragast \u00e1fram og kaper-ber hr\u00edfa ekki lengur, \u00fev\u00ed a\u00f0 ma\u00f0urinn fer burt til s\u00edns eil\u00edf\u00f0ar-h\u00fass og gr\u00e1tendurnir ganga um str\u00e6ti\u00f0 _"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00e1\u00f0ur en silfur\u00fer\u00e1\u00f0urinn slitnar og gullsk\u00e1lin brotnar og skj\u00f3lan m\u00f6lvast vi\u00f0 lindina og hj\u00f3li\u00f0 brotnar vi\u00f0 brunninn"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "og moldin hverfur aftur til jar\u00f0arinnar, \u00fear sem h\u00fan \u00e1\u00f0ur var, og andinn til Gu\u00f0s, sem gaf hann."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Aumasti h\u00e9g\u00f3mi, segir pr\u00e9dikarinn, allt er h\u00e9g\u00f3mi!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "En auk \u00feess sem pr\u00e9dikarinn var spekingur, mi\u00f0la\u00f0i hann og m\u00f6nnum \u00feekkingu og rannsaka\u00f0i og kynnti s\u00e9r og samdi m\u00f6rg spakm\u00e6li."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Pr\u00e9dikarinn leita\u00f0ist vi\u00f0 a\u00f0 finna f\u00f6gur or\u00f0, og \u00fea\u00f0 sem hann hefir skrifa\u00f0 \u00ed einl\u00e6gni, eru sannleiksor\u00f0."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Or\u00f0 spekinganna eru eins og broddar og kjarnyr\u00f0in eins og fastreknir naglar _ \u00feau eru gefin af einum hir\u00f0i."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Og enn fremur, sonur minn, \u00fe\u00fd\u00f0stu vi\u00f0varanir. A\u00f0 taka saman margar b\u00e6kur, \u00e1 \u00fev\u00ed er enginn endir, og mikil b\u00f3ki\u00f0n \u00fereytir l\u00edkamann."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "V\u00e9r skulum hl\u00fd\u00f0a \u00e1 ni\u00f0urlagsor\u00f0i\u00f0 \u00ed \u00fev\u00ed \u00f6llu: \u00d3ttastu Gu\u00f0 og haltu hans bo\u00f0or\u00f0, \u00fev\u00ed a\u00f0 \u00fea\u00f0 \u00e1 hver ma\u00f0ur a\u00f0 gj\u00f6ra."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        }
+    }
+}

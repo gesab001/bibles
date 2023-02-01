@@ -1,0 +1,921 @@
+{
+    "version": "SEB",
+    "book_name": "Zechariah",
+    "book_nr": "38",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V \u00f4smom mesiaci druh\u00e9ho roku D\u00e1riovej vl\u00e1dy zaznelo slovo Hospodina k prorokovi Zachari\u00e1\u0161ovi, synovi Berechju, Iddovho syna, takto"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201eHospodin sa ve\u013emi hnev\u00e1 na va\u0161ich otcov."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Povedz im teda: Takto hovor\u00ed Hospodin z\u00e1stupov: \u201aVr\u00e1\u0165te sa ku mne,\u2018 znie v\u00fdrok Hospodina z\u00e1stupov, \u201aa ja sa vr\u00e1tim k v\u00e1m,\u2018 hovor\u00ed Hospodin z\u00e1stupov."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u201aNebu\u010fte ako va\u0161i otcovia, ku ktor\u00fdm volali skor\u0161\u00ed proroci: Takto hovor\u00ed Hospodin z\u00e1stupov: \u00bbOdvr\u00e1\u0165te sa teda od svojich zl\u00fdch ciest a od svojich zl\u00fdch skutkov;\u00ab no nepo\u010d\u00favali a nev\u0161\u00edmali si ma,\u2018 znie v\u00fdrok Hospodina"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u201aa va\u0161i otcovia, kde s\u00fa? A proroci, vari bud\u00fa \u017ei\u0165 ve\u010dne?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A \u010di moje slov\u00e1 a ustanovenia, ktor\u00e9 som nariadil svojim sluhom prorokom, nezasiahli va\u0161ich otcov?\u2018 Vtedy sa obr\u00e1tili a vraveli: \u201aAko sa Hospodin z\u00e1stupov rozhodol, \u010do s nami urob\u00ed pod\u013ea na\u0161ich ciest a skutkov, tak s nami aj urobil.\u2018\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "V dvadsiatom \u0161tvrtom dni jeden\u00e1steho mesiaca, mesiaca \u0161eb\u00e1t, v druhom roku D\u00e1ria zaznelo slovo Hospodina k prorokovi Zachari\u00e1\u0161ovi, synovi Berechju, Iddovho syna, takto"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Videl som v noci: H\u013ea, ktosi sedel na ry\u0161avom koni. St\u00e1l medzi myrtami v hlbine a za n\u00edm boli ry\u0161av\u00e9, plav\u00e9 a biele kone."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sp\u00fdtal som sa: \u201ePane, \u010do s\u00fa tieto veci?\u201c Odpovedal mi anjel, ktor\u00fd so mnou hovoril: \u201eJa ti uk\u00e1\u017eem, \u010do s\u00fa.\u201c"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mu\u017e, \u010do st\u00e1l medzi myrtami, odpovedal takto: \u201eTo s\u00fa t\u00ed, ktor\u00fdch Hospodin poslal prech\u00e1dza\u0165 zemou.\u201c"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hospodinovmu anjelovi, ktor\u00fd st\u00e1l medzi myrtami, odvetili: \u201ePrech\u00e1dzali sme zemou a videli sme, \u017ee cel\u00e1 zem je pokojn\u00e1.\u201c"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hospodinov anjel odpovedal takto: \u201eHospodin z\u00e1stupov, dokedy sa nechce\u0161 zmilova\u0165 nad Jeruzalemom a nad judsk\u00fdmi mestami, na ktor\u00e9 sa hnev\u00e1\u0161 u\u017e sedemdesiat rokov?\u201c"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hospodin odpovedal anjelovi, ktor\u00fd so mnou hovoril, dobr\u00e9 a pote\u0161uj\u00face slov\u00e1."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nato mi anjel, ktor\u00fd so mnou hovoril, povedal: \u201eOhlasuj, \u017ee takto hovor\u00ed Hospodin z\u00e1stupov: \u201aVe\u013emi horl\u00edm za Jeruzalem a za Sion"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "a ve\u013emi sa hnev\u00e1m na sebavedom\u00e9 n\u00e1rody, ktor\u00e9 napom\u00e1hali zlo, ke\u010f som sa iba trochu hneval.\u2018"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Preto takto hovor\u00ed Hospodin: \u201aObr\u00e1tim sa k Jeruzalemu s milosrdenstvom, bude v \u0148om vybudovan\u00fd m\u00f4j dom,\u2018 znie v\u00fdrok Hospodina z\u00e1stupov, \u201aa nad Jeruzalemom sa natiahne meracia \u0161n\u00fara.\u2018"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u010ealej hl\u00e1saj: Takto hovor\u00ed Hospodin z\u00e1stupov: \u201aMoje mest\u00e1 bud\u00fa e\u0161te opl\u00fdva\u0165 dobrom, Hospodin e\u0161te pote\u0161\u00ed Sion a op\u00e4\u0165 si vyvol\u00ed Jeruzalem.\u2018\u201c"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": ""
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": ""
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": ""
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": ""
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pozdvihol som zrak, pozrel som a videl som \u0161tyri rohy."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nato som sa sp\u00fdtal anjela, ktor\u00fd so mnou hovoril: \u201e\u010co je to?\u201c Odpovedal mi: \u201eTo s\u00fa rohy, ktor\u00e9 rozmetali Judsko, Izrael a Jeruzalem.\u201c"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Potom mi Hospodin uk\u00e1zal \u0161tyroch remeseln\u00edkov."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sp\u00fdtal som sa: \u201e\u010co sa t\u00edto chystaj\u00fa robi\u0165?\u201c Odpovedal mi: \u201eTie rohy s\u00fa t\u00ed, \u010do rozmetali Judsko, \u017ee nik nezdvihol hlavu, ale t\u00edto ich pri\u0161li zastra\u0161i\u0165 a zvrhn\u00fa\u0165 rohy n\u00e1rodov, \u010do zdvihli roh proti Judsku, aby ho rozmetali.\u201c"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pozdvihol som zrak, pozrel som a videl som mu\u017ea, \u010do dr\u017eal v ruke merac\u00ed povraz."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nato som sa sp\u00fdtal: \u201eA ty kam ide\u0161?\u201c Odpovedal mi: \u201ePremera\u0165 Jeruzalem, chcem vidie\u0165, ak\u00fd bude \u0161irok\u00fd a ak\u00fd dlh\u00fd.\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Potom vy\u0161iel anjel, ktor\u00fd so mnou hovoril, a in\u00fd anjel mu vy\u0161iel v \u00fastrety."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Povedal mu: \u201eBe\u017e a povedz tomu mlad\u00edkovi: \u201aJeruzalem sa zapln\u00ed a otvor\u00ed pre mno\u017estvo \u013eud\u00ed, aj zvierat\u00e1 bud\u00fa v \u0148om.\u2018"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A ja,\u201c znie v\u00fdrok Hospodina, \u201ebudem ohnivou hradbou okolo neho a sl\u00e1vou uprostred neho.\u201c"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201eBeda, beda! Utekajte zo severnej krajiny,\u201c znie v\u00fdrok Hospodina, \u201elebo som v\u00e1s rozpt\u00fdlil ako \u0161tyri nebesk\u00e9 vetry,\u201c znie v\u00fdrok Hospodina."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u201eBeda! Zachr\u00e1\u0148 sa Sion, ty, \u010do b\u00fdva\u0161 u babylonskej dc\u00e9ry!\u201c"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Lebo takto hovor\u00ed Hospodin z\u00e1stupov, ktor\u00fd ma na svoju sl\u00e1vu poslal k n\u00e1rodom, \u010do v\u00e1s vyplienili: \u201eKto sa v\u00e1s dotkne, dot\u00fdka sa zrenice m\u00f4jho oka."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "H\u013ea, za\u017eeniem sa na nich rukou a stan\u00fa sa koris\u0165ou svojich sluhov.\u201c Vtedy spozn\u00e1te, \u017ee ma poslal Hospodin z\u00e1stupov."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Potom mi uk\u00e1zal ve\u013ek\u0148aza Jo\u0161uu, ktor\u00fd st\u00e1l pred Hospodinov\u00fdm anjelom. Po jeho pravici st\u00e1l satan, aby na neho \u017ealoval."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hospodin povedal satanovi: \u201eNech \u0165a Hospodin pokarh\u00e1, satan! Nech \u0165a pokarh\u00e1 Hospodin, ktor\u00fd si vyvolil Jeruzalem! \u010ci on nie je obhorok, vytrhnut\u00fd z oh\u0148a?\u201c"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jo\u0161ua bol oble\u010den\u00fd v \u0161pinavom odeve a st\u00e1l pred anjelom."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "T\u00fdm, \u010do st\u00e1li pred n\u00edm, odvetil: \u201eVyzle\u010dte mu \u0161pinav\u00fd odev!\u201c Jemu povedal: \u201ePozri, s\u0148al som z teba tvoju vinu, aby som \u0165a obliekol do sl\u00e1vnostn\u00e9ho r\u00facha!\u201c"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Potom povedal: \u201ePolo\u017ete mu na hlavu \u010dist\u00fd turban!\u201c Vtedy mu polo\u017eili na hlavu \u010dist\u00fd turban a obliekli ho do \u0161iat; Hospodinov anjel pritom st\u00e1l."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hospodinov anjel prisved\u010dil Jo\u0161uovi"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u201eTakto hovor\u00ed Hospodin z\u00e1stupov:\n\u201aAk bude\u0161 kr\u00e1\u010da\u0165 po mojich cest\u00e1ch\na bude\u0161 zachov\u00e1va\u0165, \u010d\u00edm som \u0165a poveril,\naj ty bude\u0161 obhajova\u0165 m\u00f4j dom\na str\u00e1\u017ei\u0165 moje n\u00e1dvoria,\numo\u017en\u00edm ti pr\u00edstup medzi t\u00fdch, \u010do tu stoja."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Po\u010d\u00favaj teda, ve\u013ek\u0148az Jo\u0161ua, ty aj tvoji druhovia, \u010do sedia pred tebou, lebo t\u00edto mu\u017ei s\u00fa znamen\u00edm. Pozri, priv\u00e1dzam svojho sluhu, zvan\u00e9ho V\u00fdhonok."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "H\u013ea, tu je kame\u0148, ktor\u00fd som polo\u017eil pred Jo\u0161uu: jeden kame\u0148 a na \u0148om sedem o\u010d\u00ed. Ja vyryjem na\u0148 znak,\u2018 znie v\u00fdrok Hospodina z\u00e1stupov, \u201aa odstr\u00e1nim vinu tejto krajiny za jedin\u00fd de\u0148."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "V ten de\u0148,\u2018 znie v\u00fdrok Hospodina z\u00e1stupov, \u201anavz\u00e1jom sa bud\u00fa poz\u00fdva\u0165 pod vini\u010d a figovn\u00edk.\u2018\u201c"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Potom sa vr\u00e1til anjel, \u010do so mnou hovoril, a zobudil ma ako \u010dloveka, ktor\u00e9ho budia zo sna."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sp\u00fdtal sa ma: \u201e\u010co vid\u00ed\u0161?\u201c Odpovedal som: \u201eVid\u00edm svietnik cel\u00fd zo zlata s n\u00e1dobkou navrchu. Je na \u0148om sedem l\u00e1mp a sedem lievikov pre lampy hore."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pri \u0148om s\u00fa dve olivy, jedna napravo od n\u00e1dobky a druh\u00e1 na\u013eavo.\u201c"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Op\u00fdtal som sa a povedal som anjelovi, \u010do so mnou hovoril: \u201e\u010co je to, p\u00e1n m\u00f4j?\u201c"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Anjel, ktor\u00fd so mnou hovoril, mi odpovedal: \u201eNevie\u0161, \u010do to znamen\u00e1?\u201c Povedal som: \u201eNie, p\u00e1n m\u00f4j.\u201c"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Odvetil mi: \u201eTo je Hospodinovo slovo Zerubb\u00e1belovi: \u201aNie silou ani mocou, ale moj\u00edm duchom!\u2018 znie v\u00fdrok Hospodina z\u00e1stupov."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u201aKto si ty, ve\u013ek\u00fd vrch?\nPred Zerubb\u00e1belom bude\u0161 rovinou!\nOn vynesie hlavn\u00fd kame\u0148 za pokriku:\nMilos\u0165, milos\u0165 pre neho!\u2018\u201c"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Potom mi zaznelo slovo Hospodina"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201eZerubb\u00e1belove ruky zalo\u017eili tento dom, jeho ruky ho dokon\u010dia a spozn\u00e1\u0161, \u017ee ma k v\u00e1m poslal Hospodin z\u00e1stupov."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kto poh\u0155da d\u0148om mal\u00fdch za\u010diatkov? Zaraduj\u00fa sa, ke\u010f uvidia v Zerubb\u00e1belovej ruke kame\u0148 a olovnicu.\nT\u00fdch sedem, to s\u00fa Hospodinove o\u010di, \u010do prech\u00e1dzaj\u00fa celou zemou.\u201c"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nato som sa sp\u00fdtal: \u201e\u010co znamenaj\u00fa tie dve olivy napravo a na\u013eavo od svietnika?\u201c"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Aj druh\u00fdkr\u00e1t som sa ozval a op\u00fdtal som sa ho: \u201e\u010co znamenaj\u00fa dve olivov\u00e9 ratolesti, \u010do vypr\u00e1zd\u0148uj\u00fa zo seba zlato dvoma zlat\u00fdmi r\u00farkami?\u201c"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Odpovedal mi: \u201eNevie\u0161, \u010do je to?\u201c Povedal som: \u201eNie, p\u00e1n m\u00f4j.\u201c"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nato povedal: \u201eTo s\u00fa dvaja synovia pomazan\u00ed olejom, \u010do stoja pred P\u00e1nom celej zeme.\u201c"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Znovu som zodvihol zrak, pozrel som a videl som letiaci zvitok."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sp\u00fdtal sa ma: \u201e\u010co vid\u00ed\u0161?\u201c Odpovedal som: \u201eVid\u00edm letiaci zvitok, jeho d\u013a\u017eka je dvadsa\u0165 lak\u0165ov a \u0161\u00edrka desa\u0165 lak\u0165ov.\u201c"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Povedal mi: \u201eTo je kliatba, ktor\u00e1 vych\u00e1dza na cel\u00fa krajinu; ka\u017ed\u00fd zlodej a ka\u017ed\u00fd, kto krivo prisah\u00e1, \u0148ou bude odtia\u013eto odstr\u00e1nen\u00fd."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vyvediem ju,\u201c znie v\u00fdrok Hospodina z\u00e1stupov, \u201evojde do domu zlodeja a do domu toho, kto krivo prisah\u00e1 v mojom mene; usad\u00ed sa v jeho dome a \u00faplne ho zni\u010d\u00ed \u2014 jeho tr\u00e1my aj jeho kamene.\u201c"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Potom vy\u0161iel anjel, ktor\u00fd hovoril so mnou, a povedal mi: \u201eZodvihni zrak a pozri, \u010do to vych\u00e1dza!\u201c"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Sp\u00fdtal som sa: \u201e\u010co je to?\u201c Odpovedal: \u201eTo sa ukazuje efa.\u201c A pokra\u010doval: \u201eTo je zjav celej krajiny.\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vtom sa zdvihla oloven\u00e1 pokrievka a jedna \u017eena sedela uprostred efy."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Povedal: \u201eToto je bezbo\u017enos\u0165.\u201c Sotil ju do efy a jej otvor zakryl oloven\u00fdm poklopom."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Zodvihol som zrak, pozrel som a videl som prich\u00e1dza\u0165 dve \u017eeny: vietor im dv\u00edhal kr\u00eddla \u2014 mali toti\u017e kr\u00eddla podobn\u00e9 kr\u00eddlam bociana \u2014, zdvihli efu medzi zem a nebo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vtedy som sa sp\u00fdtal anjela, ktor\u00fd hovoril so mnou: \u201eKam ber\u00fa t\u00fa efu?\u201c"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Odpovedal mi: \u201eChc\u00fa jej postavi\u0165 dom v krajine \u0160in\u00e1r. Ke\u010f ho pripravia, tam ju polo\u017eia na jej podstavec.\u201c"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Znova som zodvihol zrak, pozrel som a videl som \u0161tyri vozy vystupova\u0165 spomedzi dvoch vrchov; vrchy boli bronzov\u00e9."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "V prvom voze boli ry\u0161av\u00e9 kone, v druhom \u010dierne"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "v tre\u0165om biele a vo \u0161tvrtom voze kone strakat\u00e9 a mocn\u00e9."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ozval som sa a sp\u00fdtal som sa anjela, ktor\u00fd hovoril so mnou: \u201e\u010co je to, p\u00e1n m\u00f4j?\u201c"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Anjel mi odvetil: \u201eTo s\u00fa \u0161tyri nebesk\u00e9 vetry, ktor\u00e9 vych\u00e1dzaj\u00fa z miesta, kde st\u00e1li pred P\u00e1nom celej zeme."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Voz s \u010diernymi ko\u0148mi ide do severnej krajiny, za nimi vych\u00e1dzaj\u00fa biele kone, strakat\u00e9 v\u0161ak id\u00fa do ju\u017enej krajiny.\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vy\u0161li mocn\u00e9 a usilovali sa prejs\u0165 kr\u00ed\u017eom-kr\u00e1\u017eom zem. Povedal: \u201eCho\u010fte, prejdite zemou!\u201c A tak pre\u0161li zem kr\u00ed\u017eom-kr\u00e1\u017eom."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Potom na m\u0148a zavolal a riekol mi: \u201ePozri sa, tie, \u010do id\u00fa do severnej krajiny, mi v severnej krajine upokoja ducha.\u201c"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Potom mi zaznelo slovo Hospodina"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201eVezmi od zajatcov, z pokolenia Cheldaja, Tobiju a Jedaju, \u010do pri\u0161li z Babylonu, a cho\u010f v ten ist\u00fd de\u0148 do domu Jo\u0161iju, syna Cefanju"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "a vezmi striebro a zlato. Urob korunu a polo\u017e ju na hlavu ve\u013ek\u0148aza Jo\u0161uu, syna Jocad\u00e1ka."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Povedz mu: \u201aTakto hovor\u00ed Hospodin z\u00e1stupov: Pozri, mu\u017e, ktor\u00e9ho meno je V\u00fdhonok, vyrastie na svojom mieste a vybuduje Hospodinov chr\u00e1m."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "On vybuduje Hospodinov chr\u00e1m, poctia ho sl\u00e1vou a bude sedie\u0165 a panova\u0165 na svojom tr\u00f3ne; k\u0148az bude pri jeho tr\u00f3ne a medzi oboma bude zhoda."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Koruna bude v Hospodinovom chr\u00e1me pamiatkou na Chelema, Tobiju, Jedaju a Ch\u00e9na, synov Cefanju."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Aj t\u00ed, \u010do s\u00fa vzdialen\u00ed, pr\u00eddu a bud\u00fa budova\u0165 Hospodinov chr\u00e1m.\u2018 A tak spozn\u00e1te, \u017ee ma k v\u00e1m poslal Hospodin z\u00e1stupov. Stane sa to, ak budete pozorne po\u010d\u00fava\u0165 hlas Hospodina, svojho Boha.\u201c"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vo \u0161tvrtom roku kr\u00e1\u013ea D\u00e1ria, na \u0161tvrt\u00fd de\u0148 deviateho mesiaca kisl\u00e9v, zaznelo slovo Hospodina Zachari\u00e1\u0161ovi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vtedy B\u00e9t-El poslal Sarecera, Regem-Melecha a jeho mu\u017eov uzmieri\u0165 Hospodina"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "a sp\u00fdta\u0165 sa k\u0148azov, ktor\u00ed s\u00fa pri dome Hospodina z\u00e1stupov, a prorokov: \u201eM\u00e1m plaka\u0165 a posti\u0165 sa v piatom mesiaci, ako som to robil u\u017e to\u013ek\u00e9 roky?\u201c"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nato mi zaznelo slovo Hospodina z\u00e1stupov"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u201ePovedz v\u0161etk\u00e9mu \u013eudu krajiny i k\u0148azom: \u201aKe\u010f sa post\u00edte a nariekate v piatom a siedmom mesiaci \u2014 a je to u\u017e sedemdesiat rokov \u2014, naozaj sa post\u00edte kv\u00f4li mne?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A ke\u010f jete a pijete, \u010di nie kv\u00f4li sebe jete a pijete?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u010ci to nie s\u00fa slov\u00e1, ktor\u00e9 ohlasoval Hospodin prostredn\u00edctvom d\u00e1vnych prorokov, ke\u010f bol Jeruzalem ob\u00fdvan\u00fd a \u017eil v pokoji, aj s okolit\u00fdmi mestami, a ke\u010f bol ob\u00fdvan\u00fd Negev aj N\u00ed\u017eina?\u2018\u201c"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Potom slovo Hospodina zaznelo Zachari\u00e1\u0161ovi"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201eTakto hovor\u00ed Hospodin z\u00e1stupov: \u201aNa s\u00fade spravodlivo s\u00fa\u010fte a preukazujte si navz\u00e1jom milosrdenstvo a l\u00e1skavos\u0165!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vdovy, siroty, cudzincov a chudobn\u00fdch neutl\u00e1\u010dajte a vo svojich srdciach nezm\u00fd\u0161\u013eajte zle jeden o druhom!\u2018\u201c"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nevenovali mu v\u0161ak pozornos\u0165, obr\u00e1tili sa chrbtom a zapchali si u\u0161i, aby nepo\u010duli."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Srdce si zatvrdili ako diamant a nepo\u010d\u00favali z\u00e1kon ani slov\u00e1, ktor\u00e9 im Hospodin z\u00e1stupov poslal prostredn\u00edctvom svojho ducha cez d\u00e1vnych prorokov. Preto ich postihol ve\u013ek\u00fd hnev Hospodina z\u00e1stupov."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ke\u010f volal, nepo\u010d\u00favali. \u201eTak nech si len volaj\u00fa, nebudem ich po\u010d\u00fava\u0165,\u201c hovor\u00ed Hospodin z\u00e1stupov."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u201eA rozpt\u00fdlil som ich medzi v\u0161etky n\u00e1rody, ktor\u00e9 nepoznali. Krajina po nich spustla tak, \u017ee u\u017e nechodili sem a tam. Takto urobili n\u00e1dhern\u00fa zem pustatinou.\u201c"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Potom mi zaznelo slovo Hospodina z\u00e1stupov"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Takto hovor\u00ed Hospodin z\u00e1stupov: \u201eVe\u013emi horl\u00edm za Sion, ve\u013ek\u00fdm hnevom za\u0148 horl\u00edm.\u201c"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Takto hovor\u00ed Hospodin: \u201eVr\u00e1tim sa na Sion a budem b\u00fdva\u0165 uprostred Jeruzalema. Vtedy sa Jeruzalem bude vola\u0165 Vern\u00e9 mesto a vrch Hospodina z\u00e1stupov Sv\u00e4t\u00fd vrch.\u201c"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Takto hovor\u00ed Hospodin z\u00e1stupov: \u201eE\u0161te bud\u00fa na uliciach Jeruzalema sedie\u0165 starci a starenky; ka\u017ed\u00fd s palicou v ruke pre svoj vysok\u00fd vek."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A ulice mesta bud\u00fa pln\u00e9 chlapcov a diev\u010dat hraj\u00facich sa na jeho uliciach.\u201c"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Takto hovor\u00ed Hospodin z\u00e1stupov: \u201eAk je to nemo\u017en\u00e9 v o\u010diach zvy\u0161ku tohto \u013eudu v jeho d\u0148och, vari to bude nemo\u017en\u00e9 aj v mojich o\u010diach?\u201c znie v\u00fdrok Hospodina z\u00e1stupov."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Takto hovor\u00ed Hospodin z\u00e1stupov: \u201eH\u013ea, ja zachr\u00e1nim svoj \u013eud z krajiny v\u00fdchodu a z krajiny z\u00e1padu slnka."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Privediem ho, tak\u017ee bude b\u00fdva\u0165 v Jeruzaleme. Bude moj\u00edm \u013eudom a ja budem jeho Bohom v pravde a spravodlivosti.\u201c"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Takto hovor\u00ed Hospodin z\u00e1stupov: \u201eNech spevnej\u00fa ruky v\u00e1s, \u010do v t\u00fdchto d\u0148och po\u010d\u00favate tieto slov\u00e1 z \u00fast prorokov, ktor\u00ed boli pri tom, ke\u010f sa kl\u00e1dol z\u00e1klad domu Hospodina z\u00e1stupov, aby sa postavil chr\u00e1m."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Lebo pred t\u00fdmi d\u0148ami nebola pl\u00e1ca pre \u010dloveka, nebolo ani \u017eiadne krmivo pre dobytok. Kto odch\u00e1dzal alebo prich\u00e1dzal, nemal pokoj od nepriate\u013eov: obr\u00e1til som v\u0161etk\u00fdch \u013eud\u00ed proti sebe."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Teraz v\u0161ak nebudem k zvy\u0161kom tohto \u013eudu tak\u00fd ako v predch\u00e1dzaj\u00facich d\u0148och,\u201c znie v\u00fdrok Hospodina z\u00e1stupov."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201eSemenom bude pokoj, vini\u010d prinesie ovocie, zem vyd\u00e1 svoju \u00farodu, nebes\u00e1 daj\u00fa svoju rosu a toto v\u0161etko d\u00e1m do dedi\u010dstva zvy\u0161ku tohto \u013eudu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ako ste boli kliatbou medzi n\u00e1rodmi, dom J\u00fadov a dom Izraelov, tak v\u00e1s vyslobod\u00edm a budete po\u017eehnan\u00edm. Nebojte sa, nech spevnej\u00fa va\u0161e ruky!\u201c"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Lebo takto hovor\u00ed Hospodin z\u00e1stupov: \u201eAko som zam\u00fd\u0161\u013eal robi\u0165 v\u00e1m zle, ke\u010f ma va\u0161i otcovia hnevali,\u201c hovor\u00ed Hospodin z\u00e1stupov, \u201ea nez\u013eutoval som sa"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "tak som si op\u00e4\u0165 v t\u00fdchto d\u0148och zaumienil robi\u0165 dobre Jeruzalemu a J\u00fadovmu domu. Nebojte sa!\u201c"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Toto s\u00fa pr\u00edkazy, ktor\u00e9 m\u00e1te zachov\u00e1va\u0165: \u201eHovorte ka\u017ed\u00fd pravdu svojmu bl\u00ed\u017enemu, vo svojich br\u00e1nach nasto\u013eujte pravdu, pr\u00e1vo a pokoj"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "nech nik nezm\u00fd\u0161\u013ea vo svojom srdci zle proti svojmu bl\u00ed\u017enemu a nemilujte kriv\u00fa pr\u00edsahu, lebo toto v\u0161etko s\u00fa veci, ktor\u00e9 nen\u00e1vid\u00edm,\u201c znie v\u00fdrok Hospodina."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Potom mi zaznelo slovo Hospodina z\u00e1stupov"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Takto hovor\u00ed Hospodin z\u00e1stupov: \u201eP\u00f4st \u0161tvrt\u00e9ho, p\u00f4st piateho, p\u00f4st siedmeho a p\u00f4st desiateho mesiaca bud\u00fa pre J\u00fadov dom d\u0148ami plesania, radosti a veselej oslavy. Preto milujte pravdu a pokoj!\u201c"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Takto hovor\u00ed Hospodin z\u00e1stupov: \u201eE\u0161te pr\u00eddu n\u00e1rody a obyvatelia ve\u013ek\u00fdch miest"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "a obyvatelia jedn\u00e9ho mesta p\u00f4jdu do druh\u00e9ho a povedia: \u201aPo\u010fme, vyberme sa uzmieri\u0165 Hospodinovu tv\u00e1r a h\u013eada\u0165 Hospodina z\u00e1stupov; p\u00f4jdem aj ja!\u2018"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "P\u00f4jdu mnoh\u00ed \u013eudia a mocn\u00e9 n\u00e1rody h\u013eada\u0165 Hospodina z\u00e1stupov do Jeruzalema a uzmieri\u0165 Hospodinovu tv\u00e1r.\u201c"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Takto hovor\u00ed Hospodin z\u00e1stupov: \u201eV t\u00fdch d\u0148och sa chop\u00ed desa\u0165 mu\u017eov z n\u00e1rodov v\u0161etk\u00fdch jazykov obruby odevu judsk\u00e9ho mu\u017ea, pevne ho uchopia a povedia: \u201aChceme \u00eds\u0165 s vami, lebo sme po\u010duli, \u017ee s vami je Boh.\u2018\u201c"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u00fdrok.\nSlovo Hospodina proti krajine Chadr\u00e1ch\na Damasku, jeho pr\u00edbytku,\nlebo Hospodinovi patr\u00ed hlavn\u00e9 mesto Aramu\na v\u0161etky izraelsk\u00e9 kmene."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Aj Cham\u00e1t s n\u00edm hrani\u010d\u00ed,\naj T\u00fdrus a Sidon, hoci s\u00fa ve\u013emi m\u00fadre."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "T\u00fdrus si postavil opevnenie,\nnakopil striebra s\u0165a prachu\na r\u00fddzeho zlata ako blata na uliciach."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "H\u013ea, P\u00e1n sa ho zmocn\u00ed,\nzraz\u00ed jeho bohatstvo do mora\na mesto pohlt\u00ed ohe\u0148."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A\u0161kal\u00f3n to uvid\u00ed a bude sa b\u00e1\u0165,\nGaza sa bude hrozne zv\u00edja\u0165,\naj Ekr\u00f3n, lebo jeho n\u00e1dej zv\u00e4dla;\nkr\u00e1\u013e Gazy zahynie\na A\u0161kal\u00f3n nebude ob\u00fdvan\u00fd."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u201eV A\u0161d\u00f3de bud\u00fa b\u00fdva\u0165 mie\u0161anci\na ukon\u010d\u00edm p\u00fdchu Fili\u0161t\u00edncov."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Odstr\u00e1nim z jeho \u00fast krv,\nspomedzi zubov ich ohavnosti.\u201c\nAj on zostane pre n\u00e1\u0161ho Boha\na bude ako vodca v Judsku\na Ekr\u00f3n ako Jeb\u00faseji."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u201eUt\u00e1bor\u00edm sa pred svoj\u00edm domom ako hliadka\npred t\u00fdmi, \u010do tiahnu sem a tam\na neobsad\u00ed ich u\u017e utl\u00e1\u010date\u013e,\nlebo teraz u\u017e ja s\u00e1m budem dozera\u0165.\u201c"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201eHlasne plesaj, dc\u00e9ra Siona,\nzvu\u010dne jasaj, dc\u00e9ra Jeruzalema.\nPozri, tvoj kr\u00e1\u013e prich\u00e1dza k tebe,\nje spravodliv\u00fd a prin\u00e1\u0161a v\u00ed\u0165azstvo,\nje pokorn\u00fd a jazd\u00ed na oslovi,\nna osliatku, ml\u00e1\u010fati oslice."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vyni\u010d\u00edm vozy z Efrajima\na kone z Jeruzalema,\nvytratia sa bojov\u00e9 ku\u0161e;\nbude hl\u00e1sa\u0165 pokoj n\u00e1rodom,\njeho vl\u00e1da siaha od mora a\u017e k moru\na od Rieky a\u017e do kon\u010d\u00edn zeme."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "A tebe pre krv tvojej zmluvy\nvyvediem zajatcov zo studne,\nv ktorej niet vody."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vr\u00e1\u0165te sa do pevnosti, zajatci n\u00e1deje;\ndnes oznamujem: \u201aDvojn\u00e1sobne ti odplat\u00edm.\u2018"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Lebo si natiahnem J\u00fadu ako luk,\nEfrajima vlo\u017e\u00edm do\u0148 ako \u0161\u00edp;\npovzbud\u00edm tvojich synov, Sion,\nproti tvojim synom, Jav\u00e1n,\nurob\u00edm \u0165a podobn\u00fdm hrdinsk\u00e9mu me\u010du.\u201c"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hospodin sa zjav\u00ed nad nimi,\njeho \u0161\u00edp vyraz\u00ed s\u0165a blesk,\nP\u00e1n, Hospodin, zatr\u00fabi na roh,\nbude postupova\u0165 v ju\u017en\u00fdch v\u00edchroch."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hospodin z\u00e1stupov bude \u0161t\u00edtom nad nimi,\nzhltn\u00fa kamene z praku, bud\u00fa po nich \u0161liapa\u0165,\nbud\u00fa pi\u0165 krv ako v\u00edno\na naplnia sa ako kropeni\u010dka a ako rohy olt\u00e1ra."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "V ten de\u0148 ich zachr\u00e1ni Hospodin, ich Boh,\nako st\u00e1do svojho \u013eudu,\nlebo bud\u00fa ako drahokamy \u010delenky,\n\u017eiariace nad jeho zemou."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ve\u010f \u010do je jeho \u0161\u0165astie a \u010do jeho kr\u00e1sa?\nObilie prospeje mlad\u00edkom a mu\u0161t pann\u00e1m."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Proste Hospodina o d\u00e1\u017e\u010f\nv \u010dase jarn\u00e9ho da\u017e\u010fa!\nHospodin utv\u00e1ra b\u00farkov\u00e9 mra\u010dn\u00e1,\nd\u00e1va do nich v\u00fddatn\u00fd d\u00e1\u017e\u010f\na ka\u017ed\u00e9mu tr\u00e1vu na poli."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Lebo b\u00f4\u017eikovia hovorili nezmysly,\nve\u0161tci videli klamstv\u00e1,\nvykladaj\u00fa pr\u00e1zdne sny\na m\u00e1rne pote\u0161uj\u00fa.\nPreto \u013eudia odtiahli ako st\u00e1do,\ns\u00fa pokoren\u00ed, lebo niet pastiera."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u201eProti pastierom vzb\u013akol m\u00f4j hnev\na vodcov st\u00e1da nav\u0161t\u00edvim.\u201c\nLebo Hospodin z\u00e1stupov nav\u0161t\u00edvil\nsvoje st\u00e1do, dom J\u00fadu;\nurobil ich podobn\u00fdmi\nsvojmu n\u00e1dhern\u00e9mu vojnov\u00e9mu t\u00e1to\u0161ovi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Bude z neho uholn\u00fd kame\u0148, bude z neho kol\u00edk,\nbude z neho bojov\u00e1 ku\u0161a.\nZ neho vyjde ka\u017ed\u00fd utl\u00e1\u010date\u013e."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bud\u00fa ako hrdinovia vo vojne,\nktor\u00ed \u0161liapu blato ul\u00edc.\nBud\u00fa bojova\u0165, lebo Hospodin je s nimi\na zahanbia aj jazdcov na ko\u0148och."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u201ePosiln\u00edm J\u00fadov dom\na Jozefov dom zachr\u00e1nim,\nprivediem ich sp\u00e4\u0165,\nve\u010f som ich omilostil.\nBud\u00fa, akoby som ich nezavrhol,\nlebo ja, Hospodin, som ich Boh\na vypo\u010dujem ich.\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Efrajimovci bud\u00fa ako hrdinovia,\nsrdce sa im zaraduje s\u0165a od v\u00edna.\nIch synovia to uvidia a bud\u00fa sa te\u0161i\u0165,\nsrdce im bude plesa\u0165 v Hospodinovi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u201eZap\u00edskam na nich a zhroma\u017ed\u00edm ich,\nlebo som ich vyk\u00fapil,\nbude ich tak ve\u013ea, ako ich b\u00fdvalo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Rozosejem ich medzi n\u00e1rody\na v dia\u013eav\u00e1ch bud\u00fa na m\u0148a spom\u00edna\u0165,\nbud\u00fa \u017ei\u0165 so svojimi synmi a vr\u00e1tia sa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Privediem ich sp\u00e4\u0165 z egyptskej krajiny\na z As\u00fdrie ich zhroma\u017ed\u00edm,\nprivediem ich do krajiny Gile\u00e1d a Libanon,\nno nebude pre nich dos\u0165 miesta."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ke\u010f p\u00f4jdu cez more \u00fazkosti,\non zraz\u00ed vlny do mora\na vyschn\u00fa v\u0161etky hlbiny N\u00edlu,\nzr\u00fati sa p\u00fdcha As\u00fdrie\na zmizne berla Egypta."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Posiln\u00edm ich v Hospodinovi\na bud\u00fa spolu kr\u00e1\u010da\u0165 v jeho mene,\u201c\nznie v\u00fdrok Hospodina."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Otvor, Libanon, svoje br\u00e1ny,\nnech ohe\u0148 hlt\u00e1 tvoje c\u00e9dre!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pla\u010d, cyprus, lebo padol c\u00e9der:\nt\u00ed, \u010do boli mocn\u00ed, spustli.\nBed\u00e1kajte, duby B\u00e1\u0161anu,\nlebo po\u013eahol nepr\u00edstupn\u00fd les."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Po\u010d\u00favaj! Bed\u00e1kaj\u00fa pastieri,\nlebo spustla ich n\u00e1dhera.\nPo\u010duj, rev\u00fa lev\u00ed\u010dat\u00e1,\nlebo spustla p\u00fdcha Jord\u00e1nu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Takto hovor\u00ed Hospodin, m\u00f4j Boh: \u201ePas st\u00e1do ur\u010den\u00e9 na zabitie"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "ktor\u00e9 majitelia beztrestne zab\u00edjaj\u00fa. Jeho kupci po jednom hovoria: \u201aNech je zveleben\u00fd Hospodin, zbohatol som.\u2018 Jeho pastieri sa nad n\u00edm nez\u013eutuj\u00fa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ani ja sa u\u017e nez\u013eutujem nad obyvate\u013emi krajiny,\u201c znie v\u00fdrok Hospodina. \u201ePozri, vyd\u00e1m ka\u017ed\u00e9ho \u010dloveka do ruky jeho bl\u00ed\u017eneho a do ruky jeho kr\u00e1\u013ea. Rozdrvia krajinu, ale ja z ich ruky nikoho nevytrhnem.\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "P\u00e1sol som st\u00e1do ur\u010den\u00e9 na zabitie pre kupcov s ovcami. A vzal som dve palice: jednu som nazval \u201ePriaze\u0148\u201c, druhej som dal meno \u201eJednota\u201c, a tak som p\u00e1sol st\u00e1do."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "V jednom mesiaci som odstr\u00e1nil troch pastierov. Stratil som s nimi trpezlivos\u0165 a aj oni c\u00edtili vo\u010di mne znechutenie."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "I povedal som: \u201eNebudem v\u00e1s p\u00e1s\u0165. \u010co m\u00e1 zomrie\u0165, nech zomrie; \u010do m\u00e1 zahyn\u00fa\u0165, nech zahynie, a tie, \u010do zostan\u00fa, nech si vz\u00e1jomne ob\u017eieraj\u00fa m\u00e4so.\u201c"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Vzal som svoju palicu \u201ePriaze\u0148\u201c a zlomil som ju; t\u00fdm som zru\u0161il svoju zmluvu, ktor\u00fa som uzavrel so v\u0161etk\u00fdmi n\u00e1rodmi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "V ten de\u0148 bola zru\u0161en\u00e1. Vtedy kupci s ovcami, \u010do ma pozorovali, spoznali, \u017ee je to slovo Hospodina."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Povedal som im: \u201eAk uzn\u00e1te za dobr\u00e9, dajte mi moju mzdu, ak nie, nechajte tak!\u201c Odv\u00e1\u017eili mi teda mzdu: tridsa\u0165 strieborn\u00fdch."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hospodin mi povedal: \u201eHo\u010f ju do pokladnice \u2014 t\u00fa cenn\u00fa mzdu, ktorou ma ocenili!\u201c Vzal som teda tridsa\u0165 strieborn\u00fdch a hodil som ich do pokladnice v Hospodinovom dome."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Potom som zlomil druh\u00fa palicu \u201eJednota\u201c, a t\u00fdm som zru\u0161il bratstvo medzi J\u00fadom a Izraelom."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "I riekol mi Hospodin: \u201eE\u0161te raz si vezmi v\u00fdstroj hl\u00fapeho pastiera!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "H\u013ea\u010f, ja vzbud\u00edm v krajine pastiera, \u010do sa neobzrie o tie, \u010do hyn\u00fa; nebude h\u013eada\u0165 tie, \u010do sa stratili, nebude hoji\u0165 poranen\u00e9 a nebude sa stara\u0165 o zdrav\u00e9. Z tu\u010dn\u00fdch bude jes\u0165 m\u00e4so a post\u0155ha im papr\u010dky."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Beda hl\u00fapemu pastierovi,\n\u010do op\u00fa\u0161\u0165a st\u00e1do;\nme\u010d proti jeho ramenu\na proti jeho prav\u00e9mu oku.\nJeho rameno \u00faplne vyschne\na jeho prav\u00e9 oko celkom vyhasne.\u201c"
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u00fdrok. Hospodinovo slovo proti Izraelu. Tak znie v\u00fdrok Hospodina, ktor\u00fd rozprestrel nebes\u00e1 a zalo\u017eil zem, ktor\u00fd utvoril ducha v \u010dloveku"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201ePozri, ja urob\u00edm Jeruzalem \u010da\u0161ou opojenia pre v\u0161etky okolit\u00e9 n\u00e1rody; ale bude to plati\u0165 aj pre Judsko, ke\u010f bude oblieha\u0165 Jeruzalem."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "V ten de\u0148 urob\u00edm Jeruzalem \u0165a\u017eiv\u00fdm kame\u0148om pre v\u0161etky n\u00e1rody. V\u0161etci, \u010do ho bud\u00fa dv\u00edha\u0165, sa celkom dor\u00e1\u0148aj\u00fa. V\u0161etky n\u00e1rody zeme sa zhroma\u017edia proti nemu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "V ten de\u0148,\u201c znie v\u00fdrok Hospodina, \u201epostihnem ka\u017ed\u00e9ho ko\u0148a spla\u0161enos\u0165ou a ka\u017ed\u00e9ho jeho jazdca \u0161ialenstvom, ale nad J\u00fadov\u00fdm domom budem ma\u0165 otvoren\u00e9 o\u010di a v\u0161etky kone n\u00e1rodov ran\u00edm slepotou."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vtedy si vodcovia J\u00fadu pomyslia: \u201aSila obyvate\u013eov Jeruzalema spo\u010d\u00edva v Hospodinovi z\u00e1stupov, ich Bohu.\u2018"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "V ten de\u0148 urob\u00edm vodcov J\u00fadu podobn\u00fdmi rozp\u00e1len\u00fdm kotlom na dreve i ohnivej fakli medzi snopmi; bud\u00fa pohlcova\u0165 v\u0161etky okolit\u00e9 n\u00e1rody napravo i na\u013eavo, ale Jeruzalem ostane \u010falej na svojom mieste, v Jeruzaleme.\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hospodin zachr\u00e1ni najprv J\u00fadove stany, aby sa sl\u00e1va D\u00e1vidovho domu a sl\u00e1va obyvate\u013eov Jeruzalema nezv\u00e4\u010d\u0161ila na \u00fakor Judska."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "V ten de\u0148 bude Hospodin \u0161t\u00edtom pre obyvate\u013eov Jeruzalema. Potk\u00fdnaj\u00faci sa medzi nimi bude v ten de\u0148 ako D\u00e1vid a D\u00e1vidov dom bude na ich \u010dele ako Boh, ako Hospodinov anjel."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201eV ten de\u0148 vyh\u013ead\u00e1m a vyhlad\u00edm v\u0161etky n\u00e1rody, ktor\u00e9 p\u00f4jdu proti Jeruzalemu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "No na D\u00e1vidov dom a na obyvate\u013eov Jeruzalema vylejem ducha milosti a \u00fapenliv\u00fdch prosieb. Potom bud\u00fa h\u013eadie\u0165 na m\u0148a, ktor\u00e9ho prebodli. Bud\u00fa nad n\u00edm narieka\u0165, ako sa narieka nad jedin\u00e1\u010dikom, a bed\u00e1ka\u0165, ako sa bed\u00e1ka nad prvoroden\u00fdm."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "V ten de\u0148 nastane ve\u013ek\u00fd n\u00e1rek v Jeruzaleme ako n\u00e1rek nad Hadad-Rim\u00f3nom v \u00fadol\u00ed pri Megidde."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Krajina bude narieka\u0165, ka\u017ed\u00fd rod osobitne. Rod D\u00e1vidovho domu osobitne a jeho \u017eeny zvl\u00e1\u0161\u0165; rod N\u00e1tanovho domu osobitne a jeho \u017eeny zvl\u00e1\u0161\u0165"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "rod L\u00e9viho domu osobitne a jeho \u017eeny zvl\u00e1\u0161\u0165; rod \u0160imeiho osobitne a jeho \u017eeny zvl\u00e1\u0161\u0165."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "V\u0161etky ostatn\u00e9 rody osobitne a ich \u017eeny zvl\u00e1\u0161\u0165.\u201c"
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u201eV ten de\u0148 bude otvoren\u00fd prame\u0148 pre D\u00e1vidov dom a pre obyvate\u013eov Jeruzalema na o\u010distu z hriechu a ne\u010distoty."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "V ten de\u0148,\u201c znie v\u00fdrok Hospodina z\u00e1stupov, \u201evyhub\u00edm z krajiny meno modiel a nebud\u00fa na ne viac spom\u00edna\u0165. Aj prorokov a ducha ne\u010distoty odstr\u00e1nim z krajiny."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ak bude e\u0161te niekto prorokova\u0165, jeho otec a matka, ktor\u00ed ho zrodili, mu povedia: \u201aNeostane\u0161 na\u017eive, lebo si v mene Hospodina hovoril lo\u017e.\u2018 Prebodne ho otec i matka, ktor\u00ed ho zrodili, preto\u017ee prorokoval."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "V ten de\u0148 sa zahanbia proroci, ka\u017ed\u00fd za svoje videnie, ke\u010f bud\u00fa prorokova\u0165, a neoble\u010d\u00fa si srsten\u00fd pl\u00e1\u0161\u0165 na oklamanie druh\u00fdch."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ka\u017ed\u00fd povie: \u201aJa nie som prorok, som len \u010dlovek, \u010do obr\u00e1ba p\u00f4du, ve\u010f p\u00f4du vlastn\u00edm u\u017e od mlada.\u2018"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ak sa ho niekto sp\u00fdta: \u201a\u010co s\u00fa to za rany na tvojej hrudi?\u2018, odpovie: \u201aTie som ut\u0155\u017eil v dome mojich priate\u013eov.\u2018"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Me\u010d, povsta\u0148 proti m\u00f4jmu pastierovi\na proti mu\u017eovi, \u010do mi je bl\u00edzky,\u201c\nznie v\u00fdrok Hospodina z\u00e1stupov.\n\u201eUdri pastiera a st\u00e1do sa rozp\u0155chne!\nK mali\u010dk\u00fdm v\u0161ak obr\u00e1tim svoju ruku."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Z celej krajiny,\u201c\nznie v\u00fdrok Hospodina,\n\u201edve tretiny zomr\u00fa, zahyn\u00fa,\nale tretina z nej zostane."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "T\u00fa tretinu prevediem cez ohe\u0148\na pretav\u00edm ich, ako sa tav\u00ed striebro,\na vysk\u00fa\u0161am ich, ako sa sk\u00fa\u0161a zlato.\nBud\u00fa vz\u00fdva\u0165 moje meno,\nja ich vypo\u010dujem.\nPoviem: \u201aTo je m\u00f4j \u013eud\u2018\na on povie: \u201aHospodin je m\u00f4j Boh.\u2018\u201c"
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "H\u013ea, prich\u00e1dza de\u0148 Hospodina, vtedy sa v tvojom strede bude deli\u0165 koris\u0165."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201eZhroma\u017ed\u00edm v\u0161etky n\u00e1rody k Jeruzalemu do boja, zaujm\u00fa mesto, domy vyplienia, \u017eeny zn\u00e1silnia. Polovica mesta p\u00f4jde do zajatia, ale zvy\u0161ok \u013eudu mesta nevyni\u010dia.\u201c"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Potom Hospodin vytiahne a bude bojova\u0165 proti t\u00fdm n\u00e1rodom, ako bojoval v de\u0148 vojny."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jeho nohy v ten de\u0148 zastan\u00fa na Olivovom vrchu, ktor\u00fd le\u017e\u00ed na v\u00fdchod od Jeruzalema, a Olivov\u00fd vrch sa roz\u0161tiepi napoly \u2014 od v\u00fdchodu na z\u00e1pad \u2014 a utvor\u00ed sa ve\u013emi ve\u013ek\u00e9 \u00fadolie. Polovica vrchu sa posunie na sever a polovica na juh."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vtedy budete uteka\u0165 do \u00fadolia medzi mojimi vrchmi, lebo toto horsk\u00e9 \u00fadolie bude siaha\u0165 a\u017e k Acalu. Budete uteka\u0165, ako ste be\u017eali pred zemetrasen\u00edm v d\u0148och judsk\u00e9ho kr\u00e1\u013ea Uzziju. Vtedy pr\u00edde Hospodin, m\u00f4j Boh, a v\u0161etci jeho sv\u00e4t\u00ed s n\u00edm."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "V ten de\u0148 nebude svetlo ani zima, ani mr\u00e1z."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Bude to jedin\u00fd de\u0148 zn\u00e1my iba Hospodinovi. Nebude to ani de\u0148, ani noc, ale vo ve\u010dernom \u010dase bude svetlo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "V ten de\u0148 bude z Jeruzalema vyteka\u0165 \u017eiv\u00e1 voda, polovica do mora na v\u00fdchod a polovica do mora na z\u00e1pad. Tak to bude v lete i v zime."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hospodin bude kr\u00e1\u013eom nad celou zemou. V ten de\u0148 bude jedin\u00fd Hospodin a jeho meno jedin\u00e9."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Cel\u00e1 krajina sa zmen\u00ed na step, ktor\u00e1 siaha od Geby po Rimm\u00f3n na juh od Jeruzalema. Ten bude vy\u010dnieva\u0165 a ostane na svojom mieste od Benjam\u00ednskej br\u00e1ny a\u017e po miesto starobylej N\u00e1ro\u017enej br\u00e1ny a od ve\u017ee Chananel a\u017e po Kr\u00e1\u013eovsk\u00e9 lisy."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Bud\u00fa v \u0148om b\u00fdva\u0165 a nezasiahne ho vojnov\u00e1 kliatba. Jeruzalem bude b\u00fdva\u0165 v bezpe\u010d\u00ed."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Toto bude rana, ktorou Hospodin udrie v\u0161etky n\u00e1rody, \u010do bojovali proti Jeruzalemu: bude sa im rozklada\u0165 telo, hoci bud\u00fa st\u00e1\u0165 na noh\u00e1ch, o\u010di im vyhnij\u00fa v jamk\u00e1ch a jazyk im zhnije v \u00fastach."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "V ten de\u0148 zo\u0161le na nich Hospodin ve\u013ek\u00fd zm\u00e4tok: jeden schmatne ruku druh\u00e9ho a jeho ruka sa obr\u00e1ti proti nemu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Aj J\u00fada bude bojova\u0165 proti Jeruzalemu. Nahromad\u00ed sa bohatstvo v\u0161etk\u00fdch okolit\u00fdch n\u00e1rodov: zlato, striebro a \u0161atstvo v nesmiernom mno\u017estve."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A rana, \u010do zasiahne kone, mulice, \u0165avy, osly a v\u0161etky zvierat\u00e1, ktor\u00e9 bud\u00fa v ich t\u00e1boroch, bude tak\u00e1 ist\u00e1."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "No v\u0161etci, \u010do ostan\u00fa z rozli\u010dn\u00fdch n\u00e1rodov, ktor\u00e9 tiahli proti Jeruzalemu, rok \u010do rok bud\u00fa putova\u0165, aby sa poklonili kr\u00e1\u013eovi, Hospodinovi z\u00e1stupov a sv\u00e4tili sl\u00e1vnos\u0165 St\u00e1nkov."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ak niektor\u00e9 z t\u00fdchto pokolen\u00ed nevyst\u00fapia do Jeruzalema pokloni\u0165 sa kr\u00e1\u013eovi, Hospodinovi z\u00e1stupov, nebude im pr\u0161a\u0165."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ak nevyst\u00fapi a nepr\u00edde ani pokolenie Egyp\u0165anov, nebude pr\u0161a\u0165 ani im. Zastihne ich rana, ktorou Hospodin udrie n\u00e1rody, \u010do nevyst\u00fapia sv\u00e4ti\u0165 sl\u00e1vnos\u0165 St\u00e1nkov."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Toto bude trest za hriech Egypta a za hriech v\u0161etk\u00fdch n\u00e1rodov, \u010do nevyst\u00fapia sv\u00e4ti\u0165 sl\u00e1vnos\u0165 St\u00e1nkov."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "V ten de\u0148 bude na zvon\u010dekoch kon\u00ed n\u00e1pis: \u201eZasv\u00e4ten\u00fd Hospodinovi\u201c. A hrnce v Hospodinovom dome bud\u00fa ako obetn\u00e9 n\u00e1doby pred olt\u00e1rom."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ka\u017ed\u00fd hrniec v Jeruzaleme a v Judsku bude zasv\u00e4ten\u00fd Hospodinovi z\u00e1stupov. V\u0161etci obetuj\u00faci pr\u00eddu a vezm\u00fa si z nich a v nich bud\u00fa vari\u0165, tak\u017ee v ten de\u0148 u\u017e nebude kupcov v dome Hospodina z\u00e1stupov."
+                }
+            }
+        }
+    }
+}

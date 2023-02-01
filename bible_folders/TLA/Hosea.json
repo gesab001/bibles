@@ -1,0 +1,865 @@
+{
+    "version": "TLA",
+    "book_name": "Hosea",
+    "book_nr": "28",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Oseas se casa con una prostituta - Dios le habl\u00f3 al profeta Oseas hijo de Beer\u00ed, cuando Jeroboam hijo de Jo\u00e1s era rey de Israel. Esto sucedi\u00f3 durante los reinados de Oz\u00edas, Jotam, Ahaz y Ezequ\u00edas en Jud\u00e1."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Lo primero que Dios le dijo a Oseas fue lo siguiente: \u00abVe y c\u00e1sate con una prostituta, y ten hijos con ella, porque los israelitas me abandonaron, y se comportaron como las prostitutas\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Oseas obedeci\u00f3 y se cas\u00f3 con G\u00f3mer, la hija de Diblaim. Ella qued\u00f3 embarazada y tuvo un hijo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Entonces Dios le dijo a Oseas: \u00abEl rey Jeh\u00fa ha cometido muchos cr\u00edmenes en el valle de Jezreel. Por lo tanto, en ese mismo valle derrotar\u00e9 a su ej\u00e9rcito. Castigar\u00e9 a sus descendientes y acabar\u00e9 con el reino de Israel. Por eso, a tu hijo le pondr\u00e1s por nombre Jezreel\u00bb."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Entonces Dios le dijo a Oseas: \u00abEl rey Jeh\u00fa ha cometido muchos cr\u00edmenes en el valle de Jezreel. Por lo tanto, en ese mismo valle derrotar\u00e9 a su ej\u00e9rcito. Castigar\u00e9 a sus descendientes y acabar\u00e9 con el reino de Israel. Por eso, a tu hijo le pondr\u00e1s por nombre Jezreel\u00bb."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tiempo despu\u00e9s, G\u00f3mer volvi\u00f3 a quedar embarazada y tuvo una hija. Entonces Dios le dijo a Oseas: \u00abA esta ni\u00f1a la llamar\u00e1s Lo-ruhama, que quiere decir \u201cno-compadecida\u201d, porque no volver\u00e9 a perdonar ni a tener compasi\u00f3n de los habitantes del reino de Israel."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "S\u00f3lo tendr\u00e9 compasi\u00f3n de los habitantes del reino de Jud\u00e1. Yo mismo los salvar\u00e9, y para eso no necesito ej\u00e9rcitos ni armas de guerra\u00bb."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Cuando G\u00f3mer dej\u00f3 de darle pecho a Lo-ruhama, volvi\u00f3 a quedar embarazada; pero esta vez tuvo un hijo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Entonces Dios le dijo a Oseas: \u00abA este ni\u00f1o lo llamar\u00e1s Lo-am\u00ed, que quiere decir \u201cno-mi pueblo\u201d. Porque los israelitas ya no son mi pueblo y yo he dejado de ser su Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Pero un d\u00eda los del reino de Israel volver\u00e1n a ser como la arena del mar, que no se puede contar. \u00bbCuando llegue ese d\u00eda, ya no volver\u00e9 a decirles: \u201cUstedes no son mi pueblo\u201d; al contrario, les dir\u00e9: \u201cUstedes son mi pueblo, porque yo soy el Dios de la vida\u201d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ese d\u00eda ser\u00e1 grandioso, pues yo les devolver\u00e9 a los reinos de Jud\u00e1 y de Israel la grandeza que tuvieron. Volver\u00e1n a ser una sola naci\u00f3n; tendr\u00e1n un solo rey, y volver\u00e1n a Jerusal\u00e9n los que fueron llevados a otros pa\u00edses."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El d\u00eda que vuelvan, los hombres ser\u00e1n llamados \u201cPueblo de Dios\u201d, y las mujeres ser\u00e1n llamadas \u201cCompadecidas\u201d\u00bb."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "G\u00f3mer representa a Israel - Dios tambi\u00e9n dijo: \u00abPara m\u00ed, Israel fue como una esposa, pero me fue infiel y ya no tengo nada que ver con ella. \u00a1As\u00ed que ustedes, israelitas, pres\u00e9ntenla ante los jueces! \u00a1Que deje de portarse como una cualquiera! \u00a1Que deje de complacer a sus amantes!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bbSi no lo hace, la desnudar\u00e9; \u00a1la mostrar\u00e9 tal como vino al mundo! \u00a1La rechazar\u00e9, y no volver\u00e9 a tener hijos con ella!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "No tendr\u00e9 compasi\u00f3n de sus hijos, porque esos hijos no son m\u00edos."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bb\u00a1Israel se comporta como una desvergonzada! Todo el tiempo anda diciendo: \u201cVoy a buscar a mis amantes, pues ellos son los que me dan todo lo que me hace falta: me alimentan, me visten, me perfuman y me divierten\u201d."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbIr\u00e1 en busca de sus amantes, pero no podr\u00e1 alcanzarlos ni tampoco los encontrar\u00e1. Yo voy a encerrarla en una cerca de espinos, para que no pueda salir. All\u00ed se pondr\u00e1 a pensar: \u201cMe iba mejor con mi primer marido, as\u00ed que voy a volver con \u00e9l\u201d."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbIr\u00e1 en busca de sus amantes, pero no podr\u00e1 alcanzarlos ni tampoco los encontrar\u00e1. Yo voy a encerrarla en una cerca de espinos, para que no pueda salir. All\u00ed se pondr\u00e1 a pensar: \u201cMe iba mejor con mi primer marido, as\u00ed que voy a volver con \u00e9l\u201d."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbElla no quiere reconocer que soy yo quien la alimenta y le da todo lo que le falta; \u00a1hasta oro y plata le he dado y con ellos se hizo \u00eddolos!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Por eso voy a quitarle todo eso que le he dado,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "y ante sus amantes la desnudar\u00e9 y la avergonzar\u00e9. \u00a1De \u00e9sta no se va a salvar!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbVoy a ponerles fin a sus fiestas de cada semana, de cada mes y de cada a\u00f1o; \u00a1ya no volver\u00e1 a alegrarse!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00bbElla siempre presume de las muchas higueras y vi\u00f1as que le han regalado sus amantes; pero yo las voy a destruir y las convertir\u00e9 en matorrales; \u00a1los animales salvajes las devorar\u00e1n!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00bbCuando visita a sus amantes se pone joyas y les lleva regalos, pero a m\u00ed me tiene olvidado. Por eso la voy a castigar, pues ha adorado a dioses falsos. \u00bbYo soy el Dios de Israel, y les juro que as\u00ed lo har\u00e9."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Dios perdonar\u00e1 a su pueblo - \u00bbA pesar de todo eso, llevar\u00e9 a Israel al desierto, y all\u00ed, con mucho cari\u00f1o, har\u00e9 que se vuelva a enamorar de m\u00ed."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Le devolver\u00e9 sus vi\u00f1as, y convertir\u00e9 su desgracia en gran bendici\u00f3n. Volver\u00e1 a responderme como cuando era joven, como cuando sali\u00f3 de Egipto."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ya no volver\u00e1 a serme infiel adorando a otros dioses, sino que me reconocer\u00e1 como su \u00fanico Dios. \u00bbYo soy el Dios de Israel, y les juro que as\u00ed ser\u00e1."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ya no volver\u00e1 a serme infiel adorando a otros dioses, sino que me reconocer\u00e1 como su \u00fanico Dios. \u00bbYo soy el Dios de Israel, y les juro que as\u00ed ser\u00e1."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00bbCuando llegue ese d\u00eda, me comprometo a que los israelitas vivir\u00e1n tranquilos y en paz. No habr\u00e1 animal que les haga da\u00f1o ni pueblo que les declare la guerra."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00bbIsrael, Israel, yo volver\u00e9 a casarme contigo y ser\u00e1s mi esposa para siempre. Cuando t\u00fa seas mi esposa, realmente llegar\u00e1s a conocerme; ser\u00e9 para ti un esposo fiel, sincero y lleno de amor."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00bbIsrael, Israel, yo volver\u00e9 a casarme contigo y ser\u00e1s mi esposa para siempre. Cuando t\u00fa seas mi esposa, realmente llegar\u00e1s a conocerme; ser\u00e9 para ti un esposo fiel, sincero y lleno de amor."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00bbYo soy el Dios de Israel, y te juro que as\u00ed ser\u00e1. \u00bbIsrael, cuando llegue ese d\u00eda, yo har\u00e9 que el cielo derrame su lluvia sobre la tierra,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "y que la tierra produzca trigo, vino y aceite en abundancia, y as\u00ed el valle de Jezreel prosperar\u00e1."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Te dar\u00e9 la tierra, y ser\u00e1s solamente para m\u00ed. Y te dir\u00e9: \u201cNo eras mi pueblo, pero ahora ya lo eres\u201d; T\u00fa, por tu parte, me dir\u00e1s: \u201c\u00a1Y t\u00fa eres mi Dios!\u201d\u00bb"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Oseas y su esposa infiel - Dios volvi\u00f3 a decirme: \u00abOseas, tu esposa te es infiel: tiene un amigo que es su amante. Tambi\u00e9n los israelitas me son infieles, pues adoran a dioses falsos y comen de las ofrendas que presentan. Sin embargo, ve y ama a tu esposa, as\u00ed como yo amo a los israelitas\u00bb."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Yo, Oseas, le pagu\u00e9 al amante de mi esposa quince monedas de plata y le di trescientos treinta kilos de cebada, para que ella volviera a vivir conmigo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Y luego le dije a ella: \u00abYa eres m\u00eda, y vivir\u00e1s conmigo mucho tiempo. Si t\u00fa prometes serme fiel, yo tambi\u00e9n te ser\u00e9 fiel, aunque por un tiempo no viviremos como esposos\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Lo mismo suceder\u00e1 con los israelitas: Durante mucho tiempo no tendr\u00e1n rey ni jefe; tampoco podr\u00e1n presentar ofrendas a Dios, ni sabr\u00e1n lo que Dios quiere que hagan; adem\u00e1s, no tendr\u00e1n sacerdotes ni \u00eddolos familiares."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Despu\u00e9s de esto, se arrepentir\u00e1n. Cuando llegue el tiempo del fin, volver\u00e1n a obedecer a Dios y pedir\u00e1n sus bendiciones, y tambi\u00e9n seguir\u00e1n el ejemplo del rey David."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pecados de los israelitas - \u00a1Escuchen, israelitas, el mensaje de su Dios! \u00c9l les dice: \u00abYo tengo un pleito contra ustedes, los israelitas. Ustedes no son sinceros, ni aman a su pr\u00f3jimo. Todo el mundo mata y roba, miente y jura en falso, y no es fiel en su matrimonio. Por todos lados hay violencia. \u00a1Nadie me reconoce como su Dios!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pecados de los israelitas - \u00a1Escuchen, israelitas, el mensaje de su Dios! \u00c9l les dice: \u00abYo tengo un pleito contra ustedes, los israelitas. Ustedes no son sinceros, ni aman a su pr\u00f3jimo. Todo el mundo mata y roba, miente y jura en falso, y no es fiel en su matrimonio. Por todos lados hay violencia. \u00a1Nadie me reconoce como su Dios!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Por eso todos en el pa\u00eds lloran y se desaniman, y van desapareciendo los animales de la tierra, del cielo y del mar."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bbMi acusaci\u00f3n es s\u00f3lo contra los sacerdotes, \u00a1nadie m\u00e1s es responsable!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De d\u00eda y de noche pecan, y hacen pecar a los profetas; \u00a1por eso destruir\u00e9 a su descendencia!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbMi pueblo no ha querido reconocerme como su Dios, y por eso se est\u00e1 muriendo. \u00a1Ni los sacerdotes me reconocen! Por eso no quiero que sigan sirviendo en mi templo. Ya que olvidaron mis mandamientos, yo tambi\u00e9n me olvidar\u00e9 de sus hijos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbMientras m\u00e1s sacerdotes hab\u00eda, m\u00e1s gente pecaba contra m\u00ed; por eso, en vez de premiarlos, los voy a humillar."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Con las ofrendas que da mi pueblo para el perd\u00f3n de sus pecados, ustedes hacen negocio. Por eso hacen todo lo posible para que el pueblo siga pecando."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbLa verdad es que castigar\u00e9 tanto al pueblo como a los sacerdotes,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "pues ambos se han alejado de m\u00ed. Por eso, aunque coman mucho, siempre se quedar\u00e1n con hambre; y por m\u00e1s que traten de tener hijos, jam\u00e1s llegar\u00e1n a tenerlos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Israel adora a los \u00eddolos - \u00bb\u00a1Por andar con prostitutas y emborracharse con vino, han perdido la cabeza!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Es tan fuerte su deseo sexual que prefieren andar con mujerzuelas; por eso se han apartado de m\u00ed. \u00bb\u00a1Es incre\u00edble! Mi pueblo le pide consejos a un pedazo de madera; \u00a1quiere que un simple palo le ayude a adivinar el futuro!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Suben a lo alto de las colinas, y bajo la sombra de los \u00e1rboles presentan ofrendas a sus dioses; \u00a1sus hijas y sus nueras se portan como unas mujerzuelas!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pero yo no voy a castigarlas por tener sexo con tantos hombres, pues ustedes mismos tienen sexo con mujeres que adoran a otros dioses. \u00bb\u00a1Un pueblo que pierde la cabeza, acaba por destruirse!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Si ustedes, israelitas, siguen adorando a otros dioses, \u00a1por lo menos que Jud\u00e1 no siga ese mal ejemplo! \u00a1Ya no adoren a esos \u00eddolos de Guilgal y Bet-av\u00e9n! \u00a1Ya no juren en mi nombre!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ustedes son muy rebeldes; \u00a1son m\u00e1s tercos que una mula! No esperen que yo los trate como si fueran mansos corderos."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00bbSi ustedes, israelitas, quieren seguir adorando \u00eddolos, \u00a1pues sigan haci\u00e9ndolo!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00a1Mientras se emborrachan, van en busca de mujerzuelas! Prefieren la mala vida a vivir como gente decente."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Por seguir adorando a esos \u00eddolos, van a quedar en verg\u00fcenza y ser\u00e1n destruidos por completo."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mensaje contra Israel - \u00bb\u00a1Esc\u00fachenme, sacerdotes! \u00a1Ati\u00e9ndanme, jefes de Israel! \u00a1Pr\u00e9stenme atenci\u00f3n, familiares del rey! Yo los voy a juzgar y a castigar porque han enga\u00f1ado a mi pueblo. \u00a1Hicieron a Israel aun m\u00e1s rebelde! Lo obligaron a adorar a otros dioses en los santuarios de Misp\u00e1 y de Tabor."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mensaje contra Israel - \u00bb\u00a1Esc\u00fachenme, sacerdotes! \u00a1Ati\u00e9ndanme, jefes de Israel! \u00a1Pr\u00e9stenme atenci\u00f3n, familiares del rey! Yo los voy a juzgar y a castigar porque han enga\u00f1ado a mi pueblo. \u00a1Hicieron a Israel aun m\u00e1s rebelde! Lo obligaron a adorar a otros dioses en los santuarios de Misp\u00e1 y de Tabor."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bbIsraelitas, yo s\u00e9 c\u00f3mo se portan ustedes; \u00a1se portan como una prostituta,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "porque adoran a otros dioses! No me reconocen como su Dios, ni se arrepienten de su maldad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ustedes son tan malos y orgullosos que acabar\u00e1n por ser destruidos; \u00a1lo mismo pasar\u00e1 con Jud\u00e1!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbPero un d\u00eda me buscar\u00e1n; y llevar\u00e1n como ofrenda sus vacas y sus ovejas, pero no podr\u00e1n encontrarme. \u00a1Yo los abandonar\u00e9!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Se han portado como una ad\u00faltera: me enga\u00f1aron adorando a otros dioses, y sus descendientes ya no ser\u00e1n mi pueblo. Por eso, muy pronto, tanto ustedes como sus campos ser\u00e1n destruidos."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dios castiga a Israel - \u00bb\u00a1Av\u00edsenles a todos en Guibe\u00e1, Ram\u00e1 y Bet-av\u00e9n! \u00a1Den el toque de alerta! \u00a1Adviertan a los del reino de Jud\u00e1!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Israelitas, yo les aseguro que cumplir\u00e9 lo que antes anunci\u00e9. El d\u00eda que yo los castigue, \u00a1dejar\u00e9 su pa\u00eds en ruinas!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbVoy a castigar con furia a los jefes de Jud\u00e1, porque son como los ladrones de terrenos: han invadido el territorio de Israel."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El reino de Israel es maltratado y nadie respeta sus derechos porque prefiri\u00f3 adorar a dioses falsos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Por eso yo acabar\u00e9 con ese reino y con el reino de Jud\u00e1; \u00a1los destruir\u00e9 por completo, como destruye la polilla a la madera!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Y cuando Israel y Jud\u00e1 se vean en ruinas, buscar\u00e1n la ayuda del rey de Asiria; pero \u00e9l no podr\u00e1 ayudarlos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bbYo atacar\u00e9 a Israel y a Jud\u00e1 con la misma furia de un le\u00f3n. Los agarrar\u00e9 y los har\u00e9 pedazos, y no habr\u00e1 quien los salve. Luego los dejar\u00e9 por un tiempo, y esperar\u00e9 a que se arrepientan; cuando reconozcan que me han ofendido, se llenar\u00e1n de angustia y me buscar\u00e1n.\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00bbYo atacar\u00e9 a Israel y a Jud\u00e1 con la misma furia de un le\u00f3n. Los agarrar\u00e9 y los har\u00e9 pedazos, y no habr\u00e1 quien los salve. Luego los dejar\u00e9 por un tiempo, y esperar\u00e9 a que se arrepientan; cuando reconozcan que me han ofendido, se llenar\u00e1n de angustia y me buscar\u00e1n.\u00bb"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los israelitas se arrepienten - Entonces los israelitas dijeron: \u00ab\u00a1Volvamos a Dios! Aunque \u00e9l nos ha castigado mucho, tambi\u00e9n nos dar\u00e1 su perd\u00f3n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dos o tres d\u00edas le ser\u00e1n suficientes para restaurarnos por completo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bb\u00a1Volvamos a Dios! Si lo hacemos as\u00ed, \u00e9l vendr\u00e1 a buscarnos; vendr\u00e1 como el sol de cada d\u00eda, \u00a1como las primeras lluvias que caen en primavera!\u00bb"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dios responde a Israel - Pero Dios respondi\u00f3: \u00abHabitantes de Israel y de Jud\u00e1: \u00bfqu\u00e9 voy a hacer con ustedes?, \u00bfc\u00f3mo debo tratarlos? Ustedes dicen que me aman, pero su amor es como la niebla y como el roc\u00edo de la ma\u00f1ana: \u00a1muy pronto desaparece!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bbPor eso el mensaje que les di por medio de mis profetas, fue como un rayo destructor que les trajo la muerte."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbUstedes me traen ofrendas, pero eso no es lo que quiero. Lo que quiero es que me amen y que me reconozcan como su Dios."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pero ustedes se portan como Ad\u00e1n: son traidores y desobedientes, pues no han cumplido con mi pacto."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En la ciudad de Galaad s\u00f3lo hay gente malvada y asesina."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "En el camino que lleva al santuario de Siquem, los sacerdotes parecen ladrones: se esconden para asaltar y matar a todos los que pasan por all\u00ed."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbPor lo que he visto, ustedes los de Israel son de lo peor: son gente infiel y desobediente."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00a1Pero ustedes, los de Jud\u00e1, no son muy buenos que digamos, y por eso recibir\u00e1n su castigo! \u00bbTiempo despu\u00e9s, har\u00e9 que todo mi pueblo regrese a su tierra.\u00bb"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dios quiere ayudar a su pueblo - Dios continu\u00f3 diciendo: \u00abYo quiero salvar a mi pueblo, pero veo que todos ellos han cometido grandes pecados. Todos ellos son mentirosos y ladrones; entran a robar en las casas y en plena calle cometen asaltos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Yo los conozco muy bien: est\u00e1n llenos de maldad, pero ellos no quieren reconocerlo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Con sus pecados y mentiras alegran al rey y a sus jefes."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "No hay uno solo de ellos que sea fiel en su matrimonio; se parecen a un horno caliente, al que no hace falta calentarlo m\u00e1s: el panadero s\u00f3lo tiene que esperar a que fermente la masa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bbCuando el rey celebra alguna fiesta, los jefes beben hasta emborracharse; \u00a1y son esos borrachos burlones a quienes el rey llama sus amigos!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pero ellos se acercan al rey con la intenci\u00f3n de traicionarlo. No descansan durante la noche, sino que se la pasan planeando c\u00f3mo destruirlo al d\u00eda siguiente."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Son como un horno: \u00a1arden para quemar por completo a todos sus gobernantes! Quitan del trono a sus reyes, \u00a1pero ninguno de ellos busca mi ayuda!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "El pueblo abandona a Dios - \u00bbLos de Israel han hecho amistad con gente que no cree en m\u00ed. Mi pueblo se parece al pan mal horneado: por un lado est\u00e1 bien cocido y por el otro lado est\u00e1 crudo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Los egipcios y los sirios est\u00e1n acabando con Israel, pero Israel ni siquiera se da cuenta. \u00a1Han acabado con sus fuerzas, pero tampoco se da cuenta!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbIsrael no ha querido arrepentirse ni buscarme a m\u00ed, que soy su Dios. Su orgullo no lo deja hacerlo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbIsrael les pide ayuda y apoyo a las naciones de Egipto y Asiria. Act\u00faa como una paloma confundida y sin inteligencia;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "pero, cuando vaya a buscar ayuda, lo atrapar\u00e9 como a los p\u00e1jaros y lo castigar\u00e9 por su maldad."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00bb\u00a1Qu\u00e9 mal les va a ir! \u00a1Se arrepentir\u00e1n de haberme abandonado! \u00a1Terribles cosas vendr\u00e1n sobre ellos porque se han rebelado contra m\u00ed! Yo estoy dispuesto a salvarlos, pero ellos s\u00f3lo me dicen mentiras."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En sus camas lloran de dolor, y se hacen heridas a prop\u00f3sito, pero sus oraciones no son sinceras; lo hacen para pedirme buenas cosechas, pero siguen siendo rebeldes."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00bbYo les he dado ense\u00f1anzas, los he llenado de fuerza, pero ellos hacen planes contra m\u00ed."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "No me toman en cuenta, y por eso fracasan en todo. Sus jefes se creen muy valientes, pero morir\u00e1n en el campo de batalla y los egipcios se burlar\u00e1n de ellos."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00bb\u00a1Vigilante, toca la trompeta! \u00a1Da la se\u00f1al de alerta! Ya viene el destructor de mi pueblo; se parece a un \u00e1guila que se lanza sobre su presa. Mi pueblo es muy desobediente; no ha cumplido con mi pacto ni ha seguido mis mandamientos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ellos quieren convencerme a gritos de que reconocen que soy su Dios,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "pero no quieren hacer lo bueno. \u00a1Por eso los perseguir\u00e1 el enemigo!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Cuando eligieron a sus reyes, no me tomaron en cuenta; cuando nombraron a sus jefes, no me pidieron consejo; \u00a1ellos mismos se hicieron da\u00f1o al fabricarse \u00eddolos de oro y plata!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bbHabitantes de Samaria, \u00a1dejen ya de pecar! Estoy muy enojado con ustedes porque adoran a ese toro. \u00a1Es tan s\u00f3lo un dios falso, hecho por ustedes mismos! Pero yo lo har\u00e9 pedazos."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbHabitantes de Samaria, \u00a1dejen ya de pecar! Estoy muy enojado con ustedes porque adoran a ese toro. \u00a1Es tan s\u00f3lo un dios falso, hecho por ustedes mismos! Pero yo lo har\u00e9 pedazos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbSi no me obedecen, recibir\u00e1n su castigo: sus campos no dar\u00e1n frutos; y si llegaran a darlos, servir\u00e1n de alimento para gente extra\u00f1a."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00a1Israel quedar\u00e1 en ruinas! \u00a1Ser\u00e1 la burla de todas las naciones!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbMi pueblo anda solo y perdido como perro callejero. Ha pedido ayuda a los asirios,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "pero de nada le servir\u00e1 pagar impuestos ni a Asiria ni a las otras naciones. Yo lo enviar\u00e9 como prisionero a otras naciones lejanas, y por un tiempo no tendr\u00e1 reyes ni jefes."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbIsraelitas, ustedes han construido muchos altares, que s\u00f3lo les sirven para pecar."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Yo les di muchas ense\u00f1anzas, y se las puse por escrito, pero ustedes las despreciaron."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Les encanta presentar ofrendas, y luego se comen la carne de los animales que presentan; pero todo eso me disgusta. Yo soy su Dios, y tengo presente sus muchos pecados. Por eso los voy a castigar, y volver\u00e1n a ser esclavos de Egipto."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bbIsraelitas, ustedes se olvidan de m\u00ed, que soy su creador. Construyen palacios, edifican ciudades y altas murallas, pero yo le prender\u00e9 fuego a todo lo que construyan\u00bb."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dios castigar\u00e1 a Israel - El profeta le dijo al pueblo: \u00ab\u00a1No cantes victoria, Israel! \u00a1No imites a esos pueblos que saltan de alegr\u00eda! Te has apartado de Dios; has adorado a dioses falsos. Has sido infiel a tu Dios, porque al ver tus cosechas diste gracias a dioses falsos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00bbPor eso, pueblo de Israel, faltar\u00e1 el trigo en tus graneros y el vino en tus bodegas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "No tendr\u00e1s pan ni vino para ofrecerlos en honor de tu Dios; el poco pan que comas ser\u00e1 como pan de velorio: s\u00f3lo sirve para calmar el hambre, pero no para ofrec\u00e9rselo a Dios, porque Dios no lo acepta. \u00bbIsrael, ya no vivir\u00e1s en la tierra que Dios te dio. M\u00e1s bien volver\u00e1s al pa\u00eds de Egipto y al pa\u00eds de Asiria. All\u00ed tendr\u00e1s que alimentarte con lo que Dios te ha prohibido comer."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "No tendr\u00e1s pan ni vino para ofrecerlos en honor de tu Dios; el poco pan que comas ser\u00e1 como pan de velorio: s\u00f3lo sirve para calmar el hambre, pero no para ofrec\u00e9rselo a Dios, porque Dios no lo acepta. \u00bbIsrael, ya no vivir\u00e1s en la tierra que Dios te dio. M\u00e1s bien volver\u00e1s al pa\u00eds de Egipto y al pa\u00eds de Asiria. All\u00ed tendr\u00e1s que alimentarte con lo que Dios te ha prohibido comer."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ya no podr\u00e1s celebrar ninguna fiesta en honor de Dios."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Si escapas de la destrucci\u00f3n, Egipto se encargar\u00e1 de atraparte, y te enterrar\u00e1 en la ciudad de Menfis. \u00a1En tus ciudades y entre tus tesoros crecer\u00e1n la maleza y los espinos!\u00bb"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dios dijo: \u00abPronto entender\u00e1s, Israel, que ya ha llegado el d\u00eda en que te dar\u00e9 tu merecido. Tan grande es tu maldad, y tan exagerado es tu odio, que llamas \u201ctontos\u201d y \u201clocos\u201d a los profetas que te he enviado. Los envi\u00e9 para avisarte del peligro, pero t\u00fa les tendiste trampas; \u00a1ni en mi propio templo les ocultaste tu gran odio!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dios dijo: \u00abPronto entender\u00e1s, Israel, que ya ha llegado el d\u00eda en que te dar\u00e9 tu merecido. Tan grande es tu maldad, y tan exagerado es tu odio, que llamas \u201ctontos\u201d y \u201clocos\u201d a los profetas que te he enviado. Los envi\u00e9 para avisarte del peligro, pero t\u00fa les tendiste trampas; \u00a1ni en mi propio templo les ocultaste tu gran odio!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tu maldad es tan grande que en nada eres diferente de los que viv\u00edan en Guibe\u00e1; \u00a1pero no olvidar\u00e9 tu maldad y te castigar\u00e9 por tus pecados!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbGrande fue mi alegr\u00eda cuando te hall\u00e9 por primera vez. Fue como hallar uvas en el desierto; \u00a1fue como cortar los primeros frutos! Pero al llegar a Baal-peor tus antepasados se volvieron repugnantes por adorar a dioses falsos, a esos \u00eddolos que tanto amaban."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbIsrael tiene grandes riquezas, pero esas riquezas no durar\u00e1n; \u00a1volar\u00e1n como hojas al viento! Sus mujeres ya no tendr\u00e1n hijos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Y si llegaran a tenerlos, yo les quitar\u00e9 la vida. \u00a1Pobres de ellos cuando yo los abandone!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00bbIsrael y Tiro se parecen: los dos pa\u00edses tienen un hermoso territorio, \u00a1pero Israel conduce a sus hijos por un camino de muerte!\u00bb"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Oraci\u00f3n de Oseas - \u00abDios nuestro, \u00a1dales su merecido! \u00a1Que no tengan hijos sus mujeres! Y, si acaso llegan a tenerlos, \u00a1que no puedan alimentarlos!\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Respuesta de Dios - \u00abUstedes los israelitas llegaron a Guilgal y cometieron toda clase de maldad; por eso he dejado de amarlos, y los echar\u00e9 de aqu\u00ed. Ustedes son tan rebeldes como lo fueron sus jefes; por eso he dejado de amarlos."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00bbUstedes, israelitas, han sido heridos de muerte; \u00a1son como un \u00e1rbol con ra\u00edces secas, que ya no da fruto! Si acaso llegan a tener hijos, yo les quitar\u00e9 la vida, aunque los quieran mucho\u00bb."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Habla el profeta - Oseas le dijo al pueblo: \u00abIsraelitas, mi Dios los rechazar\u00e1 porque lo han desobedecido. Por eso perder\u00e1n su patria y andar\u00e1n vagando entre las naciones."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00bbUstedes, israelitas, llegaron a ser muy ricos; \u00a1parec\u00edan vi\u00f1as cargadas de uvas! Pero mientras m\u00e1s ricos eran, m\u00e1s templos constru\u00edan para sus dioses; mientras m\u00e1s f\u00e9rtil era su tierra, m\u00e1s bellos eran los monumentos que constru\u00edan para sus \u00eddolos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00bbPor eso Dios los va a castigar; destruir\u00e1 sus templos y monumentos, y les har\u00e1 pagar por su pecado, pues quieren al mismo tiempo amar a Dios y a los dioses falsos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bbAhora ustedes dir\u00e1n: \u201cPor no respetar a Dios, nos hemos quedado sin rey. Pero aunque lo tuvi\u00e9ramos, ya no podr\u00eda ayudarnos\u201d."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bbUstedes hablan por hablar; hacen tratos y no los cumplen. \u00a1Ustedes han sembrado maldad donde deber\u00eda haber justicia!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bbLos habitantes de Samaria, la ciudad capital de Israel, se sienten orgullosos del toro que adoran en Bet-av\u00e9n. Pero vendr\u00e1 el ej\u00e9rcito asirio y se llevar\u00e1 ese \u00eddolo a su pa\u00eds como un regalo para su rey. \u00bbPor eso los israelitas lloran y tiemblan de miedo, junto con sus sacerdotes; ahora todos se averg\u00fcenzan de haber adorado a ese \u00eddolo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00bbLos habitantes de Samaria, la ciudad capital de Israel, se sienten orgullosos del toro que adoran en Bet-av\u00e9n. Pero vendr\u00e1 el ej\u00e9rcito asirio y se llevar\u00e1 ese \u00eddolo a su pa\u00eds como un regalo para su rey. \u00bbPor eso los israelitas lloran y tiemblan de miedo, junto con sus sacerdotes; ahora todos se averg\u00fcenzan de haber adorado a ese \u00eddolo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Su rey, que vive en Samaria, ser\u00e1 arrastrado por el r\u00edo como un pedazo de madera."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbLos templos que est\u00e1n en los cerros ser\u00e1n destruidos por completo, porque all\u00ed pecaban adorando a dioses falsos. En sus ruinas crecer\u00e1n la maleza y las espinas. \u00bbEntonces ustedes los israelitas desear\u00e1n que una monta\u00f1a les caiga encima y los mate\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Dios reprende a Israel - Dios le dijo a su pueblo: \u00abIsraelitas, \u00a1ustedes son unos malvados! Comenzaron a pecar en Guibe\u00e1, y no han dejado de hacerlo; por eso ser\u00e1n destruidos en el mismo lugar donde pecaron."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Har\u00e9 que las naciones se unan contra ustedes; as\u00ed los castigar\u00e9, y quedar\u00e9 satisfecho. Ustedes me obedec\u00edan con alegr\u00eda, pero es tanto lo que han pecado que ahora tendr\u00e9 que castigarlos. Ni los de Jud\u00e1 ni los de Israel escapar\u00e1n del castigo\u00bb."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Har\u00e9 que las naciones se unan contra ustedes; as\u00ed los castigar\u00e9, y quedar\u00e9 satisfecho. Ustedes me obedec\u00edan con alegr\u00eda, pero es tanto lo que han pecado que ahora tendr\u00e9 que castigarlos. Ni los de Jud\u00e1 ni los de Israel escapar\u00e1n del castigo\u00bb."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Habla el profeta - Oseas le dijo al pueblo: \u00ab\u00a1Prep\u00e1rense para buscar a Dios! Ustedes son como un campo nuevo; siembren la semilla de justicia, y tendr\u00e1n una cosecha de amor. Entonces Dios vendr\u00e1 y los salvar\u00e1; ser\u00e1 como la lluvia cuando cae sobre la tierra seca."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00bbPero ustedes han sembrado maldad; por eso ahora cosechan violencia y comen el fruto de sus mentiras. Pusieron su confianza en el poder de su ej\u00e9rcito."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ahora estalla la guerra, las fuertes murallas son destruidas, y mueren las madres y los hijos, como cuando el rey Salm\u00e1n destruy\u00f3 la ciudad de Bet-arbel."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Esto mismo les ha pasado a los habitantes de Betel, porque es grande su maldad. \u00a1Tan pronto como amanezca, el rey de Israel perder\u00e1 la vida!\u00bb"
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El amor de Dios por su pueblo - Dios le dijo a su pueblo: \u00abIsrael, cuando eras un pa\u00eds joven, yo te demostr\u00e9 mi amor por ti. Yo te saqu\u00e9 de Egipto porque eres un hijo para m\u00ed."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pero mientras m\u00e1s te llamaba, m\u00e1s te alejabas de m\u00ed, y les presentabas ofrendas a tus \u00eddolos y dioses falsos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bbIsrael, por el gran amor que te tengo te llev\u00e9 de la mano como a un ni\u00f1o, te ense\u00f1\u00e9 a caminar, te di de comer y te ayud\u00e9 en tus problemas; pero no te diste cuenta de todos estos cuidados."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bbIsrael, por el gran amor que te tengo te llev\u00e9 de la mano como a un ni\u00f1o, te ense\u00f1\u00e9 a caminar, te di de comer y te ayud\u00e9 en tus problemas; pero no te diste cuenta de todos estos cuidados."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bbNo quisiste volver a m\u00ed; no quisiste dejar tu mala conducta. Por eso te castigar\u00e9 y volver\u00e1s a ser esclavo en Egipto; por eso Asiria te dominar\u00e1."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Habr\u00e1 guerra en tus ciudades, tus enemigos matar\u00e1n a toda tu gente, y echar\u00e1n a perder tus planes."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbPueblo m\u00edo, ya lo has decidido; me abandonaste por otros dioses. Los crees m\u00e1s fuertes que yo, pero no podr\u00e1n ayudarte."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbIsraelitas, \u00a1yo no puedo abandonarlos! \u00a1No ser\u00eda capaz de hacerlo! \u00a1No podr\u00eda destruirlos, como destru\u00ed a la gente malvada de Adm\u00e1 y Sebo\u00edm! \u00a1Mi gran amor por ustedes no me lo permite!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbNo volver\u00e9 a enojarme con ustedes; ni volver\u00e9 a destruirlos, pues no soy un simple hombre; \u00a1yo soy Dios, y habito en medio de mi pueblo!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbYo rugir\u00e9 como un le\u00f3n, y ustedes me obedecer\u00e1n. Desde Egipto y desde Asiria, sus descendientes volver\u00e1n a m\u00ed; vendr\u00e1n temblando de miedo, como las aves que vienen del oeste, y yo los llevar\u00e9 a sus casas para que vuelvan a habitarlas. Yo soy el Dios de Israel, y les juro que as\u00ed ser\u00e1."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbYo rugir\u00e9 como un le\u00f3n, y ustedes me obedecer\u00e1n. Desde Egipto y desde Asiria, sus descendientes volver\u00e1n a m\u00ed; vendr\u00e1n temblando de miedo, como las aves que vienen del oeste, y yo los llevar\u00e9 a sus casas para que vuelvan a habitarlas. Yo soy el Dios de Israel, y les juro que as\u00ed ser\u00e1."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Los pecados del pueblo de Dios - \u00bbUstedes los israelitas me mienten todo el tiempo; siempre me est\u00e1n enga\u00f1ando. Y ustedes los de Jud\u00e1 me traicionan, pues adoran a dioses falsos."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Son cada vez m\u00e1s mentirosos y violentos. Hacen pactos con Asiria, y env\u00edan regalos a Egipto; \u00a1y hasta piensan que del desierto les puede llegar ayuda!\u00bb"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Habla el profeta - Oseas le dijo al pueblo: \u00abDios ha iniciado un juicio contra el pueblo de Israel; va a castigar su mala conducta."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bbDesde antes de nacer Jacob, el antepasado de ustedes, enga\u00f1\u00f3 a su hermano; y cuando lleg\u00f3 a ser hombre Dios se le apareci\u00f3 en Betel. All\u00ed Jacob luch\u00f3 con un \u00e1ngel, \u00a1y consigui\u00f3 vencerlo! Luego, con l\u00e1grimas en los ojos, le pidi\u00f3 a Dios que lo perdonara, y Dios lo perdon\u00f3."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bbDesde antes de nacer Jacob, el antepasado de ustedes, enga\u00f1\u00f3 a su hermano; y cuando lleg\u00f3 a ser hombre Dios se le apareci\u00f3 en Betel. All\u00ed Jacob luch\u00f3 con un \u00e1ngel, \u00a1y consigui\u00f3 vencerlo! Luego, con l\u00e1grimas en los ojos, le pidi\u00f3 a Dios que lo perdonara, y Dios lo perdon\u00f3."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bb\u00a1Nuestro Dios es el Dios todopoderoso!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Por eso, israelitas, p\u00eddanle a Dios que los perdone, act\u00faen con amor y con justicia, y conf\u00eden siempre en su Dios\u00bb."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Habla Dios - Dios le dijo al pueblo: \u00abIsraelitas, ustedes son como los comerciantes que enga\u00f1an a sus clientes: \u00a1les gusta usar pesas falsas! Se creen muy ricos y que tienen grandes riquezas; piensan que nadie puede probar que todo se lo han robado."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Habla Dios - Dios le dijo al pueblo: \u00abIsraelitas, ustedes son como los comerciantes que enga\u00f1an a sus clientes: \u00a1les gusta usar pesas falsas! Se creen muy ricos y que tienen grandes riquezas; piensan que nadie puede probar que todo se lo han robado."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbPero yo soy su Dios desde que estaban en Egipto, y los har\u00e9 vivir de nuevo en carpas, como cuando andaban en el desierto."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Yo les he hablado muchas veces por medio de mis profetas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bb\u00a1Los israelitas que viven en Galaad, son gente malvada! Van a Guilgal, y all\u00ed matan toros para ofrecerlos a sus dioses; \u00a1pero yo los destruir\u00e9 por completo! \u00a1Sus altares quedar\u00e1n en ruinas! \u00a1Quedar\u00e1n esparcidos por el campo!\u00bb"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Habla el profeta - Oseas dijo: \u00abJacob, antepasado de ustedes, huy\u00f3 al pa\u00eds de los arameos y all\u00ed, para conseguir esposa, trabaj\u00f3 como pastor de ovejas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Por medio de un profeta, Dios cuid\u00f3 de los israelitas y los sac\u00f3 de Egipto."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pero ahora los israelitas han hecho enojar a Dios, por eso los castigar\u00e1. \u00a1Les har\u00e1 pagar sus cr\u00edmenes y toda la maldad que han cometido!"
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dios castigar\u00e1 a Israel - \u00bbHubo un tiempo, cuando la tribu de Efra\u00edn hablaba y las dem\u00e1s tribus de Israel escuchaban con respeto; pero luego la gente de Efra\u00edn ador\u00f3 al dios Baal, y \u00e9sa fue su sentencia de muerte."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00a1Y todav\u00eda sigue pecando! A sus artesanos les piden que hagan toros de plata, y ellos los fabrican a su gusto. \u00a1Besan a esos dioses falsos y les presentan ofrendas!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00bbPor eso, pronto dejar\u00e1n de existir. Se esfumar\u00e1n como la niebla y como el roc\u00edo de la ma\u00f1ana. El viento los arrastrar\u00e1 como a hojas secas, como al humo que sale de la chimenea\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dios le dijo a su pueblo: \u00abIsrael, yo soy tu Dios; no tienes otro salvador. Yo he sido tu \u00fanico Dios desde que estabas en Egipto."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Yo te cuid\u00e9 y te aliment\u00e9 cuando andabas por el desierto; pero te llenaste de orgullo y te olvidaste de m\u00ed en cuanto calmaste tu hambre."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Yo te cuid\u00e9 y te aliment\u00e9 cuando andabas por el desierto; pero te llenaste de orgullo y te olvidaste de m\u00ed en cuanto calmaste tu hambre."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbPor eso voy a tratarte con la misma furia de un le\u00f3n. Me esconder\u00e9 en el camino y te atacar\u00e9 como un leopardo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00a1Te atacar\u00e9 como una osa que ha perdido a sus cachorros! Te desgarrar\u00e9 el pecho, y all\u00ed mismo te har\u00e9 pedazos; te devorar\u00e9 como un le\u00f3n, \u00a1como una fiera salvaje!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Israel, yo soy tu \u00fanica ayuda, \u00a1pero ahora voy a destruirte!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbT\u00fa les dijiste a tus jefes que quer\u00edas tener reyes y pr\u00edncipes para que salvaran tus ciudades; pero, \u00bfd\u00f3nde est\u00e1n esos reyes? \u00bfY qu\u00e9 pas\u00f3 con esos jefes?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tanto me hiciste enojar que te di el rey que pediste, pero tanto me has hecho enojar que ahora te lo he quitado;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00a1he anotado en un libro toda la maldad que has cometido!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00bb\u00a1Qu\u00e9 tonto eres, Israel! \u00a1Te pareces a esos ni\u00f1os que est\u00e1n a punto de nacer, pero que no se acomodan!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bfY as\u00ed esperas todav\u00eda que yo te libre de la muerte? \u00a1Pues ya no te mostrar\u00e9 compasi\u00f3n! Muerte, \u00a1ven con tu poder, ven a destruir a este pueblo!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00bbTal vez vuelvas a prosperar, pero yo te destruir\u00e9 como el viento del desierto que seca los manantiales. Entonces tus enemigos se adue\u00f1ar\u00e1n de todos tus tesoros."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Castigar\u00e9 a Samaria, tu ciudad capital, porque su gente se rebel\u00f3 contra m\u00ed. Sus habitantes morir\u00e1n en la batalla, a sus ni\u00f1os los estrellar\u00e1n contra el suelo, \u00a1y partir\u00e1n en dos a las embarazadas!\u00bb"
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Habla el profeta - Oseas le dijo al pueblo: \u00ab\u00a1Israel, Israel, tu maldad te ha hecho caer! \u00a1Arrepi\u00e9ntete y regresa a tu Dios! Llega ante \u00e9l con esta oraci\u00f3n: \u201cDios m\u00edo, t\u00fa eres bueno; \u00a1perdona nuestros pecados y acepta nuestras alabanzas!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Habla el profeta - Oseas le dijo al pueblo: \u00ab\u00a1Israel, Israel, tu maldad te ha hecho caer! \u00a1Arrepi\u00e9ntete y regresa a tu Dios! Llega ante \u00e9l con esta oraci\u00f3n: \u201cDios m\u00edo, t\u00fa eres bueno; \u00a1perdona nuestros pecados y acepta nuestras alabanzas!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Asiria no puede salvarnos, ni con todos sus carros de guerra, as\u00ed que no volveremos a adorar a dioses que hemos fabricado. S\u00f3lo en ti, Dios nuestro, encuentra el hu\u00e9rfano ternura\u201d\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dios promete bendecir a su pueblo - Dios les dijo a los israelitas: \u00abYa mi enojo se ha calmado. Ahora voy a mostrarles cu\u00e1nto los amo y no volver\u00e1n a ser rebeldes."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Har\u00e9 que prosperen. Ser\u00e9 para ustedes como el roc\u00edo, que hace florecer a los lirios. Los har\u00e9 crecer como un \u00e1rbol; as\u00ed echar\u00e1n profundas ra\u00edces y extender\u00e1n sus hermosas ramas; tendr\u00e1n la belleza de los olivos y el grato aroma de los cedros."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Har\u00e9 que prosperen. Ser\u00e9 para ustedes como el roc\u00edo, que hace florecer a los lirios. Los har\u00e9 crecer como un \u00e1rbol; as\u00ed echar\u00e1n profundas ra\u00edces y extender\u00e1n sus hermosas ramas; tendr\u00e1n la belleza de los olivos y el grato aroma de los cedros."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Todos vivir\u00e1n en paz bajo la sombra de su \u00e1rbol; volver\u00e1n a cultivar sus campos, ver\u00e1n florecer sus vi\u00f1as y disfrutar\u00e1n del aroma del monte L\u00edbano."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbIsraelitas, dejen ya esos \u00eddolos in\u00fatiles. \u00a1Yo ser\u00e9 quien los cuide y quien escuche sus oraciones! Yo les dar\u00e9 sombra como un pino, y en m\u00ed encontrar\u00e1n bienestar\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mensaje final del libro - Si alguien es inteligente y sabio, debe prestar atenci\u00f3n a este mensaje. Todo lo que Dios hace es correcto, y la gente buena sigue su ejemplo. \u00a1Pero los malvados son desobedientes y por eso Dios los destruye!"
+                }
+            }
+        }
+    }
+}

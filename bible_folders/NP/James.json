@@ -1,0 +1,464 @@
+{
+    "version": "NP",
+    "book_name": "James",
+    "book_nr": "59",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Powitanie - Jakub, s\u0142uga Boga i Pana Jezusa Chrystusa, do dwunastu pokole\u0144, \u017cyj\u0105cych na obczy\u017anie: Pozdrowienia!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Wiara i m\u0105dro\u015b\u0107 - Drodzy bracia, za najwy\u017csz\u0105 rado\u015b\u0107 uwa\u017cajcie te chwile, gdy jeste\u015bcie poddawani przer\u00f3\u017cnym pr\u00f3bom."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Wiedzcie, \u017ce takie do\u015bwiadczanie waszej wiary kszta\u0142tuje wytrwa\u0142o\u015b\u0107."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Wytrwa\u0142o\u015b\u0107 natomiast niech was prowadzi do dzie\u0142a doskona\u0142ego, aby\u015bcie byli doskonali, nienaganni i bez jakichkolwiek brak\u00f3w."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Je\u015bli komu\u015b z was brak m\u0105dro\u015bci, niech prosi o ni\u0105 Boga, kt\u00f3ry obdarza wszystkich szczodrze i bez wypominania \u2014 i m\u0105dro\u015b\u0107 b\u0119dzie mu dana."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Niech jednak prosi z wiar\u0105, porzuci w\u0105tpliwo\u015bci, bo cz\u0142owiek, kt\u00f3ry w\u0105tpi, przypomina fal\u0119 morsk\u0105, gnan\u0105 i miotan\u0105 przez wiatr."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kto\u015b taki niech nie liczy, \u017ce co\u015b od Pana otrzyma,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "dlatego \u017ce on sam nie wie, czego chce, jest niesta\u0142y w ca\u0142ym swoim post\u0119powaniu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Niech ubogi brat szczyci si\u0119 swoim wywy\u017cszeniem."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bogaty natomiast niech ma na wzgl\u0119dzie swoje poni\u017cenie, poniewa\u017c przeminie jak kwiat trawy."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Oto wzesz\u0142o s\u0142o\u0144ce, przypiek\u0142o promieniami, wysuszy\u0142o traw\u0119, jej kwiat opad\u0142 i pi\u0119kno przepad\u0142o. Podobnie zwi\u0119dnie bogaty na drogach swego \u017cycia."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Szcz\u0119\u015bliwy cz\u0142owiek, kt\u00f3ry przechodzi przez pr\u00f3b\u0119, bo gdy zostanie wypr\u00f3bowany, otrzyma wieniec \u017cycia, kt\u00f3ry B\u00f3g obieca\u0142 tym, kt\u00f3rzy Go kochaj\u0105."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Niech nikt, kuszony przez z\u0142o, nie m\u00f3wi, \u017ce to B\u00f3g go kusi. B\u00f3g jest niepodatny na z\u0142o i sam nikogo nim nie do\u015bwiadcza."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u0179r\u00f3d\u0142em pokus cz\u0142owieka s\u0105 jego w\u0142asne \u017c\u0105dze. To one go poci\u0105gaj\u0105 i n\u0119c\u0105."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Gdy \u017c\u0105dza si\u0119 rozwinie, rodzi grzech, a gdy grzech dojrzeje, rodzi \u015bmier\u0107."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nie dajcie si\u0119 zwie\u015b\u0107, moi kochani bracia."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ca\u0142e dobro, kt\u00f3rym mo\u017cna obdarzy\u0107, i wszelki doskona\u0142y dar, pochodz\u0105 z g\u00f3ry, od Ojca \u015bwiat\u0142o\u015bci. W Nim nie ma \u017cadnej zmienno\u015bci ani cienia odmiany."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Gdy zechcia\u0142, zrodzi\u0142 nas przez S\u0142owo prawdy, by mie\u0107 w nas jakby pierwszy plon swoich stworze\u0144."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "O po\u017cytku s\u0142uchania - Wiedzcie, moi kochani bracia, \u017ce ka\u017cdy cz\u0142owiek powinien by\u0107 skory do s\u0142uchania, nieskory do m\u00f3wienia i nieskory do gniewu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Bo gniew cz\u0142owieka nie s\u0142u\u017cy sprawiedliwo\u015bci Bo\u017cej."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Dlatego odrzu\u0107cie wszystko, co budzi odraz\u0119, ca\u0142\u0105 niepotrzebn\u0105 z\u0142o\u015b\u0107, i z \u0142agodno\u015bci\u0105 przyjmijcie zasiane w was S\u0142owo, kt\u00f3re mo\u017ce zbawi\u0107 wasze dusze."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "B\u0105d\u017acie tak\u017ce wykonawcami S\u0142owa, a nie tylko s\u0142uchaczami, oszukuj\u0105cymi samych siebie."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "S\u0142uchacz S\u0142owa, w przeciwie\u0144stwie do wykonawcy, przypomina cz\u0142owieka, kt\u00f3ry przygl\u0105da si\u0119 swojej twarzy w lustrze."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Przyjrza\u0142 si\u0119, odszed\u0142 i zaraz zapomnia\u0142, jak wygl\u0105da."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kto natomiast wnikn\u0105\u0142 w doskona\u0142e prawo wolno\u015bci i trwa w nim, ten nie jest s\u0142uchaczem, kt\u00f3ry zapomina. Jest tw\u00f3rc\u0105 dzie\u0142a. I w swoim dzia\u0142aniu b\u0119dzie on szcz\u0119\u015bliwy."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Je\u015bli kto\u015b s\u0105dzi, \u017ce jest bogobojny, lecz nie pow\u015bci\u0105ga swego j\u0119zyka, to oszukuje swoje serce i jego bogobojno\u015b\u0107 pozbawiona jest tre\u015bci."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Czyst\u0105 i nieskaziteln\u0105 bogobojno\u015bci\u0105, w ocenie Boga Ojca, jest nie\u015b\u0107 pomoc sierotom i wdowom w ich ucisku i strzec si\u0119 splamienia ze strony \u015bwiata."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nie dla stronniczo\u015bci - Drodzy bracia, jako ludzie ufaj\u0105cy naszemu Panu Jezusowi, Chrystusowi otoczonemu chwa\u0142\u0105, nie wyr\u00f3\u017cniajcie jednych os\u00f3b kosztem innych."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Na przyk\u0142ad, co by\u015bcie zrobili, gdyby na wasze zgromadzenie przyszed\u0142 cz\u0142owiek w wykwintnej szacie, ze z\u0142otym pier\u015bcieniem na palcu, oraz cz\u0142owiek ubogi, w nie\u015bwie\u017cym ubraniu?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Je\u015bli zwr\u00f3ciliby\u015bcie uwag\u0119 na tego bogatego i zaproponowali: Usi\u0105d\u017a tu sobie wygodnie, a ubogiemu polecili: Ty sta\u0144 tam albo usi\u0105d\u017a przy moim podn\u00f3\u017cku,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "to czy nie by\u0142by to os\u0105d? A wy \u2014 czy nie postawiliby\u015bcie siebie w roli s\u0119dzi\u00f3w, rozumuj\u0105cych jednak w niew\u0142a\u015bciwy spos\u00f3b?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pos\u0142uchajcie, moi kochani bracia, czy to nie B\u00f3g wybra\u0142 ludzi ubogich w oczach \u015bwiata, a bogatych w wierze, i przez to dziedzic\u00f3w Kr\u00f3lestwa, kt\u00f3re obieca\u0142 tym, kt\u00f3rzy Go pokochali?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Wy tymczasem pogardzili\u015bcie ubogim! Czy to nie bogaci was wyzyskuj\u0105 i czy nie oni ci\u0105gaj\u0105 was po s\u0105dach?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Czy nie oni blu\u017ani\u0105 wspania\u0142emu imieniu, kt\u00f3re zosta\u0142o nad wami wezwane?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Je\u015bli wiernie \u2014 i zgodnie z Pismem \u2014 wype\u0142niacie kr\u00f3lewskie prawo: Masz kocha\u0107 swojego bli\u017aniego tak, jak samego siebie, post\u0119pujecie szlachetnie."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Je\u015bli natomiast wyr\u00f3\u017cniacie jednych kosztem drugich, pope\u0142niacie grzech i w \u015bwietle Prawa jeste\u015bcie przest\u0119pcami."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bo gdyby kto\u015b zado\u015b\u0107uczyni\u0142 ca\u0142emu Prawu, a potkn\u0105\u0142 si\u0119 tylko na jednym przykazaniu, i tak by\u0142by winien naruszenia ca\u0142o\u015bci."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ten bowiem, kt\u00f3ry powiedzia\u0142: Masz nie cudzo\u0142o\u017cy\u0107, powiedzia\u0142 r\u00f3wnie\u017c: Masz nie zabija\u0107. Je\u015bli wi\u0119c nie cudzo\u0142o\u017cysz, ale zabijasz \u2014 z\u0142ama\u0142e\u015b Prawo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "M\u00f3wcie i post\u0119pujcie jak ci, kt\u00f3rzy maj\u0105 by\u0107 s\u0105dzeni przez Prawo wolno\u015bci."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nad tym, kto nie okaza\u0142 mi\u0142osierdzia, odbywa si\u0119 s\u0105d bez mi\u0142osierdzia. Mi\u0142osierdzie przezwyci\u0119\u017ca s\u0105d."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Zwi\u0105zek wiary z uczynkami - Co za po\u017cytek, drodzy bracia, gdy kto\u015b twierdzi, \u017ce ma wiar\u0119, a nie id\u0105 za tym uczynki? Czy taka wiara mo\u017ce go zbawi\u0107?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Na przyk\u0142ad: Brat lub siostra nie maj\u0105 w co si\u0119 ubra\u0107. Codziennie brakuje im chleba."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ale kto\u015b z was im m\u00f3wi: Id\u017acie w pokoju, ogrzejcie si\u0119 i nasy\u0107cie \u2014 nie robi\u0105c nic dla zaspokojenia ich potrzeb. Jaka korzy\u015b\u0107 z samych s\u0142\u00f3w?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Podobnie z wiar\u0105. Je\u015bli nie towarzysz\u0105 jej uczynki, jest martwa jako taka."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kto\u015b m\u00f3g\u0142by nawet powiedzie\u0107: Ty masz sam\u0105 wiar\u0119, ja mam r\u00f3wnie\u017c uczynki. Poka\u017c mi swoj\u0105 wiar\u0119, nie odwo\u0142uj\u0105c si\u0119 do uczynk\u00f3w, a ja ci poka\u017c\u0119 moj\u0105, o kt\u00f3rej \u015bwiadcz\u0105 czyny."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ty wierzysz, \u017ce B\u00f3g jest jeden? Pi\u0119knie! Demony r\u00f3wnie\u017c wierz\u0105 \u2014 i dr\u017c\u0105."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Chcesz si\u0119 przekona\u0107, bezmy\u015blny cz\u0142owieku, \u017ce wiara bez uczynk\u00f3w jest pusta?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Przyjrzyj si\u0119 naszemu ojcu Abrahamowi. Dzi\u0119ki czemu zosta\u0142 usprawiedliwiony, gdy ofiarowa\u0142 na o\u0142tarzu swego syna Izaaka? Czy nie dzi\u0119ki uczynkom?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Wiara wyra\u017anie wsp\u00f3\u0142dzia\u0142a\u0142a z jego uczynkami. Uczynki uczyni\u0142y t\u0119 wiar\u0119 doskona\u0142\u0105."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "W ten spos\u00f3b wype\u0142ni\u0142y si\u0119 s\u0142owa Pisma: Abraham uwierzy\u0142 Bogu i uznano mu to za sprawiedliwo\u015b\u0107. Zosta\u0142 te\u017c nazwany przyjacielem Boga."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Widzicie wi\u0119c, \u017ce cz\u0142owiek zostaje usprawiedliwiony dzi\u0119ki uczynkom, a nie jedynie dzi\u0119ki wierze."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Podobnie by\u0142o z Rachab, prostytutk\u0105. Ona r\u00f3wnie\u017c zosta\u0142a usprawiedliwiona dzi\u0119ki uczynkom, bo przecie\u017c przyj\u0119\u0142a zwiadowc\u00f3w, a nast\u0119pnie wypu\u015bci\u0142a ich inn\u0105 drog\u0105."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ot\u00f3\u017c jak cia\u0142o bez ducha jest martwe, tak martwa jest wiara bez uczynk\u00f3w."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O odpowiedzialno\u015bci nauczycieli - Przesta\u0144cie, drodzy bracia, tak garn\u0105\u0107 si\u0119 do nauczania. Wiedzcie, \u017ce dla nas, nauczycieli, wyrok b\u0119dzie surowszy."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Wszyscy potykamy si\u0119 w wielu sprawach, ten jednak, kto nie uchybia w mowie, jest cz\u0142owiekiem doskona\u0142ym. Potrafi on utrzyma\u0107 w ryzach ca\u0142e swoje cia\u0142o."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Gdy koniom zak\u0142adamy w\u0119dzid\u0142a, aby nam by\u0142y pos\u0142uszne, to kierujemy ca\u0142ym ich cia\u0142em."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Okr\u0119ty r\u00f3wnie\u017c, cho\u0107 s\u0105 ogromne i poruszane przez pot\u0119\u017cne wiatry, za spraw\u0105 niewielkiego steru p\u0142yn\u0105 tam, dok\u0105d je kieruje wola sternika."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Podobnie j\u0119zyk. Jest ma\u0142ym cz\u0142onkiem, a szczyci si\u0119 z wielkich spraw. Zauwa\u017ccie, jak wielki las mo\u017ce sp\u0142on\u0105\u0107 z powodu ma\u0142ego ognia!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "J\u0119zyk jest w\u0142a\u015bnie takim ogniem, \u015bwiatem nieprawo\u015bci po\u015br\u00f3d naszych cz\u0142onk\u00f3w. Plami on ca\u0142e cia\u0142o i rozpalony przez z\u0142o miejsca kary wprawia w ruch ko\u0142o najni\u017cszych sk\u0142onno\u015bci."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Bo wszelki rodzaj dzikich zwierz\u0105t, ptak\u00f3w, p\u0142az\u00f3w i stworze\u0144 morskich da si\u0119 ujarzmi\u0107 \u2014 i cz\u0142owiek to uczyni\u0142."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A jednak nikt z ludzi nie ujarzmi\u0142 jeszcze j\u0119zyka, tego krn\u0105brnego z\u0142a, pe\u0142nego \u015bmierciono\u015bnego jadu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "S\u0142awimy nim Pana i Ojca, i przeklinamy nim ludzi, stworzonych na Bo\u017ce podobie\u0144stwo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Z tych samych ust wychodzi b\u0142ogos\u0142awie\u0144stwo i przekle\u0144stwo. Tak, drodzy bracia, by\u0107 nie powinno."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Czy z tego samego \u017ar\u00f3d\u0142a mo\u017ce wyp\u0142ywa\u0107 woda s\u0142odka i gorzka?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Czy figowiec, drodzy bracia, mo\u017ce rodzi\u0107 oliwki, a winoro\u015bl figi? Podobnie gorzkie \u017ar\u00f3d\u0142o nie mo\u017ce wyda\u0107 s\u0142odkiej wody."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "O prawdziwej m\u0105dro\u015bci - Kto mi\u0119dzy wami jest m\u0105dry i uczony? Niech dowiedzie tego szlachetnym \u017cyciem codziennym, tym, \u017ce jego czyny wyp\u0142ywaj\u0105 z \u0142agodno\u015bci cechuj\u0105cej m\u0105dro\u015b\u0107."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Je\u015bli jednak \u017cywicie w sercach gorzk\u0105 zazdro\u015b\u0107 i z\u0142e ambicje, nie chwalcie si\u0119 tym i nie k\u0142amcie wbrew prawdzie."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nie jest to m\u0105dro\u015b\u0107 pochodz\u0105ca z g\u00f3ry, lecz ziemska, zmys\u0142owa, demoniczna."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Bo gdzie jest zazdro\u015b\u0107 i ambicje, tam zamieszanie i wszelki z\u0142y czyn."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "M\u0105dro\u015b\u0107 pochodz\u0105ca z g\u00f3ry jest przede wszystkim czysta, nast\u0119pnie pokojowo usposobiona, uprzejma, daj\u0105ca si\u0119 przekona\u0107, pe\u0142na mi\u0142osierdzia i dobrych owoc\u00f3w, niestronnicza, nieob\u0142udna."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "A plon sprawiedliwo\u015bci jest zasiewany w pokoju dla tych, kt\u00f3rzy wprowadzaj\u0105 pok\u00f3j."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Harmonijne \u017cycie i odpowiedzi na modlitwy - Sk\u0105d wojny i sk\u0105d starcia mi\u0119dzy wami? Czy nie wynikaj\u0105 one z waszych nami\u0119tno\u015bci, kt\u00f3re tocz\u0105 walk\u0119 w waszych cz\u0142onkach?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Po\u017c\u0105dacie, a nie macie. Zabijacie i zazdro\u015bcicie, a nie mo\u017cecie osi\u0105gn\u0105\u0107. Walczycie i wszczynacie spory \u2014 nie macie, bo nie prosicie."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A gdy prosicie, nie otrzymujecie, poniewa\u017c niew\u0142a\u015bciwie prosicie, chc\u0105c tym, co mogliby\u015bcie otrzyma\u0107, zaspokoi\u0107 swoje nami\u0119tno\u015bci."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Wiaro\u0142omni, czy nie wiecie, \u017ce przyja\u017a\u0144 ze \u015bwiatem to wrogo\u015b\u0107 wobec Boga? Je\u015bli wi\u0119c kto\u015b chce by\u0107 przyjacielem \u015bwiata, staje si\u0119 nieprzyjacielem Boga."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Albo czy s\u0105dzicie, \u017ce na darmo Pismo m\u00f3wi: \u017barliwie pragnie On ducha, kt\u00f3remu da\u0142 w nas mieszkanie?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A jeszcze wi\u0119ksz\u0105 \u0142ask\u0119 okazuje w s\u0142owach: B\u00f3g si\u0119 pysznym przeciwstawia, ale pokornym udziela \u0142aski."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Podporz\u0105dkujcie si\u0119 zatem Bogu, przeciwstawcie diab\u0142u, a od was ucieknie."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Zbli\u017ccie si\u0119 do Boga, a zbli\u017cy si\u0119 do was. Obmyjcie r\u0119ce, grzesznicy, i oczy\u015b\u0107cie serca, wy, chwiejni."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Oka\u017ccie \u017cal, zasmu\u0107cie si\u0119 i zap\u0142aczcie. Niech wasz \u015bmiech zamieni si\u0119 w smutek, a rado\u015b\u0107 w przygn\u0119bienie."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Uni\u017ccie si\u0119 przed Panem, a wywy\u017cszy was."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Przeciw os\u0105dzaniu innych - Nie obmawiajcie jedni drugich, bracia. Kto obmawia lub os\u0105dza swego brata, obmawia i os\u0105dza Prawo. Je\u015bli za\u015b s\u0105dzisz Prawo, nie jeste\u015b jego wykonawc\u0105, lecz s\u0119dzi\u0105."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jest tylko jeden Prawodawca i S\u0119dzia, Ten, kt\u00f3ry mo\u017ce zbawi\u0107 lub pot\u0119pi\u0107. Ty natomiast, kim jeste\u015b, \u017ce os\u0105dzasz bli\u017aniego?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Przeciw pewno\u015bci siebie - Teraz s\u0142owo do was, kt\u00f3rzy m\u00f3wicie: Dzi\u015b lub jutro udamy si\u0119 do tego oto miasta, b\u0119dziemy tam pracowa\u0107 przez rok, prowadzi\u0107 handel i czerpa\u0107 zyski."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "A przecie\u017c nawet nie wiecie, co wam przyniesie jutro. Czym jest wasze \u017cycie? Jeste\u015bcie jak mg\u0142a, kt\u00f3ra pojawia si\u0119 na chwil\u0119, a nast\u0119pnie znika."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Powinni\u015bcie raczej m\u00f3wi\u0107: Je\u015bli Pan pozwoli, to do\u017cyjemy i zrobimy to lub owo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wy tymczasem che\u0142picie si\u0119 zarozumiale. Wszelka tego rodzaju che\u0142pliwo\u015b\u0107 jest niew\u0142a\u015bciwa."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kto zatem wie, jak post\u0119powa\u0107 szlachetnie, lecz tak nie post\u0119puje, dopuszcza si\u0119 grzechu."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Zapowied\u017a odp\u0142aty dla bogatych i samolubnych - Teraz odno\u015bnie do was, bogaci. Gorzko zap\u0142aczcie! Nadci\u0105gaj\u0105 na was nieszcz\u0119\u015bcia."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Wasze bogactwo zbutwia\u0142o, a wasze szaty z\u017car\u0142y mole."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Wasze z\u0142oto i srebro pokry\u0142o si\u0119 nalotem, kt\u00f3ry pos\u0142u\u017cy za \u015bwiadectwo przeciwko wam i strawi wasze cia\u0142a jak ogie\u0144. Zgromadzili\u015bcie skarby w dniach ostatecznych."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Oto krzyczy zatrzymana przez was zap\u0142ata robotnik\u00f3w. A z\u017c\u0119li oni wasze pola! Wo\u0142ania \u017cniwiarzy dotar\u0142y do Pana Zast\u0119p\u00f3w."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u017byli\u015bcie na ziemi w zbytku i w przepychu! Utuczyli\u015bcie swe serca w dniu rzezi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Skazali\u015bcie na \u015bmier\u0107 sprawiedliwego, ju\u017c wam si\u0119 nie opiera."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Cierpliwo\u015bci! Nadchodzi s\u0105d - B\u0105d\u017acie wi\u0119c cierpliwi, bracia, a\u017c do przyj\u015bcia Pana. Zauwa\u017ccie, \u017ce rolnik cierpliwie czeka na cenny plon ziemi, na wczesny i p\u00f3\u017any deszcz."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wy r\u00f3wnie\u017c b\u0105d\u017acie cierpliwi. W g\u00f3r\u0119 serca! Przyj\u015bcie Pana jest bliskie."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Przesta\u0144cie na siebie nawzajem narzeka\u0107, bracia! Nie nara\u017cajcie si\u0119 na s\u0105d. Bo oto S\u0119dzia stan\u0105\u0142 u drzwi."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Za przyk\u0142ad nieugi\u0119to\u015bci oraz cierpliwo\u015bci bierzcie, bracia, prorok\u00f3w, kt\u00f3rzy przemawiali w imieniu Pana."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Zauwa\u017ccie, \u017ce tych, kt\u00f3rzy wytrwali, uwa\u017camy za szcz\u0119\u015bliwych. S\u0142yszeli\u015bcie o wytrwa\u0142o\u015bci Joba. Wiecie, jaki by\u0142 cel Pana. Wiecie te\u017c, \u017ce Pan jest bardzo lito\u015bciwy i mi\u0142osierny."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Przede wszystkim, drodzy bracia, przesta\u0144cie przysi\u0119ga\u0107 na niebo, na ziemi\u0119; nie sk\u0142adajcie te\u017c innych przysi\u0105g. Niech wasze tak znaczy tak, a wasze nie \u2014 nie, aby\u015bcie nie popadli pod s\u0105d."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "W obliczu s\u0142abo\u015bci - Czy jest w\u015br\u00f3d was kto\u015b w nieszcz\u0119\u015bciu? Je\u015bli tak, niech si\u0119 modli. Cieszy si\u0119 kto\u015b? Niech \u015bpiewa pie\u015bni."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Czy jest w\u015br\u00f3d was kto\u015b w chorobie? Je\u015bli jest, to niech przywo\u0142a starszych ko\u015bcio\u0142a i niech si\u0119 pomodl\u0105 nad nim wraz z namaszczeniem go oliw\u0105 w imieniu Pana."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A modlitwa wiary uratuje chorego i Pan go pod\u017awignie, a je\u015bli dopu\u015bci\u0142 si\u0119 grzech\u00f3w, b\u0119d\u0105 mu przebaczone."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wyznawajcie zatem grzechy jedni drugim i m\u00f3dlcie si\u0119 o siebie nawzajem, aby\u015bcie w ten spos\u00f3b zostali uzdrowieni. Modlitwa sprawiedliwego mo\u017ce odnie\u015b\u0107 wielki skutek."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Eliasz by\u0142 cz\u0142owiekiem takim jak ka\u017cdy z nas. Modli\u0142 si\u0119 on usilnie, \u017ceby nie pada\u0142 deszcz \u2014 i nie by\u0142o deszczu na ziemi przez trzy lata i sze\u015b\u0107 miesi\u0119cy."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Potem zn\u00f3w si\u0119 modli\u0142 i z nieba spad\u0142 deszcz, a ziemia wyda\u0142a sw\u00f3j plon."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wa\u017cno\u015b\u0107 duszpasterstwa - Drodzy bracia, je\u015bli kto\u015b spo\u015br\u00f3d was zboczy od prawdy, a inny go nawr\u00f3ci,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "niech wie, \u017ce ten, kto nawr\u00f3ci\u0142 grzesznika z jego b\u0142\u0119dnej drogi, uratuje jego dusz\u0119 od \u015bmierci i zakryje mn\u00f3stwo grzech\u00f3w."
+                }
+            }
+        }
+    }
+}

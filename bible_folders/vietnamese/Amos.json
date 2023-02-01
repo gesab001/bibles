@@ -1,0 +1,636 @@
+{
+    "version": "vietnamese",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": 1,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "L\u1eddi c\u1ee7a A-m\u1ed1t, ng\u01b0\u1eddi trong b\u1ecdn ch\u0103n \u1edf Th\u00ea-c\u00f4-a, l\u00e0 l\u1eddi \u0111\u00e3 \u0111\u01b0\u1ee3c soi d\u1eabn cho ng\u01b0\u1eddi v\u1ec1 Y-s\u01a1-ra-\u00ean, \u0111ang \u0111\u1eddi \u00d4-xia, vua Giu-\u0111a, v\u00e0 \u0111ang \u0111\u1eddi Gi\u00ea-r\u00f4-b\u00f4-am, con trai Gi\u00f4-\u00e1ch, vua Y-s\u01a1-ra-\u00ean, hai n\u0103m tr\u01b0\u1edbc c\u01a1n \u0111\u1ed9ng \u0111\u1ea5t.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Ng\u01b0\u1eddi n\u00f3i r\u1eb1ng: \u00d0\u1ee9c Gi\u00ea-h\u00f4-va s\u1ebd g\u1ea7m th\u00e9t t\u1eeb Si-\u00f4n. Ng\u00e0i l\u00e0m cho vang ti\u1ebfng m\u00ecnh ra t\u1eeb Gi\u00ea-ru-sa-lem. Nh\u1eefng \u0111\u1ed3ng c\u1ecf c\u1ee7a k\u1ebb ch\u0103n chi\u00ean s\u1ebd th\u1ea3m s\u1ea7u, ch\u00f3t n\u00fai C\u1ea1t-m\u00ean s\u1ebd kh\u00f4 h\u00e9o.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: B\u1edfi c\u1edb t\u1ed9i \u00e1c c\u1ee7a \u00d0a-m\u00e1ch \u0111\u1ebfn g\u1ea5p ba g\u1ea5p b\u1ed1n l\u1ea7n, n\u00ean ta kh\u00f4ng x\u00e2y b\u1ecf \u00e1n ph\u1ea1t kh\u1ecfi n\u00f3, v\u00ec ch\u00fang n\u00f3 \u0111\u00e3 l\u1ea5y \u0111\u1ed3 \u0111\u1eadp l\u00faa b\u1eb1ng s\u1eaft m\u00e0 \u0111\u1eadp Ga-la-\u00e1t.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Ta s\u1ebd sai l\u1eeda \u0111\u1ebfn trong nh\u00e0 Ha-xa-\u00ean, \u0111\u1eb7ng thi\u00eau nu\u1ed1t \u0111\u1ec1n \u0111\u00e0i c\u1ee7a B\u00ean-Ha-\u0111\u00e1t.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Ta s\u1ebd b\u1ebb g\u00e3y then c\u1ee7a \u00d0a-m\u00e1ch; ta s\u1ebd d\u1ee9t d\u00e2n c\u01b0 kh\u1ecfi tr\u0169ng A-ven, v\u00e0 k\u1ebb c\u1ea7m c\u00e2y tr\u01b0\u1ee3ng kh\u1ecfi nh\u00e0 \u00ca-\u0111en; c\u00f2n d\u00e2n s\u1ef1 Sy-ri s\u1ebd b\u1ecb \u0111\u00e0y qua Ki-r\u01a1 l\u00e0m phu t\u00f9, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: B\u1edfi c\u1edb t\u1ed9i \u00e1c c\u1ee7a Ga-xa \u0111\u1ebfn g\u1ea5p ba g\u1ea5p b\u1ed1n l\u1ea7n, n\u00ean ta kh\u00f4ng x\u00e2y b\u1ecf \u00e1n ph\u1ea1t kh\u1ecfi n\u00f3; v\u00ec ch\u00fang n\u00f3 \u0111\u00e3 \u0111em h\u1ebft d\u00e2n s\u1ef1 \u0111i l\u00e0m phu t\u00f9 m\u00e0 n\u1ed9p cho \u00ca-\u0111\u00f4m.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Ta s\u1ebd sai l\u1eeda \u0111\u1ebfn tr\u00ean v\u00e1ch th\u00e0nh Ga-xa, n\u00f3 s\u1ebd thi\u00eau nu\u1ed1t nh\u1eefng \u0111\u1ec1n \u0111\u00e0i n\u00f3.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Ta s\u1ebd d\u1ee9t d\u00e2n c\u01b0 kh\u1ecfi \u00c1ch-\u0111\u1ed1t v\u00e0 k\u1ebb c\u1ea7m c\u00e2y tr\u01b0\u1ee3ng kh\u1ecfi \u00c1ch-ca-l\u00f4n. Ta s\u1ebd tr\u1edf tay ta ngh\u1ecbch c\u00f9ng \u00c9c-r\u00f4n; v\u00e0 ph\u1ea7n s\u00f3t l\u1ea1i c\u1ee7a ng\u01b0\u1eddi Phi-li-tin s\u1ebd ch\u1ebft, Ch\u00faa Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: B\u1edfi c\u1edb t\u1ed9i \u00e1c c\u1ee7a Ty-r\u01a1 \u0111\u1ebfn g\u1ea5p ba g\u1ea5p b\u1ed1n l\u1ea7n, n\u00ean ta kh\u00f4ng x\u00e2y b\u1ecf \u00e1n ph\u1ea1t kh\u1ecfi n\u00f3; v\u00ec ch\u00fang n\u00f3 \u0111\u00e3 n\u1ed9p h\u1ebft d\u00e2n s\u1ef1 cho \u00ca-\u0111\u00f4m, ch\u1eb3ng h\u1ec1 nh\u1edb \u0111\u1ebfn s\u1ef1 giao \u01b0\u1edbc anh em.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Ta s\u1ebd sai l\u1eeda \u0111\u1ebfn tr\u00ean v\u00e1ch th\u00e0nh Ty-r\u01a1, n\u00f3 s\u1ebd thi\u00eau nu\u1ed1t nh\u1eefng \u0111\u1ec1n \u0111\u00e0i n\u00f3.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: B\u1edfi c\u1edb t\u1ed9i \u00e1c c\u1ee7a \u00ca-\u0111\u00f4m \u0111\u1ebfn g\u1ea5p ba g\u1ea5p b\u1ed1n l\u1ea7n, n\u00ean ta kh\u00f4ng x\u00e2y b\u1ecf \u00e1n ph\u1ea1t kh\u1ecfi n\u00f3; v\u00ec n\u00f3 \u0111\u00e3 d\u00f9ng g\u01b0\u01a1m \u0111u\u1ed5i theo anh em m\u00ecnh, b\u1ebb c\u1ea3 l\u00f2ng th\u01b0\u01a1ng x\u00f3t, v\u00e0 c\u01a1n gi\u1eadn n\u00f3 c\u1ee9 c\u1eafn x\u00e9 kh\u00f4ng th\u00f4i, nu\u00f4i s\u1ef1 th\u1ea1nh n\u1ed9 \u0111\u1eddi \u0111\u1eddi.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Ta s\u1ebd sai l\u1eeda \u0111\u1ebfn tr\u00ean Th\u00ea-man, n\u00f3 s\u1ebd thi\u00eau nu\u1ed1t nh\u1eefng \u0111\u1ec1n \u0111\u00e0i c\u1ee7a B\u1ed1t-ra.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: B\u1edfi c\u1edb t\u1ed9i \u00e1c c\u1ee7a con c\u00e1i Am-m\u00f4n \u0111\u1ebfn g\u1ea5p ba g\u1ea5p b\u1ed1n l\u1ea7n, n\u00ean ta kh\u00f4ng x\u00e2y b\u1ecf \u00e1n ph\u1ea1t kh\u1ecfi n\u00f3, v\u00ec ch\u00fang n\u00f3 \u0111\u00e3 m\u1ed5 b\u1ee5ng \u0111\u1eddn b\u00e0 ch\u1eeda c\u1ee7a Ga-la-\u00e1t \u0111\u1eb7ng m\u1edf r\u1ed9ng b\u1edd c\u00f5i m\u00ecnh.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Ta s\u1ebd th\u1eafp l\u1eeda trong v\u00e1ch th\u00e0nh R\u00e1p-ba, n\u00f3 s\u1ebd thi\u00eau nu\u1ed1t nh\u1eefng \u0111\u1ec1n \u0111\u00e0i n\u00f3 gi\u1eefa ti\u1ebfng k\u00eau gi\u1eb7c gi\u00e3 trong ng\u00e0y chi\u1ebfn tr\u1eadn, gi\u1eefa c\u01a1n gi\u00f3 l\u1ed1c trong ng\u00e0y b\u00e3o t\u00e1p.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Vua ch\u00fang n\u00f3 c\u00f9ng c\u00e1c quan tr\u01b0\u1edfng s\u1ebd \u0111i l\u00e0m phu t\u00f9 c\u00f9ng nhau, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": 2,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: B\u1edfi c\u1edb t\u1ed9i \u00e1c c\u1ee7a M\u00f4-\u00e1p \u0111\u1ebfn g\u1ea5p ba g\u1ea5p b\u1ed1n l\u1ea7n, n\u00ean ta kh\u00f4ng x\u00e2y b\u1ecf \u00e1n ph\u1ea1t kh\u1ecfi n\u00f3; v\u00ec n\u00f3 \u0111\u00e3 \u0111\u1ed1t h\u00e0i c\u1ed1t c\u1ee7a vua \u00ca-\u0111\u00f4m \u0111\u1eb7ng l\u00e0m ra v\u00f4i.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Ta s\u1ebd sai l\u1eeda \u0111\u1ebfn tr\u00ean M\u00f4-\u00e1p, n\u00f3 s\u1ebd thi\u00eau nu\u1ed1t \u0111\u1ec1n \u0111\u00e0i c\u1ee7a K\u00ea-ri-gi\u1ed1t. M\u00f4-\u00e1p s\u1ebd ch\u1ebft trong s\u1ef1 \u1ed3n \u00e0o, gi\u1eefa ti\u1ebfng k\u00eau, khi ti\u1ebfng k\u00e8n th\u1ed5i.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Ta s\u1ebd d\u1ee9t quan x\u00e9t kh\u1ecfi gi\u1eefa n\u00f3, v\u00e0 gi\u1ebft h\u1ebft th\u1ea3y c\u00e1c quan tr\u01b0\u1edfng n\u00f3 v\u1edbi n\u00f3, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: B\u1edfi c\u1edb t\u1ed9i \u00e1c c\u1ee7a Giu-\u0111a \u0111\u1ebfn g\u1ea5p ba g\u1ea5p b\u1ed1n l\u1ea7n, n\u00ean ta kh\u00f4ng x\u00e2y b\u1ecf \u00e1n ph\u1ea1t kh\u1ecfi n\u00f3; v\u00ec ch\u00fang n\u00f3 \u0111\u00e3 b\u1ecf lu\u1eadt ph\u00e1p c\u1ee7a \u00d0\u1ee9c Gi\u00ea-h\u00f4-va v\u00e0 kh\u00f4ng v\u00e2ng theo l\u1ec7 lu\u1eadt Ng\u00e0i, nh\u1eefng s\u1ef1 gi\u1ea3 d\u1ed1i m\u00e0 t\u1ed5 ph\u1ee5 ch\u00fang n\u00f3 \u0111\u00e3 theo, l\u00e0m l\u1ea7m l\u1ea1c ch\u00fang n\u00f3.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Ta s\u1ebd sai l\u1eeda \u0111\u1ebfn tr\u00ean Giu-\u0111a, n\u00f3 s\u1ebd thi\u00eau nu\u1ed1t nh\u1eefng \u0111\u1ec1n \u0111\u00e0i c\u1ee7a Gi\u00ea-ru-sa-lem.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: B\u1edfi c\u1edb t\u1ed9i \u00e1c c\u1ee7a Y-s\u01a1-ra-\u00ean \u0111\u1ebfn g\u1ea5p ba g\u1ea5p b\u1ed1n l\u1ea7n, n\u00ean ta kh\u00f4ng x\u00e2y b\u1ecf \u00e1n ph\u1ea1t kh\u1ecfi n\u00f3; v\u00ec ch\u00fang n\u00f3 \u0111\u00e3 b\u00e1n ng\u01b0\u1eddi c\u00f4ng b\u00ecnh l\u1ea5y b\u1ea1c, b\u00e1n k\u1ebb ngh\u00e8o l\u1ea5y m\u1ed9t \u0111\u00f4i d\u00e9p.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Ch\u00fang n\u00f3 c\u0169ng tham c\u1ea3 \u0111\u1ebfn b\u1ee5i \u0111\u1ea5t tr\u00ean \u0111\u1ea7u ng\u01b0\u1eddi ngh\u00e8o kh\u00f3, v\u00e0 l\u00e0m cong \u0111\u01b0\u1eddng c\u1ee7a k\u1ebb nhu m\u00ec. Con v\u00e0 cha c\u00f9ng \u0111\u1ebfn chung m\u1ed9t \u0111\u1ee9a g\u00e1i, nh\u01b0 v\u1eady l\u00e0m cho \u00f4 danh th\u00e1nh ta.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Ch\u00fang n\u00f3 n\u1eb1m g\u1ea7n m\u1ed7i b\u00e0n th\u1edd, tr\u00ean nh\u1eefng \u00e1o x\u1ed1ng \u0111\u00e3 nh\u1eadn l\u00e0m c\u1ee7a tin, v\u00e0 u\u1ed1ng r\u01b0\u1ee3u c\u1ee7a k\u1ebb ph\u1ea3i ph\u1ea1t trong mi\u1ebfu th\u1ea7n ch\u00fang n\u00f3.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "D\u1ea7u v\u1eady, ch\u00ednh ta \u0111\u00e3 tuy\u1ec7t di\u1ec7t ng\u01b0\u1eddi A-m\u00f4-r\u00edt tr\u01b0\u1edbc m\u1eb7t ch\u00fang n\u00f3, l\u00e0 th\u1ee9 ng\u01b0\u1eddi cao b\u1eb1ng c\u00e2y b\u00e1ch v\u00e0 m\u1ea1nh nh\u01b0 c\u00e2y d\u1ebb b\u1ed9p. Ta \u0111\u00e3 di\u1ec7t nh\u1eefng tr\u00e1i n\u00f3 \u1edf tr\u00ean v\u00e0 nh\u1eefng r\u1ec5 n\u00f3 \u1edf d\u01b0\u1edbi.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Ta c\u0169ng \u0111\u00e3 \u0111em c\u00e1c ng\u01b0\u01a1i l\u00ean kh\u1ecfi \u0111\u1ea5t \u00ca-d\u00edp-t\u00f4, v\u00e0 d\u1eaft c\u00e1c ng\u01b0\u01a1i trong \u0111\u1ed3ng v\u1eafng tr\u1ea3i b\u1ed1n m\u01b0\u01a1i n\u0103m, h\u1ea7u cho c\u00e1c ng\u01b0\u01a1i \u0111\u01b0\u1ee3c \u0111\u1ea5t c\u1ee7a ng\u01b0\u1eddi A-m\u00f4-r\u00edt l\u00e0m s\u1ea3n nghi\u1ec7p.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Ta \u0111\u00e3 d\u1ea5y m\u1ea5y k\u1ebb ti\u00ean tri l\u00ean trong v\u00f2ng con trai c\u00e1c ng\u01b0\u01a1i, v\u00e0 d\u1ea5y m\u1ea5y ng\u01b0\u1eddi Na-xi-r\u00ea l\u00ean trong v\u00f2ng b\u1ecdn trai tr\u1ebb c\u00e1c ng\u01b0\u01a1i. \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n: H\u1ee1i con c\u00e1i Y-s\u01a1-ra-\u00ean, ch\u1eb3ng ph\u1ea3i v\u1eady sao?\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Nh\u01b0ng c\u00e1c ng\u01b0\u01a1i \u0111\u00e3 cho c\u00e1c ng\u01b0\u1eddi Na-xi-r\u00ea u\u1ed1ng r\u01b0\u1ee3u, v\u00e0 c\u1ea5m c\u00e1c k\u1ebb ti\u00ean tri r\u1eb1ng: Ch\u1edb n\u00f3i ti\u00ean tri!\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "N\u1ea7y, ta s\u1ebd ch\u1eadn \u00e9p c\u00e1c ng\u01b0\u01a1i trong n\u01a1i c\u00e1c ng\u01b0\u01a1i c\u0169ng nh\u01b0 c\u00e1i xe \u0111\u1ea7y nh\u1eefng l\u00faa b\u00f3 ch\u1eadn \u00e9p.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Ng\u01b0\u1eddi l\u1eb9 l\u00e0ng s\u1ebd kh\u00f4ng th\u1ec3 tr\u1ed1n \u0111\u01b0\u1ee3c; ng\u01b0\u1eddi m\u1ea1nh m\u1ebd s\u1ebd kh\u00f4ng b\u1ed5 s\u1ee9c cho m\u00ecnh n\u1eefa, v\u00e0 ng\u01b0\u1eddi b\u1ea1o d\u1ea1n s\u1ebd ch\u1eb3ng c\u1ee9u \u0111\u01b0\u1ee3c m\u1ea1ng s\u1ed1ng m\u00ecnh.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "K\u1ebb gi\u01b0\u01a1ng cung s\u1ebd ch\u1eb3ng \u0111\u1ee9ng v\u1eefng \u0111\u01b0\u1ee3c; k\u1ebb c\u00f3 ch\u01a1n l\u1eb9 l\u00e0ng s\u1ebd ch\u1eb3ng l\u00e1nh kh\u1ecfi \u0111\u01b0\u1ee3c; ng\u01b0\u1eddi c\u1ee1i ng\u1ef1a s\u1ebd kh\u00ed huy\u1ebft c\u1ee9u m\u00ecnh;\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "v\u00e0 k\u1ebb b\u1ea1o gan trong nh\u1eefng ng\u01b0\u1eddi m\u1ea1nh m\u1ebd s\u1ebd \u1edf tr\u1ea7n m\u00e0 tr\u1ed1n trong ng\u00e0y \u0111\u00f3, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": 3,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "H\u1ee1i con c\u00e1i Y-s\u01a1-ra-\u00ean, h\u00e3y nghe l\u1eddi n\u1ea7y, l\u00e0 l\u1eddi \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n ngh\u1ecbch c\u00f9ng c\u00e1c ng\u01b0\u01a1i, t\u1ee9c l\u00e0 ngh\u1ecbch c\u00f9ng c\u1ea3 h\u1ecd h\u00e0ng m\u00e0 ta \u0111\u00e3 \u0111em l\u00ean kh\u1ecfi \u0111\u1ea5t \u00ca-d\u00edp-t\u00f4.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Ta \u0111\u00e3 bi\u1ebft ch\u1ec9 m\u1ed9t m\u00ecnh c\u00e1c ng\u01b0\u01a1i trong m\u1ecdi h\u1ecd h\u00e0ng tr\u00ean \u0111\u1ea5t; v\u1eady n\u00ean ta s\u1ebd th\u0103m ph\u1ea1t c\u00e1c ng\u01b0\u01a1i v\u00ec m\u1ecdi s\u1ef1 gian \u00e1c c\u00e1c ng\u01b0\u01a1i.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "N\u1ebfu hai ng\u01b0\u1eddi kh\u00f4ng \u0111\u1ed3ng \u00fd v\u1edbi nhau, th\u00ec h\u00e1 c\u00f9ng \u0111i chung \u0111\u01b0\u1ee3c sao?\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "N\u1ebfu s\u01b0 t\u1eed kh\u00f4ng b\u1eaft \u0111\u01b0\u1ee3c m\u1ed3i, th\u00ec h\u00e1 c\u00f3 g\u1ea7m th\u00e9t trong r\u1eebng sao? S\u01b0 t\u1eed con n\u1ebfu kh\u00f4ng b\u1eaft \u0111\u01b0\u1ee3c g\u00ec, th\u00ec h\u00e1 c\u00f3 l\u00e0m vang nh\u1eefng ti\u1ebfng k\u00eau t\u1eeb n\u01a1i s\u00e2u c\u1ee7a hang n\u00f3 sao?\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Con chim, n\u1ebfu ch\u1eb3ng c\u00f3 b\u1eaby g\u00e0i \u0111\u1ec3 b\u1eaft n\u00f3, th\u00ec n\u00f3 h\u00e1 sa v\u00e0o trong l\u01b0\u1edbi gi\u0103ng ra tr\u00ean \u0111\u1ea5t sao? B\u1eb1ng ch\u1eb3ng b\u1eaft \u0111\u01b0\u1ee3c g\u00ec th\u00ec l\u01b0\u1edbi h\u00e1 c\u00f3 d\u1ef1t l\u00ean kh\u1ecfi \u0111\u1ea5t?\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "K\u00e8n th\u1ed5i trong th\u00e0nh th\u00ec d\u00e2n s\u1ef1 h\u00e1 ch\u1eb3ng s\u1ee3 sao? S\u1ef1 tai v\u1ea1 h\u00e1 c\u00f3 x\u1ea3y ra cho m\u1ed9t th\u00e0nh kia n\u1ebfu m\u00e0 \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ch\u1eb3ng l\u00e0m?\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "C\u0169ng v\u1eady, Ch\u00faa Gi\u00ea-h\u00f4-va ch\u1eb3ng c\u00f3 l\u00e0m m\u1ed9t vi\u1ec7c g\u00ec m\u00e0 Ng\u00e0i ch\u01b0a t\u1ecf s\u1ef1 k\u00edn nhi\u1ec7m Ng\u00e0i ra tr\u01b0\u1edbc cho t\u00f4i t\u1edb Ng\u00e0i, l\u00e0 c\u00e1c \u00d0\u1ea5ng ti\u00ean tri.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Khi s\u01b0 t\u1eed g\u1ea7m th\u00e9t, th\u00ec ai m\u00e0 ch\u1eb3ng s\u1ee3? Khi Ch\u00faa Gi\u00ea-h\u00f4-va \u0111\u00e3 ph\u00e1n d\u1ea1y, th\u00ec ai m\u00e0 ch\u1eb3ng n\u00f3i ti\u00ean tri?\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "H\u00e3y rao truy\u1ec1n ra trong c\u00e1c \u0111\u1ec1n \u0111\u00e0i \u00c1ch-\u0111\u1ed1t v\u00e0 trong c\u00e1c \u0111\u1ec1n \u0111\u00e0i c\u1ee7a \u0111\u1ea5t \u00ca-d\u00edp-t\u00f4, v\u00e0 n\u00f3i r\u1eb1ng: C\u00e1c ng\u01b0\u01a1i kh\u00e1 nh\u00f3m l\u1ea1i tr\u00ean c\u00e1c n\u00fai c\u1ee7a Sa-ma-ri; h\u00e3y xem nhi\u1ec1u s\u1ef1 r\u1ed1i lo\u1ea1n l\u1edbn lao \u1edf \u0111\u00f3, v\u00e0 nh\u1eefng s\u1ef1 b\u1ea1o ng\u01b0\u1ee3c gi\u1eefa n\u00f3.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n: Ch\u00fang n\u00f3 kh\u00f4ng bi\u1ebft l\u00e0m s\u1ef1 ngay th\u1eb3ng; ch\u00fang n\u00f3 ch\u1ea5t ch\u1ee9a c\u1ee7a hung d\u1eef v\u00e0 c\u01b0\u1edbp d\u1ef1t \u1edf trong c\u00e1c \u0111\u1ec1n \u0111\u00e0i m\u00ecnh.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "V\u1eady n\u00ean Ch\u00faa Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: N\u1ea7y, k\u1ebb ngh\u1ecbch s\u1ebd \u0111\u1ebfn v\u00e2y b\u1ecdc \u0111\u1ea5t n\u1ea7y; n\u00f3 c\u1ea5t m\u1ea5t s\u1ee9c m\u1ea1nh ng\u01b0\u01a1i, v\u00e0 nh\u1eefng \u0111\u1ec1n \u0111\u00e0i ng\u01b0\u01a1i s\u1ebd b\u1ecb c\u01b0\u1edbp ph\u00e1.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: Nh\u01b0 k\u1ebb ch\u0103n chi\u00ean ch\u1ec9 g\u1ee1 \u0111\u01b0\u1ee3c hai gi\u00f2 hay m\u1ed9t tai ra kh\u1ecfi h\u1ecdng s\u01b0 t\u1eed, th\u00ec nh\u1eefng con c\u00e1i Y-s\u01a1-ra-\u00ean, l\u00e0 nh\u1eefng k\u1ebb ng\u1ed3i t\u1ea1i Sa-ma-ri n\u01a1i g\u00f3c gi\u01b0\u1eddng v\u00e0 tr\u00ean th\u1ea3m c\u1ee7a \u00d0a-m\u00e1ch, c\u0169ng s\u1ebd \u0111\u01b0\u1ee3c c\u1ee9u c\u00e1ch nh\u01b0 v\u1eady.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Ch\u00faa Gi\u00ea-h\u00f4-va, \u00d0\u1ee9c Ch\u00faa Tr\u1eddi v\u1ea1n qu\u00e2n ph\u00e1n r\u1eb1ng: H\u00e3y nghe, v\u00e0 l\u00e0m ch\u1ee9ng ngh\u1ecbch c\u00f9ng nh\u00e0 Gia-c\u1ed1p.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "\u00d0\u1ebfn ng\u00e0y m\u00e0 ta s\u1ebd th\u0103m ph\u1ea1t Y-s\u01a1-ra-\u00ean v\u1ec1 t\u1ed9i l\u1ed7i n\u00f3, ta c\u0169ng s\u1ebd th\u0103m ph\u1ea1t c\u00e1c b\u00e0n th\u1edd c\u1ee7a B\u00ea-t\u00ean; nh\u1eefng s\u1eebng c\u1ee7a b\u00e0n th\u1edd s\u1ebd b\u1ecb ch\u1eb7t v\u00e0 r\u01a1i xu\u1ed1ng \u0111\u1ea5t.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "B\u1ea5y gi\u1edd ta s\u1ebd \u0111\u00e1nh nh\u00e0 m\u00f9a \u0111\u00f4ng v\u00e0 nh\u00e0 m\u00f9a h\u1ea1; nh\u1eefng nh\u00e0 b\u1eb1ng ng\u00e0 voi s\u1ebd b\u1ecb ph\u00e1, v\u00e0 nh\u1eefng nh\u00e0 l\u1edbn s\u1ebd b\u1ecb h\u1ee7y di\u1ec7t, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": 4,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "H\u1ee1i nh\u1eefng b\u00f2 c\u00e1i c\u1ee7a Ba-san h\u00e3y nghe, bay \u1edf tr\u00ean n\u00fai c\u1ee7a Sa-ma-ri; hi\u1ebfp \u0111\u00e1p k\u1ebb ngh\u00e8o n\u00e0n, h\u00e0nh h\u1ea1 k\u1ebb thi\u1ebfu th\u1ed1n, n\u00f3i c\u00f9ng ch\u00faa ch\u00fang n\u00f3 r\u1eb1ng: H\u00e3y \u0111em \u0111\u1ebfn, ch\u00fang ta c\u00f9ng u\u1ed1ng!\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Ch\u00faa Gi\u00ea-h\u00f4-va \u0111\u00e3 d\u00f9ng s\u1ef1 th\u00e1nh khi\u1ebft Ng\u00e0i m\u00e0 th\u1ec1 r\u1eb1ng: N\u1ea7y, nh\u1eefng ng\u00e0y s\u1ebd \u0111\u1ebfn tr\u00ean c\u00e1c ng\u01b0\u01a1i, ng\u01b0\u1eddi ta s\u1ebd d\u00f9ng m\u00f3c b\u1eaft l\u1ea5y c\u00e1c ng\u01b0\u01a1i, d\u00e2n s\u00f3t l\u1ea1i c\u1ee7a c\u00e1c ng\u01b0\u01a1i s\u1ebd b\u1ecb b\u1eaft l\u1ea5y b\u1edfi nh\u1eefng l\u01b0\u1ee1i c\u00e2u.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "C\u00e1c ng\u01b0\u01a1i s\u1ebd \u0111i ra b\u1edfi nh\u1eefng n\u01a1i s\u1ee9t m\u1ebb, m\u1ed7i ng\u01b0\u1eddi \u0111i th\u1eb3ng tr\u01b0\u1edbc m\u1eb7t m\u00ecnh, v\u00e0 c\u00e1c ng\u01b0\u01a1i s\u1ebd n\u00e9m m\u00ecnh v\u00e0o Ha-m\u00f4n, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "H\u00e3y \u0111i \u0111\u1ebfn B\u00ea-t\u00ean, v\u00e0 ph\u1ea1m t\u1ed9i; h\u00e3y \u0111i \u0111\u1ebfn Ghinh-ganh, v\u00e0 ph\u1ea1m t\u1ed9i th\u00eam! M\u1ed7i bu\u1ed5i s\u00e1ng h\u00e3y \u0111em c\u1ee7a l\u1ec5 m\u00ecnh \u0111\u1ebfn, v\u00e0 c\u1ee9 ba ng\u00e0y th\u00ec d\u00e2ng c\u00e1c ph\u1ea7n m\u01b0\u1eddi c\u1ee7a c\u00e1c ng\u01b0\u01a1i!\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "H\u00e3y \u0111\u1ed1t c\u1ee7a l\u1ec5 th\u00f9 \u00e2n c\u00f3 men; h\u00e3y rao ra nh\u1eefng c\u1ee7a l\u1ec5 l\u1ea1c hi\u1ebfn; h\u00e3y l\u00e0m cho thi\u00ean h\u1ea1 bi\u1ebft; h\u1ee1i con c\u00e1i Y-s\u01a1-ra-\u00ean, v\u00ec c\u00e1c ng\u01b0\u01a1i \u01b0a th\u00edch \u0111i\u1ec1u \u0111\u00f3, Ch\u00faa Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "C\u00f2n nh\u01b0 ta, ta \u0111\u00e3 l\u00e0m cho r\u0103ng c\u00e1c ng\u01b0\u01a1i n\u00ean s\u1ea1ch trong m\u1ecdi th\u00e0nh c\u00e1c ng\u01b0\u01a1i, v\u00e0 l\u00e0m cho thi\u1ebfu b\u00e1nh trong m\u1ecdi n\u01a1i c\u00e1c ng\u01b0\u01a1i \u1edf. \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n: D\u1ea7u v\u1eady c\u00e1c ng\u01b0\u01a1i c\u0169ng kh\u00f4ng tr\u1edf l\u1ea1i c\u00f9ng ta!\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Ta c\u0169ng \u0111\u00e3 kh\u00f4ng xu\u1ed1ng m\u01b0a cho c\u00e1c ng\u01b0\u01a1i trong ba th\u00e1ng tr\u01b0\u1edbc m\u00f9a g\u1eb7t; ta \u0111\u00e3 m\u01b0a tr\u00ean th\u00e0nh n\u1ea7y v\u00e0 kh\u00f4ng m\u01b0a tr\u00ean th\u00e0nh kh\u00e1c. Ru\u1ed9ng n\u1ea7y \u0111\u00e3 \u0111\u01b0\u1ee3c m\u01b0a, c\u00f2n ru\u1ed9ng kia kh\u00f4ng \u0111\u01b0\u1ee3c nhu\u1eadn t\u01b0\u1edbi th\u00ec kh\u00f4 h\u00e9o.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "D\u01b0\u1eddng \u1ea5y, ng\u01b0\u1eddi trong hai ho\u1eb7c ba th\u00e0nh \u0111i \u0111\u1ebfn m\u1ed9t th\u00e0nh \u0111\u1eb7ng u\u1ed1ng n\u01b0\u1edbc, m\u00e0 kh\u00f4ng t\u00ecm \u0111\u1ebfn cho \u0111\u1ee1 kh\u00e1t. Nh\u01b0ng c\u00e1c ng\u01b0\u01a1i kh\u00f4ng tr\u1edf v\u1ec1 c\u00f9ng ta, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Ta \u0111\u00e3 d\u00f9ng gi\u00f3 n\u00f3ng v\u00e0 s\u00e2u l\u00faa m\u00e0 \u0111\u00e1nh c\u00e1c ng\u01b0\u01a1i. C\u00f3 nhi\u1ec1u v\u01b0\u1eddn rau, v\u01b0\u1eddn nho, c\u00e2y v\u1ea3, c\u00e2y \u00f4-li-ve c\u1ee7a c\u00e1c ng\u01b0\u01a1i \u0111\u00e3 b\u1ecb s\u00e2u keo c\u1eafn ph\u00e1. Nh\u01b0ng c\u00e1c ng\u01b0\u01a1i ch\u1eb3ng tr\u1edf v\u1ec1 c\u00f9ng ta, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Ta \u0111\u00e3 khi\u1ebfn \u00f4n d\u1ecbch \u0111\u1ebfn trong c\u00e1c ng\u01b0\u01a1i, c\u0169ng nh\u01b0 trong \u00ca-d\u00edp-t\u00f4. Ta \u0111\u00e3 d\u00f9ng g\u01b0\u01a1m gi\u1ebft ch\u1ebft nh\u1eefng k\u1ebb trai tr\u1ebb c\u1ee7a c\u00e1c ng\u01b0\u01a1i, v\u00e0 nh\u1eefng ng\u1ef1a c\u1ee7a c\u00e1c ng\u01b0\u01a1i \u0111\u00e3 b\u1ecb \u0111em \u0111i. Ta \u0111\u00e3 l\u00e0m cho m\u00f9i h\u00f4i h\u00e1m t\u1eeb trong tr\u1ea1i qu\u00e2n c\u00e1c ng\u01b0\u01a1i bay l\u00ean l\u1ed7 m\u0169i c\u00e1c ng\u01b0\u01a1i. Nh\u01b0ng c\u00e1c ng\u01b0\u01a1i ch\u1eb3ng tr\u1edf v\u1ec1 c\u00f9ng ta, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Ta \u0111\u00e3 l\u1eadt \u0111\u1ed5 gi\u1eefa c\u00e1c ng\u01b0\u01a1i, nh\u01b0 \u00d0\u1ee9c Ch\u00faa Tr\u1eddi \u0111\u00e3 l\u1eadp \u0111\u1ed5 S\u00f4-\u0111\u00f4m v\u00e0 G\u00f4-m\u00f4-r\u01a1, v\u00e0 c\u00e1c ng\u01b0\u01a1i \u0111\u00e3 nh\u01b0 c\u00e1i que r\u00fat ra kh\u1ecfi l\u1eeda. Nh\u01b0ng c\u00e1c ng\u01b0\u01a1i ch\u1eb3ng tr\u1edf v\u1ec1 c\u00f9ng ta, Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "H\u1ee1i Y-s\u01a1-ra-\u00ean, v\u1eady n\u00ean ta s\u1ebd \u0111\u00e3i ng\u01b0\u01a1i d\u01b0\u1eddng \u1ea5y; h\u1ee1i Y-s\u01a1-ra-\u00ean, v\u00ec ta s\u1ebd \u0111\u00e3i ng\u01b0\u01a1i d\u01b0\u1eddng \u1ea5y, n\u00ean ng\u01b0\u01a1i kh\u00e1 s\u1eeda so\u1ea1n m\u00e0 g\u1eb7p \u00d0\u1ee9c Ch\u00faa Tr\u1eddi ng\u01b0\u01a1i.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Th\u1eadt, \u1ea5y l\u00e0 Ng\u00e0i \u0111\u00e3 l\u00e0m n\u00ean c\u00e1c n\u00fai v\u00e0 d\u1ef1ng n\u00ean gi\u00f3. \u1ea4y l\u00e0 Ng\u00e0i l\u00e0m cho ng\u01b0\u1eddi ta bi\u1ebft \u00fd t\u01b0\u1edfng ri\u00eang c\u1ee7a m\u00ecnh, \u0111\u1ed5i ban mai ra t\u1ed1i t\u0103m, v\u00e0 b\u01b0\u1edbc \u0111i tr\u00ean nh\u1eefng ch\u1ed7 cao tr\u00ean \u0111\u1ea5t. Danh Ng\u00e0i l\u00e0 Gi\u00ea-h\u00f4-va \u00d0\u1ee9c Ch\u00faa Tr\u1eddi v\u1ea1n qu\u00e2n.\n"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": 5,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "H\u1ee1i nh\u00e0 Y-s\u01a1-ra-\u00ean, h\u00e3y nghe l\u1eddi n\u1ea7y, l\u00e0 b\u00e0i ca th\u01b0\u01a1ng m\u00e0 ta s\u1ebd l\u00e0m v\u1ec1 c\u00e1c ng\u0100\u00b0\u01a1i!\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "G\u00e1i \u0111\u1e40\u0093ng trinh c\u1ee7a Y-s\u01a1-ra-\u00ean \u0111\u00e3 ng\u00e3 xu\u1ed1ng, s\u1ebd kh\u00f4ng d\u1eady n\u1eefa; n\u00f3 \u0111\u00e3 b\u1ecb n\u00e9m b\u1ecf tr\u00ean \u0111\u1ea5t n\u00f3, m\u00e0 kh\u00f4ng ai \u0111\u1ee1 d\u1eady.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "V\u00ec Ch\u00faa Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: Th\u00e0nh n\u00e0o ra m\u1ed9t ng\u00e0n qu\u00e2n, ch\u1ec9 c\u00f2n c\u00f3 m\u1ed9t tr\u0103m; th\u00e0nh n\u00e0o d\u1ea5y l\u00ean m\u1ed9t tr\u0103m ng\u01b0\u1eddi, ch\u1ec9 c\u00f2n c\u00f3 m\u01b0\u1eddi ng\u01b0\u1eddi trong nh\u00e0 Y-s\u01a1-ra-\u00ean s\u00f3t l\u1ea1i.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n c\u00f9ng nh\u00e0 Y-s\u01a1-ra-\u00ean nh\u01b0 v\u1ea7y: H\u00e3y t\u00ecm ki\u1ebfm ta, th\u00ec c\u00e1c ng\u01b0\u01a1i s\u1ebd s\u1ed1ng!\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Ch\u1edb t\u00ecm ki\u1ebfm B\u00ea-t\u00ean, ch\u1edb v\u00e0o trong Ghinh-ganh, \u0111\u1eebng \u0111i \u0111\u1ebfn B\u00ea -e-S\u00ea-ba. V\u00ec Ghinh-ganh s\u1ebd b\u1ecb \u0111\u00e0y, B\u00ea-t\u00ean s\u1ebd tr\u1edf n\u00ean m\u1ed9t n\u01a1i \u0111\u1ed5 n\u00e1t.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "H\u00e3y t\u00ecm ki\u1ebfm \u00d0\u1ee9c Gi\u00ea-h\u00f4-va, th\u00ec c\u00e1c ng\u01b0\u01a1i s\u1ebd s\u1ed1ng; b\u1eb1ng ch\u1eb3ng v\u1eady, Ng\u00e0i s\u1ebd nh\u01b0 m\u1ed9t ng\u1ecdn l\u1eeda thi\u00eau \u0111\u1ed1t h\u1eebng l\u00ean trong nh\u00e0 Gi\u00f4-s\u00e9p, \u1edf B\u00ea-t\u00ean kh\u00f4ng ai c\u00f3 th\u1ec3 t\u1eaft \u0111\u01b0\u1ee3c.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "C\u00e1c ng\u01b0\u01a1i \u0111\u1ed5i s\u1ef1 ngay th\u1eb3ng ra ng\u1ea3i c\u1ee9u, v\u00e0 n\u00e9m s\u1ef1 c\u00f4ng b\u00ecnh xu\u1ed1ng \u0111\u1ea5t!\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "H\u00e3y t\u00ecm \u00d0\u1ea5ng \u0111\u00e3 d\u1ef1ng n\u00ean nh\u1eefng sao Rau v\u00e0 sao C\u00e0y; \u0111\u1ed5i b\u00f3ng t\u1ed1i t\u0103m ra ban mai, \u0111\u1ed5i ban ng\u00e0y ra \u0111\u00eam th\u1eb3m, g\u1ecdi n\u01b0\u1edbc bi\u1ec3n m\u00e0 \u0111\u1ed5 n\u00f3 ra tr\u00ean m\u1eb7t \u0111\u1ea5t: danh Ng\u00e0i l\u00e0 Gi\u00ea-h\u00f4-va.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "\u1ea4y ch\u00ednh Ng\u00e0i l\u00e0m cho k\u1ebb m\u1ea1nh th\u00ecnh l\u00ecnh b\u1ecb di\u1ec7t vong, \u0111\u1ebfn n\u1ed7i s\u1ef1 h\u1ee7y ho\u1ea1i \u0111\u1ebfn tr\u00ean \u0111\u1ed3n l\u0169y.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Ch\u00fang n\u00f3 gh\u00e9t ng\u01b0\u1eddi tr\u00e1ch m\u00f3c n\u01a1i c\u1eeda th\u00e0nh, v\u00e0 g\u1edbm ghi\u1ebfc k\u1ec3 n\u00f3i ngay th\u1eb3ng.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "V\u00ec c\u00e1c ng\u01b0\u01a1i hi\u1ebfp \u0111\u00e1p k\u1ebb ngh\u00e8o v\u00e0 \u0111\u00f2i h\u1ecd n\u1ed9p thu\u1ebf l\u00faa m\u00ec, v\u1eady n\u00ean nh\u1eefng nh\u00e0 b\u1eb1ng \u0111\u00e1 vu\u00f4ng n\u1ea7y m\u00e0 c\u00e1c ng\u01b0\u01a1i \u0111\u00e3 x\u00e2y n\u00ean, c\u00e1c ng\u01b0\u01a1i s\u1ebd kh\u00f4ng \u1edf \u0111\u01b0\u1ee3c. C\u00e1c ng\u01b0\u01a1i \u0111\u00e3 tr\u1ed3ng nh\u1eefng v\u01b0\u1eddn nho ngon ng\u1ecdt, nh\u01b0ng s\u1ebd kh\u00f4ng u\u1ed1ng r\u01b0\u1ee3u n\u00f3.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "V\u00ec ta bi\u1ebft t\u1ed9i \u00e1c c\u00e1c ng\u01b0\u01a1i nhi\u1ec1u l\u00e0 bao nhi\u00eau, c\u00e1c ng\u01b0\u01a1i l\u00e0 k\u1ebb hi\u1ebfp \u0111\u00e1p ng\u01b0\u1eddi c\u00f4ng b\u00ecnh, nh\u1eadn l\u1ea5y c\u1ee7a h\u1ed1i l\u1ed9, \u1edf n\u01a1i c\u1eeda th\u00e0nh l\u00e0m cong l\u1ebd th\u1eb3ng c\u1ee7a nh\u1eefng k\u1ebb ngh\u00e8o.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "B\u1edfi \u0111\u00f3 cho n\u00ean, trong th\u1eddi nh\u01b0 th\u1ebf, ng\u01b0\u1eddi kh\u00f4n ngoan s\u1ebd l\u00e0m thinh; v\u00ec l\u00e0 th\u1eddi kh\u1ed1n n\u1ea1n.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "H\u00e3y t\u00ecm \u0111i\u1ec1u l\u00e0nh v\u00e0 \u0111\u1eebng t\u00ecm \u0111\u1ec1u d\u1eef, h\u1ea7u cho c\u00e1c ng\u01b0\u01a1i \u0111\u01b0\u1ee3c s\u1ed1ng, th\u00ec Gi\u00ea-h\u00f4-va \u00d0\u1ee9c Ch\u00faa Tr\u1eddi v\u1ea1n qu\u00e2n s\u1ebd \u1edf c\u00f9ng ng\u01b0\u01a1i, nh\u01b0 c\u00e1c ng\u01b0\u01a1i n\u00f3i v\u1eady.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "H\u00e3y gh\u00e9t \u0111i\u1ec1u d\u1eef m\u00e0 \u01b0a \u0111i\u1ec1u l\u00e0nh; h\u00e3y l\u1eadp s\u1ef1 c\u00f4ng b\u00ecnh n\u01a1i c\u1eeda th\u00e0nh. C\u1ee7a l\u1ec5 Gi\u00ea-h\u00f4-va \u00d0\u1ee9c Ch\u00faa Tr\u1eddi v\u1ea1n qu\u00e2n s\u1ebd ra \u01a1n cho nh\u1eefng k\u1ebb c\u00f2n s\u00f3t l\u1ea1i c\u1ee7a Gi\u00f4-s\u00e9p!\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "V\u1eady n\u00ean, Ch\u00faa Gi\u00ea-h\u00f4-va, \u00d0\u1ee9c Ch\u00faa Tr\u1eddi v\u1ea1n qu\u00e2n, ph\u00e1n nh\u01b0 v\u1ea7y: Trong m\u1ecdi n\u01a1i ph\u1ed1 tr\u1ee3, ng\u01b0\u1eddi ta s\u1ebd than kh\u00f3c; trong m\u1ecdi \u0111\u01b0\u1eddng ph\u1ed1, ng\u01b0\u1eddi ta s\u1ebd k\u00eau la r\u1eb1ng: H\u1ee1i \u00f4i! H\u1ee1i \u00f4i! Ng\u01b0\u1eddi ta s\u1ebd m\u1eddi k\u1ebb c\u00e0y ru\u1ed9ng \u0111\u1ebfn th\u1ea3m s\u1ea7u, v\u00e0 nh\u1eefng k\u1ebb gi\u1ecfi than van \u0111\u1ebfn k\u00eau kh\u00f3c.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Trong c\u00e1c v\u01b0\u1eddn nho vang ti\u1ebfng kh\u00f3c than, v\u00ec ta s\u1ebd qua gi\u1eefa ng\u01b0\u01a1i, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "18": {
+                    "verse_nr": 18,
+                    "verse": "Kh\u1ed1n thay cho c\u00e1c ng\u01b0\u01a1i l\u00e0 k\u1ebb tr\u00f4ng mong ng\u00e0y c\u1ee7a \u00d0\u1ee9c Gi\u00ea-h\u00f4-va! C\u00e1c ng\u01b0\u01a1i tr\u00f4ng mong ng\u00e0y c\u1ee7a \u00d0\u1ee9c Gi\u00ea-h\u00f4-va l\u00e0m g\u00ec? \u1ea4y l\u00e0 ng\u00e0y t\u1ed1i t\u0103m, kh\u00f4ng ph\u1ea3i l\u00e0 ng\u00e0y \u00e1nh s\u00e1ng.\n"
+                },
+                "19": {
+                    "verse_nr": 19,
+                    "verse": "V\u00ed nh\u01b0 m\u1ed9t ng\u01b0\u1eddi tr\u00e1nh kh\u1ecfi s\u01b0 t\u1eed, l\u1ea1i g\u1eb7p con g\u1ea5u; hay l\u00e0 nh\u01b0 k\u1ebb v\u00e0o trong nh\u00e0, d\u1ef1a tay tr\u00ean v\u00e1ch, b\u1ecb r\u1eafn c\u1eafn nh\u1eb1m.\n"
+                },
+                "20": {
+                    "verse_nr": 20,
+                    "verse": "Ng\u00e0y c\u1ee7a \u00d0\u1ee9c Gi\u00ea-h\u00f4-va h\u00e1 ch\u1eb3ng ph\u1ea3i t\u1ed1i t\u0103m, kh\u00f4ng s\u00e1ng l\u00e1ng, v\u00e0 m\u00f9 m\u1ecbt, kh\u00f4ng ch\u00f3i l\u00f3i hay sao?\n"
+                },
+                "21": {
+                    "verse_nr": 21,
+                    "verse": "Ta gh\u00e9t; ta khinh d\u1ec3 nh\u1eefng k\u1ef3 l\u1ec5 c\u1ee7a c\u00e1c ng\u01b0\u01a1i; ta kh\u00f4ng \u0111\u1eb9p l\u00f2ng v\u1ec1 nh\u1eefng h\u1ed9i tr\u1ecdng th\u1ec3 c\u1ee7a c\u00e1c ng\u01b0\u01a1i \u0111\u00e2u.\n"
+                },
+                "22": {
+                    "verse_nr": 22,
+                    "verse": "D\u1ea7u c\u00e1c ng\u01b0\u01a1i d\u00e2ng nh\u1eefng c\u1ee7a l\u1ec5 thi\u00eau v\u00e0 c\u1ee7a l\u1ec5 chay cho ta, ta s\u1ebd kh\u00f4ng nh\u1eadn l\u1ea5y; ta ch\u1eb3ng \u0111o\u00e1i xem nh\u1eefng con th\u00fa m\u1eadp v\u1ec1 c\u1ee7a l\u1ec5 th\u00f9 \u00e2n c\u00e1c ng\u01b0\u01a1i.\n"
+                },
+                "23": {
+                    "verse_nr": 23,
+                    "verse": "H\u00e3y l\u00e0m cho ti\u1ebfng c\u1ee7a c\u00e1c b\u00e1i h\u00e1t c\u00e1c ng\u01b0\u01a1i xa kh\u1ecfi ta! Ta kh\u00f4ng kh\u1ee9ng nghe ti\u1ebfng \u0111\u1eddn c\u1ea7m c\u1ee7a c\u00e1c ng\u01b0\u01a1i.\n"
+                },
+                "24": {
+                    "verse_nr": 24,
+                    "verse": "Th\u00e0 h\u00e3y l\u00e0m cho s\u1ef1 ch\u00e1nh tr\u1ef1c ch\u1ea3y xu\u1ed1ng nh\u01b0 n\u01b0\u1edbc, v\u00e0 s\u1ef1 c\u00f4ng b\u00ecnh nh\u01b0 s\u00f4ng l\u1edbn cu\u1ed3n cu\u1ed9n.\n"
+                },
+                "25": {
+                    "verse_nr": 25,
+                    "verse": "H\u1ee1i nh\u00e0 Y-s\u01a1-ra-\u00ean, c\u00e1c ng\u01b0\u01a1i h\u00e1 ch\u1eb3ng t\u1eebng d\u00e2ng hi sinh v\u00e0 c\u1ee7a l\u1ec5 chay cho ta trong b\u1ed1n m\u01b0\u01a1i n\u0103m n\u01a1i \u0111\u1ed3ng v\u1eafng sao?\n"
+                },
+                "26": {
+                    "verse_nr": 26,
+                    "verse": "Tr\u00e1i l\u1ea1i, c\u00e1c ng\u01b0\u01a1i \u0111\u00e3 khi\u00eang nh\u00e0 t\u1ea1m c\u1ee7a vua m\u00ecnh, kh\u00e1m c\u1ee7a th\u1ea7n t\u01b0\u1ee3ng m\u00ecnh, v\u00e0 ng\u00f4i sao c\u1ee7a th\u1ea7n c\u00e1c ng\u01b0\u01a1i m\u00e0 c\u00e1c ng\u01b0\u01a1i \u0111\u00e3 l\u00e0m cho m\u00ecnh.\n"
+                },
+                "27": {
+                    "verse_nr": 27,
+                    "verse": "V\u1eady n\u00ean, ta s\u1ebd l\u00e0m cho c\u00e1c ng\u01b0\u01a1i b\u1ecb \u0111\u00e0y qua l\u00e0m phu t\u00f9 b\u00ean kia \u00d0a-m\u00e1ch, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady, danh Ng\u00e0i l\u00e0 \u00d0\u1ee9c Ch\u00faa Tr\u1eddi v\u1ea1n qu\u00e2n.\n"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": 6,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Kh\u1ed1n thay cho nh\u1eefng k\u1ebb \u0103n \u1edf n\u1ec3 trong Si-\u00f4n, v\u00e0 cho nh\u1eefng k\u1ebb t\u01b0\u1edfng m\u00ecnh an \u1ed5n tr\u00ean n\u00fai Sa-ma-ri! Kh\u1ed1n thay cho nh\u1eefng k\u1ebb sang tr\u1ecdng c\u1ee7a c\u00e1c n\u01b0\u1edbc l\u00e0m \u0111\u1ea7u, l\u00e0 nh\u1eefng k\u1ebb m\u00e0 nh\u00e0 Y-s\u01a1-ra-\u00ean v\u1ec1 c\u00f9ng!\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "V\u1eady h\u00e3y qua Ca-ne, v\u00e0 h\u00e3y xem; h\u00e3y \u0111i t\u1eeb \u0111\u00f3 \u0111\u1ebfn th\u00e0nh Ha-m\u00e1t l\u1edbn, \u0111o\u1ea1n xu\u1ed1ng th\u00e0nh G\u00e1t c\u1ee7a ng\u01b0\u1eddi Phi-li-tin. nh\u1eefng th\u00e0nh \u1ea5y h\u00e1t t\u1ed1t h\u01a1n nh\u1eefng n\u01b0\u1edbc n\u1ea7y sao? B\u1edd c\u00f5i ch\u00fang n\u00f3 h\u00e1 l\u1edbn h\u01a1n b\u1edd c\u00f5i c\u00e1c ng\u01b0\u01a1i sao?\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "C\u00e1c ng\u01b0\u01a1i l\u00e0m cho ng\u00e0y ho\u1ea1n n\u1ea1n xa ra, v\u00e0 l\u00e0m cho ng\u00f4i b\u1ea1o ng\u01b0\u1ee3c g\u1ea7n l\u1ea1i!\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "C\u00e1c ng\u01b0\u01a1i n\u1eb1m ng\u1ee7 tr\u00ean gi\u01b0\u1eddng ng\u00e0 v\u00e0 du\u1ed7i d\u00e0i tr\u00ean gh\u1ebf d\u00e0i m\u00ecnh; \u0103n nh\u1eefng chi\u00ean con ch\u1ecdn ra trong b\u1ea7y v\u00e0 nh\u1eefng b\u00f2 con m\u1eadp trong chu\u1ed3ng.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Th\u1eadt, c\u00e1c ng\u01b0\u01a1i h\u00e1t b\u00e0i b\u1eady b\u1ea1 h\u1ecda theo \u0111\u1eddn c\u1ea7m, b\u00e0y v\u1ebd ra nh\u1eefng \u0111\u1ed3 nh\u1ea1c kh\u00ed cho m\u00ecnh nh\u01b0 vua \u00d0a-v\u00edt.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "C\u00e1c ng\u01b0\u01a1i u\u1ed1ng r\u01b0\u1ee3u trong nh\u1eefng ch\u00e9n l\u1edbn, d\u00f9ng d\u1ea7u r\u1ea5t qu\u00ed x\u1ee9c cho th\u01a1m m\u00ecnh, m\u00e0 kh\u00f4ng lo \u0111\u1ebfn tai n\u1ea1n c\u1ee7a Gi\u00f4-s\u00e9p!\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "V\u1eady n\u00ean ch\u00fang n\u00f3 s\u1ebd b\u1ecb b\u1eaft l\u00e0m phu t\u00f9 \u0111\u1ea7u nh\u1ee9t trong nh\u1eefng k\u1ebb b\u1ecb b\u1eaft, v\u00e0 b\u1ea5y gi\u1edd s\u1ebd d\u1ee9t ti\u1ebfng reo vui c\u1ee7a nh\u1eefng k\u1ebb bu\u00f4ng tu\u1ed3ng \u1ea5y!\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va l\u00e0 \u00d0\u1ee9c Ch\u00faa Tr\u1eddi v\u1ea1n qu\u00e2n ph\u00e1n r\u1eb1ng: Ch\u00faa Gi\u00ea-h\u00f4-va \u0111\u00e3 ch\u1ec9 m\u00ecnh m\u00e0 th\u1ec1 r\u1eb1ng: Ta g\u1edbm ghi\u1ebfc s\u1ef1 ki\u00eau ng\u1ea1o c\u1ee7a Gia-c\u1ed1p, v\u00e0 gh\u00e9t cung \u0111\u1ec1n n\u00f3; v\u1eady n\u00ean ta s\u1ebd ph\u00f3 th\u00e0nh n\u1ea7y c\u00f9ng nh\u1eefng v\u1eadt ch\u1ee9a \u1edf trong.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "N\u1ebfu trong m\u1ed9t nh\u00e0 c\u00f2n l\u1ea1i m\u01b0\u1eddi ng\u01b0\u1eddi, th\u00ec ch\u00fang n\u00f3 c\u0169ng s\u1ebd ch\u1ebft h\u1ebft.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "M\u1ed9t ng\u01b0\u1eddi b\u00e0 con g\u1ea7n l\u00e0 k\u1ebb ph\u1ea3i \u0111\u1ed1t x\u00e1c ch\u1ebft, s\u1ebd c\u1ea5t ng\u01b0\u1eddi l\u00ean \u0111\u1ec3 \u0111em x\u01b0\u01a1ng ra kh\u1ecfi nh\u00e0; ng\u01b0\u1eddi \u1ea5y s\u1ebd h\u1ecfi k\u1ebb \u1edf nh\u00e0 trong r\u1eb1ng: C\u00f2n c\u00f3 ai \u1edf v\u1edbi ng\u01b0\u01a1i kh\u00f4ng? K\u1ebb \u1ea5y \u0111\u00e1p r\u1eb1ng: Kh\u00f4ng c\u00f3 ai h\u1ebft! B\u1ea5y gi\u1edd ng\u01b0\u1eddi b\u00e0 con n\u00f3i r\u1eb1ng: H\u00e3y im \u0111i! ch\u1edb n\u00f3i \u0111\u1ebfn danh \u00d0\u1ee9c Gi\u00ea-h\u00f4-va!\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "V\u00ec, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va truy\u1ec1n l\u1ecbnh, n\u1ea7y, nh\u00e0 l\u1edbn s\u1ebd b\u1ecb ng\u00e3 xu\u1ed1ng m\u00e0 \u0111\u1ed5 n\u00e1t, nh\u00e0 nh\u1ecf s\u1ebd b\u1ecb tan ra t\u1eebng m\u1ea3nh.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Ng\u01b0\u1eddi ta h\u00e1 cho ng\u1ef1a ch\u1ea1y tr\u00ean v\u1ea7ng \u0111\u00e1 sao! Ng\u01b0\u1eddi ta h\u00e1 \u0111em b\u00f2 c\u00e0y t\u1ea1i \u0111\u00f3? Nh\u01b0ng c\u00e1c ng\u01b0\u01a1i \u0111\u00e3 \u0111\u1ed5i s\u1ef1 ch\u00e1nh tr\u1ef1c l\u00e0m cay \u0111\u1eafng, v\u00e0 \u0111\u1ed5i tr\u00e1i c\u00f4ng b\u00ecnh ra ng\u1ea3i c\u1ee9u.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "C\u00e1c ng\u01b0\u01a1i \u01b0a th\u00edch s\u1ef1 h\u01b0 kh\u00f4ng, v\u00e0 n\u00f3i r\u1eb1ng: H\u00e1 ch\u1eb3ng ph\u1ea3i nh\u1edd s\u1ee9c m\u1ea1nh c\u1ea9u th\u1ea3 m\u00e0 ch\u00fang ta \u0111\u00e3 \u0111\u01b0\u1ee3c s\u1eebng sao?\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Gi\u00ea-h\u00f4-va \u00d0\u1ee9c Ch\u00faa Tr\u1eddi v\u1ea1n qu\u00e2n ph\u00e1n: N\u1ea7y, h\u1ee1i nh\u00e0 Y-s\u01a1-ra-\u00ean, ta s\u1ebd d\u1ea5y l\u00ean m\u1ed9t n\u01b0\u1edbc ngh\u1ecbch c\u00f9ng c\u00e1c ng\u01b0\u01a1i, n\u00f3 s\u1ebd h\u00e0 hi\u1ebfp c\u00e1c ng\u01b0\u01a1i, t\u1eeb l\u1ed1i v\u00e0o Ha-m\u00e1t cho \u0111\u1ebfn khe A-ra-ba.\n"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": 7,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "N\u1ea7y l\u00e0 \u0111i\u1ec1u m\u00e0 Ch\u00faa Gi\u00ea-h\u00f4-va khi\u1ebfn ta xem th\u1ea5y: N\u1ea7y, Ng\u00e0i l\u00e0m n\u00ean nh\u1eefng c\u00e0o c\u00e0o trong l\u00fac c\u1ecf b\u1eaft \u0111\u1ea7u m\u1ecdc l\u1ea1i; \u1ea5y l\u00e0 c\u1ecf m\u1ecdc l\u1ea1i sau c\u00e1c k\u1ef3 c\u1eaft c\u1ecf c\u1ee7a vua.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Khi c\u00e0o c\u00e0o \u0111\u00e3 c\u1eafn nu\u1ed1t c\u1ecf trong \u0111\u1ea5t r\u1ed3i, ta n\u00f3i r\u1eb1ng: H\u1ee1i Ch\u00faa Gi\u00ea-h\u00f4-va, t\u00f4i c\u1ea7u xin Ng\u00e0i h\u00e3y tha th\u1ee9! Gia-c\u1ed1p h\u00e1 c\u00f3 th\u1ec3 \u0111\u1ee9ng \u0111\u01b0\u1ee3c sao? v\u00ec n\u00f3 l\u00e0 nh\u1ecf.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va b\u00e8n \u0103n n\u0103n v\u1ec1 vi\u1ec7c n\u1ea7y. \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n r\u1eb1ng: \u00d0i\u1ec1u \u0111\u00f3 s\u1ebd kh\u00f4ng x\u1ea3y ra \u0111\u00e2u.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Ch\u00faa Gi\u00ea-h\u00f4-va cho ta xem th\u1ea5y nh\u01b0 sau n\u1ea7y: N\u1ea7y, Ch\u00faa Gi\u00ea-h\u00f4-va khi\u1ebfn l\u1ea5y l\u1eeda m\u00e0 ch\u1ed1ng tr\u1ea3. L\u1eeda \u1ea5y thi\u00eau nu\u1ed1t v\u1ef1c l\u1edbn, \u0111o\u1ea1n h\u1ea7u \u0103n nu\u1ed1t \u0111\u1ea5t.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "B\u1ea5y gi\u1edd ta n\u00f3i r\u1eb1ng: H\u1ee1i Ch\u00faa Gi\u00ea-h\u00f4-va, t\u00f4i c\u1ea7u xin Ng\u00e0i h\u00e3y th\u00f4i \u0111i! Gia-c\u1ed1p h\u00e1 c\u00f3 th\u1ec3 \u0111\u1ee9ng \u0111\u01b0\u1ee3c sao? v\u00ec n\u00f3 l\u00e0 nh\u1ecf.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va b\u00e8n \u0103n n\u0103n vi\u1ec7c n\u1ea7y. Ch\u00faa Gi\u00ea-h\u00f4-va ph\u00e1n r\u1eb1ng: \u00d0i\u1ec1u \u0111\u00f3 c\u0169ng s\u1ebd kh\u00f4ng x\u1ea3y \u0111\u1ebfn.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Ng\u00e0i b\u00e8n cho ta xem th\u1ea5y nh\u01b0 sau n\u1ea7y: N\u1ea7y, Ch\u00faa \u0111\u1ee9ng tr\u00ean m\u1ed9t b\u1ee9c t\u01b0\u1eddng th\u1eb3ng n\u1ea3y m\u1ef1c, v\u00e0 tay Ng\u00e0i c\u1ea7m m\u1ed9t d\u00e2y chu\u1ea9n m\u1ef1c.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n c\u00f9ng ta r\u1eb1ng: A-m\u1ed1t, ng\u01b0\u01a1i th\u1ea5y g\u00ec? Ta th\u01b0a r\u1eb1ng: M\u1ed9t d\u00e2y chu\u1ea9n m\u1ef1c. Ch\u00faa b\u00e8n ph\u00e1n: N\u1ea7y, ta s\u1ebd \u0111\u1eb7t d\u00e2y chu\u1ea9n m\u1ef1c gi\u1eefa d\u00e2n Y-s\u01a1-ra-\u00ean ta; ta s\u1ebd kh\u00f4ng c\u00f2n \u0111i qua n\u00f3 n\u1eefa.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "C\u00e1c n\u01a1i cao c\u1ee7a Y-s\u00e1c s\u1ebd b\u1ecb hoang vu, c\u00e1c n\u01a1i th\u00e1nh c\u1ee7a Y-s\u01a1-ra-\u00ean s\u1ebd b\u1ecb h\u1ee7y ph\u00e1, v\u00e0 ta s\u1ebd d\u1ea5y l\u00ean d\u00f9ng g\u01b0\u01a1m \u0111\u00e1nh nh\u00e0 Gi\u00ea-r\u00f4-b\u00f4-am.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "B\u1ea5y gi\u1edd, A-ma-xia, th\u1ea7y t\u1ebf l\u1ec5 c\u1ee7a B\u00ea-t\u00ean, khi\u1ebfn n\u00f3i c\u00f9ng Gi\u00ea-r\u00f4-b\u00f4-am l\u00e0 vua Y-s\u01a1-ra-\u00ean r\u1eb1ng: A-m\u1ed1t t\u1eadp l\u1eadp ngh\u1ecbch c\u00f9ng vua, \u1edf gi\u1eefa nh\u00e0 Y-s\u01a1-ra-\u00ean; \u0111\u1ea5t ch\u1eb3ng ch\u1ecbu n\u1ed5i m\u1ecdi l\u1eddi c\u1ee7a n\u00f3.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Th\u1eadt v\u1eady, n\u1ea7y, A-m\u1ed1t n\u00f3i r\u1eb1ng: Gi\u00ea-r\u00f4-b\u00f4-am s\u1ebd ch\u1ebft b\u1edfi g\u01b0\u01a1m, v\u00e0 Y-s\u01a1-ra-\u00ean ch\u1eafc s\u1ebd b\u1ecb \u0111\u00e0y \u0111i l\u00e0m phu t\u00f9 kh\u1ecfi \u0111\u1ea5t m\u00ecnh!\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "A-ma-xia n\u00f3i c\u00f9ng A-m\u1ed1t r\u1eb1ng: H\u1ee1i k\u1ebb ti\u00ean ki\u1ebfn, kh\u00e1 \u0111i kh\u1ecfi \u0111\u00e2y. H\u00e3y tr\u1ed1n trong \u0111\u1ea5t Giu-\u0111a, t\u1ea1i \u0111\u00f3 \u0103n b\u00e1nh v\u00e0 n\u00f3i ti\u00ean tri.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Nh\u01b0ng ch\u1edb c\u1ee9 n\u00f3i ti\u00ean tri t\u1ea1i B\u00ea-t\u00ean n\u1eefa; v\u00ec \u1ea5y l\u00e0 m\u1ed9t n\u01a1i th\u00e1nh c\u1ee7a vua, v\u00e0 \u1ea5y l\u00e0 nh\u00e0 vua.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "A-m\u1ed1t tr\u1ea3 l\u1eddi cho A-ma-xia r\u1eb1ng: Ta kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ea5ng ti\u00ean tri, c\u0169ng kh\u00f4ng ph\u1ea3i con \u0111\u1ea5ng ti\u00ean tri; nh\u01b0ng ta l\u00e0 m\u1ed9t k\u1ebb ch\u0103n, s\u1eeda so\u1ea1n nh\u1eefng c\u00e2y v\u1ea3 r\u1eebng.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va \u0111\u00e3 b\u1eaft l\u1ea5y ta t\u1eeb sau b\u1ea7y, v\u00e0 \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n c\u00f9ng ta r\u1eb1ng: H\u00e3y \u0111i n\u00f3i ti\u00ean tri cho d\u00e2n Y-s\u01a1-ra-\u00ean ta.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "V\u1ea3, h\u00e3y nghe l\u1eddi c\u1ee7a \u00d0\u1ee9c Gi\u00ea-h\u00f4-va: Ng\u01b0\u01a1i n\u00f3i r\u1eb1ng: Ch\u1edb n\u00f3i ti\u00ean tri ngh\u1ecbch c\u00f9ng Y-s\u01a1-ra-\u00ean, v\u00e0 \u0111\u1eebng nh\u1ecf l\u1eddi xu\u1ed1ng ngh\u1ecbch c\u00f9ng nh\u00e0 Y-s\u00e1c.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Cho n\u00ean \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n nh\u01b0 v\u1ea7y: V\u1ee3 ng\u01b0\u01a1i s\u1ebd bu\u00f4ng d\u00e2m trong th\u00e0nh; con trai v\u00e0 con g\u00e1i ng\u01b0\u01a1i s\u1ebd ng\u00e3 b\u1edfi g\u01b0\u01a1m; \u0111\u1ea5t ng\u01b0\u01a1i s\u1ebd b\u1ecb chia b\u1edfi d\u00e2y, c\u00f2n ng\u01b0\u01a1i, ng\u01b0\u01a1i s\u1ebd ch\u1ebft trong m\u1ed9t \u0111\u1ea5t \u00f4 u\u1ebf, v\u00e0 Y-s\u01a1-ra-\u00ean ch\u1eafc s\u1ebd b\u1ecb \u0111\u00e0y \u0111i l\u00e0m phu t\u00f9 kh\u1ecfi \u0111\u1ea5t m\u00ecnh.\n"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": 8,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "N\u1ea7y l\u00e0 \u0111i\u1ec1u m\u00e0 Ch\u00faa Gi\u00ea-h\u00f4-va cho ta xem th\u1ea5y: N\u1ea7y, c\u00f3 m\u1ed9t gi\u1ecf tr\u00e1i m\u00f9a h\u1ea1.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "B\u1ea5y gi\u1edd Ng\u00e0i ph\u00e1n r\u1eb1ng: A-m\u1ed1t, ng\u01b0\u01a1i th\u1ea5y g\u00ec? Ta th\u01b0a r\u1eb1ng: M\u1ed9t gi\u1ecf tr\u00e1i m\u00f9a h\u1ea1. \u00d0\u1ee9c Gi\u00ea-h\u00f4-va l\u1ea1i ph\u00e1n c\u00f9ng ta r\u1eb1ng: S\u1ef1 cu\u1ed1i c\u00f9ng \u0111\u00e3 \u0111\u1ebfn tr\u00ean d\u00e2n Y-s\u01a1-ra-\u00ean ta; ta s\u1ebd kh\u00f4ng v\u01b0\u1ee3t qua n\u00f3 n\u1eefa.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Trong ng\u00e0y \u0111\u00f3, nh\u1eefng b\u00e0i h\u00e1t trong cung \u0111\u1ec1n s\u1ebd l\u00e0 ti\u1ebfng kh\u00f3c than, Ch\u00faa Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady. S\u1ebd c\u00f3 nhi\u1ec1u x\u00e1c ch\u1ebft m\u00e0 ng\u01b0\u1eddi ta l\u00e0m thinh qu\u0103ng ra m\u1ecdi n\u01a1i.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "C\u00e1c ng\u01b0\u01a1i l\u00e0 ng\u01b0\u1eddi nu\u1ed1t nh\u1eefng k\u1ebb ngh\u00e8o n\u00e0n, l\u00e0m hao m\u00f2n nh\u1eefng k\u1ebb kh\u1ed1n c\u00f9ng trong \u0111\u1ea5t, h\u00e3y nghe \u0111i\u1ec1u n\u1ea7y.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "C\u00e1c ng\u01b0\u01a1i n\u00f3i r\u1eb1ng: Khi n\u00e0o tr\u0103ng m\u1edbi s\u1ebd qua, cho ch\u00fang ta c\u00f3 th\u1ec3 b\u00e1n l\u00faa mi\u1ebfn, v\u00e0 ng\u00e0y sa-b\u00e1t qua, \u0111\u1eb7ng ch\u00fang ta m\u1edf kho l\u00faa m\u00ec, m\u00e0 b\u1edbt \u00ea-pha, th\u00eam n\u1eb7ng si\u1ebfc-l\u01a1, v\u00e0 d\u00f9ng c\u00e2n d\u1ed1i gi\u1ea3 \u0111\u1eb7ng ph\u1ec9nh g\u1ea1t;\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "\u0111\u1eb7ng ch\u00fang ta l\u1ea5y b\u1ea1c mua k\u1ebb kh\u1ed1n n\u1ea1n, l\u1ea5y m\u1ed9t \u0111\u00f4i d\u00e9p mua k\u1ebb ngh\u00e8o n\u00e0n, v\u00e0 b\u00e1n cho \u0111\u1ebfn l\u00e9p l\u1eebng c\u1ee7a l\u00faa m\u00ec?\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va l\u1ea5y s\u1ef1 vinh hi\u1ec3n c\u1ee7a Gia-c\u1ed1p m\u00e0 ph\u00e1n l\u1eddi th\u1ec1 n\u1ea7y: Ta ch\u1eafc s\u1ebd ch\u1eb3ng h\u1ec1 qu\u00ean nh\u1eefng vi\u1ec7c l\u00e0m c\u1ee7a ch\u00fang n\u00f3!\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "\u00d0\u1ea5t h\u00e1 ch\u1eb3ng r\u00fang \u0111\u1ed9ng v\u1ec1 vi\u1ec7c \u0111\u00f3, h\u1ebft th\u1ea3y d\u00e2n c\u01b0 n\u00f3 h\u00e1 ch\u1eb3ng than kh\u00f3c sao? Tr\u1ecdn c\u1ea3 \u0111\u1ea5t s\u1ebd d\u1eady l\u00ean nh\u01b0 S\u00f4ng c\u00e1i, n\u00f3 s\u1ebd lung lay v\u00e0 l\u00fan xu\u1ed1ng nh\u01b0 S\u00f4ng c\u1ee7a \u00ca-d\u00edp-t\u00f4 v\u1eady.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Ch\u00faa Gi\u00ea-h\u00f4-va ph\u00e1n: S\u1ebd x\u1ea3y ra trong ng\u00e0y \u0111\u00f3, ta s\u1ebd khi\u1ebfn m\u1eb7t tr\u1eddi l\u1eb7n \u0111i trong l\u00fac gi\u1eefa tr\u01b0a, v\u00e0 khi\u1ebfn \u0111\u1ea5t t\u1ed1i t\u0103m trong gi\u1eefa ban ng\u00e0y.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Ta s\u1ebd \u0111\u1ed5i ng\u00e0y l\u1ec5 c\u00e1c ng\u01b0\u01a1i ra s\u1ea7u th\u1ea3m, v\u00e0 h\u1ebft th\u1ea3y b\u00e0i ca t\u1ee5ng c\u00e1c ng\u01b0\u01a1i ra ca th\u01b0\u01a1ng. Ta s\u1ebd th\u1eaft bao gai tr\u00ean m\u1ecdi l\u01b0ng, v\u00e0 l\u00e0m cho m\u1ecdi \u0111\u1ea7u \u0111\u1ec1u s\u00f3i. Ta s\u1ebd \u0111\u1eb7t \u0111\u1ea5t n\u1ea7y trong s\u1ef1 s\u1ea7u th\u1ea3m, nh\u01b0 l\u00e0 m\u1ea5t con trai m\u1ed9t, v\u00e0 s\u1ef1 cu\u1ed1i c\u00f9ng n\u00f3 s\u1ebd nh\u01b0 ng\u00e0y \u0111\u1eafng cay.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Ch\u00faa Gi\u00ea-h\u00f4-va ph\u00e1n: N\u1ea7y, nh\u1eefng ng\u00e0y s\u1ebd \u0111\u1ebfn, l\u00e0 khi ta khi\u1ebfn s\u1ef1 \u0111\u00f3i k\u00e9m \u0111\u1ebfn trong \u0111\u1ea5t, ch\u1eb3ng ph\u1ea3i l\u00e0 \u0111\u00f3i v\u1ec1 b\u00e1nh, c\u0169ng ch\u1eb3ng ph\u1ea3i kh\u00e1t v\u1ec1 n\u01b0\u1edbc, b\u00e8n l\u00e0 v\u1ec1 nghe l\u1eddi c\u1ee7a \u00d0\u1ee9c Gi\u00ea-h\u00f4-va.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "B\u1ea5y gi\u1edd ch\u00fang n\u00f3 s\u1ebd \u0111i d\u00f4ng d\u00e0i t\u1eeb bi\u1ec3n n\u1ea7y \u0111\u1ebfn bi\u1ec3n kh\u00e1c, t\u1eeb ph\u01b0\u01a1ng b\u1eafc \u0111\u1ebfn ph\u01b0\u01a1ng \u0111\u00f4ng; ch\u1ea1y \u0111i \u0111\u00e2y \u0111i \u0111\u00f3 \u0111\u1eb7ng t\u00ecm l\u1eddi \u00d0\u1ee9c Gi\u00ea-h\u00f4-va m\u00e0 kh\u00f4ng t\u00ecm \u0111\u01b0\u1ee3c.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Trong ng\u00e0y \u0111\u00f3, nh\u1eefng g\u00e1i \u0111\u1ed3ng trinh \u0111\u1eb9p \u0111\u1ebd v\u00e0 nh\u1eefng trai tr\u1ebb s\u1ebd m\u00f2n m\u1ecfi v\u00ec kh\u00e1t.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "H\u1ebft th\u1ea3y nh\u1eefng k\u1ebb ch\u1ec9 t\u1ed9i l\u1ed7i c\u1ee7a Sa-ma-ri m\u00e0 th\u1ec1 r\u1eb1ng: H\u1ee1i \u00d0an, th\u1eadt nh\u01b0 th\u1ea7n ng\u01b0\u01a1i s\u1ed1ng! h\u1ebft th\u1ea3y nh\u1eefng k\u1ebb \u1ea5y s\u1ebd ng\u00e3 xu\u1ed1ng, v\u00e0 kh\u00f4ng d\u1eady \u0111\u01b0\u1ee3c n\u1eefa.\n"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": 9,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Ta th\u1ea5y Ch\u00faa \u0111\u1ee9ng g\u1ea7n b\u00e0n th\u1edd v\u00e0 ph\u00e1n r\u1eb1ng: H\u00e3y \u0111\u00e1nh c\u00e1c \u0111\u1ea7u c\u1ed9t, h\u1ea7u cho nh\u1eefng ng\u1ea1ch c\u1eeda b\u1ecb r\u00fang \u0111\u1ed9ng; h\u00e3y \u0111\u1eadp b\u1ec3 ra tr\u00ean \u0111\u1ea7u h\u1ebft th\u1ea3y ch\u00fang n\u00f3! K\u1ebb n\u00e0o s\u00f3t l\u1ea1i trong ch\u00fang n\u00f3 th\u00ec ta s\u1ebd gi\u1ebft b\u1eb1ng g\u01b0\u01a1m, kh\u00f4ng m\u1ed9t ng\u01b0\u1eddi n\u00e0o tr\u1ed1n \u0111\u01b0\u1ee3c, kh\u00f4ng m\u1ed9t ng\u01b0\u1eddi n\u00e0o l\u00e1nh kh\u1ecfi.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "D\u1ea7u ch\u00fang n\u00f3 \u0111\u00e0o \u0111\u1ebfn \u00e2m ph\u1ee7, tay ta c\u0169ng s\u1ebd m\u00f3c ch\u00fang n\u00f3 ra; d\u1ea7u ch\u00fang n\u00f3 tr\u00e8o l\u00ean tr\u00ean tr\u1eddi, ta c\u0169ng s\u1ebd l\u00e0m cho ch\u00fang n\u00f3 t\u1eeb \u0111\u00f3 xu\u1ed1ng.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "D\u1ea7u ch\u00fang n\u00f3 \u1ea9n m\u00ecnh n\u01a1i ch\u00f3t n\u00fai C\u1ea1t-m\u00ean, ta c\u0169ng s\u1ebd \u0111i t\u00ecm \u0111\u1eb7ng k\u00e9o ch\u00fang n\u00f3 ra; d\u1ea7u ch\u00fang n\u00f3 l\u00e1nh khu\u1ea5t m\u1eaft ta n\u01a1i \u0111\u00e1y bi\u1ec3n, ta c\u0169ng s\u1ebd r\u1eafn c\u1eafn ch\u00fang n\u00f3 t\u1ea1i \u0111\u00f3.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "V\u00ed b\u1eb1ng ch\u00fang n\u00f3 \u0111i l\u00e0m phu t\u00f9 tr\u01b0\u1edbc m\u1eb7t k\u1ebb th\u00f9 ngh\u1ecbch m\u00ecnh, \u1edf \u0111\u00f3 ta c\u0169ng s\u1ebd sai g\u01b0\u01a1m gi\u1ebft ch\u00fang n\u00f3 \u0111i. Th\u1eadt, ta \u0111\u1ec3 m\u1eaft tr\u00ean ch\u00fang n\u00f3 \u0111\u1eb7ng l\u00e0m h\u1ecda cho, ch\u1eb3ng ph\u1ea3i \u0111\u1ec3 l\u00e0m ph\u01b0\u1edbc cho.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "V\u00ec Ch\u00faa, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va v\u1ea1n qu\u00e2n, l\u00e0 \u00d0\u1ea5ng r\u1edd \u0111\u1ebfn \u0111\u1ea5t th\u00ec \u0111\u1ea5t li\u1ec1n tan ch\u1ea3y, h\u1ebft th\u1ea3y d\u00e2n c\u01b0 n\u00f3 kh\u00f3c than; tr\u1ecdn c\u1ea3 \u0111\u1ea5t d\u1eady l\u00ean nh\u01b0 S\u00f4ng c\u00e1i v\u00e0 l\u00fan xu\u1ed1ng nh\u01b0 S\u00f4ng c\u1ee7a \u00ca-d\u00edp-t\u00f4.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Ch\u00faa \u0111\u00e3 x\u00e2y d\u1ef1ng cung \u0111\u1ec1n Ng\u00e0i trong c\u00e1c t\u1eebng tr\u1eddi, \u0111\u00e3 l\u1eadp v\u00f2ng khung Ng\u00e0i tr\u00ean \u0111\u1ea5t. Ng\u00e0i k\u00eau g\u1ecdi n\u01b0\u1edbc bi\u1ec3n v\u00e0 \u0111\u1ed5 ra tr\u00ean m\u1eb7t \u0111\u1ea5t. Danh Ng\u00e0i l\u00e0 \u00d0\u1ee9c Gi\u00ea-h\u00f4-va.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va c\u00f3 ph\u00e1n: H\u1ee1i con c\u00e1i Y-s\u01a1-ra-\u00ean, ta h\u00e1 ch\u1eb3ng coi c\u00e1c ng\u01b0\u01a1i nh\u01b0 con c\u00e1i c\u1ee7a \u00ca-thi-\u00f4-bi sao? Ta h\u00e1 ch\u1eb3ng t\u1eebng \u0111em Y-s\u01a1-ra-\u00ean ra kh\u1ecfi \u0111\u1ea5t \u00ca-d\u00edp-t\u00f4, ng\u01b0\u1eddi Phi-li-tin kh\u1ecfi C\u00e1p-t\u00f4, v\u00e0 ng\u01b0\u1eddi Sy-ri kh\u1ecfi Ki-r\u01a1, hay sao?\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "N\u1ea7y, con m\u1eaft Ch\u00faa Gi\u00ea-h\u00f4-va \u0111\u1ec3 tr\u00ean n\u01b0\u1edbc c\u00f3 t\u1ed9i n\u1ea7y, v\u00e0 ta s\u1ebd h\u1ee7y ph\u00e1 n\u00f3 kh\u1ecfi m\u1eb7t \u0111\u1ea5t; nh\u01b0ng ta s\u1ebd kh\u00f4ng di\u1ec7t s\u1ea1ch nh\u00e0 Gia-c\u1ed1p, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n v\u1eady.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "V\u00ec n\u1ea7y, ta s\u1ebd truy\u1ec1n l\u1ecbnh, v\u00e0 s\u1ebd r\u1ea3i tan nh\u00e0 Y-s\u01a1-ra-\u00ean ra gi\u1eefa m\u1ecdi d\u00e2n, nh\u01b0 l\u00faa m\u00ec b\u1ecb r\u1ea3i tan trong c\u00e1i s\u00e0ng, m\u00e0 kh\u00f4ng c\u00f3 m\u1ed9t h\u1ed9t n\u00e0o r\u01a1i xu\u1ed1ng \u0111\u1ea5t.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Ph\u1ea3i, ph\u00e0m nh\u1eefng k\u1ebb c\u00f3 t\u1ed9i trong d\u00e2n ta, ph\u00e0m nh\u1eefng k\u1ebb n\u00f3i r\u1eb1ng: Ho\u1ea1n n\u1ea1n s\u1ebd kh\u00f4ng g\u1ea7n ch\u00fang ta, c\u0169ng kh\u00f4ng k\u1ecbp \u0111\u1ebfn ch\u00fang ta, th\u00ec ch\u00fang n\u00f3 s\u1ebd ch\u1ebft b\u1edfi g\u01b0\u01a1m.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Trong ng\u00e0y \u0111\u00f3, ta s\u1ebd d\u1ef1ng l\u1ea1i nh\u00e0 t\u1ea1m c\u1ee7a \u00d0a-v\u00edt, l\u00e0 nh\u00e0 \u0111\u00e3 \u0111\u1ed5, v\u00e0 tu b\u1ed5 l\u1ea1i nh\u1eefng ch\u1ed7 r\u00e1ch n\u00e1t c\u1ee7a n\u00f3. Ta s\u1ebd d\u1ef1ng l\u1ea1i nh\u1eefng n\u01a1i \u0111\u1ed5 n\u00e1t v\u00e0 x\u00e2y n\u00f3 l\u1ea1i nh\u01b0 ng\u00e0y x\u01b0a;\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "\u0111\u1ebfn n\u1ed7i ch\u00fang n\u00f3 s\u1ebd th\u00e2u \u0111\u01b0\u1ee3c nh\u1eefng d\u00e2n s\u00f3t c\u1ee7a \u00ca-\u0111\u00f4m v\u00e0 h\u1ebft th\u1ea3y c\u00e1c n\u01b0\u1edbc \u0111\u01b0\u1ee3c x\u01b0ng b\u1edfi danh ta, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va l\u00e0 \u00d0\u1ea5ng l\u00e0m tr\u1ecdn m\u1ecdi \u0111i\u1ec1u \u1ea5y ph\u00e1n v\u1eady.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "\u00d0\u1ee9c Gi\u00ea-h\u00f4-va ph\u00e1n: N\u1ea7y, nh\u1eefng ng\u00e0y \u0111\u1ebfn, k\u1ebb c\u00e0y s\u1ebd theo k\u1ecbp k\u1ebb g\u1eb7t, k\u1ebb \u0111\u1ea1p nho theo k\u1ecbp k\u1ebb gieo gi\u1ed1ng. C\u00e1c n\u00fai s\u1ebd nh\u1ecf r\u01b0\u1ee3u ng\u1ecdt ra v\u00e0 m\u1ecdi \u0111\u1ed3i s\u1ebd tan ch\u1ea3y.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Ta s\u1ebd \u0111em phu t\u00f9 c\u1ee7a d\u00e2n Y-s\u01a1-ra-\u00ean ta tr\u1edf v\u1ec1; ch\u00fang n\u00f3 s\u1ebd l\u1eadp l\u1ea1i c\u00e1c th\u00e0nh b\u1ecb ph\u00e1, v\u00e0 \u1edf \u0111\u00f3. Ch\u00fang n\u00f3 s\u1ebd tr\u1ed3ng v\u01b0\u1eddn nho v\u00e0 u\u1ed1ng r\u01b0\u1ee3u n\u00f3, s\u1ebd c\u00e0y c\u1ea5y v\u01b0\u1eddn m\u00ecnh v\u00e0 \u0103n tr\u00e1i n\u00f3.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Ta s\u1ebd l\u1ea1i tr\u1ed3ng ch\u00fang n\u00f3 tr\u00ean \u0111\u1ea5t ch\u00fang n\u00f3, v\u00e0 ch\u00fang n\u00f3 s\u1ebd kh\u00f4ng h\u1ec1 b\u1ecb nh\u1ed5 kh\u1ecfi \u0111\u1ea5t m\u00ecnh m\u00e0 ta \u0111\u00e3 ban cho, \u00d0\u1ee9c Gi\u00ea-h\u00f4-va l\u00e0 \u00d0\u1ee9c Ch\u00faa Tr\u1eddi ng\u01b0\u01a1i ph\u00e1n v\u1eady.\n"
+                }
+            }
+        }
+    }
+}

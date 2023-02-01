@@ -1,0 +1,464 @@
+{
+    "version": "SNT",
+    "book_name": "James",
+    "book_nr": "59",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kutoka kwa Yakobo, mtumishi wa Mungu na wa Bwana Yesu Kristo. Kwa makabila kumi na mawili yaliyotawanyika ulimwenguni. Salamu:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Imani Na Hekima -Ndugu wapendwa, mnapopatwa na majaribu mbalimbali, yahesab uni kuwa ni furaha tupu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kwa maana mnafahamu ya kuwa kujaribiwa kwa imani yenu hujenga ustahimilivu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Na ustahimilivu ukimaliza kazi yake mtakuwa wakamilifu pasipo kupungukiwa na cho chote."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Lakini kama mtu ye yote kati yenu akipungukiwa na hekima, basi na amwombe Mungu, ambaye huwapa watu wote kwa ukarimu pasipo kulaumu, naye atapewa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Lakini aombe kwa imani pasipo shaka yo yote; maana mwenye mashaka ni kama wimbi la bahari ambalo husu kumwa na upepo, likitupwa huku na huku."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mtu kama huyo asidhani atapata kitu cho chote kutoka kwa Bwana;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "kwa maana yeye ni mtu mwenye nia mbili asiyekuwa na msimamo katika jambo lo lote."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Umaskini Na Utajiri -Ndugu asiye na cheo afurahi kwa sababu Bwana amemtukuza;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "na tajiri afurahi anaposhushwa kwa maana atatoweka kama ua la mwituni."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Maana jua huchomoza na kwa mionzi yake mikali hukausha mimea, na maua yake huanguka na uzuri wake hupotea. Vivyo hivyo tajiri naye atafifia akiwa katika shughuli zake."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kujaribiwa -Amebarikiwa mtu ambaye anavumilia majaribu, kwa sababu akisha stahimili atapewa taji ya uzima ambayo Mungu amewaahidi wale wampendao."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mtu akijaribiwa asiseme, ``Ninajaribiwa na Mungu,&#39;&#39; kwa maana Mungu hajaribiwi na uovu na yeye hamjaribu mtu ye yote."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Lakini kila mtu hujaribiwa anapovutwa na kudanganywa na tamaa yake mwenyewe."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kisha tamaa hiyo ikisha chukua mimba, huzaa dhambi; na dhambi ikisha komaa, huzaa mauti."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ndugu zangu wapendwa, msidanganywe."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kila kipawa chema na kila zawadi kamilifu hutoka mbinguni, ikishuka kutoka kwa Baba wa nuru za mbinguni ambaye habadiliki kama kivuli."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kwa kupenda kwake mwenyewe alituzaa kwa neno la kweli, kusudi tuwe kama mavuno ya kwanza katika viumbe vyake."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kusikia Na Kutenda -Ndugu wapendwa, fahamuni jambo hili: kila mtu awe mwepesi wa kusikia, bali si mwepesi wa kusema wala kukasirika."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Maana hasira ya mwanadamu haitendi haki ya Mungu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kwa hiyo epukeni uchafu wote na uovu ambao umeenea, mkapokee kwa unyenyekevu lile neno lililopandwa mioyoni mwenu ambalo linaweza kuokoa nafsi zenu."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Basi muwe watendaji wa neno na wala msiwe wasikilizaji tu, ambao wanajidanganya wenyewe."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kwa maana kama mtu ni msi kilizaji tu wa neno na wala hatekelezi alilosikia, atafanana na mtu ajitazamaye uso wake katika kioo,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "na baada ya kujiona alivyo, huenda zake na mara moja husahau anavyofanana."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Lakini mtu anayeangalia kwa makini katika sheria kamilifu, ile sheria iletayo uhuru, na akaendelea kufanya hivyo bila kusahau alichosi kia, bali akakitekeleza, atabarikiwa katika kile anachofanya."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Mtu akidhani kuwa ana dini na huku hautawali ulimi wake, anajidanganya mwenyewe na dini yake ni bure."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Dini iliyo safi, isiyo na uchafu mbele za Mungu Baba, ndio hii: kuwasaidia yatima na wajane katika dhiki zao, na kujilinda mwenyewe usichafuliwe na ulimwengu."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Onyo Kuhusu Upendeleo -Ndugu zangu wapendwa, msiwe na upendeleo mnapoishika imani ya Bwana wetu Yesu Kristo, Bwana wa utukufu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tuseme mtu mmoja aliyevaa pete ya dhahabu na nguo maridadi anakuja katika mkutano wenu; kisha fukara mmoja mwenye nguo chafu na mbovu akaingia pia."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ikiwa utamshughulikia zaidi yule mtu aliyevaa nguo maridadi ukamwambia, ``Keti hapa kwenye kiti kizuri,&#39;&#39; lakini yule fukara ukamwambia, ``Wewe simama pale,&#39;&#39; au ``Keti sakafuni, miguuni pangu,&#39;&#39;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "je, hamtakuwa mmefanya ubaguzi mioyoni mwenu na kutoa hukumu itokanayo na mawazo maovu?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sikilizeni, ndugu zangu wapendwa: je, Mungu hakuwachagua wale walio fukara hapa duniani kuwa matajiri wa imani na warithi wa ufalme aliowaahidi wale wampendao?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Lakini ninyi mmemvunjia heshima aliye fukara. Je, si matajiri ndio wanaowagandamiza na kuwapelekeni mahakamani?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Je, si wao wanaolikufuru jina lile jema mliloitiwa?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kama kweli mnatimiza ile sheria ya kifalme iliyomo katika Maandiko, ``Mpende jirani yako kama unavyojipenda mwenyewe,&#39;&#39; mnafanya vema."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Lakini kama mnafanya ubaguzi, mna tenda dhambi na sheria inawahukumu kuwa ninyi ni wakosaji."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kwa maana mtu ye yote anayetimiza sheria yote isipokuwa akashindwa kutimiza sehemu moja tu, amekuwa na hatia ya kuvunja sheria yote."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kwa sababu yeye aliyesema, ``Usizini&#39;&#39; ndiye huyo huyo aliyesema, ``Usiue.&#39;&#39; Kama huzini lakini unaua, umekuwa mvunjaji wa sheria yote."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kwa hiyo semeni na kutenda kama watu watakaohukumiwa kwa sheria iletayo uhuru."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Maana hukumu haina huruma kwa mtu asi yekuwa na huruma. Lakini huruma huishinda hukumu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Imani Na Matendo -Kuna faida gani, ndugu zangu, ikiwa mtu atasema, ``Ninayo imani,&#39;&#39; na huku hana matendo?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tuseme ndugu fulani au dada hana nguo wala chakula."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ikiwa mmoja wenu atawaambia, ``Nendeni salama, mkaote moto na kushiba,&#39;&#39; pasipo kuwapatia mahitaji yao ya mwili, kuna faida gani?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Vivyo hivyo imani peke yake kama haina matendo, imekufa."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Lakini mtu mwingine atasema, ``Wewe unayo imani; mimi ninayo matendo.&#39;&#39; Nionyeshe imani yako pasipo matendo nami nita kuonyesha imani yangu kwa matendo yangu."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Unaamini kuwa kuna Mungu mmoja. Vema. Lakini hata mashetani huamini hivyo, nao hutetemeka!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ewe mpumbavu, unataka ushahidi wa kuthibitisha kwamba imani bila matendo ni bure?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Je, Abrahamu baba yetu hakuhesa biwa haki kwa matendo, alipomtoa mwanae Isaki madhabahuni?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Unaona jinsi ambavyo imani ilitenda kazi pamoja na matendo yake na imani ikakamilishwa kwa matendo."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kwa njia hiyo yaka timizwa yale Maandiko yasemayo, ``Abrahamu alimwamini Mungu, na kwa imani yake akahesabiwa kuwa mtu mwenye haki&#39;&#39;; naye akaitwa rafiki wa Mungu."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Mnaona kwamba mtu huhesabiwa haki kwa matendo wala si kwa imani peke yake."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Hali kadhalika Rahabu, yule kahaba, yeye je, hakuhesabiwa haki kwa matendo yake alipowapokea wapelelezi na kuwaambia waende njia nyingine?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kama vile ambavyo mwili pasipo roho umekufa, kadhalika imani pasipo matendo imekufa."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kuhusu Kuutawala Ulimi -Ndugu zangu, wengi wenu msiwe walimu, kwa maana mnafahamu kwamba sisi tufundishao tutahukumiwa vikali zaidi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sisi sote hufanya makosa mengi. Ikiwa kuna mtu asiyekosea kwa usemi wake, huyo ni mkamilifu, naye anaweza kuutawala mwili wake wote."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tunapowawekea farasi lijamu vinywani mwao ili watutii, tunatawala miili yao yote."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kadhalika meli, ingawa ni kubwa sana na huendeshwa na upepo mkali, lakini huongozwa na usukani mdogo sana, ikaenda ko kote anakotaka nahodha."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ulimi nao ni kiungo kidogo sana lakini hujivunia mambo makuu. Fikirini jinsi moto mdogo unavyoweza kuteketeza msitu mkubwa!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ulimi pia ni kama moto. Ulimi ni ulimwengu wa uovu kati ya viungo vyetu. Humchafua mtu nafsi nzima na kuwasha moto maisha yake yote, nao ulimi huwashwa moto wa kuzimu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Wanyama wa kila aina, ndege, nyoka na viumbe vya baharini wanafugwa na wamekwisha kufugwa na binadamu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Lakini hakuna mtu awezaye kuufuga ulimi. Ni uovu unaohangaika huku na kule, uliojaa sumu inayoua."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kwa kutumia ulimi tunamsifu Bwana na Baba yetu na kwa ulimi huo huo tunawalaani watu ambao wameumbwa kwa mfano wa Mungu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Katika kinywa hicho hicho hutoka sifa na laana. Ndugu zangu, haipaswi kuwa hivyo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Je, chemchemi yaweza kutoa kutoka katika tundu moja maji matamu na maji machungu?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Je, ndugu zangu, mtini waweza kuzaa zeituni, au mzabibu waweza kuzaa tini? Pia haiwezekani chemchemi ya chumvi kutoa maji matamu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Aina Mbili Za Hekima -Ni nani miongoni mwenu aliye na hekima na ufahamu? Basi aonyeshe hayo kwa maisha yake mazuri na kwa matendo yake anayot enda kwa unyenyekevu utokanao na hekima."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Lakini ikiwa mna wivu wenye chuki na kufikiria mno maslahi yenu binafsi, msiji sifie hayo wala kuikataa kweli."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hekima ya namna hiyo haishuki kutoka mbinguni bali ni ya kidunia; si hekima ya kiroho bali ni ya shetani."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kwa maana penye wivu na ubinafsi, ndipo penye machafuko na kila tendo ovu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Lakini hekima itokayo mbinguni kwanza ni safi, kisha ni yenye kupenda amani, yenye kufikiria wengine, yenye unyenyekevu, iliyojaa huruma na matunda mema, isiyopendelea mtu, na ya kweli."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wapenda-amani wapandao katika amani huvuna mavuno ya haki."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jinyenyekezeni Kwa Mungu -Ni kitu gani kinachosababisha vita na ugomvi miongoni mwenu? Je, si tamaa zenu zinazopingana ndani yenu?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mnatamani lakini hampati kwa hiyo mnaua . Na mnatamani kupata lakini ham pati vile mnavyotaka kwa hiyo mnapigana na kuanzisha vita. Mme pungukiwa kwa sababu hamumwombi Mungu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mnaomba lakini hampokei kwa sababu mnaomba kwa nia mbaya, ili mtumie mtakavyopata kwa kutosheleza tamaa zenu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ninyi viumbe wasio waaminifu! Hamfahamu kwamba urafiki na dunia ni uadui na Mungu? Kwa hiyo anayependa kuwa rafiki wa dunia anajitangaza kuwa adui wa Mungu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Au mnadhani Maandiko mataka tifu yanasema bure kuwa, ``Anaona wivu juu ya roho aliyemweka aishi ndani yetu&#39;&#39;?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Lakini yeye anatupatia neema zaidi, ndio maana Maandiko husema, ``Mungu huwapinga wenye kiburi lakini huwapa neema wanyenyekevu.&#39;&#39;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kwa hiyo, jinyenyekezeni kwa Mungu . Mpingeni shetani, naye atawakimbia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mkaribieni Mungu, naye atawakaribia. Takaseni mikono yenu, ninyi wenye dhambi; na takaseni mioyo yenu, ninyi wenye nia mbili."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Huzunikeni, ombolezeni na kulia. Kicheko chenu kiwe kilio na furaha yenu iwe huzuni."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jinyenyekezeni mbele za"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kuhusu Kuhukumiana -Ndugu, msilaumiane ninyi kwa ninyi. Mtu anayesema maovu kumhusu ndugu yake au kumhukumu ndugu yake anailaumu sheria na kuihukumu. Unapoihukumu sheria, basi hutii sheria bali umekuwa hakimu wa sheria."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ni Mungu peke yake ambaye ametoa sheria na pia yeye ndiye hakimu; ni yeye tu awezaye kuokoa na kuangamiza."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Usijivunie ya Kesho -Sasa nisikilizeni ninyi msemao, ``Leo au kesho tutakwenda katika mji huu ama ule tukae mwaka mmoja huko, tufanye biashara na kuchuma fedha.&#39;&#39;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kumbe hamjui litakalotokea kesho! Kwani maisha yenu ni kitu gani? Ninyi ni kama ukungu ambao huonekana kwa muda mfupi tu na baadaye hutoweka."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Badala yake mnapaswa kusema, ``Bwana akipenda, tutaishi na kufanya hili ama lile.&#39;&#39;"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Lakini sasa mnajisifu kwa sababu ya ujinga wenu. Kujisifu kwa jinsi hiyo ni uovu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mtu ye yote anayefahamu lililo jema kutenda, lakini asilitende, basi mtu huyo anatenda dhambi."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Onyo Kwa Matajiri -Sasa sikilizeni, ninyi matajiri: Lieni na kuomboleza kwa ajili ya huzuni inayowajia."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Utajiri wenu umeoza na mavazi yenu yameliwa na nondo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dhahabu yenu na fedha yenu vimeingia kutu na kutu yake itakuwa ushahidi dhidi yenu na itakula miili yenu kama moto. Mmejilimbikizia utajiri kwa siku za mwisho."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Angalieni ule ujira mliowadhulumu vibarua waliovuna mashamba yenu unawalilia; na vilio vya wavunaji hao vimeyafikia masikio ya Bwana wa majeshi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mmeishi duniani maisha ya anasa na kujistarehesha. Mmejinenepesha tayari kwa siku ya kuchinjwa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mmemhukumu na kum wua mwenye haki; yeye hakuwapinga."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Subira Na Mateso -Kwa hiyo, ndugu zangu, muwe na subira mpaka Bwana atakapo kuja. Angalieni jinsi mkulima anavyongojea ardhi itoe mavuno mazuri, jinsi anavyongojea kwa subira mvua za mwanzo na za mwisho."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hali kadhalika nanyi muwe na subira. Muwe na mioyo tha biti kwa sababu kuja kwa Bwana kumekaribia."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ndugu zangu, msi nung&#39;unikiane wenyewe kwa wenyewe, ama sivyo mtahukumiwa. Hakimu amesimama mlangoni."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ndugu zangu, kama mfano wa subira wakati wa mateso, waan galieni manabii walionena katika jina la Bwana."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kama mnavy ojua tunawahesabu kuwa wamebarikiwa wale ambao wamevumilia. Mmek wisha kusikia habari za ustahimilivu wa Ayubu na mmeona shabaha ya Bwana, jinsi Bwana alivyo na huruma na rehema."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Zaidi ya yote, ndugu zangu, msiape, ama kwa mbingu, au kwa dunia au kwa kiapo kingine cho chote. Bali mkisema `Ndio&#39; iwe ndio, na mkisema `Hapana"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Maombi Ya Imani -Je, kuna mtu ye yote miongoni mwenu aliye na shida? Basi na aombe. Je, yuko mwenye furaha? Basi na aimbe nyimbo za sifa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Je, kuna mtu miongoni mwenu aliye mgonjwa? Basi awaite wazee wa kanisa wamwombee na kumpaka mafuta katika jina la Bwana."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Na kule kuomba kwa imani kutamwokoa mgonjwa huyo na Bwana atamwinua. Kama ametenda dhambi, atasamehewa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kwa hiyo ungameni dhambi zenu ninyi kwa ninyi na kuombeana ili mpate kuponywa. Maombi ya mtu mwenye haki yana nguvu na huleta matokeo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Eliya alikuwa binadamu kama sisi. Aliomba kwa moyo kwamba mvua isinyeshe na mvua haikunyesha juu ya nchi kwa muda wa miaka mitatu na nusu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kisha akaomba tena na mbingu zikatoa mvua na ardhi ikazaa matunda yake."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ndugu zangu, ikiwa mtu miongoni mwenu anapotoka kutoka katika kweli na mtu mwingine akamrejesha,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        }
+    }
+}

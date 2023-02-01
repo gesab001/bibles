@@ -1,0 +1,515 @@
+{
+    "version": "DHH",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "T\u00edtulo - El m\u00e1s hermoso de los poemas de Salom\u00f3n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Primer canto - Ella \u00a1Dame un beso de tus labios! Son m\u00e1s dulces que el vino tus caricias,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "deliciosos al olfato tus perfumes, tu nombre es perfume derramado. \u00a1Por eso te aman las mujeres!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00a1Ll\u00e9vame pronto contigo! \u00a1Ll\u00e9vame, oh rey, a tus habitaciones! CoroContigo estaremos muy alegres; evocaremos tus caricias m\u00e1s que el vino. \u00a1Con raz\u00f3n te aman las mujeres!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ella Mujeres de Jerusal\u00e9n, soy morena, pero hermosa; morena como los campamentos de Quedar, hermosa como las cortinas de Salom\u00f3n."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "No se fijen en que soy morena, ni en que el sol me ha quemado la piel. Mis hermanos se enojaron conmigo y me pusieron a cuidar las vi\u00f1as, \u00a1y mi propia vi\u00f1a descuid\u00e9!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dime, amor de mi vida, \u00bfd\u00f3nde apacientas tus reba\u00f1os?, \u00bfd\u00f3nde los llevas a descansar al mediod\u00eda? \u00bfPor qu\u00e9 he de andar como una vagabunda, junto a los reba\u00f1os de tus compa\u00f1eros?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Coro Si no lo sabes t\u00fa, hermosa entre las hermosas, sigue las pisadas del reba\u00f1o y apacienta tus cabritos junto a las chozas de los pastores."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00c9l T\u00fa eres para m\u00ed, amor m\u00edo, cual fina yegua del carro del fara\u00f3n."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00a1Qu\u00e9 lindas son tus mejillas entre los pendientes! \u00a1Qu\u00e9 lindo es tu cuello entre los collares de perlas!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00a1Te haremos pendientes de oro con incrustaciones de plata!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ella Mientras el rey se sienta a la mesa, mi nardo esparce su fragancia."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mi amado es para m\u00ed como el saquito de mirra que est\u00e1 siempre entre mis pechos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mi amado es para m\u00ed como flor de alhe\u00f1a en los vi\u00f1edos de En-gadi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00c9l \u00a1Qu\u00e9 hermosa eres, amor m\u00edo, qu\u00e9 hermosa eres! \u00a1Tus ojos son dos palomas!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ella \u00a1Qu\u00e9 hermoso eres, amor m\u00edo, qu\u00e9 hermoso eres! \u00c9l\u00a1La verde hierba es nuestro lecho!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Los cedros son las vigas de la casa, y los cipreses, el techo que nos cubre."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ella Soy la flor de los llanos de Sar\u00f3n, soy la rosa de los valles."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00c9l Mi amada es, entre las mujeres, como una rosa entre los espinos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ella Mi amado es, entre los hombres, como un manzano entre los \u00e1rboles del bosque. \u00a1Qu\u00e9 agradable es sentarme a su sombra! \u00a1Qu\u00e9 dulce me sabe su fruta!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Me llev\u00f3 a la sala de banquetes y sus miradas para m\u00ed fueron de amor."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00a1Rean\u00edmenme con tortas de pasas, alim\u00e9ntenme con manzanas, porque me muero de amor!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00a1Que ponga \u00e9l su izquierda bajo mi cabeza, y que con su derecha me abrace!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00c9l Prom\u00e9tanme, mujeres de Jerusal\u00e9n, por las gacelas y cervatillas del bosque, no interrumpir el sue\u00f1o de mi amor. \u00a1D\u00e9jenla dormir hasta que quiera despertar!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Segundo canto - Ella \u00a1Ya viene mi amado! \u00a1Ya escucho su voz! Viene saltando sobre los montes, viene saltando por las colinas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mi amado es como un venado: como un venado peque\u00f1o. \u00a1Aqu\u00ed est\u00e1 ya, tras la puerta, asom\u00e1ndose a la ventana, espiando a trav\u00e9s de la reja!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mi amado me dijo: \u00abLev\u00e1ntate, amor m\u00edo; anda, cari\u00f1o, vamos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00a1Mira! El invierno ha pasado y con \u00e9l se han ido las lluvias."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ya han brotado flores en el campo, ya ha llegado el tiempo de cantar, ya se escucha en nuestra tierra el arrullo de las t\u00f3rtolas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ya tiene higos la higuera, y los vi\u00f1edos esparcen su aroma. \u00bbLev\u00e1ntate, amor m\u00edo; anda, cari\u00f1o, vamos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bbPaloma m\u00eda, que te escondes en las rocas, en altos y escabrosos escondites, d\u00e9jame ver tu rostro, d\u00e9jame escuchar tu voz. \u00a1Es tan agradable el verte! \u00a1Es tan dulce el escucharte!\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Los dos Atrapen las zorras, las zorras peque\u00f1as que arruinan nuestros vi\u00f1edos, nuestros vi\u00f1edos en flor."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ella Mi amado es m\u00edo, y yo soy suya. \u00c9l apacienta sus reba\u00f1os entre las rosas."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mientras llega el d\u00eda y huyen las sombras, vuelve, amado m\u00edo; s\u00e9 como un venado, como un venado peque\u00f1o por los montes escarpados."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "En mi cama, por las noches, busqu\u00e9 al amor de mi vida. Lo busqu\u00e9 y no lo encontr\u00e9."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Entonces me levant\u00e9 y recorr\u00ed la ciudad buscando al amor de mi vida por las calles y las plazas. Lo busqu\u00e9 y no lo encontr\u00e9."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pregunt\u00e9 a los guardias que hacen la ronda de la ciudad: \u00ab\u00bfNo han visto ustedes al amor de mi vida?\u00bb"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Apenas me hab\u00eda alejado de ellos, cuando encontr\u00e9 al amor de mi vida. Lo tom\u00e9 de la mano, y sin soltarlo lo llev\u00e9 a las habitaciones de mi madre."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00c9l Prom\u00e9tanme, mujeres de Jerusal\u00e9n, por las gacelas y cervatillas del bosque, no interrumpir el sue\u00f1o de mi amor. \u00a1D\u00e9jenla dormir hasta que quiera despertar!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tercer canto - Coro \u00bfQu\u00e9 es eso que viene del desierto y avanza entre columnas de humo, entre humo de mirra y de incienso y de toda clase de perfumes?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00a1Es la litera de Salom\u00f3n! Viene escoltada por sesenta soldados de los m\u00e1s valientes de Israel;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "todos ellos manejan la espada y son expertos guerreros; cada uno lleva la espada al cinto en previsi\u00f3n de peligros nocturnos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El rey Salom\u00f3n se ha hecho una litera con finas maderas del L\u00edbano."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Las columnas son de plata; el respaldo, de oro; el asiento, tapizado de p\u00farpura; el interior, decorado con amor por las mujeres de Jerusal\u00e9n."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mujeres de Si\u00f3n, \u00a1salgan a ver al rey Salom\u00f3n! Lleva puesta la corona que le hizo su madre para el d\u00eda de su boda, para el d\u00eda m\u00e1s feliz de su vida."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c9l \u00a1Qu\u00e9 hermosa eres, amor m\u00edo! \u00a1Qu\u00e9 hermosa eres! Tus ojos son dos palomas escondidas tras tu velo; tus cabellos son como cabritos que retozan por los montes de Galaad."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tus dientes, todos perfectos, son cual reba\u00f1o de ovejas reci\u00e9n salidas del ba\u00f1o y listas para la trasquila."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tus labios son rojos como hilos de escarlata, y encantadoras tus palabras. Tus mejillas son dos gajos de granada escondidos tras tu velo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tu cuello es semejante a la bella torre de canter\u00eda que se construy\u00f3 para David. De ella cuelgan mil escudos, escudos de valientes."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tus pechos son dos gacelas, dos gacelas mellizas que pastan entre las rosas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mientras llega el d\u00eda y huyen las sombras, me ir\u00e9 al monte de la mirra, a la colina del incienso."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00a1T\u00fa eres hermosa, amor m\u00edo; hermosa de pies a cabeza! \u00a1En ti no hay defecto alguno!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Baja conmigo del L\u00edbano, novia m\u00eda; baja conmigo del L\u00edbano. Contempla el valle desde la cumbre del Aman\u00e1, desde la cumbre del Senir y del Herm\u00f3n; desde las cuevas de los leones, desde los montes de los leopardos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Me robaste el coraz\u00f3n, hermanita, novia m\u00eda; me robaste el coraz\u00f3n con una sola mirada tuya, con uno de los hilos de tu collar."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00a1Qu\u00e9 gratas son tus caricias, hermanita, novia m\u00eda! \u00a1Son tus caricias m\u00e1s dulces que el vino, y m\u00e1s deliciosos tus perfumes que todas las especias arom\u00e1ticas!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Novia m\u00eda, de tus labios brota miel. \u00a1Miel y leche hay debajo de tu lengua! \u00a1Como fragancia del L\u00edbano es la fragancia de tu vestido!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "T\u00fa, hermanita, novia m\u00eda, eres jard\u00edn cerrado, cerrada fuente, sellado manantial;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "jard\u00edn donde brotan los granados de frutos exquisitos; jard\u00edn donde hay flores de alhe\u00f1a,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "nardos y azafr\u00e1n, ca\u00f1a arom\u00e1tica y canela, y toda clase de \u00e1rboles de incienso, de mirra y de \u00e1loe; \u00a1todas las mejores especias arom\u00e1ticas!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La fuente del jard\u00edn es un pozo del cual brota el agua que baja desde el L\u00edbano."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Viento del norte, \u00a1despierta! Viento del sur, \u00a1ven ac\u00e1! \u00a1Soplen en mi jard\u00edn y esparzan su perfume! EllaVen, amado m\u00edo, a tu jard\u00edn, y come de sus frutos exquisitos."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c9l Ya he entrado en mi jard\u00edn, hermanita, novia m\u00eda. Ya he tomado mi mirra y mis perfumes, ya he probado la miel de mi panal, ya he bebido mi vino y mi leche. CoroQueridos amigos, coman y beban, \u00a1beban todo lo que quieran!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Cuarto canto - Ella Yo dorm\u00eda, pero no mi coraz\u00f3n. Y o\u00ed que mi amado llamaba a la puerta: \u00ab\u00a1\u00c1breme, amor m\u00edo; hermanita, palomita virginal! \u00a1Mi cabeza est\u00e1 empapada de roc\u00edo! \u00a1El roc\u00edo nocturno me corre por el cabello!\u00bb"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00abYa me he quitado la ropa; \u00a1tendr\u00eda que volver a vestirme! Ya me he lavado los pies; \u00a1se me volver\u00edan a llenar de polvo!\u00bb"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mi amado meti\u00f3 la mano por el agujero de la puerta. \u00a1Eso me conmovi\u00f3 profundamente!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Entonces me levant\u00e9 para abrirle a mi amado. De mis manos y mis dedos cayeron gotitas de mirra sobre el pasador de la puerta. \u00a1Al o\u00edrlo hablar sent\u00ed que me mor\u00eda! Abr\u00ed la puerta a mi amado, pero \u00e9l ya no estaba all\u00ed. Lo busqu\u00e9 y no lo encontr\u00e9, lo llam\u00e9 y no me respondi\u00f3."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Entonces me levant\u00e9 para abrirle a mi amado. De mis manos y mis dedos cayeron gotitas de mirra sobre el pasador de la puerta. \u00a1Al o\u00edrlo hablar sent\u00ed que me mor\u00eda! Abr\u00ed la puerta a mi amado, pero \u00e9l ya no estaba all\u00ed. Lo busqu\u00e9 y no lo encontr\u00e9, lo llam\u00e9 y no me respondi\u00f3."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Me encontraron los guardias que hacen la ronda de la ciudad; me golpearon, me hirieron; \u00a1los que cuidan la entrada de la ciudad me arrancaron el velo con violencia!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mujeres de Jerusal\u00e9n, si encuentran a mi amado, prom\u00e9tanme decirle que me estoy muriendo de amor."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Coro \u00bfQu\u00e9 de especial tiene tu amado, hermosa entre las hermosas? \u00bfQu\u00e9 de especial tiene tu amado que nos pides hacerte tal promesa?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ella Mi amado es trigue\u00f1o claro, inconfundible entre miles de hombres."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Su cabeza es oro puro; su cabello es ondulado y negro como un cuervo;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "sus ojos son dos palomas ba\u00f1adas en leche, posadas junto a un estanque;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "sus mejillas son amplios jardines de fragantes flores. Sus labios son rosas por las que ruedan gotitas de mirra;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "sus manos son abrazaderas de oro cubiertas de topacios; su cuerpo es pulido marfil con incrustaciones de zafiros;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "sus piernas son columnas de m\u00e1rmol afirmadas sobre bases de oro puro; su aspecto es distinguido como los cedros del L\u00edbano;"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "su paladar es dulc\u00edsimo. \u00a1Todo \u00e9l es un encanto! As\u00ed es mi amado, as\u00ed es el amor m\u00edo, mujeres de Jerusal\u00e9n."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Coro \u00bfA d\u00f3nde se ha ido tu amado, hermosa entre las hermosas? \u00bfA d\u00f3nde se ha dirigido? \u00a1Iremos contigo a buscarlo!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ella Mi amado ha ido a su jard\u00edn, a su jard\u00edn perfumado, a apacentar su reba\u00f1o y cortar las rosas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Yo soy de mi amado, y \u00e9l es m\u00edo. \u00c9l apacienta sus reba\u00f1os entre las rosas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Quinto canto - \u00c9l T\u00fa, amor m\u00edo, eres hermosa y encantadora como las ciudades de Tirs\u00e1 y Jerusal\u00e9n; irresistible como un ej\u00e9rcito en marcha."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00a1Deja ya de mirarme, pues tus ojos me han vencido! Tus cabellos son como cabritos que retozan por los montes de Galaad."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tus dientes, todos perfectos, son cual reba\u00f1o de ovejas reci\u00e9n salidas del ba\u00f1o y listas para la trasquila."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tus mejillas son dos gajos de granada escondidos tras tu velo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Sesenta son las reinas, ochenta las concubinas y much\u00edsimas las doncellas,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "pero mi palomita virginal es una sola; una sola es la hija preferida de la mujer que la dio a luz. Al verla, las j\u00f3venes la felicitan; reinas y concubinas la alaban."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Coro \u00bfQui\u00e9n es \u00e9sta que se asoma como el sol en la ma\u00f1ana? Es hermosa como la luna, radiante como el sol, \u00a1irresistible como un ej\u00e9rcito en marcha!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ella Fui al bosque de los nogales a admirar el verdor en el arroyo; quer\u00eda ver los brotes de los vi\u00f1edos y las flores de los granados."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Despu\u00e9s ya no supe qu\u00e9 pas\u00f3 hasta que me vi en un carro junto a mi pr\u00edncipe."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Coro \u00a1Regresa, Sulamita, regresa! \u00a1Regresa, queremos verte! Ella\u00bfY qu\u00e9 quieren ver de la Sulamita? Coro\u00a1Una danza, como en los campamentos!"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c9l \u00a1Qu\u00e9 hermosos son tus pies en las sandalias, princesa! Las curvas de tus caderas son como adornos de oro fino hechos por manos expertas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tu ombligo es una copa redonda donde no falta el buen vino; tu vientre es una pila de trigo rodeada de rosas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tus pechos son dos gacelas, dos gacelas mellizas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tu cuello es una torre de marfil; tus ojos son dos estanques de la ciudad de Hesb\u00f3n, junto a la puerta de Bat-rabim; tu nariz es como la torre del L\u00edbano que mira hacia la ciudad de Damasco."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tu cabeza, sobre tu cuerpo, es como el monte Carmelo; hilos de p\u00farpura son tus cabellos: \u00a1un rey est\u00e1 preso entre sus rizos!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Amor m\u00edo, mujer encantadora, \u00a1qu\u00e9 bella, qu\u00e9 hermosa eres!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tu porte es como el porte de una palmera; tus pechos son como racimos."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Yo pienso subir a la palmera y adue\u00f1arme de sus racimos. Tus pechos ser\u00e1n entonces como racimos de uvas; tu aliento, perfume de manzanas;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "tu paladar, como el buen vino que resbala suavemente por los labios y los dientes."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ella Yo soy de mi amado: los impulsos de su amor lo atraen a m\u00ed."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00a1Anda, amado m\u00edo, vayamos al campo! Pasaremos la noche entre flores de alhe\u00f1a."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Por la ma\u00f1ana iremos a los vi\u00f1edos, a ver si ya tienen brotes, si se abren ya sus botones, si ya han florecido los granados. \u00a1All\u00ed te dar\u00e9 mi amor!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Las mandr\u00e1goras esparcen su aroma. A nuestra puerta hay fruta de todas clases: fruta seca y fruta reci\u00e9n cortada, que para ti, amado m\u00edo, apart\u00e9."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00a1Ojal\u00e1 fueras t\u00fa un hermano m\u00edo, criado a los pechos de mi madre! As\u00ed, al encontrarte en la calle, podr\u00eda besarte y nadie se burlar\u00eda de m\u00ed;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "podr\u00eda llevarte a la casa de mi madre, te har\u00eda entrar en ella, y t\u00fa ser\u00edas mi maestro. Yo te dar\u00eda a beber del mejor vino y del jugo de mis granadas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00a1Que ponga \u00e9l su izquierda bajo mi cabeza, y que con su derecha me abrace!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00c9l Prom\u00e9tanme, mujeres de Jerusal\u00e9n, no interrumpir el sue\u00f1o de mi amor. \u00a1D\u00e9jenla dormir hasta que quiera despertar!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sexto canto - Coro \u00bfQui\u00e9n es \u00e9sta que viene del desierto, recostada en el hombro de su amado? \u00c9lBajo un manzano interrump\u00ed tu sue\u00f1o: all\u00ed donde tu madre tuvo dolores; all\u00ed donde tu madre te dio a luz."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ella Ll\u00e9vame grabada en tu coraz\u00f3n, \u00a1ll\u00e9vame grabada en tu brazo! El amor es inquebrantable como la muerte; la pasi\u00f3n, inflexible como el sepulcro. \u00a1El fuego ardiente del amor es una llama divina!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "El agua de todos los mares no podr\u00eda apagar el amor; tampoco los r\u00edos podr\u00edan extinguirlo. Si alguien ofreciera todas sus riquezas a cambio del amor, burlas tan s\u00f3lo recibir\u00eda."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Coro Nuestra hermanita no tiene pechos. \u00bfQu\u00e9 vamos a hacer con ella cuando vengan a pedirla?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Si fuera una muralla, construir\u00edamos sobre ella almenas de plata; si fuera una puerta, la recubrir\u00edamos con tablas de cedro."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ella Yo soy como una muralla, y mis pechos como torres. Por eso, a los ojos de \u00e9l, ya he encontrado la felicidad."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Salom\u00f3n ten\u00eda un vi\u00f1edo en Baal-ham\u00f3n. Lo dej\u00f3 al cuidado de unos guardianes, que al llegar la cosecha le entregaban mil monedas de plata cada uno."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Las mil monedas son para ti, Salom\u00f3n, y doscientas para los guardianes; \u00a1yo cuido mi propia vi\u00f1a!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00c9l \u00a1D\u00e9jame o\u00edr tu voz, oh reina de los jardines! \u00a1Nuestros amigos esperan escucharla!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ella \u00a1Corre, amado m\u00edo, corre como un venado, como el hijo de una gacela sobre los montes llenos de aromas!"
+                }
+            }
+        }
+    }
+}

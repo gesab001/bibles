@@ -1,0 +1,515 @@
+{
+    "version": "VFL",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Este \u00e9 o mais bonito dos c\u00e2nticos, feito por Salom\u00e3o."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Canta a amada - Encha-me com seus beijos, porque o seu amor \u00e9 mais doce do que o vinho."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "O seu aroma \u00e9 uma del\u00edcia! E o seu nome \u00e9 como o melhor dos perfumes. Por isso as jovens amam voc\u00ea."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Leve-me com voc\u00ea, fujamos juntos! Que o rei me leve \u00e0 sua habita\u00e7\u00e3o! Canta o coro - Ficamos alegres por voc\u00ea e nos lembraremos que o amor que voc\u00ea tem \u00e9 mais doce do que o vinho. Canta a amada - Com toda a raz\u00e3o as jovens amam voc\u00ea."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Filhas de Jerusal\u00e9m, eu sou morena, mas bonita. Sou morena como as tendas de Quedar e de Salm\u00e3."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "N\u00e3o prestem aten\u00e7\u00e3o na cor da minha pele que o sol tem escurecido. \u00c9 que os meus irm\u00e3os ficaram chateados comigo e me mandaram cuidar das suas vinhas, mas n\u00e3o cuidei de mim mesma."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Amor meu, diga para mim aonde leva pastar o seu rebanho. Diga para mim aonde o leva para descansar ao meio-dia. Se me falar isso, poderei estar ao seu lado. N\u00e3o terei que estar procurando por voc\u00ea \u00e0s escondidas entre os rebanhos dos seus amigos, como uma mulher coberta com v\u00e9u."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Canta o amado - Como voc\u00ea n\u00e3o saberia onde me encontrar, ainda mais voc\u00ea, que \u00e9 a mais bonita das mulheres? Se voc\u00ea n\u00e3o souber isso, siga as pisadas do rebanho e leve pastar os seus cabritos, junto \u00e0s tendas dos pastores."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Amada minha, como voc\u00ea chama a aten\u00e7\u00e3o dos homens! \u00c9 como uma \u00e9gua entre os cavalos que puxam as carruagens do fara\u00f3."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "As suas faces ficam bonitas com enfeites, e o seu pesco\u00e7o fica lindo com um colar."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Faremos para voc\u00ea uma cadeia de ouro incrustada de prata."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Canta a amada - Meu perfume vai cobrindo o rei em toda a sua volta enquanto descansa ao meu lado em seu leito."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Meu amado \u00e9 como uma bolsa pequena de mirra que passa a noite entre os meus peitos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Meu amado \u00e9 como um ramalhete de flores de hena das vinhas de En-Gedi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Canta o amado - Amada minha, voc\u00ea \u00e9 mesmo bonita! \u00c9 realmente muito bonita! Os seus olhos s\u00e3o t\u00e3o lindos como os das pombas."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Canta a amada - E voc\u00ea \u00e9 t\u00e3o bonito, amor meu! \u00c9 t\u00e3o encantador! Canta o amado - O pasto fresco e agrad\u00e1vel \u00e9 o nosso leito!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Os cedros s\u00e3o as vigas da nossa casa, e o nosso telhado \u00e9 o cipreste."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Canta a amada - Sou s\u00f3 uma flor de Sarom, um l\u00edrio dos vales."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Canta o amado - Amada minha, entre todas as mulheres, voc\u00ea \u00e9 para mim como um l\u00edrio entre os espinhos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Canta a amada - Amor meu, entre todos os homens, voc\u00ea \u00e9 para mim como uma macieira entre as \u00e1rvores silvestres. Tenho gostado de descansar debaixo da sua sombra e saborear o seu doce fruto."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Com a inten\u00e7\u00e3o de plantar sua bandeira de amor sobre mim, meu amado me levou \u00e0 casa do vinho."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Estou debilitada por causa de amar tanto. Por isso deem-me de comer passas e alimentem-me com ma\u00e7\u00e3s."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ele coloca um dos seus bra\u00e7os debaixo da minha cabe\u00e7a e com o outro, me abra\u00e7a."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Canta o amado - Mulheres de Jerusal\u00e9m, jurem pelas gazelas e cervos do campo que n\u00e3o incomodar\u00e3o nem acordar\u00e3o o amor at\u00e9 que seja o momento indicado."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Canta a amada - Escutem! \u00c9 a voz do meu amado! Olhem para ele! L\u00e1 vem apressado, saltando entre as montanhas e brincando pelos montes."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Parece uma gazela ou um cervo jovem. Olhem para ele ali, escondido atr\u00e1s da parede, olhando pela janela e espiando por entre as grades."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Meu amado me disse: \u201cLevante-se, amada minha; venha comigo, preciosa."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Olhe que j\u00e1 n\u00e3o faz mais frio e parou de chover."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nasceram novas flores e os p\u00e1ssaros voltaram a cantar! O som dos pombos se ouve em nossa terra."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "A figueira faz com que os seus figos fiquem maduros, e as vinhas florescem e espalham a sua frag\u00e2ncia. Levante-se, amada minha; venha comigo, preciosa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pomba minha, que anda nas fendas das rochas e nos penhascos das montanhas, deixe-me ver o seu rosto, deixe-me ouvir a sua voz; porque a sua voz \u00e9 doce e o seu rosto, bonito\u201d."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Peguem as raposas, as raposas pequenas que estragam as vinhas, porque nossa vinha est\u00e1 agora florescendo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ele \u00e9 meu e eu sou sua! Ele se alimenta entre as flores da primavera."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Enquanto a brisa do dia respira e as sombras v\u00e3o crescendo, volte, amado meu, como gazela ou cervo novo, por entre montanhas bem perfumadas."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "De noite, na minha cama, procurei pelo meu amado. Procurei por ele, mas n\u00e3o podia encontr\u00e1-lo!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pensei: \u201cMe levantarei! Percorrerei a cidade! Pelas ruas e as pra\u00e7as procurarei o amor da minha vida!\u201d Procurei por ele, mas n\u00e3o consegui encontr\u00e1-lo!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Encontrei os guardas que fazem a ronda pela cidade e lhes perguntei se tinham visto o meu amado."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Apenas acabei de falar com eles, encontrei o amor da minha vida! Abracei-o e n\u00e3o o soltei at\u00e9 que chegamos \u00e0 casa da minha m\u00e3e, \u00e0 habita\u00e7\u00e3o daquela que me gerou."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Canta o amado - Mulheres de Jerusal\u00e9m, jurem pelas gazelas e cervos do campo que n\u00e3o incomodar\u00e3o nem acordar\u00e3o o amor at\u00e9 que seja o momento certo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Canta o coro - Quem \u00e9 essa mulher que sobe do deserto? Ela deixa ao seu passo uma nuvem de fuma\u00e7a perfumada de incenso, mirra e todo tipo de perfumes importados."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vejam! \u00c9 a carruagem de Salom\u00e3o, escoltada por sessenta guerreiros, dos mais corajosos de Israel."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Todos s\u00e3o soldados experientes, muito habilidosos com a espada. Levam espadas para se proteger dos perigos da noite."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "O rei Salom\u00e3o fez sua carruagem com madeira fina do L\u00edbano."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "As suas colunas as fez de prata, a cobertura de fio dourado, o assento de p\u00farpura. Seu interior est\u00e1 decorado com motivos de amor."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mulheres de Si\u00e3o, saiam e vejam o rei Salom\u00e3o! Vejam a coroa que a sua m\u00e3e colocou nele no dia do seu casamento, quando o seu cora\u00e7\u00e3o pulava de alegria."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Canta o amado - Qu\u00e3o bela \u00e9 voc\u00ea, amada minha, realmente muito bela. Os seus olhos parecem duas pombas por tr\u00e1s do v\u00e9u. O seu cabelo \u00e9 comprido e ondulado; cai como um rebanho de cabras que descem pelos montes de Gileade."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Os seus dentes s\u00e3o brancos, como ovelhas tosquiadas que acabaram de tomar banho. Todas t\u00eam g\u00eameos, n\u00e3o falta nenhuma."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Os seus l\u00e1bios e a sua boca s\u00e3o lindos, como um fio de cor vermelha. As suas faces, debaixo do seu v\u00e9u, parecem peda\u00e7os de rom\u00e3."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "O seu pesco\u00e7o mant\u00e9m a cabe\u00e7a erguida, \u00e9 como a torre de Davi, feita para guardar o armamento. Na sua cabe\u00e7a s\u00e3o pendurados mil escudos de corajosos soldados."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Os seus seios s\u00e3o como dois cervos g\u00eameos que se alimentam entre as flores da primavera."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Subirei nessas montanhas perfumadas de incenso e mirra enquanto o dia continuar respirando o vento fresco e as sombras forem aumentando."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Amada minha, tudo em voc\u00ea \u00e9 lindo! Voc\u00ea n\u00e3o tem defeito algum."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Venha comigo, noiva minha, des\u00e7a comigo do L\u00edbano. Des\u00e7a depressa do alto do Amana, do topo do Senir e do Hermom, das covas dos le\u00f5es, do monte dos leopardos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Amada minha, voc\u00ea roubou o meu cora\u00e7\u00e3o; roubou o meu cora\u00e7\u00e3o com um s\u00f3 dos seus olhares, com uma s\u00f3 p\u00e9rola do seu colar."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Amada minha, o seu amor \u00e9 maravilloso! \u00c9 mais doce do que o vinho. O aroma da sua pele \u00e9 muito melhor do que o aroma que qualquer outra frag\u00e2ncia possa ter!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Noiva minha, seus l\u00e1bios sabem a mel; h\u00e1 leite e mel debaixo da sua l\u00edngua. E a frag\u00e2ncia da sua roupa \u00e9 t\u00e3o doce e fresca!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Amada minha, noiva minha, voc\u00ea \u00e9 t\u00e3o pura como um jardim no qual ningu\u00e9m tem entrado ainda; como uma fonte que ningu\u00e9m tem tocado ainda."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "O seu corpo \u00e9 como um jardim cheio de rom\u00e3s, que d\u00e3o o seu melhor fruto, perfumado com flores de hena,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "nardos e a\u00e7afr\u00e3o com c\u00e1lamo e canela; com todas as \u00e1rvores de incenso, mirra e alo\u00e9s; com os melhores perfumes."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Voc\u00ea \u00e9 como uma fonte de \u00e1gua fresca que desce das montanhas do L\u00edbano."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Canta a amada - Acorde, vento norte! Venha aqui, vento sul! Soprem no meu jardim e espalhem a sua suave frag\u00e2ncia para que meu amado entre e prove dos seus deliciosos frutos."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Canta o amado - Amada minha, noiva minha, entrei no meu jardim, peguei a minha mirra e as minhas especiarias, o meu mel do seu favo, e tenho bebido do meu n\u00e9ctar e do meu vinho. Coro - \u00d3, queridos amigos, comam e bebam, fiquem embriagados de amor!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Canta a amada - Eu durmo, mas o meu cora\u00e7\u00e3o vigia. Ou\u00e7a, meu amado est\u00e1 chamando: \u201cAbra a porta, amada e companheira minha, minha pomba, minha amada perfeita. Abra a porta, que a minha cabe\u00e7a est\u00e1 coberta de orvalho e a chuva da noite tem molhado o meu cabelo\u201d."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Eu lhe respondi: \u201cJ\u00e1 tirei a minha roupa, terei que vesti-la de novo? J\u00e1 lavei os meus p\u00e9s, terei que suj\u00e1-los de novo?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mas quando percebi que meu amado tentava abrir a porta, senti uma pena profunda dele."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ent\u00e3o me levantei para abrir a porta; as minhas m\u00e3os estavam cobertas de mirra que escorria pelos meus dedos enquanto tentava abrir a porta."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Abri a porta, mas ele j\u00e1 tinha ido embora. Quase morri ao ver que ele n\u00e3o estava mais l\u00e1. Procurei por ele, mas n\u00e3o o encontrei; chamei por ele mas n\u00e3o respondeu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Os guardas da cidade me encontraram e bateram em mim. Me feriram e tiraram o meu v\u00e9u."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mulheres de Jerusal\u00e9m, prometam-me que se virem o meu amado lhe dir\u00e3o que estou doente de amor."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Coro - Bela entre as belas, o que seu amado tem que outros homens n\u00e3o tenham? O que ele tem que os outros n\u00e3o tenham para que nos obrigue a fazer essa promessa?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Canta a amada - O meu amado \u00e9 muito bonito e tem uma linda pele acastanhada como a cor da canela. Poderia reconhec\u00ea-lo embora ele estivesse entre dez mil homens."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "A sua cabe\u00e7a brilha como o ouro puro; seu cabelo \u00e9 ondulado e de cor negra como a cor do corvo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Os seus olhos s\u00e3o tranquilos, como duas pombas ao lado de uma fonte; s\u00e3o limpos, lavados em leite, combinam bem com ele como se fossem joias."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "As suas faces s\u00e3o suaves e fragantes, os seus l\u00e1bios s\u00e3o como l\u00edrios perfumados."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Os seus bra\u00e7os s\u00e3o fortes e bonitos, como varas de ouro enfeitadas com pedras preciosas. Seu tronco \u00e9 como marfim polido coberto com safiras."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "As suas pernas s\u00e3o como colunas de m\u00e1rmore sobre bases de ouro puro. \u00c9 alto como o mais majestoso cedro do L\u00edbano."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Os seus l\u00e1bios s\u00e3o os mais doces de todos e \u00e9 o homem mais desejado. Assim \u00e9 o meu amado, filhas de Jerusal\u00e9m, assim \u00e9 o meu companheiro."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Coro - \u00d3, mulher bonita, aonde foi o seu amado? Por qual caminho foi embora? Diga para a gente, a fim de que ajudemos voc\u00ea a procur\u00e1-lo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Canta a amada - Meu amado foi ao seu jardim de flores perfumadas. Ele foi para descansar nos jardins e colher alguns l\u00edrios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Eu perten\u00e7o ao meu amado e ele me pertence. Ele descansa entre os l\u00edrios."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Canta o amado - Amada minha, \u00e9 t\u00e3o bonita como Tirza, encantadora como Jerusal\u00e9m, majestosa como um ex\u00e9rcito que levanta as suas bandeiras."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "N\u00e3o me olhe, porque os seus olhos me perturbam muito. O seu cabelo \u00e9 comprido e ondulado, cai como um rebanho de cabras que descem pelos montes de Gileade."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Os seus dentes s\u00e3o brancos, como ovelhas tosquiadas que acabaram de tomar banho. Todas t\u00eam g\u00eameos, n\u00e3o falta nenhuma."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Suas faces debaixo do seu v\u00e9u parecem peda\u00e7os de rom\u00e3."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Embora um rei possa ter sessenta rainhas, oitenta concubinas e uma infinidade de mulheres,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "para mim s\u00f3 existe uma mulher, a minha amada perfeita, a minha pomba. Ela \u00e9 a filha favorita da sua m\u00e3e. Quando as jovens a veem\u2026 a louvam! At\u00e9 as rainhas e as concubinas a louvam!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Coro - Quem \u00e9 essa mulher que surge como a aurora, bela como a lua, radiante como o sol e maravilhosa como as estrelas?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Canta o amado - Desci ao jardim das nogueiras para ver as plantas novas do vale, ver se brotava a videira e se floreciam as rom\u00e3s."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De s\u00fabito me fez sentir como um pr\u00edncipe entre as carruagens do meu povo. Eu mesmo n\u00e3o sabia mais quem eu era."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Coro - Volte, sulamita, volte! Volte, pois queremos v\u00ea-la! Canta o amado - Por que olham t\u00e3o fixamente para a sulamita quando ela dan\u00e7a a dan\u00e7a dos campamentos?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Princesa, que belos s\u00e3o os seus p\u00e9s nessas sand\u00e1lias! O seu quadril parece uma joia feita pelo melhor artista."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "O seu umbigo \u00e9 como uma ta\u00e7a sempre cheia do melhor vinho. A sua cintura \u00e9 como o trigo cercado de flores."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Os seus seios s\u00e3o como dois cervos g\u00eameos de uma gazela."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "O seu pesco\u00e7o \u00e9 comprido e fino como uma torre de marfim. Os seus olhos s\u00e3o claros como as piscinas de Hesbom, ao lado da entrada de Bate-Rabim. O seu nariz \u00e9 t\u00e3o perfeito como a torre do L\u00edbano, que olha diretamente para Damasco."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A sua cabe\u00e7a \u00e9 t\u00e3o bela como o monte Carmelo; e o seu cabelo \u00e9 de cor vermelho-escura, como a cor da seda, o rei est\u00e1 preso nas suas tran\u00e7as."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Amada minha, voc\u00ea \u00e9 muito bonita! Muito encantadora!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00c9 alta, t\u00e3o alta como a palmeira. E seus seios s\u00e3o como os cachos dessa palmeira."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Gostaria de subir nela e me pendurar nos seus ramos. Que os seus seios sejam cachos de uvas e o seu h\u00e1lito tenha o fresco aroma das ma\u00e7as!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Os seus beijos s\u00e3o como o vinho. Canta a amada - Vinho que passa suavemente para o meu amado, Canta o amado - e passa sobre a minha l\u00edngua e os meus dentes."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Canta a amada - Eu perten\u00e7o ao meu amado, e ele me deseja!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Venha, amor meu, saiamos ao campo e passemos a noite entre as plantas de hena."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vamos acordar cedo e ir ver as vinhas, para ver se j\u00e1 deram novos frutos e se os bot\u00f5es j\u00e1 brotaram. Vejamos se as rom\u00e3s j\u00e1 floresceram. Ali entregarei a voc\u00ea todo o meu amor."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Amor meu, cheire o doce aroma das mandr\u00e1goras e de todos os frutos deliciosos que h\u00e1 na nossa porta. Todos esses frutos maravilhosos, amor meu, os tinha guardado para voc\u00ea: alguns secos e outros frescos."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Como eu gostaria que voc\u00ea fosse como um irm\u00e3ozinho meu, um beb\u00ea da minha m\u00e3e. Se o encontrasse na rua, beijaria voc\u00ea e ningu\u00e9m me desprezaria por isso."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Levaria voc\u00ea para a casa da minha m\u00e3e, onde voc\u00ea me ensinaria sobre o amor; e ali lhe daria de beber vinho de bom sabor, meu doce suco de rom\u00e3."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Canta a amada - Ele coloca um dos seus bra\u00e7os debaixo da minha cabe\u00e7a e com o outro me abra\u00e7a."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mulheres de Jerusal\u00e9m, jurem que n\u00e3o incomodar\u00e3o o amor, que n\u00e3o o acordar\u00e3o at\u00e9 que seja o momento indicado."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Coro - Quem \u00e9 essa mulher que sobe do deserto, encostada no seu amado? Canta a amada - Debaixo da macieira acordei voc\u00ea, ali onde a sua m\u00e3e concebeu voc\u00ea, ali onde ela deu \u00e0 luz."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Leve-me como uma tatuagem gravada no seu cora\u00e7\u00e3o; leve-me como uma tatuagem gravada na sua pele. O amor \u00e9 mais forte do que a morte e a paix\u00e3o \u00e9 mais forte do que o sepulcro. As suas brasas s\u00e3o de fogo, como uma chama divina."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nada pode acabar com o amor, nada pode destru\u00ed-lo. Se um homem oferecesse toda a sua fortuna para comprar o amor, as pessoas o desprezariam."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Coro - Temos uma irm\u00e3 pequena, ainda \u00e9 uma menina. Que devemos fazer quando os homens come\u00e7arem a dar em cima dela?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Se ela fosse uma parede, construir\u00edamos ao seu redor uma torre de defesa. E se fosse uma porta, a refor\u00e7ar\u00edamos com barras de a\u00e7o."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Canta a amada - Eu sou uma parede e os meus seios s\u00e3o as suas torres. Quando eu olho os olhos do meu amado, me sinto bem."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Salom\u00e3o tinha uma vinha em Baal-Hamom e ordenou a alguns homens que a cuidassem. Cada homem trazia seu fruto que valia mil moedas de prata."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Salom\u00e3o, pode ficar com suas mil moedas de prata; reparta duzentas moedas com os que trouxeram as uvas, mas eu fico com o meu campo de uvas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Canta o amado - Voc\u00ea est\u00e1 ali, sentada no jardim, seus amigos ouviram voc\u00ea. Deixe-me ouvir a sua voz dizer:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Canta a amada - \u201cVenha depressa, amor meu, como gazela, como um cervo jovem por entre as montanhas de bom aroma\u201d."
+                }
+            }
+        }
+    }
+}

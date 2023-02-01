@@ -1,0 +1,464 @@
+{
+    "version": "MVC",
+    "book_name": "James",
+    "book_nr": "59",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Tu\u02c8j Santyaw - Jun q\u02c8olb\u02c8il - Ayi\u02c8n Santyaw, jun taq\u02c8nil qMan Dios ex ikyx te Jesucrist, a tAjaw Tkyaqil; jun q\u02c8olb\u02c8il kye\u02c8y, ayi\u02c8y kab\u02c8lajaj ch\u02c8uq xjal tzajnin te Israel, a ojtxe qxe\u02c8chil, ex ja\u02c8lin kysipin kyib\u02c8a toj tkyaqil twutz tx\u02c8otx\u02c8."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Qqanix qnab\u02c8l te Dios, nya nka\u02c8min qk\u02c8u\u02c8j - Ayi\u02c8y werman, qa ma tzaj nya b\u02c8a\u02c8n kyi\u02c8ja, chi tzalajxa tu\u02c8n kky\u02c8elix kyi\u02c8ja,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "qu\u02c8n tu\u02c8n b\u02c8i\u02c8n kyu\u02c8n, qa ma niky\u02c8b\u02c8ajtz kynimb\u02c8ila tu\u02c8n Dios. Ikytzin kchi b\u02c8antileji\u02c8y tu\u02c8n tten nim kyk\u02c8u\u02c8ja tu\u02c8n kyayo\u02c8n ti\u02c8j tkyaqil tajb\u02c8il qMan."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Me ikytzi\u02c8n, ilx ti\u02c8j tu\u02c8n ttenxix kyk\u02c8u\u02c8ja tu\u02c8n kyayo\u02c8n, tu\u02c8ntzin kytiji\u02c8n ex tz\u02c8aqle toj kynab\u02c8la, tu\u02c8ntzin nti\u02c8x juntl atx taj toj kynimb\u02c8ila."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Qa at jun kyxola atx taj tu\u02c8n tel tniky\u02c8 tu\u02c8n tb\u02c8et toj tumil, b\u02c8a\u02c8n txi tqanin te qMan Dios, ex ok ktzajil tq\u02c8o\u02c8n, qu\u02c8n ntzaj tq\u02c8o\u02c8n te Dios te qkyaqilx a at tajb\u02c8in qe, ex mina nqo ok i\u02c8lin tu\u02c8n."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Me atzi\u02c8n, kxel tqanin tuk\u02c8a tnimb\u02c8il, ex nya nka\u02c8min tk\u02c8u\u02c8j tze\u02c8nku a\u02c8 te ttxuyil a\u02c8, n\u2011ul piq\u02c8j ex n\u2011ajl ti\u02c8j tu\u02c8n kyq\u02c8iq\u02c8."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Qa at jun xjal iky t\u2011ximjo, qa nlay tzaj q\u02c8o\u02c8n te tu\u02c8n qAjaw,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "qu\u02c8n ja\u02c8lin ntb\u02c8isin jun ti\u02c8, ex mikyxiljo nchi\u02c8j. Nya junxch\u02c8in tumil nxi ti\u02c8n."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jun q\u02c8inin ex jun yaj kchi kletil, qa ma chi nimin ti\u02c8j Klolqe Jes\u00fas - Aye yaj nimilqe tzalu\u02c8n twutz tx\u02c8otx\u02c8, b\u02c8a\u02c8n tu\u02c8n kytzalaj, qu\u02c8n japin nim kyoklin tu\u02c8n qMan Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ex ikyx te q\u02c8inin twutz tx\u02c8otx\u02c8 tzalu\u02c8n, b\u02c8a\u02c8n tu\u02c8n ttzalaj, tu\u02c8n ma kub\u02c8 tmutxsin tib\u02c8 twutz Dios; qu\u02c8n ikytzin te q\u02c8inin ok b\u02c8ajil tze\u02c8nku jun t\u2011xmakil k\u02c8ul, ex nlay kub\u02c8 ten te jun majx."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ajtzin tjawil q\u02c8ij, k\u02c8wel tzqij tqan, ex k\u2011elil tz\u02c8aq t\u2011xmakil, ex b\u02c8e\u02c8x knajiljo tka\u02c8yb\u02c8il tb\u02c8anilxtaq. Ikytzi\u02c8n, atzin q\u02c8inin at nim tq\u02c8inimil; me ilxix ti\u02c8j kyjel, aj tkyim, ikyxjo tze\u02c8nku tal t\u2011xmakil k\u02c8ul."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Qo we\u02c8xix twutz jun nya wen, qa ma tzul kanin qi\u02c8j - At tky\u02c8iwb\u02c8il qMan tib\u02c8aj jun nimil qa ma we\u02c8xix wen, aj tul kanin nya b\u02c8a\u02c8n ti\u02c8j. Ajtzin tiky\u02c8xtz tu\u02c8n, ok ktzajil q\u02c8o\u02c8n jun oyaj te tb\u02c8anilx, a chwinqil te jun majx, a o tzaj ttziyin qMan Dios kye\u02c8, a ok kchi okil k\u02c8u\u02c8jlinte."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Qa at jun nna\u02c8nte qa n\u2011ok yekin tu\u02c8n tkub\u02c8 tb\u02c8inchi\u02c8n nya b\u02c8a\u02c8n, mi kub\u02c8 tb\u02c8isin qa tu\u02c8n qMan Diosjo lu\u02c8n; qu\u02c8n mina nkub\u02c8 tb\u02c8isin te Dios tu\u02c8n tok tb\u02c8inchin nya b\u02c8a\u02c8n, ex nlay tz\u02c8ok tnikyb\u02c8in te Dios jun a\u02c8la."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Qala\u02c8, qa at jun xtna\u02c8 jun tb\u02c8is tu\u02c8n tkub\u02c8 tb\u02c8inchin a nya b\u02c8a\u02c8n, ikyxjo tze\u02c8nku jun ti\u02c8 tku\u02c8x toj jun tzuyb\u02c8il txuk; ax tb\u02c8is xkub\u02c8 sb\u02c8unte. Ex ikytzi\u02c8n nkub\u02c8e tz\u02c8aqe toj il."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kyu\u02c8ntzi\u02c8n tb\u02c8is nya b\u02c8a\u02c8n, nku\u02c8xa til; ex ajtzin tch\u02c8iyjo il wen, ikytzin ktzajile kyimi\u02c8n ti\u02c8j."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Werman, nimxix nk\u02c8u\u02c8ja kyi\u02c8ja, mi txi kyq\u02c8o\u02c8n kyib\u02c8a tu\u02c8n kykub\u02c8 sb\u02c8u\u02c8n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Qu\u02c8n tkyaqil oyaj b\u02c8a\u02c8n ex tkyaqiljo tb\u02c8anilxix, kyja ntzaje te\u02c8 toj kya\u02c8j, a ntzaj tq\u02c8o\u02c8n qMan Dios, ajo B\u02c8inchil te\u02c8 twutz kya\u02c8j jni\u02c8jo nb\u02c8aj qoptz\u02c8aje. A Dios nti\u02c8 jun ti\u02c8 nkub\u02c8 ttx\u02c8ixpintl; nya ikyjo tze\u02c8nku jun t\u2011xlekemil ti\u02c8, a nxi yekj."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "An Diosjo, tu\u02c8n tajb\u02c8il, ma tzaj tq\u02c8o\u02c8njo saq chwinqil tu\u02c8njo Tb\u02c8anil Tqanil, a Tyol twutzxix. Tu\u02c8ntzi\u02c8n, qokin awo tnejil nimil, jun tnejil oyaj te saq tch\u02c8iysb\u02c8in qMan Dios, tze\u02c8nku jun oyaj ti\u02c8j tnejil twutz awal."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Qajsintz ti\u02c8j tyab\u02c8 qwi\u02c8 - Werman, nimxix nk\u02c8u\u02c8ja kyi\u02c8ja, kyna\u02c8ntzinji\u02c8y lu\u02c8n: Kykyaqilxa nya nej kchi jawil yolb\u02c8i\u02c8n tuk\u02c8a tyab\u02c8 kywi\u02c8y; qala\u02c8 nej k\u2011okil kyb\u02c8i\u02c8n,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "qu\u02c8n tu\u02c8n tyab\u02c8 twi\u02c8xjal nlay b\u02c8antjo b\u02c8a\u02c8n twutz qMan Dios."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Tu\u02c8npetzi\u02c8n, kytzaqpinkji\u02c8y tkyaqiljo il exsin jni\u02c8 nya b\u02c8a\u02c8n, qu\u02c8n o\u02c8kx te ma ch\u02c8iyxjo kyojjo q\u02c8ij lu\u02c8n, exsin kyniminkuji\u02c8y Tb\u02c8anil Tqanil, a o kyij awa\u02c8n toj kyanmi\u02c8n; me kyniminkuy tuk\u02c8a kymutxb\u02c8il kyib\u02c8a. Atzin Tqaniljo lo at tipin tu\u02c8n kykleta tu\u02c8n."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Il ti\u02c8j tu\u02c8n tkub\u02c8 qb\u02c8inchin a ntq\u02c8ma\u02c8n Tyol Dios, ex nya noq tu\u02c8n tok qb\u02c8i\u02c8n - Ex nya noq o\u02c8kx tu\u02c8n tok kyb\u02c8i\u02c8nji\u02c8y Tyol Dios; qala\u02c8 il ti\u02c8j tu\u02c8n tkub\u02c8 kyb\u02c8inchinji\u02c8y a ntzaj tq\u02c8ma\u02c8n. Qatzin qa mikyxi s\u2011oke kyu\u02c8n, nkub\u02c8 kysb\u02c8u\u02c8n kyib\u02c8a kyil kyib\u02c8xa."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ankye te\u02c8 noq o\u02c8kx nkyja\u02c8ye tu\u02c8n ma tz\u02c8ok tb\u02c8i\u02c8n, ex mina nkub\u02c8 tb\u02c8inchin, ikytzin k\u2011elile\u02c8 tze\u02c8nku jun xjal nkux tka\u02c8yin twutz toj jun ka\u02c8yb\u02c8il wutzb\u02c8aj."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ma ntlon tetz tze\u02c8n iky twutz, me ajtzin tel b\u02c8et, ma tz\u02c8el naj ka\u02c8yin twutz toj tk\u02c8u\u02c8j. Ikytzin Tyol Diosjo tze\u02c8nku ka\u02c8yb\u02c8il wutzb\u02c8aj."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "An te\u02c8 mina n\u2011el naj toj tk\u02c8u\u02c8j, qala\u02c8 kyja n\u2011oke tnab\u02c8l wen ti\u02c8j Tyol Dios, ex tu\u02c8n tten jikyin toj tchwinqil, ex tu\u02c8n tb\u02c8antjo a ntq\u02c8ma\u02c8n Tyol Dios, oktzin ktzalajil tojjo tb\u02c8inchb\u02c8in. Atzin Tyol Diosjo tz\u02c8aqlexix wen, a xqo tzaqpet tu\u02c8n toj qil."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Qa at jun xjal nkub\u02c8 tb\u02c8isin qa nimil, exsin qa nya jk\u02c8u\u02c8n ttzi, ax nkub\u02c8 sb\u02c8unte tib\u02c8 tu\u02c8njo tb\u02c8is, ex atzin tnimb\u02c8il nti\u02c8 tajb\u02c8in."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Qalatzin te\u02c8 nimb\u02c8iltz tb\u02c8anilx, ex nti\u02c8 tky\u02c8i twutz qMan Dios, a nmojin kyi\u02c8j meb\u02c8e, exqetzi\u02c8n qya, a o chi kyim kychmil, ex aye toj jun kyixk\u02c8oj ite\u02c8ke; ex mi nxi\u02c8 yajil tib\u02c8 toj il tzalu\u02c8n twutz tx\u02c8otx\u02c8."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Junx tz\u02c8ele kyoklin kykyaqilxjal qu\u02c8n - Ayi\u02c8y werman, a nimilqi\u02c8y ti\u02c8j qAjaw Jesucrist, a nimxix toklin, mi kub\u02c8 kyb\u02c8inchi\u02c8n tu\u02c8n nya nim toklin jun xjal tze\u02c8nku juntl."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ikyettzi\u02c8n tz\u02c8okpint jun xjal kyxola tok t\u2011xmilq\u02c8ob\u02c8 twi\u02c8 wiyil ex tb\u02c8anilx toj t\u2011xb\u02c8alin, ex ikyxjo tz\u02c8okxit jun tal yaj tuk\u02c8a t\u2011xb\u02c8alin ttx\u02c8aqin; exsintla xi kyq\u02c8ma\u02c8ntza te te\u02c8 tb\u02c8anilx toj t\u2011xb\u02c8alin: \u00a1Qekuy! \u00a1Lu tq\u02c8uqb\u02c8ila lo tb\u02c8anilx wen! Exsintla xi kyq\u02c8ma\u02c8n te tal yaj: Axsa wekuy, mo qa qekuy i\u02c8chaqx twutz tx\u02c8otx\u02c8tz nej."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ikyettzi\u02c8n tz\u02c8okpint jun xjal kyxola tok t\u2011xmilq\u02c8ob\u02c8 twi\u02c8 wiyil ex tb\u02c8anilx toj t\u2011xb\u02c8alin, ex ikyxjo tz\u02c8okxit jun tal yaj tuk\u02c8a t\u2011xb\u02c8alin ttx\u02c8aqin; exsintla xi kyq\u02c8ma\u02c8ntza te te\u02c8 tb\u02c8anilx toj t\u2011xb\u02c8alin: \u00a1Qekuy! \u00a1Lu tq\u02c8uqb\u02c8ila lo tb\u02c8anilx wen! Exsintla xi kyq\u02c8ma\u02c8n te tal yaj: Axsa wekuy, mo qa qekuy i\u02c8chaqx twutz tx\u02c8otx\u02c8tz nej."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Qa ikyjo kyu\u02c8n, ayi\u02c8y \u1e8di q\u02c8mante s\u2011el kypa\u02c8nji\u02c8y a nya nim toklin; nya wen kynab\u02c8la ikyjo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ayi\u02c8y werman, nimxix nk\u02c8u\u02c8ja kyi\u02c8ja, kyb\u02c8intzi\u02c8n: A te Dios xja sk\u02c8o\u02c8nkye yaj tzalu\u02c8n twutz tx\u02c8otx\u02c8, tu\u02c8n kyok q\u02c8inin toj kynimb\u02c8il, ex tu\u02c8n ttzaj kyk\u02c8mo\u02c8n Tkawb\u02c8il Dios toj kyanmin te jun etzb\u02c8il, a o tzaj ttziyin kye\u02c8, aye kchi okil k\u02c8u\u02c8jlinte."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Qalatzin kye\u02c8, nchi el kyiky\u02c8inji\u02c8y yaj, \u00bfMa nyaqepetzila q\u02c8inin nchi kub\u02c8 b\u02c8inchinte nya b\u02c8a\u02c8n kyi\u02c8ja, ex nchex qton kye\u02c8y kywutz kawil?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bfMa nyatzin aye nchi xo\u02c8n yol ti\u02c8j tb\u02c8i qMan Dios, a o txi kynimi\u02c8n?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Qatzin tzunxix nkub\u02c8 kyb\u02c8inchinji\u02c8y wen, a nuk\u02c8b\u02c8il nimx toklin, a ntq\u02c8ma\u02c8n toj Tu\u02c8jil Tyol Dios, tu\u02c8n tok tk\u02c8u\u02c8jlin t\u2011xjalila tze\u02c8nku n\u2011ok tk\u02c8u\u02c8jlin te tib\u02c8 til tib\u02c8xa; ex tb\u02c8anilx te\u02c8 nb\u02c8ant ikyjo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Me qa ma tz\u02c8el kypa\u02c8n toklin jun xjal tuk\u02c8a toklin juntl, mapen kux jun kyiltza ikyjo, ex ma chi oktza b\u02c8inchil mib\u02c8in twutz Tkawb\u02c8il qMan Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Qu\u02c8n qatzin qa jun xjal nkub\u02c8 tb\u02c8inchin tkyaqil kawb\u02c8il, exsin qa ma jaw txalpaj toj jun, tuk\u02c8axpe jun; ma tz\u02c8ok aj paj toj tkyaqil,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "qu\u02c8n axsin Diosjo xq\u02c8mante tu\u02c8n mina ky\u02c8a\u02c8ji\u02c8n ex mi b\u02c8iyi\u02c8n. Atzin ja\u02c8lintz, qatzin mi nky\u02c8a\u02c8ji\u02c8n, exsin qa ma b\u02c8iyi\u02c8n, ma tz\u02c8el ti\u02c8jlintza tkawb\u02c8il Dios, ex mina nkub\u02c8 tnimi\u02c8n."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Qyek\u02c8inku qnimb\u02c8il tuk\u02c8a qb\u02c8inchb\u02c8in, ex nya noq tuk\u02c8a qtzi - Ayetzintza ja\u02c8lin, chi yolinxa toj ttxolil, ex chi b\u02c8et\u2011xa toj tumil, noq te jun yek\u02c8b\u02c8il ti\u02c8j kynimb\u02c8ila; qu\u02c8n b\u02c8i\u02c8n kyu\u02c8n qa kchi okila toj pa\u02c8b\u02c8in twutz tkawb\u02c8il Dios, ex ax kawb\u02c8iljo ktzaqpil kye\u02c8y."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Qu\u02c8n ayetzin kye\u02c8, a mi ntzaj q\u02c8aq\u02c8in kyk\u02c8u\u02c8j ti\u02c8j juntl, nlay tzaj q\u02c8aq\u02c8in tk\u02c8u\u02c8j Dios kyi\u02c8j, aj kyok toj pa\u02c8b\u02c8in. Me ayetzin kye\u02c8, a ntzaj q\u02c8aq\u02c8in kyk\u02c8u\u02c8j ti\u02c8j juntl, ayetzin kye kchi kletiljo, aj kyok toj pa\u02c8b\u02c8in twutz Kawil."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ayi\u02c8y werman, \u00bfTitzin k\u2011ajb\u02c8ila qa at jun nq\u02c8ma\u02c8nte qa niminxix tu\u02c8n, exsin qa mi nkub\u02c8 tyek\u02c8in tnimb\u02c8il? \u00bfMa okpetzila kkletil tu\u02c8n jun tnimb\u02c8il ikyjo? \u00a1Nlay!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ikyettzi\u02c8n atit jun nimil nti\u02c8 t\u2011xb\u02c8alin, ex nti\u02c8 twa tu\u02c8n tok junjun q\u02c8ij,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "ex qa at jun kye\u02c8 xi q\u02c8ma\u02c8nte: K\u02c8a\u02c8 tli tib\u02c8a. Q\u02c8onk t\u2011xb\u02c8ali\u02c8n, ex k\u02c8a\u02c8 wa\u02c8n wen, noq tze\u02c8n taja. Ex qa mina xi tq\u02c8o\u02c8n a tililx ti\u02c8j te t\u2011xmilil, \u00bfTitzin k\u2011ajb\u02c8ila ikyjo?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ikytzin nb\u02c8ajjo toj qnimb\u02c8il; kyimnin ta\u02c8ye, ex nti\u02c8 tajb\u02c8in, qa noq xkub\u02c8 qyolin, ex qa mi xkub\u02c8 qyek\u02c8in tuk\u02c8a qb\u02c8inchb\u02c8in."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "B\u02c8alaqa at jun aku txi q\u02c8ma\u02c8nte: At te tnimb\u02c8il. Me ayintzin we\u02c8, at we nb\u02c8inchb\u02c8in toj nnimb\u02c8ila. \u00bfMa akupela b\u02c8ant tyek\u02c8it tnimb\u02c8ila, qa mi nkub\u02c8 tb\u02c8inchi\u02c8n? \u00a1Nlay! Qalatzi\u02c8n, kxel nyek\u02c8in we\u02c8 nnimb\u02c8il tu\u02c8n nb\u02c8inchb\u02c8i\u02c8n."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Nimin te tu\u02c8n, qa at junch\u02c8in Dios. Tb\u02c8anilx ikyjo, qu\u02c8n ikypen kye taq\u02c8nil tajaw iljo b\u02c8i\u02c8n kye kyu\u02c8n, expe nchi tzaj lu\u02c8lin tu\u02c8n kyxob\u02c8il te."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ay, nti\u02c8 tnab\u02c8la ikyjo. Qu\u02c8n qa noq o\u02c8kx tu\u02c8n b\u02c8i\u02c8n qu\u02c8n, ex qa nya il ti\u02c8j tu\u02c8n tyek\u02c8it tu\u02c8n qb\u02c8inchb\u02c8in, nti\u02c8 te jun nimb\u02c8il tajb\u02c8in ikyjo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kab\u02c8e yek\u02c8b\u02c8il te qe, tu\u02c8n Abraham ex Rahab - Qala\u02c8 ka\u02c8ntzin te Abraham, a ojtxe qxe\u02c8chil, b\u02c8a\u02c8n ele twutz qMan Dios tu\u02c8n tb\u02c8inchb\u02c8in, tej tkub\u02c8taq tb\u02c8yo\u02c8n tk\u02c8wal, a Isaac, te chojb\u02c8il il."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ka\u02c8yinktzi\u02c8n ti\u02c8jjo o b\u02c8aj ti\u02c8j Abraham; o tyek\u02c8e tnimb\u02c8il tu\u02c8n tb\u02c8inchb\u02c8in. Ex atzin tnimb\u02c8il b\u02c8a\u02c8n xjapine twutz Dios noq tu\u02c8n tb\u02c8inchb\u02c8in."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ikytzin xjapine\u02c8 ntq\u02c8ma\u02c8n Tu\u02c8jil Tyol Dios. Chitzin kyjalu\u02c8n: Kub\u02c8 tnimin Abraham Diosch. Tu\u02c8ntzin tnimb\u02c8iltz ikyjo, b\u02c8a\u02c8n ele twutz Dios."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ex ok tq\u02c8o\u02c8n Dios te tuk\u02c8a. Man kylitza, qa ma tz\u02c8ok tq\u02c8o\u02c8n Dios xjal tz\u02c8aqle twutz, nya noq o\u02c8kx tu\u02c8n tnimb\u02c8il, qala\u02c8 majx tuk\u02c8a tb\u02c8inchb\u02c8in, a tzajnin ti\u02c8j tnimb\u02c8il."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ex ikyx b\u02c8ajjo ti\u02c8j aj ky\u02c8a\u02c8jiltaq Rahab toj Tu\u02c8jil Tyol Dios. B\u02c8a\u02c8n ele twutz Dios tu\u02c8n tb\u02c8inchb\u02c8in, tej i kub\u02c8 tewin aye tsanjil Israel, ex i xi tmojin tu\u02c8n kyoq toj junxil b\u02c8e, tu\u02c8n kyklettaq toj tq\u02c8ob\u02c8 nmaq kawil te Jeric\u00f3."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ikytzin tetzjo lu\u02c8n; tze\u02c8nku nti\u02c8 tajb\u02c8in jun xmilil qa nti\u02c8 t\u2011xew toj, qu\u02c8n kyimnin ta\u02c8ye; ikytzin jun nimb\u02c8iljo qa nti\u02c8 tb\u02c8inchb\u02c8in tuk\u02c8a."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Qo ximin ti\u02c8j qyol - Ayi\u02c8y werman, nya noq a\u02c8lchaqku kye, tu\u02c8n tok te jun xnaq\u02c8tzil Tyol Dios, qu\u02c8n b\u02c8i\u02c8n kye\u02c8 kyu\u02c8n, awoxixpeqe a nqo xnaq\u02c8tzin ti\u02c8j Tyol, ok qo tzajil kawin kuj tu\u02c8n Dios, qa mina nqo b\u02c8et toj tumiljo qxnaq\u02c8tzb\u02c8il."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ikytzi\u02c8n, qkyaqilx nimku ja\u02c8 nqo b\u02c8inchine nya wen tuk\u02c8a qyol. Ikyettzi\u02c8n, atit jun nti\u02c8x ntxalpaje tuk\u02c8a tyol, atzin jun xjaljo nti\u02c8x tky\u02c8i toj tchwinqil, ex at tipin tu\u02c8n ttzyu\u02c8nte tib\u02c8 twutz tkyaqil il."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ka\u02c8ntzin te chejila; tu\u02c8n tkub\u02c8 nimin tu\u02c8n chej, k\u2011okix tq\u02c8o\u02c8n kxb\u02c8il tal netz\u02c8 toj ttzi, tu\u02c8n tq\u02c8o\u02c8nte tib\u02c8, ex tu\u02c8n t\u2011xi\u02c8 ja\u02c8 taje chejil."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ex ka\u02c8nqetzin kye bark, exsin tu\u02c8nj ma tijqe, ex tzunx nju\u02c8minx kyq\u02c8iq\u02c8 kyi\u02c8j, tze\u02c8n nchi rinin toj ttxuyil a\u02c8, n\u2011okin jun tal netz\u02c8 xuyb\u02c8ilte kyu\u02c8nxjal, a q\u02c8ilte, ja\u02c8 tumil kyaje tu\u02c8n kyxi\u02c8ye."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ikytzin nb\u02c8ajjo tu\u02c8n qaq\u02c8; tal netz\u02c8petzin toj qxmilil, me at tipin tu\u02c8n tb\u02c8ant nimku ti\u02c8 tu\u02c8n. Ikyjo tze\u02c8nku ch\u02c8in tal t\u2011xk\u02c8itil q\u02c8aq\u02c8 nkub\u02c8 b\u02c8aj jun tij wutz tu\u02c8n."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ex ikytzin qaq\u02c8jo tze\u02c8nku q\u02c8aq\u02c8 anetzi\u02c8n; tex jun joyb\u02c8il q\u02c8ojx toj qxmilil; ex nya wen nqo ele tu\u02c8n. Q\u02c8ontz tq\u02c8aq\u02c8il tu\u02c8n tq\u02c8aq\u02c8il tajaw il. Nim ntjyo\u02c8n tumil tu\u02c8n qb\u02c8inchin il. Tu\u02c8ntzintzjo, atkux ikyx kb\u02c8ajile qchwinqiljo tzalu\u02c8n twutz tx\u02c8otx\u02c8 tuk\u02c8a q\u02c8oj."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "O\u02c8kqex kye n\u2011ajtz kyi\u02c8jjo tu\u02c8n xjal: A tze\u02c8nqeku toj k\u02c8ul txuk, jni\u02c8qe nchi lipin, jni\u02c8 kan, exqetzi\u02c8n txuk toj ttxuyil a\u02c8, kye b\u02c8ala tajtz kyi\u02c8j tu\u02c8n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Me metzin te qaq\u02c8 mix a\u02c8lx nxkye ti\u02c8j tu\u02c8n tajtz ti\u02c8j. O\u02c8kx jun jyol q\u02c8ojjo; mina ntq\u02c8o\u02c8n tib\u02c8 tu\u02c8n tajtz ti\u02c8j; nyakuj nojnin tuk\u02c8a b\u02c8i\u02c8yb\u02c8il te jun majx."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tu\u02c8n qaq\u02c8, nqo nimsin tb\u02c8i qMan Dios; ex tu\u02c8n qaq\u02c8, nqo yolb\u02c8in kyi\u02c8jxjal, aye b\u02c8inchin tu\u02c8n Dios tuk\u02c8a toklin toj tanmin, tu\u02c8n t\u2011ximin, ex tu\u02c8n t\u2011xi ti\u02c8n toj tumilxix tze\u02c8nku Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Toj qtzi, junx n\u2011etze wen ex nya wen. Ayi\u02c8y werman, ku chichkuji\u02c8y, \u00a1Nya tumiljo ikyjo!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bfMa attzin jun xlok\u02c8 a\u02c8, a n\u2011etz a\u02c8 wen toj, ex axsa k\u2011elitze a\u02c8 k\u02c8a? \u00a1Mina!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ex ikyxjo, \u00bfMa attzin jun tqan iw aku tz\u02c8el twutz mikyxiljo; mo qa jun tqan uv aku tz\u02c8el twutz iw? \u00a1Mina! Tu\u02c8ntzintzjo, nya wen junx tu\u02c8n tetze\u02c8 wen ex nya wen toj qtzi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kab\u02c8e wiq \u1e8dtijil: Jun te twutz tx\u02c8otx\u02c8 ex juntl tu\u02c8n qMan Dios - Qa at jun kye \u1e8dtij n\u2011el tniky\u02c8 te, in tyek\u02c8in tetz tuk\u02c8a tb\u02c8inchb\u02c8in, ex qa mutxin tu\u02c8njo n\u2011el tniky\u02c8 te."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Me qa tzunx nlo\u02c8chj kyanmi\u02c8n tuk\u02c8a iky\u02c8b\u02c8il, ex qa nkub\u02c8 kyb\u02c8inchi\u02c8n tkyaqil tuk\u02c8a nimsb\u02c8il kyib\u02c8a; tu\u02c8ntzin ikyjo, mi tz\u02c8ok kyq\u02c8o\u02c8n kyib\u02c8tza te \u1e8dtij, qala\u02c8 ma chi txalpaja tojjo tumil, a twutzxix."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Qu\u02c8n nya te Dios te\u02c8 \u1e8dtijil ikyjo; ikytzin teku te xjaljo te twutz tx\u02c8otx\u02c8 ex te tajaw il."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Qu\u02c8n ja\u02c8tzin ta\u02c8ye iky\u02c8b\u02c8il ex b\u02c8ujb\u02c8il; antza ta\u02c8ye tkyaqil wiq il, ja\u02c8 nti\u02c8ye tumil."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Qalatzi\u02c8n kye\u02c8, ma tzaj q\u02c8o\u02c8n kye ky\u1e8dtijil tu\u02c8n qMan Dios: Tnejil, saq kyanmin, ex nti\u02c8 iky\u02c8b\u02c8il kyuk\u02c8iy; ex wen xjalqey; nti\u02c8 nkyq\u02c8ma\u02c8n a nya wen, ex b\u02c8a\u02c8n tzaj q\u02c8aq\u02c8in kyk\u02c8u\u02c8ja; ex tuk\u02c8a tkyaqilx kywenila; ex at junch\u02c8in tumil kyu\u02c8n, ex nchi b\u02c8inchin wen."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Atzin ja\u02c8lintz, ayeqetzi\u02c8n kyaj tu\u02c8n tanq\u02c8in jun nuk\u02c8b\u02c8il kyxol, ilxix ti\u02c8j tu\u02c8n kyb\u02c8inchin wen, tu\u02c8ntzin kyk\u02c8monte a kyumil wen."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Qmutxsinku qib\u02c8 nej twutz qMan Dios, exsin qqanixjo a qaj - \u00bfJa\u02c8tzin ntzaje jyoj q\u02c8oj ex yasb\u02c8il kyxola? Tu\u02c8ntzin kyajb\u02c8ila nya wen toj kyanmi\u02c8n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ayetzi\u02c8n, a kyaja jun ti\u02c8, mi nknet kyu\u02c8n. Tu\u02c8npetzi\u02c8n, nchi b\u02c8iyini\u02c8y, exsin nlo\u02c8chj kyanmi\u02c8n ti\u02c8j jun ti\u02c8, me nlayx jyet kyu\u02c8n. Tzunpen n\u2011ok tilil kyu\u02c8n, ex nkub\u02c8 kyb\u02c8inchi\u02c8n tu\u02c8n ttzaj q\u02c8oj, me nlayx jyet a kyaja. Kxel nq\u02c8ma\u02c8n kye\u02c8y: Nlay knet\u2011xjo a kyaja, qu\u02c8n mina nxi kyqani\u02c8n te qMan Dios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ex qa ma txi kyqani\u02c8n, mina ntzaj tq\u02c8o\u02c8n Dios, qu\u02c8n ojtzqi\u02c8nqi\u02c8y noq tu\u02c8n tokin kyu\u02c8n te b\u02c8inchil il, a tze\u02c8nku kyaja."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ayeqi\u02c8y werman, nyakuj nya nimilqi\u02c8y. \u00bfMa nyatzin b\u02c8i\u02c8n kyu\u02c8n, a tu\u02c8n kyoka te tuk\u02c8a b\u02c8inchil il, a tze\u02c8nku nb\u02c8ant tu\u02c8n, tu\u02c8ntzin ikyjo, b\u02c8e\u02c8x kchi okila te tajq\u02c8oj qMan Dios? Ikytzi\u02c8n a\u02c8lchaqx kye juntz, tu\u02c8n tok tuk\u02c8lin tib\u02c8 tuk\u02c8a nya wen te twutz tx\u02c8otx\u02c8, b\u02c8e\u02c8x n\u2011ok te tajq\u02c8oj Dios."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Twutzxix te\u02c8 Tu\u02c8jil Tyol Dios, qa n\u2011ok tk\u02c8u\u02c8jlin Diosjo a qxew, a xkyij tq\u02c8o\u02c8n qojxi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Me lu\u02c8 te Dios kmojil, te q\u02c8ol tumil, tze\u02c8nku ntq\u02c8ma\u02c8n Tyol. Chi\u02c8 kyjalu\u02c8n: Njaw tiky\u02c8in te Dios kyuk\u02c8a a njaw kynimsin kyib\u02c8, me metzin kyuk\u02c8a a mutxsin kyib\u02c8, nchi tzaj tmojin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Qo laq\u02c8ex tk\u02c8atz qMan Dios; ikytzin k\u2011elil oqe tajaw iljo qi\u02c8j - Tu\u02c8ntzi\u02c8n, kyq\u02c8onxsin kyib\u02c8tza toj tq\u02c8ob\u02c8 qMan Dios, ex kyi\u02c8jlemila tajaw il. Ikytzi\u02c8n, k\u2011elil oqjo kyi\u02c8ja."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Qalatzi\u02c8n, chi laq\u02c8exsin kye\u02c8 tk\u02c8atz qMan Dios, ex ikytzin ktzajila laq\u02c8e Diosjo kyuk\u02c8iy. Ayi\u02c8y nche\u02c8xa b\u02c8inchil il, mina che\u02c8xa b\u02c8inchilte; ikytzin ktxjetila kyanminji\u02c8y; ex ayi\u02c8y, a kyaja tu\u02c8n tok kyk\u02c8u\u02c8jli\u02c8n qMan ex jni\u02c8 at twutz tx\u02c8otx\u02c8, kysaqsim kyib\u02c8a, tu\u02c8n tok kyanmi\u02c8n b\u02c8a\u02c8n twutz Dios."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "I tjawje kyk\u02c8u\u02c8ja tu\u02c8n b\u02c8is. Chi oq\u02c8a. Kyna\u02c8nkuy tchib\u02c8l kyila o b\u02c8ant. Atzin kytzeb\u02c8la i tokin te ta\u02c8l kywutza, ex atzin kytzaljb\u02c8ila i tokin te b\u02c8isb\u02c8ajil."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tunpetzi\u02c8n, kymutxinkutzin kyib\u02c8a twutz qAjaw. Ikytzin chi okileji\u02c8y te nim kyokli\u02c8n."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "A te qMan Dios kq\u02c8malte qa ma naj jun qerman ex nya awo - Ayi\u02c8y werman, mina chi yolb\u02c8i\u02c8n nya b\u02c8a\u02c8n ti\u02c8j junjun kye\u02c8. Atzin nyolb\u02c8in ikyjo, ikyx tze\u02c8nku nyolb\u02c8in ti\u02c8j kawb\u02c8il, noq tq\u02c8on tib\u02c8 tze\u02c8nku jun kawil toj kawb\u02c8il, ex ma kyij ttzaqpi\u02c8n tkawb\u02c8il qMan Dios. Qatzin ma tz\u02c8ok tq\u02c8o\u02c8n tib\u02c8a ikyjo, a te ma tz\u02c8ok te kawil, qala\u02c8 a te, tu\u02c8n tkub\u02c8 niminte kawb\u02c8il."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Me qala\u02c8, noq junch\u02c8in te s\u2011aj q\u02c8onte kawb\u02c8il, o\u02c8kx Dios, ex ax Kawiljo. Tu\u02c8npetzi\u02c8n, at toklin Dios tu\u02c8n tkolin, ex a kq\u02c8malte qa ma naj erman, ex nya ay."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Qa atx qchwinqil, ex qa tajb\u02c8il qMan Dios, okla kb\u02c8antiljo a qaj - Atzin ja\u02c8lin, kyb\u02c8intzinji\u02c8y lu\u02c8n te kye\u02c8y, ayi\u02c8y nchi q\u02c8mante kyjalu\u02c8n: Me me qe\u02c8, qo ky\u02c8el qe\u02c8 ja\u02c8lin mo nchi\u02c8j tu\u02c8n qxi\u02c8y toj jun tnam. Ex antza qo tenb\u02c8iliy jun ab\u02c8q\u02c8e tu\u02c8n qk\u02c8ayi\u02c8n, ex tu\u02c8n qkanb\u02c8i\u02c8n txqan qpwaqa, chi chiji\u02c8y."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bfMa b\u02c8i\u02c8ntzin kye kyu\u02c8n, ti\u02c8 aku tzul toj kychwinqila nchi\u02c8j? Ikytzin kye kychwinqil tze\u02c8nku muj te qlixje; at, aj t\u2011xi qka\u02c8yin, me te jun paql, nti\u02c8l; otaq tz\u02c8el naj."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Qala\u02c8, chi chi\u02c8tla kyeji\u02c8y kyjalu\u02c8n: Qa iky tajb\u02c8il qAjaw, ex qa atx toj qchwinqil, okla kb\u02c8antiljo a qaja."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Me metzin kye kyu\u02c8n, tzunxix nchi lab\u02c8te kye\u02c8, tu\u02c8n kyyolb\u02c8i\u02c8n, ex tu\u02c8n tb\u02c8ant kyu\u02c8n kyjunala. Tkyaqilxjo lu\u02c8n, a nja kyi\u02c8n kyib\u02c8a, nya wen ikyjo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tu\u02c8npetzi\u02c8n, ankye te\u02c8, a b\u02c8a\u02c8n b\u02c8inchin wen, ex qa mix kub\u02c8 tb\u02c8inchin, ma kux te til ikyjo."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jun tqanil kye xjal q\u02c8inin - Kyb\u02c8i\u02c8ntzin ja\u02c8lin, ayeqi\u02c8y q\u02c8inin: Chi oq\u02c8a, ex chi \u1e8dch\u02c8i\u02c8n, qu\u02c8n ktzajil jun kawb\u02c8il kujxix kyib\u02c8aja."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ikytzi\u02c8n, ajo kyq\u02c8inimila ma q\u02c8ayj, ex ikyxjo, a kyxb\u02c8ali\u02c8n tb\u02c8anilx ma b\u02c8aj tu\u02c8n pok\u02c8."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ajo q\u02c8anpwaq ex saqpwaq k\u02c8u\u02c8n kyu\u02c8n, ma ch\u02c8iy xul kyi\u02c8j, ex axsin q\u02c8olte kyqanilji\u02c8y te yuch\u02c8il kye\u02c8y, ex k\u2011okil meltz\u02c8aj kyi\u02c8ja tze\u02c8nku jun q\u02c8aq\u02c8 te kawb\u02c8il kujxix kyib\u02c8aja. Ikytzi\u02c8n, ma chi ok ten chmolte kyq\u02c8inimila; tzunx ok kyu\u02c8n tzma tzalu\u02c8n. \u00bfMe mitzin b\u02c8i\u02c8n kyu\u02c8n, qa ch\u02c8ix tiky\u02c8 twutz tx\u02c8otx\u02c8?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nchi qanb\u02c8in kyaq\u02c8nila kyi\u02c8ja, tu\u02c8njo mi \u1e8di ex kychjo\u02c8n, tej tjaw kyawala. Ex ma chi b\u02c8ijtey tu\u02c8n Dios, a tAjaw Tkyaqil."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Atzin kye\u02c8 tzalu\u02c8n twutz tx\u02c8otx\u02c8, ma kyli jun kye\u02c8 kychwinqil toj tb\u02c8anilx, ex tze\u02c8nku kyaja, ikyqetzinji\u02c8y tze\u02c8nku jun ma nimxix wakx ma b\u02c8ant, tu\u02c8n tkub\u02c8 b\u02c8yet."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ex ikytzi\u02c8n kyu\u02c8n kyi\u02c8jqe nti\u02c8 kypaj, nchi kux kyjpu\u02c8n toj tze, ex atku maj nchi kub\u02c8 kyb\u02c8yo\u02c8n, me mi \u1e8di ok meltz\u02c8aj kyi\u02c8ja. Noqx kub\u02c8 kyyo\u02c8nx kyib\u02c8."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tenxsin qk\u02c8u\u02c8j tu\u02c8n qayo\u02c8n tajb\u02c8il qAjaw, ajxi tul - Atzin kyetza, werman, qetzin kye\u02c8 kyk\u02c8u\u02c8j tu\u02c8n kyayo\u02c8n tajb\u02c8il qMan Dios, tzmaxi aj tul qAjaw, ikytzi\u02c8n tze\u02c8nku jun aq\u02c8nil twutz tx\u02c8otx\u02c8, il ti\u02c8j tu\u02c8n tayo\u02c8n ajxi tul jb\u02c8alil. Ajxi tak\u02c8 ttx\u02c8otx\u02c8 a\u02c8lexsin at tk\u02c8u\u02c8jjo tu\u02c8n tayo\u02c8n, tu\u02c8n tlonte tb\u02c8anil tawal."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ikytzin kyeji\u02c8y tu\u02c8n tten kyk\u02c8u\u02c8ja tu\u02c8n kyayo\u02c8n, ex chi we\u02c8kuxixa toj kynimb\u02c8ila, qu\u02c8n ch\u02c8ix tul te qAjaw."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ikytzin qu\u02c8n, werman, mina tz\u02c8ok kyq\u02c8ojlin kyib\u02c8a, tu\u02c8n mi chi okiy toj kawb\u02c8il. Ikytzi\u02c8n, ate Dios, a Kawil, nyakuj nq\u02c8olb\u02c8in toj tjpel ja, qu\u02c8n ch\u02c8ix tul twutz tx\u02c8otx\u02c8."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ayi\u02c8y werman, kyna\u02c8nqetzinji\u02c8y aye yolil Tyol Dios ojtxe, tu\u02c8n kyok te jun yek\u02c8b\u02c8il qe ja\u02c8lin. Jni\u02c8xsin siky\u02c8x kyi\u02c8j, me ma ten kyk\u02c8u\u02c8j toj tkyaqil."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ex ikyxjo qe ja\u02c8lin, ky\u02c8iwlinqoxixqe, qa ma qo we\u02c8 twutz tkyaqiljo kky\u02c8elix qu\u02c8n. O tz\u02c8ok kyb\u02c8i\u02c8n ti\u02c8j tk\u02c8u\u02c8j Job, tu\u02c8n tayo\u02c8n tkyaqil tajb\u02c8il qMan, ex ma tz\u02c8ok kyb\u02c8i\u02c8n tze\u02c8nx tene tu\u02c8n tAjaw Tkyaqil tu\u02c8n tklet, tb\u02c8ajlinxitzi\u02c8n siky\u02c8x tu\u02c8n. Ikytzi\u02c8n, tb\u02c8anilx te qAjaw, ex nimx tq\u02c8aq\u02c8b\u02c8il tk\u02c8u\u02c8j qi\u02c8j."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Qo yolin twutzxix, ex mi kub\u02c8 qewin - Me atzin ja\u02c8lin, toj tkyaqil, ilxix ti\u02c8j tu\u02c8n qyolin toj ttxolil. Mi tzaj qq\u02c8olb\u02c8in tb\u02c8i kya\u02c8j, ex tb\u02c8i tx\u02c8otx\u02c8, ex mix a\u02c8l tb\u02c8i juntl, tu\u02c8n qq\u02c8mante qa twutzx jun qyol. Qala\u02c8, qa twutzxtaq jun ti\u02c8, ex twutzx qyoltz; ex qa nya twutzx, exsinx minaxtz, tu\u02c8ntzin mi qo tzaj tkawin qMan Dios."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Qpa\u02c8nktz qil ex qo na\u02c8n Dios kyuk\u02c8a qerman - Qa at jun kyxola ma tzaj jun b\u02c8is ti\u02c8j, b\u02c8a\u02c8n tu\u02c8n tna\u02c8n Dios. Ex qa at jun at ttzaljb\u02c8il tuk\u02c8a, b\u02c8a\u02c8n tu\u02c8n tb\u02c8itzin b\u02c8itz te nimsb\u02c8il tb\u02c8i qMan Dios."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ex qa at jun ma yab\u02c8te kyxola, b\u02c8a\u02c8n tu\u02c8n kytzaj ttxko\u02c8n nejinel kyxol Ttanim Dios, tu\u02c8n kyna\u02c8n Dios ti\u02c8j, ex tu\u02c8n tkyij kysu\u02c8n ch\u02c8in aseyt ti\u02c8j tplajjo yab\u02c8 toj tb\u02c8i qAjaw."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Me ajtzin kyna\u02c8n Dios tuk\u02c8a kynimb\u02c8il, oktzin kwe\u02c8b\u02c8il yab\u02c8, exsin a qAjaw k\u02c8wel q\u02c8aninte. Ex qa at til o tb\u02c8inche, ok k\u02c8wel najsin tu\u02c8n Dios."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Tu\u02c8npetzi\u02c8n, kypa\u02c8nktz kyila jun tuk\u02c8a juntl, ex chi na\u02c8n Diosa jun ti\u02c8j juntl, tu\u02c8ntzin tul Dios kye\u02c8y. Qu\u02c8n a tna\u02c8j Diosjo, a b\u02c8a\u02c8n nb\u02c8ete toj tumil, kb\u02c8antil nimku tu\u02c8n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ka\u02c8ntzin tejiy yolil Tyol Dios ojtxe, a El\u00edas: Xjalx tze\u02c8nku qe xjalqo. Me atzi\u02c8n te\u02c8 t\u2011xi tqanin toj tna\u02c8j Dios, tu\u02c8n mi tz\u02c8etza jb\u02c8al tib\u02c8aj tx\u02c8otx\u02c8, ex mix etze jb\u02c8al toj oxe ab\u02c8q\u02c8e tuk\u02c8a niky\u02c8jin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tb\u02c8ajlinxitzi\u02c8n ikyjo, aq\u02c8e majl na\u02c8l Dios, tu\u02c8ntzin ttzaj jb\u02c8al; b\u02c8e\u02c8xsin tzaj q\u02c8o\u02c8n jb\u02c8altz tib\u02c8aj tx\u02c8otx\u02c8, tu\u02c8n ttzaj tawal."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Qq\u02c8onx jun tumil te onb\u02c8il tu\u02c8n tja we\u02c8ks erman - Ayi\u02c8y werman, qa at jun o tz\u02c8el txalpaj ti\u02c8jjo tumil twutzxix, il ti\u02c8j tu\u02c8n ttzaj onit, tu\u02c8n tajtz meltz\u02c8aj."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "B\u02c8i\u02c8nku kyu\u02c8n qa at jun kye\u02c8 kxel onil ti\u02c8jjo ma txi\u02c8 toj b\u02c8e nya wen, kkletil tanmin xjal tu\u02c8n, ex mi kyim tuk\u02c8a til. Atzin jni\u02c8 til k\u02c8wel najsin ikyjo tu\u02c8n Dios."
+                }
+            }
+        }
+    }
+}

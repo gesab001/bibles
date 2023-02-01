@@ -1,0 +1,955 @@
+{
+    "version": "LCB",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Obutaliimu bw\u2019Amagezi g\u2019Abantu - Ebigambo by\u2019Omubuulizi, mutabani wa Dawudi kabaka mu Yerusaalemi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201cObutaliimu! Obutaliimu!\u201d bw\u2019ayogera Omubuulizi. Byonna butaliimu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Omuntu afuna ki mu byonna by\u2019akola, mu byonna ebimukooya wansi w\u2019enjuba?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Omulembe ogumu gugenda, omulala ne gujja, naye ensi ebeerera emirembe gyonna."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Enjuba evaayo era n\u2019egwa, ate n\u2019eyanguwa okutuuka mu kifo mw\u2019eviirayo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Empewo ekunta ng\u2019eraga obukiikaddyo, ne yeetooloola okutuuka obukiikakkono; empewo yeetooloola ne yeetooloola, n\u2019ekomerawo ku biwaawaatiro byayo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Emigga gyonna gikulukuta nga giraga mu nnyanja, naye ennyanja tejjula; ekifo emigga gye gikulukutira era gye gyeyongera okukulukutira."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ebintu byonna bijjudde obukoowu omuntu bw\u2019atasobola kutenda! Eriiso terimatira kulaba, wadde okutu okukoowa okuwulira."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ekyo ekyabaawo era kye kigenda okubaawo, n\u2019ekyo ekikoleddwa era kye kigenda okukolebwa; era tewali kintu kiggya wansi w\u2019enjuba."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Waali wabaddewo ekintu ekyali kigambiddwa nti, \u201cLaba kino kiggya\u201d? Kyaliwo dda mu mirembe egyatusooka?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tewali kujjukira bintu byasooka era tewaliba kujjukira bintu ebyo ebitanabaawo mu ebyo ebijja oluvannyuma."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Amagezi Agatali ga Katonda Butaliimu - Nze Omubuulizi nali kabaka wa Isirayiri mu Yerusaalemi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nagezaako n\u2019omutima gwange okuyiga n\u2019okwetegereza n\u2019amagezi gange gonna mu ebyo ebikolebwa wansi w\u2019eggulu; omulimu Katonda gwe yawa abaana b\u2019abantu okukola, guteganya."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ndabye ebintu byonna ebikolebwa wansi w\u2019enjuba; era laba, byonna butaliimu na kugoberera mpewo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ekyo ekyakyama tekisoboka kugololebwa, n\u2019ekibulako tekibalibwa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nayogera munda yange nti, \u201cNfunye amagezi mangi agasinga ag\u2019abo bonna abaali babadde mu Yerusaalemi, era nfunye amagezi n\u2019okumanya kungi.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Era omutima gwange ne gumanya okwawula amagezi n\u2019eddalu, n\u2019obutategeera. Ne ntegeera nti na kino nakyo kugoberera mpewo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kubanga mu magezi amangi mujjiramu okunakuwala kungi; amagezi gye gakoma obungi, n\u2019okunakuwala gye gukoma."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Amasanyu Tegagasa - Nayogera munda yange nti, \u201cJjangu kaakano ngezese okusanyuka. Weesanyuse.\u201d Naye laba, na kino kyali butaliimu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nagamba nti, \u201cOkuseka busirusiru. Era okusanyuka kugasa ki?\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nanoonyereza n\u2019omutima gwange, bwe nnaasanyusa omubiri gwange n\u2019omwenge, nga nkyagoberera okunoonya amagezi. Nayagala okulaba abantu kyebasaanira okukola wansi w\u2019enjuba mu nnaku ez\u2019obulamu bwabwe entono."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Natandikawo emirimu egy\u2019amaanyi: ne neezimbira amayumba ne neesimbira ennimiro ez\u2019emizabbibu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ne neerimira ennimiro, ne neekolera n\u2019ebifo ebigazi, ne nsimbamu buli ngeri ya miti egy\u2019ebibala."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne neesimira ebidiba omuva amazzi ag\u2019okufukirira ebibira by\u2019emiti emito."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Neefunira abaddu abasajja n\u2019abakazi, era nalina abaddu abaazaalirwa mu nnyumba yange. Ne mbeera n\u2019amagana g\u2019ente n\u2019ebisibo by\u2019endiga okusinga bonna abansooka okubeera mu Yerusaalemi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ne neeku\u014b\u014baanyiza ffeeza ne zaabu ebyavanga mu misolo, egyampebwanga bakabaka n\u2019egyavanga mu bwakabaka bwabwe. Neefunira abayimbi abasajja n\u2019abakazi, ne nfuna n\u2019ebintu byonna ebisanyusa omuntu, ne neefunira n\u2019abakazi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ne nfuuka mukulu ne nsukkirira bonna abansooka mu Yerusaalemi. Mu ebyo byonna nasigala siweebuuse mu magezi."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Na buli amaaso gange kye gaayagala okulaba sa kigamma, omutima gwange ne ngusanyusa mu buli kimu. Omutima gwange gwasanyukira bye nakola byonna, era eyo y\u2019empeera yange olw\u2019okutegana kwange kwonna."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Awo bwe nalowooza byonna emikono gyange bye gyakola, n\u2019okutegana kwonna nga nkola, laba, byonna bwali butaliimu na kugoberera mpewo, tewaali na kimu kye nagobolola wansi w\u2019enjuba."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Amagezi Agatali ga Katonda n\u2019Obusirusiru Byombi Butaliimu - Awo ne nkyuka ne ndowooza ku magezi, ne ku ddalu ne ku busirusiru, kubanga oyo aliddirira kabaka mu bigere alibaako ki ky\u2019akola, okuggyako ekyo kabaka ky\u2019akoze?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Awo ne ndaba amagezi nga gasinga obusirusiru, n\u2019ekitangaala nga kisinga ekizikiza."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Omugezi amaaso ge gali mu mutwe gwe, naye atalina magezi atambulira mu kizikiza. Kyokka ne ntegeera nga bombi akabi kabatuukako."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ne ndyoka njogera mu mutima gwange nti, \u201cEkyo ekigwa ku musirusiru nange kirintuukako. Kale lwaki mbeera omugezi?\u201d Era na kino ne nkizuula nga butaliimu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kubanga ku mugezi ne ku musirusiru tewaliwo ajjukirwa lubeerera; mu nnaku ezirijja bombi baliba beerabirwa dda. Okufaanana ng\u2019omusirusiru n\u2019omugezi naye alifa."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Awo ne nkyawa obulamu kubanga buli ekikolebwa wansi w\u2019enjuba kindeetera buyinike. Byonna butaliimu na kugoberera mpewo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Nakyawa okutegana kwange kwonna kwe nateganamu wansi w\u2019enjuba, kubanga byonna ndi wakubirekera oyo alinzirira mu bigere."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kale ani amanyi obanga aliba musajja mugezi oba musirusiru? Kyokka ye y\u2019aliba mukama w\u2019ebyo byonna bye nateganira nga nkozesa amagezi gange wansi w\u2019enjuba; era na kino nakyo butaliimu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Awo ne nterebuka olw\u2019okutegana kwange kwonna wansi w\u2019enjuba."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Kubanga oluusi omuntu ategana ng\u2019akozesa amagezi ge n\u2019okumanya awamu n\u2019obukalabakalaba bwe, naye byonna ateekwa okubirekera oyo atabiteganiranga nako. Na kino nakyo butaliimu na kabi keereere."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Omuntu afuna ki mu kutegana kwe kwonna n\u2019okukaluubirirwa mu ebyo by\u2019ateganamu wansi w\u2019enjuba?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kubanga ennaku ze zonna n\u2019okutegana kwe bijjula bulumi; era ne mu kiro omutima gwe teguwummula; na kino nakyo butaliimu."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Tewali kisingira muntu kulya na kunywa na kusanyukira mu ebyo by\u2019akola. Na kino nkiraba, kiva mu mukono gwa Katonda,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "kubanga awatali ye, ani ayinza okulya oba asobola okusanyuka?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kubanga omuntu asanyusa Katonda, Katonda amuwa amagezi n\u2019okumanya n\u2019essanyu; naye omwonoonyi Katonda amuwa omulimu gw\u2019okuku\u014b\u014baanyiza oyo asanyusa Katonda. Na kino nakyo butaliimu na kugoberera mpewo."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Buli Kintu Kirina Ekiseera Kyakyo - Buli kintu kirina ekiseera kyakyo, na buli ekikolebwa wansi w\u2019eggulu kirina ekiseera kyakyo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Waliwo ekiseera eky\u2019okuzaalibwa n\u2019ekiseera eky\u2019okufa; ekiseera eky\u2019okusimba ate n\u2019ekiseera eky\u2019okukungula ebyo ebyasimbibwa;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ekiseera eky\u2019okutta n\u2019ekiseera eky\u2019okuwonya; ekiseera eky\u2019okumenya n\u2019ekiseera eky\u2019okuzimba;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "ekiseera eky\u2019okukaabiramu n\u2019ekiseera eky\u2019okusekeramu; ekiseera eky\u2019okukungubaga n\u2019ekiseera eky\u2019okuzina;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "ekiseera eky\u2019okusaasaanyizaamu amayinja, n\u2019ekiseera eky\u2019okugaku\u014b\u014baanyizaamu; ekiseera eky\u2019okugwiramu mu kifuba n\u2019ekiseera eky\u2019okukyewaliramu;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "waliwo ekiseera eky\u2019okunoonyezaamu n\u2019ekiseera eky\u2019okulekeraawo okunoonya; ekiseera eky\u2019okukuumiramu ekintu n\u2019ekiseera eky\u2019okukisuuliramu;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "n\u2019ekiseera eky\u2019okuyulizaamu n\u2019ekiseera eky\u2019okuddabiririzaamu; ekiseera eky\u2019okusirikiramu n\u2019ekiseera eky\u2019okwogereramu;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "waliwo ekiseera eky\u2019okwagaliramu n\u2019ekiseera eky\u2019okukyayiramu; ekiseera eky\u2019entalo n\u2019ekiseera eky\u2019eddembe."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ddala omuntu kiki ky\u2019afuna mu kutegana kwe?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ndabye omugugu Katonda gw\u2019atadde ku bantu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Buli kimu yakikola nga kirungi mu kiseera kyakyo. Kyokka newaakubadde nga Katonda yateeka mu mitima gy\u2019abantu okutegeera obulamu obutaggwaawo, omuntu tayinza kuteebereza mulimu gwa Katonda gwonna, we gutandikira oba we gukoma."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mmanyi nga tewali kisingira bantu kusanyuka na kukola bulungi nga balamu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Buli muntu alyoke alye, anywe afune okwesiima olw\u2019ebyo ebiva mu kutegana kwe, kubanga ekyo kirabo kya Katonda."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mmanyi nga buli Katonda ky\u2019akola kya lubeerera; tekyongerwako, era tewali kikijjibwako. Katonda yakikola bw\u2019atyo, abantu balyoke bamutye."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ekyo ekiriwo ky\u2019amala dda okubaawo; n\u2019ekyo ekinaaberawo kyabaawo dda; era Katonda alagira ebyali bibaddewo, ne byongera okubaawo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ate era nalaba nga wansi w\u2019enjuba, mu kifo ky\u2019okusala amazima waliwo kusaliriza; ne mu kifo ky\u2019obutuukirivu waliwo bwonoonyi."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ne njogera munda yange nti, \u201cKatonda aliramula abatuukirivu n\u2019aboonoonyi; kubanga yateekawo ekiseera ekya buli kimu; era na buli mulimu.\u201d"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ne ndowooza nti, \u201cKatonda agezesa abaana b\u2019abantu era bajjukire nti nsolo busolo."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kubanga ekituuka ku baana b\u2019abantu kye kituuka ne ku nsolo; omuntu afa, n\u2019ensolo n\u2019efa. Bonna bassa omukka gwe gumu; omuntu talina nkizo ku nsolo. Byonna butaliimu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Bonna bagenda mu kifo kye kimu, bonna bava mu nfuufu era mu nfuufu mwe badda."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ani amanyi obanga omwoyo gw\u2019omuntu gwambuka waggulu, ogw\u2019ensolo gwo ne gukka mu ttaka?\u201d"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Bwe ntyo nalaba nga tewali kisinga muntu kusanyukira mulimu gwe, kubanga ekyo gwe mugabo gwe. Anti tewali asobola kumukomyawo alabe ebyo ebiribaawo oluvannyuma lwe."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Amaziga g\u2019Abanyigirizibwa - Ate nalaba okunnyigirizibwa kwonna okukolebwa wansi w\u2019enjuba. Ate laba, amaziga gaabo abanyigirizibwa, era nga tebalina wakugabasangulako! Ababanyigiriza baalina obuyinza, kyokka nga tewali asobola kubagambako."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ne ndowooza ku abo abaafa, nga baali ba mukisa okusinga abo abakyali abalamu;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "naye abasinga abo, y\u2019oyo atannaba kuzaalibwa, atannalaba bibi obukolebwa wansi w\u2019enjuba."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Awo ne ndaba ng\u2019okutegana, n\u2019okutuukiriza mu bikolebwa, kuva mu kukwatirwa obuggya muliraanwa. Na kino butaliimu na kugoberera mpewo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Omusirusiru awumba emikono gye, ne yeezikiriza yekka."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kirungi okuba n\u2019emirembe emijjuvu okusinga okujjula okubonaabona n\u2019okugoberera empewo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ate era ne ndaba obutaliimu wansi w\u2019enjuba:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "nalaba omuntu ng\u2019ali bwannamunigina, nga talina mwana wabulenzi wadde muganda we, naye ng\u2019ategana okukamala, nga tamatira na bugagga bwe, ne yeebuuza nti, \u201cNteganira ani ne neefiiriza essanyu? Kino nakyo butaliimu, era tekiriiko kye kigasa.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ababiri basinga omu, kubanga bagasibwa nnyo mu kukola kwabwe."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kubanga singa omu agwa, munne amuyimusa. Naye zimusanze oyo ali obw\u2019omu, bw\u2019agwa tabaako amuyimusa."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ababiri bwe bagalamira bombi awamu babuguma; naye oyo ali obw\u2019omu, ayinza atya okubuguma?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Omu awangulwa mangu, kyokka ababiri bayinza okwerwanako. Kubanga omuguwa ogw\u2019emiyondo esatu tegukutuka mangu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Omuvubuka omwavu nga mugezi, akira kabaka amusinga emyaka nga musirusiru, atafaayo ku kubuulirirwa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Omuvubuka ayinza okuba ng\u2019avudde mu kkomera n\u2019alya obwakabaka, oba okulya obwakabaka ng\u2019abadde mwavu."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nalaba abalamu bonna abatambula wansi w\u2019enjuba nga bagoberera omuvubuka oyo ow\u2019okulya obwakabaka."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Abantu be yafuganga baali bangi nnyo. Naye abo abajja oluvannyuma lwe tebaamusiima. Na kino nakyo butaliimu na kugoberera mpewo."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mutye Katonda - Weekuume ng\u2019oyingira mu nnyumba ya Katonda; okumusemberera n\u2019okumuwuliriza, kisinga okuwaayo ssaddaaka ng\u2019ez\u2019abasirusiru abatamanyi nga bakola ebibi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Toyanguyirizanga na kamwa ko okwogera ekigambo, wadde omutima gwo ogwanguyiriza, okwogera ekigambo mu maaso ga Katonda. Katonda ali mu ggulu ng\u2019ate ggwe oli ku nsi; kale ebigambo byo bibeerenga bitono."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ng\u2019okutawaana ennyo bwe kuleetera omuntu ebirooto, n\u2019ebigambo by\u2019omusirusiru bwe bityo bwe biba nga bingi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Bwe weeyamanga obweyamo eri Katonda tolwanga kubutuukiriza, kubanga tasanyukira basirusiru. Tuukirizanga obweyamo bwo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Obuteyama kisinga okweyama n\u2019ototuukiriza kye weeyamye."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Akamwa ko kaleme ku kwonoonyesa, n\u2019ogamba oyo atumiddwa gy\u2019oli nti, \u201cNakola kisobyo okweyama.\u201d Kale lwaki weeretako okusunguwalirwa Katonda olw\u2019ebigambo byo, n\u2019azikiriza emirimu gy\u2019emikono gyo?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ebirooto entoko n\u2019ebigambo ebingi temuli makulu; noolwekyo otyanga Katonda."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Obugagga ku Bwabwo Bwokka Butaliimu Bwereere - Bw\u2019olabanga ng\u2019omwavu anyigirizibwa mu ssaza, amazima n\u2019obwenkanya nga tewali, teweewuunyanga! Kubanga omukungu waalyo alinako amusinga, ate nga bombi balina ababatwala."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bonna balya ku bibala bya nsi eyo; kabaka yennyini mu nnimiro zaayo mw\u2019afuna."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Oyo alulunkanira ensimbi, tasobola kuba na nsimbi zimumala; wadde oyo alulunkanira obugagga n\u2019amagoba: na kino nakyo butaliimu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ebintu nga bwe byeyongera obungi, n\u2019ababirya gye bakoma okweyongera. Kale nnyini byo agasibwa ki, okuggyako okusanyusa amaaso ge?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Otulo tuwoomera omupakasi ne bw\u2019aba agabana bitono oba bingi. Naye obugagga bw\u2019omugagga obuyitiridde, tebumuganya kwebaka."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Okukola n\u2019Essanyu - Waliwo ekibi ekinene kye nalaba wansi w\u2019enjuba: nannyini bugagga abuterekera mu kwerumya,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "ebyembi bw\u2019ebigwawo eby\u2019obugagga ebyo bibula, kale bw\u2019aba ne mutabani tewabaawo mutabani we ky\u2019asigaza."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Omuntu nga bwe yava mu lubuto lwa nnyina n\u2019ajja mu nsi nga talina kintu, bw\u2019atyo bw\u2019aliddayo nga mwereere ng\u2019ava mu nsi. Tewali ky\u2019aggya mu mirimu gye, wadde kyayinza okugenda nakyo mu mukono gwe."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Na kino kya bulumi bwereere: nga bwe yajja era bw\u2019atyo bw\u2019aligenda; mugaso ki gwe yafuna mu kugoberera empewo?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Era yamala obulamu bwe bwonna mu kizikiza ne mu buyinike, ne mu kweraliikirira, ne mu bulumi ne mu kunyiiga."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ne ndyoka ntegeera nti kituufu omuntu okulya n\u2019okunywa n\u2019okulaba nga yeyagalira mu kutakabana ne mu kukola kwe wansi w\u2019enjuba, mu nnaku ze entono Katonda z\u2019amuwadde, kubanga ekyo gwe mugabo gwe."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ate Katonda bw\u2019awa omuntu obugagga, n\u2019ebintu n\u2019amusobozesa okubyeyagaliramu, n\u2019okutegeera omugabo gwe n\u2019okusanyukira by\u2019akoze, ekyo kiba kirabo ekivudde ewa Katonda."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Emirundi giba mitono gy\u2019alowoolezaamu ekiseera ky\u2019obulamu ky\u2019amaze, kubanga Katonda ajjuza omutima gw\u2019omuntu oyo essanyu."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Obutaliimu bw\u2019Obugagga n\u2019Ettiibwatiibwa - Waliwo ekibi ekirala kye ndabye wansi w\u2019enjuba era kibuutikidde abantu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Katonda awa omuntu obugagga, n\u2019amuwa ebintu ebingi awamu n\u2019ekitiibwa, na buli mutima gwe kye gwetaaga n\u2019akifuna; naye Katonda n\u2019amumma okubisanyukiramu, kyokka omugwira n\u2019ajja n\u2019abisanyukiramu. Kino butaliimu era kya bubalagaze!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Omuntu ayinza okuba n\u2019abaana kikumi, n\u2019awangaala; bw\u2019atasanyukira mu bugagga bwe, era n\u2019ataziikwa mu kitiibwa, ne bw\u2019aba ng\u2019awangadde nnyo, omwana afiira mu lubuto ng\u2019agenda okuzaalibwa amusingira wala."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Omwana oyo ajja nga taliiko ky\u2019amanyi n\u2019agendera mu butamanya era n\u2019erinnya lye ne libulira mu butamanya."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Newaakubadde talabye njuba, wadde okubaako ky\u2019amanya, kyokka awummula bulungi okusinga omusajja oyo:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "omusajja oyo ne bw\u2019awangaala emyaka enkumi bbiri, naye n\u2019atasanyukira mu bya bugagga bwe. Bombi tebalaga mu kifo kye kimu?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Buli muntu ateganira mumwa gwe, naye tasobola kukkuta by\u2019alina."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kale omuntu omugezi asinga oyo omusirusiru? Omwavu bw\u2019amanya okwefuga mu maaso g\u2019abalala, agasibwa ki?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Amaaso kye galaba kisinga olufulube lw\u2019ebirowoozo. Era na kino nakyo butaliimu, na kugoberera mpewo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Buli ekibaawo ky\u2019ateekebwateekebwa dda, n\u2019omuntu kyali kyamanyibwa, tewali muntu ayinza kulwana n\u2019oyo amusinza amaanyi, n\u2019amusobola."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ebigambo gye bikoma obungi, gye bikoma n\u2019obutabaamu makulu; kale ekyo kigasa kitya omuntu?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kale ani amanyi ekirungi eri omuntu, mu nnaku ezo entono z\u2019amala mu bulamu bwe obutaliimu, obuli ng\u2019ekisiikirize? Ani wansi w\u2019enjuba ayinza okutegeeza ekirimubaako ng\u2019avudde mu bulamu buno?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Okulondawo Ekisinga Obulungi - Obwatiikirivu bw\u2019erinnya eddungi businga eby\u2019akawoowo ebirungi; n\u2019olunaku olw\u2019okufa lusinga olwo olw\u2019okuzaalirwako."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kirungi okulaga mu nnyumba ey\u2019abakungubaga okusinga okulaga mu nnyumba ey\u2019ebyassava. Kubanga buli omu wa kufa, ekyo kiteekwa okuba ku mutima gwa buli muntu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Okunakuwala kusinga okuseka, kubanga amaaso amanakuwavu gazzaamu omutima amaanyi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Omutima gw\u2019omugezi guba wamu n\u2019abo abali mu nnaku; naye ogw\u2019omusirusiru guba mu kusanyuka."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kirungi okussaayo omwoyo ku kunenya kw\u2019omuntu ow\u2019amagezi okusinga okuwuliriza ennyimba z\u2019abasirusiru."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Okuseka kw\u2019abasirusiru kuli ng\u2019okutulikatulika kw\u2019amaggwa agali mu muliro gw\u2019entamu; na kino nakyo butaliimu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kya mazima, okunyigirizibwa kufuula ow\u2019amagezi okuba omusirusiru, n\u2019enguzi efaafaaganya okutegeera."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Enkomerero y\u2019ekintu esinga entandikwa yaakyo, n\u2019omugumiikiriza asinga ow\u2019amalala."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tosunguwalanga mangu nga waliwo akusokaasoka, kubanga obusungu bubeera munda y\u2019abasirusiru."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Teweebuuzanga nti, \u201cLwaki ennaku ziri ez\u2019edda zisinga zino?\u201d Kubanga si kya magezi okwebuuza ekibuuzo ng\u2019ekyo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Amagezi kintu kirungi, okufaanana ng\u2019eky\u2019obugagga ky\u2019obusika, era kigasa abo abakyalaba enjuba."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Amagezi kiwummulo, ng\u2019ensimbi bwe ziri ekiwummulo, naye enkizo y\u2019okumanya y\u2019eno: amagezi gakuuma obulamu bw\u2019oyo agalina."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Lowooza ku Katonda ky\u2019akoze: ani ayinza okugolola ekyo ekyakyama Katonda kye yakola?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ebiseera bwe biba ebirungi, sanyuka; naye bwe biba ebibi, kirowoozeeko; Katonda eyakola ekimu era ye yakola ne kinnaakyo. Noolwekyo omuntu tayinza kuzuula kirimubaako mu nnaku ze ez\u2019omu maaso."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mu bulamu bwange buno obutaliimu ndabye bino byombi: omutuukirivu azikiririra mu butuukirivu bwe, n\u2019omukozi w\u2019ebibi n\u2019awangaalira mu bibi bye."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Teweefuulanga mutuukirivu ayitiridde wadde okwefuula ow\u2019amagezi ow\u2019ekitalo; oleme okwezikiriza."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tobanga mwonoonyi kakuzzi wadde okuba omusirusiru; oleme okufa ng\u2019ekiseera kyo tekinnatuuka."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ekyo kirungi okiyige, na kiri oleme kukibuusa maaso, kubanga oyo atya Katonda abyewala okubiyitiriza."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ow\u2019amagezi ne bw\u2019aba omu mu kibuga, aba w\u2019amaanyi okusinga abakulembeze ekkumi ab\u2019omu kibuga ekyo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ddala ku nsi tekuli muntu mutuukirivu, atakola bibi."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Towulirizanga buli kigambo, bantu kye boogera, si kulwa ng\u2019owulira omuweereza wo ng\u2019akukolimira,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "kubanga naawe okimanyidde ddala mu mutima gwo, ng\u2019emirundi mingi okolimidde abalala."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ebyo byonna nabyekenneenya n\u2019amagezi ne \u014b\u014bamba nti, \u201cMmaliridde okuba omugezi,\u201d wabula kino kyandi wala."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Amagezi ne bwe gaba ga kikula ki, gali wala nnyo era tegalojjeka, kale ani ayinza okugavumbula?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Bwe ntyo ne nkyusa omutima gwange nnoonye okutegeera, nekkanye, era nnoonyereze amagezi ndowooze ne ku bintu nga bwe biri, n\u2019okutegeera obusirusiru bw\u2019okukola ebibi: n\u2019eddalu ery\u2019obusirusiru."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ekintu kye nalaba eky\u2019obulabe ekisinga okufa, ye mukazi alina omutima ogusendasenda, era ogusikiriza, era emikono gye gisiba ng\u2019enjegere. Oyo ayagala Katonda, y\u2019awona omukazi oyo, kyokka ye omwonoonyi talema kugwa mu mutego gwe."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Omubuulizi agamba nti, \u201cLaba, kino kyenvumbudde: \u201cOkugatta ekintu ku kinnaakyo, okuzuula enkola y\u2019ebintu,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "bwe nnali nga nkyanoonyereza nabulako kye nzuula, okuggyako okulaba omusajja omwesimbu omu mu basajja lukumi, kyokka mu bakazi bonna ssaalabamu n\u2019omu atuukiridde."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Wabula kino kyokka kye nalaba: Katonda yatonda omuntu nga mugolokofu, naye abantu ne beenoonyeza ebintu ebirala bingi.\u201d"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Obuwulize eri Abakulembeze - Ani afaanana omuntu omugezi amanyi okunnyonnyola buli kintu? Amagezi gaakaayakanyisa obwenyi bw\u2019omuntu, ne gakyusa emitaafu gyamu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nkugamba nti gondera ekiragiro kya kabaka, kubanga walayira mu maaso ga Katonda."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Toyanguyiriza kuva mu maaso ga kabaka. Kyokka ensonga bw\u2019ebanga etali ntuufu, tobanga ku ludda lumuwakanya, kubanga ye akola buli ky\u2019ayagala."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kubanga ekigambo kya kabaka kisukkuluma byonna; kale ani ayinza okumubuuza nti, \u201cOkola ki ekyo?\u201d"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Oyo agondera ekiragiro kye talituukibwako kabi, omutima ogw\u2019amagezi gulimanya ekiseera ekisaana okukoleramu ekintu gundi, n\u2019engeri ey\u2019okukolamu ekintu ekyo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kubanga waliwo ekiseera ekituufu n\u2019enkola esaana ku buli kintu, newaakubadde ng\u2019obuyinike bw\u2019omuntu bumuzitoowerera okukamala."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nga bwe watali muntu amanyi binaabaawo, kale ani ayinza okumutegeeza ebinajja?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tewali muntu alina buyinza kufuga mpewo; bwe kityo tewali n\u2019omu alina buyinza ku lunaku lwa kufa kwe. Ng\u2019omuntu bw\u2019aweebwa ebiragiro mu biseera eby\u2019olutalo, bwe kityo n\u2019obutali butuukirivu bwe buduumira abo ababutambuliramu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ebyo byonna bye nalaba bwe nagezaako okwekenneenya buli kintu ekikolebwa wansi w\u2019enjuba. Waliwo ekiseera omufuzi buli lw\u2019abinika baafuga, kyokka nga yeerumya yekka."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ndabye abantu abakozi b\u2019ebibi nga baziikibwa, abo abaawaanibwanga mu kibuga nga bazze mu kifo ekitukuvu. Na kino nakyo butaliimu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Omuntu bw\u2019asalirwa omusango n\u2019atabonererezebwawo, emitima gy\u2019ababi gijjula kuteekateeka kukola bubi."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Newaakubadde ng\u2019omuntu omubi azza emisango kikumi, ate n\u2019awangaala, nkimanyi ng\u2019abatuukirivu, abo abatya Katonda bijja kubagendera bulungi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Naye olwokubanga abakozi b\u2019ebibi tebatya Katonda, tebiyinza kubagendera bulungi, era n\u2019ennaku zaabwe zinaayitanga mangu ng\u2019ekisiikirize."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Waliwo ekintu ekirala ekiraga obutaliimu ekiri ku nsi: abantu abatuukirivu batukibwako ebyo ebisaanira ababi, ate abatali batuukirivu ne batuukibwako ebyo ebigwanira abatuukirivu. Kino nakyo nkiyita butaliimu."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Bwe ntyo nteesa nti omuntu yeyagalire mu bulamu: kubanga wansi w\u2019enjuba tewali kisinga, wabula omuntu okulya n\u2019okunywa n\u2019okweyagala. Kale essanyu linaamuwerekeranga mu mirimu gye, ennaku zonna ez\u2019obulamu bwe Katonda bw\u2019amuwadde wansi w\u2019enjuba."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Bwe nanoonyereza amagezi ne neetegereza okutegana kw\u2019omuntu ku nsi kuno, nga teyeebaka emisana n\u2019ekiro."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ne ndaba ebyo byonna Katonda by\u2019akoze, nga tewali n\u2019omu ayinza kutegeera Katonda by\u2019akola wansi w\u2019enjuba, omuntu ne bw\u2019agezaako ennyo okukinoonyereza tayinza kukivumbula. Newaakubadde omuntu omugezi yeefuula nti akimanyi, tayinza kukitegeera."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ekkubo Bonna lye Bakwata - Awo ne ndowooza ku ebyo, ne nzuula ng\u2019omutuukirivu n\u2019omugezi bye bakola biri mu mukono gwa Katonda; naye tewali muntu n\u2019omu amanyi obanga kwagalibwa oba kukyayibwa bye bimulindiridde."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Omutuukirivu n\u2019omwonoonyi, omulungi n\u2019omubi, omuyonjo n\u2019omujama, abo abawaayo ssaddaaka n\u2019abo abatagiwaayo bonna gye bagenda y\u2019emu. Nga bwe kiri eri omuntu omulungi, era bwe kiri n\u2019eri omwonoonyi; Nga bwe kiri eri abo abalayira, era bwe kiri n\u2019eri abo abatya okulayira."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bonna ekibalindiridde kimu; kano ke kabi akabeera wansi w\u2019enjuba. Ate emitima gy\u2019abantu mu bulamu buno giraluse gijjudde ebibi, bayaayaanira buli kimu; n\u2019oluvannyuma ne bakka emagombe eri bannaabwe."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Naye omuntu omulamu aba n\u2019essuubi, wadde embwa ennamu esinga empologoma enfu!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kubanga buli kiramu kimanya nga kya kufa, naye abafu tebaliiko kye bamanyi: tebakyagasa wadde okujjukirwa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Okwagala kwabwe, n\u2019obukyayi bwabwe, n\u2019obuggya bwabwe nga bizikiridde; nga tebakyetaba mu ebyo byonna ebikolebwa wansi w\u2019enjuba."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Genda olye emmere yo ng\u2019osanyuka, onywe ne wayini wo nga weeyagala; kubanga Katonda asiimye ky\u2019okola."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Yambalanga engoye ennyonjo, era weesiigenga n\u2019ebyakaloosa."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ssanyukanga ne mukyala wo gw\u2019oyagala ennaku zo zonna, mu bulamu buno obutaliimu, Katonda bw\u2019akuwadde wansi w\u2019enjuba, kubanga ekyo gwe mugabo gwo mu kutegana kwo kw\u2019oteganamu wansi w\u2019enjuba."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Buli omukono gwo kye gugenda okukola, kikole n\u2019amaanyi go gonna; kubanga teri mulimu wadde okulowooza, oba okutegeera wadde amagezi emagombe gy\u2019olaga."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ate nalaba nga wansi w\u2019enjuba, ng\u2019ow\u2019embiro ennyingi si y\u2019awangula mu mpaka, era ne kirimaanyi si y\u2019awangula olutalo, ng\u2019ate bakalimagezi bonna si be baatiikirira; wabula ng\u2019omukisa gukwata bukwasi oyo aba aliwo mu kifo ekituufu ne mu kiseera ekituufu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kubanga omuntu tamanya kinaamubaako. Ng\u2019ekyenyanja bwe kikwatibwa mu muyonjo, oba ennyonyi nga bw\u2019egwa ku mutego, n\u2019abaana b\u2019omuntu bwe batyo bwe beesanga mu biseera eby\u2019akabi, ebibatuukako nga tebabyetegekedde."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Era ekirala kye nalaba ekyampuniikiriza ennyo kye kino:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "waaliwo akabuga nga kalimu abantu batono ddala, kabaka ow\u2019amaanyi n\u2019ajja n\u2019akazingiza n\u2019akazimbako ekigo ekinene."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mu kabuga ako mwalimu omusajja omugezi, omwavu, ng\u2019amanyi eky\u2019okukola okuwonya akabuga ako, bw\u2019atyo mu magezi ge ne kanunulwa. Naye nno ne wabulawo amujjukira."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Awo ne ndaba nti newaakubadde ng\u2019amagezi gasinga amaanyi, naye ow\u2019amagezi bw\u2019aba omwavu, anyoomebwa, ne ky\u2019ayogera tekissibwako mwoyo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Naye ne bwe kiba kityo, ebigambo eby\u2019ekimpowooze ebiva mu kamwa k\u2019omugezi bissibwako omwoyo, okusinga okuleekaana kw\u2019omufuzi w\u2019abasirusiru."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Amagezi gasinga ebyokulwanyisa mu lutalo, naye omwonoonyi omu azikiriza ebirungi bingi."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Omugezi n\u2019Omusirusiru - Nga ensowera enfu bwe zoonoona akaloosa akawunya obulungi, bwe katyo akasobyo akatono bwe koonoona amagezi n\u2019ekitiibwa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Omutima gw\u2019omuntu ow\u2019amagezi gumukozesa ekituufu, naye ogw\u2019omusirusiru gumutwala kukola bitasaana."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ne bw\u2019aba ng\u2019atambula, amanyibwa nga talina magezi, era buli amulaba agamba nti musirusiru."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "MUKAMA wo bw\u2019akunyiigiranga, tomulaganga busungu; okuddamu n\u2019eggonjebwa kukyusa ekiruyi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ekibi ekirala kye nalaba, kye kikwata ku nsobi y\u2019omufuzi:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "nalaba ng\u2019abasirusiru baweebwa ebifo ebisava, naye ng\u2019abagagga bo baweebwa ebyo ebya wansi."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ate nalaba ng\u2019abaddu beebagala embalaasi, songa abalangira batambuza bigere ng\u2019abaddu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Asima ekinnya alikigwamu, n\u2019oyo amenya ekisenge omusota gulimubojja."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Oyo ayasa amayinja gamulumya, n\u2019oyo ayasa enku zimulumya."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Embazzi bwe tebaako bwogi, n\u2019etewagalwa, agitemya ateekwa okufuba ennyo, naye obumanyirivu bwe buwangula."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Omusota bwe guluma nga tegunnakola bya bufuusa, omufuusa talina kyafunamu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ebigambo ebiva mu kamwa k\u2019omuntu ow\u2019amagezi bya muwendo nnyo eri abo ababiwulira, naye akamwa k\u2019omusirusiru kamusuula mu ntata."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Entandikwa y\u2019ebigambo bye nga temuli nsa, ne ku nkomerero yaabyo biba mususa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Omusirusiru asavuwaza ebigambo. Tewali amanyi birijja, kale ani asobola okumubuulira ebiribaawo oluvannyuma lwe?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Omusirusiru aterebuka mangu olw\u2019ekitamugendedde bulungi, n\u2019abulwa n\u2019ekkubo erimutwala mu kibuga."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zikusanze gw\u2019ensi kabaka bw\u2019aba nga yali muddu, nga n\u2019abalangira bakeera kwetamiirira!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Olina omukisa gw\u2019ensi kabaka wo bw\u2019aba nga wa lulyo lulangira, ate nga n\u2019abalangira bo bamanyi ekiseera eky\u2019okuliiramu, olw\u2019okufuna amaanyi so si lwa kutamiira."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Obugayaavu buleetera akasolya k\u2019ennyumba okutonnya, n\u2019emikono egitayagala kukola gireetera ennyumba okutonnya."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ekijjulo kikolebwa lwa kusanyuka, ne wayini yeeyagaza obulamu, naye ensimbi y\u2019esobola byonna."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Tokolimira kabaka mu mutima gwo newaakubadde okukolimira omugagga mu kisenge kyo, kubanga ennyonyi ey\u2019omu bbanga eyinza okwetikka ebigambo byo nga biwandiikiddwa ku biwaawaatiro byayo n\u2019ebibatuusaako."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bw\u2019ogaba Katonda Akuddizaawo - Siganga emmere yo ng\u2019enkuba etonnya, kubanga ebbanga lyayo bwe lirituuka olikungula."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Gabiranga musanvu weewaawo munaana, kubanga mu biseera eby\u2019oluvannyuma oyinza okubeera mu kwetaaga."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ebire bwe bijjula amazzi, bitonnyesa enkuba ku nsi; n\u2019omuti bwe gugwa nga gwolekedde obukiikaddyo oba obukiikakkono, mu kifo mwe gugwa mwe gulibeera."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Oyo alabirira embuyaga talisiga; n\u2019oyo atunuulira ebire talikungula."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nga bw\u2019otosobola kutegeera kkubo mpewo, oba omubiri nga bwe guzimbibwa ku mwana ali mu lubuto; bw\u2019otyo bw\u2019otosobola kutegeera Katonda Omutonzi wa byonna by\u2019akola."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ku makya siga ensigo zo, n\u2019akawungeezi toddiriza mukono gwo; kubanga tomanyi eziryala, zino oba ziri, oba zombi ziriba nnungi."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ekitangaala kirungi, era okulaba ku musana kisanyusa."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kale omuntu bw\u2019awangaala emyaka emingi, agisanyukirengamu gyonna, naye ajjukirenga nti waliwo ennaku ez\u2019ekizikiza nnyingi ezijja. Ebyo byonna ebijja butaliimu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Omuvubuka sanyukiranga mu buvubuka bwo, n\u2019omutima gwo gusanyukenga mu nnaku ez\u2019obuvubuka bwo; tambulira mu makubo g\u2019omutima gwo ne mu kulaba kw\u2019amaaso go. Naye manya nga mu byonna, Katonda agenda kukusalira omusango."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Noolwekyo ggyawo okweraliikirira mu mutima era weggyeko emitawaana mu ggwe, kubanga obuvubuka n\u2019amaanyi gaabwe butaliimu."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ennaku ze Tumala ku Nsi - Jjukiranga omutonzi wo mu nnaku ez\u2019obuvubuka bwo, ng\u2019ennaku embi tezinnakutuukako n\u2019emyaka nga teginnasembera, mw\u2019olyogerera nti, \u201cSizisanyukira\u201d;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "ng\u2019enjuba n\u2019obutangaavu, omwezi n\u2019emmunyeenye nga tebinnafuuka kizikiza; nga n\u2019ebire biweddemu enkuba;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "abakuumi b\u2019enju mwe balikankanira, n\u2019abasajja ab\u2019amaanyi mwe bakutamizibwa, nga n\u2019abo abasa baleseeyo okusa, kubanga batono, n\u2019abo abalingiza mu butuli nga tebakyalaba;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "nga n\u2019enzigi ez\u2019olekedde enguudo zigaddwawo, n\u2019eddoboozi ly\u2019okusa nga livumbedde; ng\u2019abasajja bagolokoka olw\u2019eddoboozi ly\u2019ennyonyi, naye nga ennyimba zaabwe zivumbedde;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "nga batya buli kiwanvu n\u2019akabi akali mu nguudo, ng\u2019omubira gumulisizza, ng\u2019enseenene yeewalula era nga tewakyali alimu keetaaga kino oba kiri. Omuntu n\u2019agenda mu nnyumba ye gy\u2019alimala ekiseera ekiwanvu n\u2019abakungubazi ne babuna enguudo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jjukira omutonzi wo ng\u2019omuguwa gwa ffeeza tegunnakutuka oba ebbakuli eya zaabu nga tennayatika, ng\u2019ensuwa tennayatikira ku luzzi obanga ne nnamuziga tennamenyekera ku luzzi,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "ng\u2019enfuufu edda mu ttaka mwe yava, n\u2019omwoyo ne gudda eri Katonda eyaguwa omuntu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Obutaliimu! Obutaliimu! Omubuulizi bw\u2019agamba, \u201cBuli kintu butaliimu.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ebikomererayo - Omubuulizi teyali mugezi kyokka, wabula yayigiriza n\u2019abantu eby\u2019amagezi. Yalowooza n\u2019anoonyereza n\u2019ayiiyaayo engero nnyingi."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Omubuulizi yanoonyereza n\u2019afuna ebigambo ebituufu byennyini, ne bye yawandiika byali byesimbu era nga bya mazima."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ebigambo by\u2019abantu abagezi biri ng\u2019emiwunda, engero zino ezaku\u014b\u014baanyizibwa omusumba omu ziri ng\u2019emisumaali egyakomererwa ne ginywezebwa ennyo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mwana wange weekuume ekintu kyonna ekyongerwako. Okuwandiika ebitabo ebingi tekukoma, n\u2019okuyiga okungi kukooya omubiri."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kale byonna biwuliddwa; eno y\u2019enkomerero yaabyo: Tyanga Katonda okwatenga amateeka ge, kubanga ekyo omuntu ky\u2019agwanira okukola."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kubanga Katonda alisala omusango olwa buli kikolwa; ekyo ekyakwekebwa, nga kirungi oba nga kibi."
+                }
+            }
+        }
+    }
+}

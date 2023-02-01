@@ -1,0 +1,633 @@
+{
+    "version": "SZPL",
+    "book_name": "Galatians",
+    "book_nr": "48",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pozdrowienie - Ja, Pawe\u0142, nie zosta\u0142em powo\u0142any na aposto\u0142a przez ludzi, lecz przez samego Jezusa Chrystusa i Boga Ojca, kt\u00f3ry wskrzesi\u0142 Go z martwych."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dlatego razem z wierz\u0105cymi, kt\u00f3rzy s\u0105 ze mn\u0105, pisz\u0119 do ko\u015bcio\u0142\u00f3w w Galicji."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Niech B\u00f3g, nasz Ojciec, i Pan, Jezus Chrystus, obdarzaj\u0105 was swoj\u0105 \u0142ask\u0105 i pokojem!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jezus ofiarowa\u0142 siebie za nasze grzechy, aby wyrwa\u0107 nas z tego z\u0142ego \u015bwiata. A dokona\u0142 tego zgodnie z planem Boga, naszego Ojca,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "kt\u00f3remu nale\u017cy si\u0119 wieczna chwa\u0142a. Amen!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nie ma innej dobrej nowiny - Jestem zdumiony tym, \u017ce tak szybko odchodzicie od Boga, kt\u00f3ry w swojej \u0142asce powo\u0142a\u0142 was do \u017cycia w Chrystusie, i \u017ce szukacie innej dobrej nowiny. Ale innej dobrej nowiny nie ma!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "S\u0105 tylko ludzie, kt\u00f3rzy oszukuj\u0105 was i chc\u0105 zmieni\u0107 tre\u015b\u0107 nowiny o Chrystusie."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Gdyby jednak kto\u015b\u2014nawet jaki\u015b wierz\u0105cy z naszego grona albo anio\u0142 z nieba!\u2014przedstawi\u0142 wam dobr\u0105 nowin\u0119 inn\u0105 od tej, kt\u00f3r\u0105 od nas us\u0142yszeli\u015bcie, niech b\u0119dzie przekl\u0119ty!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jeszcze raz to powt\u00f3rz\u0119: Je\u015bli ktokolwiek g\u0142osi\u0142by wam dobr\u0105 nowin\u0119 inn\u0105 od tej, kt\u00f3r\u0105 ju\u017c przyj\u0119li\u015bcie, niech b\u0119dzie przekl\u0119ty!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jak my\u015blicie? Czy m\u00f3wi\u0105c to chc\u0119 zdoby\u0107 przychylno\u015b\u0107 ludzi, czy Boga? Czy chc\u0119 w ten spos\u00f3b zadowoli\u0107 jakiego\u015b cz\u0142owieka? Je\u015bli taki by\u0142by m\u00f3j cel, nie by\u0142bym dobrym s\u0142ug\u0105 Chrystusa."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pawe\u0142 powo\u0142any przez Boga - Przyjaciele, zapewniam was, \u017ce g\u0142oszona przeze mnie dobra nowina nie zosta\u0142a wymy\u015blona przez ludzi."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nie przekaza\u0142 mi jej \u017caden cz\u0142owiek ani od nikogo si\u0119 jej nie nauczy\u0142em. Objawi\u0142 mi j\u0105 osobi\u015bcie sam Jezus Chrystus!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wiecie zapewne, \u017ce kiedy\u015b, jako wyznawca judaizmu, bezlito\u015bnie prze\u015bladowa\u0142em ko\u015bci\u00f3\u0142 Bo\u017cy i pr\u00f3bowa\u0142em go zniszczy\u0107."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "By\u0142em chyba najgorliwszy ze wszystkich ludzi w kraju\u2014sta\u0142em si\u0119 wr\u0119cz fanatykiem tradycji naszych przodk\u00f3w."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "B\u00f3g jednak wybra\u0142 mnie jeszcze przed moim urodzeniem i przyci\u0105gn\u0105\u0142 mnie do siebie swoj\u0105 \u0142ask\u0105."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Uczyni\u0142 to, aby przeze mnie objawi\u0107 \u015bwiatu swojego Syna i abym przekaza\u0142 poganom dobr\u0105 nowin\u0119 o Jezusie. Gdy pozna\u0142em Jezusa, nikogo nie pyta\u0142em, co mam robi\u0107."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nie poszed\u0142em nawet do Jerozolimy\u2014do tych, kt\u00f3rzy zostali aposto\u0142ami wcze\u015bniej ode mnie. Skierowa\u0142em si\u0119 w\u00f3wczas do Arabii, a potem wr\u00f3ci\u0142em do Damaszku."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dopiero po trzech latach uda\u0142em si\u0119 do Jerozolimy, aby odwiedzi\u0107 Piotra. Sp\u0119dzi\u0142em z nim jednak tylko pi\u0119tna\u015bcie dni."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Spo\u015br\u00f3d innych aposto\u0142\u00f3w nie spotka\u0142em w\u00f3wczas nikogo opr\u00f3cz Jakuba, brata naszego Pana."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "A B\u00f3g mi \u015bwiadkiem, \u017ce m\u00f3wi\u0105c to, nie k\u0142ami\u0119."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zaraz po tym skierowa\u0142em si\u0119 w okolice Syrii i Cylicji,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "tak \u017ce wierz\u0105cy z ko\u015bcio\u0142\u00f3w Chrystusa w Judei nie wiedzieli nawet, jak wygl\u0105dam."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "S\u0142yszeli jedynie wie\u015bci o tym, \u017ce ich dawny prze\u015bladowca g\u0142osi teraz wiar\u0119, kt\u00f3r\u0105 przedtem zwalcza\u0142."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "I z mojego powodu wielbili Boga."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pawe\u0142 uznany przez aposto\u0142\u00f3w - Dopiero po czternastu latach powt\u00f3rnie uda\u0142em si\u0119 do Jerozolimy, tym razem z Barnab\u0105. Zabrali\u015bmy te\u017c ze sob\u0105 Tytusa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Poszed\u0142em tam ze wzgl\u0119du na wyra\u017any nakaz Boga. B\u0119d\u0105c na miejscu, przedstawi\u0142em tamtejszym wierz\u0105cym dobr\u0105 nowin\u0119, kt\u00f3r\u0105 g\u0142osz\u0119 poganom. Wcze\u015bniej jednak spotka\u0142em si\u0119 z ich przyw\u00f3dcami, nie chcia\u0142em bowiem, aby moja wcze\u015bniejsza lub obecna praca posz\u0142a na marne."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ostatecznie uznano, \u017ce Tytus, kt\u00f3ry przyby\u0142 ze mn\u0105, nie musi poddawa\u0107 si\u0119 obrz\u0119dowi obrzezania, chocia\u017c by\u0142 z pochodzenia poganinem."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kontrowersje dotycz\u0105ce \u017cydowskich nakaz\u00f3w - Kwestia ta w og\u00f3le nie zosta\u0142aby poruszona, gdyby nie kilku ludzi, kt\u00f3rzy podszyli si\u0119 pod wierz\u0105cych. W\u015blizgn\u0119li si\u0119 oni na nasze spotkanie, aby zobaczy\u0107, jak korzystamy z wolno\u015bci, kt\u00f3r\u0105 otrzymali\u015bmy od Jezusa Chrystusa. Chcieli bowiem nak\u0142oni\u0107 nas do przestrzegania nakaz\u00f3w judaizmu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "W niczym jednak nie ust\u0105pili\u015bmy im. Chcieli\u015bmy bowiem zachowa\u0107 dla was prawd\u0119 dobrej nowiny."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Wspomniani wcze\u015bniej przyw\u00f3dcy z Jerozolimy nie na\u0142o\u017cyli na nas \u017cadnych dodatkowych obowi\u0105zk\u00f3w. A trzeba doda\u0107, \u017ce ciesz\u0105 si\u0119 oni ogromnym autorytetem. Jednak dla mnie pozycja cz\u0142owieka ani jego przesz\u0142o\u015b\u0107 nie jest istotna\u2014B\u00f3g przecie\u017c traktuje wszystkich ludzi jednakowo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nie na\u0142o\u017cono wi\u0119c na nas dodatkowych ci\u0119\u017car\u00f3w, a wr\u0119cz przeciwnie! Przyw\u00f3dcy ci stwierdzili, \u017ce podobnie jak Piotrowi powierzono g\u0142oszenie dobrej nowiny w\u015br\u00f3d \u017byd\u00f3w, tak mi powierzono g\u0142oszenie jej w\u015br\u00f3d pogan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A sprawc\u0105 tego wszystkiego jest B\u00f3g, kt\u00f3ry najpierw pos\u0142a\u0142 Piotra\u2014do \u017byd\u00f3w, a potem mnie\u2014do pogan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tak wi\u0119c Jakub, Piotr i Jan, uwa\u017cani za filary ko\u015bcio\u0142a, potwierdzili, \u017ce B\u00f3g zleci\u0142 mi t\u0119 szczeg\u00f3ln\u0105 misj\u0119. Dlatego podali mi i Barnabie d\u0142o\u0144 na znak jedno\u015bci. Odt\u0105d my nadal mieli\u015bmy g\u0142osi\u0107 dobr\u0105 nowin\u0119 w\u015br\u00f3d pogan, a oni\u2014w\u015br\u00f3d \u017byd\u00f3w."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Przypomnieli nam jedynie o potrzebie pomocy biednym, stara\u0142em si\u0119 wi\u0119c pami\u0119ta\u0107 o tym w mojej s\u0142u\u017cbie."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pawe\u0142 przeciwstawia si\u0119 Piotrowi - Gdy jednak Piotr odwiedzi\u0142 pewnego dnia Antiochi\u0119, otwarcie mu si\u0119 sprzeciwi\u0142em, poniewa\u017c na to zas\u0142u\u017cy\u0142."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Spo\u017cywa\u0142 bowiem posi\u0142ek razem z wierz\u0105cymi pochodzenia poga\u0144skiego, ale gdy nagle przybyli \u017cydowscy wierz\u0105cy, przys\u0142ani przez Jakuba, Piotr przerwa\u0142 posi\u0142ek i odsun\u0105\u0142 si\u0119 od nich. Ba\u0142 si\u0119 bowiem, \u017ce \u017cydowscy wierz\u0105cy zobacz\u0105, \u017ce\u2014jedz\u0105c z poganami\u2014\u0142amie Prawo Moj\u017cesza. Przybysze uwa\u017cali je bowiem za wi\u0105\u017c\u0105ce."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Widz\u0105c to, inni wierz\u0105cy \u017bydzi, zastani przy tym posi\u0142ku, zacz\u0119li na\u015bladowa\u0107 ob\u0142ud\u0119 Piotra, tak \u017ce w ko\u0144cu da\u0142 si\u0119 w to wci\u0105gn\u0105\u0107 nawet Barnaba."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Stwierdziwszy, \u017ce nie post\u0119puj\u0105 zgodnie z prawd\u0105 dobrej nowiny, powiedzia\u0142em Piotrowi przy wszystkich: \u201eJeste\u015b \u017bydem, ale b\u0119d\u0105c w\u015br\u00f3d pogan nie przestrzegasz \u017cydowskich praw. Jak wi\u0119c mo\u017cesz narzuca\u0107 je poganom?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Od urodzenia jeste\u015bmy \u017bydami, a nie poganami, kt\u00f3rzy nie przestrzegaj\u0105 Prawa Moj\u017cesza."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wiemy jednak, \u017ce B\u00f3g uniewinnia nie tych, kt\u00f3rzy przestrzegaj\u0105 Prawa, ale tych, kt\u00f3rzy wierz\u0105 Jezusowi Chrystusowi. Dlatego uwierzyli\u015bmy Mu, pragn\u0105c zosta\u0107 uniewinnieni przez Boga. Nie mogli\u015bmy bowiem osi\u0105gn\u0105\u0107 tego dzi\u0119ki przestrzeganiu Prawa. Na tej podstawie bowiem nikt nigdy nie zostanie uniewinniony ze swoich grzech\u00f3w."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Dlatego w\u0142a\u015bnie zabiegali\u015bmy o uniewinnienie dzi\u0119ki Chrystusowi. W ten spos\u00f3b przyznali\u015bmy, \u017ce my r\u00f3wnie\u017c jeste\u015bmy grzesznikami i potrzebujemy ratunku. Czy to jednak znaczy, \u017ce Chrystus nak\u0142oni\u0142 nas do grzechu? Absolutnie nie!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "To ja sam czyni\u0119 siebie przest\u0119pc\u0105, na nowo stawiaj\u0105c co\u015b, co wcze\u015bniej zburzy\u0142em."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ale to w\u0142a\u015bnie dzi\u0119ki Prawu przesta\u0142em istnie\u0107 dla Prawa, a \u017cyj\u0119 dla Boga. Razem z Chrystusem zosta\u0142em bowiem przybity do krzy\u017ca."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Sam nie kieruj\u0119 ju\u017c swoim \u017cyciem, lecz Chrystus \u017cyje we mnie i prowadzi mnie. Teraz \u017cyj\u0119 bowiem wierz\u0105c Synowi Bo\u017cemu, kt\u00f3ry ukocha\u0142 mnie i odda\u0142 za mnie \u017cycie."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "I nigdy nie zrezygnuj\u0119 z \u0142aski Boga! Je\u015bli kto\u015b twierdzi, \u017ce dzi\u0119ki przestrzeganiu Prawa mo\u017cna zosta\u0107 uniewinnionym przez Boga, to w takim razie po co umar\u0142 Chrystus?\u201d"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wiara albo Prawo Moj\u017cesza - Niem\u0105drzy Galacjanie! Kto wam tak namiesza\u0142 w g\u0142owach? Przecie\u017c dok\u0142adnie opowiedzia\u0142em wam o znaczeniu \u015bmierci Jezusa Chrystusa!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pozw\u00f3lcie, \u017ce zadam wam tylko jedno pytanie: Czy Ducha \u015awi\u0119tego otrzymali\u015bcie dlatego, \u017ce przestrzegali\u015bcie Prawa Moj\u017cesza, czy dlatego, \u017ce uwierzyli\u015bcie Jezusowi?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Chyba stracili\u015bcie rozum! Rozpocz\u0119li\u015bcie \u017cycie z Bogiem dzi\u0119ki Duchowi, a chcecie je doskonali\u0107 o w\u0142asnych si\u0142ach?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Czy na pr\u00f3\u017cno tyle wycierpieli\u015bcie? Chyba rzeczywi\u015bcie na pr\u00f3\u017cno\u2026"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Odpowiedzcie: Czy B\u00f3g da\u0142 wam Ducha \u015awi\u0119tego i dokona\u0142 w was niezwyk\u0142ych rzeczy dlatego, \u017ce przestrzegali\u015bcie Prawa, czy te\u017c dlatego, \u017ce uwierzyli\u015bcie Mu?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Przecie\u017c tak samo Abraham uwierzy\u0142 Bogu i na podstawie tej wiary zosta\u0142 uniewinniony."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zrozumcie wi\u0119c: prawdziwymi potomkami Abrahama s\u0105 ci, kt\u00f3rzy wierz\u0105 Bogu!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Co wi\u0119cej, Pismo ju\u017c wcze\u015bniej zapowiedzia\u0142o, \u017ce B\u00f3g przez wiar\u0119 zbawi pogan. Dlatego Abraham us\u0142ysza\u0142 t\u0119 dobr\u0105 nowin\u0119: \u201eDzi\u0119ki tobie b\u0119d\u0105 szcz\u0119\u015bliwe wszystkie narody\u201d."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tych wi\u0119c, kt\u00f3rzy wierz\u0105 Chrystusowi, spotyka to samo szcz\u0119\u015bcie, co wierz\u0105cego Abrahama."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tych za\u015b, kt\u00f3rzy chc\u0105 zdoby\u0107 przychylno\u015b\u0107 Boga poprzez przestrzeganie Prawa, spotka Jego gniew. Pismo m\u00f3wi: \u201ePrzekl\u0119ty b\u0119dzie ka\u017cdy, kto nie przestrzega wszystkiego, co zapisano w Prawie\u201d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Oczywiste jest wi\u0119c to, \u017ce nikt nie zostanie uniewinniony przez Boga z powodu przestrzegania Prawa. Napisano bowiem: \u201ePrawy cz\u0142owiek b\u0119dzie \u017cy\u0142 dzi\u0119ki wierze\u201d."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Natomiast droga wskazana przez Prawo Moj\u017cesza nie opiera si\u0119 na wierze, poniewa\u017c naucza, \u017ce cz\u0142owiek b\u0119dzie \u017cy\u0142 dzi\u0119ki przestrzeganiu Prawa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Chrystus wykupi\u0142 nas od przekle\u0144stwa p\u0142yn\u0105cego z Prawa. Umieraj\u0105c na drzewie krzy\u017ca, wzi\u0105\u0142 to przekle\u0144stwo na siebie, poniewa\u017c w Prawie napisane jest: \u201ePrzekl\u0119ty b\u0119dzie ka\u017cdy przest\u0119pca, stracony na drzewie\u201d."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "W ten spos\u00f3b, dzi\u0119ki \u015bmierci Chrystusa Jezusa, szcz\u0119\u015bcie Abrahama zosta\u0142o darowane r\u00f3wnie\u017c poganom. Wierz\u0105c Jezusowi, otrzymali\u015bmy wi\u0119c Ducha \u015awi\u0119tego, obiecanego przez Boga."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Prawo i obietnica - Przyjaciele, u\u017cyj\u0119 przyk\u0142adu z \u017cycia. Nikt nie lekcewa\u017cy ani nie zmienia podpisanej ju\u017c umowy, mimo \u017ce jest ona zawierana tylko mi\u0119dzy lud\u017ami."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Natomiast Abraham i jego potomek otrzymali obietnic\u0119 od Boga. Pismo nie m\u00f3wi o wielu potomkach, ale o jednym potomku, kt\u00f3rym jest Chrystus."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wniosek jest taki, \u017ce umowa zawarta przez Boga nie mo\u017ce by\u0107 uniewa\u017cniona przez Prawo Moj\u017cesza, nadane czterysta trzydzie\u015bci lat p\u00f3\u017aniej. Prawo to nie mo\u017ce te\u017c anulowa\u0107 obietnicy."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Je\u017celi musieliby\u015bmy przestrzega\u0107 Prawa, aby otrzyma\u0107 Bo\u017cy dar, to nie by\u0142by on ju\u017c w\u0142a\u015bciwie rezultatem Bo\u017cej obietnicy. A przecie\u017c Abraham do\u015bwiadczy\u0142 \u0142aski od Boga wskutek obietnicy."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Jaki by\u0142 zatem sens nadania Prawa Moj\u017cesza? Zosta\u0142o ono ustanowione z powodu ludzkich przest\u0119pstw i mia\u0142o funkcjonowa\u0107 do czasu nadej\u015bcia Potomka Abrahama, kt\u00f3ry otrzyma\u0142 obietnic\u0119. Anio\u0142owie przekazali Prawo Moj\u017ceszowi, jako mediatorowi mi\u0119dzy Bogiem a lud\u017ami."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Tam jednak, gdzie istnieje tylko jedna strona, nie potrzeba mediatora. A tak w\u0142a\u015bnie jest w przypadku Boga, kt\u00f3ry sk\u0142ada obietnic\u0119."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Czy to znaczy, \u017ce Prawo Moj\u017cesza jest sprzeczne z obietnic\u0105 Boga? Sk\u0105d\u017ce! Gdyby ustanowi\u0142 On Prawo daj\u0105ce ludziom \u017cycie, to rzeczywi\u015bcie dzi\u0119ki jego przestrzeganiu mo\u017cna by\u0142oby uzyska\u0107 uniewinnienie."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Pismo m\u00f3wi jednak, \u017ce wszyscy ludzie znajduj\u0105 si\u0119 w niewoli grzechu, a Bo\u017ca obietnica dotyczy tylko tych, kt\u00f3rzy uwierzyli Jezusowi Chrystusowi."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Do momentu przyj\u015bcia Chrystusa i nadej\u015bcia czasu wiary w Niego byli\u015bmy pilnowani przez Prawo Moj\u017cesza i podlegali\u015bmy mu."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Prawo to by\u0142o naszym wychowawc\u0105, prowadz\u0105cym nas do Chrystusa, aby\u015bmy uwierzyli Mu i zostali w ten spos\u00f3b uniewinnieni z grzech\u00f3w."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Teraz, gdy nasta\u0142 czas wiary, nie jeste\u015bmy ju\u017c pod opiek\u0105 wychowawcy!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Uwierzyli\u015bcie bowiem Chrystusowi i wszyscy stali\u015bcie si\u0119 dzie\u0107mi Boga!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Zostali\u015bcie zanurzeni w Chrystusa i jest On tak blisko was, jak ubranie, kt\u00f3re macie na sobie."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Nie ma ju\u017c wi\u0119c r\u00f3\u017cnicy mi\u0119dzy \u017bydem a poganinem, niewolnikiem a cz\u0142owiekiem wolnym, m\u0119\u017cczyzn\u0105 a kobiet\u0105\u2014zjednoczeni w Chrystusie Jezusie wszyscy stanowicie jedno\u015b\u0107."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "A skoro nale\u017cycie do Niego, jeste\u015bcie potomkami Abrahama i zgodnie z obietnic\u0105 otrzymujecie dar od Boga."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "B\u00f3g da\u0142 nam wolno\u015b\u0107 - Dop\u00f3ki spadkobierca jest nieletni, prawie nie r\u00f3\u017cni si\u0119 od s\u0142ugi, chocia\u017c jest w\u0142a\u015bcicielem wszystkiego."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Podlega bowiem swoim opiekunom i wychowawcom\u2014a\u017c minie czas wyznaczony przez ojca."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Podobnie by\u0142o z nami. Byli\u015bmy jak dzieci, poddane prawom tego \u015bwiata."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ale gdy nadszed\u0142 wyznaczony czas, B\u00f3g pos\u0142a\u0142 swojego Syna, urodzonego przez kobiet\u0119 i podlegaj\u0105cego Prawu Moj\u017cesza."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pos\u0142a\u0142 Go, aby wykupi\u0142 tych, kt\u00f3rzy \u017cyli w niewoli Prawa. Dzi\u0119ki temu zostali\u015bmy adoptowani przez Boga i stali\u015bmy si\u0119 Jego dzie\u0107mi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A poniewa\u017c jeste\u015bmy Jego dzie\u0107mi, B\u00f3g pos\u0142a\u0142 do naszych serc Ducha swojego Syna, dzi\u0119ki kt\u00f3remu mo\u017cemy zwraca\u0107 si\u0119 do Boga: \u201eAbba, Tato!\u201d."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Odt\u0105d nie jeste\u015b ju\u017c niewolnikiem, ale wolnym dzieckiem Boga\u2014a tym samym Jego spadkobierc\u0105."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Troska Paw\u0142a o Galacjan - Zanim poznali\u015bcie Boga, byli\u015bcie niewolnikami nieprawdziwych bo\u017ck\u00f3w."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A teraz, gdy ju\u017c Go poznali\u015bcie\u2014cho\u0107 w\u0142a\u015bciwie to On pozna\u0142 was\u2014jak mo\u017cecie wraca\u0107 do rzeczy, kt\u00f3re nie maj\u0105 mocy ani warto\u015bci? Znowu chcecie sta\u0107 si\u0119 ich niewolnikami?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Przestrzegacie \u015bwi\u0119tych dni, miesi\u0119cy, specjalnych okres\u00f3w i lat."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Martwi\u0119 si\u0119 o was! Czy ca\u0142a moja mozolna praca nad wami posz\u0142a na marne?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Rozczarowanie Paw\u0142a - Przyjaciele, b\u0142agam was, bierzcie ze mnie przyk\u0142ad, podobnie jak wcze\u015bniej ja wzi\u0105\u0142em przyk\u0142ad z was. Nie dozna\u0142em od was krzywdy,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "chocia\u017c na pewno pami\u0119tacie, w jakim by\u0142em stanie, gdy przynios\u0142em wam dobr\u0105 nowin\u0119."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pomimo mojej choroby, nie zlekcewa\u017cyli\u015bcie mnie ani nie odrzucili\u015bcie. Wr\u0119cz przeciwnie, przyj\u0119li\u015bcie mnie jak Bo\u017cego anio\u0142a lub samego Jezusa Chrystusa."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Gdzie si\u0119 wi\u0119c podzia\u0142a wasza rado\u015b\u0107? Przypomn\u0119 wam, \u017ce byli\u015bcie wtedy gotowi zrobi\u0107 dla mnie wszystko, nawet odda\u0107 mi swoje oczy, gdyby to mog\u0142o ul\u017cy\u0107 moim cierpieniom."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Czy teraz sta\u0142em si\u0119 waszym wrogiem, dlatego \u017ce m\u00f3wi\u0119 wam prawd\u0119?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ci, kt\u00f3rzy narzucaj\u0105 wam zb\u0119dne przykazania, staraj\u0105 si\u0119 zdoby\u0107 wasz\u0105 przychylno\u015b\u0107, ale nie czyni\u0105 tego dla waszego dobra! Usi\u0142uj\u0105 bowiem oderwa\u0107 was ode mnie i poci\u0105gn\u0105\u0107 za sob\u0105."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dobrze jest jednak pod\u0105\u017ca\u0107 za tym, co dobre, i to nie tylko wtedy, gdy jestem w\u015br\u00f3d was."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Moje dzieci! Czuj\u0119 si\u0119, jakbym ponownie w b\u00f3lach wydawa\u0142 was na \u015bwiat, czekaj\u0105c a\u017c Chrystus w pe\u0142ni ukszta\u0142tuje wasze \u017cycie."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Chcia\u0142bym teraz by\u0107 w\u015br\u00f3d was i m\u00f3c inaczej, \u0142agodniej porozmawia\u0107 z wami. Tak bardzo si\u0119 o was niepokoj\u0119!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Hagar i Sara - Odpowiedzcie mi wy, kt\u00f3rzy chcecie podda\u0107 si\u0119 Prawu Moj\u017cesza: Czy w og\u00f3le rozumiecie to Prawo?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Napisane jest w nim, \u017ce Abraham mia\u0142 dw\u00f3ch syn\u00f3w. Jeden by\u0142 synem niewolnicy, drugi\u2014wolnej kobiety."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Syn niewolnicy urodzi\u0142 si\u0119 dzi\u0119ki ludzkiemu planowi, ale syn wolnej\u2014dzi\u0119ki obietnicy Boga."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Kobiety te stanowi\u0105 symbol dw\u00f3ch przymierzy. Hagar, niewolnica, symbolizuje przymierze zawarte na g\u00f3rze Synaj, kt\u00f3re podda\u0142o ludzi w niewol\u0119 Prawa."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Hagar jest r\u00f3wnie\u017c symbolem g\u00f3ry Synaj w Arabii, kt\u00f3rej odpowiednikiem jest obecnie Jerozolima. Ona bowiem, wraz ze swoimi mieszka\u0144cami, nadal znajduje si\u0119 w niewoli Prawa."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Sara, kt\u00f3ra by\u0142a wolna, symbolizuje natomiast Jerozolim\u0119 w niebie\u2014nasz\u0105 \u201ematk\u0119\u201d."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "O tym w\u0142a\u015bnie czytamy w Pi\u015bmie: \u201eRaduj si\u0119, kobieto, kt\u00f3ra nigdy nie rodzi\u0142a\u015b dzieci. Krzycz i wo\u0142aj, cho\u0107 nie dozna\u0142a\u015b b\u00f3l\u00f3w rodzenia. Samotna b\u0119dzie bowiem mia\u0142a wi\u0119cej dzieci ni\u017c ta, kt\u00f3ra ma m\u0119\u017ca\u201d."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Przyjaciele! Tak jak Izaak\u2014syn Sary\u2014jeste\u015bcie dzie\u0107mi urodzonymi zgodnie z obietnic\u0105 Boga."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "A wiemy, \u017ce Izmael\u2014syn Hagar\u2014kt\u00f3ry urodzi\u0142 si\u0119 dzi\u0119ki ludzkim planom, prze\u015bladowa\u0142 Izaaka, urodzonego dzi\u0119ki Duchowi \u015awi\u0119temu. Podobnie jest z wami\u2014wy r\u00f3wnie\u017c jeste\u015bcie prze\u015bladowani."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Co na ten temat m\u00f3wi Pismo? \u201eOde\u015blij niewolnic\u0119 i jej syna, gdy\u017c syn niewolnicy nie b\u0119dzie spadkobierc\u0105 razem z synem wolnej\u201d."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Przyjaciele! Nie jeste\u015bmy niewolnikami, ale lud\u017ami wolnymi!"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Wolno\u015b\u0107 w Chrystusie - Chrystus da\u0142 nam wolno\u015b\u0107. Strze\u017ccie wi\u0119c tej wolno\u015bci i nie dajcie si\u0119 niczym zniewoli\u0107!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ja, Pawe\u0142, zapewniam was, \u017ce je\u015bli poddacie si\u0119 obrz\u0119dowi obrzezania, s\u0105dz\u0105c, \u017ce dzi\u0119ki temu zostaniecie uniewinnieni przez Boga, to Chrystus na nic si\u0119 wam nie przyda."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ponownie uprzedzam was, \u017ce ten, kto poddaje si\u0119 obrzezaniu, jest zobowi\u0105zany do przestrzegania ca\u0142ego Prawa Moj\u017cesza."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Wy, kt\u00f3rzy pragniecie dost\u0105pi\u0107 uniewinnienia dzi\u0119ki przestrzeganiu Prawa, wiedzcie, \u017ce zerwali\u015bcie z Chrystusem\u2014sami pozbawili\u015bcie si\u0119 Bo\u017cej \u0142aski!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "My natomiast, zapewnieni przez Ducha \u015awi\u0119tego, ufamy, \u017ce B\u00f3g uniewinni nas dlatego, \u017ce wierzymy Jezusowi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Je\u015bli kto\u015b bowiem wierzy Chrystusowi Jezusowi, to obrzezanie lub jego brak nie maj\u0105 w jego przypadku \u017cadnego znaczenia; liczy si\u0119 tylko jego wiara, kt\u00f3ra objawia si\u0119 w mi\u0142o\u015bci do innych."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tak dobrze wystartowali\u015bcie! Kto wam przeszkodzi\u0142 biec drog\u0105 prawdy?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Z pewno\u015bci\u0105 nie Ten, kt\u00f3ry was powo\u0142a\u0142 do wolno\u015bci."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pami\u0119tajcie, \u017ce odrobina kwasu przenika ca\u0142e ciasto."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Pan da\u0142 mi przekonanie, \u017ce zgodzicie si\u0119 ze mn\u0105. Ten za\u015b, kt\u00f3ry sieje w\u015br\u00f3d was zam\u0119t, kimkolwiek jest, poniesie kar\u0119."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Niekt\u00f3rzy twierdz\u0105 jednak, \u017ce nawet ja sam wzywa\u0142em pogan do poddania si\u0119 obrzezaniu. Je\u015bli taka jest prawda, to dlaczego jestem prze\u015bladowany przez \u017cydowskich przyw\u00f3dc\u00f3w? Gdybym naucza\u0142 ludzi, \u017ce maj\u0105 podda\u0107 si\u0119 obrzezaniu, to dobra nowina o \u015bmierci Chrystusa na krzy\u017cu nie spotyka\u0142aby si\u0119 przecie\u017c z takim sprzeciwem."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Oby ci, kt\u00f3rzy was podburzaj\u0105 i nak\u0142aniaj\u0105 do obrzezania, sami sobie co\u015b odci\u0119li."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Przyjaciele, zostali\u015bcie powo\u0142ani do \u017cycia w wolno\u015bci. Nie po to jednak, aby goni\u0107 za przyjemno\u015bciami, ale aby okazywa\u0107 innym mi\u0142o\u015b\u0107 i pomaga\u0107 im."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ca\u0142e Prawo Moj\u017cesza streszcza si\u0119 bowiem w jednym przykazaniu: \u201eKochaj innych ludzi jak samego siebie!\u201d."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Je\u015bli wi\u0119c zachowujecie si\u0119 jak dzikie zwierz\u0119ta, k\u0105saj\u0105ce si\u0119 nawzajem i skacz\u0105ce innym do oczu, to uwa\u017cajcie, \u017ceby\u015bcie si\u0119 przypadkiem nawzajem nie po\u017carli."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u017bycie poddane Duchowi \u015awi\u0119temu - Pos\u0142uchajcie mnie! Niech waszym \u017cyciem kieruje Duch \u015awi\u0119ty, a wtedy nie b\u0119dziecie ulega\u0107 grzesznym pragnieniom."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pomi\u0119dzy Duchem a ludzkimi grzesznymi pragnieniami istnieje bowiem konflikt. Si\u0142y te s\u0105 sobie przeciwne, dlatego nie mo\u017cecie \u017cy\u0107 tak, jak czujecie, \u017ce powinni\u015bcie."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Je\u017celi jednak pozwolicie si\u0119 prowadzi\u0107 Duchowi \u015awi\u0119temu, Prawo Moj\u017cesza nie b\u0119dzie mia\u0142o nad wami \u017cadnej w\u0142adzy."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Uleganie grzesznym ludzkim pragnieniom prowadzi do: rozwi\u0105z\u0142o\u015bci seksualnej, nieczysto\u015bci, niemoralno\u015bci,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "oddawania czci podobiznom bo\u017ck\u00f3w, czar\u00f3w, nienawi\u015bci, k\u0142\u00f3tliwo\u015bci, zazdro\u015bci, gniewu, egoistycznych ambicji, niezgody, roz\u0142am\u00f3w,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "zawi\u015bci, pija\u0144stwa, hucznych imprez i innych tego typu zachowa\u0144. Po raz kolejny przypominam wam, \u017ce ci, kt\u00f3rzy tak \u017cyj\u0105, nie wejd\u0105 do kr\u00f3lestwa Bo\u017cego."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Natomiast owocem dzia\u0142ania Ducha \u015awi\u0119tego jest: mi\u0142o\u015b\u0107, rado\u015b\u0107, wewn\u0119trzny pok\u00f3j, cierpliwo\u015b\u0107, uprzejmo\u015b\u0107, dobro\u0107, wierno\u015b\u0107,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u0142agodno\u015b\u0107, opanowanie. Takim post\u0119powaniem nie \u0142amie si\u0119 Prawa."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ci za\u015b, kt\u00f3rzy nale\u017c\u0105 do Chrystusa, przybili do Jego krzy\u017ca swoje ludzkie sk\u0142onno\u015bci i grzeszne pragnienia."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Skoro wi\u0119c \u017cyjemy dzi\u0119ki Duchowi \u015awi\u0119temu, to pozw\u00f3lmy, aby On nas prowadzi\u0142."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "I nie szukajmy taniej popularno\u015bci, kt\u00f3ra prowadzi do wzajemnych nieporozumie\u0144 i zawi\u015bci."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Przyjaciele! Je\u015bli jaki\u015b wierz\u0105cy popadnie w grzech, wtedy wy, b\u0119d\u0105c pos\u0142uszni Duchowi, w \u0142agodny spos\u00f3b skierujcie go na dobr\u0105 drog\u0119. Uwa\u017cajcie jednak, aby\u015bcie sami r\u00f3wnie\u017c nie zgrzeszyli."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pomagajcie sobie wzajemnie w trudnych sytuacjach, w ten spos\u00f3b bowiem wype\u0142nicie prawo Chrystusa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ten za\u015b, kto uwa\u017ca si\u0119 za lepszego od innych, oszukuje samego siebie."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Oceniajcie w\u0142asne zachowanie i b\u0105d\u017acie dumni z waszych sukces\u00f3w, ale nie por\u00f3wnujcie si\u0119 z innymi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ka\u017cdy bowiem sam odpowie za swoje post\u0119powanie."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ci, kt\u00f3rzy s\u0142uchaj\u0105 s\u0142owa Bo\u017cego, powinni wspiera\u0107 finansowo swoich nauczycieli."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zach\u0119ta do wytrwa\u0142o\u015bci - Nie \u0142ud\u017acie si\u0119! Boga nie da si\u0119 oszuka\u0107! Ka\u017cdy cz\u0142owiek zbierze to, co zasia\u0142."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tego, kto zaspokaja swoje grzeszne pragnienia, spotka \u015bmier\u0107. Ten za\u015b, kto jest pos\u0142uszny Duchowi \u015awi\u0119temu, otrzyma dar \u017cycia wiecznego."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Je\u015bli b\u0119dziemy wytrwale czyni\u0107 dobro, to we w\u0142a\u015bciwym czasie odbierzemy wspania\u0142\u0105 nagrod\u0119."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dlatego, gdy tylko mamy okazj\u0119, b\u0105d\u017amy dobrzy dla innych ludzi, a szczeg\u00f3lnie dla innych wierz\u0105cych. Oni s\u0105 bowiem nasz\u0105 rodzin\u0105."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "B\u00f3g uczyni\u0142 nas nowymi lud\u017ami - Sp\u00f3jrzcie na te wielkie litery. Tak, to moje w\u0142asnor\u0119czne pismo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ci, kt\u00f3rzy nak\u0142aniaj\u0105 was do poddania si\u0119 obrzezaniu, chc\u0105 zadowoli\u0107 ludzi i unikn\u0105\u0107 prze\u015bladowa\u0144. Wiedz\u0105 bowiem, \u017ce nauka o \u015bmierci Chrystusa na krzy\u017cu powoduje wielki sprzeciw."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mimo \u017ce poddaj\u0105 si\u0119 obrzezaniu, sami nie przestrzegaj\u0105 Prawa Moj\u017cesza. Namawiaj\u0105 was jednak do tego, aby si\u0119 potem chwali\u0107, \u017ce jeste\u015bcie ich uczniami."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Je\u015bli o mnie chodzi, to nie daj Bo\u017ce, abym chwali\u0142 si\u0119 czym\u015b innym ni\u017c krzy\u017cem Jezusa Chrystusa, naszego Pana. Z powodu tego krzy\u017ca \u015bwiat przesta\u0142 si\u0119 dla mnie liczy\u0107, a ja jestem stracony dla \u015bwiata."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Obrzezanie lub jego brak nie ma ju\u017c wi\u0119c \u017cadnego znaczenia. Naprawd\u0119 liczy si\u0119 tylko to, \u017ce B\u00f3g uczyni\u0142 nas nowymi lud\u017ami."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Niech On sam obdarzy pokojem i mi\u0142o\u015bci\u0105 tych, kt\u00f3rzy tak wierz\u0105! S\u0105 oni bowiem prawdziwym Bo\u017cym Izraelem."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Na moim ciele mam blizny po prze\u015bladowaniach, kt\u00f3re spotka\u0142y mnie z powodu Jezusa. S\u0105 one dowodem mojej przynale\u017cno\u015bci do Niego. Prosz\u0119 wi\u0119c, nie sprawiajcie mi ju\u017c wi\u0119cej k\u0142opot\u00f3w."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Przyjaciele, niech Jezus Chrystus, nasz Pan, obdarza was swoj\u0105 \u0142ask\u0105! Amen!"
+                }
+            }
+        }
+    }
+}

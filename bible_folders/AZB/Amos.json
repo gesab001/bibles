@@ -1,0 +1,636 @@
+{
+    "version": "AZB",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bu, Teqoada s\u00fcr\u00fc sahibl\u0259rind\u0259n biri olan Amosun s\u00f6zl\u0259ridir. O, Y\u0259huda pad\u015fah\u0131 Uzziyan\u0131n v\u0259 \u0130srail pad\u015fah\u0131 Yoa\u015f o\u011flu Yarovam\u0131n d\u00f6vr\u00fcnd\u0259 \u2013 b\u00f6y\u00fck z\u0259lz\u0259l\u0259d\u0259n iki il qabaq \u0130srail bar\u0259d\u0259 bel\u0259 g\u00f6r\u00fcnt\u00fc g\u00f6rm\u00fc\u015fd\u00fc."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Amos bel\u0259 dedi: \u00abR\u0259bb Siondan n\u0259r\u0259 \u00e7\u0259kir, Yerus\u0259limd\u0259n gurulday\u0131r. Bundan otlaqlar solur, Karmel da\u011f\u0131n\u0131n ba\u015f\u0131 quruyur."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201cD\u0259m\u0259\u015fqlil\u0259rin \u00fc\u00e7-d\u00f6rd qat g\u00fcnah\u0131na g\u00f6r\u0259 Onlar\u0131 c\u0259zas\u0131z buraxmayaca\u011fam, \u00c7\u00fcnki onlar Gilead\u0131 d\u0259mirdi\u015fli v\u0259ll\u0259rl\u0259 d\u00f6yd\u00fc."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Buna g\u00f6r\u0259 d\u0259 Xazaelin saray\u0131na od ya\u011fd\u0131raca\u011fam ki, Ben-Hadad\u0131n qalalar\u0131n\u0131 yand\u0131r\u0131b-yaxs\u0131n."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "D\u0259m\u0259\u015fqin darvazalar\u0131n\u0131n s\u00fcrg\u00fcl\u0259rini q\u0131raca\u011fam, Aven d\u0259r\u0259sind\u0259n \u0259halini silib-ataca\u011fam, Bet-Edend\u0259n \u0259sa g\u0259zdir\u0259ni k\u0259s\u0259c\u0259y\u0259m, Aram xalq\u0131 Qir\u0259 s\u00fcrg\u00fcn\u0259 apar\u0131lacaq\u201d R\u0259bb bel\u0259 deyir."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201cQ\u0259zz\u0259lil\u0259rin \u00fc\u00e7-d\u00f6rd qat g\u00fcnah\u0131na g\u00f6r\u0259 Onlar\u0131 c\u0259zas\u0131z buraxmayaca\u011fam. \u00c7\u00fcnki onlar b\u00fct\u00fcn camaat\u0131 \u0259sir edib Edoma t\u0259slim etdi."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Buna g\u00f6r\u0259 d\u0259 Q\u0259zz\u0259nin divarlar\u0131na od ya\u011fd\u0131raca\u011fam ki, Oran\u0131n qalalar\u0131n\u0131 yand\u0131r\u0131b-yaxs\u0131n."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A\u015fdoddan \u0259halini silib-ataca\u011fam, A\u015fqelondan \u0259sa g\u0259zdir\u0259ni k\u0259s\u0259c\u0259y\u0259m. Eqrona qar\u015f\u0131 \u0259limi qald\u0131raca\u011fam, Qalan Fili\u015ftlil\u0259r d\u0259 yox olacaqlar\u201d Xudav\u0259nd R\u0259bb bel\u0259 deyir."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201cSurlular\u0131n \u00fc\u00e7-d\u00f6rd qat g\u00fcnah\u0131na g\u00f6r\u0259 Onlar\u0131 c\u0259zas\u0131z buraxmayaca\u011fam, \u00c7\u00fcnki onlar b\u00fct\u00fcn camaat\u0131 Edoma \u0259sir edib qarda\u015fl\u0131q \u0259hdini pozdu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Buna g\u00f6r\u0259 d\u0259 Surun divarlar\u0131na od ya\u011fd\u0131raca\u011fam ki, Oran\u0131n qalalar\u0131n\u0131 yand\u0131r\u0131b-yaxs\u0131n\u201d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201cEdomlular\u0131n \u00fc\u00e7-d\u00f6rd qat g\u00fcnah\u0131na g\u00f6r\u0259 Onlar\u0131 c\u0259zas\u0131z buraxmayaca\u011fam, \u00c7\u00fcnki onlar m\u0259rh\u0259m\u0259t hissini q\u0131l\u0131ncla bo\u011fub qarda\u015f xalq\u0131 qovdular, He\u00e7 vaxt az\u011f\u0131nl\u0131qlar\u0131n\u0131n qar\u015f\u0131s\u0131n\u0131 almad\u0131lar v\u0259 y\u0131rt\u0131c\u0131l\u0131q etdil\u0259r."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Buna g\u00f6r\u0259 d\u0259 Temana od ya\u011fd\u0131raca\u011fam ki, Bosran\u0131n qalalar\u0131n\u0131 yand\u0131r\u0131b-yaxs\u0131n\u201d."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201cAmmonlular\u0131n \u00fc\u00e7-d\u00f6rd qat g\u00fcnah\u0131na g\u00f6r\u0259 Onlar\u0131 c\u0259zas\u0131z buraxmayaca\u011fam, \u00c7\u00fcnki onlar \u0259razil\u0259rini geni\u015fl\u0259ndirm\u0259k \u00fc\u00e7\u00fcn Gileadda hamil\u0259 qad\u0131nlar\u0131n qar\u0131nlar\u0131n\u0131 y\u0131rtd\u0131lar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Buna g\u00f6r\u0259 d\u0259 Rabban\u0131n divar\u0131na od vuraca\u011fam ki, Oran\u0131n qalalar\u0131n\u0131 yand\u0131r\u0131b-yaxs\u0131n. Bu yer d\u00f6y\u00fc\u015f zaman\u0131 q\u0131\u015fq\u0131rt\u0131 il\u0259, Qas\u0131r\u011fa g\u00fcn\u00fc f\u0131rt\u0131na il\u0259 da\u011f\u0131lacaq."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Onlar\u0131n pad\u015fahlar\u0131 il\u0259 ba\u015f\u00e7\u0131lar\u0131 Birg\u0259 s\u00fcrg\u00fcn\u0259 apar\u0131lacaq\u201d R\u0259bb bel\u0259 deyir."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201cMoavl\u0131lar\u0131n \u00fc\u00e7-d\u00f6rd qat g\u00fcnah\u0131na g\u00f6r\u0259 Onlar\u0131 c\u0259zas\u0131z buraxmayaca\u011fam, \u00c7\u00fcnki onlar Edom pad\u015fah\u0131n\u0131n s\u00fcm\u00fckl\u0259rini yand\u0131r\u0131b \u0259h\u0259ng haz\u0131rlad\u0131."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Buna g\u00f6r\u0259 d\u0259 Moava od ya\u011fd\u0131raca\u011fam ki, Qeriyotun qalalar\u0131n\u0131 yand\u0131r\u0131b-yaxs\u0131n. Moav q\u0131\u015fq\u0131rt\u0131 v\u0259 \u015feypur s\u0259si alt\u0131nda, S\u0259s-k\u00fcyl\u0259 m\u0259hv olacaq."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Onlar\u0131n aras\u0131ndan hakiml\u0259ri k\u0259sib-ataca\u011fam, B\u00fct\u00fcn ba\u015f\u00e7\u0131lar\u0131n\u0131 da \u00f6ld\u00fcr\u0259c\u0259y\u0259m\u201d R\u0259bb bel\u0259 deyir."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201cY\u0259hudal\u0131lar\u0131n \u00fc\u00e7-d\u00f6rd qat g\u00fcnah\u0131na g\u00f6r\u0259 Onlar\u0131 c\u0259zas\u0131z buraxmayaca\u011fam, \u00c7\u00fcnki onlar R\u0259bbin qanununa xor bax\u0131b qaydalar\u0131na riay\u0259t etm\u0259di, Atalar\u0131n\u0131n sitayi\u015f etdiyi saxta b\u00fctl\u0259r onlar\u0131 da yollar\u0131ndan azd\u0131rd\u0131."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Buna g\u00f6r\u0259 d\u0259 Y\u0259hudaya od ya\u011fd\u0131raca\u011fam ki, Yerus\u0259limin qalalar\u0131n\u0131 yand\u0131r\u0131b-yaxs\u0131n\u201d."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201c\u0130sraillil\u0259rin \u00fc\u00e7-d\u00f6rd qat g\u00fcnah\u0131na g\u00f6r\u0259 Onlar\u0131 c\u0259zas\u0131z buraxmayaca\u011fam, \u00c7\u00fcnki onlar d\u00fcz adamlar\u0131 pula, M\u00f6htaclar\u0131 da bir c\u00fct \u00e7ar\u0131\u011fa sat\u0131r,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Yoxsullar\u0131 toz-torpa\u011f\u0131n i\u00e7in\u0259 sal\u0131b \u0259zir, M\u0259zlumlara yol vermir. Ata v\u0259 o\u011ful eyni q\u0131zla yat\u0131b M\u00fcq\u0259dd\u0259s ad\u0131m\u0131 l\u0259k\u0259l\u0259yir."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u0130sraillil\u0259r h\u0259r qurbangah\u0131n yan\u0131nda Girov g\u00f6t\u00fcrd\u00fckl\u0259ri paltar\u0131n \u00fcz\u0259rind\u0259 yat\u0131r, \u00d6zl\u0259rinin Allah\u0131n\u0131n m\u0259b\u0259dind\u0259 C\u0259rim\u0259 \u00fc\u00e7\u00fcn g\u0259tiril\u0259n \u015f\u0259rab\u0131 i\u00e7irl\u0259r."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Amma M\u0259n sidr a\u011fac\u0131 kimi h\u00fcnd\u00fcr, Pal\u0131d a\u011fac\u0131 kimi m\u00f6hk\u0259m olan Emorlular\u0131 qar\u015f\u0131n\u0131zda yox etdim, Yuxar\u0131dan b\u0259hr\u0259sini, a\u015fa\u011f\u0131dan k\u00f6k\u00fcn\u00fc k\u0259sdim."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "M\u0259n sizi Misir torpa\u011f\u0131ndan \u00e7\u0131xar\u0131b Q\u0131rx il \u00e7\u00f6ld\u0259 g\u0259zdirmi\u015fdim ki, Siz Emorlular\u0131n torpa\u011f\u0131na sahib olas\u0131n\u0131z."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "O\u011fullar\u0131n\u0131zdan pey\u011f\u0259mb\u0259rl\u0259r, Cavanlar\u0131n\u0131zdan N\u0259ziril\u0259r t\u0259yin etdim. Ey \u0130sraillil\u0259r, bu bel\u0259 deyilmi?\u201d R\u0259bb b\u0259yan edir."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201cSiz is\u0259 N\u0259ziril\u0259r\u0259 \u015f\u0259rab i\u00e7irdiniz, Pey\u011f\u0259mb\u0259rl\u0259r\u0259 \u2039pey\u011f\u0259mb\u0259rlik etm\u0259\u203a \u0259mri verdiniz."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "D\u0259rzl\u0259 dolu olan araba torpa\u011f\u0131 nec\u0259 \u0259zirs\u0259, M\u0259n d\u0259 sizi el\u0259 \u0259z\u0259c\u0259y\u0259m."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "B\u0259rk qa\u00e7an qa\u00e7a bilm\u0259y\u0259c\u0259k, Q\u00fcvv\u0259tli is\u0259 g\u00fcc\u00fcn\u00fc g\u00f6st\u0259r\u0259 bilm\u0259y\u0259c\u0259k. \u0130gid can\u0131n\u0131 qurtara bilm\u0259y\u0259c\u0259k,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Yay \u00e7\u0259k\u0259n d\u0259 m\u00f6vqe tuta bilm\u0259y\u0259c\u0259k. Ayaqdan \u00e7evik olan qurtula bilm\u0259y\u0259c\u0259k, S\u00fcvari d\u0259 can\u0131n\u0131 qurtara bilm\u0259y\u0259c\u0259k."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "H\u0259tta \u0259n igid d\u00f6y\u00fc\u015f\u00e7\u00fc bel\u0259, O g\u00fcn \u0259liyal\u0131n qa\u00e7acaq\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ey \u0130sraillil\u0259r! R\u0259bbin \u0259leyhiniz\u0259 dediyi s\u00f6z\u00fc dinl\u0259yin! Misir torpa\u011f\u0131ndan \u00e7\u0131xard\u0131\u011f\u0131 bu n\u0259slin ham\u0131s\u0131na bel\u0259 deyir:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201cYer \u00fcz\u00fcnd\u0259ki n\u0259sill\u0259rin aras\u0131nda yaln\u0131z sizinl\u0259 \u00fcnsiyy\u0259t yaratm\u0131\u015fam. Ona g\u00f6r\u0259 M\u0259n b\u00fct\u00fcn c\u0259zan\u0131z\u0131 \u00f6z ba\u015f\u0131n\u0131za g\u0259tir\u0259c\u0259y\u0259m\u201d."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u0130ki n\u0259f\u0259r raz\u0131la\u015f\u0131b g\u00f6r\u00fc\u015fm\u0259s\u0259, Birg\u0259 yol ged\u0259rmi?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u015eikar\u0131 olmayan \u015fir Me\u015f\u0259d\u0259 n\u0259r\u0259 \u00e7\u0259k\u0259rmi? He\u00e7 n\u0259 ovlamam\u0131\u015f g\u0259nc aslan Yuvas\u0131nda n\u0259rild\u0259y\u0259rmi?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Yerd\u0259 t\u0259l\u0259 qurub yem qoyulmazsa, Oraya qu\u015f d\u00fc\u015f\u0259rmi? Bir \u015fey tutmayan t\u0259l\u0259 Yerind\u0259n at\u0131larm\u0131?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u015e\u0259h\u0259rd\u0259 \u015feypur \u00e7al\u0131narsa, Xalq qorxuya d\u00fc\u015fm\u0259zmi? \u018fg\u0259r R\u0259bb b\u0259la g\u00f6nd\u0259rm\u0259s\u0259, Hans\u0131sa bir \u015f\u0259h\u0259r\u0259 b\u0259la g\u0259l\u0259rmi?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "H\u0259qiq\u0259t\u0259n, Xudav\u0259nd R\u0259bb qulu olan pey\u011f\u0259mb\u0259rl\u0259r\u0259 \u00d6z niyy\u0259tini a\u00e7madan he\u00e7 n\u0259 etmir."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u015eir n\u0259r\u0259 \u00e7\u0259k\u0259nd\u0259 Kim ondan qorxmaz? Xudav\u0259nd R\u0259bb s\u00f6yl\u0259y\u0259nd\u0259 Kim pey\u011f\u0259mb\u0259rlik etm\u0259z?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A\u015fdodun qalalar\u0131nda, Misir torpa\u011f\u0131n\u0131n qalalar\u0131nda bel\u0259 elan edin: \u201cSamariya da\u011flar\u0131n\u0131n \u00fcz\u0259rin\u0259 y\u0131\u011f\u0131l\u0131n. Oradak\u0131 b\u00f6y\u00fck qar\u0131\u015f\u0131ql\u0131\u011f\u0131, Onun i\u00e7ind\u0259ki t\u0259zyiqi g\u00f6r\u00fcn\u201d."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "R\u0259bb b\u0259yan edir: \u201cH\u0259tta d\u00fcz i\u015f g\u00f6rm\u0259yi bacarm\u0131rlar. Onlar qalalar\u0131na zorak\u0131l\u0131qla, Soy\u011fun\u00e7uluqla q\u0259nim\u0259t y\u0131\u011f\u0131r\u201d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ona g\u00f6r\u0259 d\u0259 Xudav\u0259nd R\u0259bb bel\u0259 deyir: \u201cD\u00fc\u015fm\u0259n g\u0259lib \u00f6lk\u0259ni m\u00fchasir\u0259y\u0259 alacaq, S\u0259ni g\u00fccd\u0259n sal\u0131b qalalar\u0131n\u0131 qar\u0259t ed\u0259c\u0259k\u201d."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201c\u00c7oban \u015fir a\u011fz\u0131ndan nec\u0259 iki bud s\u00fcm\u00fcy\u00fc Yaxud qula\u011f\u0131n bir par\u00e7as\u0131n\u0131 \u00e7\u0259kib qurtararsa, Samariyada divan \u00fcz\u0259rind\u0259, D\u0259m\u0259\u015fqd\u0259 yataqda oturan \u0130srail \u00f6vladlar\u0131 da el\u0259c\u0259 xilas olacaq\u201d."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u201cBuna qulaq as\u0131n! Yaqub n\u0259slin\u0259 x\u0259b\u0259rdarl\u0131q edin!\u201d Ordular Allah\u0131 Xudav\u0259nd R\u0259bb bel\u0259 deyir."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u201cM\u0259n \u0130sraillil\u0259r\u0259 g\u00fcnahlar\u0131na g\u00f6r\u0259 c\u0259za ver\u0259c\u0259yim g\u00fcn Bet-Eld\u0259ki qurbangah\u0131 da c\u0259zaland\u0131raca\u011fam. O qurbangah\u0131n buynuzlar\u0131 k\u0259silib yer\u0259 tullanacaq."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "M\u0259n q\u0131\u015f saray\u0131 il\u0259 yay saray\u0131n\u0131 y\u0131xaca\u011fam, Fil s\u00fcm\u00fcy\u00fc il\u0259 b\u0259z\u0259nmi\u015f evl\u0259r da\u011f\u0131lacaq, B\u00f6y\u00fck saraylar viran qalacaq\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ey sizl\u0259r, Samariya da\u011f\u0131nda b\u0259sl\u0259n\u0259n Ba\u015fan in\u0259kl\u0259ri! Bu s\u00f6z\u00fc dinl\u0259yin, ey yoxsullara z\u00fclm ed\u0259n, M\u00f6htaclar\u0131 s\u0131x\u0131\u015fd\u0131ran, \u0259rl\u0259rin\u0259 \u201cg\u0259tir i\u00e7\u0259k\u201d dey\u0259n qad\u0131nlar!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Xudav\u0259nd R\u0259bb \u00d6z m\u00fcq\u0259dd\u0259sliyi namin\u0259 bel\u0259 and i\u00e7mi\u015fdir. \u201cBudur, \u00fcst\u00fcn\u00fcz\u0259 el\u0259 vaxt g\u0259lir ki, Ham\u0131n\u0131z bal\u0131q kimi \u00e7\u0259ng\u0259ll\u0259rl\u0259 \u00e7\u0259kil\u0259c\u0259ksiniz, Tilovlarla tutulacaqs\u0131n\u0131z."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "H\u0259r biriniz qar\u015f\u0131s\u0131ndak\u0131 d\u0259lm\u0259-de\u015fikd\u0259n \u00e7\u0131xar\u0131lacaq, Harmona t\u0259r\u0259f at\u0131lacaqs\u0131n\u0131z\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u201cBet-El\u0259 gedib g\u00fcnah i\u015fl\u0259din! Qilqala g\u0259lib g\u00fcnahlar\u0131n\u0131z\u0131 \u00e7oxald\u0131n! H\u0259r s\u0259h\u0259r qurbanlar\u0131n\u0131z\u0131 g\u0259tirin, H\u0259r \u00fc\u00e7 g\u00fcnd\u0259n bir qazanc\u0131n\u0131z\u0131n onda birini verin."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "T\u0259\u015f\u0259kk\u00fcr \u00fc\u00e7\u00fcn mayal\u0131 \u00e7\u00f6r\u0259k yand\u0131r\u0131b t\u0259qdim edin, \u00d6z k\u00f6n\u00fcll\u00fc t\u0259qdiml\u0259rinizl\u0259 \u00f6y\u00fcn\u00fcn. Ey \u0130sraillil\u0259r, sizin xo\u015funuza g\u0259l\u0259n budur!\u201d Xudav\u0259nd R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u201cM\u0259n b\u00fct\u00fcn \u015f\u0259h\u0259rl\u0259rinizd\u0259 a\u011fz\u0131n\u0131z\u0131 bo\u015f qoydum. H\u0259r yerd\u0259 siz\u0259 \u00e7\u00f6r\u0259k q\u0131tl\u0131\u011f\u0131 verdim. Lakin yen\u0259 M\u0259nim t\u0259r\u0259fim\u0259 d\u00f6nm\u0259diniz\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u201cM\u0259n bi\u00e7in vaxt\u0131na \u00fc\u00e7 ay qalm\u0131\u015f sizd\u0259n ya\u011f\u0131\u015f\u0131 k\u0259sdim. Bir \u015f\u0259h\u0259rin \u00fcz\u0259rin\u0259 ya\u011f\u0131\u015f ya\u011fd\u0131rd\u0131m, o birinin is\u0259 \u00fcz\u0259rin\u0259 ya\u011fd\u0131rmad\u0131m. Ya\u011f\u0131\u015f bir \u0259kin \u00fcz\u0259rin\u0259 ya\u011fd\u0131, o birinin is\u0259 \u00fcz\u0259rin\u0259 ya\u011fmad\u0131\u011f\u0131na g\u00f6r\u0259 o qurudu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u0130ki-\u00fc\u00e7 \u015f\u0259h\u0259r su i\u00e7m\u0259k \u00fc\u00e7\u00fcn bir \u015f\u0259h\u0259r\u0259 getdi, doyunca su i\u00e7m\u0259di. Lakin yen\u0259 M\u0259n\u0259 t\u0259r\u0259f d\u00f6nm\u0259diniz\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201c\u018fkininiz\u0259 s\u0259mum k\u00fcl\u0259yi v\u0259 kif g\u00f6nd\u0259r\u0259r\u0259k siz\u0259 z\u0259r\u0259r vurdum. Ba\u011flar\u0131n\u0131z\u0131 v\u0259 \u00fcz\u00fcml\u00fckl\u0259rinizi, \u0259ncir v\u0259 zeytun a\u011faclar\u0131n\u0131z\u0131 \u00e7\u0259yirtk\u0259 yedi. Lakin yen\u0259 M\u0259n\u0259 t\u0259r\u0259f d\u00f6nm\u0259diniz\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201cMisird\u0259 oldu\u011fu kimi aran\u0131za v\u0259ba g\u00f6nd\u0259rdim. Cavanlar\u0131n\u0131z\u0131 q\u0131l\u0131ncla \u00f6ld\u00fcrtd\u00fcm. Atlar\u0131n\u0131z\u0131 s\u00fcr\u00fcb apartd\u0131rd\u0131m. Ordunuzdan meyit iyini burnunuza \u00e7atd\u0131rd\u0131m. Lakin yen\u0259 M\u0259n\u0259 t\u0259r\u0259f d\u00f6nm\u0259diniz\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u201cM\u0259n Sodomla Homorran\u0131 nec\u0259 da\u011f\u0131td\u0131msa, sizd\u0259n b\u0259zil\u0259rini d\u0259 el\u0259 m\u0259hv etdim. Siz oddan g\u00f6t\u00fcr\u00fcl\u0259n odun kimi sa\u011f qald\u0131n\u0131z. Lakin yen\u0259 M\u0259n\u0259 t\u0259r\u0259f d\u00f6nm\u0259diniz\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201cEy \u0130sraillil\u0259r, buna g\u00f6r\u0259 d\u0259 sizinl\u0259 bel\u0259 r\u0259ftar ed\u0259c\u0259y\u0259m. Bu r\u0259ftar\u0131ma g\u00f6r\u0259 Allah\u0131n\u0131z\u0131 qar\u015f\u0131lama\u011fa haz\u0131r olun, ey \u0130sraillil\u0259r!\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Odur da\u011flara qurulu\u015f ver\u0259n, k\u00fcl\u0259yi yaradan, N\u0259 d\u00fc\u015f\u00fcnd\u00fcy\u00fcn\u00fc insana bildir\u0259n, Dan i\u015f\u0131\u011f\u0131n\u0131 qaranl\u0131q ed\u0259n, Yer \u00fcz\u00fcn\u00fcn y\u00fcks\u0259k yerl\u0259rin\u0259 ayaq basan \u2013 Onun ad\u0131 Ordular Allah\u0131 R\u0259bdir."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ey \u0130srail n\u0259sli, sizin bar\u0259nizd\u0259 m\u0259rsiy\u0259 kimi oxudu\u011fum bu s\u00f6zl\u0259ri dinl\u0259yin!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201c\u0130srail zorlanm\u0131\u015f bir q\u0131z kimi y\u0131x\u0131l\u0131b, Bir daha qalxmayacaq. \u00d6z torpa\u011f\u0131 \u00fcst\u0259 at\u0131l\u0131b, Onu qald\u0131ran yoxdur\u201d."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00c7\u00fcnki Xudav\u0259nd R\u0259bb bel\u0259 deyir: \u201cBir \u015f\u0259h\u0259rd\u0259n min n\u0259f\u0259r d\u00f6y\u00fc\u015f\u0259 \u00e7\u0131xsa, Y\u00fcz n\u0259f\u0259ri sa\u011f qalacaq, Y\u00fcz adam d\u00f6y\u00fc\u015f\u0259 \u00e7\u0131xsa, \u0130srail n\u0259slind\u0259n on n\u0259f\u0259r sa\u011f qalacaq\u201d."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "R\u0259bb \u0130srail n\u0259slin\u0259 bel\u0259 deyir: \u201cM\u0259n\u0259 t\u0259r\u0259f d\u00f6n\u00fcn ki, sa\u011f qalas\u0131n\u0131z!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bet-El\u0259 d\u00f6nm\u0259yin, Qilqala getm\u0259yin, Beer-\u015eevaya ke\u00e7m\u0259yin, \u00c7\u00fcnki s\u00fcrg\u00fcn olunmaq h\u00f6km\u0259n Qilqala g\u0259lir, Bet-El bir he\u00e7\u0259 d\u00f6n\u0259c\u0259k\u201d."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "R\u0259bb\u0259 t\u0259r\u0259f d\u00f6n\u00fcn ki, sa\u011f qalas\u0131n\u0131z! Yoxsa O, Yusif n\u0259slini od kimi yand\u0131r\u0131b-yaxacaq, Bet-Eld\u0259ki odu s\u00f6nd\u00fcr\u0259n olmayacaq."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ey \u0259dal\u0259ti \u00e7evirib ac\u0131 yov\u015fan ed\u0259nl\u0259r, Ey salehliyi yer\u0259 vurub tapdalayanlar!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Odur \u00dclk\u0259r v\u0259 Orion b\u00fcrcl\u0259rini yaradan, Qaranl\u0131\u011f\u0131 ayd\u0131n s\u0259h\u0259r\u0259 \u00e7evir\u0259n, G\u00fcnd\u00fcz\u00fc gec\u0259 edib qaraldan, D\u0259niz sular\u0131n\u0131 g\u00f6t\u00fcr\u00fcb yer \u00fcz\u00fcn\u0259 t\u00f6k\u0259n \u2013 Onun ad\u0131 R\u0259bdir."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "G\u00fccl\u00fcl\u0259ri ild\u0131r\u0131m kimi m\u0259hv ed\u0259r, Qalalar\u0131n\u0131 viran ed\u0259r."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Siz is\u0259 haqs\u0131zl\u0131\u011fa etiraz\u0131n\u0131 bildir\u0259nl\u0259r\u0259, D\u00fcz dan\u0131\u015fanlara nifr\u0259t edirsiniz."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kas\u0131b\u0131 ayaq alt\u0131na sald\u0131\u011f\u0131n\u0131za g\u00f6r\u0259, Ondan tax\u0131l qopard\u0131\u011f\u0131n\u0131za g\u00f6r\u0259 Yonulmu\u015f da\u015fdan evl\u0259r tikib Onlar\u0131n i\u00e7ind\u0259 ya\u015famayacaqs\u0131n\u0131z. G\u00f6z\u0259l \u00fcz\u00fcml\u00fckl\u0259r sal\u0131b Onlar\u0131n \u015f\u0259rab\u0131n\u0131 i\u00e7m\u0259y\u0259c\u0259ksiniz."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c7\u00fcnki cinay\u0259tl\u0259rinizin \u00e7ox, G\u00fcnahlar\u0131n\u0131z\u0131n a\u011f\u0131r oldu\u011funu bilir\u0259m. Ey salehi incid\u0259nl\u0259r, r\u00fc\u015fv\u0259t alanlar, M\u00f6htaclar\u0131n haqq\u0131n\u0131 tapdalayanlar!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Bu z\u0259man\u0259 o q\u0259d\u0259r pisdir ki, A\u011fl\u0131 ba\u015f\u0131nda olan susur."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pislikd\u0259n yax\u015f\u0131l\u0131\u011fa d\u00f6n\u00fcn ki, sa\u011f qalas\u0131n\u0131z! Bel\u0259c\u0259 iddia etdiyiniz kimi Ordular Allah\u0131 R\u0259bb, H\u0259qiq\u0259t\u0259n, siz\u0259 yar olacaq."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pisliy\u0259 nifr\u0259t edin, Yax\u015f\u0131l\u0131\u011f\u0131 sevin, M\u0259hk\u0259m\u0259d\u0259 \u0259dal\u0259t\u0259 \u00fcst\u00fcnl\u00fck verin. B\u0259lk\u0259 Ordular Allah\u0131 R\u0259bb Qalan Yusif \u00f6vladlar\u0131na l\u00fctf ed\u0259r."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ordular Allah\u0131 Xudav\u0259nd R\u0259bb bel\u0259 deyir: \u201cB\u00fct\u00fcn meydanlardan f\u0259\u011fan qopacaq, B\u00fct\u00fcn k\u00fc\u00e7\u0259l\u0259rd\u0259 ah-zar ed\u0259c\u0259kl\u0259r. F\u0259\u011fan ed\u0259n m\u0259rsiy\u0259 oxuyanlarla K\u0259ndlil\u0259r yas tutma\u011fa \u00e7a\u011f\u0131r\u0131lacaqlar."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "B\u00fct\u00fcn \u00fcz\u00fcm ba\u011flar\u0131ndan da f\u0259\u011fan qopacaq, \u00c7\u00fcnki aran\u0131zdan M\u0259n ke\u00e7\u0259c\u0259y\u0259m\u201d R\u0259bb bel\u0259 deyir."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Vay hal\u0131n\u0131za, ey R\u0259bbin g\u00fcn\u00fcn\u00fcn h\u0259sr\u0259tini \u00e7\u0259k\u0259nl\u0259r! R\u0259bbin g\u00fcn\u00fc siz n\u0259 \u0259ld\u0259 ed\u0259c\u0259ksiniz? \u0130\u015f\u0131q yox, qaranl\u0131q."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u015eird\u0259n qa\u00e7an adam\u0131n qar\u015f\u0131s\u0131na ay\u0131 nec\u0259 \u00e7\u0131xarsa Yaxud ev\u0259 g\u0259lib \u0259lini divara dayayan\u0131 ilan nec\u0259 \u00e7alarsa,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "R\u0259bbin g\u00fcn\u00fc d\u0259 el\u0259c\u0259 i\u015f\u0131q yox, qaranl\u0131q olmayacaqm\u0131? O, z\u00fclm\u0259tdir, onda nur yoxdur."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "R\u0259bb bel\u0259 deyir: \u201cBayramlar\u0131n\u0131za nifr\u0259t edir\u0259m, Xor bax\u0131ram, T\u0259nt\u0259n\u0259li toplant\u0131lar\u0131n\u0131zdan iyr\u0259nir\u0259m."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "M\u0259n\u0259 yand\u0131rma qurbanlar\u0131n\u0131z\u0131, Tax\u0131l t\u0259qdiml\u0259rinizi g\u0259tirs\u0259niz d\u0259, raz\u0131 qalmayaca\u011fam. M\u0259n\u0259 k\u00f6k\u0259ldilmi\u015f heyvanlar\u0131n\u0131zdan \u00dcnsiyy\u0259t qurban\u0131 t\u0259qdim ets\u0259niz d\u0259, Onlara n\u0259z\u0259r salmayaca\u011fam."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Gurultulu ilahil\u0259rinizi M\u0259nd\u0259n uzaq edin! \u00c7\u0259ngl\u0259rinizin s\u0259sin\u0259 qulaq asmayaca\u011fam."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Lakin qoy \u0259dal\u0259t sular kimi t\u00f6k\u00fcls\u00fcn, Salehlik davaml\u0131 sel kimi axs\u0131n!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ey \u0130srail n\u0259sli, Q\u0131rx il \u00e7\u00f6ld\u0259 olanda M\u0259n\u0259 qurban v\u0259 t\u0259qdiml\u0259r g\u0259tirmi\u015fdinizmi?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00d6z d\u00fcz\u0259ltdiyiniz saxta Sakkut pad\u015fah\u0131n\u0131z\u0131, Kiyun b\u00fctl\u0259rinizi, ulduz allahlar\u0131n\u0131z\u0131 g\u0259zdirmi\u015fdinizmi?"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "El\u0259 buna g\u00f6r\u0259 d\u0259 sizi D\u0259m\u0259\u015fqin o tay\u0131na s\u00fcrg\u00fcn\u0259 aparaca\u011fam\u201d R\u0259bb bel\u0259 deyir. Onun ad\u0131 Ordular Allah\u0131d\u0131r."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vay hal\u0131n\u0131za, ey Sionda laqeyd olanlar, Samariya da\u011f\u0131nda arxay\u0131n oturanlar, \u0130srail n\u0259slinin m\u00fcraci\u0259t etdiyi Mill\u0259tl\u0259r aras\u0131nda adl\u0131-sanl\u0131lar!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kalney\u0259 ke\u00e7ib g\u00f6r\u00fcn, Oradan b\u00f6y\u00fck Xamata gedin, Fili\u015ftlil\u0259rin Qat \u015f\u0259h\u0259rin\u0259 g\u0259lin. Onlar\u0131n hal\u0131 bu \u00f6lk\u0259l\u0259rd\u0259n daha yax\u015f\u0131d\u0131rm\u0131? Onlar\u0131n \u0259razisi sizinkind\u0259n b\u00f6y\u00fckd\u00fcrm\u00fc?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Vay hal\u0131n\u0131za, ey b\u0259la g\u00fcn\u00fcn\u00fc uzaq san\u0131b Zorak\u0131l\u0131\u011f\u0131 taxt\u0131na yax\u0131nla\u015fd\u0131ranlar!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ey fil di\u015fi il\u0259 b\u0259z\u0259nmi\u015f \u00e7arpay\u0131larda yayxan\u0131b, Yataqlarda uzan\u0131b, S\u00fcr\u00fcd\u0259ki quzulardan, Axurun yan\u0131ndak\u0131 danalardan g\u00f6t\u00fcr\u00fcb yey\u0259nl\u0259r!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00c7\u0259ng \u00e7al\u0131b b\u0259dah\u0259t\u0259n oxuyanlar, Guya Davud kimi musiqi al\u0259tl\u0259ri il\u0259 n\u0259\u011fm\u0259 dey\u0259nl\u0259r,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Piyal\u0259-piyal\u0259 \u015f\u0259rab i\u00e7\u0259nl\u0259r, B\u0259d\u0259nl\u0259rin\u0259 \u0259la ya\u011flar s\u00fcrt\u0259nl\u0259r, Lakin Yusif n\u0259slinin q\u0131r\u011f\u0131n\u0131na g\u00f6r\u0259 Narahat olmayanlar!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Bundan \u00f6tr\u00fc indi s\u00fcrg\u00fcn\u0259 Ba\u015fda siz ged\u0259c\u0259ksiniz. Kefl\u0259nib yayxananlar\u0131n ziyaf\u0259ti ba\u015fa \u00e7atacaq."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Xudav\u0259nd R\u0259bb \u00d6z haqq\u0131na and i\u00e7ir, Ordular Allah\u0131 R\u0259bb b\u0259yan edir: \u201cYaqub n\u0259slinin q\u00fcruruna nifr\u0259t edir\u0259m, Qalalar\u0131ndan z\u0259hl\u0259m gedir. \u0130\u00e7ind\u0259 olanlarla birlikd\u0259 Paytaxtlar\u0131n\u0131 t\u0259slim ed\u0259c\u0259y\u0259m\u201d."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u018fg\u0259r bir evd\u0259 on n\u0259f\u0259r qalsa, onlar da \u00f6l\u0259c\u0259k."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00d6l\u0259n bir n\u0259f\u0259rin qohumu onun c\u0259s\u0259dini g\u00f6t\u00fcr\u00fcb yand\u0131rmaq \u00fc\u00e7\u00fcn g\u0259l\u0259c\u0259k. Evin i\u00e7ind\u0259 olana \u201cYan\u0131nda kim var?\u201d dey\u0259 soru\u015fanda, o da \u201che\u00e7 kim\u201d s\u00f6yl\u0259y\u0259c\u0259k. Onda o qohum bel\u0259 dey\u0259c\u0259k: \u201cSus, R\u0259bbin ad\u0131n\u0131 \u00e7\u0259km\u0259k olmaz\u201d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c7\u00fcnki R\u0259bb \u0259mr ed\u0259nd\u0259 b\u00f6y\u00fck evl\u0259r par\u00e7a-par\u00e7a olub y\u0131x\u0131lacaq, ki\u00e7ik komalar da q\u0131r\u0131q-q\u0131r\u0131q olub da\u011f\u0131lacaq."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Qaya \u00fcz\u0259rind\u0259 atlar \u00e7aparm\u0131? Orada kim \u00f6k\u00fczl\u0259rl\u0259 kotan s\u00fcr\u0259r? Siz is\u0259 \u0259dal\u0259ti z\u0259h\u0259r\u0259 d\u00f6nd\u0259rmisiniz, B\u0259ra\u0259ti d\u0259 ac\u0131ya \u00e7evirmisiniz."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ey Lo-Devar\u0131 tutub \u201cQarnayimi \u00f6z g\u00fcc\u00fcm\u00fczl\u0259 almad\u0131qm\u0131?\u201d dey\u0259r\u0259k lov\u011falananlar!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ordular Allah\u0131 R\u0259bb bel\u0259 b\u0259yan edir: \u201cBudur, ey \u0130srail n\u0259sli! M\u0259n siz\u0259 qar\u015f\u0131 bir mill\u0259t \u00e7\u0131xar\u0131ram. Xamat ke\u00e7idind\u0259n Arava vadisin\u0259 q\u0259d\u0259r onlar siz\u0259 z\u00fclm ed\u0259c\u0259k\u201d."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Xudav\u0259nd R\u0259bb m\u0259n\u0259 bu g\u00f6r\u00fcnt\u00fcn\u00fc g\u00f6st\u0259rdi: budur, pad\u015fah\u0131n pay\u0131 bi\u00e7il\u0259nd\u0259n sonra \u0259m\u0259l\u0259 g\u0259l\u0259n ot bitm\u0259y\u0259 ba\u015flayanda O, \u00e7\u0259yirtk\u0259 s\u00fcr\u00fcs\u00fc d\u00fcz\u0259ldirdi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00c7\u0259yirtk\u0259l\u0259r \u00f6lk\u0259d\u0259 b\u00fct\u00fcn bitkil\u0259ri yeyib-qurtarmaq \u00fczr\u0259 olanda m\u0259n dedim: \u201cYa Xudav\u0259nd R\u0259bb, yalvar\u0131ram, ba\u011f\u0131\u015fla. Buna Yaqub n\u0259sli nec\u0259 d\u00f6z\u0259r? Ax\u0131 o ki\u00e7ikdir\u201d."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Buna g\u00f6r\u0259 R\u0259bb bu niyy\u0259td\u0259n d\u00f6nd\u00fc. R\u0259bb dedi: \u201cBu olmayacaq\u201d."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sonra Xudav\u0259nd R\u0259bb m\u0259n\u0259 bu g\u00f6r\u00fcnt\u00fcn\u00fc g\u00f6st\u0259rdi: budur, Xudav\u0259nd R\u0259bb c\u0259za verm\u0259k \u00fc\u00e7\u00fcn alov \u00e7a\u011f\u0131rd\u0131. Alov d\u0259nizl\u0259ri dibind\u0259n udaraq torpa\u011f\u0131 da yand\u0131r\u0131b-yaxmaq \u00fczr\u0259 olanda"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "m\u0259n dedim: \u201cYa Xudav\u0259nd R\u0259bb, yalvar\u0131ram, \u0259l saxla. Buna Yaqub n\u0259sli nec\u0259 d\u00f6z\u0259r? Ax\u0131 o ki\u00e7ikdir\u201d."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Buna g\u00f6r\u0259 R\u0259bb bu niyy\u0259td\u0259n d\u0259 d\u00f6nd\u00fc. Xudav\u0259nd R\u0259bb dedi: \u201cBu olmayacaq\u201d."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sonra m\u0259n\u0259 bu g\u00f6r\u00fcnt\u00fcn\u00fc g\u00f6st\u0259rdi: budur, Xudav\u0259nd \u015faqulla d\u00fcz tikilmi\u015f bir divar\u0131n yan\u0131nda dayan\u0131b. Onun \u0259lind\u0259 bir \u015faqul var idi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "R\u0259bb m\u0259nd\u0259n soru\u015fdu: \u201cAmos, s\u0259n n\u0259 g\u00f6r\u00fcrs\u0259n?\u201d M\u0259n cavab verdim: \u201cBir \u015faqul\u201d. Xudav\u0259nd dedi: \u201cBudur, M\u0259n xalq\u0131m \u0130sraili yoxlamaq \u00fc\u00e7\u00fcn aralar\u0131na bir \u015faqul qoyuram. Art\u0131q onlardan \u0259l \u00e7\u0259km\u0259y\u0259c\u0259y\u0259m."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u0130shaq\u0131n n\u0259slinin s\u0259cd\u0259gahlar\u0131 xaraba qalacaq, \u0130srailin M\u00fcq\u0259dd\u0259s m\u0259kanlar\u0131 viran olacaq. Yarovam\u0131n n\u0259slin\u0259 qar\u015f\u0131 q\u0131l\u0131ncla \u00e7\u0131xaca\u011fam\u201d\u00bb."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bet-El kahini Amasya \u0130srail pad\u015fah\u0131 Yarovama bel\u0259 x\u0259b\u0259r g\u00f6nd\u0259rdi: \u00abAmos \u0130srail n\u0259sli aras\u0131nda s\u0259n\u0259 qar\u015f\u0131 q\u0259sd haz\u0131rlay\u0131r. Onun s\u00f6zl\u0259rinin \u00f6hd\u0259sind\u0259n bu \u00f6lk\u0259 g\u0259l\u0259 bilm\u0259z."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c7\u00fcnki Amos bel\u0259 deyir: \u201cYarovam q\u0131l\u0131ncdan ke\u00e7irilib \u00f6l\u0259c\u0259k. \u0130srail xalq\u0131 \u00f6z torpa\u011f\u0131ndan h\u00f6km\u0259n s\u00fcrg\u00fcn\u0259 apar\u0131lacaq\u201d\u00bb."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sonra Amasya Amosa dedi: \u00abEy g\u00f6r\u00fcc\u00fc, buradan get, Y\u0259huda torpa\u011f\u0131na qa\u00e7. Pey\u011f\u0259mb\u0259rliyini orada et, onlar\u0131n \u00e7\u00f6r\u0259yini ye."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Bir d\u0259 Bet-Eld\u0259 pey\u011f\u0259mb\u0259rlik etm\u0259, \u00e7\u00fcnki bura pad\u015fah\u0131n m\u00fcq\u0259dd\u0259s m\u0259kan\u0131 v\u0259 pad\u015fahl\u0131q m\u0259b\u0259didir\u00bb."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Amos Amasyaya cavab verib dedi: \u00abM\u0259n n\u0259 pey\u011f\u0259mb\u0259r\u0259m, n\u0259 d\u0259 pey\u011f\u0259mb\u0259rin \u015fagirdi. M\u0259n yaln\u0131z bir \u00e7obanam, firon \u0259nciri a\u011faclar\u0131n\u0131 yeti\u015fdirir\u0259m."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "M\u0259n s\u00fcr\u00fc otaran idim, R\u0259bb m\u0259ni g\u00f6t\u00fcr\u00fcb bel\u0259 dedi: \u201cGet, xalq\u0131m \u0130srail\u0259 pey\u011f\u0259mb\u0259rlik et\u201d."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u0130ndi is\u0259 R\u0259bbin s\u00f6z\u00fcn\u00fc dinl\u0259. S\u0259n \u201c\u0130srail\u0259 qar\u015f\u0131 pey\u011f\u0259mb\u0259rlik etm\u0259 v\u0259 \u0130shaq n\u0259slinin \u0259leyhin\u0259 v\u0259z etm\u0259\u201d deyirs\u0259n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Buna g\u00f6r\u0259 d\u0259 R\u0259bb bel\u0259 deyir: \u201cS\u0259nin arvad\u0131n \u015f\u0259h\u0259rd\u0259 fahi\u015f\u0259lik ed\u0259c\u0259k, O\u011fullar\u0131n v\u0259 q\u0131zlar\u0131n q\u0131l\u0131ncdan ke\u00e7iril\u0259c\u0259k, Torpa\u011f\u0131n \u00f6l\u00e7\u00fcl\u00fcb paylanacaq. S\u0259n is\u0259 yad eld\u0259 \u2013 murdar bir \u00f6lk\u0259d\u0259 \u00f6l\u0259c\u0259ks\u0259n. \u0130srail xalq\u0131 \u00f6z torpa\u011f\u0131ndan h\u00f6km\u0259n s\u00fcrg\u00fcn\u0259 apar\u0131lacaq\u201d."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Xudav\u0259nd R\u0259bb m\u0259n\u0259 bel\u0259 bir g\u00f6r\u00fcnt\u00fc g\u00f6st\u0259rdi: budur, bir s\u0259b\u0259t yay meyv\u0259si g\u00f6rd\u00fcm."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "O m\u0259nd\u0259n soru\u015fdu: \u201cAmos, s\u0259n n\u0259 g\u00f6r\u00fcrs\u0259n?\u201d M\u0259n cavab verdim: \u201cBir s\u0259b\u0259t yay meyv\u0259si\u201d. R\u0259bb m\u0259n\u0259 dedi: \u201cXalq\u0131m \u0130srailin ax\u0131r g\u00fcn\u00fc yeti\u015fib. Art\u0131q onlardan \u0259l \u00e7\u0259km\u0259y\u0259c\u0259y\u0259m."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "H\u0259min g\u00fcn saray n\u0259\u011fm\u0259l\u0259ri f\u0259ryada \u00e7evril\u0259c\u0259k. Meyit meyit \u00fcst\u0259 d\u00fc\u015f\u0259c\u0259k, h\u0259r t\u0259r\u0259f\u0259 at\u0131lacaq. Sonra s\u00fckut olacaq\u201d. Xudav\u0259nd R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Siz, ey m\u00f6htaclar\u0131 tapdalay\u0131b \u0259z\u0259nl\u0259r, ey kas\u0131blar\u0131n ba\u015f\u0131n\u0131 yey\u0259nl\u0259r, indi buna qulaq as\u0131n!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Deyirsiniz: \u201cT\u0259z\u0259 Ay m\u0259rasimi n\u0259 vaxt sona \u00e7atacaq ki, tax\u0131l\u0131 ba\u015fqas\u0131na sataq? \u015e\u0259nb\u0259 g\u00fcn\u00fc n\u0259 vaxt qurtaracaq ki, bu\u011fdan\u0131 sat\u0131\u015fa qoyaq? Qoy \u00f6l\u00e7\u00fcn\u00fc azaldaq, qiym\u0259ti d\u0259 art\u0131raq, aldad\u0131c\u0131 t\u0259r\u0259zi quraq."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Qoy yoxsullar\u0131 pula, m\u00f6htaclar\u0131 bir c\u00fct \u00e7ar\u0131\u011fa sat\u0131n alaq, bu\u011fdan\u0131n t\u00f6r-t\u00f6k\u00fcnt\u00fcs\u00fcn\u00fc d\u0259 sataq\u201d."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Yaqubun f\u0259xri olan R\u0259bb bel\u0259 and i\u00e7mi\u015fdir: \u201cOnlar\u0131n b\u00fct\u00fcn i\u015fl\u0259rini he\u00e7 vaxt unutmayaca\u011fam\u201d."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Bundan \u00f6tr\u00fc deyilmi ki, yer titr\u0259y\u0259c\u0259k, orada ya\u015fayan h\u0259r k\u0259s yasa batacaq? B\u0259li, b\u00fct\u00fcn yer Nil \u00e7ay\u0131 kimi qabaracaq, Misird\u0259ki Nil \u00e7ay\u0131 kimi co\u015fandan sonra \u00e7\u0259kil\u0259c\u0259k."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Xudav\u0259nd R\u0259bb b\u0259yan edir: \u201cH\u0259min g\u00fcn g\u00fcnorta g\u00fcn\u0259\u015fi bat\u0131raca\u011fam, Yer \u00fcz\u00fcnd\u0259 g\u00fcnd\u00fcz\u00fc qaraldaca\u011fam."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bayramlar\u0131n\u0131z\u0131 yasa d\u00f6nd\u0259r\u0259c\u0259y\u0259m, B\u00fct\u00fcn mahn\u0131lar\u0131n\u0131z\u0131 m\u0259rsiy\u0259y\u0259 \u00e7evir\u0259c\u0259y\u0259m. H\u0259r k\u0259sin belin\u0259 \u00e7ul b\u00fcr\u00fcnd\u00fcr\u0259c\u0259y\u0259m, H\u0259r ba\u015f\u0131n sa\u00e7\u0131n\u0131 q\u0131rxd\u0131raca\u011fam. Yegan\u0259 o\u011fula yas tutulan kimi O g\u00fcn\u00fc sona q\u0259d\u0259r ac\u0131 ed\u0259c\u0259y\u0259m\u201d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Xudav\u0259nd R\u0259bb b\u0259yan edir: \u201cBudur, el\u0259 g\u00fcnl\u0259r g\u0259l\u0259c\u0259k ki, \u00d6lk\u0259y\u0259 q\u0131tl\u0131q g\u00f6nd\u0259r\u0259c\u0259y\u0259m. Bu g\u00fcnl\u0259rd\u0259 \u00e7\u00f6r\u0259k v\u0259 suyun q\u0131tl\u0131\u011f\u0131 deyil, R\u0259bbin s\u00f6zl\u0259rinin q\u0131tl\u0131\u011f\u0131 olacaq."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u0130nsanlar R\u0259bbin s\u00f6z\u00fcn\u00fc axtaracaq. D\u0259nizd\u0259n-d\u0259niz\u0259, \u015eimaldan \u015f\u0259rq\u0259 q\u0259d\u0259r S\u00fcr\u0259tl\u0259 g\u0259zib-dola\u015facaqlar, Lakin onu tapmayacaqlar."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "H\u0259min g\u00fcn g\u00f6z\u0259l q\u0131zlar, igid o\u011flanlar Susuzluqdan q\u0259\u015f\u015f ed\u0259c\u0259kl\u0259r."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Samariyan\u0131n b\u00fctl\u0259r\u0259 and i\u00e7ib \u2039Ey Dan, allah\u0131n\u0131n haqq\u0131!\u203a, \u2039Beer-\u015eevaya ged\u0259n yol haqq\u0131!\u203a dey\u0259n adamlar Y\u0131x\u0131lacaq v\u0259 bir daha qalxmayacaq\u201d."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Xudav\u0259ndi qurbangah yan\u0131nda duran g\u00f6rd\u00fcm. O dedi: \u201cS\u00fctun ba\u015fl\u0131qlar\u0131n\u0131 el\u0259 vur ki, Astanalar sars\u0131ls\u0131n. Binan\u0131 ham\u0131n\u0131n ba\u015f\u0131na u\u00e7ur. Sa\u011f qalanlar\u0131 M\u0259n q\u0131l\u0131ncdan ke\u00e7ir\u0259c\u0259y\u0259m. Onlardan he\u00e7 kim qa\u00e7\u0131b qurtula bilm\u0259z."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00d6l\u00fcl\u0259r diyar\u0131na girs\u0259l\u0259r bel\u0259, Onlar\u0131 orada \u0259l\u0259 ke\u00e7ir\u0259c\u0259y\u0259m. G\u00f6yl\u0259r\u0259 qalxsalar bel\u0259, Onlar\u0131 endir\u0259c\u0259y\u0259m."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Karmel da\u011f\u0131n\u0131n t\u0259p\u0259sind\u0259 gizl\u0259ns\u0259l\u0259r bel\u0259, Onlar\u0131 axtar\u0131b oradan g\u00f6t\u00fcr\u0259c\u0259y\u0259m. G\u00f6z\u00fcmd\u0259n yay\u0131n\u0131b d\u0259nizin dibin\u0259 girs\u0259l\u0259r bel\u0259, \u0130lana \u0259mr ed\u0259c\u0259y\u0259m ki, onlar\u0131 sancs\u0131n."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "D\u00fc\u015fm\u0259n \u00f6n\u00fcnd\u0259 \u0259sir apar\u0131lsalar bel\u0259, Q\u0131l\u0131nca \u0259mr ed\u0259c\u0259y\u0259m ki, onlar\u0131 q\u0131rs\u0131n. G\u00f6zl\u0259rimi yax\u015f\u0131l\u0131q \u00fc\u00e7\u00fcn deyil, Pislik \u00fc\u00e7\u00fcn onlar\u0131n \u00fcz\u0259rin\u0259 dik\u0259c\u0259y\u0259m\u201d."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ordular R\u0259bbi Xudav\u0259nd toxunub yeri titr\u0259d\u0259r, Orada ya\u015fayan h\u0259r k\u0259si yasa bat\u0131rar, B\u00fct\u00fcn yer Nil \u00e7ay\u0131 kimi qabarar, Misird\u0259ki Nil \u00e7ay\u0131 kimi \u00e7\u0259kil\u0259r."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Otaqlar\u0131n\u0131 g\u00f6yl\u0259rd\u0259 tik\u0259n, Q\u00fcbb\u0259sini yer \u00fcz\u00fcnd\u0259 quran, D\u0259niz sular\u0131n\u0131 g\u00f6t\u00fcr\u00fcb yer \u00fcz\u00fcn\u0259 t\u00f6k\u0259n Odur \u2013 Onun ad\u0131 R\u0259bdir."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "R\u0259bb b\u0259yan edir: \u201cEy \u0130sraillil\u0259r! M\u0259nim \u00fc\u00e7\u00fcn Ku\u015flular kimi deyilsinizmi? Siz \u0130sraillil\u0259ri Misir torpa\u011f\u0131ndan \u00e7\u0131xaran kimi Fili\u015ftlil\u0259ri Kaftordan, Araml\u0131lar\u0131 Qird\u0259n \u00e7\u0131xarmad\u0131mm\u0131?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Budur, Xudav\u0259nd R\u0259bbin g\u00f6zl\u0259ri bu g\u00fcnahkar \u00f6lk\u0259y\u0259 dikilir. Onlar\u0131 yer \u00fcz\u00fcnd\u0259n silib-ataca\u011fam. Amma Yaqub n\u0259slini tamamil\u0259 silib-atmayaca\u011fam\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201c\u00c7\u00fcnki, budur, M\u0259n bel\u0259 \u0259mr edir\u0259m: M\u0259n \u0130srail n\u0259slini b\u00fct\u00fcn mill\u0259tl\u0259r aras\u0131nda x\u0259lbird\u0259n ke\u00e7ir\u0259c\u0259y\u0259m. X\u0259lbirl\u0259y\u0259nd\u0259 bir \u00e7\u0131nq\u0131l bel\u0259, yer\u0259 d\u00fc\u015fm\u0259y\u0259c\u0259k."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Xalq\u0131mdan b\u00fct\u00fcn g\u00fcnah i\u015fl\u0259d\u0259nl\u0259r, M\u0259n\u0259 \u2039b\u0259la biz\u0259 yax\u0131nla\u015fmaz, biz\u0259 rast g\u0259lm\u0259z\u203a dey\u0259nl\u0259rin ham\u0131s\u0131 q\u0131l\u0131ncdan ke\u00e7iril\u0259c\u0259k."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "H\u0259min g\u00fcn Davudun y\u0131x\u0131lan \u00e7ad\u0131r\u0131n\u0131 b\u0259rpa ed\u0259c\u0259y\u0259m. Onun d\u0259lm\u0259-de\u015fikl\u0259rini tutub c\u0131r\u0131lan yerl\u0259rini tik\u0259c\u0259y\u0259m. Onu \u0259vv\u0259lki hal\u0131na salaca\u011fam,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "ona g\u00f6r\u0259 ki qalan Edomlulara v\u0259 M\u0259nim ad\u0131mla \u00e7a\u011f\u0131r\u0131lan b\u00fct\u00fcn mill\u0259tl\u0259r\u0259 sahib olsunlar\u201d R\u0259bb bel\u0259 b\u0259yan edir."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "R\u0259bb b\u0259yan edir: \u201cBudur, el\u0259 g\u00fcnl\u0259r g\u0259l\u0259c\u0259k ki, Kotan s\u00fcr\u0259n bi\u00e7in\u00e7iy\u0259 yeti\u015f\u0259c\u0259k, \u00dcz\u00fcm s\u0131xan meyn\u0259 \u0259k\u0259nl\u0259 rastla\u015facaq, Da\u011flardan \u015firin \u015f\u0259rab damacaq, B\u00fct\u00fcn t\u0259p\u0259l\u0259rd\u0259n d\u0259 axacaq."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Xalq\u0131m \u0130sraili \u0259sirlikd\u0259n qaytaraca\u011fam, Viran \u015f\u0259h\u0259rl\u0259ri tikib m\u0259sk\u0259n salacaqlar. \u00dcz\u00fcml\u00fckl\u0259r \u0259kib \u015f\u0259rab\u0131n\u0131 i\u00e7\u0259c\u0259kl\u0259r, Ba\u011flar sal\u0131b meyv\u0259sind\u0259n yey\u0259c\u0259kl\u0259r."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Onlar\u0131 \u00f6zl\u0259rinin torpa\u011f\u0131nda yerl\u0259\u015fdir\u0259c\u0259y\u0259m, Onlara verdiyim torpaqdan bir daha k\u0259nara at\u0131lmayacaqlar\u201d Allah\u0131n R\u0259bb bel\u0259 deyir\u00bb."
+                }
+            }
+        }
+    }
+}

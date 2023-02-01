@@ -1,0 +1,3822 @@
+{
+    "version": "TLA",
+    "book_name": "Proverbs",
+    "book_nr": "20",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Prop\u00f3sito de este libro - \u00c9stos son los proverbios de Salom\u00f3n, hijo de David, rey de Israel."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Estos proverbios tienen como prop\u00f3sito que ustedes los j\u00f3venes lleguen a ser sabios, corrijan su conducta y entiendan palabras bien dichas y bien pensadas. Tambi\u00e9n sirven para ense\u00f1ar a los que no tienen experiencia, a fin de que sean cuidadosos, honrados y justos en todo; que muestren astucia y conocimiento, y piensen bien lo que hacen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Estos proverbios tienen como prop\u00f3sito que ustedes los j\u00f3venes lleguen a ser sabios, corrijan su conducta y entiendan palabras bien dichas y bien pensadas. Tambi\u00e9n sirven para ense\u00f1ar a los que no tienen experiencia, a fin de que sean cuidadosos, honrados y justos en todo; que muestren astucia y conocimiento, y piensen bien lo que hacen."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Estos proverbios tienen como prop\u00f3sito que ustedes los j\u00f3venes lleguen a ser sabios, corrijan su conducta y entiendan palabras bien dichas y bien pensadas. Tambi\u00e9n sirven para ense\u00f1ar a los que no tienen experiencia, a fin de que sean cuidadosos, honrados y justos en todo; que muestren astucia y conocimiento, y piensen bien lo que hacen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ustedes, los sabios e inteligentes, escuchen lo que voy a decirles. As\u00ed se har\u00e1n m\u00e1s sabios y ganar\u00e1n experiencia."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "As\u00ed podr\u00e1n entender lo que es un proverbio lo que es un ejemplo, y lo que es una adivinanza."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Todo el que quiera ser sabio debe empezar por obedecer a Dios. Pero la gente ignorante no quiere ser corregida ni llegar a ser sabia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Consejos contra los falsos amigos - Querido jovencito: Atiende a tu padre cuando te llame la atenci\u00f3n, y muestra respeto cuando tu madre te ense\u00f1e."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sus ense\u00f1anzas te adornar\u00e1n como una corona en la cabeza, como un collar en el cuello."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Querido jovencito, si los malvados quieren que te portes mal, no te dejes llevar por ellos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tal vez te digan: \u00abVen con nosotros, ataquemos al primero que pase y quit\u00e9mosle lo que traiga. Si se muere, que se muera, y que se lo coman los gusanos. \u00a1Matemos por el gusto de matar!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tal vez te digan: \u00abVen con nosotros, ataquemos al primero que pase y quit\u00e9mosle lo que traiga. Si se muere, que se muera, y que se lo coman los gusanos. \u00a1Matemos por el gusto de matar!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Con lo que robemos, llenaremos nuestras casas y nos haremos ricos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00a1J\u00fantate con nosotros, y juntos nos repartiremos todo lo que ganemos!\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00a1Pero no lo hagas, jovencito! \u00a1No sigas su mal ejemplo! \u00a1No dejes que te enga\u00f1en!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00a1Tal parece que tienen prisa de hacer lo malo y de matar gente!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ning\u00fan p\u00e1jaro cae en la trampa si ve a quien lo quiere atrapar."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pero estos malvados juegan con su vida y acabar\u00e1n por perderla."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Acabar\u00e1n muy mal los que quieren hacerse ricos sin importarles c\u00f3mo lograrlo: \u00a1acabar\u00e1n perdiendo la vida!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "La sabidur\u00eda llama a los j\u00f3venes - La sabidur\u00eda se deja o\u00edr por calles y avenidas."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Por las esquinas m\u00e1s transitadas y en los lugares m\u00e1s concurridos se le oye decir con insistencia:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00abUstedes, jovencitos sin experiencia, enamorados de su propia ignorancia; y ustedes, jovencitos malcriados, que parecen muy contentos con su mala educaci\u00f3n, \u00bfseguir\u00e1n siendo siempre as\u00ed? Y ustedes, los ignorantes, \u00bfseguir\u00e1n odiando el conocimiento?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u00a1H\u00e1ganme caso cuando los instruya! As\u00ed compartir\u00e9 con ustedes mis ense\u00f1anzas y pensamientos."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Yo los llamo, pero ustedes no me responden; les hago se\u00f1as, pero ustedes no me hacen caso."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Rechazan todos mis consejos, y desobedecen mis rega\u00f1os."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00a1Pues yo tambi\u00e9n me burlar\u00e9 cuando est\u00e9n llenos de miedo, y se queden en la ruina! Ser\u00e1 como si los arrastrara el viento o les cayera una tormenta."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u00a1Pues yo tambi\u00e9n me burlar\u00e9 cuando est\u00e9n llenos de miedo, y se queden en la ruina! Ser\u00e1 como si los arrastrara el viento o les cayera una tormenta."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Me llamar\u00e1n, y no les responder\u00e9; me buscar\u00e1n, y no me encontrar\u00e1n."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Ustedes no quieren aprender ni obedecer a Dios;"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "no siguen mis consejos, ni aceptan mis ense\u00f1anzas."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Por eso recibir\u00e1n su merecido: \u00a1tendr\u00e1n problemas de sobra!"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "\u00a1Sufrir\u00e1n las consecuencias de sus malas decisiones y de su mala conducta! \u00a1Acabar\u00e1n siendo destruidos por su necedad y por su poca atenci\u00f3n!"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Pero los que me hagan caso vivir\u00e1n tranquilos y en paz, y no tendr\u00e1n miedo del mal\u00bb."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La sabidur\u00eda y sus ventajas - Querido jovencito, acepta mis ense\u00f1anzas; valora mis mandamientos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Trata de ser sabio y act\u00faa con inteligencia."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pide entendimiento y busca la sabidur\u00eda como si buscaras plata o un tesoro escondido."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pide entendimiento y busca la sabidur\u00eda como si buscaras plata o un tesoro escondido."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "As\u00ed llegar\u00e1s a entender lo que es obedecer a Dios y conocerlo de verdad."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "S\u00f3lo Dios puede hacerte sabio; s\u00f3lo Dios puede darte conocimiento."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dios ayuda y protege a quienes son honrados y siempre hacen lo bueno."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dios cuida y protege a quienes siempre lo obedecen y se preocupan por el d\u00e9bil."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "S\u00f3lo \u00e9l te har\u00e1 entender lo que es bueno y justo, y lo que es siempre tratar a todos por igual."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "La sabidur\u00eda y el conocimiento llenar\u00e1n tu vida de alegr\u00eda."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Piensa bien antes de actuar, y estar\u00e1s bien protegido;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "el mal no te alcanzar\u00e1 ni los malvados podr\u00e1n contigo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Esa gente deja de hacer el bien para s\u00f3lo hacer el mal;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "son felices haciendo lo malo y festejando sus malas acciones."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00a1Todo lo que hacen es para destruir a los dem\u00e1s!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "La sabidur\u00eda te librar\u00e1 de la mujer que enga\u00f1a a su esposo, y tambi\u00e9n te enga\u00f1a a ti con sus dulces mentiras; de esa mujer que se olvida de su promesa ante Dios."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "La sabidur\u00eda te librar\u00e1 de la mujer que enga\u00f1a a su esposo, y tambi\u00e9n te enga\u00f1a a ti con sus dulces mentiras; de esa mujer que se olvida de su promesa ante Dios."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "El que se mete con ella puede darse por muerto."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00a1El que se mete con ella ya no vuelve a la vida!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Querido jovencito, t\u00fa sigue por el buen camino y haz siempre lo correcto,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "porque s\u00f3lo habitar\u00e1n la tierra y permanecer\u00e1n en ella los que siempre hagan lo bueno."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "En cambio, esos malvados, en los que no se puede confiar, ser\u00e1n destruidos por completo."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Otras ventajas de la sabidur\u00eda - Querido jovencito, gr\u00e1bate bien mis ense\u00f1anzas; memoriza mis mandamientos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "As\u00ed te ir\u00e1 siempre bien por el resto de tu vida."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ama siempre a Dios y s\u00e9 sincero con tus amigos;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "as\u00ed estar\u00e1s bien con Dios y con tus semejantes."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pon toda tu confianza en Dios y no en lo mucho que sabes."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Toma en cuenta a Dios en todas tus acciones, y \u00e9l te ayudar\u00e1 en todo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "No te creas muy sabio; obedece a Dios y al\u00e9jate del mal;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "as\u00ed te mantendr\u00e1s sano y fuerte."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Demu\u00e9strale a Dios que para ti \u00e9l es lo m\u00e1s importante. Dale de lo que tienes y de todo lo que ganes;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "as\u00ed nunca te faltar\u00e1 ni comida ni bebida."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Querido jovencito, no rechaces la instrucci\u00f3n de Dios ni te enojes cuando te reprenda."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque Dios corrige a quienes ama, como corrige un padre a sus hijos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dios bendice al joven que act\u00faa con sabidur\u00eda,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "y que saca de ella m\u00e1s provecho que del oro y la plata."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La sabidur\u00eda y el conocimiento valen m\u00e1s que las piedras preciosas; \u00a1ni los tesoros m\u00e1s valiosos se les pueden comparar!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Por un lado, te dan larga vida; por el otro, buena fama y riquezas."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Qu\u00e9 grato es seguir sus consejos, pues en ellos hay bienestar."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00a1Dios bendice al joven que ama a la sabidur\u00eda, pues de ella obtiene la vida!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Con sabidur\u00eda y gran cuidado Dios afirm\u00f3 cielo y tierra."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Con su conocimiento hizo brotar lagos y r\u00edos y dej\u00f3 caer la lluvia."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Querido jovencito, aprende a tomar buenas decisiones y piensa bien lo que haces."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Hacerlo as\u00ed te dar\u00e1 vida y los dem\u00e1s te admirar\u00e1n."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Andar\u00e1s por la vida sin problemas ni tropiezos."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Cuando te acuestes, podr\u00e1s dormir tranquilo y sin preocupaciones."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "No sufrir\u00e1s las desgracias que caen sobre los malvados."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Dios siempre estar\u00e1 a tu lado y nada te har\u00e1 caer."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "No te niegues a hacer un favor, siempre que puedas hacerlo."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Nunca digas: \u00abTe ayudar\u00e9 ma\u00f1ana\u00bb, cuando puedas ayudar hoy."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Nunca traiciones al amigo que conf\u00eda en ti."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "No andes buscando pleitos, si nadie te ha hecho da\u00f1o."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "No envidies a los violentos ni sigas su mal ejemplo."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Dios no soporta a los malvados, pero es amigo de la gente honrada."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Dios bendice el hogar del hombre honrado, pero maldice la casa del malvado."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Dios se burla de los burlones, pero brinda su ayuda a los humildes."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Los sabios merecen honra, y los tontos, s\u00f3lo deshonra."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "No hay nada como la sabidur\u00eda - Queridos jovencitos: cuando su padre los instruya, pr\u00e9stenle atenci\u00f3n, si realmente quieren aprender."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Yo, como maestro, les doy este buen consejo: no abandonen sus ense\u00f1anzas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Yo tambi\u00e9n fui ni\u00f1o; tuve un padre y una madre que me trataban con ternura."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mi padre me dio este consejo: \u00abGr\u00e1bate bien lo que te digo, y haz lo que te mando; as\u00ed tendr\u00e1s larga vida."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hazte cada vez m\u00e1s sabio y entendido; nunca olvides mis ense\u00f1anzas. \u00a1Jam\u00e1s te apartes de ellas!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Si amas a la sabidur\u00eda y nunca la abandonas, ella te cuidar\u00e1 y te proteger\u00e1."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Lo que realmente importa es que cada d\u00eda seas m\u00e1s sabio y que aumentes tus conocimientos, aunque tengas que vender todo lo que poseas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Valoriza el conocimiento, y tu vida tendr\u00e1 m\u00e1s valor; si haces tuyo el conocimiento, todos te tratar\u00e1n con respeto,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "y quedar\u00e1n admirados de tu gran sabidur\u00eda."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbEsc\u00fachame, jovencito: hazme caso y vivir\u00e1s muchos a\u00f1os."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Yo, como maestro, te ense\u00f1o a vivir sabiamente y a siempre hacer el bien."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vayas r\u00e1pido o despacio, no tendr\u00e1s ning\u00fan problema para alcanzar el \u00e9xito."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Acepta mis ense\u00f1anzas y no te apartes de ellas; cu\u00eddalas mucho, que de ellas depende tu vida."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "No te juntes con gente malvada ni sigas su mal ejemplo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00a1Al\u00e9jate de su compa\u00f1\u00eda! \u00a1Al\u00e9jate, y sigue adelante!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Esa gente no duerme hasta que hace algo malo; \u00a1no descansa hasta destruir a alguien!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "En vez de comer, se satisface cometiendo maldades; en vez de beber, festeja la violencia que comete."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00bbLa vida de los hombres buenos brilla como la luz de la ma\u00f1ana: va siendo m\u00e1s y m\u00e1s brillante, hasta que alcanza todo su esplendor."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "La vida de los malvados es todo lo contrario: es como una gran oscuridad donde no saben ni en qu\u00e9 tropiezan."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00bbQuerido jovencito, escucha bien lo que te digo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Gr\u00e1bate bien mis ense\u00f1anzas, y no te apartes de ellas,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "pues son una fuente de vida para quienes las encuentran; son el remedio para una vida mejor."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Y sobre todas las cosas, cuida tu mente, porque ella es la fuente de la vida."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "No te rebajes diciendo palabras malas e indecentes."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Pon siempre tu mirada en lo que est\u00e1 por venir."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Corrige tu conducta, afirma todas tus acciones."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Por nada de este mundo dejes de hacer el bien; \u00a1ap\u00e1rtate de la maldad!\u00bb"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Advertencias contra la mujer infiel - Querido jovencito, atiende a mis sabios consejos,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "para que cuando hables lo hagas con sabidur\u00eda."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "La mujer infiel te enga\u00f1a con palabras suaves y dulces,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "que al fin de cuentas resultan m\u00e1s amargas que la hiel y m\u00e1s peligrosas que una espada."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Quien se enreda con ella, \u00a1va derecho a la tumba!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A ella no le importa lo que digan de su conducta; lleva una vida sin control, pero no lo reconoce."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Querido jovencito, esc\u00fachame: \u00a1no desprecies mis consejos!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ap\u00e1rtate de esa mujer y no te acerques a su casa,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "o acabar\u00e1s entregando tu salud y los mejores a\u00f1os de tu vida a gente cruel y peligrosa;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00a1todo tu salario, y el dinero que con tanto esfuerzo te ganaste, ir\u00e1 a parar en otras manos!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Cuando te hayas quedado pobre, dir\u00e1s entre llantos y lamentos: \u00ab\u00a1Pobre de m\u00ed, pobre de m\u00ed! \u00a1Nunca acept\u00e9 ning\u00fan consejo!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cuando te hayas quedado pobre, dir\u00e1s entre llantos y lamentos: \u00ab\u00a1Pobre de m\u00ed, pobre de m\u00ed! \u00a1Nunca acept\u00e9 ning\u00fan consejo!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Jam\u00e1s les hice caso a mis maestros, ni obedec\u00ed a los que me orientaban."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00a1Ahora estoy casi en la desgracia ante toda la comunidad!\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "S\u00e9 fiel a tu esposa - Si quieres disfrutar del amor, disfr\u00fatalo con tu esposa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00a1Guarda tu amor s\u00f3lo para ella! \u00a1No se lo des a ninguna otra!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "No compartas con nadie el gozo de tu matrimonio."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00a1Bendita sea tu esposa, la novia de tu juventud!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Es como una linda venadita; deja que su amor y sus caricias te hagan siempre feliz."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Dios mira tu conducta - Querido jovencito, no dejes que otra mujer te cautive ni busques las caricias de la mujer casada."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Dios mira con mucha atenci\u00f3n la conducta de todos nosotros."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "El pecado y las malas acciones son trampas para el malvado, y lo hacen su prisionero."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "As\u00ed muere esta clase de gente que no quiere ser corregida; \u00a1su falta de entendimiento acaba por destruirla!"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Piensa antes de actuar - Querido jovencito, si alg\u00fan amigo te pide que respondas por \u00e9l y te comprometas a pagar sus deudas,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "no aceptes ese compromiso, pues caer\u00e1s en la trampa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "No dejes que tu amigo te atrape; \u00a1mejor ponte a salvo! Te recomiendo que vayas a verlo y le ruegues que no te comprometa."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Que no te agarren de tonto;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "mejor ponte a salvo, como huyen del cazador, las aves y los venados."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "No seas perezoso - \u00a1Vamos, joven perezoso, f\u00edjate en la hormiga! \u00a1F\u00edjate en c\u00f3mo trabaja, y aprende a ser sabio como ella!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "La hormiga no tiene jefes, ni capataces ni gobernantes,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "pero durante la cosecha recoge su comida y la guarda."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jovencito perezoso, \u00bfcu\u00e1nto m\u00e1s seguir\u00e1s durmiendo?, \u00bfcu\u00e1ndo vas a despertar?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Te duermes un poco, te tomas la siesta, tomas un descansito y te cruzas de brazos..."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00a1As\u00ed acabar\u00e1s en la m\u00e1s terrible pobreza!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "No seas mentiroso - Hay gente mala y sinverg\u00fcenza que anda contando mentiras;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "para enga\u00f1ar a los otros, gui\u00f1a el ojo, apunta con los dedos, y hace se\u00f1as con los pies."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Esa gente s\u00f3lo piensa hacer lo malo, y siempre anda provocando pleitos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Por eso la desgracia vendr\u00e1 sobre ellos de repente; cuando menos lo esperen, ser\u00e1n destruidos sin remedio."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "No provoques peleas - Hay seis clases de gente, y puede a\u00f1adirse una m\u00e1s que Dios no puede soportar:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "La gente orgullosa, la gente violenta, la gente mentirosa,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "la gente malvada, la gente ansiosa de hacer lo malo,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "la gente que miente en un juicio, y la que provoca pleitos familiares."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Cuidado con la mujer infiel - Querido jovencito, cumple al pie de la letra con los mandamientos de tu padre y con las ense\u00f1anzas de tu madre."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Gr\u00e1batelos en la memoria, y tenlos siempre presentes;"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "te mostrar\u00e1n el camino a seguir, velar\u00e1n tu sue\u00f1o mientras duermes, y hablar\u00e1n contigo cuando despiertes."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Los mandamientos y las ense\u00f1anzas son como una l\u00e1mpara encendida; la correcci\u00f3n y la disciplina te mostrar\u00e1n c\u00f3mo debes vivir;"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "te cuidar\u00e1n de la mujer infiel, que con palabras dulces te convence."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "No pienses en esa malvada; no te dejes enga\u00f1ar por su hermosura ni te dejes cautivar por su mirada."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Por una prostituta puedes perder la comida, pero por la mujer de otro puedes perder la vida."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Si te echas brasas en el pecho, te quemar\u00e1s la ropa;"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "si caminas sobre brasas, te quemar\u00e1s los pies;"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "si te enredas con la esposa de otro, no quedar\u00e1s sin castigo."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "No se ve mal que un ladr\u00f3n robe para calmar su hambre,"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "aunque si lo sorprenden robando debe devolver siete veces el valor de lo robado; a veces tiene que pagar con todas sus posesiones."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Pero el que se enreda con la mujer de otro comete la peor estupidez: busca golpes, encuentra verg\u00fcenzas, \u00a1y acaba perdiendo la vida!"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Pero el que se enreda con la mujer de otro comete la peor estupidez: busca golpes, encuentra verg\u00fcenzas, \u00a1y acaba perdiendo la vida!"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Adem\u00e1s, el marido enga\u00f1ado da rienda suelta a su furia; si de vengarse se trata, no perdona a nadie."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Un marido ofendido no acepta nada a cambio; no se da por satisfecho ni con todo el oro del mundo."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Invitaci\u00f3n de la mujer infiel - Querido jovencito, ten presente lo que te digo y obedece mis mandamientos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "C\u00famplelos, y vivir\u00e1s; gr\u00e1balos en tu mente, nunca te olvides de ellos. Cuida mis ense\u00f1anzas como a tu propia vida."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "C\u00famplelos, y vivir\u00e1s; gr\u00e1balos en tu mente, nunca te olvides de ellos. Cuida mis ense\u00f1anzas como a tu propia vida."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hazte hermano de la sabidur\u00eda; hazte amigo del conocimiento,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "y te librar\u00e1 de la mujer que te enga\u00f1a con sus palabras y le es infiel a su esposo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Un d\u00eda en que yo estaba mirando a trav\u00e9s de la ventana,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "vi entre los muchachos imprudentes a uno m\u00e1s imprudente que otros."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Lleg\u00f3 a la esquina, cruz\u00f3 la calle, y lentamente se dirigi\u00f3 a la casa de esa mujer."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ya hab\u00eda ca\u00eddo la noche. El d\u00eda llegaba a su fin."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "En ese preciso instante la mujer sali\u00f3 a su encuentro. Iba vestida como una prostituta, y no disimulaba sus intenciones."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Llamaba mucho la atenci\u00f3n; se ve\u00eda que era una mujer incapaz de quedarse en casa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "A esa clase de mujeres se las ve andar por las calles, o andar vagando por las plazas, o detenerse en cada esquina esperando a ver qui\u00e9n pasa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Cuando la mujer vio al joven, se le ech\u00f3 al cuello y lo bes\u00f3, y abiertamente le propuso:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00abPuedo invitarte a comer de la carne ofrecida a mis dioses. Hoy les cumpl\u00ed mis promesas, y estoy en paz con ellos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Por eso sal\u00ed a tu encuentro; te buscaba, \u00a1y ya te encontr\u00e9!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Tengo tendida en la cama una colcha muy fina y colorida."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mi cama despide el aroma de los perfumes m\u00e1s excitantes."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ven conmigo; hagamos el amor hasta ma\u00f1ana."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Mi esposo no est\u00e1 en casa, pues ha salido de viaje."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Llen\u00f3 de dinero sus bolsas, y no volver\u00e1 hasta mediados del mes\u00bb."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Con tanta dulzura le habl\u00f3, que lo hizo caer en sus redes."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Y el joven se fue tras ella como va el buey al matadero; cay\u00f3 en la trampa como un venado"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "cuando le clavan la flecha; cay\u00f3 como los p\u00e1jaros, que vuelan contra la red sin saber que perder\u00e1n la vida."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Querido jovencito: obed\u00e9ceme; pon atenci\u00f3n a lo que te digo."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "No pienses en esa mujer, ni pierdas por ella la cabeza."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Por culpa suya muchos han muerto; \u00a1sus v\u00edctimas son ya demasiadas!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Todo el que entra en su casa va derecho a la tumba."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Invitaci\u00f3n de la sabidur\u00eda - \u00a1La sabidur\u00eda est\u00e1 llamando! \u00a1Gritando est\u00e1 la experiencia!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Se para a la orilla del camino o a la mitad de la calle, para que todos puedan verla."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Se para junto a los portones, a la entrada de la ciudad, y grita a voz en cuello:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00abGente de todo el mundo, \u00a1a ustedes estoy llamando!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jovencitos ignorantes, muchachitos inexpertos, \u00a1piensen bien lo que hacen!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pr\u00e9stenme atenci\u00f3n, pues voy a decirles algo importante;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "no me gusta la mentira ni tampoco la hipocres\u00eda, siempre digo la verdad."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "no me gusta la mentira ni tampoco la hipocres\u00eda, siempre digo la verdad."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "La gente que sabe entender reconoce que mis palabras son justas y verdaderas."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "No busquen las riquezas, mejor busquen mis ense\u00f1anzas y adquieran mis conocimientos,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "pues son m\u00e1s valiosos que el oro y la plata. \u00a1Los m\u00e1s ricos tesoros no se comparan conmigo!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00bbYo soy la sabidur\u00eda, y mi compa\u00f1era es la experiencia; siempre pienso antes de actuar."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Los que obedecen a Dios aborrecen la maldad. Yo aborrezco a la gente que es orgullosa y presumida, que nunca dice la verdad ni vive como es debido."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Yo tengo en mi poder el consejo y el buen juicio, el valor y el entendimiento."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Yo hago que act\u00faen con justicia reyes, pr\u00edncipes y gobernantes."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Yo hago que act\u00faen con justicia reyes, pr\u00edncipes y gobernantes."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Yo amo a los que me aman, y me dejo encontrar por todos los que me buscan."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Mis compa\u00f1eras son la riqueza, el honor, la abundancia y la justicia."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Lo que tengo para ofrecer vale m\u00e1s que el oro y la plata."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Siempre act\u00fao con justicia,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "y lleno de riquezas a todos los que me aman."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00bbDios fue quien me cre\u00f3. Me form\u00f3 desde el principio, desde antes de crear el mundo. A\u00fan no hab\u00eda creado nada cuando me hizo nacer a m\u00ed."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "\u00bbDios fue quien me cre\u00f3. Me form\u00f3 desde el principio, desde antes de crear el mundo. A\u00fan no hab\u00eda creado nada cuando me hizo nacer a m\u00ed."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Nac\u00ed cuando a\u00fan no hab\u00eda mares ni manantiales."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Nac\u00ed mucho antes de que Dios hiciera los cerros y las monta\u00f1as, la tierra y sus paisajes."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Nac\u00ed mucho antes de que Dios hiciera los cerros y las monta\u00f1as, la tierra y sus paisajes."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Yo vi cuando Dios puso el cielo azul sobre los mares;"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "cuando puso las nubes en el cielo y cerr\u00f3 las fuentes del gran mar,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "cuando les orden\u00f3 a las aguas no salirse de sus l\u00edmites. \u00bbCuando Dios afirm\u00f3 la tierra, yo estaba all\u00ed, a su lado, como su consejera. Mi dicha de todos los d\u00edas era siempre gozar de su presencia."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "cuando les orden\u00f3 a las aguas no salirse de sus l\u00edmites. \u00bbCuando Dios afirm\u00f3 la tierra, yo estaba all\u00ed, a su lado, como su consejera. Mi dicha de todos los d\u00edas era siempre gozar de su presencia."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "El mundo creado por Dios me llenaba de alegr\u00eda; \u00a1la humanidad creada por Dios me llenaba de felicidad!"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "\u00bbQuerido jovencito, \u00a1esc\u00fachame bien! Dios te bendecir\u00e1 si sigues mis consejos."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Acepta mis ense\u00f1anzas; no las rechaces. \u00a1Piensa con la cabeza!"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Si todos los d\u00edas vienes a mi casa y escuchas mis ense\u00f1anzas, Dios te bendecir\u00e1."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Los que me encuentran, encuentran tambi\u00e9n la vida y reciben bendiciones de Dios;"
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "pero los que me ofenden ponen su vida en peligro; odiarme es amar la muerte\u00bb."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La sabidur\u00eda y la ignorancia - La sabidur\u00eda hizo una casa y le puso siete columnas labradas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hizo adem\u00e1s una fiesta, en la que ofreci\u00f3 el mejor vino. Una vez puesta la mesa,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "mand\u00f3 mensajeras a la parte alta de la ciudad, para que desde all\u00ed gritaran:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00abJovencitos sin experiencia, ya que les falta entendimiento, vengan conmigo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vengan a gozar de mi banquete; beban del vino que he preparado."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Si realmente quieren vivir, d\u00e9jense de tonter\u00edas y act\u00faen con inteligencia."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbSi corriges a los burlones, s\u00f3lo ganar\u00e1s que te insulten; si reprendes a los malvados, s\u00f3lo te ganar\u00e1s su desprecio."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "No reprendas a los burlones, o acabar\u00e1n por odiarte; mejor reprende a los sabios, y acabar\u00e1n por amarte."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Educa al sabio, y aumentar\u00e1 su sabidur\u00eda; ens\u00e9\u00f1ale algo al justo, y aumentar\u00e1 su saber."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbTodo el que quiera ser sabio que comience por obedecer a Dios; conocer al Dios santo es dar muestras de inteligencia."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Yo, la sabidur\u00eda, te dar\u00e9 muchos a\u00f1os de vida."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Si eres sabio, t\u00fa eres quien sale ganando; pero si eres malcriado, sufrir\u00e1s las consecuencias\u00bb."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La ignorancia es escandalosa, tonta y sinverg\u00fcenza."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Cuando est\u00e1 en su casa, se sienta a la entrada misma; cuando est\u00e1 en la ciudad, se sienta donde todos la vean,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "y llama a los distra\u00eddos que pasan por el camino:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00abJovencitos inexpertos, faltos de entendimiento, \u00a1vengan conmigo!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00a1No hay nada m\u00e1s sabroso que beber agua robada! \u00a1No hay pan que sepa tan dulce como el que se come a escondidas!\u00bb"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pero estos tontos no saben que esa casa es un cementerio; \u00a1no saben que sus invitados ahora est\u00e1n en el fondo de la tumba!"
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Los dichos del sabio Salom\u00f3n - Qu\u00e9 dicha es tener un hijo sabio; qu\u00e9 triste es tener un hijo tonto."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "De muy poco aprovecha el dinero mal ganado. Lo que vale es la honradez, pues te salva de la muerte."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dios calma el hambre de la gente buena, pero no el apetito de la gente malvada."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Si no trabajas, te quedas pobre; si trabajas, te vuelves rico."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El que es precavido guarda comida durante el verano; el que duerme durante la cosecha termina en la verg\u00fcenza."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Al hombre honrado, Dios lo bendice; al malvado, la violencia lo domina."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Al hombre honrado, Dios lo bendice; al malvado, su mala fama lo destruye."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "El hombre sabio cumple una orden; el imprudente acaba en la ruina."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El que vive honradamente lleva una vida tranquila. El que es sinverg\u00fcenza un d\u00eda ser\u00e1 descubierto."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "El enga\u00f1o causa muchos problemas y la imprudencia lleva a la ruina."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Las palabras del hombre honrado son una fuente de vida. Al malvado, la violencia lo domina."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "El odio produce m\u00e1s odio; el amor todo lo perdona."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "En los labios del sabio no falta la sabidur\u00eda; en la espalda del imprudente no faltan los garrotazos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "El sabio sabe callar; el tonto habla y causa problemas."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Al rico lo defiende su riqueza; al pobre no lo defiende nada."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00bfQu\u00e9 gana el justo? La vida. \u00bfQu\u00e9 gana el malvado? El pecado."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El que acepta la correcci\u00f3n tendr\u00e1 una larga vida, pero quien no oye consejos no llegar\u00e1 muy lejos."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Los mentirosos no muestran su odio, pero los tontos todo lo cuentan."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Hablar mucho es de tontos; saber callar es de sabios."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "La palabra justa vale mucho; los planes malvados no valen nada."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "El buen consejo es ayuda de muchos, pero la imprudencia es trampa de tontos."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "La bendici\u00f3n de Dios es riqueza que viene libre de preocupaciones."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Al tonto lo divierte la maldad; al sabio lo entretiene la sabidur\u00eda."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Lo que menos desea el malvado es lo que m\u00e1s le sucede, en cambio al que es honrado se le cumplen sus deseos."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Llegan los problemas, se acaban los malvados; \u00a1s\u00f3lo el que es honrado permanece para siempre!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "El mensajero perezoso es peor que vinagre en los dientes; \u00a1es peor que humo en los ojos!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Quien obedece a Dios vivir\u00e1 muchos a\u00f1os, pero el malvado no vivir\u00e1 mucho tiempo."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "A los justos les espera la felicidad; a los malvados, la ruina."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Dios cuida de los buenos, pero destruye a los malvados."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Los buenos nunca fracasar\u00e1n; los malvados no habitar\u00e1n la tierra."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Los buenos hablan siempre con sabidur\u00eda; a los malvados se les obliga a callar."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Los buenos saben decir cosas bonitas; los malvados s\u00f3lo dicen cosas feas."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00a1Cuidado con lo que haces!//\u00a1Cuidado con lo que dices! - Dios rechaza a los tramposos, pero acepta a los honrados."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "El orgulloso termina en la verg\u00fcenza, y el humilde llega a ser sabio."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Al bueno lo gu\u00eda la justicia; al traidor lo destruye la hipocres\u00eda."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Cuando te enfrentes al Gran Juez, de nada te servir\u00e1n las riquezas; s\u00f3lo haciendo lo que es justo te librar\u00e1s de la muerte."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Cuando somos honrados, todo en la vida es m\u00e1s f\u00e1cil; pero a los malvados su propia maldad los destruye."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cuando somos honrados, estamos a salvo del mal; pero a los traidores su ambici\u00f3n los domina."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Cuando mueren los malvados, mueren con ellos su esperanza y sus sue\u00f1os de grandeza."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A los malvados les cae la desgracia, pero los buenos quedan a salvo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Los chismes de los malvados destruyen a sus semejantes, pero a la gente honrada la salva la sabidur\u00eda."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Cuando los buenos triunfan, la ciudad se alegra; cuando los malvados mueren, todo el mundo hace fiesta."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "La presencia de los buenos trae bienestar a la ciudad; la presencia de los malvados s\u00f3lo le trae desgracias."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "El que es imprudente critica a su amigo; el que piensa lo que dice sabe cu\u00e1ndo guardar silencio."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La gente chismosa todo lo cuenta; la gente confiable sabe callar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Sin buenos gobernantes, la naci\u00f3n fracasa; con muchos consejeros puede salvarse."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Si te comprometes a pagar las deudas de un desconocido, te metes en grandes problemas; evita esos compromisos y vivir\u00e1s tranquilo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "La mujer bondadosa gana respeto, y el hombre emprendedor gana riquezas."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Compad\u00e9cete de los dem\u00e1s y te har\u00e1s bien a ti mismo; pero si les haces da\u00f1o, el da\u00f1o te lo har\u00e1s t\u00fa."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Las ganancias del malvado no son m\u00e1s que una mentira; la verdadera ganancia consiste en hacer el bien."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "El premio del bueno es la vida, y el del malvado es la muerte."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Dios no soporta a los malvados, pues piensan s\u00f3lo en la maldad; en cambio a la gente honrada le muestra su bondad."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Una cosa es segura: Los malvados no quedar\u00e1n sin castigo, pero la gente buena se salvar\u00e1."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "La mujer bella pero tonta es como anillo de oro en la trompa de un cerdo."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Los deseos de los buenos siempre traen bendici\u00f3n; los deseos de los malos s\u00f3lo traen destrucci\u00f3n."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Quienes son generosos, reciben en abundancia; quienes ni sus deudas pagan, acaban en la miseria."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "El que es generoso, progresa; el que siembra, tambi\u00e9n cosecha."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Al que esconde el trigo para venderlo m\u00e1s caro, la gente lo maldice; al que lo vende a buen precio, la gente lo bendice."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Trata de hacer el bien, y te ganar\u00e1s amigos; busca hacer la maldad, y el mal te destruir\u00e1."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Quien conf\u00eda en sus riquezas, se encamina al fracaso; pero quien es honrado camina seguro al triunfo."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "El tonto que da\u00f1a a su familia acaba perdi\u00e9ndolo todo, y termina siendo esclavo del sabio."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "El premio de los buenos es la vida misma, y el premio de los sabios es el aprecio de la gente."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Si aqu\u00ed en la tierra los buenos reciben su recompensa, \u00a1con m\u00e1s raz\u00f3n reciben su merecido los malvados y los pecadores!"
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Haz el bien y vivir\u00e1s - Quien ama la correcci\u00f3n, tambi\u00e9n ama el conocimiento; \u00a1hay que ser tonto para no aprender del castigo!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Al que es bondadoso Dios le muestra su bondad, pero al que es tramposo Dios le da su merecido."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "La maldad no es apoyo seguro; la bondad es una base firme."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "La buena esposa llena de orgullo a su esposo; la mala esposa le arruina la vida."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "La gente buena hace planes justos; la malvada s\u00f3lo piensa en enga\u00f1ar."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cuando habla la gente malvada, tiende trampas mortales; cuando habla la gente buena, libra a otros de la muerte."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Caen los malvados, y termina su existencia; s\u00f3lo queda con vida toda la gente buena."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Al sabio se le alaba por su sabidur\u00eda; al tonto se le desprecia por su estupidez."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "M\u00e1s vale pobre acompa\u00f1ado, que rico abandonado."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Los buenos saben que hasta los animales sufren, pero los malvados de nadie tienen compasi\u00f3n."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El que trabaja la tierra siempre tiene comida de sobra, pero el que sue\u00f1a despierto es un gran tonto."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Los malvados son esclavos de sus malos deseos; pero los buenos son como \u00e1rboles que dan mucho fruto."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Los malvados caen en la trampa de sus propias mentiras; los buenos triunfan sobre el mal."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Cada uno recibe lo que merecen sus palabras y sus hechos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El tonto est\u00e1 seguro de que hace lo correcto; el sabio hace caso del consejo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Los tontos f\u00e1cilmente se enojan; los sabios perdonan la ofensa."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "La gente honrada siempre dice la verdad, pero el testigo falso dice puras mentiras."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "El que habla sin pensar hiere como un cuchillo, pero el que habla sabiamente sabe sanar la herida."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "El que dice la verdad vive una larga vida; el que s\u00f3lo dice mentiras no vive mucho tiempo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "En la mente de los malvados s\u00f3lo hay enga\u00f1o; entre los que aman la paz reina la alegr\u00eda."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "El bueno no sufre ning\u00fan da\u00f1o; al malvado los males le llegan juntos."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Dios no soporta a los mentirosos, pero ama a la gente sincera."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Si realmente eres sabio, no presumas de lo que sabes; s\u00f3lo los tontos se jactan de su estupidez."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Trabaja, y triunfar\u00e1s; no trabajes, y fracasar\u00e1s."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "La angustia causa tristeza; pero una palabra amable trae alegr\u00eda."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "El buen amigo da buenos consejos; el malvado se pierde en su maldad."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "El perezoso se queda sin comida; el trabajador la tiene en abundancia."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Hacer lo bueno da larga vida; haz el bien y vivir\u00e1s."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Recompensa de los buenos,//castigo de los malos - El hijo sabio acepta que su padre lo castigue; el hijo malcriado no permite que le llamen la atenci\u00f3n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Los que hablan de hacer el bien reciben su justo premio, pero los traidores reciben el castigo que se merecen."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El que cuida lo que dice protege su vida; el que s\u00f3lo dice tonter\u00edas provoca su propia desgracia."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El que desea tener sin trabajar, al final no consigue nada; \u00a1trabaja, y todo lo tendr\u00e1s!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "La gente honrada odia la mentira; el malvado siempre causa verg\u00fcenza y deshonra."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Al bueno lo protege su honradez; al pecador lo arruina su maldad."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Algunos dicen ser ricos y no tienen nada; otros dicen ser pobres y nada les falta."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "El rico, por su dinero, corre el peligro de ser secuestrado; el pobre no tiene ese problema, pues nadie lo amenaza."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "La vida de los buenos es luz que llena de alegr\u00eda; la vida de los malvados es una l\u00e1mpara apagada."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "La gente orgullosa provoca peleas; la gente humilde escucha consejos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Lo que f\u00e1cilmente se gana, f\u00e1cilmente se acaba; ahorra poco a poco, y un d\u00eda ser\u00e1s rico."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00a1Qu\u00e9 tristeza da que los deseos no se cumplan! \u00a1Y c\u00f3mo nos llena de alegr\u00eda ver cumplidos nuestros deseos!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Si te burlas de una orden, tendr\u00e1s tu merecido; si la obedeces, tendr\u00e1s tu recompensa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Las ense\u00f1anzas del sabio son una fuente de vida y pueden salvarte de la muerte."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El que da buenos consejos se gana el aprecio de todos, pero el que da malos consejos acabar\u00e1 en la ruina."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "El sabio piensa bien lo que hace; el tonto deja ver su estupidez."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El mensajero malvado te mete en problemas; el buen mensajero te saca de ellos."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Si no aprecias la disciplina, te esperan la pobreza y la deshonra; si aceptas que se te corrija, recibir\u00e1s grandes honores."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00a1C\u00f3mo nos alegramos cuando se cumplen nuestros deseos! \u00a1Y c\u00f3mo le cuesta trabajo al necio apartarse del mal!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Quien con sabios anda a pensar aprende; quien con tontos se junta acaba en la ruina."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "El bien te trae bendiciones; el mal s\u00f3lo te trae problemas."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Las riquezas del hombre bueno ser\u00e1n para sus nietos; las riquezas del pecador ser\u00e1n la herencia de la gente honrada."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "En los campos de los pobres hay comida de sobra; donde hay maldad, todo se pierde."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Si amas a tu hijo, corr\u00edgelo; si no lo amas, no lo castigues."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Los buenos comen hasta llenarse, pero los malvados se quedan con hambre."
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mente sana en cuerpo sano - La mujer sabia une a su familia; la mujer tonta la desbarata."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "La gente honrada obedece a Dios; la gente malvada lo desprecia."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Es de tontos hablar con orgullo; es de sabios ser de pocas palabras."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sin las herramientas apropiadas, el trabajo no da fruto; con buenas herramientas se saca mejor provecho."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El testigo verdadero dice la verdad; el testigo falso siempre dice mentiras."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El malcriado quisiera ser sabio, pero jam\u00e1s llegar\u00e1 a serlo; en cambio, el entendido muy pronto gana conocimientos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Al\u00e9jate de los tontos, que nunca aprender\u00e1s nada de ellos."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "El que es sabio lo demuestra en que piensa bien lo que hace, pero el tonto vive enga\u00f1ado por su propia estupidez."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A los necios no les importa si Dios los perdona o no, pero la gente buena quiere el perd\u00f3n de Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nadie m\u00e1s que t\u00fa conoce realmente tus tristezas y tus alegr\u00edas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "La familia del malvado ser\u00e1 destruida, pero el hogar del bueno prosperar\u00e1."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hay cosas que hacemos que nos parecen correctas, pero que al fin de cuentas nos llevan a la tumba."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La mucha risa causa dolor; hay alegr\u00edas que acaban en tristeza."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "La gente tonta es feliz con su mala conducta; la gente buena es feliz con sus buenas acciones."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La gente tonta cree todo lo que le dicen; la gente sabia piensa bien antes de actuar."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "El sabio conoce el miedo y se cuida del peligro, pero el tonto es atrevido y se pasa de confiado."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El que pronto se enoja pronto hace tonter\u00edas, pero el que piensa en lo que hace muestra gran paciencia."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "La recompensa de los tontos es su propia estupidez; el premio de los sabios consiste en saber c\u00f3mo actuar."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Los malvados no resisten la justicia de los buenos."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Si eres pobre, ni tus amigos te buscan; si eres rico, todo el mundo es tu amigo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "No debes despreciar al amigo; \u00a1si eres bueno con los pobres, Dios te bendecir\u00e1!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Los que piensan hacer lo malo cometen un grave error; los que procuran hacer lo bueno reciben el gran amor de Dios."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Todo esfuerzo vale la pena, pero quien habla y no act\u00faa acaba en la pobreza."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "La riqueza del sabio es su sabidur\u00eda; la pobreza del tonto es su estupidez."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "El testigo que dice la verdad salva a otros de la muerte, pero hay testigos mentirosos."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "El que obedece a Dios ya tiene un poderoso protector para \u00e9l y para sus hijos."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "El que obedece a Dios tiene larga vida; ha escapado de la muerte."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Para el rey es un orgullo gobernar a un pueblo numeroso; \u00a1qu\u00e9 verg\u00fcenza es para \u00e9l no tener a qui\u00e9n gobernar!"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "El sabio domina su enojo; el tonto no controla su violencia."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Mente sana en cuerpo sano; por eso la envidia te destruye por completo."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Quien le quita todo al pobre ofende a Dios, su creador; quien obedece a Dios trata bien al pobre."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "El malvado fracasa por su maldad; pero el hombre bueno conf\u00eda en Dios hasta la muerte."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "En la mente del sabio hay lugar para la sabidur\u00eda; pero la gente tonta no llega a conocerla."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "El orgullo de un pueblo es que se haga justicia; la desgracia de los pueblos es que se cometa pecado."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "El ayudante inteligente se gana el aprecio del jefe, pero el empleado sinverg\u00fcenza provoca su enojo."
+                }
+            }
+        },
+        "15": {
+            "chapter_nr": "15",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El valor de la humildad - La respuesta amable calma el enojo; la respuesta grosera lo enciende m\u00e1s."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Cuando los sabios hablan, comparten sus conocimientos; cuando los tontos hablan, s\u00f3lo dicen tonter\u00edas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dios est\u00e1 en todas partes, y vigila a buenos y a malos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Las palabras que brindan consuelo son la mejor medicina; las palabras dichas con mala intenci\u00f3n son causa de mucha tristeza."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El que es tonto no acepta que su padre lo corrija, pero el que es sabio acepta la correcci\u00f3n."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A la familia del hombre honrado nunca le falta nada; al malvado sus ganancias le traen grandes problemas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Cuando los sabios hablan, comparten su conocimiento; \u00a1los ignorantes no hacen esto ni con el pensamiento!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A Dios no le agradan las ofrendas de los malvados, pero recibe con agrado las oraciones de la gente buena."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A Dios no le agrada la conducta de los malvados, pero les muestra su amor a los que aman la justicia."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Un buen castigo merece quien muestra mala conducta; hasta merece la muerte quien no acepta ser corregido."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Para Dios no est\u00e1n ocultos la tumba ni la muerte, ni tampoco nuestros pensamientos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Al malcriado no le gusta que nadie lo corrija, ni se junta con los sabios."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La tristeza y la alegr\u00eda se reflejan en la cara."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Los que aman el conocimiento siempre buscan aprender m\u00e1s; pero los ignorantes hablan y s\u00f3lo dicen tonter\u00edas."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Para el que anda triste, todos los d\u00edas son malos; para el que anda feliz, todos los d\u00edas son alegres."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "M\u00e1s vale ser pobre y obedecer a Dios que ser rico y vivir en problemas."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Las verduras son mejores que la carne cuando se comen con amor."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Quien f\u00e1cilmente se enoja, f\u00e1cilmente entra en pleito; quien mantiene la calma, mantiene la paz."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00a1Qu\u00e9 dif\u00edcil es la vida para el que es perezoso! \u00a1Y qu\u00e9 f\u00e1cil es la vida para la persona honrada!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El hijo sabio alegra a sus padres; el hijo tonto los averg\u00fcenza."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "El tonto encuentra muy graciosa su falta de inteligencia; el que es inteligente corrige su conducta."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ning\u00fan proyecto prospera si no hay buena direcci\u00f3n; los proyectos que alcanzan el \u00e9xito son los que est\u00e1n bien dirigidos."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Es muy bueno dar buenas respuestas, pero responder a tiempo es a\u00fan mejor."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Los sabios van rumbo al cielo; los tontos, rumbo a la muerte."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Dios derriba la casa del orgulloso, pero protege los terrenos de las viudas."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Dios no soporta los planes malvados, pero le agradan las palabras amables."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "El que siempre quiere tener m\u00e1s hace da\u00f1o a su familia, pero el que no vende su honradez a cambio de dinero, tendr\u00e1 una larga vida."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "El bueno piensa antes de responder; el malvado habla y deja ver su maldad."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Dios se aparta de los malvados, pero escucha la oraci\u00f3n de los buenos."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Una mirada amistosa alegra el coraz\u00f3n; una buena noticia renueva las fuerzas."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Si quieres ser sabio, acepta las correcciones que buscan mejorar tu vida."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Quien no acepta la correcci\u00f3n se hace da\u00f1o a s\u00ed mismo; quien la acepta, gana en entendimiento."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Quien obedece a Dios gana en sabidur\u00eda y disciplina; quien quiera recibir honores debe empezar por ser humilde."
+                }
+            }
+        },
+        "16": {
+            "chapter_nr": "16",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Planes humanos,//respuesta de Dios - El hombre propone y Dios dispone."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Todo el mundo cree hacer lo mejor, pero Dios juzga las intenciones."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Deja en manos de Dios todo lo que haces, y tus proyectos se har\u00e1n realidad."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Todo lo que Dios hace tiene un prop\u00f3sito; \u00a1hasta cre\u00f3 al malvado para el d\u00eda del castigo!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dios no soporta a los orgullosos, y una cosa es segura: no los dejar\u00e1 sin castigo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El pecado se perdona cuando se ama de verdad; uno se aleja del mal cuando obedece a Dios."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Cuando Dios est\u00e1 contento con nuestro comportamiento, hasta con nuestros enemigos nos hace vivir en paz."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "M\u00e1s vale ser pobre pero honrado, que ser rico pero tramposo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El hombre planea su futuro, pero Dios le marca el rumbo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "No hay rey que cometa errores, si deja que Dios lo aconseje."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dios quiere que seas honrado en todos tus negocios."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ning\u00fan rey soporta a los malvados; todo buen reinado depende de que se practique la justicia."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Los reyes aprecian a la gente que les habla con la verdad."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "El enojo del rey es amenaza de muerte; el que es sabio procura calmarlo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La sonrisa del rey es promesa de vida; contar con su apoyo es recibir un premio inesperado."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "La sabidur\u00eda y el entendimiento valen m\u00e1s que el oro y la plata."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "La gente honrada se aparta del mal, y as\u00ed protege su vida."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "El orgulloso y arrogante al fin de cuentas fracasa."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Vale m\u00e1s compartir la pobreza de los humildes que las riquezas de los orgullosos."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El buen administrador prospera; \u00a1Dios bendice a quienes en \u00e9l conf\u00edan!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Al que piensa bien las cosas se le llama inteligente; quien habla con dulzura convence mejor."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "El que piensa antes de actuar vivir\u00e1 por muchos a\u00f1os, pero es una tonter\u00eda corregir a los tontos."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Quien piensa bien las cosas se fija en lo que dice; quien se fija en lo que dice convence mejor."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Las palabras amables son como la miel: endulzan la vida y sanan el cuerpo."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Hay quienes piensan que est\u00e1 bien todo lo que hacen, pero al fin de cuentas acaban en la tumba."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Mientras m\u00e1s hambre se tiene, m\u00e1s duro se trabaja."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "El malvado es un horno lleno de maldad; sus palabras queman como el fuego."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "El que es malvado y chismoso provoca peleas y causa divisiones."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "El violento enga\u00f1a a su amigo, y lo lleva por camino de maldad."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Quien te hace se\u00f1as con los ojos y te sonr\u00ede sin raz\u00f3n, algo malo trama contra ti, o algo malo ha cometido."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Llegar a viejo es una honra; las canas son la corona que se gana por ser honrado."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Vale m\u00e1s ser paciente que valiente; vale m\u00e1s dominarse uno mismo que dominar a los dem\u00e1s."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "El hombre propone, y Dios dispone."
+                }
+            }
+        },
+        "17": {
+            "chapter_nr": "17",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La sabidur\u00eda no tiene precio - Vale m\u00e1s pan duro entre amigos que mucha carne entre enemigos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "El sirviente que se esfuerza se convierte en jefe del mal hijo, y se queda con la herencia que a \u00e9ste le tocaba."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El oro y la plata se prueban en el fuego; nuestras intenciones las pone a prueba Dios."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El mentiroso le cree al mentiroso y el malvado le cree al malvado."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Es una ofensa contra Dios burlarse del pobre en desgracia; quien lo haga no quedar\u00e1 sin castigo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El orgullo de los padres son los hijos; la alegr\u00eda de los abuelos son los nietos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tan rid\u00edculo resulta que un tonto pretenda hablar con elegancia, como que un gobernante piense que en su pa\u00eds todos son tontos."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "El que da dinero a otros para que le hagan favores cree tener una varita m\u00e1gica, para conseguir siempre lo que quiere."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Quien perdona gana un amigo; quien no perdona gana un enemigo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "El que es inteligente con un rega\u00f1o aprende, pero el que es necio ni con cien golpes entiende."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El que es revoltoso siempre anda buscando pelea, pero un d\u00eda se enfrentar\u00e1 con un adversario m\u00e1s cruel."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "El necio que cree tener la raz\u00f3n es m\u00e1s peligroso que una osa que defiende a sus cachorros."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Al que es malagradecido siempre le ir\u00e1 mal."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Si comienzas una pelea, ya no podr\u00e1s controlarla; es como un r\u00edo desbordado, que arrastra todo a su paso."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Dios no soporta dos cosas: que el culpable sea declarado inocente, y que el inocente sea declarado culpable."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "De qu\u00e9 le sirve al tonto el dinero, si no tiene entendimiento; \u00a1la sabidur\u00eda no se compra!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El amigo siempre es amigo, y en los tiempos dif\u00edciles es m\u00e1s que un hermano."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Hay que ser muy tonto para salir fiador de otros; \u00bfpor qu\u00e9 pagar deudas ajenas?"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Dime qui\u00e9n pelea y te dir\u00e9 qui\u00e9n peca; dime qui\u00e9n se cree mucho y te dir\u00e9 qui\u00e9n fracasa."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Al que es mal intencionado nunca le ir\u00e1 bien; al que es mentiroso siempre le ir\u00e1 mal."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00a1Qu\u00e9 triste es tener un hijo falto de entendimiento! No es motivo de alegr\u00eda ser el padre de un tonto."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "No hay mejor medicina que tener pensamientos alegres. Cuando se pierde el \u00e1nimo, todo el cuerpo se enferma."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "El malvado se vende por dinero; \u00a1por eso hay tanta injusticia!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "El sabio quiere m\u00e1s sabidur\u00eda; el tonto no sabe lo que quiere."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u00a1Cu\u00e1nto enojo y cu\u00e1nta amargura causa a sus padres el hijo necio!"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "No es justo castigar al inocente, ni azotar al hombre honrado."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Hablar poco es de sabios; la gente inteligente mantiene la calma."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Hasta el tonto pasa por sabio si se calla y mantiene la calma."
+                }
+            }
+        },
+        "18": {
+            "chapter_nr": "18",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Premio o castigo,//t\u00fa lo decides - El que es ego\u00edsta s\u00f3lo piensa en s\u00ed mismo y no acepta ning\u00fan consejo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Al tonto no le interesa aprender, sino mostrar lo poco que sabe."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "La maldad nunca llega sola; viene siempre acompa\u00f1ada de verg\u00fcenza y desprecio."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Las palabras del sabio son fuente de sabidur\u00eda."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00a1Qu\u00e9 malo es declarar inocente al malvado y no hacerle justicia al inocente!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cuando el tonto abre la boca, causa discusiones y pleitos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Cuando el necio abre la boca, pone su vida en peligro."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00a1Qu\u00e9 sabrosos son los chismes, pero cu\u00e1nto da\u00f1o causan!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El vago y el destructor, \u00a1hasta parecen hermanos!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dios es como una alta torre; hacia \u00e9l corren los buenos para ponerse a salvo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El rico cree estar protegido, piensa que sus riquezas son como una ciudad con murallas donde nadie puede hacerle da\u00f1o."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "El orgullo acaba en fracaso; la honra comienza con la humildad."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Es muy tonto y vergonzoso responder antes de escuchar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Con \u00e1nimo se alivia al enfermo, pero no a quien est\u00e1 deprimido."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El que es sabio e inteligente presta atenci\u00f3n y aprende m\u00e1s."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Con un regalo generoso todo el mundo te recibe; \u00a1hasta la gente m\u00e1s importante te abre sus puertas!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El primero en defenderse alega ser inocente, pero llegan los testigos y afirman lo contrario."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Los pleitos m\u00e1s dif\u00edciles hay que ponerlos en manos de Dios."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Es m\u00e1s f\u00e1cil derribar un muro que calmar al amigo ofendido."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Cada uno recibe por sus palabras su premio o su castigo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "La lengua tiene poder para dar vida y para quitarla; los que no paran de hablar sufren las consecuencias."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Si ya tienes esposa, ya tienes lo mejor: \u00a1Dios te ha demostrado su amor!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "El pobre suplica; el rico insulta."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Con ciertos amigos, no hacen falta enemigos, pero hay otros amigos que valen m\u00e1s que un hermano."
+                }
+            }
+        },
+        "19": {
+            "chapter_nr": "19",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El sabio oye consejos - M\u00e1s vale ser pobre y honrado, que ser necio y tramposo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "No es bueno actuar sin pensar; la prisa es madre del error."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El tonto fracasa en todo, y luego dice: \u00ab\u00a1Dios tiene la culpa!\u00bb"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El rico tiene muchos amigos; el pobre no tiene ninguno."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "No hay testigo falso que salga bien librado; todo mentiroso recibe su castigo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A los ricos les sobran amigos; todo el mundo busca su amistad por los regalos que dan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Al pobre ni sus hermanos lo quieren; \u00a1mucho menos lo buscan sus amigos! Cuando m\u00e1s los necesita, no est\u00e1n para ayudarlo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Si en verdad te aprecias, estudia. Bien har\u00e1s en practicar lo aprendido."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "No hay testigo falso que salga bien librado; todos los mentirosos ser\u00e1n destruidos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "No hay nada m\u00e1s absurdo que un tonto viviendo entre lujos, y un esclavo gobernando a reyes."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Es de sabios tener paciencia, y es m\u00e1s honroso perdonar la ofensa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Cuando el rey se enoja, grita como le\u00f3n furioso. Cuando el rey est\u00e1 contento, reanima como fresca lluvia."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "El hijo tonto arruina a su padre, y la mujer peleona poco a poco arruina al marido."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "La casa y el dinero son regalo de los padres; la esposa inteligente es un regalo de Dios."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tanto duerme el perezoso que acaba pasando hambre."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "El que respeta una orden se respeta a s\u00ed mismo; el que deja de cumplirla dicta su sentencia de muerte."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Prestarle al pobre es como prestarle a Dios. \u00a1Y Dios siempre paga sus deudas!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Corrige a tu hijo antes de que sea muy tarde; no te hagas culpable de su muerte."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Quien f\u00e1cilmente se enoja sufrir\u00e1 las consecuencias; no tiene caso calmarlo, pues se enciende m\u00e1s su enojo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El que oye consejo y acepta que lo corrijan acabar\u00e1 siendo sabio."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "El hombre propone, y Dios dispone."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Todo el mundo quiere tener a alguien en quien confiar; todo el mundo prefiere al pobre m\u00e1s que al mentiroso."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Obedece a Dios y vivir\u00e1s; as\u00ed dormir\u00e1s tranquilo y no tendr\u00e1s ning\u00fan temor."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Hay gente tan perezosa que hasta de comer se cansa."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "El tonto s\u00f3lo aprende a trav\u00e9s del castigo; al que es sabio le basta con s\u00f3lo ser reprendido."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "No hay hijo m\u00e1s malo ni m\u00e1s sinverg\u00fcenza que el que roba a su padre y echa a la calle a su madre."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Querido jovencito, si no aceptas la correcci\u00f3n, te apartar\u00e1s de los sabios consejos."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Un testigo malvado se burla de la justicia; su alimento es la maldad."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Para el malcriado, el castigo; para el tonto, los azotes."
+                }
+            }
+        },
+        "20": {
+            "chapter_nr": "20",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dios dirige nuestra vida - Es de tontos emborracharse, porque se pierde el control y se provoca mucho alboroto."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Cuando el rey se enoja es como un le\u00f3n que ruge; quien lo hace enojar, pone en peligro su vida."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Cualquier tonto inicia un pleito, pero quien lo evita merece aplausos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Quien no trabaja en oto\u00f1o se muere de hambre en invierno."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Los planes de la mente humana son profundos como el mar; quien es inteligente los descubre."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hay muchos que afirman ser leales, pero nadie encuentra gente confiable."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dios bendice a los hijos del hombre honrado, cuando ellos siguen su ejemplo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En cuanto el rey se sienta para juzgar al acusado, con una mirada suya acaba con el malvado."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nadie puede decir que tiene buenos pensamientos ni que est\u00e1 limpio de pecado."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Dios no soporta dos cosas: que enga\u00f1es al que te vende, y que enga\u00f1es al que te compra."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Por los hechos se llega a saber si el joven tiene buena conducta."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dios ha creado dos cosas: los o\u00eddos para o\u00edr y los ojos para ver."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Si s\u00f3lo piensas en dormir terminar\u00e1s en la pobreza. Mejor piensa en trabajar, y nunca te faltar\u00e1 comida."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Para el que compra, ninguna mercanc\u00eda es buena; para el que vende, ninguna mercanc\u00eda es mejor."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Podr\u00e1 haber mucho oro, y muchas piedras preciosas, pero nada hay m\u00e1s valioso que las ense\u00f1anzas del sabio."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Si te comprometes a pagar las deudas de un desconocido, te pedir\u00e1n dar algo en garant\u00eda y perder\u00e1s hasta el abrigo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tal vez te sepa muy sabroso ganarte el pan con enga\u00f1os, pero acabar\u00e1s comiendo basura."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Siempre que hagas planes, sigue los buenos consejos; nunca vayas a la guerra sin un buen plan de batalla."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "El que habla mucho no sabe guardar secretos. No te juntes con gente chismosa."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El que maldice a sus padres morir\u00e1 antes de tiempo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Lo que al principio se gana f\u00e1cilmente, al final no trae ninguna alegr\u00eda."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Nunca hables de tomar venganza; mejor conf\u00eda en Dios, y \u00e9l vendr\u00e1 en tu ayuda."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Dios no soporta dos cosas: que enga\u00f1es al que te vende, y que enga\u00f1es al que te compra."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Nadie sabe cu\u00e1l ser\u00e1 su futuro; por eso debemos dejar que Dios dirija nuestra vida."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "No caigas en la trampa de prometerle algo a Dios, para luego no cumplirle."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Cuando el rey sabio castiga al malvado, lo destruye por completo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Dios nos ha dado la conciencia para que podamos examinarnos a nosotros mismos."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "El rey afirma su reinado cuando es fiel a Dios y trata bien a su pueblo."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "El orgullo del joven es su fuerza; el del anciano, su experiencia."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Con golpes y con azotes se corrigen los malos pensamientos."
+                }
+            }
+        },
+        "21": {
+            "chapter_nr": "21",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ante Dios, humildad - En las manos de Dios los planes del rey son como un r\u00edo: toman el curso que Dios quiere darles."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Todo el mundo cree hacer lo mejor, pero Dios juzga las intenciones."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "M\u00e1s que recibir ofrendas y sacrificios, Dios prefiere que se haga justicia y que se practique la honradez."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hay tres cosas que son pecado: ser orgulloso, creerse muy inteligente, y vivir como un malvado."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Cuando las cosas se piensan bien, el resultado es provechoso. Cuando se hacen a la carrera, el resultado es desastroso."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Las riquezas que amontona el mentiroso se desvanecen como el humo; son una trampa mortal."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "La violencia destruye a los malvados porque se niegan a hacer justicia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Quien mal se comporta, lleva una vida dif\u00edcil; quien vive honradamente lleva una vida sin problemas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "M\u00e1s vale vivir en un rinc\u00f3n del patio, que dentro de un palacio con una persona peleona."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "El malvado s\u00f3lo piensa en el mal, y hasta con sus amigos es malvado."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "J\u00f3venes sin experiencia, acepten el consejo de los sabios, y aprendan del castigo a los malcriados."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dios es justo, y sabe bien lo que piensa el malvado; por eso acaba por destruirlo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Quien no hace caso de las s\u00faplicas del pobre, un d\u00eda pedir\u00e1 ayuda y nadie se la dar\u00e1."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Un buen regalo calma el enojo, si se da en el momento oportuno."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El hombre honrado es feliz cuando ve que se hace justicia, \u00a1pero c\u00f3mo se asusta el malvado!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Quien deja de hacer lo bueno, pronto termina en la tumba."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Quien s\u00f3lo piensa en fiestas, en perfumes y en borracheras, se queda en la pobreza y jam\u00e1s llega a rico."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Los malvados y ladrones tendr\u00e1n que pagar el rescate de los hombres buenos y honrados."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Vale m\u00e1s la soledad que la vida matrimonial con una persona agresiva y de mal genio."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "En casa del sabio hay riquezas y perfumes; en casa del tonto s\u00f3lo hay desperdicios."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Busca la justicia y el amor, y encontrar\u00e1s vida, justicia y riquezas."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Basta un solo sabio para conquistar una gran ciudad."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Quien tiene cuidado de lo que dice nunca se mete en problemas."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Qu\u00e9 bien le queda al orgulloso que lo llamen \u00ab\u00a1malcriado y vanidoso!\u00bb"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "El perezoso quiere de todo, lo que no quiere es trabajar. El hombre honrado siempre da y no pide nada a cambio."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "El perezoso quiere de todo, lo que no quiere es trabajar. El hombre honrado siempre da y no pide nada a cambio."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Dios no soporta a los malvados que le traen ofrendas, y no son sinceros."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "El testigo falso ser\u00e1 destruido, pero al testigo verdadero siempre se le da la palabra."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "El malvado parece estar muy seguro; pero s\u00f3lo el hombre honrado est\u00e1 seguro de verdad."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Reconozcamos que ante Dios, no hay sabidur\u00eda ni conocimiento, ni consejos que valgan."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "A los soldados les toca preparar sus caballos para el combate; pero Dios es quien decide a qui\u00e9n darle la victoria."
+                }
+            }
+        },
+        "22": {
+            "chapter_nr": "22",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "De nada valen las riquezas - Vale m\u00e1s ser conocido y respetado que andar presumiendo de rico."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Los ricos y los pobres son criaturas de Dios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El que es inteligente ve el peligro y lo evita; el que es tonto sigue adelante y sufre las consecuencias."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hum\u00edllate y obedece a Dios, y recibir\u00e1s riquezas, honra y vida."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "La conducta de los malvados es una trampa para los dem\u00e1s; si te cuidas a ti mismo te apartar\u00e1s de ella."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Educa a tu hijo desde ni\u00f1o, y aun cuando llegue a viejo seguir\u00e1 tus ense\u00f1anzas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "El pobre trabaja para el rico; el que pide prestado se hace esclavo del prestamista."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Siembra maldad y cosechar\u00e1s desgracia; con el palo que pegues, ser\u00e1s golpeado."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Dios bendice al que es generoso y al que comparte su pan con los pobres."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Aleja de ti al buscapleitos y se acabar\u00e1n los problemas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Al que convence con su sinceridad el rey le brinda su amistad."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Dios protege al sabio, pero pone en verg\u00fcenza al mentiroso."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "El harag\u00e1n siempre pone pretextos para no ir al trabajo; dice que un le\u00f3n en la calle se lo quiere comer."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Los besos de la mujer infiel son una trampa sin fondo; Dios no deja sin castigo a los que se enredan con ella."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La necedad del ni\u00f1o a golpes se corrige."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "El rico que roba al pobre para hacerse m\u00e1s rico acabar\u00e1 en la miseria."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Cucharadas de sabidur\u00eda - Presta atenci\u00f3n a mis palabras, que son consejos sabios, y ponte a pensar en mis ense\u00f1anzas."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Si te las aprendes de memoria y las repites al pie de la letra, tendr\u00e1s una grata experiencia."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Conf\u00eda siempre en Dios. Hoy te doy treinta sabios consejos; los he escrito pensando en ti."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Conf\u00eda siempre en Dios. Hoy te doy treinta sabios consejos; los he escrito pensando en ti."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Son dignos de confianza, para que sepas responder a quienes te pregunten."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "-1- No abuses del pobre s\u00f3lo porque es pobre, ni seas injusto con \u00e9l en los tribunales."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Dios es abogado de los pobres, y dejar\u00e1 sin nada a quienes les quiten todo."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "-2- No te juntes con gente de mal genio ni te hagas amigo de gente violenta,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "porque puedes volverte como ellos y pondr\u00e1s tu vida en peligro."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "-3- No te comprometas a pagar deudas que no sean tuyas,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "porque si no las pagas te quedar\u00e1s en la calle."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "-4- Mant\u00e9n el tama\u00f1o de tu terreno tal como lo recibiste de tus padres."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "-5- Dime qui\u00e9n se esfuerza en el trabajo y te dir\u00e9 qui\u00e9n comer\u00e1 como rey."
+                }
+            }
+        },
+        "23": {
+            "chapter_nr": "23",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "-6- Cuando comas con gente importante, piensa bien ante qui\u00e9n te encuentras."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Si te gusta comer mucho, no demuestres que tienes hambre."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "No dejes que te enga\u00f1e la apariencia de esos platillos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "-7- No hagas de las riquezas tu \u00fanica meta en la vida,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "pues son como las \u00e1guilas: abren las alas y salen volando. Si acaso llegas a verlas, muy pronto desaparecen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "-8- Nunca comas con gente taca\u00f1a, ni dejes que sus platillos te despierten el apetito."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Esa gente te invita a comer, pero su invitaci\u00f3n no es sincera; esa gente es tan taca\u00f1a que se fija en cu\u00e1nto comes."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Al fin de cuentas vomitar\u00e1s todo lo que hayas comido, y todos tus halagos no habr\u00e1n servido de nada."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "-9- No des buenos consejos a los tontos porque se burlar\u00e1n de ti."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "-10- Mant\u00e9n el tama\u00f1o de tu propiedad tal como la recibiste de tus padres, y no invadas el terreno de los hu\u00e9rfanos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dios es su pariente m\u00e1s cercano y los defender\u00e1 de ti."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "-11- Recibe la ense\u00f1anza con agrado, y presta atenci\u00f3n a los buenos consejos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "-12- A los ni\u00f1os hay que corregirlos. Unos buenos golpes no los matar\u00e1n,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "pero s\u00ed los librar\u00e1n de la muerte."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "-13- Querido jovencito, cuando alcances la sabidur\u00eda, ser\u00e9 muy feliz."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Muy grande ser\u00e1 mi alegr\u00eda cuando hables como se debe."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "-14- No envidies a los pecadores, y obedece siempre a Dios;"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "as\u00ed tu futuro ser\u00e1 feliz."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "-15- Querido jovencito, pr\u00e9stame atenci\u00f3n, act\u00faa con inteligencia, y no dejes de hacer el bien."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "No te juntes con borrachos ni te hagas amigo de glotones,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "pues unos y otros acaban en la ruina."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "-16- Presta atenci\u00f3n a tus padres, pues ellos te dieron la vida; y cuando lleguen a viejos, no los abandones."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Acumula verdad y sabidur\u00eda, disciplina y entendimiento, \u00a1y no los cambies por nada!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "El hijo bueno y sabio es motivo de gran alegr\u00eda para su padre y su madre que le dieron la vida."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "El hijo bueno y sabio es motivo de gran alegr\u00eda para su padre y su madre que le dieron la vida."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "-17- Querido jovencito, prom\u00e9teme que pensar\u00e1s en mis consejos y har\u00e1s tuyas mis ense\u00f1anzas."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "No hay nada m\u00e1s angustioso que enredarse con la mujer infiel."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Esa mujer es como los bandidos: se esconde para atrapar a sus v\u00edctimas, y una a una las hace caer en sus redes."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "-18- El borracho llora y sufre; anda en pleitos y se queja, lo hieren sin motivo y le ponen los ojos morados. Eso le pasa por borracho, y por probar nuevas bebidas."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "-18- El borracho llora y sufre; anda en pleitos y se queja, lo hieren sin motivo y le ponen los ojos morados. Eso le pasa por borracho, y por probar nuevas bebidas."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Querido jovencito, no te fijes en bebidas embriagantes que atraen por su color y brillo, pues se beben f\u00e1cilmente,"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "pero muerden como v\u00edboras y envenenan como serpientes."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Si las bebes, ver\u00e1s cosas raras y te vendr\u00e1n las ideas m\u00e1s tontas."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Sentir\u00e1s que est\u00e1s en un barco, navegando en alta mar."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Te herir\u00e1n, y no te dar\u00e1s cuenta; te golpear\u00e1n, y no lo sentir\u00e1s. Y cuando te despiertes s\u00f3lo una idea vendr\u00e1 a tu mente: \u00abQuiero que me sirvan otra copa\u00bb."
+                }
+            }
+        },
+        "24": {
+            "chapter_nr": "24",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "-19- No envidies ni busques la amistad de los malvados,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "pues s\u00f3lo piensan en la violencia y s\u00f3lo hablan de matar."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "-20- Construye tu casa con sabidur\u00eda y entendimiento,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "y llena sus cuartos de conocimiento que es el m\u00e1s bello tesoro."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "-21- M\u00e1s vale ma\u00f1a que fuerza; m\u00e1s vale el saber que el poder."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Quien quiera pelear, primero debe pensar; quien quiera ganar, debe saber escuchar."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "-22- El necio nunca llegar\u00e1 a ser sabio. Cuando est\u00e1 ante el juez, ni siquiera abre la boca, pues no sabe qu\u00e9 decir."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "-23- El que s\u00f3lo piensa en la maldad se gana el t\u00edtulo de malvado."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El que s\u00f3lo piensa en pecar se gana el t\u00edtulo de necio. \u00a1Y nadie los aguanta!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "-24- Quien se rinde ante un problema, no demuestra fuerza ni car\u00e1cter."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "-25- Haz cuanto puedas por salvar a los que van camino a la muerte,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "porque Dios todo lo sabe y no podr\u00e1s alegar ignorancia. \u00a1Si no lo haces, recibir\u00e1s tu merecido!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "-26- \u00a1Una delicia al paladar es la dulce miel del panal! C\u00f3mela, jovencito; \u00a1sabor\u00e9ala!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Quiera Dios que en la sabidur\u00eda halles esa misma dulzura. Si la encuentras, tendr\u00e1s buen futuro y tus deseos se ver\u00e1n cumplidos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "-27- No tiendas trampas al hombre honrado ni destruyas la casa donde vive."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "No importa cu\u00e1ntas veces caiga, siempre se levantar\u00e1. En cambio, el malvado cae y no vuelve a levantarse."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "-28- No te burles de tu enemigo cuando lo veas fracasar, ni te alegres de su desgracia;"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "si Dios te ve, no aprobar\u00e1 tu conducta y se enojar\u00e1 contigo."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "-29- No te enojes con los malvados ni les tengas envidia,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "pues no tendr\u00e1n un final feliz; \u00a1su vida ser\u00e1 una l\u00e1mpara apagada!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "-30- Querido jovencito, obedece a Dios y al rey, y no te juntes con gente rebelde,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "pues tal vez Dios los castigue cuando t\u00fa menos lo esperes, \u00a1y qui\u00e9n sabe qu\u00e9 puede pasar!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Otra colecci\u00f3n de proverbios - La siguiente es otra lista de dichos: Todo juez debe ser justo y no favorecer a nadie."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Si declara inocente al culpable, merece que todo el mundo lo maldiga y lo desprecie."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Si condena al culpable, es bien visto y alabado."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Una respuesta sincera es tan dulce como un beso."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Si piensas construir tu casa, atiende primero a tus negocios, y no desatiendas a tu familia."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "No des falso testimonio ni mientas en contra de tu amigo."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Nunca pienses en la venganza, \u00a1abandona esa idea!"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "En cierta ocasi\u00f3n pas\u00e9 por el campo y por la vi\u00f1a de un tipo tonto y perezoso."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Por todos lados vi espinas. El terreno estaba lleno de hierba, y la cerca de piedras, derribada."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Lo que vi jam\u00e1s se me olvid\u00f3, y de all\u00ed saqu\u00e9 una lecci\u00f3n:"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Si te duermes un poco y te tomas la siesta, y si tomas un descansito y te cruzas de brazos..."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "acabar\u00e1s en la m\u00e1s terrible pobreza."
+                }
+            }
+        },
+        "25": {
+            "chapter_nr": "25",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Otros proverbios de Salom\u00f3n - La siguiente lista de proverbios de Salom\u00f3n fue preparada por los servidores de Ezequ\u00edas, rey de Jud\u00e1."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A Dios lo alabamos porque vive en el misterio; al rey lo respetamos porque trata de entenderlo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El cielo est\u00e1 all\u00e1 arriba, la tierra est\u00e1 aqu\u00ed abajo, pero la mente de los reyes nadie sabe d\u00f3nde est\u00e1."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "En cuanto el joyero limpia de impurezas la plata, puede hacer una copa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "En cuanto el rey limpia de malvados el reino, puede hacer justicia."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cuando est\u00e9s ante el rey, no te sientas importante ni te des aires de grandeza."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vale m\u00e1s que el propio rey te diga d\u00f3nde sentarte, y no que pases verg\u00fcenza ante sus invitados. Si de algo eres testigo,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "no vayas corriendo a los tribunales, no sea que, al fin de cuentas, otro testigo lo niegue y te ponga en verg\u00fcenza."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Defi\u00e9ndete si es necesario, pero no le cuentes a nadie lo que otros te han confiado,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "no sea que alguien te oiga y te ponga en verg\u00fcenza, y te ganes mala fama."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Las palabras dichas a tiempo son como manzanas de oro con adornos de plata."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Para quien sabe apreciarla, una sabia reprensi\u00f3n vale tanto como una joya de oro muy fino."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tan refrescante como apagar tu sed con un vaso de agua fresca, es contar con un amigo a quien puedes confiarle un mensaje."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hay quienes hablan de dar y nunca dan nada. Son como las nubes oscuras, que anuncian lluvia... \u00a1y no llueve!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La paciencia vence toda resistencia. La cortes\u00eda vence toda oposici\u00f3n."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Si encuentras miel, no comas demasiada; la mucha miel empalaga."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Con los amigos, guarda tu distancia; visitarlos demasiado ya es molestia."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Quien habla mal de su amigo lo hiere m\u00e1s que una espada."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Confiar en gente traicionera cuando se tienen problemas, es peor que comer con dolor de muelas o caminar con una pierna rota."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Nadie cura con vinagre una herida, ni anda desnudo en el fr\u00edo, ni les canta canciones a los que est\u00e1n afligidos."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Si tu enemigo tiene hambre, dale de comer; y si tiene sed, dale de beber."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "As\u00ed Dios te premiar\u00e1, y har\u00e1s que a tu enemigo le arda la cara de verg\u00fcenza."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "El viento del norte hace llover, y las malas lenguas hacen enojar."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "M\u00e1s vale vivir en un rinc\u00f3n del patio que dentro de un palacio con una persona agresiva."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Con qu\u00e9 gusto se recibe el agua fresca cuando se tiene sed; as\u00ed se reciben las buenas noticias que vienen de tierras lejanas."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Cuando el hombre bueno se rinde ante el malvado, se contamina como un r\u00edo al que se arrojan desperdicios."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Tan malo es comer mucha miel, como recibir muchos halagos."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Quien no controla su car\u00e1cter es como una ciudad sin protecci\u00f3n."
+                }
+            }
+        },
+        "26": {
+            "chapter_nr": "26",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La necedad - No es posible imaginar que caiga nieve en la selva ni que llueva en el desierto ni que se alabe a un tonto."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "La maldici\u00f3n sin motivo jam\u00e1s surte efecto; es como un ave sin rumbo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Para el caballo, el l\u00e1tigo; para el burro, el freno; para el necio, el garrote."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "No te pongas al nivel del necio, o resultar\u00e1 que el necio eres t\u00fa."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pon al tonto en su lugar, para que no se crea muy sabio."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Enviar como mensajero a un tonto da lo mismo que no enviar a nadie."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dime de qu\u00e9 sirve que el tonto diga proverbios, y te dir\u00e9 de qu\u00e9 sirve una carreta sin bueyes."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dime de qu\u00e9 sirve alabar al tonto, y te dir\u00e9 de qu\u00e9 sirve un arco sin flechas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Un proverbio en labios de un tonto es lo mismo que un cuchillo en manos de un borracho."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tan peligroso es que lances piedras al aire, como que a un tonto le des trabajo en tu casa."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El perro vuelve a su v\u00f3mito, y el necio insiste en su necedad."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "M\u00e1s puede esperarse de quien reconoce que es tonto, que de un tonto que se cree muy sabio."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "La pereza - El perezoso pone como pretexto que en la calle hay leones que se lo quieren comer."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bfEn qu\u00e9 se parece el perezoso a la puerta? \u00a1En que los dos se mueven, pero ninguno avanza!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Al que es perezoso hasta comer le cuesta trabajo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "El perezoso se cree muy sabio; piensa que no hay nadie como \u00e9l."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tan peligroso resulta meterse en pleitos ajenos, como querer agarrar por la cola a un perro bravo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Como loco que lanza piedras al aire,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "es quien enga\u00f1a al amigo y dice que estaba bromeando."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El fuego se apaga si no se le echa m\u00e1s le\u00f1a, y el pleito se acaba si no siguen los chismes."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00bfEn qu\u00e9 se parecen la le\u00f1a y el peleador? En que la le\u00f1a aviva el fuego, y el peleador aviva el pleito."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Los chismes son muy sabrosos, pero tambi\u00e9n hacen mucho da\u00f1o."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Los piropos del malvado son tan enga\u00f1osos como una olla de barro cubierta de plata."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "El que esconde sus rencores, en el fondo es mentiroso."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "No creas lo que te diga, pues te habla con dulzura pero busca hacerte da\u00f1o."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Miente al decir que te quiere, pues todos saben que te odia."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "No abras zanjas si no quieres caer en ellas, ni hagas rodar piedras si no quieres que te aplasten."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Quien miente, no se quiere a s\u00ed mismo; quien a todos alaba, se busca problemas."
+                }
+            }
+        },
+        "27": {
+            "chapter_nr": "27",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00a1Nadie controla el futuro! - No presumas hoy de lo que piensas hacer ma\u00f1ana; \u00a1nadie sabe lo que traer\u00e1 el futuro!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "No presumas de ti mismo; deja que te alaben los dem\u00e1s."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Las piedras son pesadas, y la arena tambi\u00e9n, pero a\u00fan m\u00e1s pesado es el enojo del necio."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El enojo es cruel, la ira es destructiva, y la envidia es incontrolable."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Quien de veras te ama te reprender\u00e1 abiertamente."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "M\u00e1s te quiere tu amigo cuando te hiere que tu enemigo cuando te besa."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Cuando no se tiene hambre, hasta la miel empalaga; cuando se tiene hambre, hasta lo amargo sabe dulce."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Estar lejos de la patria, es andar como p\u00e1jaro sin nido."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Con un buen perfume se alegra el coraz\u00f3n; con la dulzura de la amistad se vuelve a la vida."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nunca les falles a los amigos, sean tuyos o de tu padre. Nunca lleves tus problemas a la casa de tu hermano. M\u00e1s vale amigo cercano que pariente lejano."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Querido jovencito, hazme feliz actuando con sabidur\u00eda, para taparles la boca a los que quieran humillarme."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Prever el peligro y evitarlo es actuar con inteligencia; hay que ser muy tonto para no preverlo ni evitarlo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "El que se comprometa a pagar las deudas de un desconocido y se enrede con una mujer infiel perder\u00e1 todo lo que tenga."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hasta el mejor saludo es un insulto grave, si se hace a gritos y en la madrugada."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Peor que gotera en d\u00eda lluvioso, es la persona que por todo pelea."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00a1Querer controlarla es querer atajar el viento o retener aceite en la mano!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Para afilar el hierro, la lima; para ser mejor persona, el amigo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Si quieres buena fruta, cuida del \u00e1rbol; si quieres buen trato, trata bien a tu jefe."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "El espejo refleja el rostro; y los ojos revelan la personalidad."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hay tres cosas que nunca est\u00e1n satisfechas: la tumba, la muerte, y la ambici\u00f3n humana."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Con el fuego se descubre qu\u00e9 clase de metal tenemos; con los elogios se descubre qu\u00e9 clase de persona somos."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Si al trigo lo machacas, puedes quitarle la c\u00e1scara, pero al necio, aunque lo remuelas, no se le quita lo necio."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Las riquezas no son eternas ni el dinero dura para siempre. Las cosechas se acaban, y la hierba se seca. Por eso, cuida bien tus reba\u00f1os."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Las riquezas no son eternas ni el dinero dura para siempre. Las cosechas se acaban, y la hierba se seca. Por eso, cuida bien tus reba\u00f1os."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Las riquezas no son eternas ni el dinero dura para siempre. Las cosechas se acaban, y la hierba se seca. Por eso, cuida bien tus reba\u00f1os."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Tus ovejas te dar\u00e1n su lana, tus cabras te dar\u00e1n mucha leche, y as\u00ed podr\u00e1n alimentarse t\u00fa y tu familia y hasta tus empleados. Adem\u00e1s podr\u00e1s vender tus cabras y con el dinero comprar un terreno."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Tus ovejas te dar\u00e1n su lana, tus cabras te dar\u00e1n mucha leche, y as\u00ed podr\u00e1n alimentarse t\u00fa y tu familia y hasta tus empleados. Adem\u00e1s podr\u00e1s vender tus cabras y con el dinero comprar un terreno."
+                }
+            }
+        },
+        "28": {
+            "chapter_nr": "28",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Haz el bien y bien te ir\u00e1 - El que nada debe, nada teme, pero el malvado siempre huye aunque nadie lo persiga."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "En un pa\u00eds lleno de maldad todos se creen l\u00edderes, pero el gobernante capaz logra poner el orden."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El pobre que maltrata a otro pobre es como una tormenta que acaba con las cosechas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Los que se apartan de la ley aplauden a los malvados, pero los que la obedecen se oponen a ellos."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Los malvados no entienden nada acerca de la justicia, pero los que obedecen a Dios demuestran que s\u00ed la entienden."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vale m\u00e1s el pobre honrado, que el rico malvado."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "El que es inteligente obedece la ley; el que todo lo malgasta, llena de verg\u00fcenza a su padre."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Al que presta dinero y luego exige que le devuelvan el doble, Dios le quitar\u00e1 todo y har\u00e1 que alguien de buen coraz\u00f3n se lo d\u00e9 a los pobres."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Dios rechaza las oraciones de los que no lo obedecen."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Quien hace pecar al hombre honrado quedar\u00e1 atrapado en su propia trampa. Los que hacen el bien recibir\u00e1n como premio el bien."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Aunque el rico se crea muy sabio, el pobre con su inteligencia se da cuenta que el rico no es m\u00e1s que un tonto."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "El triunfo de los justos siempre es motivo de fiesta; el triunfo de los malvados espanta a todo el mundo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Quien esconde su pecado jam\u00e1s puede prosperar; quien lo confiesa y lo deja, recibe el perd\u00f3n."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00a1Dios bendice a quienes lo obedecen! Pero los necios caen en la desgracia."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "El gobernante malvado que maltrata a un pueblo pobre es como un le\u00f3n hambriento que despedaza a su presa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "El gobernante est\u00fapido s\u00f3lo piensa en maltratar y robar; pero el que no lo hace vivir\u00e1 muchos a\u00f1os."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El que mata a otro no merece ayuda. \u00a1Tarde o temprano le pasar\u00e1 lo mismo!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "El hombre honrado quedar\u00e1 a salvo; el de mala conducta un d\u00eda caer\u00e1."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "El que trabaja tendr\u00e1 suficiente comida; el que no trabaja acabar\u00e1 en la pobreza."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El hombre digno de confianza siempre ser\u00e1 alabado; el que s\u00f3lo quiere hacerse rico no quedar\u00e1 sin castigo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "No aceptes ser testigo falso contra ninguna persona; porque hay quienes lo hacen hasta por un pedazo de pan."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Quien s\u00f3lo vive pensando en dinero, acabar\u00e1 m\u00e1s pobre de lo que se imagina."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "El tiempo te demostrar\u00e1 que vale m\u00e1s una cr\u00edtica sincera que un elogio."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Amigo de gente malvada es quien roba a sus padres y alega que no ha hecho nada."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "El amor al dinero es causa de pleitos. Conf\u00eda en Dios, y prosperar\u00e1s."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "El necio conf\u00eda en s\u00ed mismo; el sabio se pone a salvo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "El que ayuda al pobre siempre tendr\u00e1 de todo; el que no ayuda al pobre terminar\u00e1 en la desgracia."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Cuando triunfan los malvados, todo el mundo corre a esconderse; pero cuando son destruidos, prosperan los hombres buenos."
+                }
+            }
+        },
+        "29": {
+            "chapter_nr": "29",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hacer el bien trae alegr\u00eda - Quien no acepta las reprensiones ser\u00e1 destruido, y nadie podr\u00e1 evitarlo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Cuando la gente buena prospera, el pueblo se pone alegre; cuando gobiernan los malvados, el pueblo se pone triste."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El que ama la sabidur\u00eda trae alegr\u00eda a su padre; el que anda con prostitutas malgasta todo lo que tiene."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El rey que hace justicia da seguridad al pa\u00eds; el que s\u00f3lo cobra impuestos lleva el pa\u00eds a la ruina."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Quien mucho alaba al amigo, mucho lo enga\u00f1a."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El malvado cae en su propia trampa; pero el que es bueno vive con gran alegr\u00eda."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "La gente buena se preocupa por defender al indefenso; pero a los malvados eso ni les preocupa."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los que aman la intriga enredan a todos en pleitos, pero los sabios siembran la paz."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "S\u00f3lo burlas y enojos saca el sabio que discute con un tonto."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Los asesinos desean la muerte de la gente buena y honrada."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El necio no esconde su enojo; el sabio sabe controlarse."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "El gobernante que presta atenci\u00f3n a toda clase de mentiras, vivir\u00e1 rodeado de ayudantes malvados."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Al pobre y al que lo maltrata Dios les ha dado la vida."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "El rey afirma su reinado cuando gobierna bien a los pobres."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Los golpes y la disciplina ense\u00f1an a ser sabio, pero el que es malcriado s\u00f3lo averg\u00fcenza a su madre."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Donde aumentan los malvados, aumenta la maldad; \u00a1pero la gente buena los ver\u00e1 fracasar!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Corrige a tu hijo y vivir\u00e1s tranquilo y satisfecho."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Donde no hay un buen gobernante, el pueblo no sabe qu\u00e9 hacer; pero Dios bendice a los que obedecen su ley."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Cuando el esclavo es necio, no bastan las palabras; s\u00f3lo con golpes obedece."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "F\u00edjate en la gente que no piensa lo que dice: \u00a1m\u00e1s puedes esperar de un tonto que de esa clase de gente!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Si empiezas por consentir a tu sirviente, al final tendr\u00e1s que lamentarlo."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "La gente que f\u00e1cilmente se enoja siempre provoca peleas; la gente violenta comete muchos errores."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "El orgulloso ser\u00e1 humillado, y el humilde ser\u00e1 alabado."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Si te juntas con ladrones no aprecias en nada tu vida; pues cuando ellos sean acusados, no podr\u00e1s negar que eres culpable."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Si tienes miedo de la gente, t\u00fa mismo te tiendes una trampa; pero si conf\u00edas en Dios estar\u00e1s fuera de peligro."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "No busques la amistad del gobernante para que \u00e9l te haga justicia; mejor conf\u00eda en Dios, pues \u00e9l es justo con todos."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ni el hombre justo soporta al malvado, ni el malvado soporta al hombre justo."
+                }
+            }
+        },
+        "30": {
+            "chapter_nr": "30",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "La sabidur\u00eda de Agur - \u00c9stas son las palabras de Agur, hijo de Jaqu\u00e9 de Masa. Agur les habl\u00f3 a Itiel y a Ucal de la siguiente manera:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00abSoy el m\u00e1s ignorante entre los ignorantes; no tengo capacidad de razonar."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "No tengo sabidur\u00eda, y mucho menos conocimiento de qui\u00e9n es Dios."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bbAl cielo nadie ha subido; del cielo nadie ha bajado. No hay nadie que pueda retener el viento en un pu\u00f1o, ni envolver el mar en un manto. Nadie sabe qui\u00e9n puso los l\u00edmites de la tierra; \u00a1nadie lo conoce, ni sabe qui\u00e9n es su hijo!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00bbToda palabra de Dios ha pasado la prueba de fuego. Dios protege como escudo a los que buscan su protecci\u00f3n."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "No a\u00f1adas a sus palabras ninguna idea tuya, porque puede reprenderte y mostrar que eres un mentiroso."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbDios m\u00edo, antes de mi muerte conc\u00e9deme s\u00f3lo dos cosas; \u00a1no me las niegues!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mant\u00e9nme alejado de la mentira, y no me hagas pobre ni rico; \u00a1al\u00e9jame de toda falsedad y dame s\u00f3lo el pan de cada d\u00eda!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Porque si llego a ser rico tal vez me olvide de ti y hasta me atreva a decir que no te conozco. Y si vivo en la pobreza, puedo llegar a robar y as\u00ed ponerte en verg\u00fcenza."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbNo hables mal de un esclavo ante su amo, porque el esclavo podr\u00eda hablar mal de ti y quedar\u00e1s en rid\u00edculo ante todos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbAlgunos hablan mal de sus padres, y hasta los maldicen."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Hay quienes se creen perfectos, pero est\u00e1n llenos de pecado."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hay quienes se creen superiores, y a todos miran con desprecio."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hay quienes aman tanto el dinero que despojan a los pobres y a los indefensos de este mundo; les sacan hasta el \u00faltimo centavo, y los dejan desnudos en la calle."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00bbLa chupasangre tiene dos hijas: una se llama \u201cDame\u201d, y la otra, \u201cDamem\u00e1s\u201d. Es amiga del que ama el dinero, pues \u00e9ste siempre quiere m\u00e1s. \u00bbHay tres, y hasta cuatro cosas que nunca quedan satisfechas:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "la mujer est\u00e9ril que pide hijos, la tierra que pide m\u00e1s agua, el fuego que pide m\u00e1s le\u00f1a y la tumba que pide m\u00e1s muertos."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00bbEl que desobedece y desprecia a sus padres, bien merece que los cuervos le saquen los ojos y que los buitres se lo coman vivo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00bbHay tres, y hasta cuatro cosas que me parecen incre\u00edbles y que no alcanzo a comprender:"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "c\u00f3mo saber que un \u00e1guila ha pasado por el cielo; c\u00f3mo saber que una serpiente ha pasado por una roca; c\u00f3mo saber que un barco ha pasado por el mar; y c\u00f3mo saber que un hombre se ha acostado con una mujer."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00bbLa mujer infiel se acuesta con otro hombre, luego se ba\u00f1a y dice: \u201c\u00a1Aqu\u00ed no ha pasado nada!\u201d"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00bbHay tres, y hasta cuatro personas que la tierra no soporta y que la hacen estremecerse:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "El sirviente que llega a gobernar, el tonto que llega a ser muy rico,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "la mujer infiel que vuelve a casarse, y la sirvienta que llega a ser la se\u00f1ora de la casa."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "\u00bbHay cuatro cosas en el mundo que a pesar de ser peque\u00f1as son m\u00e1s sabias que los sabios:"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Las hormigas, insectos muy peque\u00f1os que guardan comida en el verano, para tener suficiente en el invierno;"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "los tejones, animalitos que por ser indefensos hacen sus cuevas entre las rocas;"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "los saltamontes, que aunque no tienen comandante son tan ordenados y disciplinados como un ej\u00e9rcito,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "y las lagartijas, que son f\u00e1ciles de atrapar pero viven libres en los palacios."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "\u00bbHay tres, y hasta cuatro cosas que caminan con elegancia:"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "el le\u00f3n con su gran melena, que sin miedo reina en la selva;"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "el gallo vanidoso, con su roja cresta; el carnero de la monta\u00f1a con sus enormes cuernos; y el rey con su corona de oro que marcha frente a su ej\u00e9rcito."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "\u00bbSi te portas como un tonto, y te crees muy importante y haces planes contra otros, ten presente lo siguiente:"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Si bates la leche, sacar\u00e1s mantequilla; si te suenas fuerte la nariz, te sacar\u00e1s sangre; y si buscas pleitos, pleitos tendr\u00e1s\u00bb."
+                }
+            }
+        },
+        "31": {
+            "chapter_nr": "31",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dichos del rey Lemuel - Con estas palabras el rey Lemuel fue educado por su madre."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00abQuerido hijo m\u00edo, que naciste como respuesta de mis oraciones a Dios, \u00bfqu\u00e9 consejos podr\u00eda darte?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00a1No te vuelvas loco por las mujeres!, pues han llevado a la ruina a muchos reyes."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00bbQuerido Lemuel, no conviene que los reyes tomen bebidas alcoh\u00f3licas, ni que se emborrachen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Porque en cuanto se emborrachan se olvidan de la ley y no protegen a los pobres."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El alcohol es para los que viven amargados y ya no tienen esperanza."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00a1D\u00e9jalos que se emborrachen y se olviden de su miseria! \u00a1Que no se acuerden de lo mucho que sufren!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbHabla en favor de las viudas; defiende los derechos de los hu\u00e9rfanos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Habla en favor de ellos; \u00a1hazles justicia! \u00a1Defiende a los pobres y humildes!\u00bb"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "La mujer ejemplar - \u00a1Qu\u00e9 dif\u00edcil es hallar una esposa extraordinaria! \u00a1Hallarla es como encontrarse una joya muy valiosa!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Quien se casa con ella puede darle toda su confianza; dinero nunca le faltar\u00e1."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "A ella todo le sale bien; nunca nada le sale mal."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sale a comprar lana y lino, y con sus propias manos trabaja con alegr\u00eda."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Se parece a los barcos mercantes: de muy lejos trae su comida."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Se levanta muy temprano, y da de comer a sus hijos y asigna tareas a sus sirvientas."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Calcula el precio de un campo; con sus ganancias lo compra, planta un vi\u00f1edo,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "y en \u00e9l trabaja de sol a sol."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ella misma se asegura de que el negocio marche bien; toda la noche hay luz en su casa, pues toda la noche trabaja."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ella fabrica su propia ropa,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "y siempre ayuda a los pobres."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "No le preocupa que haga fr\u00edo, pues todos en su casa andan siempre bien abrigados."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Toma telas de lino y de p\u00farpura, y ella misma hace colchas y vestidos."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "En la ciudad y en el pa\u00eds su esposo es bien conocido, pues ocupa un lugar importante entre la gente de autoridad."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "La ropa y los cinturones que ella misma fabrica los vende a los comerciantes."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Es mujer de car\u00e1cter; mantiene su dignidad, y enfrenta confiada el futuro."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Siempre habla con sabidur\u00eda, y ense\u00f1a a sus hijos con amor."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Siempre est\u00e1 pendiente de su casa y de que todo marche bien. Cuando come pan, es porque se lo ha ganado."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Sus hijos la felicitan; su esposo la alaba y le dice:"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "\u00abMujeres buenas hay muchas, pero t\u00fa las superas a todas\u00bb."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "La hermosura es enga\u00f1osa, la belleza es una ilusi\u00f3n; \u00a1s\u00f3lo merece alabanzas la mujer que obedece a Dios!"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "\u00a1Que todo el mundo reconozca los frutos de su esfuerzo! \u00a1Que todos en la ciudad la alaben por sus acciones!"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,955 @@
+{
+    "version": "NCB",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Editor\u2019s Note -Chapter 1 -The words of Qoheleth son of David, king in Jerusalem."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vanity of vanities, says Qoheleth,vanity of vanities! Everything is vanity."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "What profit does anyone gain from all his laborat which he toils under the sun?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Introductory Poem -There Is Nothing New under the Sun -One generation passes away and another generation succeeds it,but the earth stands firm forever."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "The sun rises and the sun sets;then it returns to the place where it rises."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "The wind blows southward and then veers to the north,constantly turning as it repeats its course."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "All the rivers go to the sea,and yet the sea never overflows,for the rivers continue to returnto their place of origin."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "All things are wearisomeand very difficult to express.The eyes are not satisfied with seeingand the ears do not have their fill of hearing."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "What has been will be so again,and what has been done will be done again;there is nothing new under the sun."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Whatever is perceived to be newhas already existed in the ages before us."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Those people who died in ages pastare no longer remembered,and the people yet to be bornwill not be remembered by those who come after them."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "The Impossible Happiness -Much Wisdom, Much Anguish. -When I, Qoheleth, ruled as king over Israel in Jerusalem,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I applied the wisdom I possessed to study and explore everything that is done under the sun, a thankless task that God has given to men to keep us occupied."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "I have seen everything that has been done under the sun, and behold, all is vanity and a chase after the wind."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "What is crooked cannot be made straight,and what is lacking cannot be counted."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "I thought to myself, \u201cI have acquired great wisdom, far surpassing all those who preceded me in Jerusalem. My mind has mastered every facet of wisdom and knowledge.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "However, as I applied my mind to gain a complete understanding of wisdom and knowledge, madness and folly, I came to realize that this too is a chase after the wind."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "For much wisdom can result in much sorrow,and those who increase their knowledge also increase their grief."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 2 -What Good Is It To Be Successful? -Then I said to myself, \u201cAll right, I will pursue pleasure and the enjoyment of good things.\u201d However, this also proved to be vanity."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I regarded laughter as madness and pleasure as vanity."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Then, while my mind was guiding me with wisdom, I sought to cheer my body with wine and the pursuit of folly, for I was determined to discover what was the best way for men to spend the few days of their life under the heavens."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "I undertook grandiose projects. I built houses for myself and planted vineyards."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I made for myself gardens and parks and filled them with every kind of fruit tree."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I developed pools that would enable me to water my grove of growing trees."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "I purchased male and female slaves, and slaves were also born in my house. In addition, I had large herds and flocks, far more than any who had preceded me in Jerusalem."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "I amassed for myself silver and gold and the treasures of kings and provinces. I acquired singers, both male and female, and every possible human luxury."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "In this way I became great, and I surpassed all my predecessors in Jerusalem, while my wisdom continued to strengthen me."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I did not deny my eyes anything that they coveted,nor did I deprive my heart of any pleasure.For I found delight in all my labors,and this was the reward I had for all my efforts."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "However, once I began to reflect on all that my hands had accomplishedand the effort I had exerted in achieving it,I again came to the realization that everything was vanity and a chase after the wind,and that there was nothing to be gained under the sun."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "The Wise Man Must Die No Less than the Fool -Then my reflections focused on wisdomas well as madness and folly,and I came to the realization that whoever succeeds a king can do nothing,since everything has already been done."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I also came to understand that more is to be gained from wisdom than from folly,just as light is more profitable than darkness."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "The wise keep their eyes open,whereas fools walk in darkness.And yet at the same time I realizedthat the same fate befalls them both."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Then I thought to myself,\u201cIf the fate of the fool will also be my fate,then why have I been wise?In what way do I profit?\u201dAnd I came to the conclusionthat this too is vanity."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "The wise man is remembered no longer than the fool,because in the days to come both will have been forgotten.The wise man must die no less than the fool."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "As a result, I came to hate life,since I loathe the work that is done under the sun;for all is vanity and a chase after the wind."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "A Chase after the Wind -So Many Labors with the Profit Going to Others. -Therefore, I have come to hate all my labor and toil under the sun because I now must bequeath its fruits to my successor."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "And I have no way of knowing in advance whether he will be wise or a fool. Either way, he will be the master of all the fruits of my work for which I toiled and employed my wisdom under the sun. This too is vanity."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "As a result, I surrendered to feelings of despair concerning all of my labor and toil here under the sun."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "For even though a man may labor with wisdom and knowledge and skill, he must leave everything he has to be enjoyed by another who has not toiled for it in any way. This also is vanity and a great misfortune."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "For what does a man gain from all the toil and effort that he has expended under the sun?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "His days are filled with pain and his labors are filled with stress. Even at night he has no peace of mind. This also is vanity."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "The Happiness of Simple Things. -There is nothing better for a man than to eat and drink and to experience pleasure in his achievements. And I also came to realize that this too comes from God\u2019s hand."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "For without him who could eat or drink?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "God gives wisdom and knowledge and joy to those who please him, but to sinners he gives the task of gathering and amassing wealth that is to be given to someone who pleases him. This also is vanity and a chase after the wind."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 3 -A Time for Everything -For everything there is a season,and a time for every activity under heaven."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A time to be born, and a time to die;a time to plant, and a time to uproot what is planted."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A time to kill, and a time to heal;a time to tear down, and a time to build up."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A time to weep, and a time to laugh;a time to mourn, and a time to dance."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A time to scatter stones, and a time to gather them;a time to embrace, and a time to refrain from embracing."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A time to seek, and a time to lose;a time to keep, and a time to discard."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "A time to tear, and a time to mend;a time to be silent, and a time to speak."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A time to love, and a time to hate:a time for war, and a time for peace."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "What gain does the worker have from his toil?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I have observed the tasks that God has designated to keep men occupied."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "He has made everything suitable for its time, and he has given men a sense of past and future, but they never have the slightest comprehension of what God has wrought from beginning to end."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "I understand that man\u2019s greatest happiness is to be glad and do well throughout his life."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "And when we eat and drink and find satisfaction in all our labors, this is a gift of God."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "I know that whatever God does endures forever; nothing can be added to it or subtracted from it. God has done this so that everyone will be in awe standing in his presence."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Whatever is now has already been,that which is to come already is,and God will restore whatever might be displaced."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "The Problem of Retribution. -Moreover, I observed something else under the sun:Where justice should be, there was wickedness,and iniquity was in the place of righteousness."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "But I remained confident in my beliefthat God will judge both the righteous and the wicked,for he has appointed a time for every matterand he will issue a judgment on every work."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "I said to myself that in dealing with men it is God\u2019s purpose to test them in order to show them that they are animals."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "For the fate of men and beasts is identical: as the one dies, so does the other. They all have the same life-breath, and man has no advantage over the beast in this regard. For everything is vanity."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "All go to the same place: all were made from the dust, and to the dust all will return."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Who knows whether the human spirit goes upward and the spirit of an animal goes downward to the earth?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "And so I came to realize that there is nothing better for man than to enjoy his work, since that is his lot. No one has the power to let him see what will happen after he is gone."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 4 -The Victor and the Tyrant. -Then I contemplated all the acts of oppression that are committed under the sun:I saw the tears of the oppressed,with no one present to comfort them.Power was wielded by their oppressors,and no one was there to comfort them."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "As a result, I regarded the dead as fortunate,because they had already diedand thus were happier than the livingwho were still alive."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "But happier than both of theseis the one yet unbornwho has not witnessed the evil deedsthat are done under the sun."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Concurrence of Toil and Envy. -Then I came to realize that all toil and skill in work derive from one person\u2019s envy of another. This also is vanity and a chase after the wind."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "The fool folds his armsand consumes his own flesh."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Better is one handful with peace of mindthan two handfuls with toiland a chase after the wind."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Union Builds Strength. -Again I observed vanity under the sun:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "There was a solitary individual,without a friend, with neither a son nor a brother.Yet there was no end to his toil,and wealth did not satisfy his greed.\u201cFor whom am I toiling,\u201d he asked,\u201cand depriving myself of pleasures?\u201dThis also is vanityand a worthless task."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Two are better than one:they earn a far greater reward for their toil."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "And if one should fall,his companion will help him up.How pathetic is the man who is alone and fallsand has no one to assist him to his feet."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "In the same way, if two sleep together, they keep warm,but how can one who sleeps by himself keep warm?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "And where a single man can be overcome,two together will be able to resist.A cord with three strands is not easily broken."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Deception of Political Regimes. -Better is a poor but wise youth than an old and foolish king who will no longer take advice."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "One can emerge from prison to be crowned as a king, even though he was born in poverty in that kingdom."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "And I observed all those who live and move under the sun willingly give their support to that young man who succeeded the king."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "There was a mass of people beyond counting over whom he reigned. And yet those who succeed him will not venerate his memory. This also is vanity and a chase after the wind."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 5 -Never be in a hurry to speakor hastily make a promise to God,for God is in heavenand you are on earth;therefore, let your words be few."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "As dreams come when there are many cares,so does the speech of a fool when there are many words."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "When you make a vow to God, do not delay in fulfilling it, for God has no pleasure in fools. Fulfill the vow you have made."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "It is preferable not to make a vow than to make it and fail to fulfill it."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Do not allow your mouth to lead you into sin and then plead before God\u2019s messenger that it was all a mistake. Otherwise God will become angered at your words and destroy the work of your hands."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A profusion of dreams leads to excessive vanity. Therefore, fear God."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Under the Pretext of General Interests. -If in some part of the realm you witness the oppression of the poor and the violation of rights and justice, do not be surprised; for every high official is supervised by one who is higher in rank, and the one who has the highest rank keeps watch over them all."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A country is best served when a king is in charge of the fertile fields."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Money: An Insatiable Desire -One who is covetous will never be satisfied with money,nor will the lover of wealth be content with gain.This too is vanity."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "When riches increase,so do those who are eager to accumulate them,and those who have accumulated them must remain contentsimply to feast their eyes on them."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sleep is sweet to the laborer,whether he has much or little to eat,but the vast riches of a wealthy mando not allow him to sleep."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "There is a grievous evil that I have seen under the sun:Riches are hoarded by their owner to his disadvantage,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "or riches are lost by some misfortune,so that he has nothing remaining to leave to his son."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Just as he came forth naked from his mother\u2019s womb,so shall he depart, naked as he came,with nothing remaining from his laborthat he can carry away in his hands."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "This too is a grievous evil:Just as he came, so must he go,and what profit can he have after toiling for the wind?"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "All of his days are spent in darknesswith great anxiety, sickness, and resentment."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "The Happiness Suitable for Humans. -This is the conclusion I have reached: it is fitting for a man to eat and drink and find satisfaction in the results of his labors under the sun during the brief span of life that God has allotted him."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Moreover, the one to whom God grants wealth and possessions and the ability to enjoy them and to find contentment in his toil receives a gift from God."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "For it is unlikely that he will brood about the passing years inasmuch as God keeps his heart filled with joy."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 6 -The Impossible Profit. -There is another evil that I have seen under the sun, and it weighs heavily on the human race."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "God may grant a man wealth, prosperity, and honor so that he lacks none of the things he desires. However, if God does not enable him to enjoy these gifts but rather allows someone else to revel in their benefits, this is vanity and a grievous ill."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A man may father a hundred children and live for many years, but no matter how many his days may be, if he does not have the opportunity to enjoy the good things of life and in the end receives no burial, I maintain that a stillborn child is more fortunate than he."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "For that child came in vain and departed in darkness, and in darkness will his name be enveloped."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Moreover, it has never seen the sun or known anything, yet its state is better than his."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "It could live a thousand years twice over and experience no enjoyment, yet both will go to the same place."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "All man\u2019s toil is for the mouth,yet his appetite is never satisfied."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "For what advantage does the wise man haveover the fool,or what advantage do the poor havein knowing how to conduct themselves in life?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "What the eye sees is betterthan what desire craves.This also is vanityand a chase after the wind."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "What a Human Being Is: Conclusion to Part I -Whatever exists was given its name long ago,and the nature of man is known,as well as the fact that he cannot contendwith one who is stronger than he."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "The more words we speak,the more our vanity increases,so what advantage do we gain?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "For who knows what is good for a man while he lives the few days of his vain life, through which he passes like a shadow? Who can tell him what will happen here afterward under the sun?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Search for Human Equilibrium -How To Discover? -Chapter 7 -Laughter and Anguish -A good name is better than precious ointment,and the day of death than the day of birth."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "It is better to go to the house of mourningthan to the house of feasting.For that is the end of every man;let the living take it to heart."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Sorrow is better than laughter,because a sad countenance may conceal a joyful heart."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "The heart of the wise is in the house of mourning,but the heart of fools is in the house of gaiety."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "It is better to pay heed to the rebuke of the wisethan to listen to the songs of fools."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "For like the crackling of thorns under a pot,so is the laughter of fools.This also is vanity."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Oppression can make a wise man foolishand a bribe corrupts the heart."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "The Refuge of Wisdom -Better is the end of anything than its beginning;better are the patient in spirit than the proud in spirit."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Do not become easily angered,for anger lodges in the heart of fools."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Do not assert that the past was better than the present,for such a statement is not a sign of wisdom."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wisdom is as good as an inheritanceand an advantage to those who see the sun."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Safeguard wisdom as you would a legacy,and the advantage of knowledge is this:it bestows life on the one who possesses it."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Consider the work of God.Who can make straightwhat God has made crooked?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "When things are going well, be grateful for your blessings,and in times of adversity consider this:God has made both of them,so that we cannot predict with confidencewhat the future holds."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Whoever Wants To Be an Angel Ends Up as a Beast -During my span of life I have seen everything:Righteous people who perish in their uprightness,and wicked people who grow old in their wickedness."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Do not be excessively righteousor show yourself to be unduly wise.Why should you destroy yourself?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Do not be excessively wickedor act like a fool.Why should you die before your time?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "It would be best for you to hold on to oneand not let go of the other.For the one who fears God will eventually succeed."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Wisdom gives greater strength to the wise manthan ten rulers in a city."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "There is no one on earth who is so righteousthat he does nothing but good and never sins."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "If you do not pay attention to all that people say,you will never hear your servant speaking ill of you."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "For you know in your heartthat you have often spoken ill of others."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "All this I have put to the test of wisdom:I said, \u201cI am determined to be wise,\u201dbut such wisdom was beyond my reach."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "This state of wisdom is far off and buried very deep.Who can discover it?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Man and Woman -I then turned my thoughtsin the direction of knowledge.My mind sought to search out and seek wisdomand the reason why things are as they are,only to realize that it is foolish to be wickedand madness to act like a fool."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "I find more bitter than deaththe woman who is a snare:her heart is a netand her arms are chains.One who pleases God escapes her clutches,but the sinner is captured by her."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Behold, this is what I have discovered, says Qoheleth:As I have added one thing to another in order to draw some conclusion,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "which my mind has sought repeatedlybut has not yet discovered,I have found one man out of a thousand,but a woman among them all I have not found."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "This alone have I found out:God made human beings straightforward,but they often follow devious paths."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 8 -The Smile of a Wise Man -Who is like the wise man?Who else knows how to interpret things?A man\u2019s wisdom lights up his face,softening the hardness of his countenance."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "When Man Dominates Man. -Obey the command of the king because of your sacred oath,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "and do not be hasty to ignore it. Do not support him in some evil scheme, for he does whatever he pleases."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Since his word is sovereign, who can say to him, \u201cWhat are you doing?\u201d"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Whoever obeys a command will come to no harm,and the wise mind will know the time and the way."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "For there is a time and a way for everything,although a man\u2019s troubles are a great affliction."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "For he is ignorant of what the future holds,inasmuch as no one will make known to him what is in store."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "No one has it in his powerto restrain the wind from blowingor to forestall the day of death.No one can escape the perils of war,nor can wickedness preserve those who engage in it."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "All this I have observed as I carefully concentrated my mind on everything that is done under the sun, while one person tyrannizes another and causes suffering."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "The Desire To Do Evil. -Meanwhile I have observed the wicked being carried to their graves. They used to approach and enter the holy place, and they were praised in the city for having done such things. This also is vanity."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Because the sentence for committing an evil act is not carried out quickly, people\u2019s hearts are prone to act wickedly."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Even though the sinner does wrong a hundred times and continues to live, I am confident that things will go well for those who fear God because of their fear of him."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "However, things will not go well with the wicked, and their days will not lengthen like a shadow, because they do not stand in fear before God."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "What Constitutes Happiness. -Another vanity that takes place on earth is that sometimes righteous people are treated as though they had acted in an evil way, and wicked people are treated as though they had lived righteous lives. This too, I say, is vanity."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Therefore, I commend enjoyment, since there is nothing better for a man under the sun than to eat and drink and be glad. This is his reward for his toil during the days of life that God grants him under the sun."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "How To Know? -The Claims of a Wise Man. -Having pursued my goal to acquire wisdom and to observe the tasks undertaken on earth by man, whose eyes do not find rest either by day or by night,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "I came to the realization that man is unable to discover all God\u2019s work that is done under the sun. However great an effort a man exerts in this search, he will never succeed. A wise man may claim to know, but he is in no way able to do so."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 9 -Love, Hatred, and Death. -To all this I have applied my mind, and I came to this conclusion: the righteous and the wise and their deeds are in the hand of God. As to whether they will earn love or hatred, we have no way of knowing."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Everything that confronts them is futile, inasmuch as the same fate comes to all, to the upright, and the wicked, to the good and the bad, to the clean and the unclean, to those who offer sacrifice and those who do not.As it is with the good person,so is it with the sinner;as it is with the one who takes an oath,so is it with the one who is fearful of doing so."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "The worst evil of all the things that happen under the sun is this: that the same fate befalls everyone. Moreover, the hearts of men are filled with evil; madness is in their hearts throughout their lives, and afterward they descend to the dead."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "However, the one who is counted among the living still has hope. It is preferable to be a living dog rather than a dead lion."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "The living realize that they will die,whereas the dead know nothing whatever.They will have no further reward,and even the memory of them will be obliterated."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "For them all love and hatred and jealousyhave already perished.Never again will they have any sharein anything that is done under the sun."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Eat, Drink, and Love. -Go forth, then. Eat your bread with joy and drink your wine with a cheerful heart, for God long ago approved what you do."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "At all times dress in white garments and always anoint your head with oil."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Enjoy life with the wife whom you love throughout all the days of your allotted span of life that have been given to you under the sun, because that is your lot while you live and labor here under the sun."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Whatever task your hand finds to do, expend all your efforts on it, for you will find no work or planning or knowledge or wisdom in the netherworld to which you are going."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Destiny and Life. -Another thing I have observed here under the sun:The race is not won by the swift,nor the battle by the brave.Food does not belong to the wise,nor wealth to the intelligent,nor success to the skillful.Rather, time and chance govern all alike."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "For no one is able to anticipate the time of disaster:Like fish caught in a treacherous net,and like birds caught in a snare,so people are trappedwhen misfortune suddenly falls upon them."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "War and Peace. -I have also seen the following example of wisdom under the sun, and I find it of great significance."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "There was a small town with very few inhabitants. A great king advanced against it and surrounded it while building great siege-works."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "In the town there lived a man who, though poor, was wise, and by his wisdom he delivered the town. Yet no one remembered this poor man afterward."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Therefore, I said, \u201cWisdom is better than power.\u201d Yet the poor man\u2019s wisdom is despised, and his words go unheeded."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "A Wise Man in the City of Fools -The quiet words of the wise are more to be heededthan the shouts of a ruler of fools."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Wisdom is better than weapons of war,but one mistake can undo a great deal of good."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 10 -Just as dead flies give perfumes a foul smell,so a little folly can outweigh wisdom and honor."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "The heart of a wise man inclines to the right;the heart of a fool inclines to the left."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Even when a fool walks down the road,he lacks senseand indicates to everyone how stupid he is."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "If the anger of a ruler rises against you,do not leave your post,for calmness will mitigate grave offenses."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "There is an evil that I have seen under the sun,a great error to which rulers are prone:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Fools are ensconced in a lofty position,while the rich sit in a lowly place."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "I have seen slaves on horsebackwhile princes walked on foot like slaves."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Whoever digs a pit will fall into it,and whoever breaks through a wallwill be bitten by a snake."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Whoever quarries stones will be hurt by them,and whoever chops wood places himself at risk."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "If an ax becomes dull from lack of sharpening,then one must exert greater strength,but skill helps one to succeed."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "If a snake bites because it has not been charmed,there is no profit for the charmer."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "The words of a wise man win favor,but a fool\u2019s tongue is his undoing."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "The words a fool utters are grounded in stupidity,and they end in total madness."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "A fool talks at great length,but no one knows what direction his words will take,and who can foretell what the future holds?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A fool quickly gets worn out by his labor,and he cannot even find his own way into town."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Woe to you, O\u00a0country, when your king is a servantand your princes start feasting in the morning."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Blessed are you, O\u00a0land,when your king is a noblemanand your princes feast at the proper timefor strength and not for drunkenness."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Because of your negligence the roof begins to collapse,and when hands remain idle, the house leaks."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Feasts are designed for merriment,wine makes us cheerful,and money solves every need."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Even in your thoughts,do not curse the king,nor revile the rich even in your bedroom;for a bird of the air may carry your voice,or a winged creature may repeat what you have said."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 11 -The Splendid Adventure of Life -Cast your bread upon the waters,and eventually you will get it back."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Share with seven or with eight,for you never can predict what disasters will come."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "When clouds are full of rain,they will pour it out upon the earth.Whether a tree falls to the south or to the north,wherever it falls, there will it lie."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "One who continues to watch the wind will never sow,and one who keeps staring at the clouds will never reap."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Just as you do not know the path of the windor how the body is formed in a woman\u2019s womb,so you do not know the work of God,the Creator of all."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "In the morning sow your seed,and do not cease your labor until evening.For you do not know which of the sowings will succeedor whether all alike will turn out well."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Poem on Youth and Old Age -In the Evening of Life -God and Light -Light is sweet,and it is pleasant for the eyes to see the sun."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "No matter how many years you may live,you should enjoy all of them,for remember that the days of darkness will be many.Everything that is to come is vanity."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Rejoice in Your Youth -Rejoice, young man, while you are young,and make the most of the days of your youth.Follow the inclinations of your heartand the desires of your eyes.Yet remember that for all these thingsGod will demand an account."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Banish grief from your heartand ignore the sufferings of your body,for youth and the prime of life are fleeting."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Chapter 12 -Remember Your Creator\u00a0.\u00a0.\u00a0. -Remember your Creator in the days of your youthbefore the bad times comeand the years draw near when you will say,\u201cI take no pleasure in them\u201d;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "before the sun and the light of daygive way to darkness,before the moon and the stars grow dimand the clouds return after the rain;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "when the guardians of the house trembleand the strong men are bent over,and the women who grind the mealcease working because they are few in number,and those who look through the windowsrealize that their eyesight is failing;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "when the doors to the street are shutand the sound of grinding begins to fade,when one waits to hear the chirping of a bird,but all the songbirds are silent;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "when one is afraid of heightsand is concerned about dangers on the streets.And You Return to Your Eternal Home -Remember him\u2014when the almond tree blossomsand the grasshopper is sluggishand desire is no longer stirred,and you return to your eternal homewhile the mourners assemble in the streets."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Remember him\u2014before the silver cord is snappedor the golden bowl is brokenor the pitcher is shattered at the springor the wheel is broken at the well"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "and the dust returns to the earth from which it cameand the spirit returns to God who gave it."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Final Editor\u2019s Note -Vanity of vanities, says Qoheleth;all things are vanity."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "In addition to his wisdom, Qoheleth taught the people knowledge, having weighed, studied, and arranged many proverbs."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Qoheleth sought to express his thoughts in a pleasing way and to convey truths with precision."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "The sayings of the wise are as sharp as goads; like spikes firmly positioned are the lessons offered by a single shepherd."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "In regard to anything beyond these, my child, beware. There is no end to the writing of many books, and extensive study results in a weariness of the flesh."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "This is the end of my teaching.All has been heard.Fear God and keep his commandments,for that is the responsibility of everyone."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "For God will bring to judgment all of our deedsand reveal all of our secrets,whether good or bad."
+                }
+            }
+        }
+    }
+}

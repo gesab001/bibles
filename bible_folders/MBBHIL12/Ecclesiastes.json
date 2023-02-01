@@ -1,0 +1,955 @@
+{
+    "version": "MBBHIL12",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Amo ini ang mga ginsiling sang Manugwalinga anak ni David, ang hari sa Jerusalem."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ang kabuhi wala sing kapuslanan, wala gid sing kapuslanan, ang siling sang Manugwali. Wala sing kapuslanan, ang tanan wala gid sing kapuslanan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nagapangabudlay ka sa bug-os mo nga kabuhi, nagahimakas, kag ano bala ang makuha mo sini?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ang mga kaliwatan nagaabot kag nagataliwan, pero ang kalibutan amo man sa gihapon."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ang adlaw nagabutlak kag nagatunod sa gihapon, kag nagadali sa pagbalik sa lugar diin magasugod ini liwat."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ang hangin nagahuyop sa bagatnan, nagahuyop sa aminhan, nagabuyong-buyong ini kag nagabalik liwat."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ang tubig sa tanan nga suba nagailig sa dagat, pero ang dagat wala nagakapuno. Ang tubig nagabalik sa mga suba sa diin ini naghalin, kag nagailig ini liwat."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ang tanan nga butang nagapalapyo sa tawo, ang pagkalapyo nga indi masaysay. Ang aton mga mata indi mabusog sang ila ginatan-aw, kag ang aton mga dulonggan indi maayawan sang ila ginapamatian."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ang natabo sang una matabo man liwat. Ang nahimo sang una pagahimuon liwat. Wala sing bag-o nga butang sa bug-os nga kalibutan."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nagasiling sila, \u201cTan-awa, yari ang bag-o nga butang!\u201d Indi ina matuod! Yara na ina sang una, sang wala pa kita matawo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wala sing may nagadumdom sang natabo sang nagliligad, kag sa mga adlaw nga palaabuton wala sing may magadumdom sang matabo sumugod karon kag sa sadto nga tion."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ako, ang Manugwali, naghari sa bug-os nga Israel didto sa Jerusalem."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nagpamat-od ako sa pag-usisa kag sa pagtuon sang tanan nga mga butang nga ginahimo sa sini nga kalibutan.\nAng Dios naghatag sa aton sing mapait nga kapalaran."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nakita ko ang tanan nga ginahimo sa sini nga kalibutan, kag sugiran ko ikaw, nga ang tanan wala sing kapuslanan. Daw pareho lang nga nagalagas ikaw sang hangin."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ang tiko indi mo mapatadlong kag indi mo maisip ang mga butang nga wala dira."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nagsiling ako sa akon kaugalingon, \u201cNanginbantog ako nga tawo kag labi pa kaalam sa bisan kay sin-o nga naggahom una sa akon sa Jerusalem. Nahibaluan ko kon ano gid ang kaalam kag ihibalo.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nagpamat-od ako sa paghibalo sang kinatuhay sang ihibalo kag kabuangan, kaalam kag pagkabuangbuang. Pero akon nasapwan nga daw pareho lang ini nga nagalagas man ako sang hangin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kon nagadugang ang imo kaalam, nagadugang man ang imo palaligban. Kon nagadugang ang imo nahibaluan, nagadugang man ang imo kasakit."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nagtapat ako sa akon kaugalingon nga magpangalipay ako, kag tilawan ko kon ano ang kalipay. Pero akon nasapwan nga ini wala man sing kapuslanan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nasapwan ko nga ang pagkadlaw kabuangan, kag ang pagpangalipay wala sing pulos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tungod sang akon handom sa pag-angkon sang kaalam, nagtapat ako nga lipayon ko sing bino ang akon kaugalingon kag magpangalipay. Naghunahuna ako nga ayhan amo ini ang pinakamaayo nga paagi nga mahimo sang tawo sa iya malip-ot nga pagkabuhi sa sini nga duta."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Dalagku nga mga butang ang nahimo ko. Naghimo ako sing mga balay para sa akon kaugalingon kag nagtanom sing mga ubas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Naghimo ako sing mga katamnan kag mga hardin, kag sa sini nagtanom sang nanarisari nga mga prutas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Naghimo ako sing irigasyon sa pagpatubig sa ila."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nagbakal ako sing mga ulipon nga babayi kag lalaki, kag may mga ulipon nga natawo sa akon balay. Mas madamo pa ang akon mga baka sang sa kay bisan sin-o nga nag-estar sa Jerusalem."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nagtipon man ako sing mga pilak kag bulawan gikan sa mga manggad sang mga hari sa mga duta nga akon gingamhan. Ang mga lalaki kag mga babayi nagkanta sa paglipay sa akon, kag ang tanan nga mga babayi nga ginahandom sang isa ka lalaki naangkon nakon."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Huo, nangingamhanan ako, mas gamhanan pa sang sa bisan kay sin-o nga nag-estar sa Jerusalem, kag ang akon kaalam yara gihapon sa akon."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ang bisan ano nga luyag ko, naangkon ko. Wala ko gindumilii ang akon kaugalingon sang bisan ano nga kalipayan. Ginpabugal ko ang tanan nga akon ginpangabudlayan, kag amo ini ang akon balos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dayon nagpanghunahuna ako nahanungod sang tanan nga ginhimo ko, kag kon daw ano ang pagpangabudlay ko sa paghimo sini, kag akon natalupangdan nga wala ini sing pulos. Kaangay lang ini sang nagalagas ka sang hangin, wala gid sing kapuslanan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kon sa bagay, ang isa ka hari makahimo lamang sang nahimo na sang nahauna nga mga hari.\nGani nagsugod ako sa pagpanumdom kon ano ang kapuslanan sang kaalam, pagkabuang kag kabuangan."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "A, nahibaluan ko, \u201cAng kaalam mas maayo sang sa kabuangan, subong nga ang kapawa mas maayo sang sa kadudulman."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ang maalam nga mga tawo nakahibalo kon diin sila nagapakadto, pero ang mga buangbuang wala makahibalo.\u201d Pero akon man nahibaluan nga pareho man lang ang kapalaran nga nagahulat sa aton tanan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nagpanghunahuna ako sa akon kaugalingon, \u201cAng matabo sa mga buangbuang matabo man sa akon. Gani ano gid bala ang napulos ko sa akon pagkaalam?\u201d Nagsabat ako, \u201cWala gid, bisan diutay lang.\u201d"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Wala sing may nagadumdom sang mga maalam, kag wala sing may nagadumdom sang mga buangbuang. Sa palaabuton nga mga adlaw, tanan kita malipatan. Tanan kita, maalam kag buangbuang, mapatay gid."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Gani ang kabuhi wala sing pulos sa akon, tungod kay ang tanan nga mga butang sa kabuhi wala sing nahatag sa akon kundi kagamo. Ang tanan wala sing kapuslanan, kaangay ako sang naglagas sa hangin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ang tanan nga akon ginpangabudlayan kag akon naangkon wala sing pulos sa akon, tungod kay nahibaluan ko nga akon man lang ini bayaan sa magabulos sa akon"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "kag sin-o bala ang makahibalo kon maalam sia ukon buangbuang? Pero sia magapanag-iya sang tanan ko nga ginpangabudlayan kag sang tanan nga akon naangkon sa sini nga kalibutan tungod sang akon kaalam. Wala ini tanan sing kapuslanan."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Gani naghinulsol ako nga nagpangabudlay ako sing tudo gid."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Nagapangabudlay ka sa bug-os mo nga kaalam, ihibalo, kag kinaadman para sa isa ka butang, kag dayon bayaan mo man lang ini sa tawo nga wala magpangabudlay sini. Wala ini sing pulos, kag wala nagakaigo!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Nagapangabudlay ka kag nagapalibog sa bug-os mo nga pagkabuhi, kag ano bala ang nakuha mo?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ang tanan mo nga ginahimo, sa bug-os mo nga pagkabuhi, wala sing iban nga ginadala kundi palaligban kag kasakit sa tagipusoon. Bisan sa kagab-ihon indi gani makapahuway ang imo panghunahuna. Ini tanan wala sing kapuslanan."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ang labing maayo nga himuon sang tawo amo ang pagkaon, pag-inom, kag pagpangalipay sa iya pinangabudlayan. Ini man, natalupangdan ko nga nagagikan sa Dios."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kay luas sa Dios, sin-o bala ang makakita sing kalan-on kag makapangalipay?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ang Dios nagahatag sing kaalam, ihibalo, kag kalipay sa mga nagapahamuot sa iya, pero ginapapangabudlay niya ang mga makasasala sa pagtipon kag sa pagtago, agod ang ila matipon mahatag sa mga nagapahamuot sa iya. Ini tanan wala sing kapuslanan. Kaangay ini sang nagalagas ka sa hangin."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang tagsa ka butang nga nagakatabo sa sini nga kalibutan nagakatabo sa tion nga luyag sang Dios."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Gintalana niya ang tion sa pagkatawo kag ang tion sa pagkapatay,\nang tion sa pagtanom kag ang tion sa pag-ani"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ang tion sa pagpatay kag ang tion sa pagbulong,\nang tion sa pagguba kag ang tion sa pagpatindog."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Gintalana niya ang tion sa pagpangasubo kag ang tion sa pagpangalipay,\nang tion sa paglalaw kag ang tion sa pagsinaot"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "ang tion sa pagpakighirop kag tion nga wala sing pagpakighirop,\nang tion sa paghalukanay kag ang tion nga wala sing paghalukanay."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Gintalana niya ang tion sa pagpangita kag ang tion sa pagdula,\nang tion sa pagtago kag ang tion sa pagpilak"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "ang tion sa paggisi kag ang tion sa pagtahi,\nang tion sa paghipos kag ang tion sa paghambal."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Gintalana niya ang tion sa paghigugma kag ang tion sa pagdumot,\nang tion sa pag-inaway kag ang tion sa paghidait."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ano bala ang makuha sang tawo sa tanan niya nga pagpangabudlay?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nahibal-an ko ang mabug-at nga palas-anon nga ginhatag sa aton sang Dios."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "May nagakaigo sia nga tion nga gintalana para sa tagsa ka butang. Ginhatagan niya kita sing handom sa paghibalo sang palaabuton, pero indi gid naton mahangpan sing bug-os ang iya ginahimo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Gani natalupangdan ko nga ang mahimo lamang sang tawo amo ang pagkalipay kag paghimo sang labing maayo nga iya masarangan samtang buhi pa sia."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tanan kita magkaon kag mag-inom, kag magkalipay sa aton ginpangabudlayan. Dulot ini sang Dios sa aton."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nahibaluan ko nga ang bisan ano nga ginahimo sang Dios magapadayon sa walay katubtoban. Indi ka makadugang ukon makabuhin sini. Kag ang isa ka butang nga ginahimo sang Dios amo nga ang mga tawo magsimba sa iya."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ang bisan ano nga nagakatabo ukon matabo pa natabo na sang una. Ang nagakatabo ginaliwatliwat sang Dios."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Indi lamang ini, natalupangdan ko man nga sa sini nga kalibutan ang kalautan nagaluntad sa baylo sang katarungan kag pagkamatarong."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nagsiling ako sa akon kaugalingon, \u201cAng Dios magahukom sa matarong kag malaut nga wala sing pinilian, tungod kay ang tagsa ka butang, ang tagsa ka buhat matabo suno sa iya natalana nga tion.\u201d"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kon sa akon lang, ang Dios nagatilaw sa mga tawo, sa pagpakita sa ila nga indi sila labaw sang sa mga sapat."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kon sa bagay, pareho man lang ang madangatan sang mga tawo kag mga sapat. Pareho man lang sila nga mapatay. Pareho man lang sila nga tinuga. Ang tawo indi labaw sang sa sapat, tungod kay ang kabuhi wala sing pulos sa ila nga duha."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Sila nga duha nagapadulong sa amo man nga lugar\u2014ang yab-ok. Sila nga duha sa yab-ok maghalin kag sila nga duha magabalik sa yab-ok."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ano ang pagkasiguro mo nga ang espiritu sang tawo nagapadulong sa ibabaw, samtang ang iya sang sapat nagapadulong sa idalom sang duta?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Gani natalupangdan ko nga ang labing maayo nga mahimo sang tawo amo ang pagkalipay sa iya ginpangabudlayan. Wala na sia sing iban pa nga sarang mahimo. Wala sing paagi nga makahibalo sia kon ano ang matabo sa tapos sia mapatay."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sa liwat gintan-aw ko ang tanan nga pagkadi-matarong nga nagapadayon sa sini nga kalibutan. Ang mga ginapigos nagahinibi, kag wala sing may magabulig sa ila. Wala sing may magabulig sa ila, tungod kay ang ila mga manugpigos may gahom nga ginasaligan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kon sa akon lang mas maayo pa yadtong mga patay kag nagtaliwan na sang sa mga nagakabuhi."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pero ang labing maayo pa gid sang sa ila amo ang wala matawo, ang wala pa makakita sang pagkadi-matarong nga nagakahanabo sa sini nga kalibutan."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Akon man nakita kon ngaa ang mga tawo nagapangabudlay sing tudo agod magmadinalag-on: ini tungod kay nagakaibog sila sa ginaangkon sang ila isigkatawo. Wala ini sing kapuslanan. Kaangay ini sang nagalagas ka sa hangin."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nagasiling sila nga buangbuang gid ang tawo kon magpanimuko lang sia kag mapatay sia sa kagulotmon."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ayhan matuod ini, pero mas maayo na lang nga may diutay ka nga pagkabutang nga may kalinong, sang sa madamo ang imo pagkabutang kag indi ka makapahuway sa imo pagtinguha sa pagdakop sang hangin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Natalupangdan ko ang isa pa ka butang nga wala sing kapuslanan sa kabuhi."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Yari ang isa ka tawo nga nagakabuhi sing isahanon lang. Wala sia sing anak nga lalaki, wala sing utod nga lalaki, pero wala sia nagauntat sa pagpangabudlay kag wala gid ginaayawi sang manggad nga iya naangkon. Para kay sin-o sia nagapangabudlay kag nagadumili sa iya kaugalingon sang kalipayan? Wala man ini sing kapuslanan, kag masubo ini nga sahi sang pagkabuhi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ang duha mas maayo sang sa isa, tungod kay sila nga duha makapangabudlay sing labing maayo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kon ang isa sa ila matumba, ang isa sa ila makabulig sa pagpabangon sa iya. Pero kon ang isa wala sing upod kag matumba, makaluluoy sia tungod kay wala sing may mabulig sa iya."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kon matugnaw, ang duha makahuliray kag makapainit-init, pero ano ang pagpainit-init mo kon isa lang ikaw?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ang duha ka tawo makabato sang pag-atake nga makalutos sang isa ka tawo. Ang lubid nga tatlo ka doble mabudlay bugtuon."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ayhan ang isa ka imol nga tawo sarang manginhari sang iya pungsod, ukon magahalin sa prisuhan pakadto sa trono, pero kon sa iya katigulangon tama sia ka buangbuang nga wala nagasapak sang laygay, mas maayo pa sa iya ang imol nga pamatan-on, pero maalam."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ayhan ang isa ka imol nga tawo sarang manginhari sang iya pungsod, ukon magahalin sa prisuhan pakadto sa trono, pero kon sa iya katigulangon tama sia ka buangbuang nga wala nagasapak sang laygay, mas maayo pa sa iya ang imol nga pamatan-on, pero maalam."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nagpamalandong ako nahanungod sang tanan nga mga tawo nga nagakabuhi sa sini nga kalibutan, kag akon natalupangdan nga sa ila may isa ka pamatan-on nga magabulos sa hari."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Indi maisip ang kadamuon sang mga tawo nga pagagamhan sang hari, pero kon wala na sia, wala gid sing may magapasalamat sang iya nahimo. Wala ini sing kapuslanan kag kaangay ini sang nagalagas ka sa hangin."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mag-andam ka sang imo ginahimo kon magkadto ka sa Templo. Mas maayo ang pagkadto didto sa pagtuon sang sa paghalad sing mga dulot subong sang mga tawo nga buangbuang nga indi makahibalo kon ano ang maayo kag kon ano ang malain."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Magpanghunahuna ka anay sa wala pa ikaw makahambal, kag indi ka magdasudaso sa pagsaad sa Dios. Ang Dios yara sa langit kag yari ikaw sa duta, gani indi ka maghambal sing sobra sa imo dapat ihambal."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kon magsagad ka palibog, madali ka magdamgo sing malain, kag kon magsagad ka hambal, madali ka makahambal sing binuang."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Gani kon magsaad ka sa Dios, tumana ini sa gilayon, kay wala sing-pulos sa iya ang mga buangbuang. Tumana ang imo ginsaad nga himuon."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mas maayo pa nga indi ka na lang magsaad sang sa magsaad ka nga indi mo man lang pagtumanon."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Indi ka magpakasala paagi sa imo mga pulong, agod makasiling ka sa pari sang Dios nga indi mo yadto hungod. Ngaa paakigon mo ang Dios sa imo? Ngaa ipalaglag mo sa iya ang imo ginpangabudlayan?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Wala sapayan sang tanan mo nga mga damgo, kag sang tanan mo nga mga binuhatan nga wala sing kapuslanan kag sang imo madamo nga mga pulong, dapat ka sa gihapon magtahod sa Dios."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Indi ka matingala kon makita mo nga ang gubyerno nagapigos sang mga imol, kag wala nagahatag sa ila sang ila kinamatarong kag katarungan. Ang tagsa ka opisyal ginaapinan sang isa nga mas mataas sang sa iya, kag sila nga duha ginaapinan sang mga mas mataas pa gid nga mga opisyales."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bisan pa ang hari nagasalig sa iya patubas."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kon nagahigugma ka sang kwarta, indi ka gid maayawan, kon nagahandom ka nga magmanggaranon, indi mo gid maangkon ang tanan nga imo ginahandom kay ini tanan wala sing kapuslanan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kon nagadugang ang imo manggad, nagadugang man ang mga baba nga imo palakan-on. Ang kinaayo gid lang sina kay kuno abi manggaranon ka."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ang tawo nga nagapamugon ayhan may madamo nga ginakaon ukon diutay lang, pero maayo ang iya tulog. Pero ang manggaranon may madamo nga pagkabutang kag amo ina ang kabangdanan nga indi sia makatulog sa pagpalibog."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Amo ini ang malain nga butang nga nakita ko sa sini nga kalibutan: ang mga tawo nagatago sang ila kwarta para sa tion sang ila kinahanglanon"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "kag ina nga kwarta madula tanan sa isa ka dimalas nga pagnegosyo, sa bagay nga wala gid sing may mabilin nga ila ipapanubli sa ila mga kabataan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Magataliwan kita sa sini nga kalibutan nga wala sing dala subong sang aton pagkatawo. Wala gid kita sing may madala sang aton mga ginpangabudlayan."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Indi ini husto! Magataliwan kita subong sang aton pagkatawo. Nagapangabudlay kita nga nagatinguha sa pagdakop sang hangin, kag ano ang aton makuha?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ang makuha naton amo ang pagkabuhi sa kadudulman kag kasubo, nga nagapalibog, nagakaakig kag nagamasakit."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Amo ini ang nasapwan ko: ang labing maayo nga mahimo sang tawo amo ang pagkaon kag pag-inom, kag pagpangalipay sa iya ginpangabudlayan sa malip-ot nga kabuhi nga ginhatag sang Dios sa iya. Amo ini ang maabutan sang tawo."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kon ang Dios naghatag sa tawo sing manggad kag pagkabutang, kag nagatugot sa iya sa pagpangalipay sa sini nga mga butang, dapat sia magpasalamat kag magpangalipay sa iya ginpangabudlayan. Dulot ini sang Dios."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Tungod kay gintugotan sia sang Dios sa pagkalipay, indi sia magsagad palibog kon daw ano kalip-ot sang kabuhi."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Natalupangdan ko nga sa sini nga kalibutan wala nagakaigo ang ginahimo sa tawo nga daw indi niya mabatas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ang Dios nagahatag sa isa ka tawo sing manggad, kadungganan, kag pagkabutang, huo, ang tanan nga luyag sang tawo, pero wala sia paghatagi sang Dios sing kahigayunan sa pagpangalipay sini. Sa baylo, ang dumoluong amo ang magapangalipay sini. Wala ini sing kapuslanan, kag indi ini matarong."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ayhan ang isa ka tawo makapamata sing 100, kag magkabuhi sing malawig, pero bisan daw ano kalawig sang iya pagkabuhi, kon wala sia sing kalipay, kag kon indi dungganon ang paglubong sa iya, ti makasiling ako nga ang bata nga natawo nga patay mas maayo pa sang sa iya."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Wala sing pulos ang pagkatawo sang bata kay nagakadto sia sa kadudulman, sa diin sia wala na ginadumdom."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Wala gid sia makakita sang kapawa sang adlaw, ukon makahibalo kon daw ano ang kabuhi, pero nakapahuway na sia."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mas maayo pa sia sang sa tawo nga wala gid makapangalipay sa iya pagkabuhi, bisan nga ayhan magkabuhi sia sing 2,000 ka tuig. Kon sa bagay, sila nga duha magakadto sa amo man nga lugar."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ang tawo nagapangabudlay agod may kaunon, pero ginakulang man sia gihapon."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ano bala ang kinaayo sang maalam nga tawo sang sa buangbuang? Ano nga kinaayo ang mahatag sa imol nga tawo kon makahibalo sia sa pag-atubang sang kabuhi?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Wala ini sing kapuslanan, kaangay ini sang nagalagas ka sa hangin. Mas maayo pa nga magkuntento ka sang yara lang sa imo sang sa magsagad ka handom sang iban pa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ang bisan ano nga nagakatabo napat-od na nga daan, kag kita tanan nakahibalo nga ang isa ka tawo indi makasuay sa tawo nga mas makusog pa sang sa iya."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sa nagalawig ang imo pagpakigsuay, labi nga wala pulos ini, kag wala ini nagahatag sa imo sing kaayuhan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ano ang pagkahibalo sang tawo kon ano ang labing maayo sa iya sa sining malip-ot kag wala pulos nga kabuhi niya, ang kabuhi nga umalagi lang kaangay sang landong? Ano ang pagkahibalo sang tawo sang matabo sa kalibutan sa tapos sia mapatay?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang dungganon nga ngalan mas maayo pa sang sa malahalon nga agwa, kag ang adlaw sang imo pagkapatay mas maayo pa sang sa adlaw sang imo pagkatawo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mas maayo pa ang magkadto sa balay nga may paglalaw sang sa balay nga may pagkinasadya, tungod kay ang buhi dapat magpahanumdom pirme sang ila kaugalingon nga tanan kita nagapadulong sa kamatayon."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ang pagkasubo mas maayo sang sa pagkinadlaw, ayhan magamasinulob-on ang imo guya, pero nagadugang ini sang imo paghangop."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ang tawo nga buangbuang pirme nagapanumdom nahanungod sang kalipayan. Ang tawo nga maalam nagapanumdom sang kamatayon."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mas maayo pa nga sawayon ikaw sang tawo nga maalam sang sa dayawon ikaw sang mga buangbuang."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kon ang buangbuang magkadlaw, kaangay ini sang mga tunok nga nagabiti sa kalayo. Wala man ini sing kapuslanan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kon ang isa ka maalam nga tawo magdaya sa isa ka tawo, nagaginawi sia kaangay sang buangbuang. Kon magbaton ka sing hamham, ginapierde mo ang imo kadungganan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mas maayo pa ang katapusan sang isa ka butang sang sa iya ginsugoran.\nAng pagpailob mas maayo sang sa pagpabugal."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Punggi ang imo kaakig. Ang nagahupot sing dumot buangbuang."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Indi ka gid magpamangkot, \u201cNgaa mas maayo iya sang una sang sa karon?\u201d Indi amo ini ang pamangkot sang maalam."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ang tagsatagsa nga nagakabuhi dapat magmaalam. Subong ini kaayo sang nagabaton ka sing palanublion"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "kag magahatag ini sa imo sing kasigurohan pareho sang ginahatag sang kwarta. Ang kaalam nagatipig sa imo nga indi ka maano\u2014amo ini ang kinaayo sang ihibalo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Panumdoma kon ano ang ginhimo sang Dios. Ano ang pagtadlong sang tawo sang ginhimo sang Dios nga tiko?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kon yara ka sa maayo nga kahimtangan, magmalipayon ka, kag kon mag-abot ang kapiutan, dumdoma nga ang Dios nagapadala sang kalipay kag kapiutan kag indi ka makahibalo kon ano ang madason nga matabo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ang akon kabuhi nanginwala sing kapuslanan, pero nakita ko ini tanan sa sini nga kabuhi. Ang isa ka tawo nagakapatay bisan nga maayo sia nga tawo, samtang ang isa ka tawo nagapadayon sa pagkabuhi bisan nga malaut sia."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Gani indi ka gid magtama kaayo ukon magtama kaalam\u2014ngaa patyon mo ang imo kaugalingon?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pero indi ka man magtama kalaut ukon kabuang, kay ngaa nga magdali ka sa pagtaliwan sa wala pa ang imo tion?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Haganhagana lang, kay kon ikaw nagakahadlok sa Dios magamadinalag-on ka."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Sobra pa ang mahimo sang kaalam sa isa ka tawo sang sa mahimo sang napulo ka mga pangulo sa isa ka siudad."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wala gid sing isa ka tawo sa duta nga nagahimo sing matarong sa tanan nga tion kag wala gid nagasayop."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Indi ka magsapak sa tanan nga ginasiling sang mga tawo, ayhan mabatian mo ang imo suloguon nga nagapakamalaut sa imo"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "kag ikaw gid nakahibalo nga nakapakamalaut ka sang iban nga mga tawo sa madamo nga beses."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Gingamit ko ang akon kaalam sa pagtilaw sini tanan. Nagtapat ako nga magmaalam, pero indi ko ini malambot."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ano ang pagkatungkad sang tawo kon ano ang kahulogan sang kabuhi? Tama ini kadalom para sa aton, tama kabudlay nga hangpon."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Pero gingamit ko ang akon tion sa pagtuon kag sa pag-angkon sing ihibalo. Nagtapat ako sa pagpangita sang kaalam kag sang mga sabat sa akon mga pamangkot, kag sa paghibalo kon daw ano kalaut kag kabuang sang kabuangan."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Nasapwan ko nga ang malain nga babayi mas mapait pa sang sa kamatayon. Ang gugma nga iya ginatanyag magadakop sa imo subong sang isa ka siod, ukon subong sang pukot, kag ang iya mga butkon magagapos sa imo subong sang isa ka kadena. Ang isa ka tawo nga nagapahamuot sa Dios makapalagyo, pero ang malain nga babayi magadakop sa makasasala."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Siling sang Manugwali, huo, nasapwan ko ini sing amat-amat sa nagapangita ako sing mga sabat."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Nagpangita ako sing iban nga mga sabat pero wala gid ako sing may nakita. Nasapwan ko nga sa 1,000 may isa ka talahaon nga lalaki, pero wala gid sing isa ka talahaon nga babayi."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Amo ini tanan ang akon nasapwan: ang Dios naghimo sa aton nga simpli lang, pero naghimo kita sing madamo nga mga padugi."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang maalam lamang nga tawo amo ang nakahibalo kon ano gid ang kahulogan sang mga butang. Ang kaalam nagapanayanaya sang iya guya, kag nagakuha sang iya pagkurisong."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tumana ang ginasiling sang hari, kag indi ka magdasudaso sa pagsaad sa Dios."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ang hari makahimo sang bisan ano nga luyag niya, gani maghalin ka sa iya atubang kag indi ka magtener sa sinang makatalagam nga lugar."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ang hari may awtoridad sa ginahimo niya, kag wala sing may makapamatok sang iya ginahimo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Basta nga ginatuman mo ang iya mga ginamando indi ka maano, kag ang maalam nga tawo nakahibalo sang nagakaigo nga tion kag nagakaigo nga paagi sang paghimo sini."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "May nagakaigo nga tion kag nagakaigo nga paagi sang paghimo sang bisan ano, pero diutay lang ang aton nahibaluan!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Wala sing bisan sin-o sa aton ang nakahibalo kon ano ang matabo, kag wala sang may makasugid sa aton."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wala sing may makalikaw sa kamatayon, ukon makapaisol sang adlaw sang iya kamatayon. Amo ini ang inaway nga indi kita makapalagyo. Indi kita makadaya sa paglikaw sini."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nakita ko ini tanan sang magpanumdom ako nahanungod sang mga butang nga ginahimo sa sini nga kalibutan sa diin ang pila ka mga tawo may gahom, kag ang iban nagaantos sa idalom nila."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Huo, nakita ko ang malaut nga mga tawo nga ginlubong sa ila mga lulobngan, pero sang pagpalauli sang mga naglubong, gindayaw nila ang mga ginlubong sa siudad mismo sa diin sila naghimo sang ila kalautan. Wala ini sing kapuslanan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ngaa bala ang mga tawo wala mahadlok maghimo sing mga sala? Tungod kay ang sala wala ginasiluti gilayon."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ang isa ka makasasala makahimo sing 100 ka sala kag nagakabuhi man sia gihapon. Nahibaluan ko ang ginasiling nila: \u201cKon magtahod ka sa Dios, ang tanan manginmaayo"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "pero indi ini maayo para sa malaut. Ang ila kabuhi kaangay sang landong, kag mapatay sila samtang pamatan-on pa, tungod kay wala sila nagatuman sa Dios.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pero kabuangan ini. Tan-awa ang nagakatabo sa kalibutan: kon kaisa ang matarong nga mga tawo amo ang nagabaton sang silot para sa malaut nga mga tawo kag ang malaut amo ang nagabaton sang balos para sa matarong. Nagasiling ako nga wala ini sing kapuslanan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Gani, maayo pa nga ang tawo magkasadya, tungod kay ang iya lamang kalipay sa sini nga kabuhi amo ang pagkaon kag ang pag-inom, kag ang pagpangalipay. Amo ini ang mahimo niya samtang nagapangabudlay sia sa malip-ot nga kabuhi nga ginhatag sang Dios sa iya sa sini nga kalibutan."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kon magtinguha ako nga magmaalam, kag maghibalo sang nagakatabo sa kalibutan, natalupangdan ko nga bisan magpulaw ka sa adlaw kag gab-i"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "pero indi ka gid makahangop sang ginahimo sang Dios. Bisan daw ano ang pagtinguha mo, indi ka gid makahibalo sing bug-os. Ang maalam nga mga tawo ayhan makasiling nga nahibaluan nila, pero wala sila makahibalo."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nagpanghunahuna ako sing malawig kag madalom nahanungod sini tanan, kag nasapwan ko nga ang Dios nagagahom sang mga ginahimo sang maalam kag matarong nga mga tawo, bisan pa ang ila paghigugma kag pagdumot. Wala sing may nakahibalo kon ano ang palaabuton niya."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Wala sing kinatuhay kay pareho lang ang maabutan sang matarong kag malaut, sang maayo kag malain, sang putli kag di-putli, sang nagadulot sang halad kag sang wala. Ang isa ka maayo nga tawo indi maglabi pa sa makasasala kag ang tawo nga nagapanumpa indi maglabi pa sa wala nagapanumpa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pareho lang ang maabutan sang tanan, kag subong man sini kalain sang nagakahanabo sa kalibutan. Samtang nagakabuhi pa ang mga tawo, ang ila mga panghunahuna puno sang kalautan kag kabuangan, kag sa hinali lang mapatay sila."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pero ang bisan sin-o nga nagasimpon sa tanan nga mga buhi may paglaom. Ang buhi nga ido mas maayo pa sang sa patay nga leon."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kay ang buhi nakahibalo nga mapatay gid sila, pero ang patay wala gid sing nahibaluan. Wala na sila sing palaabuton nga balos, kundi nalipatan na gid sila sing lubos."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ang ila paghigugma, ang ila pagdumot, ang ila mga balatyagon napatay tanan upod sa ila. Indi na gid sila makapakigbahin sa bisan ano nga nagakatabo sa sini nga kalibutan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sigi, magkaon ka kag magkalipay. Imna ang imo bino kag magkasadya. Ang bisan ano nga ginahimo mo ginabaton sang Dios."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Magmasinadyahon ka pirme kag magmalipayon."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Magkalipay ka sa imo pagpangabuhi upod sa babayi nga imo ginahigugma, samtang nagakabuhi pa ikaw sang kabuhi nga wala sing pulos nga ginhatag sang Dios sa imo sa sini nga kalibutan. Himusli sing malipayon ang tagsa sini ka adlaw nga wala sing pulos, tungod kay amo lamang ini ang imo makuha sa imo pagpangabudlay."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Himua sing maayo suno sa imo masarangan ang imo ginahimo, kay wala sing bulohaton, wala sing panghunahuna, wala sing ihibalo, wala sing kaalam sa kalibutan sang mga patay, kag didto ikaw magakadto."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Natalupangdan ko ang isa ka butang, nga sa sini nga kalibutan ang madasig magdalagan indi pirme ang nagadaog sa palumba, kag ang maisog indi pirme ang nagadaog sa inaway. Ang maalam nga mga tawo indi pirme ang makakita sing palangabuhian, ang may kaabtik sing panghunahuna indi pirme ang nagamanggaranon, kag ang makasarang nga mga tawo indi pirme ang nagasaka sa mataas nga mga palangakuan. Ang malain nga kapalaran nagakatabo sa tanan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Indi ka gid makahibalo kon san-o magaabot ang imo tion. Kaangay kita sang mga pispis nga sa hinali nasiod, kaangay sang isda nga nadakpan sa lambat. Ginadakop kita sa malain nga tion nga wala ta ginapaabuta."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "May isa pa gid ka butang nga nasapwan ko, isa ka maayo nga halimbawa kon daw ano ang pagkabig sang kaalam sa sini nga kalibutan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "May isa ka diutay nga banwa, nga indi gid madamo ang mga tawo. Ang isa ka gamhanan nga hari nagsalakay sini. Ginkibon niya ini kag naghanda sa pagsulod paagi sa mga pader."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sa amo nga banwa may isa ka tawo nga imol, pero maalam nga makaluwas kuntani sang banwa. Pero wala gid sing may nakadumdom sa iya."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nagasiling ako nga ang kaalam mas maayo pa sang sa kusog, pero wala sing may nagapanghunahuna nga ang isa ka imol nga tawo maalam, ukon nagasapak sang ginasiling niya."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mas maayo pa nga magpamati sa mahinay nga hambal sang isa ka maalam nga tawo sang sa magpamati sa singgit sang isa ka pangulo sang katilingban sang mga buang."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ang kaalam mas maayo pa sang sa mga hinganiban sa inaway, pero ang isa ka makasasala makalaglag sang madamo nga kaayuhan."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ang patay nga mga langaw nagapabaho sang isa ka botelya nga agwa, kag ang diutay nga kabuangan nagapierde sang labing daku nga kaalam."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kinaugali sang maalam nga tawo ang paghimo sang matarong, kag sang buangbuang sa paghimo sing sayop."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ang iya kabuangan indi matago bisan sa mga dumoluong nga iya masugata kag ginapahibalo niya ang tanan nga buangbuang sia."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kon ang imo pangulo maakig sa imo, indi pagbayai ang imo palangakuan. Ang dalagku nga mga sayop ayhan mapatawad kon magpakalinong ka lang."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Amo ini ang indi husto nga nakita ko sa kalibutan nga ginahimo sang mga pangulo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ang buangbuang nga mga tawo ginahatagan sang mataas nga mga palangakuan, samtang ang mga manggaranon wala ginasapaka."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nakita ko nga ang mga ulipon amo ang nagasakay sa kabayo samtang ang mga prinsipe nagalakat nga daw mga ulipon."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kon magkutkot ka sing buho, mahulog ka sa sini. Kon magguhab ka sa pader sa pagsulod, ang man-og magabuntog sa imo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kon maglukat ka sing bato, mapilas ka sini. Kon magbial ka sing kahoy, may katalagman ka nga mapilas."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kon ang imo wasay mahabol kag wala mo ginabaira ini, dapat ka magpangusog sing tudo sa imo paggamit sini. Mas maayo ang magplano nga daan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Wala sing pulos ang imo ihibalo sa pag-anta sang man-og kon nabuntog na niya ikaw."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ang ginahambal sang maalam nga tawo nagahatag sa iya sing kadungganan, pero ang buangbuang ginaguba sang iya kaugalingon nga mga pulong."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nagasugod sia sang binuang nga hambal, kag ang maabutan niya matuodtuod nga kabuangan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ang buangbuang nagapadaray lang sing hambal.\nWala sing may nakahibalo kon ano ang madason nga mahanabo, kag wala sing may makasugid sa aton kon ano ang mahanabo sa tapos kita mapatay."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ang tawo lamang nga buangbuang nga indi na makatultol sa pagpauli amo ang nagapatay sang iya kaugalingon sa pagpangabudlay."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ang isa ka pungsod yara sa katalagman kon ang iya hari isa ka bata, kag kon ang iya mga pangulo magkinaon kag mag-ininom sa bug-os nga gab-i."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ang isa ka pungsod mapalaron nga makaangkon sang isa ka hari nga makahimo sang iya mga desisyon, kag may mga pangulo nga nagakaon sa nagakaigo nga tion, nga nagapugong sang ila kaugalingon kag wala nagapahuboghubog."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kon ang isa ka tawo tama katamad sa pagkaayo sang iya atop, magatulo ini, kag ang balay marusdak."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ang pagkinaon nagalipay sa imo kag ang bino nagahatag sa imo sing kasadya, pero indi ka makatilaw sini kon wala ka sing kwarta."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Indi pagpakamalauta ang hari, bisan sa tago lang, kag indi pagpakamalauta ang manggaranon, bisan sa imo kwarto. Kay basi ang isa ka pispis magdala kag magsugid sang imo ginsiling."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ibutang ang imo kwarta sa negosyo sa iban nga pungsod, kag sa pila ka adlaw makaganansya ikaw."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ibutang ang imo kwarta sa nagakalainlain nga palatikangan kay indi ka makahibalo kon ano nga malain nga kapalaran ang magaabot sa imo sa sini nga kalibutan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kon ang mga gal-om madamol na, nagaulan sa duta. Bisan diin lang ang kahoy matumba, didto ini magapabilin."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kon maghulat ka tubtob mag-ayo ang panahon kag indi gid mabaskog ang hangin, indi ka gid makatanom, kag wala ka gid sing may mapatubas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ang Dios naghimo sang tanan, kag subong nga indi ka makahangop kon paano ang pagsugod sang kabuhi sa tiyan sang nagabusong nga babayi, indi ka man makahangop sang ginahimo sang Dios."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Magtanom ka sa aga kag sa hapon man, kay indi ka gid makahibalo kon magatubo ini sing maayo, ukon diin sini sa ila ang mas maayo sing tubo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Maayo nga magkasadya sa matahom nga kapawa sang adlaw."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Magpasalamat ka sa tagsa ka tuig sang imo pagkabuhi. Bisan daw ano kalawig sang imo pagkabuhi, dumdoma nga mas malawig pa gid ang kamatayon. Wala ka sing palaabuton nga may kapuslanan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mga pamatan-on, magkalipay kamo sa inyo pagkapamatan-on. Magkalipay kamo samtang pamatan-on pa kamo. Himua ninyo ang luyag ninyo himuon kag tumana ang handom sang inyo tagipusoon. Pero dumdoma ninyo nga ang Dios magahukom sa inyo sang bisan ano nga inyo ginahimo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Indi kamo magpalibog ukon magkalisod sang bisan ano kay ang pagkapamatan-on umalagi lang."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Gani dumdoma ninyo ang inyo Manunuga samtang pamatan-on pa kamo, sa wala pa mag-abot yadtong masubo nga mga inadlaw kag mga tinuig nga magasiling kamo, \u201cWala ako sing kalipay sa kabuhi.\u201d"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ina kon ang kapawa sang adlaw, sang bulan, kag sang mga bituon magadulom para sa inyo, kag ang gal-om wala gid nagakapanas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dayon ang inyo mga kamot nga nagaapin sa inyo magakurog, kag ang inyo mga tuhod nga karon mabakod pa, magaluya. Ang inyo mga ngipon mangin pila na lang ka bilog nga indi na makausang sang pagkaon, kag ang inyo mga mata magadulom kag indi na makakita sing maathag."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ang inyo mga dulonggan indi na makabati sang gahod sa kalsada. Daw halos na kamo makabati sang gahod sang galingan samtang nagagaling ini, ukon sang musika nga ginatukar, pero bisan ang kanta sang isa ka pispis magapabugtaw sa inyo sa katulogon."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Magakahawa kamo sa mataas nga mga lugar, kag ang paglakat makatalagam. Ang inyo buhok magaubanon, kag ang inyo kapagros kag handom madula.\nMagapauli kita sa aton ilistaran nga dayon, kag sa sadto nga tion bisan sa kalsada makita ang mga nagalalaw."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ang kadena nga pilak mabugto, kag ang suga nga bulawan madagdag kag mabuka. Ang higot sang timba mabugto, kag ang timba mawasak."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ang aton mga lawas magabalik sa yab-ok sang duta, kag ang ginhawa sang kabuhi magabalik sa Dios, nga amo ang naghatag sini sa aton."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Wala sing kapuslanan, wala gid sing kapuslanan, siling sang Manugwali. Ang tanan wala sing kapuslanan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pero tungod kay ang Manugwali maalam, nagpadayon sia sa pagtudlo sa mga tawo sang iya nahibaluan. Nagtuon sia sang mga hulobaton kag gintilawan niya nga nagabinagbinag sang kamatuoran sini."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ang Manugwali nagtinguha sa pagpangita sing mga pulong sa paglipay, pero ang mga pulong nga iya ginsulat maminatud-on."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ang mga hulobaton sang mga mangin-alamon kaangay sang mataliwis nga mga baston nga ginagamit sang mga manugbantay sa pagtuytoy sa mga karnero, kag ang natipon nga mga hulobaton nagapadayon kaangay sang mga lansang nga napadulot sing maayo. Ginhatag ini sang Dios, ang Manugbantay naton tanan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Anak, may isa pa ka butang nga dapat talupangdon. Wala sing katapusan ang pagsulat sang mga libro, kag ang sobra nga pagtuon magapalapyo sa imo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Sa tapos sini tanan, amo na lang ini ang akon masiling: Magtahod ka sa Dios, kag tumana ang iya mga sugo, tungod kay amo ini ang bug-os nga katungdanan sang tawo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ang Dios magahukom sang tanan nga aton ginahimo, maayo man ukon malain, bisan ang mga butang nga ginahimo sa tago."
+                }
+            }
+        }
+    }
+}

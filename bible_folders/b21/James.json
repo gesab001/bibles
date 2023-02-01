@@ -1,0 +1,464 @@
+{
+    "version": "b21",
+    "book_name": "James",
+    "book_nr": "59",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jakub, slu\u017eebn\u00edk Boha a P\u00e1na Je\u017e\u00ed\u0161e Krista, zdrav\u00ed dvan\u00e1ct pokolen\u00ed v diaspo\u0159e."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Zkou\u0161ky a poku\u0161en\u00ed - M\u011bjte z toho jen radost, brat\u0159i moji, kdykoli upad\u00e1te do r\u016fzn\u00fdch zkou\u0161ek."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "V\u00edte p\u0159ece, \u017ee zkou\u0161en\u00ed va\u0161\u00ed v\u00edry p\u0159in\u00e1\u0161\u00ed vytrvalost."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nechte v\u0161ak vytrvalost dozr\u00e1t, abyste byli dokonal\u00ed a \u00fapln\u00ed a nic v\u00e1m nesch\u00e1zelo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sch\u00e1z\u00ed-li n\u011bkomu z v\u00e1s moudrost, a\u0165 \u017e\u00e1d\u00e1 Boha, a ten mu ji d\u00e1 \u2013 je p\u0159ece \u0161t\u011bdr\u00fd ke v\u0161em a bez v\u00fdhrad!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A\u0165 ale \u017e\u00e1d\u00e1 ve v\u00ed\u0159e a bez pochybnost\u00ed. Kdo pochybuje, podob\u00e1 se toti\u017e mo\u0159sk\u00e9 vln\u011b, v\u011btrem bi\u010dovan\u00e9 a hnan\u00e9 sem a tam."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "A\u0165 nikdo takov\u00fd ne\u010dek\u00e1, \u017ee od P\u00e1na n\u011bco dostane \u2013"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u010dlov\u011bk s dvojakou mysl\u00ed je toti\u017e ve v\u0161em nest\u00e1l\u00fd."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A\u0165 se bratr, kter\u00fd je n\u00edzko, raduje ze sv\u00e9ho pov\u00fd\u0161en\u00ed"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "a bohat\u00fd ze sv\u00e9ho pon\u00ed\u017een\u00ed; pomine toti\u017e jako poln\u00ed kv\u011bt."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kdy\u017e vyjde slunce a p\u0159ijde \u017e\u00e1r, usych\u00e1 tr\u00e1va a vadne kv\u011bt; ze v\u0161\u00ed t\u00e9 n\u00e1dhery nic nezb\u00fdv\u00e1. Pr\u00e1v\u011b tak uvadne boh\u00e1\u010d p\u0159i v\u0161ech sv\u00fdch po\u010dinech."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Blaze \u010dlov\u011bku, kter\u00fd proch\u00e1z\u00ed zkou\u0161kou! A\u017e se osv\u011bd\u010d\u00ed, z\u00edsk\u00e1 korunu \u017eivota, kterou P\u00e1n zasl\u00edbil t\u011bm, kdo ho miluj\u00ed."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kdy\u017e je v\u0161ak n\u011bkdo pokou\u0161en, a\u0165 nikdy ne\u0159\u00edk\u00e1, \u017ee to poku\u0161en\u00ed je od Boha. Jako B\u016fh nem\u016f\u017ee b\u00fdt pokou\u0161en zl\u00fdm, tak tak\u00e9 s\u00e1m nikoho nepokou\u0161\u00ed."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kdy\u017e je n\u011bkdo pokou\u0161en, v\u017edycky jej vle\u010de a v\u00e1b\u00ed jeho vlastn\u00ed cht\u00ed\u010d."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Cht\u00ed\u010d, jakmile po\u010dne, rod\u00ed h\u0159\u00edch a h\u0159\u00edch, kdy\u017e dosp\u011bje, plod\u00ed smrt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Neple\u0165te se, milovan\u00ed brat\u0159i!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "V\u0161echno dobr\u00e9 a dokonal\u00e9 je dar sh\u016fry od Otce sv\u011btel, u n\u011bho\u017e nen\u00ed \u017e\u00e1dn\u00e1 zm\u011bna, \u017e\u00e1dn\u00fd prom\u011bnliv\u00fd st\u00edn."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ze sv\u00e9 v\u016fle n\u00e1s zplodil slovem pravdy, abychom byli prvotinou jeho stvo\u0159en\u00ed."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ryz\u00ed zbo\u017enost - V\u00edte, milovan\u00ed brat\u0159i, \u017ee ka\u017ed\u00fd \u010dlov\u011bk m\u00e1 b\u00fdt pohotov\u00fd k sly\u0161en\u00ed, ale pomal\u00fd k mluven\u00ed, pomal\u00fd k hn\u011bvu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Lidsk\u00fd hn\u011bv p\u0159ece k spravedlnosti p\u0159ed Bohem nevede."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Odho\u010fte proto v\u0161echnu \u0161p\u00ednu a spoustu \u0161patnosti a s krotkost\u00ed p\u0159ij\u00edmejte zaset\u00e9 Slovo, kter\u00e9 m\u00e1 moc spasit va\u0161e du\u0161e."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "T\u00edm slovem je ale pot\u0159eba se \u0159\u00eddit \u2013 nenamlouvejte si, \u017ee mu sta\u010d\u00ed naslouchat!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kdo Slovu naslouch\u00e1, ale ne\u0159\u00edd\u00ed se j\u00edm, podob\u00e1 se \u010dlov\u011bku, kter\u00fd se vid\u00ed v zrcadle,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "ale kdy\u017e odejde, hned zapomene, jak vypadal."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kdo v\u0161ak zahl\u00e9dl dokonal\u00fd z\u00e1kon svobody a dr\u017e\u00ed se jej, blaze jemu ve v\u0161em, co d\u011bl\u00e1! Nezapom\u00edn\u00e1 toti\u017e, co sly\u0161el, ale napl\u0148uje to skutkem."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Pokud si n\u011bkdo mysl\u00ed, \u017ee je zbo\u017en\u00fd, a p\u0159itom neum\u00ed zvl\u00e1dnout vlastn\u00ed jazyk, ten klame s\u00e1m sebe a jeho zbo\u017enost je k ni\u010demu."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "\u010cist\u00e1 a ryz\u00ed zbo\u017enost p\u0159ed Bohem a Otcem je toto: pom\u00e1hat sirotk\u016fm a vdov\u00e1m v jejich nouzi a chr\u00e1nit se p\u0159ed \u0161p\u00ednou sv\u011bta."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u00edra a p\u0159edpojatost - Brat\u0159i moji, nespojujte v\u00edru na\u0161eho slavn\u00e9ho P\u00e1na Je\u017e\u00ed\u0161e Krista s p\u0159edpojatost\u00ed."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Co kdy\u017e do va\u0161eho shrom\u00e1\u017ed\u011bn\u00ed p\u0159ijde \u010dlov\u011bk v n\u00e1dhern\u00fdch \u0161atech a se zlat\u00fdm prstenem a za n\u00edm chud\u00e1k ve \u0161pinav\u00fdch hadrech?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Budete-li se v\u011bnovat tomu n\u00e1dhern\u011b oble\u010den\u00e9mu a \u0159eknete mu: \u201ePosa\u010f se pros\u00edm sem,\u201c ale tomu chud\u00e1kovi \u0159eknete: \u201eN\u011bkde si stoupni nebo si sedni na zem\u201c \u2013"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "copak t\u00edm mezi sebou ned\u011bl\u00e1te rozd\u00edly? Neposuzujete lidi \u0161patn\u00fdm m\u011b\u0159\u00edtkem?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Poslouchejte, milovan\u00ed brat\u0159i: Copak B\u016fh nevyvolil chud\u00e1ky tohoto sv\u011bta, aby byli bohat\u00ed ve v\u00ed\u0159e? Nemaj\u00ed pr\u00e1v\u011b oni zd\u011bdit kr\u00e1lovstv\u00ed, kter\u00e9 B\u016fh zasl\u00edbil t\u011bm, kdo jej miluj\u00ed?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vy ale chud\u00e9ho klidn\u011b pon\u00ed\u017e\u00edte! Nejsou to p\u0159itom pr\u00e1v\u011b bohat\u00ed, kdo v\u00e1s utiskuje a vl\u00e1\u010d\u00ed po soudech?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nerouhaj\u00ed se pr\u00e1v\u011b oni tomu vz\u00e1cn\u00e9mu jm\u00e9nu, kter\u00fdm jste ozna\u010deni?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pokud opravdu pln\u00edte kr\u00e1lovsk\u00fd z\u00e1kon, jak prav\u00ed P\u00edsmo: \u201eMiluj sv\u00e9ho bli\u017en\u00edho jako s\u00e1m sebe,\u201c dob\u0159e d\u011bl\u00e1te."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jste-li v\u0161ak p\u0159edpojat\u00ed, h\u0159e\u0161\u00edte a Z\u00e1kon v\u00e1s usv\u011bd\u010duje jako vin\u00edky."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kdo by toti\u017e dodr\u017eoval cel\u00fd Z\u00e1kon, ale v jednom bod\u011b selhal, provinil se ve v\u0161ech."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tent\u00fd\u017e, kdo \u0159ekl: \u201eNecizolo\u017e,\u201c \u0159ekl tak\u00e9: \u201eNezab\u00edjej.\u201c Pokud tedy necizolo\u017e\u00ed\u0161, ale zab\u00edj\u00ed\u0161, p\u0159estupuje\u0161 Z\u00e1kon."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Proto mluvte a jednejte jako lid\u00e9, kte\u0159\u00ed maj\u00ed b\u00fdt souzeni podle z\u00e1kona svobody."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Toho, kdo nebyl milosrdn\u00fd, \u010dek\u00e1 nemilosrdn\u00fd soud. Milosrdenstv\u00ed v\u0161ak nad soudem v\u00edt\u011bz\u00ed."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "V\u00edra a skutky - K \u010demu to je, brat\u0159i moji, kdy\u017e n\u011bkdo tvrd\u00ed, \u017ee m\u00e1 v\u00edru, ale neprojevuje se to skutky? Copak ho takov\u00e1 v\u00edra zachr\u00e1n\u00ed?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Co kdy\u017e bratr nebo sestra nebudou m\u00edt co j\u00edst anebo co na sebe?"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kdy\u017e jim \u0159eknete: \u201eJd\u011bte v pokoji, a\u0165 je v\u00e1m teplo a dob\u0159e se najezte,\u201c ale ned\u00e1te jim, co pot\u0159ebuj\u00ed k \u017eivotu, k \u010demu to bude?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pr\u00e1v\u011b tak v\u00edra bez skutk\u016f, v\u00edra sama o sob\u011b, je mrtv\u00e1."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "N\u011bkdo na to \u0159ekne: \u201eJeden m\u00e1 v\u00edru, druh\u00fd zase skutky.\u201c Nu\u017ee, uka\u017e mi tu svou v\u00edru bez skutk\u016f a j\u00e1 ti uk\u00e1\u017eu svou v\u00edru na sv\u00fdch skutc\u00edch."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ty v\u011b\u0159\u00ed\u0161, \u017ee je jedin\u00fd B\u016fh? Dob\u0159e d\u011bl\u00e1\u0161. Tomu ale v\u011b\u0159\u00ed i d\u00e9moni \u2013 a t\u0159esou se!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kdy u\u017e pochop\u00ed\u0161, ty bl\u00e1zne, \u017ee v\u00edra bez skutk\u016f je jalov\u00e1?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Nebyl snad n\u00e1\u0161 otec Abraham ospravedln\u011bn na z\u00e1klad\u011b skutk\u016f, kdy\u017e p\u0159inesl sv\u00e9ho syna Iz\u00e1ka na olt\u00e1\u0159?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Vid\u00ed\u0161? V\u00edra podporovala jeho skutky a d\u00edky t\u011bm skutk\u016fm jeho v\u00edra do\u0161la napln\u011bn\u00ed!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Tak se stalo, co \u0159\u00edk\u00e1 P\u00edsmo: \u201eAbraham uv\u011b\u0159il Bohu a to mu bylo po\u010d\u00edt\u00e1no za spravedlnost\u201c a byl ozna\u010den za Bo\u017e\u00edho p\u0159\u00edtele."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Vid\u00edte? \u010clov\u011bk je ospravedl\u0148ov\u00e1n d\u00edky skutk\u016fm, a ne jen d\u00edky v\u00ed\u0159e."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Nebyla podobn\u011b na z\u00e1klad\u011b skutk\u016f ospravedln\u011bna tak\u00e9 nev\u011bstka Rachab, kdy\u017e p\u0159ijala ony \u0161pehy a potom je poslala pry\u010d jinudy?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Tak\u017ee: jako je t\u011blo bez ducha mrtv\u00e9, stejn\u011b tak je mrtv\u00e1 i v\u00edra bez skutk\u016f."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jazyk je ohe\u0148 - Nesna\u017ete se mnoz\u00ed st\u00e1t u\u010diteli, brat\u0159i moji \u2013 v\u011bzte, \u017ee budeme souzeni p\u0159\u00edsn\u011bji."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "V\u0161ichni p\u0159ece v mnoh\u00e9m chybujeme. Kdo nechybuje ve slov\u011b, dos\u00e1hl dokonalosti a je schopen se ovl\u00e1dat v ka\u017ed\u00e9m ohledu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kdy\u017e d\u00e1me kon\u00edm do huby udidlo, abychom je zkrotili, m\u016f\u017eeme pak ovl\u00e1dat cel\u00e9 jejich t\u011blo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "I mohutn\u00e9 lod\u011b hnan\u00e9 prudk\u00fdm v\u011btrem \u0159\u00edd\u00ed mal\u00e9 kormidlo, kamkoli kormideln\u00edk chce."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Stejn\u011b tak i jazyk je mal\u00fd sval, ale co v\u0161echno dok\u00e1\u017ee! Pova\u017ete, jak dok\u00e1\u017ee mali\u010dk\u00fd ohe\u0148 zap\u00e1lit velik\u00fd les."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I jazyk je ohe\u0148! Mezi v\u0161emi org\u00e1ny na\u0161eho t\u011bla p\u0159edstavuje jazyk sv\u011bt zla. Poskvr\u0148uje cel\u00e9 t\u011blo a spaluje cel\u00fd b\u011bh \u017eivota, nebo\u0165 je rozpalov\u00e1n peklem."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Lidstvo se pokou\u0161\u00ed zkrotit ka\u017ed\u00fd druh zv\u00ed\u0159at, pt\u00e1k\u016f, plaz\u016f i mo\u0159sk\u00fdch tvor\u016f a da\u0159\u00ed se mu to,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "ale jazyk \u017e\u00e1dn\u00fd \u010dlov\u011bk zkrotit neum\u00ed. Je to nezvl\u00e1dnuteln\u00e9 zlo, pln\u00e9 smrteln\u00e9ho jedu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "J\u00edm dobro\u0159e\u010d\u00edme P\u00e1nu a Otci, j\u00edm tak\u00e9 zlo\u0159e\u010d\u00edme lidem stvo\u0159en\u00fdm k Bo\u017e\u00ed podob\u011b."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ze stejn\u00fdch \u00fast vych\u00e1z\u00ed \u017eehn\u00e1n\u00ed i prokl\u00edn\u00e1n\u00ed. Brat\u0159i moji, tak to nem\u00e1 b\u00fdt!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Chrl\u00ed snad pramen ze stejn\u00e9ho \u00fast\u00ed sladkou i ho\u0159kou vodu?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "M\u016f\u017ee snad, brat\u0159i moji, f\u00edkovn\u00edk plodit olivy anebo vinn\u00e1 r\u00e9va f\u00edky? Stejn\u011b tak soln\u00fd pramen nevyd\u00e1v\u00e1 sladkou vodu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Moudrost sh\u016fry - Kdo je mezi v\u00e1mi moudr\u00fd a rozumn\u00fd? A\u0165 to prok\u00e1\u017ee sv\u00fdmi skutky \u2013 u\u0161lechtil\u00fdm \u017eivotem ve vl\u00eddn\u00e9 moudrosti."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "M\u00e1te-li v\u0161ak v srdci ho\u0159kou z\u00e1vist a sv\u00e1rlivost, nechlubte se a nel\u017eete proti pravd\u011b."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "To nen\u00ed moudrost p\u0159ich\u00e1zej\u00edc\u00ed sh\u016fry, ale ta pozemsk\u00e1, pudov\u00e1 a \u010f\u00e1belsk\u00e1."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kde je toti\u017e z\u00e1vist a sv\u00e1rlivost, tam vznik\u00e1 nepokoj a kdejak\u00e1 \u0161patnost."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Moudrost, kter\u00e1 je sh\u016fry, je ale p\u0159edev\u0161\u00edm \u010dist\u00e1, d\u00e1le pokojn\u00e1, vl\u00eddn\u00e1, povoln\u00e1, pln\u00e1 milosrdenstv\u00ed a dobr\u00e9ho ovoce, nestrann\u00e1 a nepokryteck\u00e1."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ti, kdo rozs\u00e9vaj\u00ed pokoj, sklid\u00ed ovoce spravedlnosti."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pokorn\u00e9 zahrne milost\u00ed - Odkud poch\u00e1zej\u00ed boje a sv\u00e1ry mezi v\u00e1mi? Nep\u016fsob\u00ed je snad va\u0161e choutky, kter\u00e9 se ve v\u00e1s perou?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dycht\u00edte, ale nem\u00e1te, vra\u017ed\u00edte a z\u00e1vid\u00edte, ale nem\u016f\u017eete dos\u00e1hnout, bojujete a v\u00e1l\u010d\u00edte, ale nem\u00e1te, proto\u017ee nepros\u00edte."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pros\u00edte, ale nedost\u00e1v\u00e1te, proto\u017ee pros\u00edte zle, abyste uspokojili sv\u00e9 vlastn\u00ed choutky."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vy nev\u011brn\u00edci! Nev\u00edte, \u017ee p\u0159\u00e1telstv\u00ed se sv\u011btem znamen\u00e1 nep\u0159\u00e1telstv\u00ed s Bohem? Kdokoli se rozhodne b\u00fdt p\u0159\u00edtelem sv\u011bta, st\u00e1v\u00e1 se Bo\u017e\u00edm nep\u0159\u00edtelem."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Anebo si mysl\u00edte, \u017ee P\u00edsmo mluv\u00ed napr\u00e1zdno? Copak Duch, kter\u00fd v n\u00e1s p\u0159eb\u00fdv\u00e1, vede k nevra\u017eivosti?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Naopak, nab\u00edz\u00ed \u00fa\u017easnou milost! \u0158\u00edk\u00e1 p\u0159ece: \u201eB\u016fh se stav\u00ed proti py\u0161n\u00fdm, pokorn\u00e9 ale zahrne milost\u00ed.\u201c"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Poddejte se tedy Bohu. Vzep\u0159ete se \u010f\u00e1blu a ute\u010de od v\u00e1s,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "p\u0159ibli\u017ete se Bohu a p\u0159ibl\u00ed\u017e\u00ed se v\u00e1m. Umyjte sv\u00e9 ruce, h\u0159\u00ed\u0161n\u00edci, a o\u010dist\u011bte sv\u00e1 srdce, vy, kdo m\u00e1te dvojakou mysl."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Dejte se do b\u011bdov\u00e1n\u00ed, truchlete a pla\u010dte! V\u00e1\u0161 sm\u00edch a\u0165 se obr\u00e1t\u00ed v n\u00e1\u0159ek a va\u0161e radost v skl\u00ed\u010denost."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Poko\u0159te se p\u0159ed P\u00e1novou tv\u00e1\u0159\u00ed a on v\u00e1s pov\u00fd\u0161\u00ed."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "T\u0159i varov\u00e1n\u00ed - Brat\u0159i, nepomlouvejte jedni druh\u00e9. Kdo pomlouv\u00e1 nebo soud\u00ed sv\u00e9ho bratra, pomlouv\u00e1 a soud\u00ed Z\u00e1kon. Pokud soud\u00ed\u0161 Z\u00e1kon, p\u0159estal jsi b\u00fdt plnitelem Z\u00e1kona a stal ses jeho soudcem."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Z\u00e1konod\u00e1rce a soudce je ale jen jeden! On m\u016f\u017ee zachr\u00e1nit i zni\u010dit. Kdo v\u016fbec jsi, \u017ee soud\u00ed\u0161 sv\u00e9ho bli\u017en\u00edho?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "A te\u010f vy, kdo \u0159\u00edk\u00e1te: \u201eDnes nebo z\u00edtra se vyprav\u00edme do tamtoho m\u011bsta. Str\u00e1v\u00edme tam rok a vyd\u011bl\u00e1me si obchodem\u201c \u2013"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "vy p\u0159ece ani nev\u00edte, co bude z\u00edtra! Co je v\u00e1\u0161 \u017eivot? Nic ne\u017e p\u00e1ra. Na chvilku se uk\u00e1\u017ee a pak miz\u00ed."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Rad\u011bji m\u00e1te \u0159\u00edci: \u201eD\u00e1-li P\u00e1n a budeme \u017eiv\u00ed, ud\u011bl\u00e1me to \u010di ono.\u201c"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vy se ale chlub\u00edte ve sv\u00e9 namy\u0161lenosti. V\u0161echno takov\u00e9 chluben\u00ed je zl\u00e9."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Um\u011bt jednat spr\u00e1vn\u011b, ale nejednat je h\u0159\u00edch."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A te\u010f vy, boh\u00e1\u010di \u2013 pla\u010dte a na\u0159\u00edkejte nad b\u00eddami, je\u017e v\u00e1s \u010dekaj\u00ed."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Va\u0161e bohatstv\u00ed je shnil\u00e9, \u0161aty v\u00e1m se\u017erali moli,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "va\u0161e zlato a st\u0159\u00edbro zreziv\u011blo. Ta rez bude sv\u011bd\u010dit proti v\u00e1m a str\u00e1v\u00ed va\u0161e t\u011bla jako ohe\u0148. Nahromadili jste si poklad pro posledn\u00ed dny!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sly\u0161\u00edte? To k\u0159i\u010d\u00ed mzda, kterou jste odep\u0159eli d\u011bln\u00edk\u016fm, kte\u0159\u00ed d\u0159eli na va\u0161ich pol\u00edch! Vol\u00e1n\u00ed \u017eenc\u016f do\u0161lo sluchu Hospodina z\u00e1stup\u016f!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u017dili jste na zemi v rozko\u0161i a v po\u017eitc\u00edch; vykrmili jste se ke dni por\u00e1\u017eky!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Odsoudili jste a zavra\u017edili spravedliv\u00e9ho; on se nebr\u00e1nil."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Soudce p\u0159ich\u00e1z\u00ed - Brat\u0159i, bu\u010fte trp\u011bliv\u00ed a\u017e do P\u00e1nova p\u0159\u00edchodu. V\u00edte, jak roln\u00edk o\u010dek\u00e1v\u00e1 drahocennou \u00farodu zem\u011b \u2013 trp\u011bliv\u011b na ni \u010dek\u00e1, dokud nep\u0159ijde ran\u00fd i pozdn\u00ed d\u00e9\u0161\u0165."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "I vy tedy bu\u010fte trp\u011bliv\u00ed a pevn\u00ed. P\u00e1n\u016fv p\u0159\u00edchod je bl\u00edzko."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Nest\u011b\u017eujte si, brat\u0159i, jeden na druh\u00e9ho, abyste nebyli odsouzeni. Hle, Soudce u\u017e stoj\u00ed ve dve\u0159\u00edch!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Za p\u0159\u00edklad odolnosti a trp\u011blivosti si, brat\u0159i, vezm\u011bte proroky, kte\u0159\u00ed mluvili v Hospodinov\u011b jm\u00e9nu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "V\u00edte, \u017ee \u0159\u00edk\u00e1me: \u201eBlaze t\u011bm, kte\u0159\u00ed vytrvali.\u201c Sly\u0161eli jste o Jobov\u011b vytrvalosti a vid\u011bli jste, co pro n\u011bj nakonec P\u00e1n p\u0159ipravil, v\u017edy\u0165 \u201eHospodin je nesm\u00edrn\u011b milosrdn\u00fd a soucitn\u00fd.\u201c"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "P\u0159edev\u0161\u00edm v\u0161ak, brat\u0159i moji, nep\u0159\u00edsahejte \u2013 ani p\u0159i nebi, ani p\u0159i zemi, ani \u017e\u00e1dnou jinou p\u0159\u00edsahou \u2013 ale a\u0165 va\u0161e \u201eAno\u201c znamen\u00e1 ano a \u201eNe\u201c ne, abyste nebyli odsouzeni."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Modlitba dok\u00e1\u017ee mnoho - M\u00e1 n\u011bkdo z v\u00e1s tr\u00e1pen\u00ed? A\u0165 se modl\u00ed. Je n\u011bkdo \u0161\u0165astn\u00fd? A\u0165 zp\u00edv\u00e1 chv\u00e1ly."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Je n\u011bkdo z v\u00e1s nemocn\u00fd? A\u0165 zavol\u00e1 star\u0161\u00ed sboru a ti a\u0165 se za n\u011bj modl\u00ed a ma\u017eou ho olejem v P\u00e1nov\u011b jm\u00e9nu."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Modlitba v\u00edry uzdrav\u00ed nemocn\u00e9ho, P\u00e1n ho pozdvihne, a pokud sp\u00e1chal n\u011bjak\u00e9 h\u0159\u00edchy, bude mu odpu\u0161t\u011bno."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vyzn\u00e1vejte si navz\u00e1jem sv\u00e9 h\u0159\u00edchy a modlete se jedni za druh\u00e9, abyste byli uzdraveni. Vrouc\u00ed modlitba spravedliv\u00e9ho dok\u00e1\u017ee mnoho."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Eli\u00e1\u0161 byl \u010dlov\u011bk jako my, a kdy\u017e se horliv\u011b modlil, aby nepr\u0161elo, na zemi nezapr\u0161elo t\u0159i a p\u016fl roku."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kdy\u017e se pak modlil znovu, nebe vydalo d\u00e9\u0161\u0165 a zem\u011b \u00farodu."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Brat\u0159i moji, m\u016f\u017ee se st\u00e1t, \u017ee n\u011bkdo z v\u00e1s zbloud\u00ed od pravdy a n\u011bkdo ho obr\u00e1t\u00ed zp\u011bt."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "V\u011bzte, \u017ee ten, kdo odvr\u00e1t\u00ed h\u0159\u00ed\u0161n\u00edka od jeho bludn\u00e9 cesty, zachr\u00e1n\u00ed jeho du\u0161i p\u0159ed smrt\u00ed a p\u0159ikryje mno\u017estv\u00ed h\u0159\u00edch\u016f."
+                }
+            }
+        }
+    }
+}

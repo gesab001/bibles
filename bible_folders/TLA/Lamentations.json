@@ -1,0 +1,648 @@
+{
+    "version": "TLA",
+    "book_name": "Lamentations",
+    "book_nr": "25",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Primer lamento acr\u00f3stico - El profeta \u00a1Pobrecita de ti, Jerusal\u00e9n! Antes eras la m\u00e1s famosa de todas las ciudades. \u00a1Antes estabas llena de gente, pero te has quedado muy sola, te has quedado viuda! \u00a1Fuiste la reina de las naciones, pero hoy eres esclava de ellas!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Olvidada y ba\u00f1ada en l\u00e1grimas pasas todas las noches. Muchos dec\u00edan que te amaban, pero hoy nadie te consuela. Los que se dec\u00edan tus amigos hoy son tus enemigos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bajo el peso de las cadenas, la gente de Jud\u00e1 sali\u00f3 prisionera. Sus enemigos los atraparon y los maltrataron con crueldad. Ahora son esclavos en pa\u00edses lejanos, y no han dejado de sufrir."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ruido ya no se escucha en tus portones, Jerusal\u00e9n. \u00a1Qu\u00e9 triste es ver tus calles desiertas! Los sacerdotes lloran y las j\u00f3venes se afligen. Todo en ti es amargura; ya nadie viene a tus fiestas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Es tanto tu pecado, que Dios te castig\u00f3. El enemigo se llev\u00f3 prisioneros a todos tus habitantes. Ahora el enemigo te domina y vive feliz y contento."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00a1C\u00f3mo has perdido, Jerusal\u00e9n, la belleza que tuviste! Tus jefes, ya sin fuerzas, huyen de quienes los persiguen. \u00a1Hasta parecen venados hambrientos en busca de pastos frescos!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Insistes en recordar que alguna vez fuiste rica. Ahora vives en la tristeza y no tienes a d\u00f3nde ir. Cuando el enemigo te conquist\u00f3, no hubo nadie que te ayudara. Cuando el enemigo te vio vencida, se burl\u00f3 de verte en desgracia."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tanto has pecado, Jerusal\u00e9n, que todos te desprecian. Los que antes te admiraban hoy se burlan al verte en desgracia. \u00a1Ahora derramas l\u00e1grimas, y avergonzada escondes la cara!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00a1Asombrosa ha sido tu ca\u00edda! \u00a1No hay nadie que te consuele! Jam\u00e1s pensaste en llegar a ser tan despreciada, y ahora exclamas: \u00abMis enemigos me vencieron. \u00a1Mira, Dios m\u00edo, mi aflicci\u00f3n!\u00bb"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Due\u00f1o de todas tus riquezas es ahora tu enemigo. T\u00fa misma viste entrar en el templo gente de otros pueblos, aunque Dios hab\u00eda ordenado que no deb\u00edan entrar all\u00ed."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El pueblo entero llora y anda en busca de pan. Con tal de seguir con vida, cambian sus riquezas por comida. Llorando le dicen a Dios: \u00ab\u00a1Mira c\u00f3mo nos humillan!\u00bb"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jerusal\u00e9n Todos ustedes, que pasan y me ven, \u00bfpor qu\u00e9 gozan al verme sufrir? \u00bfD\u00f3nde han visto a alguien que sufra tanto como yo? Cuando Dios se enoj\u00f3 conmigo, me mand\u00f3 este sufrimiento."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Intensa lluvia de fuego ha enviado Dios sobre m\u00ed. Mis huesos se han quemado, y siento que me muero. Dios me cerr\u00f3 el paso, y me hizo retroceder. Me dej\u00f3 en el abandono; mi sufrimiento no tiene fin."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Junt\u00f3 Dios todos mis pecados y me los at\u00f3 al cuello. Ya no me quedan fuerzas; ya no los soporto m\u00e1s. Dios me entreg\u00f3 al enemigo, y no puedo defenderme."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En mis calles hay muchos muertos. \u00a1Dios rechaz\u00f3 a mis valientes! Junt\u00f3 un ej\u00e9rcito para atacarme, y acab\u00f3 con todos mis j\u00f3venes. Dios me aplast\u00f3 por completo; \u00a1me exprimi\u00f3 como a las uvas!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ruedan por mis mejillas l\u00e1grimas que no puedo contener. Cerca de m\u00ed no hay nadie que me consuele y me reanime. Mi gente no puede creer que el enemigo nos haya vencido."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "El profeta Un mont\u00f3n de escombros es ahora Jerusal\u00e9n. Suplicante pide ayuda, pero nadie la consuela. Dios mismo orden\u00f3 que sus vecinos la atacaran."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Jerusal\u00e9n Siempre Dios hace lo justo, pero yo soy muy rebelde. \u00a1Escuchen, naciones todas! \u00a1Miren c\u00f3mo sufro! \u00a1El enemigo se llev\u00f3 prisioneros a todos mis habitantes!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ayuda ped\u00ed a mis amigos, pero me dieron la espalda. Los jefes y sacerdotes acabaron perdiendo la vida. Andaban buscando comida, y no pudieron sobrevivir."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00a1La muerte me quit\u00f3 a mis hijos dentro y fuera de la ciudad! \u00a1Mira mi angustia, Dios m\u00edo! \u00a1Siento que me muero! \u00a1Tan rebelde he sido contigo que estoy totalmente confundida!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "El enemigo no esconde su alegr\u00eda porque t\u00fa, Dios m\u00edo, me haces sufrir. Todo el mundo escucha mi llanto, pero nadie me consuela. \u00a1Ya es tiempo de que los castigues como me castigaste a m\u00ed!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "No hay un solo pecado que ellos no hayan cometido; \u00a1castiga entonces su rebeld\u00eda, como me castigaste a m\u00ed! \u00a1Ya es mucho lo que he llorado, y siento que me muero!"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Segundo lamento acr\u00f3stico - El profeta \u00a1Pobrecita de ti, Jerusal\u00e9n! Cuando Dios se enoj\u00f3 contigo, derrib\u00f3 tu templo y acab\u00f3 con tu belleza. Ni siquiera se acord\u00f3 de tu reino en este mundo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ofendido y enojado, Dios destruy\u00f3 por completo todas las casas de Israel. Derrib\u00f3 las fortalezas de Jud\u00e1; quit\u00f3 al rey de su trono, y puso en verg\u00fcenza a sus capitanes."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Borr\u00f3 Dios nuestro poder cuando se enoj\u00f3 con nosotros. Nos enfrentamos al enemigo, pero Dios nos retir\u00f3 su ayuda. \u00a1Todo Israel arde en llamas! \u00a1Todo lo destruye el fuego!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Rompi\u00f3 en mil pedazos las casas de Jerusal\u00e9n, y acab\u00f3 con nuestros seres queridos. Como si fuera nuestro enemigo, decidi\u00f3 quitarnos la vida; su enojo fue como un fuego que nos destruy\u00f3 por completo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El llanto por los muertos se oye por todo Jud\u00e1. Dios parece nuestro enemigo, pues ha acabado con nosotros. \u00a1Todas sus fortalezas y palacios han quedado en ruinas!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Como quien derriba una choza, Dios destruy\u00f3 su templo. Ya nadie en Jerusal\u00e9n celebra los s\u00e1bados ni los d\u00edas de fiesta. Dio rienda suelta a su enojo contra el rey y los sacerdotes."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Incit\u00f3 al ej\u00e9rcito enemigo a conquistar Jerusal\u00e9n, y el enemigo grit\u00f3 en su templo como si estuviera de fiesta. \u00a1Dios ha rechazado por completo su altar y su santuario!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Todos los muros y las rampas son ahora un mont\u00f3n de escombros. Dios decidi\u00f3 derribar el muro que proteg\u00eda a Jerusal\u00e9n. Todo lo ten\u00eda planeado; \u00a1la destruy\u00f3 sin compasi\u00f3n!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00a1Adi\u00f3s, maestros de la ley! \u00a1Adi\u00f3s, profetas! \u00a1Dios ya no habla con nosotros! El rey y los capitanes andan perdidos entre las naciones. La ciudad qued\u00f3 desprotegida, pues Dios derrib\u00f3 sus portones."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De luto est\u00e1n vestidos los ancianos de Jerusal\u00e9n. En silencio se sientan en el suelo y se cubren de ceniza la cabeza. \u00a1Las j\u00f3venes de Jerusal\u00e9n bajan la cabeza llenas de verg\u00fcenza!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Estoy muy triste y desanimado porque ha sido destruida mi ciudad. \u00a1Ya no me quedan l\u00e1grimas! \u00a1Siento que me muero! Por las calles de Jerusal\u00e9n veo morir a los reci\u00e9n nacidos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "T\u00edmidamente claman los ni\u00f1os: \u00ab\u00a1Mam\u00e1, tengo hambre!\u00bb; luego van cerrando los ojos y mueren en las calles, en brazos de su madre."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Incomparable eres t\u00fa, Jerusal\u00e9n; \u00bfQu\u00e9 m\u00e1s te puedo decir? \u00bfQu\u00e9 puedo hacer para consolarte, bella ciudad de Jerusal\u00e9n? Tus heridas son muy profundas; \u00bfqui\u00e9n podr\u00eda sanarlas?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jam\u00e1s te dijeron la verdad; los profetas te mintieron. Si no te hubieran enga\u00f1ado, ahora estar\u00edas a salvo. Pero te hicieron creer en mentiras y no se\u00f1alaron tu maldad."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00ab\u00bfEn d\u00f3nde qued\u00f3 la hermosura de la bella Jerusal\u00e9n, la ciudad m\u00e1s alegre del mundo?\u00bb Eso preguntan al verte los que pasan por el camino, y se burlan de tu desgracia."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Rabiosos est\u00e1n tus enemigos, y no dejan de hablar mal de ti. Gritan en son de victoria: \u00ab\u00a1Lleg\u00f3 el d\u00eda que hab\u00edamos esperado! \u00a1Hemos acabado con Jerusal\u00e9n, y hemos vivido para contarlo!\u00bb"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Una vez, a\u00f1os atr\u00e1s, Dios jur\u00f3 que te destruir\u00eda, y ha cumplido su palabra: te destruy\u00f3 sin compasi\u00f3n, y permiti\u00f3 que tus enemigos te vencieran y te humillaran."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "S\u00ed, bella Jerusal\u00e9n, deja que tus habitantes se desahoguen ante Dios. Y t\u00fa, no dejes de llorar; \u00a1da rienda suelta a tu llanto de d\u00eda y de noche!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Alza la voz y ruega a Dios por la vida de tus ni\u00f1os, que por falta de comida caen muertos por las calles. Clama a Dios en las noches; cu\u00e9ntale c\u00f3mo te sientes."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Jerusal\u00e9n Las madres est\u00e1n por comerse a los hijos que tanto aman. Los sacerdotes y los profetas agonizan en tu templo. Piensa por favor, Dios m\u00edo, \u00bfa qui\u00e9n has tratado as\u00ed?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "En tu enojo les quitaste la vida a los j\u00f3venes y a los ancianos. Mis muchachos y muchachas cayeron muertos por las calles bajo el golpe de la espada; \u00a1no les tuviste compasi\u00f3n!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Nadie qued\u00f3 con vida el d\u00eda que nos castigaste; fue como una gran fiesta para el ej\u00e9rcito enemigo: murieron todos mis familiares, \u00a1nos atacaste por todos lados!"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Tercer lamento acr\u00f3stico - El profeta Yo soy el que ha sufrido el duro castigo de Dios."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00c9l me forz\u00f3 a caminar por los caminos m\u00e1s oscuros;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "no hay un solo momento en que no me castigue."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Oscura tumba es mi vida; \u00a1es como si ya estuviera muerto! Dios me rode\u00f3 por completo de la miseria m\u00e1s terrible. Me dej\u00f3 sin fuerzas; \u00a1no tengo un solo hueso sano!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Oscura tumba es mi vida; \u00a1es como si ya estuviera muerto! Dios me rode\u00f3 por completo de la miseria m\u00e1s terrible. Me dej\u00f3 sin fuerzas; \u00a1no tengo un solo hueso sano!"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Oscura tumba es mi vida; \u00a1es como si ya estuviera muerto! Dios me rode\u00f3 por completo de la miseria m\u00e1s terrible. Me dej\u00f3 sin fuerzas; \u00a1no tengo un solo hueso sano!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Se niega Dios a escucharme, aunque siempre le pido ayuda. A cada paso me pone tropiezos y me hace perder el camino. Me tiene preso y encadenado. \u00a1No puedo escaparme de \u00e9l!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Se niega Dios a escucharme, aunque siempre le pido ayuda. A cada paso me pone tropiezos y me hace perder el camino. Me tiene preso y encadenado. \u00a1No puedo escaparme de \u00e9l!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Se niega Dios a escucharme, aunque siempre le pido ayuda. A cada paso me pone tropiezos y me hace perder el camino. Me tiene preso y encadenado. \u00a1No puedo escaparme de \u00e9l!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Objeto soy de sus ataques; \u00a1soy el blanco de sus flechas! Como animal feroz me vigila, esperando el momento de atacarme. \u00a1Me obliga a apartarme del camino para que no pueda defenderme!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Objeto soy de sus ataques; \u00a1soy el blanco de sus flechas! Como animal feroz me vigila, esperando el momento de atacarme. \u00a1Me obliga a apartarme del camino para que no pueda defenderme!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Objeto soy de sus ataques; \u00a1soy el blanco de sus flechas! Como animal feroz me vigila, esperando el momento de atacarme. \u00a1Me obliga a apartarme del camino para que no pueda defenderme!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ya me parti\u00f3 el coraz\u00f3n con sus terribles flechas. Dios ha llenado mi vida de tristeza y amargura. Todo el d\u00eda y a todas horas, la gente se burla de m\u00ed."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ya me parti\u00f3 el coraz\u00f3n con sus terribles flechas. Dios ha llenado mi vida de tristeza y amargura. Todo el d\u00eda y a todas horas, la gente se burla de m\u00ed."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ya me parti\u00f3 el coraz\u00f3n con sus terribles flechas. Dios ha llenado mi vida de tristeza y amargura. Todo el d\u00eda y a todas horas, la gente se burla de m\u00ed."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Estoy completamente derrotado, porque Dios me hizo caer."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ya no tengo tranquilidad; la felicidad es s\u00f3lo un recuerdo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Me parece que de Dios ya no puedo esperar nada."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Los m\u00e1s tristes recuerdos me llenan de amargura."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Siempre los tengo presentes, y eso me quita el \u00e1nimo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Pero tambi\u00e9n me acuerdo de algo que me da esperanza:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "S\u00e9 que no hemos sido destruidos porque Dios nos tiene compasi\u00f3n."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "S\u00e9 que cada ma\u00f1ana se renuevan su gran amor y su fidelidad."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Por eso digo que en \u00e9l conf\u00edo; \u00a1Dios es todo para m\u00ed!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Invito a todos a confiar en Dios porque \u00e9l es bondadoso."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Es bueno esperar con paciencia que Dios venga a salvarnos,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "y aprender desde nuestra juventud que debemos soportar el sufrimiento."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Es conveniente callar cuando Dios as\u00ed lo ordena."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Y olvidar la venganza cuando alguien nos golpea. Debemos esperar con paciencia que Dios venga a ayudarnos."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Y olvidar la venganza cuando alguien nos golpea. Debemos esperar con paciencia que Dios venga a ayudarnos."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Realmente Dios nos ha rechazado, pero no lo har\u00e1 para siempre."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Nos hace sufrir y nos aflige, pero no porque le guste hacerlo. Nos hiere, pero nos tiene compasi\u00f3n, porque su amor es muy grande."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Nos hace sufrir y nos aflige, pero no porque le guste hacerlo. Nos hiere, pero nos tiene compasi\u00f3n, porque su amor es muy grande."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Violar los derechos humanos es algo que Dios no soporta. Maltratar a los prisioneros o no darles un juicio justo, es algo que Dios no aprueba."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Violar los derechos humanos es algo que Dios no soporta. Maltratar a los prisioneros o no darles un juicio justo, es algo que Dios no aprueba."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Violar los derechos humanos es algo que Dios no soporta. Maltratar a los prisioneros o no darles un juicio justo, es algo que Dios no aprueba."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "\u00a1Oye bien esto: Nada puedes hacer sin que Dios te lo ordene!"
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "\u00a1Todo lo bueno y lo malo pasa porque \u00e9l as\u00ed lo ordena!"
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "\u00a1No tenemos raz\u00f3n para quejarnos si nos castiga por nuestros pecados!"
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "Si pecamos contra Dios, y \u00e9l no quiere perdonarnos, pensemos en qu\u00e9 lo hemos ofendido. Dirijamos al Dios del cielo nuestras oraciones m\u00e1s sinceras, y corrijamos nuestra conducta."
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "Si pecamos contra Dios, y \u00e9l no quiere perdonarnos, pensemos en qu\u00e9 lo hemos ofendido. Dirijamos al Dios del cielo nuestras oraciones m\u00e1s sinceras, y corrijamos nuestra conducta."
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "Si pecamos contra Dios, y \u00e9l no quiere perdonarnos, pensemos en qu\u00e9 lo hemos ofendido. Dirijamos al Dios del cielo nuestras oraciones m\u00e1s sinceras, y corrijamos nuestra conducta."
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "Una nube envuelve a Dios; no le deja escuchar nuestra oraci\u00f3n. Lleno de enojo, Dios nos persigue; nos destruye sin ninguna compasi\u00f3n."
+                },
+                "44": {
+                    "verse_nr": "44",
+                    "verse": "Una nube envuelve a Dios; no le deja escuchar nuestra oraci\u00f3n. Lleno de enojo, Dios nos persigue; nos destruye sin ninguna compasi\u00f3n."
+                },
+                "45": {
+                    "verse_nr": "45",
+                    "verse": "Nos ha expuesto ante las naciones como si fu\u00e9ramos lo peor."
+                },
+                "46": {
+                    "verse_nr": "46",
+                    "verse": "Fuimos la burla del enemigo."
+                },
+                "47": {
+                    "verse_nr": "47",
+                    "verse": "Sufrimos en carne propia los horrores de la destrucci\u00f3n."
+                },
+                "48": {
+                    "verse_nr": "48",
+                    "verse": "Cuando vi destruida mi ciudad no pude contener las l\u00e1grimas."
+                },
+                "49": {
+                    "verse_nr": "49",
+                    "verse": "Realmente me duele ver sufrir a las mujeres de Jerusal\u00e9n. Se me llenan de l\u00e1grimas los ojos, pero no hay quien me consuele. \u00a1Espero que desde el cielo Dios nos mire y nos tenga compasi\u00f3n!"
+                },
+                "50": {
+                    "verse_nr": "50",
+                    "verse": "Realmente me duele ver sufrir a las mujeres de Jerusal\u00e9n. Se me llenan de l\u00e1grimas los ojos, pero no hay quien me consuele. \u00a1Espero que desde el cielo Dios nos mire y nos tenga compasi\u00f3n!"
+                },
+                "51": {
+                    "verse_nr": "51",
+                    "verse": "Realmente me duele ver sufrir a las mujeres de Jerusal\u00e9n. Se me llenan de l\u00e1grimas los ojos, pero no hay quien me consuele. \u00a1Espero que desde el cielo Dios nos mire y nos tenga compasi\u00f3n!"
+                },
+                "52": {
+                    "verse_nr": "52",
+                    "verse": "\u00a1Intentaron matarme, y no s\u00e9 por qu\u00e9 raz\u00f3n! Mis enemigos me atraparon, me encerraron en un pozo."
+                },
+                "53": {
+                    "verse_nr": "53",
+                    "verse": "\u00a1Intentaron matarme, y no s\u00e9 por qu\u00e9 raz\u00f3n! Mis enemigos me atraparon, me encerraron en un pozo."
+                },
+                "54": {
+                    "verse_nr": "54",
+                    "verse": "Estuve a punto de ahogarme; \u00a1cre\u00ed que hab\u00eda llegado mi fin!"
+                },
+                "55": {
+                    "verse_nr": "55",
+                    "verse": "En la profundidad de ese pozo te ped\u00ed ayuda, Dios m\u00edo,"
+                },
+                "56": {
+                    "verse_nr": "56",
+                    "verse": "y t\u00fa atendiste mis ruegos; \u00a1escuchaste mi oraci\u00f3n!"
+                },
+                "57": {
+                    "verse_nr": "57",
+                    "verse": "Te llam\u00e9, y viniste a m\u00ed; me dijiste que no tuviera miedo."
+                },
+                "58": {
+                    "verse_nr": "58",
+                    "verse": "No me negaste tu ayuda, sino que me salvaste la vida."
+                },
+                "59": {
+                    "verse_nr": "59",
+                    "verse": "Dios m\u00edo, \u00a1ay\u00fadame! Mira el mal que me causaron,"
+                },
+                "60": {
+                    "verse_nr": "60",
+                    "verse": "mira el mal que piensan hacerme, \u00a1quieren vengarse de m\u00ed!"
+                },
+                "61": {
+                    "verse_nr": "61",
+                    "verse": "T\u00fa sabes c\u00f3mo me ofenden; t\u00fa sabes que me hacen da\u00f1o."
+                },
+                "62": {
+                    "verse_nr": "62",
+                    "verse": "T\u00fa bien sabes que mis enemigos siempre hacen planes contra m\u00ed."
+                },
+                "63": {
+                    "verse_nr": "63",
+                    "verse": "\u00a1M\u00edralos! No importa lo que hagan, siempre est\u00e1n burl\u00e1ndose de m\u00ed."
+                },
+                "64": {
+                    "verse_nr": "64",
+                    "verse": "\u00a1Espero que los castigues con toda tu furia! \u00a1B\u00f3rralos de este mundo! Mi Dios, \u00a1dales su merecido por todo lo que han hecho! \u00a1Mald\u00edcelos y hazlos sufrir!"
+                },
+                "65": {
+                    "verse_nr": "65",
+                    "verse": "\u00a1Espero que los castigues con toda tu furia! \u00a1B\u00f3rralos de este mundo! Mi Dios, \u00a1dales su merecido por todo lo que han hecho! \u00a1Mald\u00edcelos y hazlos sufrir!"
+                },
+                "66": {
+                    "verse_nr": "66",
+                    "verse": "\u00a1Espero que los castigues con toda tu furia! \u00a1B\u00f3rralos de este mundo! Mi Dios, \u00a1dales su merecido por todo lo que han hecho! \u00a1Mald\u00edcelos y hazlos sufrir!"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Cuarto lamento acr\u00f3stico - El profeta \u00a1Perdi\u00f3 el oro su brillo! \u00a1Qued\u00f3 totalmente empa\u00f1ado! \u00a1Por las esquinas de las calles quedaron regadas las joyas del templo!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00a1Oro puro! As\u00ed se valoraba a los habitantes de Jerusal\u00e9n, \u00a1pero ahora no valen m\u00e1s que simples ollas de barro!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bondadosas se muestran las lobas cuando alimentan a sus cachorros, pero las crueles madres israelitas abandonan a sus hijos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Reclaman pan nuestros ni\u00f1os, pero nadie les da nada. La lengua se les pega al paladar, y casi se mueren de sed."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "En las calles se mueren de hambre los que antes com\u00edan manjares; entre la basura se revuelcan los que antes vest\u00edan con elegancia."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cay\u00f3 Jerusal\u00e9n, pues ha pecado m\u00e1s de lo que pec\u00f3 Sodoma. \u00a1De pronto se vino abajo y nadie pudo ayudarla!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Incre\u00edblemente hermosos eran los l\u00edderes de Jerusal\u00e9n; estaban fuertes y sanos, estaban llenos de vida."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tan feos y enfermos se ven ahora que nadie los reconoce. Tienen la piel reseca como le\u00f1a, \u00a1hasta se les ven los huesos!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A falta de alimentos, todos mueren poco a poco. \u00a1M\u00e1s vale morir en la guerra que morirse de hambre!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00a1Destruida ha quedado Jerusal\u00e9n! \u00a1Hasta las madres m\u00e1s cari\u00f1osas cocinan a sus propios hijos para alimentarse con ellos!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "El enojo de Dios fue tan grande que ya no pudo contenerse; le prendi\u00f3 fuego a Jerusal\u00e9n y la destruy\u00f3 por completo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00a1Terminaron entrando a la ciudad los enemigos de Jerusal\u00e9n! \u00a1Nadie en el mundo se imaginaba que esto pudiera ocurrir!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Injustamente ha muerto gente a manos de profetas y sacerdotes. Dios castig\u00f3 a Jerusal\u00e9n por este grave pecado."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Juntos andan esos asesinos como ciegos por las calles. Tienen las manos llenas de sangre; \u00a1nadie se atreve a tocarlos!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En todas partes les gritan: \u00ab\u00a1Fuera de aqu\u00ed, vagabundos! \u00a1No se atrevan a tocarnos! \u00a1No pueden quedarse a vivir aqu\u00ed!\u00bb"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Rechazados por Dios, los l\u00edderes y sacerdotes vagan por el mundo. \u00a1Dios se olvid\u00f3 de ellos!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Una falsa esperanza tenemos: que un pueblo venga a salvarnos; pero nuestros ojos est\u00e1n cansados. \u00a1Nadie vendr\u00e1 en nuestra ayuda!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Se acerca nuestro fin. No podemos andar libremente, pues por todas partes nos vigilan; \u00a1nuestros d\u00edas est\u00e1n contados!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Aun m\u00e1s veloces que las \u00e1guilas son nuestros enemigos. Por las monta\u00f1as y por el desierto nos persiguen sin descanso."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "La sombra que nos proteg\u00eda era nuestro rey; Dios mismo nos lo hab\u00eda dado. \u00a1Pero hasta \u00e9l cay\u00f3 prisionero!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Esto mismo lo sufrir\u00e1s t\u00fa, que te crees la reina del desierto. Puedes re\u00edrte ahora, ciudad de Edom, \u00a1pero un d\u00eda te quedar\u00e1s desnuda!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "No volver\u00e1 Dios a castigarte, bella ciudad de Jerusal\u00e9n, pues ya se ha cumplido tu castigo. Pero a ti, ciudad de Edom, Dios te castigar\u00e1 por tus pecados."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Quinto lamento - El pueblo de Jerusal\u00e9n Dios m\u00edo, f\u00edjate en nuestra desgracia; date cuenta de que nos ofenden."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nuestras tierras y nuestra patria han ca\u00eddo en manos de extranjeros."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nos hemos quedado sin padre; nuestras madres han quedado viudas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00a1Hasta el agua y la le\u00f1a tenemos que pagarlas!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "El enemigo nos persigue. Nos tiene acorralados."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00a1A nuestros peores enemigos, tenemos que pedirles alimento!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pecaron nuestros antepasados, \u00a1y Dios nos castig\u00f3 a nosotros!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Los esclavos se creen reyes, \u00a1y no podemos librarnos de ellos!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Para conseguir alimentos, arriesgamos la vida en el desierto."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tanta es el hambre que tenemos que hasta deliramos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "En todas nuestras ciudades violaron a nuestras mujeres."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "No respetaron a nuestros jefes; \u00a1los colgaron de las manos!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nuestros j\u00f3venes y ni\u00f1os cargan le\u00f1a como esclavos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ya los j\u00f3venes no cantan ni se re\u00fanen los ancianos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "No tenemos motivo de alegr\u00eda; en vez de danzas, hay tristeza."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00a1Pobres de nosotros! Por el pecado perdimos el reino."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Vamos perdiendo las fuerzas; estamos a punto de morir."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "El monte Si\u00f3n ha quedado desierto; s\u00f3lo se ven animales salvajes."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Pero t\u00fa, Dios nuestro, reinas para siempre. \u00a1T\u00fa eres nuestro rey!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00bfPor qu\u00e9 te olvidas de nosotros y nos abandonas tanto tiempo?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u00a1D\u00e9janos volver a ti, y volveremos! \u00a1Devu\u00e9lvenos el poder que tuvimos!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "En verdad nos diste la espalda; \u00a1se te fue la mano!"
+                }
+            }
+        }
+    }
+}

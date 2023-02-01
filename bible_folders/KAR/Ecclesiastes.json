@@ -1,0 +1,955 @@
+{
+    "version": "KAR",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A pr\u00e9dik\u00e1tornak, D\u00e1vid fi\u00e1nak, Jeruzs\u00e1lem kir\u00e1ly\u00e1nak besz\u00e9dei."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Felette nagy hi\u00e1baval\u00f3s\u00e1g, azt mondja a pr\u00e9dik\u00e1tor; felette nagy hi\u00e1baval\u00f3s\u00e1g! Minden hi\u00e1baval\u00f3s\u00e1g!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Micsoda haszna van az embernek minden \u00f5 munk\u00e1j\u00e1ban, melylyel munk\u00e1lkodik a nap alatt?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Egyik nemzets\u00e9g elmegy, \u00e9s a m\u00e1sik elj\u00f5; a f\u00f6ld pedig mind\u00f6r\u00f6kk\u00e9 megmarad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00c9s a nap felt\u00e1mad, \u00e9s elnyugszik a nap; \u00e9s az \u00f5 hely\u00e9re siet, a hol \u00f5 [ism\u00e9t] felt\u00e1mad."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Siet d\u00e9lre, \u00e9s \u00e1tmegy \u00e9szak fel\u00e9; k\u00f6rbe-k\u00f6rbe siet a sz\u00e9l, \u00e9s a maga kering\u00e9s\u00e9hez visszat\u00e9r a sz\u00e9l."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Minden foly\u00f3v\u00edz siet a tengerbe; mindaz\u00e1ltal a tenger m\u00e9gis meg nem telik: ak\u00e1rmicsoda helyre a foly\u00f3vizek siessenek, ugyanazon helyre t\u00e9rnek vissza."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Minden dolgok [mint] f\u00e1radoznak, senki ki nem mondhatja; nem el\u00e9gedn\u00e9k meg a szem l\u00e1tv\u00e1n, sem be nem teljesedn\u00e9k hall\u00e1s\u00e1val a f\u00fcl."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A mi volt, ugyanaz, a mi ezut\u00e1n is lesz, \u00e9s a mi t\u00f6rt\u00e9nt, ugyanaz, a mi ezut\u00e1n is t\u00f6rt\u00e9nik; \u00e9s semmi nincs \u00faj dolog a nap alatt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Van valami, a mir\u00f5l mondj\u00e1k: n\u00e9zd ezt, \u00faj ez; r\u00e9gen volt m\u00e1r sz\u00e1z esztend\u00f5k\u00f6n \u00e1t, melyek mi el\u00f5tt\u00fcnk voltak."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nincs eml\u00e9kezet az el\u00f5bbiekr\u00f5l; azonk\u00e9pen az utols\u00f3 dolgokr\u00f3l is, melyek j\u00f6vend\u00f5k, nem lesz eml\u00e9kezet azokn\u00e1l, a kik azut\u00e1n lesznek."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9n pr\u00e9dik\u00e1tor, kir\u00e1lya voltam Izr\u00e1elnek Jeruzs\u00e1lemben."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00c9s ad\u00e1m az \u00e9n elm\u00e9met mindazok vizsg\u00e1l\u00e1s\u00e1ra \u00e9s b\u00f6lcsen val\u00f3 tudakoz\u00e1s\u00e1ra, melyek lesznek az \u00e9g alatt. Ez gonosz hi\u00e1baval\u00f3 foglalatoss\u00e1g, melyet adott Isten az emberek fiainak, hogy gy\u00f6tr\u00f5djenek vele."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "L\u00e1ttam minden dolgokat, melyek lesznek a nap alatt, \u00e9s \u00edm\u00e9 minden csak hi\u00e1baval\u00f3s\u00e1g, \u00e9s a l\u00e9leknek gy\u00f6trelme!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Az egyenetlen meg nem egyenes\u00edthet\u00f5, \u00e9s a fogyatkoz\u00e1s meg nem sz\u00e1ml\u00e1lhat\u00f3."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sz\u00f3ltam az \u00e9n elm\u00e9mmel, mondv\u00e1n: \u00edm\u00e9, \u00e9n nagygy\u00e1 lettem, \u00e9s gy\u00fbjt\u00f6ttem b\u00f6lcses\u00e9get mindazok felett, a kik f\u00f5k voltak \u00e9n el\u00f5ttem Jeruzs\u00e1lemben, \u00e9s az \u00e9n elm\u00e9m b\u00f5ven l\u00e1tott b\u00f6lcses\u00e9get \u00e9s tudom\u00e1nyt!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Adtam annakfelette az \u00e9n elm\u00e9met a b\u00f6lcses\u00e9gnek tud\u00e1s\u00e1ra, \u00e9s az esztelens\u00e9gnek \u00e9s bolonds\u00e1gnak megtud\u00e1s\u00e1ra. Megtudtam, hogy ez is a l\u00e9lek gy\u00f6trelme."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mert a b\u00f6lcsess\u00e9gnek sokas\u00e1g\u00e1ban sok b\u00fasul\u00e1s van, \u00e9s valaki \u00f6regb\u00edti a tudom\u00e1nyt, \u00f6regb\u00edti a gy\u00f6trelmet."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mond\u00e9k az \u00e9n sz\u00edvemben: no, megpr\u00f3b\u00e1llak t\u00e9ged a v\u00edgan val\u00f3 lak\u00e1sban, hogy l\u00e1sd meg, mi a j\u00f3! \u00c9s \u00edm\u00e9, az is hi\u00e1baval\u00f3s\u00e1g!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A nevet\u00e9sr\u00f5l azt mondom: bolonds\u00e1g! a v\u00edgass\u00e1gr\u00f3l pedig: mit haszn\u00e1l az?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Elv\u00e9gez\u00e9m az \u00e9n sz\u00edvemben, hogy boritalra adom magamat, (pedig sz\u00edvem a b\u00f6lcses\u00e9get k\u00f6vet\u00e9) \u00e9s el\u00f5veszem ezt a bolonds\u00e1got, m\u00edgnem megl\u00e1tom, hogy az emberek fiainak mi volna j\u00f3, a mit cselekedjenek az \u00e9g alatt, az \u00e9let\u00f6k napjainak sz\u00e1ma szerint."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Felette nagy dolgokat cselekedtem; \u00e9p\u00edt\u00e9k magamnak h\u00e1zakat; \u00fcltet\u00e9k magamnak sz\u00f5l\u00f5ket."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Csin\u00e1l\u00e9k magamnak kerteket \u00e9s \u00e9kess\u00e9gre val\u00f3 kerteket, \u00e9s \u00fcltet\u00e9k bel\u00e9j\u00f6k mindenf\u00e9le gy\u00fcm\u00f6lcsterm\u00f5 f\u00e1kat."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Csin\u00e1l\u00e9k magamnak v\u00edz[tart\u00f3] tavakat, hogy azokb\u00f3l \u00f6nt\u00f6zzem a f\u00e1knak sarjad\u00f3 erdej\u00e9t."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Szerz\u00e9k szolg\u00e1kat \u00e9s szolg\u00e1l\u00f3kat, h\u00e1zamn\u00e1l nevekedett szolg\u00e1im is voltak n\u00e9kem; \u00f6reg \u00e9s apr\u00f3 barmoknak ny\u00e1jaival is t\u00f6bbel b\u00edrtam mindazokn\u00e1l, a kik voltak \u00e9n el\u00f5ttem Jeruzs\u00e1lemben."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Gy\u00fbjt\u00e9k magamnak ez\u00fcst\u00f6t \u00e9s aranyat is, \u00e9s kir\u00e1lyok dr\u00e1gas\u00e1gait \u00e9s tartom\u00e1nyokat; szerz\u00e9k magamnak \u00e9nekl\u00f5 f\u00e9rfiakat \u00e9s \u00e9nekl\u00f5 asszonyokat, \u00e9s az emberek fiainak gy\u00f6ny\u00f6r\u00fbs\u00e9git, asszonyt \u00e9s asszonyokat."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00c9s nagygy\u00e1 lev\u00e9k \u00e9s megneveked\u00e9m mindazok felett, a kik el\u00f5ttem voltak Jeruzs\u00e1lemben; az \u00e9n b\u00f6lcses\u00e9gem is hely\u00e9n volt."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Valamit kiv\u00e1nnak vala az \u00e9n szemeim: meg nem fogtam azokt\u00f3l, meg sem tart\u00f3ztattam az \u00e9n sz\u00edvemet semmi v\u00edgass\u00e1gt\u00f3l, hanem az \u00e9n sz\u00edvem \u00f6rvendezett minden \u00e9n munk\u00e1m[mal gy\u00fbjt\u00f6tt j\u00f3k]ban; mivelhogy ez volt az \u00e9n r\u00e9szem minden \u00e9n munk\u00e1imb\u00f3l."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9s tekint\u00e9k minden dolgaimra, melyeket cselekedtek vala az \u00e9n kezeim, \u00e9s az \u00e9n munk\u00e1mra, mit f\u00e1rads\u00e1ggal v\u00e9geztem vala; \u00e9s \u00edm\u00e9, az mind hi\u00e1baval\u00f3s\u00e1g \u00e9s a l\u00e9leknek gy\u00f6trelme, \u00e9s nincsen annak semmi haszna a nap alatt!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Az\u00e9rt fordul\u00e9k \u00e9n, hogy l\u00e1ssak b\u00f6lcses\u00e9get \u00e9s bolonds\u00e1got \u00e9s esztelens\u00e9get, az az hogy mit [cselekesz]nek az emberek, a kik a kir\u00e1ly ut\u00e1n k\u00f6vetkeznek: azt, a mit r\u00e9gen cselekedtek."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00c9s l\u00e1t\u00e1m, hogy hasznosb a b\u00f6lcses\u00e9g a bolonds\u00e1gn\u00e1l, mik\u00e9pen hasznosb a vil\u00e1goss\u00e1g a set\u00e9ts\u00e9gn\u00e9l."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A b\u00f6lcsnek szemei [vannak] a fej\u00e9ben; a bolond pedig set\u00e9tben j\u00e1r; de ugyan \u00e9n megismer\u00e9m, hogy ugyanazon egy v\u00e9g\u00f6k lesz mindezeknek."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Annakok\u00e1\u00e9rt mond\u00e1m az \u00e9n elm\u00e9mben: bolondnak \u00e1llapotja szerint lesz az \u00e9n \u00e1llapotom is, mi\u00e9rt val\u00e9k teh\u00e1t \u00e9n is b\u00f6lcsebb? \u00e9s mond\u00e9k az \u00e9n elm\u00e9mben: ez is hi\u00e1baval\u00f3s\u00e1g!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mert nem lesz eml\u00e9kezete sem a b\u00f6lcsnek, sem a bolondnak mind\u00f6r\u00f6kk\u00e9; mivelhogy a k\u00f6vetkezend\u00f5 id\u00f5kben m\u00e1r mind elfelejtetnek: \u00e9s mik\u00e9pen meghal a b\u00f6lcs, azonk\u00e9pen meghal a bolond is."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Az\u00e9rt gy\u00fbl\u00f6ltem az \u00e9letet; mert gonosznak l\u00e1tsz\u00e9k n\u00e9kem a dolog, a mi t\u00f6rt\u00e9nik a nap alatt; mert mindez hi\u00e1baval\u00f3s\u00e1g, \u00e9s a l\u00e9leknek gy\u00f6trelme!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Gy\u00fbl\u00f6ltem \u00e9n minden munk\u00e1mat is, melyet munk\u00e1lkodom a nap alatt; mivelhogy el kell hagynom azt oly embernek, a ki \u00e9n ut\u00e1nam lesz."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "\u00c9s ki tudja, ha b\u00f6lcs lesz-\u00e9 vagy bolond? \u00e9s [m\u00e9gis] uralkodik minden munk\u00e1mon, a mit cselekedtem \u00e9s b\u00f6lcsen szerzettem a nap alatt! Ez is hi\u00e1baval\u00f3s\u00e1g!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Annakok\u00e1\u00e9rt elfordul\u00e9k \u00e9n, megfogv\u00e1n rem\u00e9nys\u00e9gt\u00f5l az \u00e9n sz\u00edvemet minden munk\u00e1m fel\u00f5l, melylyel munk\u00e1l\u00f3dtam a nap alatt."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Mert van oly ember, a kinek munk\u00e1ja [elv\u00e9geztetett] b\u00f6lcses\u00e9ggel, tudom\u00e1nynyal \u00e9s j\u00f3 kimenetellel; \u00e9s oly embernek adja azt \u00f6r\u00f6ks\u00e9g\u00fcl, a ki abban semmit sem munk\u00e1lkodott. Ez is hi\u00e1baval\u00f3s\u00e1g \u00e9s nagy gonosz!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Mert micsoda marad meg az embernek minden \u00f5 munk\u00e1j\u00e1b\u00f3l \u00e9s elm\u00e9j\u00e9nek nyughatatlan f\u00e1radoz\u00e1s\u00e1b\u00f3l, melylyel \u00f5 munk\u00e1l\u00f3dott a nap alatt?"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Holott minden napja b\u00e1nat, \u00e9s b\u00fasul\u00e1s az \u00f5 foglalatoss\u00e1ga, m\u00e9g \u00e9jjel is nem nyugodott az \u00f5 elm\u00e9je. Ez is hi\u00e1baval\u00f3s\u00e1g!"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Nincsen csak e j\u00f3 is az embernek hatalm\u00e1ban, hogy egy\u00e9k, igy\u00e9k, \u00e9s azt cselekedje, hogy az \u00f5 sz\u00edve lakozz\u00e9k gy\u00f6ny\u00f6r\u00fbs\u00e9ggel az \u00f5 munk\u00e1j\u00e1b\u00f3l; ezt is l\u00e1ttam \u00e9n, hogy az Istennek kez\u00e9ben van."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Mert kicsoda ehetn\u00e9k \u00e9s \u00e9lhetne gy\u00f6ny\u00f6r\u00fbs\u00e9g\u00e9re rajtam kiv\u00fcl?"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mindennek rendelt ideje [van], \u00e9s ideje [van] az \u00e9g alatt minden akaratnak."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ideje [van] a sz\u00fclet\u00e9snek \u00e9s ideje a meghal\u00e1snak; ideje az \u00fcltet\u00e9snek, ideje annak kiszaggat\u00e1s\u00e1nak, a mi \u00fcltettetett."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ideje [van] a meg\u00f6l\u00e9snek \u00e9s ideje a meggy\u00f3gy\u00edt\u00e1snak; ideje a ront\u00e1snak \u00e9s ideje az \u00e9p\u00edt\u00e9snek."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ideje [van] a s\u00edr\u00e1snak \u00e9s ideje a nevet\u00e9snek; ideje a jajgat\u00e1snak \u00e9s ideje a sz\u00f6kdel\u00e9snek."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ideje [van] a k\u00f6vek elh\u00e1ny\u00e1s\u00e1nak \u00e9s ideje a k\u00f6vek egybegy\u00fbjt\u00e9s\u00e9nek; ideje az \u00f6lelget\u00e9snek \u00e9s ideje az \u00f6lelget\u00e9st\u00f5l val\u00f3 elt\u00e1voz\u00e1snak."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ideje [van] a keres\u00e9snek \u00e9s ideje a veszt\u00e9snek; ideje a meg\u00f5rz\u00e9snek \u00e9s ideje az eldob\u00e1snak."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ideje [van] a szakgat\u00e1snak \u00e9s ideje a megvarr\u00e1snak; ideje a hallgat\u00e1snak \u00e9s ideje a sz\u00f3l\u00e1snak."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ideje [van] a szeret\u00e9snek \u00e9s ideje a gy\u00fbl\u00f6l\u00e9snek; ideje a hadakoz\u00e1snak \u00e9s ideje a b\u00e9kess\u00e9gnek."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Micsoda haszna van a munk\u00e1snak abban, a miben \u00f5 munk\u00e1lkodik?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "L\u00e1ttam a foglalatoss\u00e1got, melyet adott Isten az emberek fiainak, hogy f\u00e1radozzanak benne."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mindent sz\u00e9pen csin\u00e1lt az \u00f5 idej\u00e9ben, e vil\u00e1got is adta az [emberek ]elm\u00e9j\u00e9be, csakhogy \u00fagy, hogy az ember meg nem foghatja [mindazt] a dolgot, a mit az Isten cselekszik kezdett\u00f5l fogva mindv\u00e9gig."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Megismertem, hogy nem tehetnek jobbat, mint hogy \u00f6rvendezzen [kiki,] \u00e9s hogy [a maga] jav\u00e1t cselekedje az \u00f5 \u00e9let\u00e9ben."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De m\u00e9g az is, hogy az ember eszik \u00e9s iszik, \u00e9s j\u00f3l \u00e9l az \u00f5 eg\u00e9sz munk\u00e1j\u00e1b\u00f3l, az Istennek aj\u00e1nd\u00e9ka."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Tudom, hogy valamit Isten cselekszik, az lesz \u00f6r\u00f6kk\u00e9, ahhoz nincs mit adni \u00e9s abb\u00f3l nincs mit elvenni; \u00e9s az Isten ezt a v\u00e9gre m\u00edveli, hogy az \u00f5 orcz\u00e1j\u00e1t rettegj\u00e9k."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A mi [most] t\u00f6rt\u00e9nik, r\u00e9gen megvan, \u00e9s a mi k\u00f6vetkezik, imm\u00e1r megvolt, \u00e9s az Isten visszahozza, a mi elmult."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "L\u00e1ttam annakfelette a nap alatt, hogy az \u00edt\u00e9letnek hely\u00e9n hamiss\u00e1g, \u00e9s az igazs\u00e1gnak hely\u00e9n lators\u00e1g van."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00c9s mond\u00e9k magamban: az igazat \u00e9s a hamisat meg\u00edt\u00e9li az Isten; mert minden [ember] akaratj\u00e1nak ideje van, \u00e9s minden dolognak \u00f5 n\u00e1la."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "\u00cdgy sz\u00f3l\u00e9k az\u00e9rt magamban: az emberek fiai miatt [van ez \u00edgy], hogy kiv\u00e1logassa \u00f5ket az Isten, \u00e9s hogy megl\u00e1ss\u00e1k, hogy \u00f5k magokban v\u00e9ve az oktalan \u00e1llatok[hoz hasonl\u00f3k]."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Az emberek fiainak v\u00e9ge hasonl\u00f3 az oktalan \u00e1llatnak v\u00e9g\u00e9hez, \u00e9s egyenl\u00f5 v\u00e9g\u00f6k van azoknak; a mint meghal egyik, \u00fagy meghal a m\u00e1sik is, \u00e9s ugyanazon egy l\u00e9lek van mindenikben; \u00e9s az embernek nagyobb m\u00e9lt\u00f3s\u00e1ga nincs az oktalan \u00e1llatokn\u00e1l, mert minden hi\u00e1baval\u00f3s\u00e1g."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mindenik ugyanazon egy helyre megy; mindenik a porb\u00f3l val\u00f3, \u00e9s mindenik porr\u00e1 lesz."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Vajjon kicsoda vette esz\u00e9be az ember lelk\u00e9t, hogy felmegy-\u00e9; \u00e9s az oktalan \u00e1llat lelk\u00e9t, hogy a f\u00f6ld al\u00e1 megy-\u00e9?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Az\u00e9rt \u00fagy l\u00e1ttam, hogy semmi sincs jobb, mint hogy az ember \u00f6rvendezzen az \u00f5 dolgaiban, mivelhogy ez az \u00f5 r\u00e9sze [e vil\u00e1gban:] mert ki hozhatja \u00f5t [vissza,] hogy l\u00e1ssa, mi lesz \u00f5 ut\u00e1na?"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Viszont l\u00e1t\u00e1m \u00e9n mind a nyomorgat\u00e1sokat, a melyek a nap alatt t\u00f6rt\u00e9nnek, \u00e9s \u00edm\u00e9, [nyilv\u00e1n van] azoknak, a kik nyomorgattatnak, k\u00f6nnyhullat\u00e1sok, \u00e9s v\u00edgasztal\u00f3jok nincs n\u00e9kik; \u00e9s az \u00f5ket nyomorgat\u00f3knak kezekb\u00f5l er\u00f5szakt\u00e9telt [szenvednek], \u00e9s v\u00edgasztal\u00f3juk nincs n\u00e9kik."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00c9s dics\u00e9r\u00e9m \u00e9n a megholtakat, a kik m\u00e1r meghaltak vala, az \u00e9l\u00f5k felett, a kik m\u00e9g \u00e9lnek;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "De mind a kett\u00f5n\u00e9l boldogabbnak azt, a ki m\u00e9g nem lett, a ki nem l\u00e1tta azt a gonosz dolgot, a mely a nap alatt t\u00f6rt\u00e9nik."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u00c9s l\u00e1t\u00e1m \u00e9n, hogy minden dolg\u00e1t \u00e9s minden \u00fcgyes cselekedet\u00e9t az ember az \u00f5 felebar\u00e1tja ir\u00e1nt val\u00f3 ir\u00edgys\u00e9gb\u00f5l [rendeli;] annakok\u00e1\u00e9rt ez is hi\u00e1baval\u00f3s\u00e1g \u00e9s l\u00e9lek-f\u00e1jdalom!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A bolond egybekapcsolja a kezeit, \u00e9s megem\u00e9szti a maga test\u00e9t."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jobb egy teljes marok nyugalommal, mint mind a k\u00e9t maroknak teljess\u00e9ge nagy munk\u00e1val \u00e9s lelki gy\u00f6trelemmel."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Viszont l\u00e1t\u00e9k a nap alatt [m\u00e1s] hi\u00e1baval\u00f3s\u00e1got."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Van [oly ember], a ki egymaga van \u00e9s nincs [vele] m\u00e1sik, sem fia, sem atyjafia nincs; mindaz\u00e1ltal nincs v\u00e9ge minden \u00f5 f\u00e1rads\u00e1g\u00e1nak, \u00e9s az \u00f5 szeme is meg nem el\u00e9gszik gazdags\u00e1ggal, [hogy azt mondan\u00e1:] vajjon kinek munk\u00e1lkodom, hogy az \u00e9n lelkemet [minden] j\u00f3t\u00f3l megfosztom? Ez is hi\u00e1baval\u00f3s\u00e1g \u00e9s gonosz foglalatoss\u00e1g!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sokkal jobban van dolga a kett\u00f5nek, hogynem az egynek; mert azoknak j\u00f3 jutalmok vala az \u00f5 munk\u00e1jokb\u00f3l."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mert ha elesnek is, az egyik felemeli a t\u00e1rs\u00e1t. Jaj pedig az egyed\u00fclval\u00f3nak, ha elesik, \u00e9s nincsen, a ki \u00f5t felemelje."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hogyha egy\u00fctt fek\u00fcsznek is ketten, megmelegszenek; az egyed\u00fclval\u00f3 pedig mim\u00f3don melegedhetik meg?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ha az egyiket megt\u00e1madja is valaki, ketten ellene \u00e1llhatnak annak; \u00e9s a h\u00e1rmas k\u00f6t\u00e9l nem hamar szakad el."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Jobb a sz\u00fbk\u00f6lk\u00f6d\u00f5, de b\u00f6lcs gyermek a v\u00e9n \u00e9s bolond kir\u00e1lyn\u00e1l, a ki nem szenvedi el az int\u00e9st t\u00f6bb\u00e9."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mert [az] a fogs\u00e1gb\u00f3l [is] uralkod\u00e1sra megy, holott [ennek] orsz\u00e1g\u00e1ban szeg\u00e9nys\u00e9gben sz\u00fcletett."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "L\u00e1ttam a nap alatt j\u00e1r\u00f3 minden \u00e9l\u00f5ket a m\u00e1sodik gyermek mellett; a ki amannak hely\u00e9re l\u00e9pend\u00f5 vala."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "[\u00c9s hogy] az eg\u00e9sz sokas\u00e1gnak nincs v\u00e9ge, mindazoknak, a kiknek \u00f5 \u00e9l\u00e9n volt; mindaz\u00e1ltal az ut\u00e1nok val\u00f3k m\u00e1r semmit nem \u00f6rvendeztek \u00f5 benne. Mert ez is hi\u00e1baval\u00f3s\u00e1g \u00e9s lelki gy\u00f6trelem!"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00d5rizd meg l\u00e1baidat, mikor az Istennek h\u00e1z\u00e1hoz m\u00e9gy, mert hallgat\u00e1s v\u00e9gett k\u00f6zeledned jobb, hogynem a bolondok m\u00f3dja szerint \u00e1ldozatot adni; mert ezek nem tudj\u00e1k, hogy gonoszt cselekesznek."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ne gyorsalkodj\u00e1l a te sz\u00e1ddal, \u00e9s a te elm\u00e9d ne siessen valamit sz\u00f3lni Isten el\u00f5tt; mert az Isten mennyben van, te pedig e f\u00f6ld\u00f6n, az\u00e9rt a te besz\u00e9ded kev\u00e9s legyen;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mert \u00e1lom szokott k\u00f6vetkezni a sok foglalatoss\u00e1gb\u00f3l; \u00e9s a sok besz\u00e9db\u00f5l bolond besz\u00e9d."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mikor Istennek fogad\u00e1st t\u00e9ssz, ne halogasd annak megad\u00e1s\u00e1t; mert nem gy\u00f6ny\u00f6rk\u00f6dik a bolondokban. A mit fogadsz, megteljes\u00edtsd!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jobb hogy ne fogadj, hogynem mint fogadj \u00e9s ne teljes\u00edtsd be."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ne engedd a te sz\u00e1dnak, hogy b\u00fbnre k\u00f6telezze testedet, \u00e9s ne mondd az angyal el\u00f5tt, hogy t\u00e9ved\u00e9sb\u00f5l [esett] ez; hogy az Isten a te besz\u00e9ded miatt fel ne h\u00e1borodj\u00e9k, \u00e9s el ne veszesse a te kezeidnek munk\u00e1j\u00e1t."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mert a sok \u00e1lomban a hi\u00e1baval\u00f3s\u00e1g is \u00e9s a besz\u00e9d is sok; hanem az Istent f\u00e9ljed."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ha a szeg\u00e9nyeknek nyomor\u00edttat\u00e1s\u00e1t, \u00e9s a t\u00f6rv\u00e9nynek \u00e9s igazs\u00e1gnak elford\u00edttat\u00e1s\u00e1t l\u00e1tod a tartom\u00e1nyban: ne csud\u00e1lkozz\u00e1l e dolgon; mert [egyik] fels\u00f5rend\u00fb vigy\u00e1z a [m\u00e1sik] fels\u00f5rend\u00fbre, \u00e9s ezek felett [m\u00e9g] fels\u00f5bbrend\u00fbek [vannak.]"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Az orsz\u00e1g haszna pedig mindenekfelett a f\u00f6ldm\u00edvel\u00e9st [kedvel\u00f5 ]kir\u00e1ly."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A ki szereti a p\u00e9nzt, nem telik be p\u00e9nzzel, \u00e9s a ki szereti a sokas\u00e1got [nem telik be] j\u00f6vedelemmel. Ez is hi\u00e1baval\u00f3s\u00e1g."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mikor megszaporodik a j\u00f3sz\u00e1g, megszaporodnak annak megem\u00e9szt\u00f5i is; mi haszna van az\u00e9rt benne ur\u00e1nak, hanem hogy csak re\u00e1 n\u00e9z szemeivel?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9des az \u00e1lom a munk\u00e1snak, ak\u00e1r sokat, ak\u00e1r keveset egy\u00e9k; a gazdagnak pedig b\u00f5v\u00f6lk\u00f6d\u00e9se nem hagyja \u00f5t aludni."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Van gonosz nyavalya, a melyet l\u00e1ttam a nap alatt: az \u00f5 ur\u00e1nak veszedelm\u00e9re tartott gazdags\u00e1g;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ugyanis az a gazdags\u00e1g elv\u00e9sz valami szerencs\u00e9tlen eset miatt, \u00e9s ha fia sz\u00fcletett n\u00e9ki, annak kez\u00e9ben nem lesz semmi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A mint kij\u00f6tt az \u00f5 anyj\u00e1nak m\u00e9h\u00e9b\u00f5l, mez\u00edtelen megy ism\u00e9t el, a mint j\u00f6tt vala: \u00e9s semmit nem vesz el munk\u00e1j\u00e1\u00e9rt, a mit kez\u00e9ben elvinne."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Annakok\u00e1\u00e9rt ez is gonosz nyavalya, hogy a mint j\u00f6tt, a k\u00e9pen megy el. Mi haszna van n\u00e9ki abban, hogy a sz\u00e9lnek munk\u00e1lkodott?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00c9s hogy az \u00f5 teljes \u00e9let\u00e9ben a set\u00e9tben evett, sokszori haraggal, keser\u00fbs\u00e9ggel \u00e9s b\u00fasul\u00e1ssal?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ez az\u00e9rt a j\u00f3, a melyet \u00e9n l\u00e1ttam, hogy sz\u00e9p dolog enni \u00e9s inni, \u00e9s j\u00f3l \u00e9lni minden \u00f5 munk\u00e1j\u00e1b\u00f3l, a melylyel f\u00e1rasztotta mag\u00e1t a nap alatt, az \u00f5 \u00e9lete napjainak sz\u00e1ma szerint, a melyeket adott n\u00e9ki az Isten; mert ez az \u00f5 r\u00e9sze."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00c9s a mely embernek adott Isten gazdags\u00e1got \u00e9s kincseket, \u00e9s a kinek megengedte, hogy egy\u00e9k abb\u00f3l \u00e9s az \u00f5 r\u00e9sz\u00e9t elvegye, \u00e9s \u00f6rvendezzen az \u00f5 munk\u00e1j\u00e1nak: ez az Istennek aj\u00e1nd\u00e9ka!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mert nem sokat eml\u00e9kezik meg [az ilyen] az \u00f5 \u00e9lete napjainak [sz\u00e1m\u00e1r\u00f3l,] mivelhogy az \u00f5 sz\u00edv\u00e9nek \u00f6r\u00f6m\u00e9t az Isten kedveli."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Van egy gonosz, a melyet l\u00e1ttam a nap alatt, \u00e9s nagy [baj] az az emberen;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mikor valakinek az Isten \u00e1d gazdags\u00e1got \u00e9s kincseket \u00e9s tisztess\u00e9get, \u00e9s semmi n\u00e9lk\u00fcl nem sz\u00fbk\u00f6lk\u00f6dik, valamit kiv\u00e1nhat lelk\u00e9nek, \u00e9s az Isten nem engedi n\u00e9ki, hogy \u00e9ljen azzal, hanem m\u00e1s ember \u00e9l azzal: ez hi\u00e1baval\u00f3s\u00e1g \u00e9s gonosz nyavalya!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ha sz\u00e1z gyermeket sz\u00fcl is valaki, \u00e9s sok esztendeig \u00e9l, \u00fagy hogy az \u00f5 esztendeinek napja sok, de az \u00f5 lelke a j\u00f3val meg nem el\u00e9gszik, \u00e9s nem lesz temet\u00e9se n\u00e9ki: azt mondom, hogy jobb ann\u00e1l az id\u00e9tlen gyermek,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mert hi\u00e1baval\u00f3s\u00e1gra j\u00f6tt, set\u00e9ts\u00e9gben megy el, \u00e9s set\u00e9ts\u00e9ggel fedeztetik be neve,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A napot sem l\u00e1tta \u00e9s nem ismerte; t\u00fbrhet\u00f5bb ennek \u00e1llapotja, hogynem amannak."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Hogyha k\u00e9tezer esztend\u00f5t \u00e9lt volna is, \u00e9s a j\u00f3val nem \u00e9lt: avagy nem ugyanazon egy helyre megy-\u00e9 minden?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Az embernek minden munk\u00e1ja sz\u00e1j\u00e1\u00e9rt van; mindaz\u00e1ltal az \u00f5 k\u00edv\u00e1ns\u00e1ga be nem telik."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mert miben k\u00fcl\u00f6nb\u00f6zik a b\u00f6lcs a bolondt\u00f3l, \u00e9s miben a szeg\u00e9ny, a ki az \u00e9l\u00f5k el\u00f5tt j\u00e1rni tud?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jobb, a mit ember szemmel l\u00e1t, hogynem a l\u00e9lek kiv\u00e1ns\u00e1ga; ez is hi\u00e1baval\u00f3s\u00e1g \u00e9s a l\u00e9leknek gy\u00f6trelme!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Valami van, r\u00e9gen r\u00e1adatott nevezete, \u00e9s bizonyos dolog, hogy mi lesz az ember, \u00e9s nem perlekedhetik azzal, a ki hatalmasb n\u00e1l\u00e1n\u00e1l."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mert van sok besz\u00e9d, a mely a hi\u00e1baval\u00f3s\u00e1got szapor\u00edtja; \u00e9s mi haszna van az embernek [abban?]"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mert kicsoda tudhatja, mi legyen az embernek j\u00f3 e vil\u00e1gon, az \u00f5 hi\u00e1baval\u00f3 \u00e9lete napjainak sz\u00e1ma szerint, a melyeket mintegy \u00e1rny\u00e9kot t\u00f6lt el? Kicsoda az, a ki megmondhatn\u00e1 az embernek, mi k\u00f6vetkezik \u00f5 ut\u00e1na a nap alatt?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jobb a j\u00f3 h\u00edr a dr\u00e1ga kenetn\u00e9l; \u00e9s a hal\u00e1lnak napja jobb az \u00f5 sz\u00fclet\u00e9s\u00e9nek napj\u00e1n\u00e1l."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jobb a siralmas h\u00e1zhoz menni, hogynem a lakodalomnak h\u00e1z\u00e1hoz menni; mivelhogy minden embernek ez a v\u00e9ge, \u00e9s az \u00e9l\u00f5 ember megeml\u00e9kezik arr\u00f3l."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jobb a szomor\u00fas\u00e1g a nevet\u00e9sn\u00e9l; mert az orcz\u00e1nak szomor\u00fas\u00e1ga \u00e1ltal jobb\u00e1 lesz a sz\u00edv."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A b\u00f6lcseknek elm\u00e9je a siralmas h\u00e1zban [van], a bolondoknak pedig elm\u00e9je a v\u00edgass\u00e1gnak h\u00e1z\u00e1ban."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jobb a b\u00f6lcsnek dorg\u00e1l\u00e1s\u00e1t hallani, hogynem valaki hallja a bolondoknak \u00e9nekl\u00e9s\u00e9t."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mert olyan a bolondnak nevet\u00e9se, mint a t\u00f6visnek ropog\u00e1sa a faz\u00e9k alatt; ez is hi\u00e1baval\u00f3s\u00e1g!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mert a zsarol\u00e1s megbolond\u00edtja a b\u00f6lcs [embert] is, \u00e9s az elm\u00e9t elveszti az aj\u00e1nd\u00e9k."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jobb ak\u00e1rmi dolognak v\u00e9ge annak kezdetin\u00e9l; jobb a t\u00fbr\u00f5, hogynem a kev\u00e9ly."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ne l\u00e9gy hirtelen a lelkedben a haragra; mert a harag a bolondok kebel\u00e9ben nyugszik."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ne mondd ezt: mi az oka, hogy a r\u00e9gi napok jobbak voltak ezekn\u00e9l? mert nem b\u00f6lcses\u00e9gb\u00f5l sz\u00e1rmazik az ilyen k\u00e9rd\u00e9s."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "J\u00f3 a b\u00f6lcses\u00e9g az \u00f6r\u00f6ks\u00e9ggel, \u00e9s el\u00f5menetel\u00f6kre van az [embereknek], a kik a napot l\u00e1tj\u00e1k."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mert a b\u00f6lcses\u00e9gnek \u00e1rny\u00e9ka alatt, [\u00e9s] a gazdags\u00e1gnak \u00e1rny\u00e9ka alatt [egyform\u00e1n nyugszik az ember!] de a tudom\u00e1ny hasznosb, mivelhogy a b\u00f6lcses\u00e9g \u00e9letet \u00e1d az \u00f5 urainak."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tekintsd meg az Istennek cselekedetit; mert kicsoda teheti egyeness\u00e9, a mit \u00f5 g\u00f6rb\u00e9v\u00e9 tett?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "A j\u00f3 szerencs\u00e9nek idej\u00e9n \u00e9lj a j\u00f3val; a gonosz szerencs\u00e9nek idej\u00e9n pedig jusson eszedbe, hogy ezt is, \u00e9pen \u00fagy, mint azt, Isten szerzette, a v\u00e9gre, hogy az ember semmit [abb\u00f3l] esz\u00e9be ne vegyen, [a mi] re\u00e1 k\u00f6vetkezik."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mindent l\u00e1ttam az \u00e9n hi\u00e1baval\u00f3s\u00e1gomnak napjain: van oly igaz, a ki az \u00f5 igazs\u00e1g\u00e1ban elv\u00e9sz; \u00e9s van gonosz ember, a ki [az \u00f5 \u00e9let\u00e9nek napjait] meghosszabb\u00edtja az \u00f5 gonoszs\u00e1g\u00e1ban."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ne l\u00e9gy felett\u00e9bb igaz, \u00e9s felett\u00e9bb ne b\u00f6lcselkedj\u00e9l; mi\u00e9rt keresn\u00e9l magadnak veszedelmet?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ne l\u00e9gy felett\u00e9bb gonosz, \u00e9s ne l\u00e9gy balgatag; mi\u00e9rt haln\u00e1l meg id\u00f5d el\u00f5tt?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Jobb, hogy ezt megfogd, \u00e9s amatt\u00f3l is a te kezedet meg ne vond; mert a ki az Istent f\u00e9li, mind ezekt\u00f5l megszabadul!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "A b\u00f6lcses\u00e9g meger\u00f5s\u00edti a b\u00f6lcset ink\u00e1bb, mint t\u00edz hatalmas, a kik a v\u00e1rosban vannak."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mert nincs egy igaz ember is a f\u00f6ld\u00f6n, a ki j\u00f3t cselekedn\u00e9k \u00e9s nem v\u00e9tkezn\u00e9k."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ne figyelmezz minden besz\u00e9dre, melyet mondanak, hogy meg ne halld szolg\u00e1dat, hogy \u00e1tkoz t\u00e9ged."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Mert sok esetben tudja a te lelked is, hogy te is gonoszt mondott\u00e1l egyebeknek."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Mind ezeket megpr\u00f3b\u00e1ltam az \u00e9n b\u00f6lcses\u00e9gem \u00e1ltal. [Mikor] azt gondol\u00e1m, [hogy] b\u00f6lcs vagyok, \u00e9n t\u00f5lem a [b\u00f6lcses\u00e9g] t\u00e1vol vala."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Felette igen messze van, a mi van, \u00e9s felette m\u00e9lys\u00e9ges; kicsoda tudhatja meg azt?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ford\u00edt\u00e1m \u00e9n magamat \u00e9s az \u00e9n sz\u00edvemet a b\u00f6lcses\u00e9gnek \u00e9s az okoskod\u00e1snak tud\u00e1s\u00e1ra, kutat\u00e1s\u00e1ra \u00e9s keres\u00e9s\u00e9re; azonk\u00e9pen hogy megtudjam a bolonds\u00e1gnak gonoszs\u00e1g\u00e1t, \u00e9s a t\u00e9velyg\u00e9snek balgatags\u00e1g\u00e1t."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00c9s tal\u00e1ltam [egy dolgot,] mely keservesb a hal\u00e1ln\u00e1l; tudniillik az olyan asszonyt, a kinek a sz\u00edve olyan, mint a t\u00f5r \u00e9s a h\u00e1l\u00f3, kezei pedig olyanok, mint a k\u00f6telek. A ki Isten el\u00f5tt kedves, megszabadul att\u00f3l; a b\u00fbn\u00f6s pedig megfogattatik att\u00f3l."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "L\u00e1sd, ezt tal\u00e1ltam, azt mondja a pr\u00e9dik\u00e1tor; mikor gyakorta nagy szorgalmass\u00e1ggal keres\u00e9m a megfejt\u00e9st,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "A mit az \u00e9n lelkem folyton keresett, \u00e9s nem tal\u00e1ltam. Ezer k\u00f6z\u00fcl egy embert tal\u00e1ltam; de asszonyt mind ezekben nem tal\u00e1ltam."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Hanem l\u00e1sd, ezt tal\u00e1ltam, hogy az Isten teremtette az embert igaznak; \u00f5k pedig kerestek sok kigondol\u00e1st."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kicsoda hasonl\u00f3 a b\u00f6lcsh\u00f6z, \u00e9s ki tudja a dolgok magyar\u00e1zat\u00e1t? Az embernek b\u00f6lcses\u00e9ge megvil\u00e1gos\u00edtja az \u00f5 orcz\u00e1j\u00e1t; \u00e9s az \u00f5 \u00e1br\u00e1zatj\u00e1nak er\u00f5ss\u00e9ge megv\u00e1ltozik."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u00c9n [mondom,] hogy a kir\u00e1lynak parancsolatj\u00e1t meg kell \u00f5rizni, \u00e9s pedig az Istenre val\u00f3 esk\u00fcv\u00e9s miatt."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ne siess elmenni az \u00f5 orcz\u00e1ja el\u00f5l, ne \u00e1llj r\u00e1 a gonosz dologra; mert valamit akar, megcselekszi."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mivelhogy a kir\u00e1ly szava hatalmas; \u00e9s kicsoda mern\u00e9 n\u00e9ki ezt mondani: mit m\u00edvelsz?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A ki megtartja a parancsolatot, nem ismer nyomor\u00fas\u00e1got, \u00e9s a b\u00f6lcsnek elm\u00e9je meg\u00e9rt mind id\u00f5t, mind \u00edt\u00e9letet;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mert minden akaratnak van ideje \u00e9s \u00edt\u00e9lete; mert az embernek nyomor\u00fas\u00e1ga sok \u00f5 rajta;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mert nem tudja azt, a mi k\u00f6vetkezik; mert ki mondja meg n\u00e9ki, mim\u00f3don lesz az?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Egy ember sem uralkodhatik a sz\u00e9len, hogy feltartsa a szelet; \u00e9s semmi hatalmass\u00e1g nincs a hal\u00e1lnak napja felett, \u00e9s az \u00fctk\u00f6zetben senkit el nem bocs\u00e1tanak; \u00e9s a gonoszs\u00e1g nem szabad\u00edtja meg azt, a ki azzal \u00e9l."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mindezt l\u00e1ttam, \u00e9s megfigyeltem minden dolgot, a mely t\u00f6rt\u00e9nik a nap alatt, oly id\u00f5ben, a melyben uralkodik az ember az emberen maga k\u00e1r\u00e1ra."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00c9s azut\u00e1n l\u00e1ttam, hogy a gonoszok eltemettettek \u00e9s [nyugalomra ]mentek; viszont a szent helyr\u00f5l kimentek, \u00e9s elfelejttettek a v\u00e1rosban [olyanok,] a kik becs\u00fcletesen cselekedtek. Ez is hi\u00e1baval\u00f3s\u00e1g!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mivelhogy hamar a szentenczia nem v\u00e9geztetik el a gonoszs\u00e1gnak cseleked\u00f5j\u00e9n, eg\u00e9szen arra van az emberek fiainak sz\u00edve \u00f5 benn\u00f6k, hogy gonoszt cselekedjenek."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "B\u00e1r meghosszabb\u00edtja [\u00e9let\u00e9t] a b\u00fbn\u00f6s, a ki sz\u00e1zszor is v\u00e9tkezik; m\u00e9gis tudom \u00e9n, hogy az istenf\u00e9l\u00f5knek l\u00e9szen j\u00f3l dolgok, a kik az \u00f5 orcz\u00e1j\u00e1t f\u00e9lik;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "A hitetlennek pedig nem lesz j\u00f3 dolga, \u00e9s nem hosszabb\u00edtja meg az \u00f5 \u00e9let\u00e9t, [olyan lesz], mint az \u00e1rny\u00e9k, mert nem rettegi az Istennek orcz\u00e1j\u00e1t."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Van hi\u00e1baval\u00f3s\u00e1g, a mely e f\u00f6ld\u00f6n t\u00f6rt\u00e9nik; az, hogy vannak oly igazak, a kiknek dolga a gonoszoknak cselekedetei szerint lesz; \u00e9s vannak gonoszok, a kiknek dolga az igazaknak cselekedetei szerint lesz; mond\u00e1m, hogy ez is hi\u00e1baval\u00f3s\u00e1g."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Annakok\u00e1\u00e9rt dics\u00e9rem vala \u00e9n a v\u00edgass\u00e1got, hogy nincsen embernek jobb e vil\u00e1gon, hanem hogy egy\u00e9k, igy\u00e9k \u00e9s v\u00edgadjon; \u00e9s ez kis\u00e9rje \u00f5t munk\u00e1j\u00e1ban az \u00f5 \u00e9let\u00e9nek napjaiban, a melyeket \u00e1d n\u00e9ki Isten a nap alatt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "verse doesn't exist in this bible version"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mikor ad\u00e1m az \u00e9n sz\u00edvemet a b\u00f6lcses\u00e9gnek megtud\u00e1s\u00e1ra, \u00e9s hogy megvizsg\u00e1ljak [minden] f\u00e1rads\u00e1got, a mely e f\u00f6ld\u00f6n t\u00f6rt\u00e9nik, (mert sem \u00e9jjel, sem nappal [az emberek] szeme \u00e1lmot nem l\u00e1t):"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Akkor eszembe vev\u00e9m az Istennek minden dolg\u00e1t, hogy az ember nem mehet v\u00e9g\u00e9re a dolognak, a mely a nap alatt t\u00f6rt\u00e9nik; mert f\u00e1radozik az ember, hogy annak v\u00e9g\u00e9re menjen, de nem mehet v\u00e9g\u00e9re: s\u00f5t ha azt mondja is a b\u00f6lcs ember, hogy tudja, nem mehet v\u00e9g\u00e9re."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mert mindezt sz\u00edvemre vettem, \u00e9s pedig az\u00e9rt, hogy megvizsg\u00e1ljam mindezt: hogy az igazak \u00e9s b\u00f6lcsek \u00e9s azoknak minden cselekedetei Isten kez\u00e9ben vannak; szeretet is, gy\u00fbl\u00f6let is, nem tudj\u00e1k az emberek, mind ez el\u00f5tt\u00fck van."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Minden olyan, hogy mindenkit [\u00e9rhet], egyazon szerencs\u00e9je van az igaznak \u00e9s gonosznak, j\u00f3nak vagy tiszt\u00e1nak \u00e9s tiszt\u00e1talannak, mind annak, a ki \u00e1ldozik, mind a ki nem \u00e1ldozik, \u00fagy a j\u00f3nak, mint a b\u00fbn\u00f6snek, az esk\u00fcv\u00f5nek \u00fagy, mint a ki f\u00e9li az esk\u00fcv\u00e9st."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mind az \u00e9g alatt val\u00f3 dolgokban e gonosz van, hogy mindeneknek egyenl\u00f5 szerencs\u00e9j\u00f6k van; \u00e9s az emberek fiainak sz\u00edve is teljes gonoszs\u00e1ggal, \u00e9s elm\u00e9j\u00f6kben minden bolonds\u00e1g van, a m\u00edg \u00e9lnek, azut\u00e1n pedig a halottak k\u00f6z\u00e9 [mennek.]"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mert ak\u00e1rkinek, valaki minden \u00e9l\u00f5k k\u00f6z\u00e9 csatlakozik, van rem\u00e9nys\u00e9ge; mert jobb az \u00e9l\u00f5 eb, hogynem a megholt oroszl\u00e1n."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mert az \u00e9l\u00f5k tudj\u00e1k, hogy meghalnak; de a halottak semmit nem tudnak, \u00e9s azoknak semmi jutalmok nincs t\u00f6bb\u00e9; mivelhogy eml\u00e9kezet\u00f6k elfelejtetett."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mind szeretet\u00f6k, mind gy\u00fbl\u00f6let\u00f6k, mind gerjedez\u00e9s\u00f6k imm\u00e1r elveszett; \u00e9s t\u00f6bb\u00e9 semmi r\u00e9sz\u00f6k nincs semmi dologban, a mely a nap alatt t\u00f6rt\u00e9nik."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "No az\u00e9rt egyed v\u00edgass\u00e1ggal a te kenyeredet, \u00e9s igyad j\u00f3 sz\u00edvvel a te borodat; mert imm\u00e1r kedvesek Istennek a te cselekedetid!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A te ruh\u00e1id mindenkor legyenek fej\u00e9rek, \u00e9s az olaj a te fejedr\u00f5l el ne fogyatkozz\u00e9k."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c9ld \u00e9letedet a te feles\u00e9geddel, a kit szeretsz, a te hi\u00e1baval\u00f3 \u00e9letednek minden napjaiban, a melyeket [Isten] adott n\u00e9ked a nap alatt, a te hi\u00e1baval\u00f3s\u00e1godnak minden napjaiban; mert ez a te r\u00e9szed a te \u00e9letedben \u00e9s a te munk\u00e1dban, melylyel munk\u00e1l\u00f3dol a nap alatt."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Valamit hatalmadban van cselekedni er\u00f5d szerint, azt cselekedjed; mert semmi cselekedet, okoskod\u00e1s, tudom\u00e1ny \u00e9s b\u00f6lcses\u00e9g nincs a Seolban, a hov\u00e1 menend\u00f5 vagy."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ford\u00edtv\u00e1n magamat l\u00e1t\u00e1m a nap alatt, hogy nem a gyorsak\u00e9 a fut\u00e1s, \u00e9s nem az er\u00f5sek\u00e9 a viadal, \u00e9s nem a b\u00f6lcsek\u00e9 a keny\u00e9r, \u00e9s nem az okosok\u00e9 a gazdags\u00e1g, \u00e9s nem a tud\u00f3sok\u00e9 a kedvess\u00e9g; hanem id\u00f5 szerint \u00e9s t\u00f6rt\u00e9netb\u00f5l lesznek mindezek."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mert nem is tudja az ember az \u00f5 idej\u00e9t; mint a halak, melyek megfogatnak a gonosz h\u00e1l\u00f3ban, \u00e9s mint a madarak, melyek megfogatnak a t\u00f5rben, mik\u00e9pen ezek, azonk\u00e9pen megfogatnak az emberek fiai a gonosznak idej\u00e9n, mikor az elj\u00f5 re\u00e1jok hirtelens\u00e9ggel."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ezt is b\u00f6lcses\u00e9gnek l\u00e1ttam a nap alatt, \u00e9s ez \u00e9n el\u00f5ttem nagy volt."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "[Tudniillik, hogy egy] kicsiny v\u00e1ros [volt,] \u00e9s abban kev\u00e9s ember [volt,] \u00e9s elj\u00f6tt az ellen hatalmas kir\u00e1ly, \u00e9s azt k\u00f6r\u00fclvette, \u00e9s az ellen nagy er\u00f5ss\u00e9geket \u00e9p\u00edtett."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u00c9s tal\u00e1ltatott abban [egy] szeg\u00e9ny ember, a ki b\u00f6lcs volt, \u00e9s az \u00f5 b\u00f6lcses\u00e9g\u00e9vel a v\u00e1rost megszabad\u00edtotta; de senki meg nem eml\u00e9kezett arr\u00f3l a szeg\u00e9ny emberr\u00f5l."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Akkor \u00e9n azt mond\u00e1m: jobb a b\u00f6lcses\u00e9g az er\u00f5ss\u00e9gn\u00e9l; de a szeg\u00e9nynek b\u00f6lcses\u00e9ge \u00fat\u00e1latos, \u00e9s az \u00f5 besz\u00e9dit nem hallgatj\u00e1k meg."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mikor a fejedelemnek haragja felgerjed te ellened, a te helyedet el ne hagyjad; mert a szel\u00edds\u00e9g nagy b\u00fbn\u00f6ket lecsendes\u00edt."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Van egy gonosz, a melyet l\u00e1ttam a nap alatt, mintha t\u00e9ved\u00e9s volna, a mely a fejedelemt\u00f5l sz\u00e1rmazik."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "[Hogy] a bolonds\u00e1g nagy m\u00e9lt\u00f3s\u00e1gra helyeztetett, a gazdagok pedig alacsony [sors]ban \u00fclnek."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "L\u00e1ttam, hogy a szolg\u00e1k lovakon [\u00fcltek;] a fejedelmek pedig gyalog mentek a f\u00f6ld\u00f6n, mint a szolg\u00e1k."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A ki vermet \u00e1s, abba beesik; \u00e9s a ki a gyep\u00fbt elh\u00e1nyja, megmarja azt a k\u00edgy\u00f3."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A ki a k\u00f6veket hely\u00f6kb\u00f5l kih\u00e1nyja, f\u00e1jdalmat szenved azok miatt; a ki hasogatja a f\u00e1t, veszedelemben forog a miatt."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ha a vas megtompul, \u00e9s annak \u00e9lit meg nem k\u00f6sz\u00f6r\u00fcli az ember, akkor erej\u00e9t kell megfesz\u00edteni; a b\u00f6lcses\u00e9g pedig [minden dolognak] eligaz\u00edt\u00e1s\u00e1ra nagy el\u00f5menetel."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ha megharap a k\u00edgy\u00f3, a m\u00edg meg nem var\u00e1zsoltatott, azut\u00e1n semmi haszna nincsen a var\u00e1zsl\u00f3nak."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A b\u00f6lcs ember sz\u00e1j\u00e1nak besz\u00e9dei kedvesek; a bolondnak pedig ajkai elnyelik \u00f5t."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Az \u00f5 sz\u00e1ja besz\u00e9dinek kezdete bolonds\u00e1g, \u00e9s az \u00f5 sz\u00e1ja [besz\u00e9dinek] v\u00e9ge gonosz balgatags\u00e1g."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c9s a bolond szapor\u00edtja a sz\u00f3t, [pedig] nem tudja az ember, a mi k\u00f6vetkezik, \u00e9s a mi ut\u00e1na lesz, kicsoda mondja meg azt n\u00e9ki?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "A bolondnak munk\u00e1ja elf\u00e1rasztja \u00f5t, mert a v\u00e1rosba sem tud menni."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Jaj n\u00e9ked orsz\u00e1g, kinek a te kir\u00e1lyod gyermek; \u00e9s a te fejedelmid reggel esznek."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Boldog vagy te orsz\u00e1g, kinek a te kir\u00e1lyod nemes ember, \u00e9s a te fejedelmid idej\u00e9ben esznek a [testnek] erej\u00e9\u00e9rt \u00e9s nem az ital\u00e9rt."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "A rests\u00e9g miatt elhanyatlik a h\u00e1zfed\u00e9l, \u00e9s a kezek rests\u00e9ge miatt csepeg a h\u00e1z."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "V\u00edgass\u00e1gnak ok\u00e1\u00e9rt szereznek lakodalmat, \u00e9s a bor v\u00edd\u00e1m\u00edtja meg az \u00e9l\u00f5ket: \u00e9s a p\u00e9nz szerzi meg mindezeket."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "M\u00e9g a te gondolatodban is a kir\u00e1lyt ne \u00e1tkozd, \u00e9s a te \u00e1gyash\u00e1zadban is gonoszt a gazdagnak ne mondj: mert az \u00e9gi mad\u00e1r is elviszi a sz\u00f3t, \u00e9s a sz\u00e1rnyas \u00e1llat is bev\u00e1doln\u00e1 a te besz\u00e9dedet."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "verse doesn't exist in this bible version"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "verse doesn't exist in this bible version"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vesd a te kenyeredet a v\u00edz sz\u00edn\u00e9re, mert sok nap mulva megtal\u00e1lod azt."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Adj r\u00e9szt h\u00e9tnek vagy nyolcznak is; mert nem tudod, micsoda veszedelem k\u00f6vetkezik a f\u00f6ldre."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mikor a s\u00fbr\u00fb fellegek megtelnek, es\u00f5t adnak a f\u00f6ldre; \u00e9s ha leesik a fa d\u00e9lre vagy \u00e9szakra, a mely helyre leesik a fa, ott marad."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A ki a szelet n\u00e9zi, nem vet az; \u00e9s a ki s\u00fbr\u00fb fellegre n\u00e9z, nem arat."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mik\u00e9pen hogy nem tudod, melyik a sz\u00e9lnek \u00fatja, \u00e9s mik\u00e9pen vannak a csontok a terhes asszony m\u00e9h\u00e9ben; azonk\u00e9pen nem tudod az Istennek dolg\u00e1t, a ki mindeneket cselekszik."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Reggel vesd el a te magodat, \u00e9s este se pihentesd kezedet; mert nem tudod, melyik jobb, ez-\u00e9 vagy amaz, vagy ha mind a kett\u00f5 j\u00f3 lesz egyszersmind."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Val\u00f3ban, \u00e9des a vil\u00e1goss\u00e1g \u00e9s j\u00f3 a mi szemeinkkel n\u00e9zn\u00fcnk a napot."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mert ha sok esztendeig \u00e9l is az ember, mindazokban \u00f6rvendezzen; \u00e9s megeml\u00e9kezz\u00e9k a set\u00e9ts\u00e9gnek napjair\u00f3l, mert az sok lesz. Valami elj\u00f6vend\u00f5, mind hi\u00e1baval\u00f3s\u00e1g."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "verse doesn't exist in this bible version"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "verse doesn't exist in this bible version"
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00d6rvendezz a te ifjus\u00e1godban, \u00e9s v\u00edd\u00e1m\u00edtson meg t\u00e9ged a te sz\u00edved a te ifj\u00fas\u00e1godnak idej\u00e9ben, \u00e9s j\u00e1rj a te sz\u00edvednek \u00fataiban, \u00e9s szemeidnek l\u00e1t\u00e1siban; de megtudd, hogy mindezek\u00e9rt az Isten t\u00e9gedet \u00edt\u00e9letre von!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vesd el a haragot a te sz\u00edvedb\u00f5l, \u00e9s vesd el a gonoszt a te testedb\u00f5l; mert az ifj\u00fas\u00e1g \u00e9s a hajnal hi\u00e1baval\u00f3s\u00e1g."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00c9s eml\u00e9kezz\u00e9l meg a te Teremt\u00f5dr\u00f5l a te ifj\u00fas\u00e1godnak idej\u00e9ben, m\u00edg a veszedelemnek napjai el nem j\u00f5nek, \u00e9s m\u00edg el nem j\u00f5nek az esztend\u00f5k, melyekr\u00f5l azt mondod: nem szeretem ezeket!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A m\u00edg a nap meg nem set\u00e9tedik, a vil\u00e1goss\u00e1ggal, a holddal \u00e9s csillagokkal egybe; \u00e9s a s\u00fbr\u00fb felh\u00f5k ism\u00e9t visszat\u00e9rnek az es\u00f5 ut\u00e1n."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Az id\u00f5ben, mikor megremegnek a h\u00e1znak \u00f5riz\u00f5i, \u00e9s megrogynak az er\u00f5s f\u00e9rfiak, \u00e9s meg\u00e1llanak az \u00f5rl\u00f5 le\u00e1nyok, mert megkevesbedtek, \u00e9s meghom\u00e1lyosodnak az ablakon kin\u00e9z\u00f5k."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00c9s az ajt\u00f3k kiv\u00fcl bez\u00e1ratnak, a mikor is a malom z\u00fag\u00e1sa halkabb\u00e1 lesz; \u00e9s felkelnek a mad\u00e1r sz\u00f3ra, \u00e9s halkabbakk\u00e1 lesznek minden \u00e9nekl\u00f5 le\u00e1nyok."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Minden halmocsk\u00e1t\u00f3l is f\u00e9lnek, \u00e9s [mindenf\u00e9le] ijedelmek vannak az \u00faton, \u00e9s a mandolafa megvir\u00e1gzik, \u00e9s a s\u00e1ska [nehezen ]vonszolja mag\u00e1t, \u00e9s kipattan a kapor; mert elmegy az ember az \u00f5 \u00f6r\u00f6k\u00f6s h\u00e1z\u00e1ba, \u00e9s az utcz\u00e1n k\u00f6r\u00fcl j\u00e1rnak a s\u00edr\u00f3k."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Minekel\u00f5tte elszakadna az ez\u00fcst k\u00f6t\u00e9l \u00e9s megromolna az arany palaczkocska, \u00e9s a veder elt\u00f6rn\u00e9k a forr\u00e1sn\u00e1l, \u00e9s belet\u00f6rn\u00e9k a ker\u00e9k a k\u00fatba,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00c9s a por f\u00f6ldd\u00e9 lenne, mint azel\u00f5tt volt; a l\u00e9lek pedig megt\u00e9rne Istenhez, a ki adta volt azt."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Felette nagy hi\u00e1baval\u00f3s\u00e1gok, azt mondja a pr\u00e9dik\u00e1tor, mindezek hi\u00e1baval\u00f3s\u00e1gok!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c9s azonfel\u00fcl, hogy a pr\u00e9dik\u00e1tor b\u00f6lcs volt, m\u00e9g a n\u00e9pet is tudom\u00e1nyra tan\u00edtotta, \u00e9s fontolgatott, \u00e9s tudakozott, \u00e9s \u00edrt sok b\u00f6lcs mond\u00e1st."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00c9s igyekezett a pr\u00e9dik\u00e1tor megtudni sok kiv\u00e1ns\u00e1gos besz\u00e9deket, igaz \u00edr\u00e1st \u00e9s igaz besz\u00e9deket."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "A b\u00f6lcseknek besz\u00e9dei hasonlatosak az \u00f6szt\u00f6k\u00e9hez, \u00e9s mint a szegek, er\u00f5sen le vannak verve a gy\u00fclekezetek tan\u00edt\u00f3inak [szavai;] melyek egy p\u00e1sztort\u00f3l adattak."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mindezekb\u00f5l, fiam, intess\u00e9l meg: a sok k\u00f6nyvek \u00edr\u00e1s\u00e1nak nincs v\u00e9ge, \u00e9s a sok tanul\u00e1s f\u00e1rads\u00e1g\u00e1ra van a testnek."
+                }
+            }
+        }
+    }
+}

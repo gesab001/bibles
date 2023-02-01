@@ -1,0 +1,452 @@
+{
+    "version": "SKD",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u0160to bje\u0161e ispo\u00e8etka, \u0161to \u00e8usmo, \u0161to vidjesmo o\u00e8ima svojima, \u0161to razmotrismo i ruke na\u0161e opipa\u0161e, o rije\u00e8i \u017eivota:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I \u017eivot se javi, i vidjesmo, i svjedo\u00e8imo, i javljamo vam \u017eivot vje\u00e8ni, koji bje\u0161e u oca, i javi se nama;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u0160to vidjesmo i \u00e8usmo to javljamo vama da i vi s nama imate zajednicu; a na\u0161a je zajednica s ocem i sa sinom njegovijem Isusom Hristom."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "I ovo vam pi\u0161emo da radost va\u0161a bude ispunjena."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I ovo je obe\u00e6anje koje \u00e8usmo od njega i javljamo vama, da je Bog vidjelo, i tame u njemu nema nikakve."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ako re\u00e8emo da imamo zajednicu s njim a u tami hodimo, la\u017eemo i ne tvorimo istine."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ako li u vidjelu hodimo, kao \u0161to je on sam u vidjelu, imamo zajednicu jedan s drugijem, i krv Isusa Hrista, sina njegova, o\u00e8i\u0161\u00e6ava nas od svakoga grijeha."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ako re\u00e8emo da grijeha nemamo, sebe varamo, i istine nema u nama."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ako priznajemo grijehe svoje, vjeran je i pravedan da nam oprosti grijehe na\u0161e, i o\u00e8isti nas od svake nepravde."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ako re\u00e8emo da ne sagrije\u0161ismo, gradimo ga la\u017eom, i rije\u00e8 njegova nije u nama."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dje\u00e8ice moja! ovo vam pi\u0161em da ne grije\u0161ite; i ako ko sagrije\u0161i, imamo zastupnika kod oca, Isusa Hrista pravednika,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I on o\u00e8i\u0161\u00e6a grijehe na\u0161e, i ne samo na\u0161e nego i svega svijeta."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "I po tom razumijemo da ga poznasmo, ako zapovijesti njegove dr\u017eimo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Koji govori: poznajem ga, a zapovijesti njegovijeh ne dr\u017ei, la\u017ea je, i u njemu istine nema;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A koji dr\u017ei rije\u00e8 njegovu, u njemu je zaista ljubav Bo\u017eija savr\u0161ena; po tom poznajemo da smo u njemu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Koji govori da u njemu stoji, i taj treba tako da hodi kao \u0161to je on hodio."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ljubazni! ne pi\u0161em vam nove zapovijesti, nego zapovijest staru koju imaste ispo\u00e8etka. Zapovijest stara jest rije\u00e8 koju \u00e8uste ispo\u00e8etka."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Opet vam pi\u0161em novu zapovijest, koja je zaista u njemu i u vama; jer tama prolazi, i vidjelo pravo ve\u00e6 svijetli."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Koji govori da je u vidjelu, a mrzi na svojega brata, jo\u0161 je u tami."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Koji ljubi brata svojega, u vidjelu \u017eivi, i sablazni u njemu nema."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "A koji mrzi na svojega brata, u tami je, i u tami hodi, i ne zna kuda ide, jer mu tama zaslijepi o\u00e8i."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pi\u0161em vam, dje\u00e8ice, da vam se opra\u0161taju grijesi imena njegova radi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pi\u0161em vam, oci, jer poznaste onoga koji nema po\u00e8etka. Pi\u0161em vam, mladi\u00e6i, jer nadvladaste ne\u00e8astivoga. Pi\u0161em vam, djeco, jer poznaste oca."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pisah vam, oci, jer poznaste onoga koji je od po\u00e8etka. Pisah vam, mladi\u00e6i, jer ste jaki, i rije\u00e8 Bo\u017eija u vama stoji, i nadvladaste ne\u00e8astivoga."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ne ljubite svijeta ni \u0161to je na svijetu. Ako ko ljubi svijet, nema ljubavi o\u00e8ine u njemu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Jer sve \u0161to je na svijetu, tjelesna \u017eelja, i \u017eelja o\u00e8iju, i ponos \u017eivota, nije od oca, nego je od ovoga svijeta."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "I svijet prolazi i \u017eelja njegova; a koji tvori volju Bo\u017eiju ostaje dovijeka."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Djeco! po\u0161ljednje je vrijeme, i kao \u0161to \u00e8uste da \u00e6e do\u00e6i antihrist, i sad mnogi antihristi posta\u0161e; po tom poznajemo da je po\u0161ljednji \u00e8as."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Od nas izi\u00f0o\u0161e, ali ne bi\u0161e od nas: kad bi bili od nas onda bi ostali s nama; ali da se jave da nijesu svi od nas."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "I vi imate pomazanje od svetoga, i znate sve."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ne pisah vam kao da ne znate istine, nego \u0161to je znate, i znate da nikakva la\u017e nije od istine."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ko je la\u017eljivac osim onoga koji odri\u00e8e da Isus nije Hristos? Ovo je antihrist, koji se odri\u00e8e oca i sina."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Koji se god odri\u00e8e sina ni oca nema; a koji priznaje sina, i oca ima."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Vi dakle \u0161to \u00e8uste ispo\u00e8etka u vama neka stoji; ako u vama ostane \u0161to \u00e8uste ispo\u00e8etka, i vi \u00e6ete ostati u sinu i u ocu."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "I ovo je obe\u00e6anje koje nam on obe\u00e6a, \u017eivot vje\u00e8ni."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ovo vam pisah za one koji vas varaju."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "I vi pomazanje \u0161to primiste od njega, u vama stoji, i ne trebujete da vas ko u\u00e8i; nego kako vas to samo pomazanje u\u00e8i u svemu, i istinito je, i nije la\u017e, i kao \u0161to vas nau\u00e8i ostanite u njemu."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "I sad, dje\u00e8ice, ostanite u njemu da imamo slobodu kad se javi, i da se ne osramotimo pred njim o njegovu dolasku."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Ako znate da je pravednik, poznajte da je svaki koji tvori pravdu od njega ro\u00f0en."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vidite kakvu nam je ljubav dao otac, da se djeca Bo\u017eija nazovemo i budemo; zato svijet ne poznaje nas, jer njega ne pozna."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ljubazni! sad smo djeca Bo\u017eija, i jo\u0161 se ne pokaza \u0161ta \u00e6emo biti; nego znamo da kad se poka\u017ee, bi\u00e6emo kao i on, jer \u00e6emo ga vidjeti kao \u0161to jest."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "I svaki koji ovaj nad ima na njega, \u00e8isti se, kao i on \u0161to je \u00e8ist."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Svaki koji \u00e8ini grijeh i bezakonje \u00e8ini: i grijeh je bezakonje."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I znate da se on javi da grijehe na\u0161e uzme; i grijeha u njemu nema."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Koji god u njemu stoji ne grije\u0161i; koji god grije\u0161i ne vidje ga niti ga pozna."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dje\u00e8ice! niko da vas ne vara: koji pravdu tvori pravednik je, kao \u0161to je on pravedan;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Koji tvori grijeh od \u00f0avola je, jer \u00f0avo grije\u0161i od po\u00e8etka. Zato se javi sin Bo\u017eij da raskopa djela \u00f0avolja."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Koji je god ro\u00f0en od Boga ne \u00e8ini grijeha, jer njegovo sjeme stoji u njemu, i ne mo\u017ee grije\u0161iti, jer je ro\u00f0en od Boga."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Po tom se poznaju djeca Bo\u017eija i djeca \u00f0avolja: koji god ne tvori pravde, nije od Boga, i koji ne ljubi brata svojega."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jer je ovo zapovijest, koju \u00e8uste ispo\u00e8etka, da ljubimo jedan drugoga."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ne kao \u0161to Kain bje\u0161e od ne\u00e8astivoga i zakla brata svojega. I za koji ga uzrok zakla? Jer djela njegova bijahu zla, a brata mu pravedna."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ne \u00e8udite se, bra\u00e6o moja, ako svijet mrzi na vas."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mi znamo da prije\u00f0osmo iz smrti u \u017eivot, jer ljubimo bra\u00e6u; jer ko ne ljubi brata ostaje u smrti."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Svaki koji mrzi na brata svojega krvnik je ljudski; i znate da nijedan krvnik ljudski nema u sebi vje\u00e8noga \u017eivota."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Po tom poznasmo ljubav \u0161to on za nas du\u0161u svoju polo\u017ei: mi smo du\u017eni polagati du\u0161e za bra\u00e6u."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Koji dakle ima bogatstvo ovoga svijeta, i vidi brata svojega u nevolji i zatvori srce svoje od njega, kako ljubav Bo\u017eija stoji u njemu?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dje\u00e8ice moja! da se ne ljubimo rije\u00e8ju ni jezikom, nego djelom i istinom."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "I po tom doznajemo da smo od istine, i pred njim tje\u0161imo srca svoja."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Jer ako nam zazire srce na\u0161e, Bog je ve\u00e6i od srca na\u0161ega i zna sve."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ljubazni! ako nam srce na\u0161e ne zazre, slobodu imamo pred Bogom;"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "I \u0161to god zai\u0161temo, primi\u00e6emo od njega, jer zapovijesti njegove dr\u017eimo i \u00e8inimo \u0161to je njemu ugodno."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "I ovo je zapovijest njegova da vjerujemo u ime sina njegova Isusa Hrista, i da ljubimo jedan drugoga kao \u0161to nam je dao zapovijest."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "I koji dr\u017ei zapovijesti njegove u njemu stoji, i on u njemu. I po tom poznajemo da stoji u nama, po Duhu koga nam je dao."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ljubazni! ne vjerujte svakome duhu, nego ku\u0161ajte duhove jesu li od Boga; jer mnogi la\u017eni proroci izi\u00f0o\u0161e na svijet."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Po ovome poznajte Duha Bo\u017eijega, i duha la\u017enoga; svaki duh koji priznaje da je Isus Hristos u tijelu do\u0161ao, od Boga je;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A svaki duh koji ne priznaje da je Isus Hristos u tijelu do\u0161ao, nije od Boga: i ovaj je antihristov, za kojega \u00e8uste da \u00e6e do\u00e6i, i sad je ve\u00e6 na svijetu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vi ste od Boga, dje\u00e8ice, i nadvladaste ih, jer je ve\u00e6i koji je u vama negoli koji je na svijetu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Oni su od svijeta, zato govore od svijeta, i svijet ih slu\u0161a."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mi smo od Boga; koji poznaje Boga slu\u0161a nas, a koji nije od Boga ne slu\u0161a nas. Po ovom poznajemo duha istine i duha prijevare."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ljubazni! da ljubimo jedan drugoga; jer je ljubav od Boga, i svaki koji ima ljubav od Boga je ro\u00f0en, i poznaje Boga."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A koji nema ljubavi ne pozna Boga; jer je Bog ljubav."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Po tom se pokaza ljubav Bo\u017eija k nama \u0161to Bog sina svojega jedinorodnoga posla na svijet da \u017eivimo kroza nj."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "U ovom je ljubav ne da mi pokazasmo ljubav k Bogu, nego da on pokaza ljubav k nama, i posla sina svojega da o\u00e8isti grijehe na\u0161e."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ljubazni! kad je ovako Bog pokazao ljubav k nama, i mi smo du\u017eni ljubiti jedan drugoga."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Boga niko ne vidje nikad: ako imamo ljubav me\u00f0u sobom, Bog u nama stoji, i ljubav je njegova savr\u0161ena u nama."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Po tom doznajemo da u njemu stojimo, i on u nama, \u0161to nam je dao od Duha svojega."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "I mi vidjesmo i svjedo\u00e8imo da otac posla sina da se spase svijet."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Koji prizna da je Isus sin Bo\u017eij, Bog u njemu stoji i on u Bogu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "I mi poznasmo i vjerovasmo ljubav koju Bog ima k nama. Bog je ljubav, i koji stoji u ljubavi, u Bogu stoji i Bog u njemu stoji."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tijem se ljubav u nama savr\u0161uje da imamo slobodu na dan sudni; jer kao \u0161to je on i mi smo na svijetu ovom."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "U ljubavi nema straha, nego savr\u0161ena ljubav izgoni strah napolje; jer strah ima muku. A ko se boji nije savr\u0161en u ljubavi."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Da imamo mi ljubav k njemu, jer on najprije pokaza ljubav k nama."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ako ko re\u00e8e: ja ljubim Boga, a mrzi na brata svojega, la\u017ea je; jer koji ne ljubi brata svojega, koga vidi, kako mo\u017ee ljubiti Boga, koga ne vidi?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "I ovu zapovijest imamo od njega: koji ljubi Boga da ljubi i brata svojega."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Koji god vjeruje da je Isus Hristos, od Boga je ro\u00f0en; i koji god ljubi onoga koji je rodio, ljubi i onoga koji je ro\u00f0en od njega."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Po tom znamo da ljubimo djecu Bo\u017eiju kad Boga ljubimo i njegove zapovijesti dr\u017eimo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jer je ovo ljubav Bo\u017eija da zapovijesti njegove dr\u017eimo; i zapovijesti njegove nijesu te\u0161ke."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jer svaki koji je ro\u00f0en od Boga pobje\u00f0uje svijet; i vjera je na\u0161a ova pobjeda koja pobijedi svijet."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ko je koji svijet pobje\u00f0uje osim onoga koji vjeruje da je Isus sin Bo\u017eij?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ovo je Isus Hristos \u0161to do\u00f0e vodom i krvlju i Duhom, ne samo vodom nego vodom i krvlju; i Duh je koji svjedo\u00e8i, jer je Duh istina."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jer je troje \u0161to svjedo\u00e8i na nebu: Otac, Rije\u00e8, i sveti Duh; i ovo je troje jedno."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "I troje je \u0161to svjedo\u00e8i na zemlji: duh, i voda, i krv; i troje je zajedno."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kad primamo svjedo\u00e8anstvo \u00e8ovje\u00e8ije, svjedo\u00e8anstvo je Bo\u017eije ve\u00e6e; jer je ovo svjedo\u00e8anstvo Bo\u017eije \u0161to svjedo\u00e8i za sina svojega."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Koji vjeruje sina Bo\u017eijega ima svjedo\u00e8anstvo u sebi; koji ne vjeruje Bogu na\u00e8inio ga je la\u017eom, jer ne vjerova svjedo\u00e8anstvu koje svjedo\u00e8i Bog za sina svojega."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "I ovo je svjedo\u00e8anstvo da nam je Bog dao \u017eivot vje\u00e8ni; i ovaj \u017eivot vje\u00e8ni u sinu je njegovom."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ko ima sina Bo\u017eijega ima \u017eivot; ko nema sina Bo\u017eijega nema \u017eivota."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ovo pisah vama koji vjerujete u ime sina Bo\u017eijega, da znate da imate \u017eivot vje\u00e8ni i da vjerujete u ime sina Bo\u017eijega."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "I ovo je sloboda koju imamo k njemu da ako \u0161to molimo po volji njegovoj poslu\u0161a nas."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "I kad znamo da nas slu\u0161a \u0161to god molimo, znamo da \u00e6e nam dati \u0161to i\u0161temo u njega."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ako ko vidi brata svojega gdje grije\u0161i grijeh ne k smrti, neka moli, i da\u00e6e mu \u017eivot, onima koji grije\u0161e ne k smrti. Ima grijeh k smrti: za taj ne govorim da moli."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Svaka je nepravda grijeh; i ima grijeh ne k smrti."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Znamo da nijedan koji je ro\u00f0en od Boga, ne grije\u0161i, nego koji je ro\u00f0en od Boga \u00e8uva se, i ne\u00e8astivi ne dohvata se do njega."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Znamo da smo od Boga i sav svijet le\u017ei u zlu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "A znamo da sin Bo\u017eij do\u00f0e, i dao nam je razum da poznamo Boga istinoga, i da budemo u istinome sinu njegovom Isusu Hristu. Ovo je istini Bog i \u017eivot vje\u00e8ni."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Dje\u00e8ice! \u00e8uvajte se od neznabo\u0161tva. Amin."
+                }
+            }
+        }
+    }
+}

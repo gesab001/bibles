@@ -1,0 +1,515 @@
+{
+    "version": "LND",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Il Cantico dei Cantici che \u00e8 di Salomone."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mi baci con i baci della sua bocca! Poich\u00e9 il tuo amore \u00e8 migliore del vino."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Per la fragranza dei tuoi gradevoli olii profumati il tuo nome \u00e8 un olio profumato versato; per questo ti amano le fanciulle."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Attirami a te! Noi ti correremo dietro. Il re mi ha portato nelle sue camere. Noi gioiremo e ci rallegreremo in te; noi ricorderemo il tuo amore pi\u00fa del vino. A ragione ti amano."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Io sono nera ma bella, o figlie di Gerusalemme, come le tende di Kedar, come le cortine di Salomone."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Non guardate se son nera, perch\u00e9 il sole mi ha abbronzata. I figli di mia madre si sono adirati con me; mi hanno posto a guardia delle vigne, ma la mia propria vigna non l&#39;ho custodita."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dimmi, o tu che il mio cuore ama dove pascoli il gregge e dove lo fai riposare a mezzogiorno. Perch\u00e9 mai dovrei io essere come una donna velata presso le greggi dei tuoi compagni?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Se non lo sai, o la pi\u00fa bella delle donne, segui le tracce del gregge e fa&#39; pascolare le tue caprette presso le tende dei pastori."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Amica mia, io ti assomiglio alla mia cavalla tra i carri del Faraone."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Le tue guance sono belle con ornamenti, e il tuo collo con collane di perle."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Noi faremo per te collane d&#39;oro con borchie d&#39;argento."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mentre il re siede a mensa, il mio nardo effonde la sua fragranza."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Il mio diletto \u00e8 per me un sacchetto di mirra; egli riposer\u00e0 tutta la notte fra le mie mammelle."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Il mio diletto \u00e8 per me un mazzo di fiori di alcanna nelle vigne di En-ghedi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ecco sei bella, amica mia, ecco sei bella! I tuoi occhi sono come quelli delle colombe."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Come sei bello, mio diletto, e anche amabile! Per di pi\u00f9 il nostro letto \u00e8 verdeggiante."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Le travi delle nostre case sono cedri e i nostri soffitti di cipresso."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Io sono la rosa di Sharom il giglio, delle valli."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Come un giglio tra le spine, cos\u00ed \u00e8 l&#39;amica mia tra le fanciulle."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Come un melo fra gli alberi del bosco, cos\u00ed \u00e8 il mio diletto fra i giovani. Ho grandemente desiderato di stare alla sua ombra e l\u00e0 mi sono seduta, e il suo frutto era dolce al mio palato."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mi ha condotto nella casa del banchetto, e il suo vessillo su di me \u00e8 amore."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sostenetemi con focacce d&#39;uva, ristoratemi con pomi, perch\u00e9 io sono malata d&#39;amore."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "La sua sinistra \u00e8 sotto il mio capo e la sua destra mi abbraccia."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Io vi scongiuro, o figlie di Gerusalemme, per le gazzelle e per le cerve dei campi, non destate e non svegliate l&#39;amore mio, finch\u00e9 cos\u00ed le piace."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ecco la voce del mio diletto! Ecco, egli viene saltando sui monti, balzando sui colli."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Il mio diletto \u00e8 simile a una gazzella o ad un cerbiatto. Eccolo, egli sta dietro al nostro muro, guarda dalle finestre, lancia occhiate attraverso l&#39;inferriata."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Il mio dilettomi ha parlato e mi ha detto: \u00abAlzati, amica mia, mia bella, e vieni!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Poich\u00e9, ecco, l&#39;inverno \u00e8 passato, la pioggia \u00e8 cessata, se n&#39;\u00e8 andata."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "I fiori appaiono sulla terra, il tempo del cantare \u00e8 giunto, e nel nostro paese si ode la voce della tortora."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Il fico mette fuori i suoi fichi acerbi, e le viti in fiore diffondono una soave fragranza. Alzati, amica mia, mia bella, e vieni."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "O mia colomba, che stai nelle fenditure delle rocce, nei nascondigli dei dirupi, fammi vedere il tuo viso, fammi udire la tua voce, perch\u00e9 la tua voce \u00e8 piacevole, e il tuo viso \u00e8 leggiadro\u00bb."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Prendete le volpi, le piccole volpi che danneggiano le vigne, perch\u00e8 le nostre vigne sono in fiore."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Il mio diletto \u00e8 mio, e io sono sua; egli pascola il gregge fra i gigli,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Prima che spiri la brezza del giorno e le ombre fuggano, ritorna, o mio diletto, e sii come una gazzella o un cerbiatto sui monti che ci separano."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sul mio letto durante la notte, ho cercato colui che il mio cuore ama; ho cercato, ma non l&#39;ho trovato,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ora mi alzer\u00f2 e andr\u00f2 attorno per la citt\u00e0; per le strade e per le piazze cercher\u00f2 colui che il mio cuore ama. L&#39;ho cercato, ma non l&#39;ho trovato."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Le guardie che vanno attorno per la citt\u00e0 mi hanno incontrata. Ho chiesto loro: \u00abAvete visto colui che il mio cuore ama?\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Le avevo appena oltrepassate, quando trovai colui che il mio cuore ama. L&#39;ho stretto saldamente e non intendo lasciarlo finch\u00e9 non l&#39;avr\u00f2 condotto in casa di mia madre e nella camera di colei che mi ha concepito."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vi scongiuro, o figlie di Gerusalemme, per le gazzelle e per le cerve dei campi, non destate e non svegliate l&#39;amore mio finch\u00e9 cos\u00ed le piace."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Chi \u00e8 costei che sale dal deserto, come colonne di fumo, profumata di mirra e d&#39;incenso, e d&#39;ogni polvere aromatica dei mercanti?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ecco il letto di Salomone, intorno al quale stanno sessanta uomini valorosi, dei prodi d&#39;Israele."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tutti maneggiano la spada, sono esperti nella guerra; ognuno porta la sua spada al fianco per gli spaventi notturni."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Il re Salomone si \u00e8 fatto una lettiga con legno del Libano."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ha fatto le sue colonne d&#39;argento, la sua spalliera d&#39;oro, il suo seggio di porpora; il suo interno \u00e8 ricamato con amore dalle figlie di Gerusalemme."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Uscite, figlie di Sion, mirate il re Salomone con la corona di cui l&#39;ha incoronato sua madre, nel giorno delle sue nozze, nel giorno dell&#39;allegrezza del suo cuore."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Come sei bella, amica mia, come sei bella! I tuoi occhi dietro al tuo velo sono come quelli delle colombe; i tuoi capelli sono come un gregge di capre, che pascolano sul monte Galaad."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I tuoi denti sono come un gregge di pecore tosate, che tornano dal lavatoio; tutte hanno gemelli, e nessuna di esse \u00e8 sterile,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Le tue labbra sono come un filo di scarlatto, e la tua bocca \u00e8 graziosa; le tue tempie dietro al tuo velo sono come uno spicchio di melagrana."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Il tuo collo \u00e8 come la torre di Davide, costruita per un&#39;armeria, su cui sono appesi mille scudi, tutti scudi di uomini valorosi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Le tue due mammelle sono come due cerbiatti, gemelli di gazzella, che pascolano fra i gigli."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Prima che spiri la brezza del giorno e le ombre fuggano, me ne andr\u00f2 al monte della mirra e al colle dell&#39;incenso."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tu sei tutta bella, amica mia, e non c&#39;\u00e8 in te alcun difetto."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vieni con me dal Libano, o mia sposa vieni con me dal Libano! Guarda dalla sommit\u00e0 dell&#39;Amana, dalla sommit\u00e0 del Senir e dell&#39;Hermon, dalle tane dei leoni, dai monti dei leopardi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tu mi hai rapito il cuore, o mia sorella sposa mia; tu mi hai rapito il cuore con un solo sguardo dei tuoi occhi, con uno solo dei monili del tuo collo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Quanto \u00e8 piacevole il tuo amore, o mia sorella, sposa mia! Quanto migliore del vino \u00e8 il tuo amore e la fragranza dei tuoi olii profumati \u00e8 pi\u00fa soave di tutti gli aromi!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "O sposa mia, le tue labbra stillano come un favo di miele, miele e latte sono sotto la tua lingua, e la fragranza delle tue vesti \u00e8 come la fragranza del Libano."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "La mia sorella, la mia sposa \u00e8 un giardino chiuso, una sorgente chiusa, una fonte sigillata."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I tuoi germogli sono un giardino di melograni con frutti squisiti, piante di alcanna con nardo,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "nardo e croco, cannella e cinnamomo, con ogni specie di alberi d&#39;incenso, mirra ed aloe, con tutti i migliori aromi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tu sei una fonte di giardini, un pozzo di acque vive, ruscelli che scaturiscono dal Libano."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "L\u00e8vati, aquilone, e vieni, austro, soffia sul mio giardino, e i suoi aromi si effondano! Entri il mio diletto nel suo giardino e ne mangi i frutti squisiti!"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sono entrato nel mio giardino, o mia sorella, sposa mia, ho colto la mia mirra col mio balsamo; ho mangiato il mio favo col mio miele, ho bevuto il mio vino col mio latte. Amici, mangiate, bevete; s\u00ed inebriatevi, o diletti!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Io dormivo, ma il mio cuore vegliava. Sento la voce del mio diletto, che picchia e dice: \u00abAprimi, sorella mia, amica mia, colomba mia, mia perfetta, perch\u00e9 il mio capo \u00e8 pieno di rugiada, e i miei riccioli di gocce della notte\u00bb."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mi sono tolta la veste, come me la rimetterei? Mi sono lavata i piedi, come li sporcherei di nuovo?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Il mio diletto ha messo la mano nel buco della porta, e le mie viscere si sono commosse per lui."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mi sono alzata per aprire al mio diletto, e le mie mani hanno stillato mirra, le mie dita mirra liquida, che scorreva sulla maniglia della serratura."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ho aperto al mio diletto, ma il mio diletto si era ritirato e se n&#39;era andato. Il mio cuore veniva meno mentr&#39;egli parlava. L&#39;ho cercato, ma non l&#39;ho trovato; ho chiamato, ma non mi ha risposto."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Le guardie che vanno attorno per la citt\u00e0 mi hanno trovata, mi hanno percossa, mi hanno ferita; le guardie delle mura mi hanno strappato il velo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Io vi scongiuro, o figlie di Gerusalemme, se trovate il mio diletto, che gli direte? Ditegli che sono malata d&#39;amore."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Che cos&#39;\u00e8 il tuo diletto pi\u00fa di un altro diletto, o la pi\u00fa bella fra le donne? Che cos&#39;\u00e8 il tuo diletto pi\u00fa di un altro diletto perch\u00e9 ci scongiuri cos\u00ed?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Il mio diletto \u00e8 bianco e vermiglio, e si distingue fra diecimila."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Il suo capo \u00e8 oro finissimo, i suoi riccioli sono crespi, neri come il corvo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "I suoi occhi sono come colombe presso ruscelli d&#39;acqua, lavati nel latte, propriamente incastonati come una pietra preziosa in un anello."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Le sue guance sono come un&#39;aiuola di balsamo, come aiuole di erbe aromatiche; le sue labbra sono gigli, che stillano mirra liquida."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Le sue mani sono anelli d&#39;oro, tempestate di pietre preziose, il suo ventre \u00e8 avorio lucente, ricoperto di zaffiri."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Le sue gambe sono colonne di marmo, fondate su basi d&#39;oro puro. Il suo aspetto \u00e8 come il Libano, maestoso come i cedri."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "La sua bocca \u00e8 la dolcezza stessa, s\u00ed, egli \u00e8 attraente in tutto. Questo \u00e8 il mio diletto, questo \u00e8 il mio amico, o figlie di Gerusalemme."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Dov&#39;\u00e8 andato il tuo diletto, o la pi\u00fa bella fra le donne? Dove si \u00e8 recato il tuo diletto, perch\u00e9 lo possiamo cercare con te?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Il mio diletto \u00e8 sceso nel suo giardino, nelle aiuole di balsamo a pascolare il gregge nei giardini e a cogliere gigli."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Io sono del mio diletto, e il mio diletto \u00e8 mio; egli pascola il gregge fra i gigli."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Amica mia, tu sei bella come Tirtsah, leggiadra come Gerusalemme, tremenda come un esercito a bandiere spiegate."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Distogli da me i tuoi occhi, perch\u00e9 mi turbano. I tuoi capelli sono come un gregge di capre, che pascolano sul monte Galaad."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I tuoi denti sono come un gregge di pecore, che tornano dal lavatoio, tutte hanno gemelli e nessuna di esse \u00e8 sterile,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Le tue tempie dietro al tuo velo sono come uno spicchio di melagrana."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ci sono sessanta regine e ottanta concubine, e fanciulle senza numero."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ma la mia colomba, la mia perfetta, \u00e8 unica; \u00e8 l&#39;unica di sua madre, la prescelta di colei che l&#39;ha partorita. Le fanciulle l&#39;hanno vista e l&#39;hanno proclamata beata, s\u00ed, anche le regine e le concubine, e l&#39;hanno lodata."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Chi \u00e8 costei che appare come l&#39;alba, bella come la luna, pura come il sole, tremenda come un esercito a bandiere spiegate?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Io sono discesa nel giardino dei noci per vedere le piante verdeggianti della valle, per vedere se le viti erano in fiore e i melograni mettevano le gemme."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Non so come, ma il mio desiderio mi ha posta sui carri del mio nobile popolo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ritorna, ritorna, o Shulammita, ritorna, ritorna, perch\u00e9 possiamo ammirarti. Che cosa vedete nella Shulammita? Come una danza a due schiere?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Come sono belli i tuoi piedi nei calzari, o figlia di principe! Le curve dei tuoi fianchi sono come gioielli, opera di mano d&#39;artista."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Il tuo ombelico \u00e8 una coppa rotonda, ove non manca mai vino aromatico. Il tuo ventre \u00e8 un mucchio di grano, circondato di gigli."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Le tue due mammelle sono come due cerbiatti, gemelli di gazzella."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Il tuo collo \u00e8 come una torre d&#39;avorio; i tuoi occhi sono come le piscine di Heshbon presso la porta di Bath-Rabbim. Il tuo naso \u00e8 come la torre del Libano, che guarda verso Damasco."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Il tuo capo si eleva su di te come il Karmel e i capelli del tuo capo sono porpora; un re \u00e8 fatto prigioniero dalle tue trecce."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Come sei bella e come sei leggiadra, o amore mio, con tutte le tue delizie!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "La tua statura \u00e8 simile alla palma, e le tue mammelle a grappoli."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ho detto: \u00abSalir\u00f2 sulla palma e afferrer\u00f2 i suoi rami\u00bb. Siano le tue mammelle come i grappoli della vite, la fragranza del tuo alito come quello dei pomi,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "e i baci della tua bocca come un vino squisito, che scende dolcemente per il mio diletto, sfiorando delicatamente le labbra di chi dorme."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Io sono del mio diletto, e il suo desiderio \u00e8 verso di me."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Vieni, mio diletto, usciamo nei campi, passiamo la notte nei villaggi!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Alziamoci presto al mattino per andare nelle vigne e per vedere se la vite ha messo i germogli e i suoi fiori sono sbocciati, e se i melograni sono in fiore. L\u00e0 ti dar\u00f2 il mio amore."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Le mandragole, effondono la loro fragranza, e sulle nostre porte ci sono frutti squisiti di ogni genere, freschi e appassiti, che ho conservato per te, mio diletto."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Oh, fossi tu come un mio fratello, allattato alle mammelle di mia madre! Trovandoti fuori ti bacerei, e nessuno mi disprezzerebbe."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ti condurrei e ti introdurrei in casa di mia madre; tu mi ammaestreresti e io ti darei da bere vino aromatico, del succo del mio melograno."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "La sua sinistra sia sotto il mio capo e la sua destra mi abbracci!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "O figlie di Gerusalemme, vi scongiuro non destate e non svegliate l&#39;amore mio, finch\u00e9 cos\u00ed le piace."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Chi \u00e8 costei che sale dal deserto appoggiata al suo diletto? Ti ho svegliata sotto il melo, dove tua madre ti ha partorito, dove quella che ti ha partorito ti ha dato alla luce."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio; poich\u00e9 l&#39;amore \u00e8 forte come la morte, la gelosia \u00e8 dura come lo Sceol. Le sue fiamme sono fiamme di fuoco, una fiamma ardente."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Le grandi acque non potrebbero spegnere l&#39;amore, n\u00e9 i fiumi sommergerlo. Se uno desse tutte le ricchezze della sua casa in cambio dell&#39;amore, sarebbe certamente disprezzato."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Noi abbiamo una piccola sorella, che non ha ancora mammelle; che cosa faremo per la nostra sorella, nel giorno in cui si parler\u00e0 di lei?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Se \u00e8 un muro, costruiremo su di lei un palazzo d&#39;argento; se \u00e8 una porta, la rafforzeremo con tavole di cedro."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Io sono un muro, e le mie mammelle sono come torri; perci\u00f2 ai suoi occhi sono divenuta come colei che ha trovato pace."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Salomone aveva una vigna a Baal-Hamon; egli affid\u00f2 la vigna a dei guardiani, ognuno dei quali doveva portare come suo frutto mille sicli d&#39;argento."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "La mia vigna, che \u00e8 mia, sta davanti a me. Tu, Salomone, tieni pure i mille sicli, e i guardiani del suo frutto ne abbiano duecento."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "O tu che dimori nei giardini, i compagni stanno ascoltando la tua voce; fammela sentire."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Fa&#39; presto, mio diletto e sii simile a una gazzella o a un cerbiatto, sui monti degli aromi!"
+                }
+            }
+        }
+    }
+}

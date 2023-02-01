@@ -1,0 +1,636 @@
+{
+    "version": "icb",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "God Warns Israel to Stop Sinning - Amos was one of the shepherds from the town of Tekoa. God showed him this vision about Israel. It was at the time Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel. This happened two years before the earthquake."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Amos said, \u201cThe Lord will roar like a lion from Jerusalem. His loud voice will sound like a growl from Jerusalem. The green pastures of the shepherds will become dry. Even Mount Carmel will dry up.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Israel\u2019s Neighbors Are Punished - The People of Aram This is what the Lord says: \u201cFor the many crimes Damascus is doing, I will punish them. They beat the people of Gilead with threshing boards that had iron teeth."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "So I will send fire upon the house of Hazael. That fire will destroy the strong towers of Ben-Hadad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I will break down the gate of Damascus. I will destroy the king who is in the Valley of Aven. I will also destroy the king of Beth Eden. The people of Aram will be taken captive to the country of Kir,\u201d says the Lord."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "The People of Philistia This is what the Lord says: \u201cFor the many crimes Gaza is doing, I will punish them. They sold all the people of one area as slaves to Edom."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "So I will send a fire on the walls of Gaza. That fire will destroy the city\u2019s strong towers."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "I will destroy the king of the city of Ashdod. I will destroy the king of the city of Ashkelon. Then I will turn against the people of the city of Ekron. I will punish the Philistines until they are all dead,\u201d says the Lord God."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "The People of Phoenicia This is what the Lord says: \u201cFor the many crimes Tyre is doing, I will punish them. They sold all the people of one area as slaves to Edom. They forgot the brotherly agreement they had made with Israel."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "So I will send fire on the walls of Tyre. That fire will destroy the city\u2019s strong towers.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "The People of Edom This is what the Lord says: \u201cFor the many crimes Edom is doing, I will punish them. They hunted down their brothers, the Israelites, with the sword. They showed them no mercy. The people of Edom were continually angry. And they did not hold back their great anger."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "So I will send fire on the city of Teman. That fire will even destroy the strong towers of Bozrah.\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "The People of Ammon This is what the Lord says: \u201cFor the many crimes Ammon is doing, I will punish them. They ripped open the pregnant women in Gilead. They did this so they could take over that land and make their own country larger."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "So I will send fire on the walls of Rabbah. That fire will destroy the city\u2019s strong towers. It will come during a day of battle. There will be strong winds on a stormy day."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Then their king and leaders will be captured. They will all be taken away together,\u201d says the Lord."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "The People of Moab This is what the Lord says: \u201cFor the many crimes Moab is doing, I will punish them. They burned the bones of the king of Edom into lime."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "So I will send fire on Moab. And it will destroy the strong towers of the city of Kerioth. The people of Moab will die in a great noise. They will die in the middle of sounds of war and trumpets."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "So I will bring an end to the king of Moab. And I will kill all its leaders with him,\u201d says the Lord."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "The People of Judah This is what the Lord says: \u201cFor the many crimes Judah is doing, I will punish them. They rejected the teachings of the Lord. They did not keep his commands. Their ancestors followed false gods. And Judah followed those same gods."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "So I will send fire on Judah. It will destroy the strong towers of Jerusalem.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Israel Is Punished - This is what the Lord says: \u201cFor the many crimes Israel is doing, I will punish them. For silver they sell people who have done nothing wrong. They sell poor people for the price of a pair of sandals."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "They walk on poor people as if they were dirt. They refuse to be fair to those who are suffering. Fathers and sons have physical relations with the same woman. By doing this they ruin my holy name."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "As they worship at their altars, they lie down on clothes taken from poor people. They make people pay money as punishment. With that money they buy wine to drink in the house of their god."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201cBut it was I who destroyed the Amorites before them. The Amorites were tall like cedar trees and as strong as oaks. But I destroyed them completely."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "It was I who brought you from the land of Egypt. For 40 years I led you through the desert. I led you so I could give you the land of the Amorites."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "I made some of your sons to be prophets. I made some of your young men to be Nazirites. People of Israel, isn\u2019t this true?\u201d says the Lord."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201cBut you made the Nazirites drink wine. You told the prophets not to prophesy my message."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Now I will crush you as a wagon loaded with grain crushes anything beneath it."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "No one will escape, not even the fastest runner. Strong men will not be strong enough. Warriors will not be able to save themselves."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Soldiers with bows and arrows will not stand and fight. Even soldiers who run quickly will not get away. Soldiers on horses will not escape alive."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "At that time even the bravest warriors will run away without their armor,\u201d says the Lord."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Warning to Israel - Listen to this message that the Lord has spoken against you, people of Israel. The message is against the whole nation the Lord brought out of Egypt."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201cI have chosen only you out of all the families of the earth. So I will punish you for all your sins.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Two people will not walk together unless they have agreed to do this."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A lion in the forest will roar when he has caught an animal. He does not growl in his den when he has caught nothing."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "A bird will not fall into a trap where there is no bait. The trap will not spring shut if there is nothing to catch."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "When a trumpet blows a warning, the people tremble. When trouble comes to a city, the Lord has caused it."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Before the Lord God does anything, he tells his servants the prophets."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "The lion has roared! Who wouldn\u2019t be afraid? The Lord God has spoken, and I must prophesy his message."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Announce this to the strong towers of Ashdod. Announce it to the strong cities of Egypt: \u201cCome to the mountains of Samaria. There you will see great confusion. You will see people hurting others.\u201d"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201cThe people don\u2019t know how to do what is right,\u201d says the Lord. \u201cTheir strong cities are filled with treasures they took by force from others.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "So this is what the Lord God says: \u201cAn enemy will take over the land. He will pull down your strong towers. He will take the treasures you hid in your strong cities.\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "This is what the Lord says: \u201cA shepherd might save from a lion\u2019s mouth only two leg bones or a scrap of an ear of his sheep. In the same way only a few Israelites will be saved. These people now sit on their beds in Samaria. They sit on their couches.\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u201cYou nations, listen to what I say against the family of Israel. You are my witnesses against them,\u201d says the Lord God, the God of heaven\u2019s armies."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u201cThe people of Israel sinned, and I will punish them. I will also destroy the altars at Bethel. The corners of the altar will be cut off, and they will fall to the ground."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "I will tear down the winter house, together with the summer house. The houses decorated with ivory will be destroyed. And the great houses will come to an end,\u201d says the Lord."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Israel Will Not Return - Listen to this message, you rich women on the Mountain of Samaria. You take things from the poor and crush people who are in need. You tell your husbands, \u201cBring us money so we can drink!\u201d"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "The Lord God has promised this: \u201cIt is certain that I am a holy God. So it is certain that the time will come when some of you will be taken away by hooks. The rest of you will be taken away with fishhooks."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "You will go straight out of the city through holes in the walls. And you will be thrown on the garbage dump,\u201d says the Lord."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u201cGo to the city of Bethel and sin. Go to Gilgal and sin even more. Offer your sacrifices every morning. Bring one-tenth of your crops on the third day."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Offer bread made with yeast as a sacrifice to show your thanks. And brag about the offerings you bring to show thanks to the Lord. Brag about these things, Israelites. This is what you love to do,\u201d says the Lord God."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u201cI did not give you any food to eat. There was not enough food in any of your towns. But you did not come back to me,\u201d says the Lord."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u201cI held back the rain from you three months before harvest time. Then I let it rain on one city but not on another. Rain fell on one field, but another field got none and dried up."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "People weak from thirst went from town to town for water. But they could not get enough water to drink. But you still did not come back to me,\u201d says the Lord."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201cI made your crops die from disease and mildew. I destroyed your gardens and your vineyards. Locusts ate your fig trees and olive trees. But you still did not come back to me,\u201d says the Lord."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201cI sent disasters against you, as I did to Egypt. I killed your young men with swords. I also killed your horses. I made you smell the stink from all the dead bodies. But you still did not come back to me,\u201d says the Lord."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u201cI destroyed some of you as I destroyed Sodom and Gomorrah. You were like a burning stick pulled from a fire. But you still have not come back to me,\u201d says the Lord."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201cSo this is what I will do to you, Israel. And because I will do this to you, get ready to meet your God, Israel.\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "He is the one who makes the mountains. He creates the wind. He makes his thoughts known to man. He changes the dawn into darkness. He walks over the mountains of the earth. His name is the Lord God of heaven\u2019s armies."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Israel Needs a Change of Heart - Listen to this funeral song that I sing about you, people of Israel."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201cIsrael has fallen. It will not rise up again. It was left alone in the land. There is no one to lift it up.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "This is what the Lord God says: \u201cIf 1,000 soldiers leave a city, only 100 will return. If 100 soldiers leave a city, only 10 will return.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "This is what the Lord says to the nation of Israel: \u201cCome to me and live."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "But do not look in Bethel. Do not go to Gilgal, and do not go down to Beersheba. The people of Gilgal will be taken away as captives. And Bethel will become nothing.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Come to the Lord and live. If you don\u2019t, he will destroy the descendants of Joseph as a fire would. The fire will burn. But there will be no one to put it out for Bethel."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "You change the justice of the courts into something unfair. You reject what is right."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "God is the one who made the star groups Pleiades and Orion. He changes darkness into the morning light. And he changes the day into the dark night. He calls for the waters of the sea to pour out on the earth. The Lord is his name."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "He destroys the protected city. And he ruins the strong, walled city."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "You hate those who speak in court against evil. And you hate those who tell the truth."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "You walk on poor people. You force them to give you grain. You have built fancy houses of cut stone. But you will not live in them. You have planted beautiful vineyards. But you will not drink the wine from them."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "It is because I know your many crimes. I know your terrible sins. You hurt people who do right. You accept money to do wrong. You keep the poor from getting justice in court."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "In such times the wise man will keep quiet, because it is a bad time."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Try to do good, not evil. Then you will live. And the Lord God of heaven\u2019s armies will be with you just as you say he is."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Hate evil and love good. Be fair in the courts. Maybe the Lord God of heaven\u2019s armies will be kind to the people of Joseph who are left alive."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "This is what the Lord, the Lord God of heaven\u2019s armies, says: \u201cPeople will be crying in all the public places. They will be saying, \u2018Oh, no!\u2019 in the streets. They will call the farmers to come and weep. They will pay people to cry out loud for them."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "People will be crying in all the vineyards. This is because I will pass among you to punish you,\u201d says the Lord."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "The Lord\u2019s Day of Judging - How terrible it will be for you who want the Lord\u2019s day of judging to come. Why do you want that day to come? It will bring darkness for you, not light."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "It will be like a man who runs from a lion and meets a bear. It will be like him going into his house and putting his hand on the wall. And then a snake bites him."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "So the Lord\u2019s day of judging will bring darkness, not light. It will be a time of sadness, not joy."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "The Lord says, \u201cI hate and reject your feasts. I cannot stand your religious meetings."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "You offer me burnt offerings and grain offerings. But I won\u2019t accept them. You bring the best fellowship offerings. But I will ignore them."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Take the noise of your songs away from here! I won\u2019t listen to the music of your harps."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "But let justice flow like a river. Let goodness flow like a never-ending stream."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u201cPeople of Israel, you did not bring me sacrifices and offerings while you traveled in the desert for 40 years."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "But now you will have to carry with you your king, the false god Sakkuth, and Kaiwan your idol and the idols of your other star gods you have made."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "This is because I will send you away as captives beyond Damascus,\u201d says the Lord. His name is God of heaven\u2019s armies."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Israel Will Be Destroyed - How terrible it will be for you who have it easy in Jerusalem. How terrible for you who live on Mount Samaria and feel safe. You think you are important people of the best nation in the world. The Israelites come to you for help."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Go look at the city of Calneh. From there go to the great city Hamath. Go down to Gath of the Philistines. Are you better than these kingdoms? Are their lands larger than yours?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "You put off the day of punishment. But you bring near the day when you can do evil to others."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "You lie on beds decorated with ivory. You stretch out on your couches. You eat tender lambs and fattened calves."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "You play your harps. Like David, you compose songs on musical instruments."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "You drink wine by the bowlful. You use the best perfumed lotions. But you are not sad over the ruin of Israel, Joseph\u2019s descendants."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "So you will be some of the first ones taken as slaves. Your feasting and lying around will come to an end."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "The Lord God made this promise. The Lord God of heaven\u2019s armies says: \u201cI hate the pride of the people of Israel. I hate their strong towers. So I will let the enemy take the city and everything in it.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "At that time there might be ten people left alive in a house. But they will also die."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A relative and one who is to prepare bodies for burial may come to get the bodies. One of them will take the bodies out to burn them. He will call to the other and ask, \u201cAre there any other dead bodies with you?\u201d That person will answer, \u201cNo.\u201d Then the one who asked will say, \u201cHush! We must not speak the name of the Lord.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "The Lord has given the command. The large house will be broken into pieces. And the small house will be broken into bits."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Horses do not run on rocks. People do not plow rocks with oxen. But you have changed fairness into poison. You have changed what is right into something wrong."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "You are happy that the town of Lo Debar was taken. You say, \u201cWe have taken Karnaim by our own strength.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "The Lord God of heaven\u2019s armies says, \u201cIsrael, I will bring a nation against you. It will bring trouble for you from Lebo Hamath in the north to the valley south of the Dead Sea.\u201d"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "The Vision of Locusts - This is what the Lord God showed me: He was forming a swarm of locusts. This was after the king had taken his share of the first crop. The second crop had just begun growing."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "The locusts ate all the crops in the country. After that I said, \u201cLord God, forgive us, I beg you! No one in Israel could live through this. Israel is too small already!\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "So the Lord felt sorry about this. \u201cThis will not happen,\u201d said the Lord."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "The Vision of Fire - This is what the Lord God showed me: The Lord God was calling for fire to come to punish. The fire dried up the deep water and destroyed the land."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Then I cried out, \u201cLord God, stop, I beg you! No one in Israel could live through this. Israel is too small already.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "So the Lord felt sorry about this. \u201cThis will not happen either,\u201d said the Lord God."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "The Vision of the Plumb Line - This is what the Lord showed me: The Lord stood by a straight wall. He had a plumb line in his hand."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "The Lord said to me, \u201cAmos, what do you see?\u201d I said, \u201cA plumb line.\u201d Then the Lord said, \u201cSee, I will put a plumb line among my people Israel to show how crooked they are. I will not feel sorry for them any longer."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201cThe places where Isaac\u2019s descendants worship will be destroyed. Israel\u2019s holy places will be turned into ruins. And I will attack King Jeroboam\u2019s family with the sword.\u201d"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Amaziah and Amos - So Amaziah, a priest at Bethel, sent this message to Jeroboam king of Israel: \u201cAmos is making evil plans against you with the people of Israel. He has been speaking so much that this land can\u2019t hold all his words."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Amos has said this: \u2018Jeroboam will die by the sword, and the people of Israel will be taken as captives out of their own country.\u2019\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Then Amaziah said to Amos, \u201cSeer, go, run away to Judah. Do your prophesying and earn your living there."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "But don\u2019t prophesy anymore here at Bethel. This is King Jeroboam\u2019s holy place. This is Israel\u2019s temple.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Then Amos answered Amaziah, \u201cI do not make my living as a prophet. And I am not a member of a group of prophets. I make my living as a shepherd. And I take care of sycamore trees."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "But the Lord took me away from tending the sheep. He said to me, \u2018Go, prophesy to my people, the Israelites.\u2019"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "So listen to the Lord\u2019s message. You tell me, \u2018Don\u2019t prophesy against Israel. And stop prophesying against the descendants of Isaac.\u2019"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u201cBecause you have said this, the Lord says: \u2018Your wife will become a prostitute in the city. Your sons and daughters will be killed with swords. Other people will take your land and divide it among themselves. And you will die in a foreign country. The people of Israel will definitely be taken from their own land as captives.\u2019\u201d"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "The Vision of Ripe Fruit - This is what the Lord showed me: a basket of ripe fruit."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "The Lord said to me, \u201cAmos, what do you see?\u201d I said, \u201cA basket of fruit from the end of the harvest.\u201d Then the Lord said to me, \u201cAn end has come for my people, the Israelites. I will not overlook their sins anymore."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u201cOn that day the palace songs will become funeral songs,\u201d says the Lord God. \u201cThere will be dead bodies thrown everywhere! Silence!\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Listen to me you who walk on helpless people. You are trying to destroy the poor people of this country."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Your businessmen say, \u201cWhen will the New Moon Festival be over so we can sell grain? When will the Sabbath be over so we can bring out wheat to sell? We can charge them more and give them less. We can change the scales to cheat the people."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "We will buy poor people for silver. And we will buy needy people for the price of a pair of sandals. We will even sell the wheat that was swept up from the floor.\u201d"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "The Lord used his name, the Pride of Jacob, to make a promise. He said, \u201cI will never forget what these people did."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "The whole land will shake because of it. Everyone who lives in the land will cry for those who died. The whole land will rise like the Nile. It will be shaken, and then it will fall like the Nile River in Egypt.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "The Lord God says: \u201cAt that time I will cause the sun to go down at noon. I will make the earth dark on a clear day."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I will change your festivals into days of crying for the dead. All your songs will become songs of sadness for the dead. I will make all of you wear rough cloth to show your sadness. You will shave your heads to show sadness. I will make that day like the crying for the death of an only son. Its end will be very painful.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "The Lord God says: \u201cThe days are coming when I will cause a time of hunger in the land. The people will not be hungry for bread or thirsty for water. But they will be hungry for words from the Lord."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "People will wander from the Mediterranean Sea to the Dead Sea. They will wander from the north to the east. They will search for the word of the Lord. But they won\u2019t find it."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "At that time the beautiful young women and the young men will become weak from thirst."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "They made promises by the idol in Samaria. They said, \u2018As surely as the god of Dan lives\u00a0.\u00a0.\u00a0.\u2019 And they said, \u2018As surely as the god of Beersheba lives, we promise\u00a0.\u00a0.\u00a0.\u2019 So they will fall and never get up again.\u201d"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Israel Will Be Destroyed - I saw the Lord standing by the altar. He said: \u201cSmash the top of the pillars so that even the bottom of the doors will shake. Make the pillars fall on the people\u2019s heads. Anyone left alive I will kill with a sword. Not one person will get away. No one will escape."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "If they dig down as deep as where the dead are, I will pull them up from there. If they climb up into the skies, I will bring them down from there."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "If they hide at the top of Mount Carmel, I will find them and take them away. If they try to hide from me at the bottom of the sea, I will command a snake to bite them."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "If they are captured and taken away by their enemies, I will command the sword to kill them. I will keep watch over them. But I will keep watch to give them trouble, not to do them good.\u201d"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "The Master, the Lord of heaven\u2019s armies, will touch the land. And the land will shake. Then everyone who lives in the land will cry for the dead. The whole land will rise like the Nile River. It will fall like the river of Egypt."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "The Lord built his upper rooms above the skies. He sets their foundations on the earth. He calls for the waters of the sea. He pours them out on the land. The Lord is his name."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "The Lord says this: \u201cIsrael, you are no different to me than the people of Cush. I brought Israel out of the land of Egypt. I also brought the Philistines from Crete and the Arameans from Kir."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "I, the Lord God, am watching the sinful kingdom Israel. I will destroy Israel from the earth\u2019s surface. But I will not completely destroy Jacob\u2019s descendants,\u201d says the Lord."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201cI am giving the command to scatter the nation of Israel among all nations. It will be like someone sifting flour. A person shakes flour through a sifter. The good flour falls through, but not the bad clumps."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sinners among my people will die by the sword. All of them say, \u2018Nothing bad will happen to us.\u2019"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "The Lord Promises to Restore Israel - \u201cThe kingdom of David is like a fallen tent. But in that day I will set it up again and mend its broken places. I will rebuild its ruins. I will rebuild it as it was before."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Then Israel will take over what is left of Edom and the other nations that belong to me,\u201d says the Lord. And he will make it happen."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "The Lord says, \u201cThe time is coming when there will be plenty of food. A person will still be harvesting his crops when it\u2019s time to plow again. A person will still be taking the juice from his grapes when it\u2019s time to plant again. Sweet wine will drip from the mountains. And it will pour from the hills."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "I will bring my people Israel back from captivity. They will build the ruined cities again. And they will live in them. They will plant vineyards and drink the wine from them. They will plant gardens and eat their fruit."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "I will plant my people on their land. And they will not be pulled out again from the land which I have given them,\u201d says the Lord your God."
+                }
+            }
+        }
+    }
+}

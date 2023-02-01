@@ -1,0 +1,955 @@
+{
+    "version": "ARC",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A vaidade de todas as coisas terrestres - Palavras do pregador, filho de Davi, rei em Jerusal\u00e9m:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Vaidade de vaidades! \u2014 diz o pregador, vaidade de vaidades! \u00c9 tudo vaidade."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Que vantagem tem o homem de todo o seu trabalho, que ele faz debaixo do sol?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Uma gera\u00e7\u00e3o vai, e outra gera\u00e7\u00e3o vem; mas a terra para sempre permanece."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "E nasce o sol, e p\u00f5e-se o sol, e volta ao seu lugar, de onde nasceu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "O vento vai para o sul e faz o seu giro para o norte; continuamente vai girando o vento e volta fazendo os seus circuitos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Todos os ribeiros v\u00e3o para o mar, e, contudo, o mar n\u00e3o se enche; para o lugar para onde os ribeiros v\u00e3o, para a\u00ed tornam eles a ir."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Todas essas coisas se cansam tanto, que ningu\u00e9m o pode declarar; os olhos n\u00e3o se fartam de ver, nem os ouvidos de ouvir."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "O que foi, isso \u00e9 o que h\u00e1 de ser; e o que se fez, isso se tornar\u00e1 a fazer; de modo que nada h\u00e1 novo debaixo do sol."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "H\u00e1 alguma coisa de que se possa dizer: V\u00ea, isto \u00e9 novo? J\u00e1 foi nos s\u00e9culos passados, que foram antes de n\u00f3s."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "J\u00e1 n\u00e3o h\u00e1 lembran\u00e7a das coisas que precederam; e das coisas que h\u00e3o de ser tamb\u00e9m delas n\u00e3o haver\u00e1 lembran\u00e7a, nos que h\u00e3o de vir depois."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Eu, o pregador, fui rei sobre Israel em Jerusal\u00e9m."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "E apliquei o meu cora\u00e7\u00e3o a esquadrinhar e a informar-me com sabedoria de tudo quanto sucede debaixo do c\u00e9u; essa enfadonha ocupa\u00e7\u00e3o deu Deus aos filhos dos homens, para nela os exercitar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Atentei para todas as obras que se fazem debaixo do sol, e eis que tudo era vaidade e afli\u00e7\u00e3o de esp\u00edrito."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Aquilo que \u00e9 torto n\u00e3o se pode endireitar; aquilo que falta n\u00e3o pode ser calculado."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Falei eu com o meu cora\u00e7\u00e3o, dizendo: Eis que eu me engrandeci e sobrepujei em sabedoria a todos os que houve antes de mim, em Jerusal\u00e9m; na verdade, o meu cora\u00e7\u00e3o contemplou abundantemente a sabedoria e a ci\u00eancia."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "E apliquei o meu cora\u00e7\u00e3o a conhecer a sabedoria e a conhecer os desvarios e as loucuras e vim a saber que tamb\u00e9m isso era afli\u00e7\u00e3o de esp\u00edrito."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Porque, na muita sabedoria, h\u00e1 muito enfado; e o que aumenta em ci\u00eancia aumenta em trabalho."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Os prazeres e as riquezas n\u00e3o d\u00e3o felicidade - Disse eu no meu cora\u00e7\u00e3o: Ora, vem, eu te provarei com a alegria; portanto, goza o prazer; mas eis que tamb\u00e9m isso era vaidade."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Do riso disse: Est\u00e1 doido; e da alegria: De que serve esta?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Busquei no meu cora\u00e7\u00e3o como me daria ao vinho (regendo, por\u00e9m, o meu cora\u00e7\u00e3o com sabedoria) e como reteria a loucura, at\u00e9 ver o que seria melhor que os filhos dos homens fizessem debaixo do c\u00e9u, durante o n\u00famero dos dias de sua vida."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Fiz para mim obras magn\u00edficas; edifiquei para mim casas; plantei para mim vinhas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Fiz para mim hortas e jardins e plantei neles \u00e1rvores de toda esp\u00e9cie de fruto."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Fiz para mim tanques de \u00e1guas, para regar com eles o bosque em que reverdeciam as \u00e1rvores."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Adquiri servos e servas e tive servos nascidos em casa; tamb\u00e9m tive grande possess\u00e3o de vacas e ovelhas, mais do que todos os que houve antes de mim, em Jerusal\u00e9m."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Amontoei tamb\u00e9m para mim prata, e ouro, e joias de reis e das prov\u00edncias; provi-me de cantores, e de cantoras, e das del\u00edcias dos filhos dos homens, e de instrumentos de m\u00fasica de toda sorte."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "E engrandeci-me e aumentei mais do que todos os que houve antes de mim, em Jerusal\u00e9m; perseverou tamb\u00e9m comigo a minha sabedoria."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "E tudo quanto desejaram os meus olhos n\u00e3o lhos neguei, nem privei o meu cora\u00e7\u00e3o de alegria alguma; mas o meu cora\u00e7\u00e3o se alegrou por todo o meu trabalho, e esta foi a minha por\u00e7\u00e3o de todo o meu trabalho."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "E olhei eu para todas as obras que fizeram as minhas m\u00e3os, como tamb\u00e9m para o trabalho que eu, trabalhando, tinha feito; e eis que tudo era vaidade e afli\u00e7\u00e3o de esp\u00edrito e que proveito nenhum havia debaixo do sol."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ent\u00e3o, passei \u00e0 contempla\u00e7\u00e3o da sabedoria, e dos desvarios, e da doidice; porque que far\u00e1 o homem que seguir ao rei? O mesmo que outros j\u00e1 fizeram."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ent\u00e3o, vi eu que a sabedoria \u00e9 mais excelente do que a estult\u00edcia, quanto a luz \u00e9 mais excelente do que as trevas."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Os olhos do s\u00e1bio est\u00e3o na sua cabe\u00e7a, mas o louco anda em trevas; tamb\u00e9m, ent\u00e3o, entendi eu que o mesmo lhes sucede a todos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pelo que eu disse no meu cora\u00e7\u00e3o: Como acontece ao tolo, assim me suceder\u00e1 a mim; por que, ent\u00e3o, busquei eu mais a sabedoria? Ent\u00e3o, disse no meu cora\u00e7\u00e3o que tamb\u00e9m isso era vaidade."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Porque nunca haver\u00e1 mais lembran\u00e7a do s\u00e1bio do que do tolo; porquanto de tudo nos dias futuros total esquecimento haver\u00e1. E como morre o s\u00e1bio, assim morre o tolo!"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pelo que aborreci esta vida, porque a obra que se faz debaixo do sol me era penosa; sim, tudo \u00e9 vaidade e afli\u00e7\u00e3o de esp\u00edrito."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tamb\u00e9m eu aborreci todo o meu trabalho, em que trabalhei debaixo do sol, visto como eu havia de deix\u00e1-lo ao homem que viesse depois de mim."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "E quem sabe se ser\u00e1 s\u00e1bio ou tolo? Contudo, ele se assenhorear\u00e1 de todo o meu trabalho em que trabalhei e em que me houve sabiamente debaixo do sol; tamb\u00e9m isso \u00e9 vaidade."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Pelo que eu me apliquei a fazer que o meu cora\u00e7\u00e3o perdesse a esperan\u00e7a de todo trabalho em que trabalhei debaixo do sol."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Porque h\u00e1 homem cujo trabalho \u00e9 feito com sabedoria, e ci\u00eancia, e destreza; contudo, a um homem que n\u00e3o trabalhou nele, o deixar\u00e1 como por\u00e7\u00e3o sua; tamb\u00e9m isso \u00e9 vaidade e grande enfado."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Porque que mais tem o homem de todo o seu trabalho e da fadiga do seu cora\u00e7\u00e3o, em que ele anda trabalhando debaixo do sol?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Porque todos os seus dias s\u00e3o dores, e a sua ocupa\u00e7\u00e3o \u00e9 desgosto; at\u00e9 de noite n\u00e3o descansa o seu cora\u00e7\u00e3o; tamb\u00e9m isso \u00e9 vaidade."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "N\u00e3o \u00e9, pois, bom para o homem que coma e beba e que fa\u00e7a gozar a sua alma do bem do seu trabalho? Isso tamb\u00e9m eu vi que vem da m\u00e3o de Deus."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "(Porque quem pode comer ou quem pode gozar melhor do que eu?)"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Porque ao homem que \u00e9 bom diante dele, d\u00e1 Deus sabedoria, e conhecimento, e alegria; mas ao pecador d\u00e1 trabalho, para que ele ajunte, e amontoe, e o d\u00ea ao bom perante a sua face. Tamb\u00e9m isso \u00e9 vaidade e afli\u00e7\u00e3o de esp\u00edrito."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "H\u00e1 para todas as coisas um tempo determinado por Deus - Tudo tem o seu tempo determinado, e h\u00e1 tempo para todo o prop\u00f3sito debaixo do c\u00e9u:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "h\u00e1 tempo de nascer e tempo de morrer; tempo de plantar e tempo de arrancar o que se plantou;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "tempo de matar e tempo de curar; tempo de derribar e tempo de edificar;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "tempo de chorar e tempo de rir; tempo de prantear e tempo de saltar;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "tempo de espalhar pedras e tempo de ajuntar pedras; tempo de abra\u00e7ar e tempo de afastar-se de abra\u00e7ar;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "tempo de buscar e tempo de perder; tempo de guardar e tempo de deitar fora;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "tempo de rasgar e tempo de coser; tempo de estar calado e tempo de falar;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "tempo de amar e tempo de aborrecer; tempo de guerra e tempo de paz."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Que vantagem tem o trabalhador naquilo em que trabalha?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tenho visto o trabalho que Deus deu aos filhos dos homens, para com ele os afligir."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tudo fez formoso em seu tempo; tamb\u00e9m p\u00f4s o mundo no cora\u00e7\u00e3o deles, sem que o homem possa descobrir a obra que Deus fez desde o princ\u00edpio at\u00e9 ao fim."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "J\u00e1 tenho conhecido que n\u00e3o h\u00e1 coisa melhor para eles do que se alegrarem e fazerem bem na sua vida;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "e tamb\u00e9m que todo homem coma e beba e goze do bem de todo o seu trabalho. Isso \u00e9 um dom de Deus."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Eu sei que tudo quanto Deus faz durar\u00e1 eternamente; nada se lhe deve acrescentar e nada se lhe deve tirar. E isso faz Deus para que haja temor diante dele."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "O que \u00e9 j\u00e1 foi; e o que h\u00e1 de ser tamb\u00e9m j\u00e1 foi; e Deus pede conta do que passou."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vi mais debaixo do sol: no lugar do ju\u00edzo, impiedade; e no lugar da justi\u00e7a, impiedade ainda."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Eu disse no meu cora\u00e7\u00e3o: Deus julgar\u00e1 o justo e o \u00edmpio; porque h\u00e1 um tempo para todo intento e para toda obra."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Disse eu no meu cora\u00e7\u00e3o: \u00e9 por causa dos filhos dos homens, para que Deus possa prov\u00e1-los, e eles possam ver que s\u00e3o em si mesmos como os animais."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Porque o que sucede aos filhos dos homens, isso mesmo tamb\u00e9m sucede aos animais; a mesma coisa lhes sucede: como morre um, assim morre o outro, todos t\u00eam o mesmo f\u00f4lego; e a vantagem dos homens sobre os animais n\u00e3o \u00e9 nenhuma, porque todos s\u00e3o vaidade."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Todos v\u00e3o para um lugar; todos s\u00e3o p\u00f3 e todos ao p\u00f3 tornar\u00e3o."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Quem adverte que o f\u00f4lego dos filhos dos homens sobe para cima e que o f\u00f4lego dos animais desce para baixo da terra?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Assim que tenho visto que n\u00e3o h\u00e1 coisa melhor do que alegrar-se o homem nas suas obras, porque essa \u00e9 a sua por\u00e7\u00e3o; porque quem o far\u00e1 voltar para ver o que ser\u00e1 depois dele?"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Os males e as tribula\u00e7\u00f5es da vida - Depois, voltei-me e atentei para todas as opress\u00f5es que se fazem debaixo do sol; e eis que vi as l\u00e1grimas dos que foram oprimidos e dos que n\u00e3o t\u00eam consolador; e a for\u00e7a estava da banda dos seus opressores; mas eles n\u00e3o tinham nenhum consolador."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Pelo que eu louvei os que j\u00e1 morreram, mais do que os que vivem ainda."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "E melhor que uns e outros \u00e9 aquele que ainda n\u00e3o \u00e9; que n\u00e3o viu as m\u00e1s obras que se fazem debaixo do sol."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tamb\u00e9m vi eu que todo trabalho e toda destreza em obras trazem ao homem a inveja do seu pr\u00f3ximo. Tamb\u00e9m isso \u00e9 vaidade e afli\u00e7\u00e3o de esp\u00edrito."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "O tolo cruza as suas m\u00e3os e come a sua pr\u00f3pria carne."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Melhor \u00e9 uma m\u00e3o cheia com descanso do que ambas as m\u00e3os cheias com trabalho e afli\u00e7\u00e3o de esp\u00edrito."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Outra vez me voltei e vi vaidade debaixo do sol."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "H\u00e1 um que \u00e9 s\u00f3 e n\u00e3o tem segundo; sim, ele n\u00e3o tem filho nem irm\u00e3; e, contudo, de todo o seu trabalho n\u00e3o h\u00e1 fim, nem os seus olhos se fartam de riquezas; e n\u00e3o diz: Para quem trabalho eu, privando a minha alma do bem? Tamb\u00e9m isso \u00e9 vaidade e enfadonha ocupa\u00e7\u00e3o."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Melhor \u00e9 serem dois do que um, porque t\u00eam melhor paga do seu trabalho."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Porque, se um cair, o outro levanta o seu companheiro; mas ai do que estiver s\u00f3; pois, caindo, n\u00e3o haver\u00e1 outro que o levante."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tamb\u00e9m se dois dormirem juntos, eles se aquentar\u00e3o; mas um s\u00f3 como se aquentar\u00e1?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "E, se algu\u00e9m quiser prevalecer contra um, os dois lhe resistir\u00e3o; e o cord\u00e3o de tr\u00eas dobras n\u00e3o se quebra t\u00e3o depressa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Melhor \u00e9 o jovem pobre e s\u00e1bio do que o rei velho e insensato, que se n\u00e3o deixa mais admoestar."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque um sai do c\u00e1rcere para reinar; sim, um que nasceu pobre no seu reino."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Vi todos os viventes andarem debaixo do sol com o jovem, o sucessor, que ficar\u00e1 em seu lugar."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "N\u00e3o tem fim todo o povo, todo o que ele domina; tampouco os descendentes se alegrar\u00e3o dele. Na verdade que tamb\u00e9m isso \u00e9 vaidade e afli\u00e7\u00e3o de esp\u00edrito."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u00e1rios conselhos pr\u00e1ticos - Guarda o teu p\u00e9, quando entrares na Casa de Deus; e inclina-te mais a ouvir do que a oferecer sacrif\u00edcios de tolos, pois n\u00e3o sabem que fazem mal."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "N\u00e3o te precipites com a tua boca, nem o teu cora\u00e7\u00e3o se apresse a pronunciar palavra alguma diante de Deus; porque Deus est\u00e1 nos c\u00e9us, e tu est\u00e1s sobre a terra; pelo que sejam poucas as tuas palavras."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Porque da muita ocupa\u00e7\u00e3o v\u00eam os sonhos, e a voz do tolo, da multid\u00e3o das palavras."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Quando a Deus fizeres algum voto, n\u00e3o tardes em cumpri-lo; porque n\u00e3o se agrada de tolos; o que votares, paga-o."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Melhor \u00e9 que n\u00e3o votes do que votes e n\u00e3o pagues."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "N\u00e3o consintas que a tua boca fa\u00e7a pecar a tua carne, nem digas diante do anjo que foi erro; por que raz\u00e3o se iraria Deus contra a tua voz, de sorte que destru\u00edsse a obra das tuas m\u00e3os?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Porque, como na multid\u00e3o dos sonhos h\u00e1 vaidades, assim tamb\u00e9m nas muitas palavras; mas tu, teme a Deus."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Se vires em alguma prov\u00edncia opress\u00e3o de pobres e a viol\u00eancia em lugar do ju\u00edzo e da justi\u00e7a, n\u00e3o te maravilhes de semelhante caso; porque o que mais alto \u00e9 do que os altos para isso atenta; e h\u00e1 mais altos do que eles."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "O proveito da terra \u00e9 para todos; at\u00e9 o rei se serve do campo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "O que amar o dinheiro nunca se fartar\u00e1 de dinheiro; e quem amar a abund\u00e2ncia nunca se fartar\u00e1 da renda; tamb\u00e9m isso \u00e9 vaidade."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Onde a fazenda se multiplica, a\u00ed se multiplicam tamb\u00e9m os que a comem; que mais proveito, pois, t\u00eam os seus donos do que a verem com os seus olhos?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Doce \u00e9 o sono do trabalhador, quer coma pouco quer muito; mas a fartura do rico n\u00e3o o deixa dormir."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "H\u00e1 mal que vi debaixo do sol e atrai enfermidades: as riquezas que os seus donos guardam para o pr\u00f3prio dano."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque as mesmas riquezas se perdem por qualquer m\u00e1 aventura; e, havendo algum filho, nada fica na sua m\u00e3o."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Como saiu do ventre de sua m\u00e3e, assim nu voltar\u00e1, indo-se como veio; e nada tomar\u00e1 do seu trabalho, que possa levar na sua m\u00e3o."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Tamb\u00e9m isto \u00e9 um mal que causa enfermidades: que, infalivelmente, como veio, assim ele vai; e que proveito lhe vem de trabalhar para o vento,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "e de haver comido todos os seus dias nas trevas, e de haver padecido muito enfado, e enfermidades, e cruel furor?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Eis aqui o que eu vi, uma boa e bela coisa: comer, e beber, e gozar cada um do bem de todo o seu trabalho, em que trabalhou debaixo do sol, todos os dias da sua vida que Deus lhe deu; porque esta \u00e9 a sua por\u00e7\u00e3o."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "E quanto ao homem, a quem Deus deu riquezas e fazenda e lhe deu poder para delas comer, e tomar a sua por\u00e7\u00e3o, e gozar do seu trabalho, isso \u00e9 dom de Deus."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Porque n\u00e3o se lembrar\u00e1 muito dos dias da sua vida; porquanto Deus lhe responde na alegria do seu cora\u00e7\u00e3o."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c9 l\u00edcito gozar os bens que Deus deu, mas estes n\u00e3o podem satisfazer a alma - H\u00e1 um mal que tenho visto debaixo do sol e que mui frequente \u00e9 entre os homens:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "um homem a quem Deus deu riquezas, fazenda e honra, e nada lhe falta de tudo quanto a sua alma deseja, mas Deus n\u00e3o lhe d\u00e1 poder para da\u00ed comer; antes, o estranho lho come; tamb\u00e9m isso \u00e9 vaidade e m\u00e1 enfermidade."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Se o homem gerar cem filhos e viver muitos anos, e os dias dos seus anos forem muitos, e se a sua alma se n\u00e3o fartar do bem, e al\u00e9m disso n\u00e3o tiver um enterro, digo que um aborto \u00e9 melhor do que ele,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "porquanto debalde veio e em trevas se vai, e de trevas se cobre o seu nome."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "E, ainda que nunca viu o sol, nem o conheceu, mais descanso tem do que o tal."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "E certamente, ainda que vivesse duas vezes mil anos, mas n\u00e3o gozasse o bem, n\u00e3o v\u00e3o todos para um mesmo lugar?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Todo trabalho do homem \u00e9 para a sua boca, e, contudo, nunca se satisfaz a sua cobi\u00e7a."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Porque, que mais tem o s\u00e1bio do que o tolo? E que mais tem o pobre que sabe andar perante os vivos?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Melhor \u00e9 a vista dos olhos do que o vaguear da cobi\u00e7a; tamb\u00e9m isso \u00e9 vaidade e afli\u00e7\u00e3o de esp\u00edrito."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Seja qualquer o que for, j\u00e1 o seu nome foi nomeado, e sabe-se que \u00e9 homem e que n\u00e3o pode contender com o que \u00e9 mais forte do que ele."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sendo certo que h\u00e1 muitas coisas que aumentam a vaidade, que mais tem o homem de melhor?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque, quem sabe o que \u00e9 bom nesta vida para o homem, por todos os dias da sua vaidade, os quais gasta como sombra? Porque, quem declarar\u00e1 ao homem o que ser\u00e1 depois dele debaixo do sol?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "As vantagens do sofrimento, da paci\u00eancia e da modera\u00e7\u00e3o - Melhor \u00e9 a boa fama do que o melhor unguento, e o dia da morte, do que o dia do nascimento de algu\u00e9m."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Melhor \u00e9 ir \u00e0 casa onde h\u00e1 luto do que ir \u00e0 casa onde h\u00e1 banquete, porque ali se v\u00ea o fim de todos os homens; e os vivos o aplicam ao seu cora\u00e7\u00e3o."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Melhor \u00e9 a tristeza do que o riso, porque com a tristeza do rosto se faz melhor o cora\u00e7\u00e3o."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "O cora\u00e7\u00e3o dos s\u00e1bios est\u00e1 na casa do luto, mas o cora\u00e7\u00e3o dos tolos, na casa da alegria."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Melhor \u00e9 ouvir a repreens\u00e3o do s\u00e1bio do que ouvir algu\u00e9m a can\u00e7\u00e3o do tolo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Porque qual o crepitar dos espinhos debaixo de uma panela, tal \u00e9 o riso do tolo; tamb\u00e9m isso \u00e9 vaidade."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Verdadeiramente a opress\u00e3o faz endoidecer at\u00e9 o s\u00e1bio, e o suborno corrompe o cora\u00e7\u00e3o."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Melhor \u00e9 o fim das coisas do que o princ\u00edpio delas; melhor \u00e9 o long\u00e2nimo do que o altivo de cora\u00e7\u00e3o."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "N\u00e3o te apresses no teu esp\u00edrito a irar-te, porque a ira abriga-se no seio dos tolos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nunca digas: Por que foram os dias passados melhores do que estes? Porque nunca com sabedoria isso perguntarias."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "T\u00e3o boa \u00e9 a sabedoria como a heran\u00e7a, e dela tiram proveito os que veem o sol."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque a sabedoria serve de sombra, como de sombra serve o dinheiro; mas a excel\u00eancia da sabedoria \u00e9 que ela d\u00e1 vida ao seu possuidor."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Atenta para a obra de Deus; porque quem poder\u00e1 endireitar o que ele fez torto?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "No dia da prosperidade, goza do bem, mas, no dia da adversidade, considera; porque tamb\u00e9m Deus fez este em oposi\u00e7\u00e3o \u00e0quele, para que o homem nada ache que tenha de vir depois dele."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tudo isso vi nos dias da minha vaidade; h\u00e1 um justo que perece na sua justi\u00e7a, e h\u00e1 um \u00edmpio que prolonga os seus dias na sua maldade."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "N\u00e3o sejas demasiadamente justo, nem demasiadamente s\u00e1bio; por que te destruirias a ti mesmo?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "N\u00e3o sejas demasiadamente \u00edmpio, nem sejas louco; por que morrerias fora de teu tempo?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Bom \u00e9 que retenhas isso e tamb\u00e9m disso n\u00e3o retires a tua m\u00e3o; porque quem teme a Deus escapa de tudo isso."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "A sabedoria fortalece o s\u00e1bio, mais do que dez governadores que haja na cidade."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Na verdade, n\u00e3o h\u00e1 homem justo sobre a terra, que fa\u00e7a bem e nunca peque."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Tampouco apliques o teu cora\u00e7\u00e3o a todas as palavras que se disserem, para que n\u00e3o venhas a ouvir que o teu servo te amaldi\u00e7oa."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Porque o teu cora\u00e7\u00e3o tamb\u00e9m j\u00e1 confessou muitas vezes que tu amaldi\u00e7oaste a outros."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Tudo isso inquiri com sabedoria e disse: Sabedoria adquirirei; mas ela ainda estava longe de mim."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Longe est\u00e1 o que foi e profund\u00edssimo; quem o achar\u00e1?"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Eu tornei a voltar-me e determinei em meu cora\u00e7\u00e3o saber, e inquirir, e buscar a sabedoria e a raz\u00e3o, e conhecer a loucura da impiedade e a doidice dos desvarios."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "E eu achei uma coisa mais amarga do que a morte: a mulher cujo cora\u00e7\u00e3o s\u00e3o redes e la\u00e7os e cujas m\u00e3os s\u00e3o ataduras; quem for bom diante de Deus escapar\u00e1 dela, mas o pecador vir\u00e1 a ser preso por ela."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Vedes aqui, isso achei, diz o Pregador, conferindo uma coisa com a outra para achar a causa,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "causa que a minha alma ainda busca, mas n\u00e3o a achei; um homem entre mil achei eu, mas uma mulher entre todas estas n\u00e3o achei."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Vede, isto t\u00e3o somente achei: que Deus fez ao homem reto, mas ele buscou muitas inven\u00e7\u00f5es."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A obedi\u00eancia devida ao rei - Quem \u00e9 como o s\u00e1bio? E quem sabe a interpreta\u00e7\u00e3o das coisas? A sabedoria do homem faz brilhar o seu rosto, e a dureza do seu rosto se muda."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Eu digo: observa o mandamento do rei, e isso em considera\u00e7\u00e3o para com o juramento de Deus."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "N\u00e3o te apresses a sair da presen\u00e7a dele, nem persistas em alguma coisa m\u00e1, porque ele faz tudo o que quer."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Porque a palavra do rei tem poder; e quem lhe dir\u00e1: Que fazes?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Quem guardar o mandamento n\u00e3o experimentar\u00e1 nenhum mal; e o cora\u00e7\u00e3o do s\u00e1bio discernir\u00e1 o tempo e o modo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Porque para todo prop\u00f3sito h\u00e1 tempo e modo; porquanto o mal do homem \u00e9 grande sobre ele."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Porque n\u00e3o sabe o que h\u00e1 de suceder; e, como haja de suceder, quem lho dar\u00e1 a entender?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nenhum homem h\u00e1 que tenha dom\u00ednio sobre o esp\u00edrito, para reter o esp\u00edrito; nem tem poder sobre o dia da morte; nem h\u00e1 armas nessa peleja; nem tampouco a impiedade livrar\u00e1 aos \u00edmpios."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tudo isso vi quando apliquei o meu cora\u00e7\u00e3o a toda obra que se faz debaixo do sol; tempo h\u00e1 em que um homem tem dom\u00ednio sobre outro homem, para desgra\u00e7a sua."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Assim tamb\u00e9m vi os \u00edmpios sepultados, e eis que havia quem fosse \u00e0 sua sepultura; e os que fizeram bem e sa\u00edam do lugar santo foram esquecidos na cidade; tamb\u00e9m isso \u00e9 vaidade."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "O pecador n\u00e3o \u00e9 logo castigado. O justo v\u00ea-se muitas vezes em adversidade - Visto como se n\u00e3o executa logo o ju\u00edzo sobre a m\u00e1 obra, por isso o cora\u00e7\u00e3o dos filhos dos homens est\u00e1 inteiramente disposto para praticar o mal."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ainda que o pecador fa\u00e7a mal cem vezes, e os dias se lhe prolonguem, eu sei com certeza que bem sucede aos que temem a Deus, aos que temerem diante dele."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mas ao \u00edmpio n\u00e3o ir\u00e1 bem, e ele n\u00e3o prolongar\u00e1 os seus dias; ser\u00e1 como a sombra, visto que ele n\u00e3o teme diante de Deus."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ainda h\u00e1 outra vaidade que se faz sobre a terra: h\u00e1 justos a quem sucede segundo as obras dos \u00edmpios, e h\u00e1 \u00edmpios a quem sucede segundo as obras dos justos. Digo que tamb\u00e9m isso \u00e9 vaidade."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ent\u00e3o, exaltei eu a alegria, porquanto o homem nenhuma coisa melhor tem debaixo do sol do que comer, beber e alegrar-se; porque isso o acompanhar\u00e1 no seu trabalho nos dias da sua vida que Deus lhe d\u00e1 debaixo do sol."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Aplicando eu o meu cora\u00e7\u00e3o a conhecer a sabedoria e a ver o trabalho que h\u00e1 sobre a terra (pois nem de dia nem de noite v\u00ea o homem sono nos seus olhos),"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "ent\u00e3o, vi toda a obra de Deus, que o homem n\u00e3o pode alcan\u00e7ar a obra que se faz debaixo do sol; por mais que trabalhe o homem para a buscar, n\u00e3o a achar\u00e1; e, ainda que diga o s\u00e1bio que a vir\u00e1 a conhecer, nem por isso a poder\u00e1 alcan\u00e7ar."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "As mesmas coisas sucedem aos justos e injustos. Gozemos os bens que Deus nos d\u00e1 - Deveras revolvi todas essas coisas no meu cora\u00e7\u00e3o, para claramente entender tudo isto: que os justos, e os s\u00e1bios, e as suas obras est\u00e3o nas m\u00e3os de Deus, e tamb\u00e9m que o homem n\u00e3o conhece nem o amor nem o \u00f3dio; tudo passa perante a sua face."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tudo sucede igualmente a todos: o mesmo sucede ao justo e ao \u00edmpio, ao bom e ao puro, como ao impuro; assim ao que sacrifica como ao que n\u00e3o sacrifica; assim ao bom como ao pecador; ao que jura como ao que teme o juramento."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Este \u00e9 o mal que h\u00e1 entre tudo quanto se faz debaixo do sol: que a todos sucede o mesmo; que tamb\u00e9m o cora\u00e7\u00e3o dos filhos dos homens est\u00e1 cheio de maldade; que h\u00e1 desvarios no seu cora\u00e7\u00e3o, na sua vida, e que depois se v\u00e3o aos mortos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ora, para o que acompanha com todos os vivos h\u00e1 esperan\u00e7a (porque melhor \u00e9 o c\u00e3o vivo do que o le\u00e3o morto)."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Porque os vivos sabem que h\u00e3o de morrer, mas os mortos n\u00e3o sabem coisa nenhuma, nem tampouco eles t\u00eam jamais recompensa, mas a sua mem\u00f3ria ficou entregue ao esquecimento."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "At\u00e9 o seu amor, o seu \u00f3dio e a sua inveja j\u00e1 pereceram e j\u00e1 n\u00e3o t\u00eam parte alguma neste s\u00e9culo, em coisa alguma do que se faz debaixo do sol."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vai, pois, come com alegria o teu p\u00e3o e bebe com bom cora\u00e7\u00e3o o teu vinho, pois j\u00e1 Deus se agrada das tuas obras."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Em todo tempo sejam alvas as tuas vestes, e nunca falte o \u00f3leo sobre a tua cabe\u00e7a."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Goza a vida com a mulher que amas, todos os dias de vida da tua vaidade; os quais Deus te deu debaixo do sol, todos os dias da tua vaidade; porque esta \u00e9 a tua por\u00e7\u00e3o nesta vida e do teu trabalho que tu fizeste debaixo do sol."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tudo quanto te vier \u00e0 m\u00e3o para fazer, faze-o conforme as tuas for\u00e7as, porque na sepultura, para onde tu vais, n\u00e3o h\u00e1 obra, nem ind\u00fastria, nem ci\u00eancia, nem sabedoria alguma."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "A sabedoria \u00e9 muitas vezes mais \u00fatil aos outros do que \u00e0quele que a possui - Voltei-me e vi debaixo do sol que n\u00e3o \u00e9 dos ligeiros a carreira, nem dos valentes, a peleja, nem tampouco dos s\u00e1bios, o p\u00e3o, nem ainda dos prudentes, a riqueza, nem dos inteligentes o favor, mas que o tempo e a sorte pertencem a todos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Que tamb\u00e9m o homem n\u00e3o conhece o seu tempo; como os peixes que se pescam com a rede maligna e como os passarinhos que se prendem com o la\u00e7o, assim se enla\u00e7am tamb\u00e9m os filhos dos homens no mau tempo, quando cai de repente sobre eles."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tamb\u00e9m vi sabedoria debaixo do sol, que foi para mim grande."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Houve uma pequena cidade em que havia poucos homens, e veio contra ela um grande rei, e a cercou, e levantou contra ela grandes tranqueiras."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "E vivia nela um s\u00e1bio pobre, que livrou aquela cidade pela sua sabedoria, e ningu\u00e9m se lembrava daquele pobre homem."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ent\u00e3o, disse eu: Melhor \u00e9 a sabedoria do que a for\u00e7a, ainda que a sabedoria do pobre foi desprezada e as suas palavras n\u00e3o foram ouvidas."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "As palavras dos s\u00e1bios devem em sil\u00eancio ser ouvidas, mais do que o clamor do que domina sobre os tolos."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Melhor \u00e9 a sabedoria do que as armas de guerra, mas um s\u00f3 pecador destr\u00f3i muitos bens."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A loucura \u00e9 a causa de muitas desgra\u00e7as - Assim como a mosca morta faz exalar mau cheiro e inutilizar o unguento do perfumador, assim \u00e9 para o famoso em sabedoria e em honra um pouco de estult\u00edcia."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "O cora\u00e7\u00e3o do s\u00e1bio est\u00e1 \u00e0 sua m\u00e3o direita, mas o cora\u00e7\u00e3o do tolo est\u00e1 \u00e0 sua esquerda."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "E, at\u00e9 quando o tolo vai pelo caminho, lhe falta entendimento, e diz a todos que \u00e9 tolo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Levantando-se contra ti o esp\u00edrito do governador, n\u00e3o deixes o teu lugar, porque o acordo \u00e9 um rem\u00e9dio que aquieta grandes pecados."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ainda h\u00e1 um mal que vi debaixo do sol, como o erro que procede do governador:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "o tolo, assentam-no em grandes alturas, mas os ricos est\u00e3o assentados em lugar baixo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vi servos a cavalo e pr\u00edncipes que andavam a p\u00e9 como servos sobre a terra."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Quem fizer uma cova cair\u00e1 nela, e quem romper um muro, uma cobra o morder\u00e1."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Quem acarretar pedras ser\u00e1 maltratado por elas, e o que rachar lenha exp\u00f5e-se ao perigo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Se estiver embotado o ferro, e n\u00e3o se afiar o corte, ent\u00e3o, se deve p\u00f4r mais for\u00e7as; mas a sabedoria \u00e9 excelente para dirigir."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Se a cobra morder antes de estar encantada, ent\u00e3o, rem\u00e9dio nenhum haver\u00e1 no mais h\u00e1bil encantador."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Nas palavras da boca do s\u00e1bio, h\u00e1 favor, mas os l\u00e1bios do tolo o devoram."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "O princ\u00edpio das palavras da sua boca \u00e9 a estult\u00edcia, e o fim da sua boca, um desvario p\u00e9ssimo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Bem que o tolo multiplique as palavras, n\u00e3o sabe o homem o que ser\u00e1; e quem lhe far\u00e1 saber o que ser\u00e1 depois dele?"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "O trabalho dos tolos a cada um deles fatiga, pois n\u00e3o sabem como ir \u00e0 cidade."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ai de ti, \u00f3 terra, cujo rei \u00e9 crian\u00e7a e cujos pr\u00edncipes comem de manh\u00e3."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Bem-aventurada, tu, \u00f3 terra cujo rei \u00e9 filho dos nobres e cujos pr\u00edncipes comem a tempo, para refazerem as for\u00e7as e n\u00e3o para bebedice."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pela muita pregui\u00e7a se enfraquece o teto, e pela frouxid\u00e3o das m\u00e3os goteja a casa."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Para rir se fazem convites, e o vinho alegra a vida, e por tudo o dinheiro responde."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Nem ainda no teu pensamento amaldi\u00e7oes o rei, nem tampouco no mais interior da tua rec\u00e2mara amaldi\u00e7oes o rico; porque as aves dos c\u00e9us levariam a voz e o que tem asas daria not\u00edcia da palavra."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Fa\u00e7amos o que \u00e9 bom no tempo oportuno - Lan\u00e7a o teu p\u00e3o sobre as \u00e1guas, porque, depois de muitos dias, o achar\u00e1s."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Reparte com sete e ainda at\u00e9 com oito, porque n\u00e3o sabes que mal haver\u00e1 sobre a terra."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Estando as nuvens cheias, derramam a chuva sobre a terra, e, caindo a \u00e1rvore para o sul ou para o norte, no lugar em que a \u00e1rvore cair, ali ficar\u00e1."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Quem observa o vento nunca semear\u00e1, e o que olha para as nuvens nunca segar\u00e1."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Assim como tu n\u00e3o sabes qual o caminho do vento, nem como se formam os ossos no ventre da que est\u00e1 gr\u00e1vida, assim tamb\u00e9m n\u00e3o sabes as obras de Deus, que faz todas as coisas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pela manh\u00e3, semeia a tua semente e, \u00e0 tarde, n\u00e3o retires a tua m\u00e3o, porque tu n\u00e3o sabes qual prosperar\u00e1; se esta, se aquela ou se ambas igualmente ser\u00e3o boas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Verdadeiramente suave \u00e9 a luz, e agrad\u00e1vel \u00e9 aos olhos ver o sol."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mas, se o homem viver muitos anos e em todos eles se alegrar, tamb\u00e9m se deve lembrar dos dias das trevas, porque h\u00e3o de ser muitos. Tudo quanto sucede \u00e9 vaidade."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Alegra-te, jovem, na tua mocidade, e alegre-se o teu cora\u00e7\u00e3o nos dias da tua mocidade, e anda pelos caminhos do teu cora\u00e7\u00e3o e pela vista dos teus olhos; sabe, por\u00e9m, que por todas essas coisas te trar\u00e1 Deus a ju\u00edzo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Afasta, pois, a ira do teu cora\u00e7\u00e3o e remove da tua carne o mal, porque a adolesc\u00eancia e a juventude s\u00e3o vaidade."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A mocidade deve preparar-se para a velhice e para a morte - Lembra-te do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: N\u00e3o tenho neles contentamento;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "antes que se escure\u00e7am o sol, e a luz, e a lua, e as estrelas, e tornem a vir as nuvens depois da chuva;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "no dia em que tremerem os guardas da casa, e se curvarem os homens fortes, e cessarem os moedores, por j\u00e1 serem poucos, e se escurecerem os que olham pelas janelas;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "e as duas portas da rua se fecharem por causa do baixo ru\u00eddo da moedura, e se levantar \u00e0 voz das aves, e todas as vozes do canto se baixarem;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "como tamb\u00e9m quando temerem o que est\u00e1 no alto, e houver espantos no caminho, e florescer a amendoeira, e o gafanhoto for um peso, e perecer o apetite; porque o homem se vai \u00e0 sua eterna casa, e os pranteadores andar\u00e3o rodeando pela pra\u00e7a;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "antes que se quebre a cadeia de prata, e se despedace o copo de ouro, e se despedace o c\u00e2ntaro junto \u00e0 fonte, e se despedace a roda junto ao po\u00e7o,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "e o p\u00f3 volte \u00e0 terra, como o era, e o esp\u00edrito volte a Deus, que o deu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vaidade de vaidade, diz o Pregador, tudo \u00e9 vaidade."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "E, quanto mais s\u00e1bio foi o Pregador, tanto mais sabedoria ao povo ensinou; e atentou, e esquadrinhou, e comp\u00f4s muitos prov\u00e9rbios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Todo o dever do homem consiste em temer a Deus e em guardar os seus mandamentos - Procurou o Pregador achar palavras agrad\u00e1veis; e o escrito \u00e9 a retid\u00e3o, palavras de verdade."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "As palavras dos s\u00e1bios s\u00e3o como aguilh\u00f5es e como pregos bem-fixados pelos mestres das congrega\u00e7\u00f5es, que nos foram dadas pelo \u00fanico Pastor."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "E, de mais disso, filho meu, atenta: n\u00e3o h\u00e1 limite para fazer livros, e o muito estudar enfado \u00e9 da carne."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "De tudo o que se tem ouvido, o fim \u00e9: Teme a Deus e guarda os seus mandamentos; porque este \u00e9 o dever de todo homem."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque Deus h\u00e1 de trazer a ju\u00edzo toda obra e at\u00e9 tudo o que est\u00e1 encoberto, quer seja bom, quer seja mau."
+                }
+            }
+        }
+    }
+}

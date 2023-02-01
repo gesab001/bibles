@@ -1,0 +1,388 @@
+{
+    "version": "POG",
+    "book_name": "1 Thessalonians",
+    "book_nr": "52",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pawe\u0142 i Sylwan, i Tymoteusz zborowi Tesalonice\u0144skiemu w Bogu Ojcu i w Panu Jezusie Chrystusie. \u0141aska wam i pok\u00f3j niech b\u0119dzie od Boga Ojca naszego, i od Pana Jezusa Chrystusa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Dzi\u0119kujemy Bogu zawsze za was wszystkich, wzmiank\u0119 czyni\u0105c o was w modlitwach naszych,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bez przestanku przypominaj\u0105c skuteczn\u0105 on\u0119 wiar\u0119 wasz\u0119 i on\u0119 pracowit\u0105 mi\u0142o\u015b\u0107, i on\u0119 cierpliw\u0105 nadziej\u0119 w Panu naszym, Jezusie Chrystusie, przed Bogiem i Ojcem naszym."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Wiedz\u0105c, bracia umi\u0142owani od Boga, wybranie wasze,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Gdy\u017c Ewangielija nasza nie by\u0142a u was tylko w mowie, ale te\u017c w mocy i w Duchu \u015awi\u0119tym, i we wszelkiem upewnieniu, jako wiecie, jakimy\u015bmy byli mi\u0119dzy wami dla was."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A wy\u015bcie si\u0119 na\u015bladowcami naszymi i Pa\u0144skimi stali, przyj\u0105wszy s\u0142owo we wszelkiem uci\u015bnieniu z rado\u015bci\u0105 Ducha \u015awi\u0119tego,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tak \u017ce\u015bcie si\u0119 wy stali za wz\u00f3r wszystkim wierz\u0105cym w Macedonii i w Achai."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Albowiem od was si\u0119 rozg\u0142osi\u0142o s\u0142owo Pa\u0144skie, nie tylko w Macedonii i w Achai, ale si\u0119 te\u017c rozesz\u0142a na wszelkie miejsce wiara wasza, kt\u00f3ra jest w Bogu, tak i\u017c nam nie trzeba, o tem co m\u00f3wi\u0107;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Poniewa\u017c oni sami oznajmuj\u0105 o was, jakie by\u0142o przyj\u015bcie nasze do was i jako\u015bcie si\u0119 nawr\u00f3cili do Boga od ba\u0142wan\u00f3w, aby\u015bcie s\u0142u\u017cyli Bogu \u017cywemu i prawdziwemu,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I oczekiwali Syna jego z niebios, kt\u00f3rego wzbudzi\u0142 od umar\u0142ych, to jest Jezusa, kt\u00f3ry nas wyrwa\u0142 od gniewu przysz\u0142ego."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Albowiem wy sami wiecie, bracia! \u017ce przyj\u015bcie nasze do was nie by\u0142o pr\u00f3\u017cne;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ale chocia\u017ce\u015bmy i przedtem cierpieli, i zel\u017ceni byli (jako wiecie) w mie\u015bcie Filipach, wszak\u017ce bezpiecznie\u015bmy sobie pocz\u0119li w Bogu naszym, w opowiadaniu u was Ewangielii Bo\u017cej z wielkim bojem,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Albowiem napominanie nasze nie by\u0142o z oszukania, ani z nieczysto\u015bci, ani z zdrady;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ale jako nas B\u00f3g sobie upodoba\u0142, \u017ceby nam by\u0142a zwierzona Ewangielija, tak m\u00f3wimy, nie jako ludziom si\u0119 podobaj\u0105c, ale Bogu, kt\u00f3ry sobie upodobywa serca nasze."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Albowiem nigdy\u015bmy nie u\u017cywali mowy pochlebnej, jako wiecie; ani\u015bmy pod zas\u0142on\u0105 czego \u0142akomstwu dogadzali; B\u00f3g jest \u015bwiadkiem;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ani\u015bmy szukali od ludzi chwa\u0142y, ani od was, ani od inszych, mog\u0105c wam by\u0107 ci\u0119\u017ckimi, jako Aposto\u0142owie Chrystusowi;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ale\u015bmy byli skromnymi mi\u0119dzy wami, jako gdy mamka odchowuje dziatki swoje."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tak wam \u017cyczliwymi b\u0119d\u0105c, gotowi\u015bmy byli u\u017cyczy\u0107 wam nie tylko Ewangielii Bo\u017cej, ale te\u017c i dusz naszych, dlatego i\u017ce\u015bcie nam mi\u0142ymi byli."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Albowiem pami\u0119tajcie, bracia! prac\u0119 nasz\u0119 i trudy, gdy\u017c w nocy i we dnie robi\u0105c, aby\u015bmy \u017cadnego z was nie obci\u0105\u017cyli, kazali\u015bmy u was Ewangieli\u0119 Bo\u017c\u0105."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wy\u015bcie \u015bwiadkami i B\u00f3g, \u017ce\u015bmy \u015bwi\u0119tobliwie i sprawiedliwie, i bez nagany \u017cyli mi\u0119dzy wami, kt\u00f3rzy\u015bcie uwierzyli."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jako\u017c wiecie, \u017ce\u015bmy ka\u017cdego z was, jako ojciec dziatki swoje, napominali i cieszyli,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "I o\u015bwiadczali si\u0119, aby\u015bcie chodzili godnie Bogu, kt\u00f3ry was powo\u0142a\u0142 do swego kr\u00f3lestwa i do chwa\u0142y."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Przeto\u017c i my dzi\u0119kujemy Bogu bez przestanku, i\u017c przyj\u0105wszy s\u0142owo Bo\u017ce, kt\u00f3re\u015bcie s\u0142yszeli od nas, przyj\u0119li\u015bcie nie jako s\u0142owo ludzkie, ale (jako w prawdzie jest) jako s\u0142owo Bo\u017ce, kt\u00f3re te\u017c skuteczne jest w was, kt\u00f3rzy wierzycie."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Albowiem wy, bracia! stali\u015bcie si\u0119 na\u015bladowcami zbor\u00f3w Bo\u017cych, kt\u00f3re s\u0105 w \u017cydowskiej ziemi, w Chrystusie Jezusie; bo\u015bcie i wy te\u017c cierpieli od ziomk\u00f3w waszych, jako i oni od \u017byd\u00f3w."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kt\u00f3rzy i Pana Jezusa zabili, i swoich w\u0142asnych prorok\u00f3w, i nas wygnali, a Bogu si\u0119 nie podobaj\u0105, i wszystkim ludziom s\u0105 przeciwni,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zabraniaj\u0105c nam, \u017ceby\u015bmy nie m\u00f3wili poganom, \u017ceby byli zbawieni, aby tak zawsze dope\u0142niali grzech\u00f3w swoich; albowiem przyszed\u0142 na nich gniew a\u017c do ko\u0144ca."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Lecz my, bracia! b\u0119d\u0105c pozbawieni was na chwileczk\u0119 obliczem, nie sercem, tem pilniej\u015bmy si\u0119 starali ogl\u0105da\u0107 oblicze wasze z wielk\u0105 \u017c\u0105dno\u015bci\u0105."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Dlatego\u015bmy chcieli przyj\u015b\u0107 do was (zw\u0142aszcza ja Pawe\u0142) i raz, i drugi; ale nam przekazi\u0142 szatan."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Albowiem kt\u00f3ra\u017c jest nadzieja nasza, albo rado\u015b\u0107, albo korona chluby? Izali nie wy przed obliczno\u015bci\u0105 Pana naszego, Jezusa Chrystusa w przyj\u015bcie jego?"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Wy zaiste jeste\u015bcie chwa\u0142\u0105 nasz\u0105 i rado\u015bci\u0105."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Przeto nie mog\u0105c d\u0142u\u017cej znosi\u0107, upodoba\u0142o si\u0119 nam, aby\u015bmy sami w Atenach zostali."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I pos\u0142ali\u015bmy Tymoteusza, brata naszego i s\u0142ug\u0119 Bo\u017cego, i pomocnika naszego w Ewangielii Chrystusowej, aby was utwierdzi\u0142 i napomina\u0142 z strony wiary waszej."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Aby si\u0119 \u017caden nie porusza\u0142 w tych uciskach; gdy\u017c sami wiecie, \u017ce\u015bmy na to wystawieni."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Albowiem gdy\u015bmy byli u was, opowiadali\u015bmy wam, \u017ce\u015bmy mieli by\u0107 uci\u015bnieni, jako\u017c si\u0119 te\u017c to sta\u0142o, i wiecie o tem."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Dlatego i ja, nie mog\u0105c tego d\u0142u\u017cej znosi\u0107, pos\u0142a\u0142em go, abym si\u0119 dowiedzia\u0142 o wierze waszej, by was sna\u0107 nie kusi\u0142 ten, co kusi, a nie by\u0142a daremna praca nasza."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Lecz teraz Tymoteusz od was do nas przyszed\u0142 i zwiastowa\u0142 nam weso\u0142\u0105 nowin\u0119 o wierze i mi\u0142o\u015bci waszej, a i\u017c nas zawsze dobrze wspominacie, \u017c\u0105daj\u0105c nas widzie\u0107, tak jako i my was."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Dlatego pocieszeni jeste\u015bmy, bracia! z was w ka\u017cdym utrapieniu i potrzebie naszej przez wiar\u0119 wasz\u0119;"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Bo teraz my \u017cyjemy, je\u017ali wy stoicie w Panu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Albowiem jakie\u017c dzi\u0119kowanie mo\u017cemy Bogu odda\u0107 za was za wszelkie wesele, kt\u00f3rem si\u0119 weselimy dla was przed Bogiem naszym?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "W nocy i we dnie bardzo si\u0119 gorliwie modl\u0105c, aby\u015bmy ogl\u0105dali oblicze wasze i dope\u0142nili niedostatk\u00f3w wiary waszej."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Lecz sam B\u00f3g i Ojciec nasz, i Pan nasz, Jezus Chrystus, niech wyprostuje drog\u0119 nasz\u0119 do was;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "A was Pan niech pomno\u017cy i obfituj\u0105cymi uczyni w mi\u0142o\u015bci jednego ku drugiemu, i ku wszystkim, jako i nas ku wam,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Aby utwierdzone by\u0142y serca wasze nienaganione w \u015bwi\u0119tobliwo\u015bci przed Bogiem i Ojcem naszym, na przyj\u015bcie Pana naszego, Jezusa Chrystusa, ze wszystkimi \u015bwi\u0119tymi jego."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A dalej m\u00f3wi\u0105c, bracia! prosimy was i napominamy przez Pana Jezusa, jako\u015bcie przyj\u0119li od nas, jakoby\u015bcie sobie mieli post\u0119powa\u0107 i Bogu si\u0119 podoba\u0107, aby\u015bcie tem wi\u0119cej obfitowali;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Gdy\u017c wiecie, jakie\u015bmy wam rozkazania dali przez Pana Jezusa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Albowiem ta jest wola Bo\u017ca, to jest po\u015bwi\u0119cenie wasze, \u017ceby\u015bcie si\u0119 pow\u015bci\u0105gali od wszetecze\u0144stwa;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A \u017ceby umia\u0142 ka\u017cdy z was naczyniem swojem w\u0142ada\u0107 w \u015bwi\u0119tobliwo\u015bci i w uczciwo\u015bci,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nie w nami\u0119tno\u015bci \u017c\u0105dzy, jako i poganie, kt\u00f3rzy nie znaj\u0105 Boga;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I aby nikt nie uciska\u0142 i nie oszukiwa\u0142 w \u017cadnej sprawie brata swego: bo Pan jest m\u015bcicielem tego wszystkiego, jako\u015bmy wam przedtem powiadali i o\u015bwiadczali."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Bo nas nie powo\u0142a\u0142 B\u00f3g ku nieczysto\u015bci, ale ku po\u015bwi\u0119ceniu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A przeto\u017c kto to odrzuca, nie odrzuca cz\u0142owieka, ale Boga, kt\u00f3ry nam te\u017c da\u0142 Ducha swego \u015awi\u0119tego."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A o mi\u0142o\u015bci braterskiej nie potrzeba wam pisa\u0107; bo\u015bcie wy sami od Boga nauczeni, aby\u015bcie mi\u0142owali jedni drugich."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Albowiem te\u017c to czynicie przeciwko wszystkim braciom, kt\u00f3rzy s\u0105 we wszystkiej Macedonii; ale was napominamy, bracia! i\u017cby\u015bcie tem wi\u0119cej obfitowali,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "I pilnie si\u0119 starali, aby\u015bcie spokojnymi byli i rzeczy swoich pilnowali, i pracowali w\u0142asnymi r\u0119kami swemi, jako\u015bmy wam przykazali;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Aby\u015bcie uczciwie chodzili przed obcymi, a w niczem aby\u015bcie nie mieli niedostatku."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "A nie chc\u0119, bracia! aby\u015bcie wiedzie\u0107 nie mieli o tych, kt\u00f3rzy zasn\u0119li, i\u017cby\u015bcie si\u0119 nie smucili, jako i drudzy, kt\u00f3rzy nadziei nie maj\u0105."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Albowiem je\u017ali wierzymy, i\u017c Jezus umar\u0142 i zmartwychwsta\u0142, tak B\u00f3g i tych, kt\u00f3rzy zasn\u0119li w Jezusie, przywiedzie z nim."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Bo\u0107 to wam powiadamy s\u0142owem Pa\u0144skiem, \u017ce my, kt\u00f3rzy \u017cywi pozostaniemy do przyj\u015bcia Pa\u0144skiego, nie uprzedzimy onych, kt\u00f3rzy zasn\u0119li."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Gdy\u017c sam Pan z okrzykiem, a g\u0142osem archanielskim i z tr\u0105b\u0105 Bo\u017c\u0105 zst\u0105pi z nieba, a pomarli w Chrystusie powstan\u0105 najpierwej."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Zatem my \u017cywi, kt\u00f3rzy pozostaniemy, wesp\u00f3\u0142 z nimi zachwyceni b\u0119dziemy w ob\u0142okach naprzeciwko Panu na powietrze, a tak zawsze z Panem b\u0119dziemy."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Przeto\u017c pocieszajcie jedni drugich temi s\u0142owy."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A o czasach i o chwilach, bracia! nie potrzebujecie, aby wam pisano."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Albowiem sami dostatecznie wiecie, i\u017c on dzie\u0144 Pa\u0144ski jako z\u0142odziej w nocy, tak przyjdzie."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bo gdy m\u00f3wi\u0107 b\u0119d\u0105: Pok\u00f3j i bezpiecze\u0144stwo! tedy na nich nag\u0142e zginienie przyjdzie, jako b\u00f3l na niewiast\u0119 brzemienn\u0105, a nie ujd\u0105."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Lecz wy, bracia! nie jeste\u015bcie w ciemno\u015bci, aby was on dzie\u0144 jako z\u0142odziej zachwyci\u0142."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Wszyscy wy jeste\u015bcie synowie \u015bwiat\u0142o\u015bci i synowie dnia; nie jeste\u015bmy synowie nocy ani ciemno\u015bci."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Przeto nie \u015bpijmy jako i insi, ale czujmy i b\u0105d\u017amy trze\u017awymi."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Albowiem kt\u00f3rzy \u015bpi\u0105, w nocy \u015bpi\u0105, a kt\u00f3rzy si\u0119 upijaj\u0105, w nocy si\u0119 upijaj\u0105."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Lecz my synami dnia b\u0119d\u0105c, b\u0105d\u017amy trze\u017awymi, oblek\u0142szy si\u0119 w pancerz wiary i mi\u0142o\u015bci, i w przy\u0142bic\u0119 nadziei zbawienia."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Gdy\u017c B\u00f3g nie postawi\u0142 nas ku gniewu, ale ku nabyciu zbawienia przez Pana naszego, Jezusa Chrystusa,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kt\u00f3ry umar\u0142 za nas, aby\u015bmy lub czujemy, lub \u015bpimy, wesp\u00f3\u0142 z nim \u017cyli."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Przeto\u017c napominajcie jedni drugich i budujcie jeden drugiego, jako i czynicie."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "A prosimy was, bracia! aby\u015bcie poznali tych, kt\u00f3rzy pracuj\u0105 mi\u0119dzy wami i kt\u00f3rzy s\u0105 prze\u0142o\u017conymi waszymi w Panu, i napominaj\u0105 was;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Aby\u015bcie ich jak najbardziej mi\u0142owali dla ich pracy. Pok\u00f3j te\u017c zachowajcie mi\u0119dzy sob\u0105."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "A prosimy was, bracia! napominajcie tych, kt\u00f3rzy nie stoj\u0105 w rz\u0119dzie, cieszcie boja\u017aliwych, znaszajcie s\u0142abych, nieskwapliwymi b\u0105d\u017acie przeciwko wszystkim;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Patrzcie, aby kto z\u0142em za z\u0142e komu nie oddawa\u0142; ale zawsze dobrego na\u015bladujcie, i sami mi\u0119dzy sob\u0105 i ku wszystkim."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zawsze si\u0119 radujcie."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Bez przestanku si\u0119 m\u00f3dlcie."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Za wszystko dzi\u0119kujcie; albowiem ta\u0107 jest wola Bo\u017ca w Chrystusie Jezusie przeciwko wam."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ducha nie zagaszajcie."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Proroctw nie lekcewa\u017ccie."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Wszystkiego do\u015bwiadczajcie, a co jest dobrego, tego si\u0119 trzymajcie."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Od wszelkiego podobie\u0144stwa z\u0142o\u015bci si\u0119 wstrzymywajcie."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "A sam B\u00f3g pokoju niech was zupe\u0142nie po\u015bwi\u0119ci; a ca\u0142y duch wasz, i dusza, i cia\u0142o niech b\u0119d\u0105 bez nagany na przyj\u015bcie Pana naszego, Jezusa Chrystusa, zachowane."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Wierny\u017c jest ten, kt\u00f3ry was powo\u0142a\u0142, kt\u00f3ry te\u017c to uczyni,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Bracia! m\u00f3dlcie si\u0119 za nami."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Pozdr\u00f3wcie braci wszystkich z poca\u0142owaniem \u015bwi\u0119tem."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Poprzysi\u0119gam was przez Pana, aby ten list przeczytany by\u0142 wszystkim braciom \u015bwi\u0119tym."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "\u0141aska Pana naszego, Jezusa Chrystusa, niech b\u0119dzie z wami. Amen."
+                }
+            }
+        }
+    }
+}

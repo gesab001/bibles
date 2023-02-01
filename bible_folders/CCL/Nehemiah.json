@@ -1,0 +1,1696 @@
+{
+    "version": "CCL",
+    "book_name": "Nehemiah",
+    "book_nr": "16",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pemphero la Nehemiya - Awa ndi mawu a Nehemiya mwana wa Hakaliya: Pa mwezi wa Kisilevi, chaka cha makumi awiri, pamene ndinali mu mzinda wa Susa,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Hanani mmodzi mwa abale anga, anabwera ndi anthu ena kuchokera ku Yuda, ndipo ine ndinawafunsa za Ayuda otsala amene sanatengedwe ukapolo, ndiponso za mzinda wa Yerusalemu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Anandiyankha kuti, \u201cAmene sanatengedwe ukapolo aja ali pa mavuto aakulu ndipo ali ndi manyazi. Khoma la Yerusalemu ndilogamukagamuka ndipo zipata zake zinatenthedwa ndi moto.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nditamva zimenezi, ndinakhala pansi ndi kuyamba kulira. Ndinalira kwa masiku angapo. Ndinkasala zakudya ndi kumapemphera pamaso pa Mulungu Wakumwamba."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ndinkati: \u201cInu Yehova, Mulungu wakumwamba, Mulungu wamkulu ndi woopsa. Mumasunga pangano ndi kuonetsa chikondi chosasinthika kwa onse amene amakukondani ndi kumvera malamulo anu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tcherani khutu lanu ndi kutsekula maso anu kuti mumve pemphero la mtumiki wanune limene ndikupemphera usana ndi usiku pamaso panu kupempherera Aisraeli, atumiki anu. Ndikuvomereza machimo a Aisraeli amene tinakuchimwirani. Ndithu, ine ndi banja la makolo anga tinakuchimwirani."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ife tinakuchitirani zoyipa zambiri. Sitinamvere mawu anu, malamulo ndi malangizo anu amene munapereka kwa mtumiki wanu Mose."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u201cKumbukirani mawu amene munawuza mtumiki wanu Mose akuti, \u2018Ngati mukhala osakhulupirika, ndidzakubalalitsani pakati pa mitundu ina."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Koma mukabwerera kwa Ine, mukamvera malamulo anga ndi kuwatsatadi, ndiye kuti ngakhale anthu anu atabalalika kutali chotani, Ine ndidzawasonkhanitsa kuchokera kumeneko ndi kubwera nawo ku malo amene ndinasankha kuti azidzayitanira dzina langa.\u2019"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201cIwo ndi atumiki anu ndi anthu anu, amene munawawombola ndi mphamvu yanu yayikulu ndi dzanja lanu lamphamvu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Inu Ambuye tcherani khutu lanu kuti mumve pemphero la mtumiki wanune ndiponso pemphero la atumiki anu amene amakondwera kuchitira ulemu dzina lanu. Lolani kuti mtumiki wanune zinthu zindiyendere bwino lero ndi kuti mfumu indichitire chifundo.\u201d Nthawi imeneyi n\u02bckuti ndili woperekera zakumwa kwa mfumu."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Aritasasita Atumiza Nehemiya ku Yerusalemu - Pa mwezi wa Nisani, m\u02bcchaka cha makumi awiri cha ufumu wa Aritasasita, atabwera ndi vinyo pamaso pa mfumu ine ndinatenga vinyoyo ndi kupereka kwa mfumu. Koma ndinali ndisanakhalepo ndi nkhope yachisoni pamaso pake."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tsono mfumu inandifunsa kuti, \u201cN\u02bcchifukwa chiyani nkhope yako ikuoneka yachisoni pamene iwe sukudwala? Ichi si chinthu china koma chisoni cha mu mtima.\u201d Ine ndinachita mantha kwambiri."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ndinawuza mfumu kuti, \u201cMfumu ikhale ndi moyo wamuyaya! Kodi nkhope yanga ilekerenji kuoneka yachisoni pamene mzinda umene kuli manda a makolo anga, wasanduka bwinja ndipo zipata zake zinawonongedwa ndi moto?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Apo mfumu inandifunsa kuti, \u201cTsono ukufuna kundipempha chiyani?\u201d Ndipo ine ndinapemphera kwa Mulungu Wakumwamba."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ndipo ndinayankha kuti, \u201cNgati amfumu chingakukondweretseni, ngati mungakomere mtima mtumiki wanune, mundilole kuti ndipite ku Yuda, ku mzinda kumene kuli manda a makolo anga kuti ndikawumangenso.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tsono mfumu, mfumukazi itakhala pambali pake, anandifunsa kuti, \u201cKodi kumeneko ukakhalako masiku angati ndipo udzabwera liti?\u201d Ndinayiwuza mfumu nthawi yake ndipo inandilola kuti ndipite."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ndipo ndinatinso kwa mfumu, \u201cNgati zikondweretse mfumu, mundipatse makalata oti ndikapereke kwa abwanamkubwa a ku chigawo cha Patsidya pa Yufurate, kuti akandilole kudutsa mwamtendere mpaka nditakafika ku Yuda."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mundipatsenso kalata yokapereka kwa Asafu woyang\u02bcanira nkhalango ya mfumu, kuti akandipatse mitengo yokapangira mitanda ya zipata za nsanja yoteteza Nyumba ya Mulungu, mitanda ya khoma la mzinda ndi ya nyumba yokhalamo ine.\u201d Mfumu indipatse zomwe ndinapempha popeza Yehova wokoma mtima anali nane."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Choncho ndinanyamuka ulendo wanga ndipo ndinafika kwa abwanamkubwa a chigawo cha Patsidya pa Yufurate ndipo ndinawapatsa makalata a mfumu. Mfumu n\u02bckuti itatumiza akulu ankhondo ndi okwera pa akavalo kuti atsagane nane."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Sanibalati wa ku Horoni ndi Tobiya wa ku Amoni atamva zimenezi, iwo anayipidwa kwambiri kuti wina wabwera kudzachitira zabwino Aisraeli."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nehemiya Ayendera Makoma a Yerusalemu - Ndinafika ku Yerusalemu, ndipo ndinakhala kumeneko masiku atatu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sindinawuze munthu aliyense za zimene Yehova anayika mu mtima mwanga kuti ndichitire mzinda wa Yerusalemu. Choncho ndinanyamuka usiku pamodzi ndi anthu ena owerengeka. Ndinalibe bulu wina aliyense kupatula amene ndinakwerapo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ndinatuluka usiku podzera ku Chipata cha ku Chigwa ndi kuyenda kupita ku Chitsime cha Chirombo Cham\u02bcmadzi mpaka ku Chipata cha Zinyalala. Ndinayang\u02bcana makoma a Yerusalemu, amene anagwetsedwa, ndi zipata zake, zimene zinawonongedwa ndi moto."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kenaka ndinapita ku Chipata cha Kasupe ndi ku Dziwe la Mfumu. Koma panalibe malo okwanira akuti bulu wanga adutse."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kotero usikuwo ndinapita ku chigwa, ndikuyang\u02bcana khomalo. Pomaliza ndinabwerera ndi kukalowanso mu mzinda kudzera ku Chipata cha ku Chigwa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Akuluakulu sanadziwe kumene ndinapita kapena zimene ndimachita, chifukwa pa nthawiyi n\u02bckuti ndisananene kalikonse kwa Ayuda kapena ansembe, anthu olemekezeka kapena akuluakulu, kapena wina aliyense amene anali woyenera kugwira ntchitoyi."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ndinawawuza kuti, \u201cInu mukuona mavuto amene tili nawo. Mukuona kuti mzinda wa Yerusalemu wasanduka bwinja ndipo zipata zake zatenthedwa ndi moto. Tsono tiyeni timangenso makoma a Yerusalemu ndipo sitidzachitanso manyazi.\u201d"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ndinawawuza za mmene Yehova Mulungu wanga anandichitira zabwino ndiponso mawu amene mfumu inandiwuza. Tsono anati, \u201cTiyeni tiyambenso kumanga.\u201d Kotero analimbitsana mtima kuti ayambenso ntchito yabwinoyi."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Koma Sanibalati wa ku Horoni, Tobiya wa ku Amoni ndi Gesemu Mwarabu atamva zimenezi, anatiseka ndi kutinyoza. Iwo anafunsa kuti, \u201cKodi muti ndi chiyani chimene mukuchitachi? Kodi mufuna kuwukira mfumu?\u201d"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Koma ndinawayankha kuti, \u201cMulungu Wakumwamba atithandiza kuti zinthu zitiyendere bwino. Ife antchito ake tiyambapo kumanga. Koma inu mulibe gawo lanu muno mu Yerusalemu. Mulibe chokuyenerezani kulandira malo ano. Mulibenso chilichonse muno chokumbutsa za inu.\u201d"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Anthu Omanga Makoma a Yerusalemu - Pambuyo pake Eliyasibu mkulu wa ansembe ndi ansembe anzake anayamba kugwira ntchito ndipo anamanganso Chipata cha Nkhosa. Iwo anachipatulira Mulungu ndipo anayika zitseko zake. Khoma limene analipatula linafika mpaka pa Nsanja ya Zana ndi Nsanja ya Hananeli."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Anthu a ku Yeriko anamanga chigawo china pambali pake ndipo Zakuri mwana wa Imuri anamanga chigawo chinanso choyandikana nawo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Chipata cha Nsomba chinamangidwanso ndi ana a fuko la Hasena. Iwo anayika mitanda yake ndi zitseko, zotsekera zake, ndi mipiringidzo yake."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Meremoti mwana wa Uriya, mwana wa Hakozi, anakonza chigawo choyandikana nacho. Motsatana naye, Mesulamu mwana wa Berekiya, mwana wa Mesezabeli anakonza chigawo china. Pambali pake, Zadoki mwana wa Baana anakonzanso chigawo china."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Pambali pa iwowa anthu a ku Tekowa anakonza chigawo china. Koma wolemekezeka awo anakana kugwira ntchito imene akuluakulu awo anawapatsa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Chipata cha Yesana chinakonzedwa ndi Yoyada mwana wa Paseya ndi Mesulamu mwana wa Besodeya. Iwo anayika mitanda yake ndi kuyika zitseko, zotsekera zake ndi mipiringidzo yake."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pambali pawo Melatiya Mgibeyoni ndi Yadoni Mmerenoti ndiponso anthu a ku Gibiyoni ndi a ku Mizipa anakonza chigawo chawo mpaka ku nyumba ya bwanamkubwa wa chigawo cha Patsidya pa Yufurate."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pambali pawo Uzieli mwana wa Harihaya wa m\u02bcgulu amisiri osula golide anakonzanso chigawo china. Pambali pake Hananiya mmodzi mwa anthu oyenga mafuta onunkhira, anakonzanso chigawo china. Iwo anakonzanso Yerusalemu mpaka ku Khoma Lotambasuka."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Refaya mwana wa Huri wolamulira theka la chigawo cha Yerusalemu anakonza chigawo china motsatana nawo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kulumikiza ichi, Yedaya mwana wa Harumafi anakonza chigawo choyang\u02bcanana ndi nyumba yake, ndipo Hatusi mwana wa Hasabaneya anakonzanso motsatana naye."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Malikiya mwana wa Harimu ndi Hasubu mwana wa Pahati-Mowabu anakonzanso chigawo china ndiponso Nsanja ya Ng\u02bcanjo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Salumu mwana wa Halohesi wolamulira theka la chigawo cha Yerusalemu, anakonzanso chigawo chotsatana nawo mothandizidwa ndi ana ake akazi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Chipata cha ku chigwa chinakonzedwa ndi Hanuni ndi anthu okhala ku Zanowa. Iwo anachimanganso ndi kuyika zitseko zake ndi zotsekera ndi mipiringidzo yake. Iwo anakonzanso khoma lotalika mamita 450 mpaka ku Chipata cha Zinyalala."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Chipata cha Zinyalala chinakonzedwa ndi Malikiya mwana wa Rekabu, wolamulira chigawo cha Beti-Hakeremu. Iye anachimanganso ndi kuyika zitseko zake, zotsekera zake ndi mipiringidzo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Chipata cha Kasupe chinakonzedwa ndi Saluni mwana wa Koli-Hoze, wolamulira chigawo cha Mizipa. Iye anachimanganso ndi kuyikanso denga ndiponso zitseko, zotsekera ndi mipiringidzo yake. Iye anakonzanso khoma la Dziwe la Siloamu limene lili pafupi ndi munda wa mfumu mpaka ku makwerero otsikira potuluka mzinda wa Davide."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Pambali pa iyeyo, Nehemiya mwana wa Azibuki, wolamulira theka la chigawo cha Beti Zuri anakonza chigawo china mpaka kumalo oyang\u02bcanana ndi manda a Davide, mpaka ku dziwe lokumba ndi ku nyumba ya anthu ankhondo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pambali pake Alevi anakonza chigawo china, ndipo mtsogoleri wawo anali Rehumi mwana wa Bani. Pambali pa iye Hasabiya wolamulira theka la chigawo cha Keyila anagwira ntchito ku chigawo chake."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pambuyo pa iyeyu abale awo anapitiriza kukonza, ndipo mtsogoleri wawo anali Bawai mwana wa Henadadi, wolamulira theka lina la chigawo cha Keyila."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Motsatana naye Ezeri mwana wa Yesuwa, wolamulira Mizipa anakonza chigawo chinanso choyang\u02bcanana ndi chikweza chofikira ku nyumba yosungira zida za nkhondo pa ngodya."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Motsatana naye, Baruki mwana wa Zakai anakonzanso chigawo china kuchokera pa ngodya mpaka pa chitseko cha nyumba ya Eliyasibu mkulu wa ansembe."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Motsatana naye, Meremoti mwana wa Uriya, mwana wa Hakozi anakonzanso chigawo china kuchokera ku chitseko cha nyumba ya Eliyasibu mpaka kumapeto kwake."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Pambuyo pake ansembe okhala ku chidikha anakonzanso chigawo china."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Pambuyo pawo, Benjamini ndi Hasubu anakonza kutsogolo kwa nyumba zawo. Ndipo motsatana nawo, Azariya mwana wa Maaseya mwana wa Ananiya, anakonza chigawo choyang\u02bcanana ndi nyumba zawo."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Motsatana naye, Binuyi mwana wa Henadadi anakonzanso chigawo china, kuchokera pa nyumba ya Azariya kukafika potsirizira pa ngodya."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Palali mwana Uzai anakonza chigawo china choyang\u02bcanana ndi ngodya ndi nsanja yotuluka pa nyumba yapamwamba ya mfumu ku bwalo la alonda. Motsatana naye, Pedaya mwana wa Parosi,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "ndi otumikira m\u02bcNyumba ya Mulungu amene amakhala pa khoma la Ofeli anakonza chigawo china mpaka pa malo oyang\u02bcanana ndi Chipata cha Madzi kuloza kummawa ndiponso nsanja yayitali ija."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Motsatana nawo, anthu a ku Tekowa anakonzanso chigawo china choyang\u02bcanana ndi nsanja ija yayikulu ndi yayitali mpaka ku khoma la Ofeli."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Kuyambira ku Chipata cha Akavalo anakonza ndi ansembe ena ndipo aliyense amakonza khoma loyang\u02bcanana ndi nyumba yake."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Motsatana nawo, Zadoki mwana wa Imeri anakonza chigawo china choyang\u02bcanana ndi nyumba yake. Motsatana naye, Semeya mwana wa Sekaniya, mlonda wa Chipata cha Kummawa, anakonzanso khoma."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Hananiya mwana wa Selemiya ndiponso Hanuni mwana wachisanu ndi chimodzi wa Zalafi anakonza chigawo china. Motsatana naye, Mesulamu mwana wa Berekiya anakonza chigawo choyang\u02bcanana ndi chipinda chake."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Motsatana naye, Malikiya mmodzi mwa amisiri a golide anakonza chigawo china mpaka ku nyumba ya atumiki a ku Nyumba ya Mulungu ndiponso ku nyumba ya anthu amalonda moyang\u02bcanana ndi chipata cha Mifikade ndiponso mpaka pa chipinda chapamwamba chapangodya."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Ndipo pakati pa chipinda chapamwamba chapangodya ndi Chipata cha Nkhosa anakonza ndi amisiri a golide ndi anthu amalonda."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Adani a Nehemiya pa Ntchito Yake - Sanibalati atamva kuti tikumanganso khoma anapsa mtima nayamba kuseka ndi kunyogodola Ayuda kwambiri."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ndipo anayankhula pamaso pa abale ake ndi asilikali a Samariya kuti, \u201cKodi Ayuda ofowokawa akuchita chiyani? Kodi iwo n\u02bckumanganso khoma? Kodi adzaperekanso nsembe? Kodi adzatsiriza ntchitoyi tsiku limodzi? Kodi adzachita kutenga miyala yakale ija ndi mmene inapseramo?\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tobiya wa ku Amoni, amene anali naye anati, \u201cChimene akumangacho ngati nkhandwe itakwerapo, itha kugwetsa khoma lawolo!\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tsono ndinayamba kupemphera kuti, \u201cTimvereni, Inu Mulungu wathu, mmene akutinyozera. Mulole kuti mawu awo onyoza awabwerere, ndipo atengedwe ukapolo ku dziko lachilendo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Musawakhululukire mphulupulu zawo kapena kufafaniza machimo awo pamaso panu popeza aputa ukali wanu pamaso pa anthu omanga khoma.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Choncho ife tinamangabe khomalo kufikira lonse litafika theka la msinkhu wake, chifukwa chakuti anthu anagwira ntchitoyo ndi mtima wawo wonse."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Koma pamene Sanibalati, Tobiya, Aarabu, Aamoni ndi anthu a ku Asidodi anamva kuti ntchito yokonzanso makoma a Yerusalemu ikupitirirabe ndipo kuti mipata ikutsekedwa, anapsa mtima kwambiri."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tsono onse anapangana za chiwembu kuti abwere ndi kudzathira nkhondo anthu a ku Yerusalemu ndi kuyambitsa mapokoso pakati pawo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Koma ife tinapemphera kwa Mulungu wathu ndipo tinayika alonda otiteteza kwa adaniwo usiku ndi usana."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Pa nthawi yomweyi anthu a ku Yuda anati, \u201cMphamvu za anthu onyamula zinyalala zikutha ndipo pali zinyalala zambiri. Choncho ife sititha kumanga khomali.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Adani athunso anati, \u201cIwo asanadziwe izi, kapena kutiona, tidzakhala tili pakati pawo ndipo tidzawapha ndi kuyimitsa ntchitoyo.\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ndipo Ayuda amene ankhala pafupi ndi adani athuwo anabwera kakhumi konse kuchokera konse kumene ankakhala kudzatiwuza kuti tibwereko ku ntchito."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Choncho kumbuyo kwa khoma, cha m\u02bcmunsi mwake komanso malo amene anali asanathe ndinayikamo anthu m\u02bcmabanja atatenga malupanga, mikondo ndi mauta awo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Popeza anthu ankachita mantha, tsono ndinawawuza anthu olemekezeka, akuluakulu ndiponso anthu onse kuti, \u201cMusawaope. Kumbukirani kuti Ambuye ndi wamkulu ndipo ndi woopsa. Choncho menyerani nkhondo abale anu, ana aamuna ndi aakazi, akazi anu ndi nyumba zanu.\u201d"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Adani athu atamva kuti ife tadziwa za chiwembu chawo, anadziwanso kuti Yehova walepheretsa zimene ankafuna kutichita. Choncho tinabwerera aliyense ku ntchito yake yomanga khoma."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kuyambira tsiku limenelo mpaka m\u02bctsogolo mwake, theka la antchito anga linkagwira ntchito, pamene theka linalo limatenga mikondo, zishango, mauta ndi kuvala malaya azitsulo. Akuluakulu ankalimbikitsa Ayuda onse"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "amene ankamanga khoma. Anthu onyamula zinyalala aja ankagwira ntchito ndi dzanja limodzi, dzanja linali atanyamula chida chankhondo."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "M\u02bcmisiri aliyense ankamangirira lupanga lake m\u02bcchiwuno mwake akamagwira ntchito. Koma munthu woyimba lipenga anali pambali panga nthawi zonse."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ndipo ine ndinati kwa anthu olemekezeka ndi anthu ena onse, \u201cNtchitoyi ndi yayikulu ndipo ili padera lalikulu ndipo ifeyo takhala motayanatayana kwambiri pa khoma."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Tsono kulikonse kumene muliko, mukamva kulira kwa lipenga bwerani mudzasonkhane kumene kuli ine kuno. Mulungu wathu adzatimenyera nkhondo.\u201d"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Choncho enafe tinapitiriza kugwira ntchito, pamene theka lina linkanyamula mikondo kuyambira m\u02bcbandakucha mpaka nyenyezi zitaoneka."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Pa nthawi imeneyo ndinawuzanso anthuwo kuti, \u201cAliyense pamodzi ndi wantchito wake agone mu Yerusalemu kuti tikhale ndi otilondera usiku ndi kuti masana tizigwira ntchito.\u201d"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Choncho ine, anzanga, antchito anga, ndi anthu otiteteza amene ankanditsata panalibe ndi mmodzi yemwe anavula zovala zake pogona. Aliyense anasunga chida chake chankhondo pambali pake."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nehemiya Ateteza Anthu Aumphawi - Tsono anthu ena ndi akazi awo anayamba kudandaula kwambiri chifukwa cha Ayuda anzawo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ena ankanena kuti, \u201cIfe ndi ana athu aamuna ndi aakazi, tilipo ochuluka kwambiri. Choncho tikufuna tirigu kuti tidye ndi kukhala ndi moyo.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Panali ena amene ankanena kuti, \u201cIfe tikuchita kupereka minda yathu, mitengo yathu ya mphesa ndi nyumba zathu ngati chikole kuti tipeze tirigu chifukwa njala yakula.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Panalinso ena amene ankanena kuti, \u201cife tinachita kukongola ndalama zoti tipereke msonkho wa minda ndi mitengo yathu ya mphesa kwa mfumu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ngakhale kuti ndife amodzi ndi abale athuwa, ndipo ngakhalenso ana athu ndi ofanana ndi ana awo, ife tikukakamiza ana athu kuti akhale akapolo. Ena mwa ana athu aakazi atengedwa kale ukapolo. Ife tilibe mphamvu yochitapo kanthu popeza anthu ena anatenga kale minda yathu ndi mitengo yathu ya mphesa.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nditamva madandawulo awo ndi zimene amanenazi ndinapsa mtima kwambiri."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nditalingalira bwino ndinatsimikiza zoti ndichitepo kanthu ndipo kenaka ndinawadzudzula anthu olemekezeka ndi akuluakuluwo. Ndinawawuza kuti, \u201cZoona ndithu inu n\u02bckumalipiritsana chiwongoladzanja chachikulu anthu apachibale nokhanokha!\u201d Choncho ndinayitanitsa msonkhano waukulu kuti ndiwazenge mlandu"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "ndipo ndinati, \u201cMonga zakhaliramu ife tikutha kuwombola abale anthu amene anagulitsidwa ukapolo kwa anthu ena. Kodi tsopano inu mukugulitsanso abale anu kwa anzawo kuti ife tiwumirizidwe kuwawombola?\u201d Iwo anakhala chete, chifukwa sanapeze mawu oti anene."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kotero ndinapitiriza kunena kuti, \u201cZimene mukuchitazi si zabwino. Kodi inu simungakhale ndi moyo woopa Mulungu wathu kuti tipewe kunyoza kwa adani athu, anthu a mitunda inayi?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ine ndi abale anga ndiponso antchito anga tikuwakongozanso anthuwa ndalama ndi tirigu. Ndipo tiyeni tilekeretu zolandira chiwongoladzanja!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Abwezereni lero lomwe minda yawo, mitengo ya mphesa, mitengo ya olivi ndiponso nyumba zawo. Muwabwezerenso chiwongoladzanja cha ndalama, tirigu, vinyo ndi mafuta zimene munatenga.\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Iwo anayankha kuti, \u201cIfe tidzawabwezera zimenezi popanda kupemphapo kanthu kalikonse kwa iwo. Tidzachita monga mwanena.\u201d Pambuyo pake ndinayitanitsa ansembe ndipo pamaso pawo ndinawalumbiritsa atsogoleriwo ndi akuluakuluwo kuti adzachitadi zomwe analonjezazo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ndipo inenso ndinakutumula chovala changa ndi kuti, \u201cChimodzimodzinso Mulungu akutumule munthu wosasunga malonjezano ake. Amulande nyumba yake ndi katundu wake ndi kumusandutsa m\u02bcmphawi!\u201d Apo msonkhano wonse unati, \u201cAmeni\u201d natamanda Yehova. Ndipo anthu aja anachita monga analonjezera."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ndiponso kuyambira nthawi imene anandisankha kuti ndikhale bwanamkubwa wa dziko la Yuda, kuchokera chaka cha makumi awiri mpaka chaka cha 32 muulamuliro wa ufumu wa Aritasasita, ndiye kuti kwa zaka zokwana 12, ine ngakhale abale anga sitinalandire chakudya choyenerera bwanamkubwa."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Koma abwanamkubwa akale ankasautsa anthu. Iwo ankalanda anthu chakudya ndi vinyo ndi kuwalipiritsanso masekeli asiliva makumi anayi. Ngakhalenso antchito awo amavutitsa anthu kwambiri. Koma ine sindinachite zimenezo chifukwa ndimaopa Mulungu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ndiponso ndinadzipereka kugwira ntchito yomanga khoma la mzinda wa Yerusalemu popanda ngakhale kugulapo munda. Antchito anganso anasonkhana komweko kuti agwire ntchito ndipo sitinafunenso malo ena."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kuwonjezera apa, ndinkadyetsa Ayuda, akuluakulu kuphatikizanso anthu amene ankabwera kwa ife kuchokera kwa mitundu ya anthu otizungulira okwanira 150."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tsiku lililonse pamaphikidwa ng\u02bcombe imodzi, nkhosa zabwino zisanu ndi imodzi pamodzi ndi nkhuku. Ndipo pakutha pa masiku khumi aliwonse pankakhala matumba achikopa ochuluka a vinyo wa mitundu yonse. Ngakhale zinali choncho, Ine sindinatenge chakudya choperekedwa kwa bwanamkubwa, chifukwa izi zinali zosautsa anthu."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kuti zinthu zindiyendere bwino, kumbukirani Yehova Mulungu wanga pa zonse zimene ndachitira anthu awa."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Adani Apitiriza Kutsutsa ndi Kuopseza Nehemiya - Pamenepo Sanibalati, Tobiya, Gesemu Mwarabu ndi adani athu anamva kuti ndatsiriza ntchito yomanganso khoma ndi kuti palibe mpata umene watsala ngakhale kuti pa nthawi imeneyi ndinali ndisanayike zitseko pa zipata."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sanibalati ndi Gesemu, ananditumizira uthenga uwu: \u201cBwerani tidzakumane pa mudzi wina ku chigwa cha Ono.\u201d Koma iwo anakonzekera kuti akandichite chiwembu kumeneko."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Choncho ine ndinatuma amithenga ndi yankho ili: \u201cIne ndikugwira ntchito yayikulu kuno ndipo sindingathe kubwera kumeneko. Kodi ntchito iyime pofuna kuti ndibwere kumeneko?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ananditumizira uthenga umodzimodzi omwewu kanayi ndipo ndinawayankha chimodzimodzi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tsono kachisanu, Sanibalati anatumiza wantchito wake ndi kalata yosamata."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mu kalatamo munali mawu akuti, \u201cPali mphekesera pakati pa mitundu ya anthu, ndiponso Gesemu akunena zomwezo kuti inu ndi Ayuda onse mufuna kuwukira boma. N\u02bcchifukwa chake mukumanga khoma. Mphekeserazo zikutinso inu mukufuna kudzakhala mfumu yawo."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mwayikanso kale aneneri amene adzalengeza za iwe mu Yerusalemu kuti \u2018Mu Yuda muli mfumu!\u2019 Tsono nkhani iyi imveka ndithu kwa mfumu. Choncho bwerani kuti tidzakambirane.\u201d"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ine ndinatumiza yankho ili: \u201cPa zimene mukunenazo, palibe chimene chinachitikapo. Inu mukungozipeka m\u02bcmutu mwanu.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Apa adani athu onsewa ankangofuna kutiopseza. Iwo ankaganiza kuti \u201cTichita mantha ndi kuleka kugwira ntchito.\u201d Tsono ndinapemphera kuti, \u201cInu Mulungu ndilimbitseni mtima.\u201d"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tsiku lina ndinapita ku nyumba ya Semaya mwana wa Delaya mwana wa Mehatabeli. Tsono anandiwuza kuti, \u201cTiyeni tikakumanire ku Nyumba ya Mulungu. Tikabisale m\u02bcmenemo ndi kutseka zitseko chifukwa akubwera kudzakuphani. Ndithu usiku uno akubwera kudzakuphani.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Koma ndinayankha kuti, \u201cKodi munthu ngati ine n\u02bckuthawa? Kapena munthu wofanana ndi ine n\u02bckupita ku Nyumba ya Mulungu kuti apulumutse moyo wake? Ayi, ine sindipita!\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ndinazindikira kuti Mulungu sanamutume koma kuti anayankhula mawu oloserawa motsutsana nane chifukwa Tobiya ndi Sanibalati anamulemba ntchitoyi."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Iye analembedwa ntchitoyi ndi cholinga choti ine ndichite mantha, ndithawe. Ndikanatero ndiye kuti ndikanachimwira Yehova ndiponso iwowo akanandiyipitsira mbiri yanga ndi kumandinyoza."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Tsono ndinapemphera kuti, \u201cInu Mulungu wanga, kumbukirani Tobiya ndi Sanibalati chifukwa cha zimene achita. Kumbukiraninso mneneri wamkazi Nowadiya ndi aneneri amene akhala akufuna kundiopseza.\u201d"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kutsiriza kwa Khoma - Ndipo khoma linatsirizidwa kumanga pa tsiku la 25 la mwezi wa Eluli. Linamangidwa pa masiku okwana 52."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Adani athu onse atamva izi, mitundu yonse ya anthu yozungulira inachita mantha ndi kuchita manyazi. Iwo anazindikira kuti ntchitoyo inachitika ndi thandizo la Mulungu wathu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Komanso masiku amenewo anthu olemekezeka a ku Yuda ankalemberana naye makalata ambiri ndi Tobiyayo,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "pakuti anthu ambiri a ku Yuda anali atalumbira kale kuti adzagwira naye ntchito popeza anali mkamwini wa Sekaniya mwana wa Ara, ndipo mwana wake Yehohanani anakwatira mwana wamkazi wa Mesulamu mwana wa Berekiya."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kuwonjezera apo, anthu ankasimba za ntchito zake zabwino ine ndili pomwepo ndipo anakamuwululira mawu anga. Choncho Tobiyayo ankatumiza makalata ondiopseza."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Khoma linamangidwa ndipo zitseko zinayikidwa. Pambuyo pake alonda a Nyumba ya Mulungu, oyimba nyimbo ndiponso Alevi anasankhidwa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kenaka ine ndinasankha m\u02bcbale wanga Hanani pamodzi ndi Hananiya woyang\u02bcanira nsanja yankhondo kukhala olamulira Yerusalemu chifukwa iyeyu anali munthu odalirika ndi woopa Mulungu kuposa anthu ena."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ine ndinawawuza kuti, \u201cMusalole kuti zipata za Yerusalemu zitsekulidwe mpaka dzuwa litatentha, ndipo alonda asanaweruke aonetsetse kuti atseka zitseko ndi kuzipiringidza. Musankhe alonda pakati pa anthu okhala mu Yerusalemu, ena akhale pa malo pawo ndi ena akhale moyang\u02bcanana ndi nyumba zawo.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mndandanda wa Anthu Oyamba Kubwera Kuchokera ku Ukapolo - Tsono mzinda wa Yerusalemu unali wotambasuka ndiponso waukulu koma munali anthu ochepa ndipo nyumba zinali zisanamangidwe."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ndipo Mulungu wanga anayika mu mtima mwanga maganizo oti ndisonkhanitse anthu olemekezeka, akuluakulu ndi anthu onse kuti alembetse mayina mwa mabanja awo. Ndinapeza buku limene munalembedwa mayina a mabanja a iwo amene anayamba kubwera kuchokera ku ukapolo. Izi ndi zimene ndinazipeza zitalembedwa m\u02bcmenemo:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Awa ndi anthu a m\u02bcchigawo cha Yuda amene anabwerera kuchokera ku ukapolo amene Nebukadinezara mfumu ya Babuloni anawatenga ukapolo. Iwo anabwerera ku Yerusalemu ndi ku Yuda, aliyense ku mzinda wa makolo ake."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Anabwera pamodzi ndi atsogoleri awa: Zerubabeli, Yesuwa, Nehemiya, Azariya, Raamiya, Nahamani, Mordekai, Bilisani, Misipereti, Bigivai, Nehumu ndi Baana. Tsono chiwerengero cha anthu a ku Israeli chinali chotere:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Zidzukulu za Parosi 2,172"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Zidzukulu za Sefatiya 372"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Zidzukulu za Ara 652"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Zidzukulu za Pahati-Mowabu (kudzera mu m\u02bcbado wa Yesuwa ndi Yowabu) 2,818"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Zidzukulu za Elamu 1,254"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Zidzukulu za Zatu 845"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Zidzukulu za Zakai 760"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Zidzukulu za Binuyi 648"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Zidzukulu za Bebai 628"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Zidzukulu za Azigadi 2,322"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Zidzukulu za Adonikamu 667"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Zidzukulu za Abigivai 2,067"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Zidzukulu za Adini 655"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Zidzukulu za Ateri (kudzera mwa Hezekiya) 98"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Zidzukulu za Hasumu 328"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Zidzukulu za Bezayi 324"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Zidzukulu za Harifu 112"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Zidzukulu za Gibiyoni 95."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Anthu a ku Betelehemu ndi Netofa 188"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Anthu a ku Anatoti 128"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Anthu a ku Beti-Azimaveti 42"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Anthu a ku Kiriati Yeyarimu Kefira ndi Beeroti 743"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Anthu a ku Rama ndi Geba 621"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Anthu a ku Mikimasi 122"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Anthu a ku Beteli ndi Ai 123"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Anthu a ku Nebo winayo 52"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Ana a Elamu wina 1,254"
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Zidzukulu za Harimu 320"
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Zidzukulu za Yeriko 345"
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Zidzukulu za Lodi, Hadidi ndi Ono 721"
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Zidzukulu za Senaya 3,930."
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Ansembe anali awa: A banja la Yedaya (ndiye kuti zidzukulu za Yesuwa) 973"
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "Zidzukulu za Imeri 1,052"
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "Zidzukulu za Pasi-Huri 1,247"
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "Zidzukulu za Harimu 1,017."
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "Alevi anali awa: A banja la Yesuwa ndi Kadimieli, ndiye kuti zidzukulu za Hodaviya 74."
+                },
+                "44": {
+                    "verse_nr": "44",
+                    "verse": "Anthu oyimba: Zidzukulu za Asafu 148."
+                },
+                "45": {
+                    "verse_nr": "45",
+                    "verse": "Alonda a ku Nyumba ya Mulungu anali awa: Zidzukulu za Salumu, Ateri, Talimoni, Hatita ndi Sobai 138."
+                },
+                "46": {
+                    "verse_nr": "46",
+                    "verse": "Anthu ogwira ntchito ku Nyumba ya Mulungu anali awa: Zidzukulu za Ziha, zidzukulu za Hasufa, zidzukulu za Tabaoti,"
+                },
+                "47": {
+                    "verse_nr": "47",
+                    "verse": "Zidzukulu Kerosi, zidzukulu za Siya, zidzukulu za Padoni"
+                },
+                "48": {
+                    "verse_nr": "48",
+                    "verse": "Zidzukulu za Lebana za Hagaba, ndi za Salimayi,"
+                },
+                "49": {
+                    "verse_nr": "49",
+                    "verse": "Zidzukulu za Hanani, zidzukulu za Gideli, zidzukulu za Gahari,"
+                },
+                "50": {
+                    "verse_nr": "50",
+                    "verse": "Zidzukulu za Reyaya, zidzukulu za Rezini, zidzukulu za Nehoda,"
+                },
+                "51": {
+                    "verse_nr": "51",
+                    "verse": "Zidzukulu za Gazamu, zidzukulu za Uza, zidzukulu za Paseya,"
+                },
+                "52": {
+                    "verse_nr": "52",
+                    "verse": "Zidzukulu za Besai, zidzukulu za Meunimu, zidzukulu za Nefusimu,"
+                },
+                "53": {
+                    "verse_nr": "53",
+                    "verse": "Zidzukulu za Bakibuku, zidzukulu za Hakufa, zidzukulu za Harihuri,"
+                },
+                "54": {
+                    "verse_nr": "54",
+                    "verse": "Zidzukulu za Baziliti, zidzukulu za Mehida, zidzukulu za Harisa,"
+                },
+                "55": {
+                    "verse_nr": "55",
+                    "verse": "Zidzukulu za Barikosi, zidzukulu za Sisera, zidzukulu za Tema"
+                },
+                "56": {
+                    "verse_nr": "56",
+                    "verse": "Zidzukulu za Neziya, ndi zidzukulu za Hatifa."
+                },
+                "57": {
+                    "verse_nr": "57",
+                    "verse": "Zidzukulu za antchito a Solomoni: Zidzukulu za Sotai, zidzukulu za Sofereti, zidzukulu za Perida"
+                },
+                "58": {
+                    "verse_nr": "58",
+                    "verse": "zidzukulu za Yaala, zidzukulu za Darikoni, zidzukulu za Gideli,"
+                },
+                "59": {
+                    "verse_nr": "59",
+                    "verse": "zidzukulu za Sefatiya, zidzukulu za Hatilu zidzukulu za Pokereti-Hazebaimu ndi zidzukulu Amoni."
+                },
+                "60": {
+                    "verse_nr": "60",
+                    "verse": "Anthu onse ogwira ntchito ku Nyumba ya Mulungu pamodzi ndi zidzukulu za antchito a Solomoni analipo 392."
+                },
+                "61": {
+                    "verse_nr": "61",
+                    "verse": "Ali munsiwa anachokera ku Teli-Mela, Teri-Harisa, Kerubi, Adoni, ndi Imeri, koma sanathe kunena mwa tchutchutchu kuti makolo awo kapena mafuko awo analidi Aisraeli kapena ayi."
+                },
+                "62": {
+                    "verse_nr": "62",
+                    "verse": "Zidzukulu za Delaya, zidzukulu za Tobiya ndi zidzukulu za Nekoda 642."
+                },
+                "63": {
+                    "verse_nr": "63",
+                    "verse": "Ndiponso ena pakati pa ansembe anali awa: zidzukulu za Hobiya, zidzukulu za Hakozi ndi zidzukulu za Barizilai (munthu amene anakwatira mwana wamkazi wa Barizilai wa ku Giliyadi ndipo amatchedwa dzina limenelo)."
+                },
+                "64": {
+                    "verse_nr": "64",
+                    "verse": "Iwowa anafufuzafufuza mayina awo m\u02bcbuku la mibado ya mabanja awo ndipo sanapeze mayina awo kotero anachotsedwa pa unsembe nawerengedwa ngati odetsedwa pa chipembedzo."
+                },
+                "65": {
+                    "verse_nr": "65",
+                    "verse": "Choncho bwanamkubwa anawawuza anthuwo kuti asamadye nawo chakudya china chilichonse choperekedwa kwa Mulungu mpaka patapezeka wansembe wodziwa kugwiritsa bwino ntchito ya Urimu ndi Tumimu."
+                },
+                "66": {
+                    "verse_nr": "66",
+                    "verse": "Chiwerengero chonse cha anthuwa chinali 42,360."
+                },
+                "67": {
+                    "verse_nr": "67",
+                    "verse": "Kuwonjezera pamenepa panali antchito awo aamuna ndi aakazi 7,337 ndiponso anthu aamuna ndi aakazi oyimba nyimbo okwanira 245."
+                },
+                "68": {
+                    "verse_nr": "68",
+                    "verse": "Panali akavalo 736, abulu ang\u02bconoang\u02bcono 245."
+                },
+                "69": {
+                    "verse_nr": "69",
+                    "verse": "Ngamira zawo zinalipo 435 ndipo abulu analipo 6,720."
+                },
+                "70": {
+                    "verse_nr": "70",
+                    "verse": "Atsogoleri ena a mabanja anapereka mphatso zothandizira ntchito. Bwanamkubwa anapereka ku thumba losungira chuma, ndalama zagolide za makilogalamu asanu ndi atatu, mabeseni makumi asanu ndi zovala za ansembe 530."
+                },
+                "71": {
+                    "verse_nr": "71",
+                    "verse": "Atsogoleri ena amabanja anapereka ku thumba losungira chuma ndalama zagolide zokwana makilogalamu 168, ndiponso ndalama za siliva zokwana makilogalamu 1,250."
+                },
+                "72": {
+                    "verse_nr": "72",
+                    "verse": "Anthu ena onse otsala anapereka ndalama zagolide zokwana makilogalamu 168, ndalama za siliva zokwana makilogalamu 140, ndiponso zovala za ansembe 67."
+                },
+                "73": {
+                    "verse_nr": "73",
+                    "verse": "Choncho ansembe, Alevi, alonda a Nyumba ya Mulungu, anthu oyimba nyimbo, ena mwa anthu wamba, ogwira ntchito ku Nyumba ya Mulungu pamodzi ndi Aisraeli ena onse ankakhala m\u02bcmizinda yawo. Ezara Awerenga Malamulo - Pofika mwezi wachisanu ndi chiwiri Aisraeli onse anali atakhazikika m\u02bcmizinda yawo."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Anthu onse anasonkhana ngati munthu mmodzi pabwalo limene lili patsogolo pa Chipata cha Madzi. Iwo anawuza mlembi Ezara kuti abwere ndi buku la malamulo a Mose limene Yehova anapereka kwa Aisraeli."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Choncho pa tsiku loyamba la mwezi wachisanu ndi chiwiri wansembe Ezara, anabwera ndi buku la malamulo ku msonkhano wa amuna, akazi ndi ana onse amene ankatha kumvetsa zinthu bwino."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Choncho Ezara anawerenga bukulo atayang\u02bcana bwalo la Chipata cha Madzi kuyambira mmawa mpaka masana pamaso pa amuna, akazi ndi onse amene ankamvetsa bwino zinthu. Ndipo anthu onse anatchera khutu kuti amve malamulowo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mlembi Ezara anayimirira pa nsanja ya mitengo imene anthu anamanga chifukwa cha msonkhanowu. Ku dzanja lake lamanja kunayimirira Matitiya, Sema, Anaya, Uriya, Hilikiya ndi Maaseya, ndipo kudzanja lake lamanzere kunali Pedaya, Misaeli, Malikiya, Hasumu, Hasibadana, Zekariya ndi Mesulamu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tsono Ezara anatsekula buku, akuona popeza anayima pa nsanja. Pamene anafutukula bukulo anthu onse anayimirira."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ezara anatamanda Yehova, Mulungu wamkulu, ndipo anthu onse anakweza manja awo ndi kuyankha kuti, \u201cAmeni, ameni.\u201d Pambuyo pake onse anaweramitsa pansi mitu yawo napembedza Yehova akanali chizolikire choncho."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Anthuwo atayimiriranso Alevi awa: Yesuwa, Bani, Serebiya, Yamini, Akubu, Sabetayi, Hodiya, Maaseya, Kerita, Azariya, Yozabadi, Hanani ndi Pelaya anawathandiza kuti amvetse bwino malamulowo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Iwo anawerenga buku la malamulo a Mulungu momveka bwino ndi kutanthauzira mawuwo kuti anthu amvetse bwino zowerengedwazo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tsono bwanamkubwa Nehemiya pamodzi ndi wansembe ndi mlembi Ezara komanso Alevi amene amaphunzitsa anthu anati kwa anthu onse, \u201cLero ndi tsiku lopatulika kwa Yehova Mulungu wanu. Musakhale ndi chisoni ndipo musalire.\u201d Anayankhula choncho popeza anthu onse ankalira atamva mawu a buku la malamulo lija."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nehemiya anatinso, \u201cPitani, kachiteni phwando ku nyumba ndipo mukawagawireko ena amene alibe kanthu kalikonse popeza lero ndi tsiku lopatulika kwa Yehova. Musakhale ndi chisoni, pakuti chimwemwe cha Yehova ndiye mphamvu yanu.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Alevi anakhalitsa bata anthu onse powawuza kuti, \u201cKhalani chete, pakuti lero ndi tsiku lopatulika ndipo musakhale ndi chisoni.\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Anthu onse anachoka kupita kukadya ndi kumwa. Chakudya china anatumiza kwa anzawo. Choncho panali chikondwerero chachikulu popeza tsopano anali atamvetsa bwino mawu a Mulungu amene anawawerengera ndi kuwafotokozerawo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mmawa mwake atsogoleri a mabanja pamodzi ndi ansembe ndi alevi anasonkhana kwa Ezara, mlembi wa malamulo kuti aphunzire mawu a malamulowo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Tsono anapeza kuti zinalembedwa m\u02bcbuku la malamulo kuti Yehova analamula kudzera mwa Mose kuti Aisraeli azikhala m\u02bczithando pa nthawi yonse ya chikondwerero cha mwezi wachisanu ndi chiwiri."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Choncho analengeza ndi kufalitsa m\u02bcmizinda yawo yonse ndi mu Yerusalemu kuti, \u201cPitani ku phiri mukadule nthambi za mtengo wa olivi, za mtengo wa olivi wa kutchire, za mtengo wa mchisu, za mtengo wa mgwalangwa ndiponso za mitengo ina ya masamba, zomangira zithando monga zalembedweramu ndi kubwera nazo.\u201d"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Choncho anthu anapita kukatenga nthambi ndipo aliyense anadzimangira misasa pa denga ya nyumba yake, m\u02bcmabwalo awo, m\u02bcmabwalo a Nyumba ya Mulungu, m\u02bcbwalo la pa Chipata cha Madzi ndiponso m\u02bcbwalo la pa Chipata cha Efereimu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Gulu lonse la anthu limene linabwera ku ukapolo linamanga misasa ndipo linakhala m\u02bcmenemo. Kuyambira nthawi ya Yoswa mwana wa Nuni mpaka tsiku limenelo n\u02bckuti Aisraeli asanachitepo zimenezi. Choncho panali chimwemwe chachikulu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Tsiku ndi tsiku, kuyambira tsiku loyamba mpaka lomaliza, Ezara ankawerenga buku la malamulo a Mulungu. Anthu anachita chikondwerero masiku asanu ndi awiri. Pa tsiku lachisanu ndi chitatu panachitika msonkhano potsata buku la malamulo lija."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Aisraeli Avomereza Kuchimwa Kwawo - Pa tsiku la 24 la mwezi womwewo, Aisraeli anasonkhana pamodzi ndi kusala chakudya, kuvala ziguduli ndi kudzithira dothi pa mutu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Aisraeliwa anadzipatula pakati pa anthu a mitundu ina ndipo anayimirira nayamba kuwulula machimo awo ndi zolakwa za makolo awo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Anthuwo anayimirira pomwepo, ndipo anamva mawu a m\u02bcbuku la malamulo a Yehova akuwerengedwa kwa maora enanso atatu ndipo anakhala maora ena atatu akuwulula machimo awo ndi kupembedza Yehova Mulungu wawo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Pa makwerero okhalapo alevi anayimirirapo anthu awa: Yesuwa, Bani, Kadimieli, Sebaniya, Buni, Serebiya, Bani ndi Kenani. Iwowa ankapemphera mokweza mawu kwa Yehova Mulungu wawo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ndipo Alevi awa: Yesuwa, Kadimieli, Bani, Hasabaneya, Serebiya, Hodiya, Sebaniya ndi Petahiya anati: \u201cImirirani ndipo mutamande Yehova Mulungu wanu, amene ndi wamuyaya.\u201d \u201cLitamandike dzina lake laulemerero limene liposa madalitso ndi matamando onse."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Inu nokha ndiye Yehova. Munalenga kumwamba, ngakhale kumwambamwamba, zolengedwa zonse zimene zili m\u02bcmenemo. Munalenga dziko ndi zonse zokhalamo, nyanja ndi zonse zili m\u02bcmenemo. Zonse mumazisunga ndi moyo ndipo zonse za kumwamba zimakupembedzani."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u201cInu ndinu Yehova Mulungu amene munasankha Abramu ndi kumutulutsa m\u02bcdziko la Uri wa ku Kaldeya ndi kumutcha dzina lake Abrahamu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Inu munaona kuti mtima wake unali wokhulupirika kwa inu, ndipo munapangana naye pangano lakuti mudzapereka kwa zidzukulu zake dziko la Akanaani Ahiti, Aamori, Aperezi, Ayebusi ndi Agirigasi. Inu mwasunga lonjezo lanu chifukwa ndinu wolungama."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201cMunaona kuzunzika kwa makolo athu ku Igupto. Munamva kufuwula kwawo pa Nyanja Yofiira."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Inu munachita zizindikiro zozizwitsa ndi zodabwitsa kutsutsana ndi Farao, pamaso pa Farao, nduna zake ndi anthu onse a m\u02bcdziko lake, pakuti Inu munadziwa kuti anazunza makolo athu. Inu munadzipangira nokha dzina, monga zilili mpaka lero lino."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Inu munagawa nyanja anthu anu akupenya, kotero kuti anadutsa powuma, koma munamiza m\u02bcmadzi akuya anthu amene ankawalondola monga mmene uchitira mwala m\u02bcmadzi ozama."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Masana munkawunikira ndi chipilala cha mtambo ndipo usiku munkawunikira ndi chipilala cha moto njira yonse imene ankayendamo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u201cMunatsika pa Phiri la Sinai, ndipo munawayankhula kuchokera kumwamba. Munawapatsa malangizo olungama, ziphunzitso zoona ndiponso malamulo abwino."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Inu munawadziwitsa kuti tsiku lanu la Sabata ndi loyera ndipo munawapatsa malamulo ndi ziphunzitso."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pamene anali ndi njala munawapatsa buledi wochokera kumwamba. Pamene anali ndi ludzu munawapatsa madzi otuluka m\u02bcthanthwe. Munawawuza kuti apite kukalanda dziko limene munalonjeza kuti mudzawapatsa.\u201d"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u201cKoma makolo athu anadzikuza ndi kuwumitsa khosi, ndipo iwo sanamvere malamulo anu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Anakana kumvera ndipo sanakumbukire zodabwitsa zimene munachita pakati pawo. Koma iwo anawumitsa khosi, nakuwukirani podzisankhira okha mtsogoleri kuti awatsogolere kubwerera ku ukapolo ku dziko la Igupto. Koma ndinu Mulungu wokhululukira, wokoma mtima ndi wachifundo wosapsa mtima msanga ndi wachikondi chachikulu chosasinthika. Choncho Inu simunawasiye."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ngakhale pamene iwo anadziwumbira fano la mwana wang\u02bcombe ndi kuti, \u2018Uyu ndi mulungu wanu amene anakutulutsani m\u02bcdziko la Igupto,\u2019 kapena pamene anachita chipongwe choopsa."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u201cKoma Inu ndi chifundo chanu chachikulu, simunawasiye m\u02bcchipululu. Chipilala cha mtambo sichinasiye kuwatsogolera pa njira yawo masana ndipo chipilala cha moto sichinasiye kuwatsogolera pa njira yawo usiku."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Inu munawapatsa mzimu wanu wabwino kuti uwalangize. Inu simunawamane chakudya cha mana chija, ndipo munawapatsa madzi akumwa."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Munawasunga zaka makumi anayi m\u02bcchipululu ndipo sanasowe kanthu kalikonse. Zovala zawo sizinathe kapena mapazi awo kutupa.\u201d"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u201cInu munawapatsa mafumu ndi mayiko m\u02bcmanja mwawo. Munawagawiranso mayiko achilendo akutali kwambiri. Munabwera nawo m\u02bcdziko la Sihoni mfumu ya Hesiboni ndi dziko la Ogi mfumu ya Basani kuti alowemo n\u02bckulitenga kukhala lawo."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Munachulukitsa ana awo aamuna ngati nyenyezi za mlengalenga. Ndipo munawabweretsa m\u02bcdziko limene munawuza makolo awo kuti alilowe ndi kulitenga."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Choncho zidzukulu zawo zinapita ndi kukalandira dzikolo. Inu munagonjetsa pamaso pawo, Akanaani amene amakhala m\u02bcdzikolo. Inde munapereka m\u02bcmanja mwawo mafumu awo pamodzi ndi anthu a m\u02bcdzikomo kuti achite nawo monga angafunire."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Iwo analanda mizinda yotetezedwa ndi dziko lachonde. Anatenganso nyumba zodzaza ndi zinthu zonse zabwino, zitsime zokumbidwa kale, mitengo ya mphesa, mitengo ya olivi ndi mitengo yambiri ya zipatso. Ndipo anadya nakhuta ndipo anali athanzi. Choncho ankakondwa chifukwa cha ubwino wanu wopambana."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u201cKomabe iwo anakhala osamvera ndipo anakuwukirani nafulatira malamulo anu. Anapha aneneri anu, amene anakawadandaulira kuti abwerere kwa Inu. Anachita chipongwe choopsa."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Pamene anazunzidwa anafuwulira kwa Inu, ndipo Inu munawamvera muli kumwambako. Ndipo mwa chifundo chanu chachikulu munkawapatsa atsogoleri amene ankawapulumutsa m\u02bcmanja mwa adani awo.\u201d"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "\u201cKoma akangokhala pa mtendere ankayambanso kuchita zoyipa pamaso panu. Choncho munkawapereka m\u02bcmanja mwa adani awo amene ankawalamulira. Komabe pamene ankabwerera ndi kumalira kwa Inu, Inu munkawamva muli kumwambako. Chifukwa cha chifundo chanu chochuluka, nthawi zonse munkawapulumutsa."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "\u201cInu munkawachenjeza kuti abwerere ndi kuyamba kutsata malamulo anu. Koma iwo ankadzitukumula ndipo sankamvera malamulo anu. Iwo anachimwira malangizo anu amene munati \u2018Amapatsa moyo kwa munthu wowamvera.\u2019 Iwo ankakufulatirani, nawumitsa makosi awo osafuna kukumverani."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Munapirira nawo kwa zaka zambiri. Munkawachenjeza ndi Mzimu wanu kudzera mwa aneneri anu, koma iwo sankakumverani. Choncho munawapereka m\u02bcmanja mwa anthu a mayiko ena."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Komabe mwachifundo chanu chachikulu simuwatheretu kapena kuwataya pakuti ndinu Mulungu wokoma mtima ndi wachifundo."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "\u201cN\u02bcchifukwa chake, tsono, Inu Mulungu wathu, Mulungu wamkulu, wamphamvu ndi woopsa kwambiri mumasunga pangano ndi chikondi chosasinthika. Musalole kuti mavuto onse amene atigwera ife, mafumu athu, atsogoleri athu, ansembe athu, aneneri athu, makolo athu ndi anthu ena onse kuyambira nthawi ya mafumu a ku Asiriya mpaka lero aoneke ochepa pamaso panu."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Koma Inu mwakhala wolungama pa zonse zimene zakhala zikutichitikira. Mwachita zokhulupirika, koma ife tachita zolakwa."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Ndipotu mafumu athu, atsogoleri athu, ansembe athu ndi makolo athu sanatsatire mawu anu. Iwo sanalabadire za malamulo anu ngakhale mawu anu owachenjeza amene munawapatsa."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Ngakhale ankadzilamulira okha, n\u02bckumalandira zabwino zochuluka m\u02bcdziko lalikulu ndi lachonde limene munawapatsa, koma iwo sanakutumikireni kapena kusiya ntchito zawo zoyipa."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "\u201cTsono, taonani! Ife lero ndife akapolo, ndife akapolo m\u02bcdziko limene munapereka kwa makolo athu kuti azidya zipatso zake ndi zabwino zake zonse."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Tsono chifukwa cha machimo athu, mafumu amene munawayika kuti azitilamulira angodzilemeretsa ndi chuma chambiri cha dzikoli. Iwo ali ndi mphamvu zolamulira matupi athu ndi ng\u02bcombe zathu momwe afunira. Zedi, ife tili m\u02bcmavuto aakulu.\u201d"
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Mgwirizano wa Anthu - \u201cChifukwa cha zonsezi, ife tikuchita mgwirizano wokhazikika, pochita kulemba, ndipo atsogoleri athu, Alevi athu ndi ansembe athu asindikiza chidindo chawo pa mgwirizanowo.\u201d"
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Amene anasindikiza chidindo anali awa: Nehemiya, bwanamkubwa uja, mwana wa Hakaliya. Zedekiya,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Seraya, Azariya, Yeremiya"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pasuri, Amariya, Malikiya,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hatusi, Sebaniya, Maluki,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Harimu, Meremoti, Obadiya,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Danieli, Ginetoni, Baruki,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mesulamu, Abiya, Miyamini"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Maziya, Biligai ndi Semaya Awa anali ansembe."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Alevi anali awa: Yesuwa mwana wa Azaniya, Binuyi wa fuko la Henadadi, Kadimieli,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "ndi abale awo awa: Sebaniya, Hodiya, Kelita, Pelaya, Hanani,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mika, Rehobu, Hasabiya,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Zakuri, Serebiya, Sebaniya,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Hodiya, Bani ndi Beninu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Atsogoleri a anthu anali awa: Parosi, Pahati-Mowabu, Elamu, Zatu, Bani,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Buni, Azigadi, Bebai,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Adoniya, Bigivai, Adini,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ateri, Hezekiya, Azuri,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Hodiya, Hasumu, Bezayi"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Harifu, Anatoti, Nebayi,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Magipiyasi, Mesulamu, Heziri"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Mesezabeli, Zadoki, Yaduwa"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Pelatiya, Hanani, Ananiya,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Hoseya, Hananiya, Hasubu"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Halohesi, Piliha, Sobeki,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Rehumu, Hasabiya, Maaseya,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ahiya, Hanani, Anani,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Maluki, Harimu ndi Baana."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ife otsalafe, ndiye kuti ansembe, Alevi, alonda a ku Nyumba ya Mulungu, oyimba nyimbo, ogwira ntchito ku Nyumba ya Mulungu, onse amene anadzipatula pakati pa anthu a mitundu ina kuti atsate malamulo a Yehova, pamodzi ndi akazi athu, ana athu ndi onse amene ali ndi nzeru,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "tikuphatikana ndi abale athu wolemekezeka, ndipo tikulonjeza molumbira kuti tidzayenda motsata malamulo a Mulungu amene anapereka kudzera mwa Mose mtumiki wa Mulungu. Tilonjeza kumvera ndi kutsata bwino mawu onse, miyambo yonse ndi malangizo onse a Yehova. Yehova atilange ngati sitidzachita zimenezi."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "\u201cIfe tikulonjeza kuti sitidzapereka ana athu aakazi kuti akwatiwe ndi amuna a mayiko ena kapena kutenga ana awo aakazi kuti akwatiwe ndi ana athu aamuna."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "\u201cNgati anthu a mitundu ina abwera ndi zinthu za malonda, monga tirigu, kudzagulitsa pa tsiku la Sabata, sitidzawagula pa tsiku la Sabata kapena pa tsiku lina lililonse loyera. Pa chaka chilichonse cha chisanu ndi chiwiri tidzagoneka munda wosawulima ndipo tidzafafaniza ngongole zonse."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "\u201cTikulonjezanso molumbira kuti chaka ndi chaka tizipereka magalamu anayi a siliva kuti zithandize ntchito ya ku Nyumba ya Mulungu wathu."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Ndalamayi izithandiza kulipirira buledi wa pa tebulo, chopereka cha chakudya cha nthawi zonse, zopereka zopsereza za nthawi zonse, zopereka za pa tsiku la Sabata, za pachikondwerero cha Mwezi Watsopano, za pa masiku a chikondwerero osankhika, zopereka za zinthu zopatulika, zopereka za nsembe yopepesera machimo a Aisraeli ndi ntchito ina iliyonse ya ku Nyumba ya Mulungu."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "\u201cIfe ansembe, Alevi ndi anthu onse, tachita maere kuti tidziwe pamene banja lathu lililonse lidzabweretsa ku nyumba ya Mulungu wathu pa nthawi yoyikika ya chaka zopereka za nkhuni zoyaka pa guwa lansembe la Yehova Mulungu wathu, monga momwe zinalembedwera m\u02bcMalamulo.\u201d"
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "\u201cTilonjezanso kuti tidzabwera ndi zipatso zoyamba kucha za m\u02bcminda yathu ndi zipatso zoyamba kucha za mtengo uliwonse wa zipatso chaka ndi chaka kuti tidzapereke ku Nyumba ya Mulungu wathu.\u201d"
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "\u201cTidzabweranso nawo ku Nyumba ya Mulungu, kwa ansembe amene amatumikira ku Nyumba ya Mulungu ana athu aamuna oyamba kubadwa ndi ana ang\u02bcombe oyamba kubadwa monga zalembedwera mu Malamulo. Tidzaperekanso ana oyamba kubadwa a ziweto zathu ndi ana ankhosa oyamba kubadwa.\u201d"
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "\u201cNdiponso ku zipinda za Nyumba ya Mulungu wathu, kwa ansembe tidzaperekanso mtanda wathu wa buledi wa ufa ndi mphatso zina monga zipatso za mtengo uliwonse, vinyo ndi mafuta. Tidzaperekanso kwa alevi chakhumi cha mbewu zathu pakuti alevi ndiwo amasonkhanitsa chakhumi m\u02bcmidzi yathu yonse."
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Wansembe, mdzukulu wa Aaroni azikhala pamodzi ndi Alevi pamene akulandira chakhumi. Ndipo Alevi azibwera ndi chakhumicho ku nyumba ya Mulungu wathu, kuzipinda zosungiramo chuma.\u201d"
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Choncho Israeli, kuphatikiza zidzukulu za Alevi, azipititsa zopereka za tirigu, vinyo ndi mafuta ku zipinda zosungiramo katundu wopatulika, komanso kokhala ansembe amene akutumikira pamodzi ndi alonda a ku Nyumba ya Mulungu ndi anthu oyimba nyimbo. \u201cKwambiri ife sitidzaleka kusamala Nyumba ya Mulungu.\u201d"
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nzika Zatsopano za mu Yerusalemu - Nthawi imeneyo atsogoleri a anthu ankakhala ku Yerusalemu. Tsono anthu ena onse anachita maere kuti apeze munthu mmodzi pa anthu khumi aliwonse kuti azikhala ku Yerusalemu, mzinda wopatulika. Anthu asanu ndi anayi otsalawo ankakhala m\u02bcmidzi yawo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Anthu anayamikira onse amene anadzipereka kuti azikhala mu Yerusalemu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Aisraeli wamba, ansembe, Alevi, ogwira ntchito ku Nyumba ya Mulungu ndiponso zidzukulu za antchito a Solomoni ankakhala m\u02bcmidzi yawo, aliyense mu dera lake. Koma atsogoleri a chigawo cha Yuda anali atakhazikika mu Yerusalemu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ku Yerusalemu kunkakhalanso anthu ena a mafuko a Yuda ndi Benjamini. Ena mwa zidzukulu za Yuda ndi awa: Ataya, mwana wa Uziya, mwana wa Zekariya, mwana wa Amariya mwana wa Sefatiya, mwana wa Mahalaleli. Onsewa anali ana a Perezi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ena ndi awa: Maaseya mwana wa Baruki, mwana wa Koli-Hoze mwana wa Hazaya, mwana wa Adaya, mwana wa Yowaribu, Zekariya mwana wa Msiloni."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Zidzukulu zonse za Perezi, anthu amphamvu zawo amene ankakhala ku Yerusalemu analipo anthu okwanira 468."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nazi zidzukulu za Benjamini: Salu mwana wa Mesulamu, mwana wa Yowedi, mwana wa Pedaya, mwana wa Kolaya, mwana wa Maaseiya, mwana wa Itieli, mwana wa Yesaiya."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Abale ake anali Gabayi ndi Salaya. Onse pamodzi anali 928."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Yoweli mwana wa Zikiri ndiye anali mtsogoleri wawo, ndipo Yuda mwana wa Hasenuya ndiye amayang\u02bcanira chigawo cha chiwiri cha mzinda."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ansembe anali awa: Yedaya mwana wa Yowaribu; Yakini;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Seraya mwana wa Hilikiya mwana wa Mesulamu, mwana wa Zadoki, mwana wa Merayoti, mwana wa Ahitubi amene anali woyang\u02bcanira Nyumba ya Mulungu,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "ndi abale awo, amene ankagwira ntchito ku Nyumba ya Mulungu. Onse pamodzi anali 822. Panalinso Adaya mwana wa Yerohamu, mwana wa Pelaliya, mwana wa Amizi, mwana wa Zekariya, mwana wa Pasi-Huri, mwana wa Malikiya,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "ndi abale ake, amene anali atsogoleri a mabanja. Onse pamodzi anali 242. Kuphatikiza apo panalinso Amasisai mwana wa Azaireli, mwana wa Ahazayi, mwana wa Mesilemoti, mwana wa Imeri"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "ndi abale ake. Onse pamodzi anali 128 ndipo anali anthu olimba mtima kwambiri. Mtsogoleri wawo wamkulu anali Zabidieli mwana wa Hagedolimu."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Alevi anali awa: Semaya mwana wa Hasubu, mwana wa Azirikamu, mwana wa Hasabiya, mwana wa Buni."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sabetayi ndi Yozabadi anali atsogoleri amene ankayang\u02bcanira ntchito ya kunja kwa Nyumba ya Mulungu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mataniya mwana wa Mika, mwana wa Zabidi, mwana wa Asafu ndiye anali wotsogolera pa mapemphero achiyamiko. Panalinso Bakibukiya amene anali wachiwiri pakati pa abale ake. Kuwonjezera apo panalinso Abida mwana wa Samuwa, mwana wa Galali, mwana wa Yedutuni."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Alevi onse amene anali mu mzinda woyera analipo 284."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Alonda a ku Nyumba ya Mulungu anali awa: Akubu, Talimoni ndi abale awo. Onse pamodzi anali 172."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Aisraeli ena onse pamodzi ndi ansembe ndi Alevi ankakhala m\u02bcmizinda ya Yuda, ndipo aliyense ankakhala m\u02bcdera la makolo ake."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Koma antchito a ku Nyumba ya Mulungu ankakhala pa phiri la Ofeli, ndipo Ziha ndi Gisipa ndiwo anali kuwayang\u02bcanira."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Wamkulu wa Alevi mu Yerusalemu anali Uzi mwana wa Bani, mwana wa Hasabiya, mwana wa Mataniya, mwana wa Mika. Uzi anali mmodzi wa zidzukulu za Asafu, amene anali oyimba nyimbo pa nthawi zachipembedzo m\u02bcNyumba ya Mulungu."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Pakuti mfumu inalamula kuti tsiku ndi tsiku pa nthawi zachipembedzo oyimba nyimbowo azikhalapo."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Petahiya mwana wa Mesezabeli, mmodzi mwa zidzukulu za Zera mwana wa Yuda ndiye ankayimirira Aisraeli pa bwalo la mfumu ya Perisiya."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Anthu ena a fuko la Yuda ankakhala ku Kiriyati-Ariba ndi midzi yake, ku Diboni ndi midzi yake, ku Yekabizeeli ndi midzi yake,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "ku Yesuwa, Molada, Beti-Peleti,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Hazari-Suwali, Beeriseba ndi midzi yawo."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ku Zikilagi, Mekona ndi midzi yawo,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "ku Eni-Rimoni, Zora, Yarimuti,"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Zanowa, Adulamu ndi midzi yake, ku Lakisi ndi minda yake, ku Beeriseba mpaka ku chigwa cha Hinomu."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Nazonso zidzukulu za Benjamini zinkakhala m\u02bcdera lawo kuyambira ku Geba mpaka ku Mikimasi, Ayiya, Beteli ndi midzi yake,"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "ku Anatoti, Nobu ndi Ananiya,"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "ku Hazori, Rama ndi Gitaimu,"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "ku Hadidi, Zeboimu ndi Nebalati,"
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "ku Lodi, Ono ndi ku chigwa cha Amisiri."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Magulu ena a Alevi a ku Yuda ankakhala ku Benjamini."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ansembe ndi Alevi - Ansembe ndi Alevi amene anabwerera pamodzi ndi Zerubabeli mwana wa Sealatieli ndi Yesuwa anali awa: Seraya, Yeremiya, Ezara,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Amariya, Maluki, Hatusi,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Sekaniya, Rehumu, Meremoti,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ido, Ginetoyi, Abiya"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Miyamini, Maadiya, Biliga,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Semaya, Yowaribu, Yedaya,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Salu, Amoki, Hilikiya ndi Yedaya. Awa ndiye anali atsogoleri a ansembe ndi abale awo pa nthawi ya Yesuwa."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Alevi anali Yesuwa, Binuyi, Kadimieli, Serebiya, Yuda, ndiponso Mataniya, amene pamodzi ndi abale ake ankatsogolera nyimbo za mayamiko."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Abale awo, Bakibukiya ndi Uri, ankayimba nyimbo molandizana."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Yesuwa anabereka Yowakimu, Yowakimu anabereka Eliyasibu, Eliyasibu anabereka Yoyada."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Yoyada anabereka Yonatani, ndipo Yonatani anabereka Yaduwa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pa nthawi ya Yowakimu, awa ndiwo anali atsogoleri a mabanja a ansembe: Mtsogoleri wa fuko la Seraya anali Meraya; wa fuko la Yeremiya anali Hananiya;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "wa fuko la Ezara anali Mesulamu; wa fuko la Amariya anali Yehohanani;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "wa fuko la Maluki anali Yonatani; wa fuko la Sebaniya anali Yosefe;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "wa fuko la Harimu anali Adina; wa fuko la Merayoti anali Helikayi;"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "wa fuko la Ido anali Zekariya; wa fuko la Ginetoni anali Mesulamu;"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "wa fuko la Abiya anali Zikiri; wa fuko la Miniyamini ndi banja la Maadiya anali Pilitayi;"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "wa fuko la Biliga anali Samuwa; wa fuko la Semaya anali Yonatani;"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "wa fuko la Yowaribu anali Matenayi; wa fuko la Yedaya anali Uzi;"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "wa fuko la Salai anali Kalai; wa fuko la Amoki anali Eberi;"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "wa fuko la Hilikiya anali Hasabiya; wa fuko la Yedaya anali Netaneli."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Pa nthawi ya Eliyasibu, Yoyada, Yohanani ndi Yaduwa panalembedwa atsogolera a mabanja a Alevi ndi a ansembe mpaka pa nthawi ya ulamuliro wa Dariyo Mperisi."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Zidzukulu za Levi, makamaka atsogoleri a mabanja awo analembedwa m\u02bcbuku la mbiri mpaka pa nthawi ya Yohanani mwana wa Eliyasibu."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ndipo atsogoleri a Alevi awa, Hasabiya, Serebiya, Yesuwa mwana wa Kadimieli ndi abale awo, ankayimba nyimbo zotamanda ndi zothokoza molandizana. Gulu limodzi linkavomerezana ndi linzake monga mmene Davide munthu wa Mulungu analamulira."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Mataniya, Bakibukiya, Obadiya, Mesulamu, Talimoni ndi Akubu anali olonda nyumba zosungiramo chuma pa zipata za ku Nyumba ya Mulungu."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Iwo ndiwo ankatumikira pa nthawi ya Yowakimu mwana wa Yesuwa mwana wa Yozadaki, ndiponso pa nthawi ya bwanamkubwa Nehemiya ndi wansembe Ezara amene analinso mlembi."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Mwambo Wopereka Khoma la Yerusalemu - Pa mwambo wopereka khoma la Yerusalemu anayitana Alevi kulikonse kumene ankakhala kuti abwere ku Yerusalemu ku mwambo wopereka khoma kwa Mulungu, mwachimwemwe ndi mothokoza poyimba nyimbo pamodzi ndi ziwiya za malipenga, azeze ndi apangwe."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Tsono anthu a mabanja a Alevi oyimba nyimbo aja anasonkhana pamodzi kuchokera ku madera onse ozungulira Yerusalemu ndiponso ku midzi ya Anetofati,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Beti-Giligala ndi ku madera a ku Geba ndi Azimaveti, pakuti oyimbawo anali atamanga midzi yawo mozungulira Yerusalemu."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Tsono ansembe ndi Alevi anachita mwambo wodziyeretsa. Pambuyo pake anachita mwambo woyeretsa anthu onse ndi khoma la Yerusalemu."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Ine ndinabwera nawo atsogoleri a dziko la Yuda ndi kukwera nawo pa khoma. Ndipo ndinasankha magulu awiri akuluakulu oyimba nyimbo za matamando. Gulu limodzi linadzera mbali ya ku dzanja lamanja pa khoma mpaka ku Chipata cha Kudzala."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Pambuyo pawo panali Hosayia, theka la atsogoleri a Yuda aja"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "pamodzi ndi Azariya, Ezara, Mesulamu,"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Yuda, Benjamini, Semaya ndi Yeremiya."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Ena mwa ana a ansembe amene ankayimba malipenga awo anali awa: Zekariya mwana wa Yonatani mwana wa Semaya mwana wa Mataniya, mwana wa Mikaya, mwana wa Zakuri, mwana wa Asafu,"
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "pamodzi ndi abale awo awa: Semaya, Azareli, Milalai, Gilalayi, Maayi, Netaneli, Yuda ndi Hanani. Onse ankagwiritsa ntchito zida zoyimbira za Davide, munthu wa Mulungu. Tsono Ezara mlembi uja ankawatsogolera."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Kuchokera ku Chipata cha Kasupe anayenda nakakwera makwerero opita ku mzinda wa Davide pa njira yotsatira khoma, chakumtundu kwa nyumba ya Davide mpaka ku Chipata cha Madzi, mbali ya kummawa."
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Gulu loyimba lachiwiri linadzera mbali ya kumanzere kwa khomalo. Tsono ine ndi theka lina la atsogoleri aja tinkalitsata pambuyo tikuyenda pamwamba pa khomalo. Tinapitirira Nsanja ya Ng\u02bcanjo mpaka ku Khoma Lotambasuka."
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Tinadutsanso Chipata cha Efereimu, Chipata cha Yesana, Chipata cha Nsomba, Nsanja ya Hananeli, Nsanja ya Zana mpaka kukafika ku Chipata cha Nkhosa. Ndipo mdipiti uwu unakayima pa Chipata cha Mlonda."
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "Choncho magulu onse awiri oyimba nyimbo zothokoza aja anakayima pafupi ndi Nyumba ya Mulungu. Pamodzi ndi ine ndi theka la atsogoleri aja,"
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "panalinso ansembe awa akuyimba malipenga: Eliyakimu, Maaseya, Miniyamini, Mikaya, Eliyoenai, Zekariya ndi Hananiya."
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "Panalinso ansembe awa: Maaseya, Semaya, Eliezara, Uzi, Yehohanani, Milikiya, Elamu ndi Ezeri. Gulu loyimba linkatsogozedwa ndi Yezirahayiya."
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "Pa tsiku limenelo anthu anapereka nsembe zambiri ndipo anakondwera chifukwa Mulungu anawapatsa chimwemwe chachikulu. Nawonso akazi ndi ana anakondwera ndipo kukondwa kwa anthu a mu mzinda wa Yerusalemu kunamveka kutali."
+                },
+                "44": {
+                    "verse_nr": "44",
+                    "verse": "Tsiku limenelo panasankhidwa anthu oyang\u02bcanira zipinda zosungiramo zopereka zaufulu, zipatso zoyamba kucha, zopereka za chakhumi. Anthuwo ankasonkhanitsa zopereka kuchokera ku minda ya midzi yonse kuti azipereke kwa ansembe ndi Alevi malingana ndi malamulo. Izi zinali chomwechi chifukwa Ayuda ankakondwera ndi utumiki wa ansembe ndi Alevi."
+                },
+                "45": {
+                    "verse_nr": "45",
+                    "verse": "Iwowa ankagwira ntchito ya Mulungu wawo, makamaka mwambo woyeretsa zinthu. Nawonso oyimba nyimbo ndi olonda ku Nyumba ya Mulungu anagwira ntchito zawo monga Davide ndi mwana wake Solomoni analamula."
+                },
+                "46": {
+                    "verse_nr": "46",
+                    "verse": "Pakuti kalekale, pa nthawi ya Davide ndi Asafu, panali atsogoleri a anthu oyimba nyimbo za matamando ndi nyimbo zoyamika Mulungu."
+                },
+                "47": {
+                    "verse_nr": "47",
+                    "verse": "Choncho mu nthawi ya Zerubabeli ndi Nehemiya, Aisraeli onse anakapereka mphatso tsiku ndi tsiku kwa anthu oyimba nyimbo ndi alonda a ku Nyumba ya Mulungu. Ankayikanso padera chigawo cha zopereka cha Alevi. Nawonso Alevi ankayika padera chigawo cha zopereka cha ansembe, zidzukulu za Aaroni."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kukonza Zinthu Kotsiriza kwa Nehemiya - Pa tsiku limenelo anawerenga buku la Mose anthu akumva. Ndipo anapeza mawu akuti, Mwamoni kapena Mmowabu asalowe konse mu msonkhano wa Mulungu."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Paja iwowa sanawachingamire Aisraeli kukawapatsa chakudya ndi madzi. M\u02bcmalo mwake analemba ganyu Baalamu kuti adzawatemberere. Komabe Mulungu wathu anasandutsa tembererolo kukhala mdalitso."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Anthu atamva lamuloli, anachotsa pakati pawo onse amene anali achilendo."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Izi zisanachitike, wansembe Eliyasibu anali atasankhidwa kukhala woyang\u02bcanira zipinda zosungiramo katundu za Nyumba ya Mulungu. Iyeyu ankagwirizana kwambiri ndi Tobiya."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Choncho anamupatsa chipinda chachikulu chimene kale ankasungamo zopereka zakudya, lubani, ziwiya, zopereka za chakhumi za tirigu, vinyo ndi mafuta zoyenera kuperekedwa kwa Alevi, oyimba nyimbo ndi alonda a ku Nyumba ya Mulungu, komanso mphatso zoyenera kupereka kwa ansembe."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Koma pamene izi zonse zinkachitika mu Yerusalemu, ine kunalibe popeza m\u02bcchaka cha 32 cha Aritasasita mfumu ya Babuloni ine ndinabwerera kwa mfumu. Patapitanso nthawi ndinapempha chilolezo kwa mfumuyo"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "ndipo ndinabwerera ku Yerusalemu. Kumeneko ndinamva za chinthu choyipa chimene Eliyasibu anachita pomupatsa Tobiya chipinda m\u02bcbwalo la Nyumba ya Mulungu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ndinapsa mtima kwambiri ndipo ndinataya kunja katundu yense wa Tobiya amene anali m\u02bcchipindamo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ndinalamulira kuti ayeretse zipinda, ndipo kenaka ndinabwezeramo zida za m\u02bcNyumba ya Mulungu, pamodzi ndi chopereka cha zakudya ndi lubani."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ndinapezanso kuti Alevi sankalandira magawo awo amene amayera kulandira. Chotsatira chake Alevi onse pamodzi ndi oyimba nyimbo amene ankagwira ku Nyumba ya Mulungu anathawa, aliyense kupita ku munda wake."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Choncho ndinadzudzula akuluakulu aja ndipo ndinawafunsa kuti, \u201cN\u02bcchifukwa chiyani Nyumba ya Mulungu yasiyidwa?\u201d Ndipo ine ndinawayitanitsa pamodzi ndi kuwayika m\u02bcmalo awo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pambuyo pake Ayuda anayambanso kubwera ndi zopereka zawo za chakhumi cha tirigu, vinyo ndi mafuta kuti ziperekedwe ku nyumba yosungiramo chuma."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ndipo ndinasankha wansembe Selemiya, mlembi Zadoki, ndi Mlevi wotchedwa Pedaya kukhala oyang\u02bcanira zipinda zosungiramo. Ndinasankhanso Hanani mwana wa Zakuri mwana wa Mataniya kukhala wowathandizira chifukwa ndinaona kuti anthu awa anali odalirika. Ntchito yawo inali yogawira abale awo zinthu zofunika."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Inu Mulungu wanga, mundikumbukire pa zimenezi, ndipo musafafanize ntchito zanga zimene ndachita mokhulupirika pa Nyumba yanu pofuna kukutumikirani."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nthawi imeneyo ndinaona anthu a mu Yuda akuponda ndi kufinya mphesa pa tsiku la Sabata. Ena ankawunjika tirigu milumilu ndi kumasenzetsa abulu. Enanso ankabwera ndi vinyo, mphesa, mkuyu ndi katundu wa mitundumitundu ku Yerusalemu pa tsiku la Sabata. Choncho ndinawachenjeza za kugulitsa zakudya pa tsiku la Sabata."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nawonso anthu a ku Turo amene ankakhala mu Yerusalemu ankabweretsa nsomba ndi akatundu ena onse amalonda kudzagulitsa pa Sabata kwa anthu a m\u02bcdziko la Yuda ndi a mu Yerusalemu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ndipo ndinadzudzula anthu olemekezeka a dziko la Yuda. Ndinawafunsa kuti, \u201cN\u02bcchoyipa chanji mukuchitachi, kumayipitsa tsiku la Sabata chotere?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Makolo anu anachita zomwezi ndipo Mulungu wathu anadzetsa mavuto pa ife ndi pa mzinda uwu. Kodi inu mukufuna kuwutsanso mkwiyo wa Mulungu pa Israeli pamene mukudetsa tsiku la Sabata?\u201d"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "N\u02bcchifukwa chake ndikulamula kuti pamene kuyamba kuda, tsiku la Sabata lisanayambe, azitseka zipata zonse za Yerusalemu ndipo asazitsekule mpaka sabata litatha. Ndinayika ena mwa antchito anga oyang\u02bcanira pa zipata kuti katundu aliyense asalowe mu Yerusalemu pa tsiku la Sabata."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Choncho kamodzi kapena kawiri anthu amalonda ndi anthu ogulitsa katundu osiyanasiyana ankagona usiku wonse kunja kwa Yerusalemu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Koma ndinawachenjeza ndi kuwafunsa kuti, \u201cN\u02bcchifukwa chiyani mukugona pafupi ndi khoma? Ngati muchitanso zimenezi, ine ndidzakugwirani.\u201d Kuyambira nthawi imeneyo, sanabwerenso pa tsiku la Sabata."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Ndipo ndinalamulira Alevi kuti adziyeretse okha ndi kubwera kudzalonda pa zipata ndi cholinga choti tsiku la Sabata likhale tsiku loyera. Inu Mulungu wanga, kumbukireninso ine pa zimenezi ndipo mundisunge malingana ndi chikondi chanu chachikulu chosasinthika."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Masiku amenewo ndinaonanso anthu a ku Yuda amene anakwatira akazi ochokera ku Asidodi, Amoni ndi Mowabu."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Theka la ana awo linkayankhula chiyankhulo cha Asidodi kapena chiyankhulo chimodzi cha anthu ena, ndipo sankathanso kuyankhula chiyankhulo cha Ayuda."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Tsono ndinakangana nawo ndi kuwatemberera. Ndinamenya ena mwa anthuwo ndi kuzula tsitsi lawo. Ine ndinawalumbiritsa m\u02bcdzina la Mulungu kuti, \u201cInu musapereke ana anu aakazi kuti akwatiwe ndi ana awo aamuna kapena inuyo ngakhale ana anu aamuna kukwatira ana awo aakazi."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Kodi Solomoni mfumu ya Israeli suja anachimwa chifukwa cha ukwati ngati umenewu. Pakati pa mitundu yambiri panalibe mfumu ngati iyi. Iye anakondedwa ndi Mulungu wake, ndipo Mulungu anamuyika kukhala mfumu ya Israeli yense, koma iyeyo anachimwa chifukwa cha akazi achilendo."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Kodi tsopano ife tizimva inu kuti mukuchita choyipa chachikulu chimenechi, kupandukira Yehova Mulungu wathu pomakwatira akazi achilendo?\u201d"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Mmodzi mwa ana aamuna a Yehoyada mwana Eliyasibu mkulu wa ansembe n\u02bckuti nthawi imeneyi ali mpongozi wa Sanibalati wa ku Horoni. Choncho ndinamuthamangitsa pamaso panga."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Inu Mulungu wanga, mukumbukire mmene iwo anayipitsira unsembe, pangano la unsembe komanso la Alevi."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Motero ndinayeretsa ansembe ndi Alevi powachotsera kalikonse kachilendo. Ndipo ndinakhazikitsa ntchito zawo, kuti aliyense akhale pa ntchito yake."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Ndiponso kupereka nkhuni ndi zipatso zoyamba kucha pa nthawi yake. Ndikumbukireni pondikomera mtima, Inu Mulungu wanga."
+                }
+            }
+        }
+    }
+}

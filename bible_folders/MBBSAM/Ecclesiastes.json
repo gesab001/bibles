@@ -1,0 +1,955 @@
+{
+    "version": "MBBSAM",
+    "book_name": "Ecclesiastes",
+    "book_nr": "21",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Amo ini an mga pulong han Magwarali nga anak ni David, nga hadi ha Jerusalem"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Waray la kapulsanan, waray kapulsanan, nasiring an Magwarali. Waray kapulsanan an kinabuhi. An ngatanan waray la kapulsanan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nagkinabudlay ngan nagginuol kamo ha bug-os niyo nga kinabuhi, ngan may-ada ba niyo nakuha?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nagliwanliwan in mga katulinan, kundi amo la gihapon an kalibutan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nasirang an adlaw ngan natutunod la gihapon, ngan naghihinayhinay hin pagbalik ngadto han dapit nga iya titikangan hin pagsirang."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nahangin tipatimogan, nahangin tipaamihanan, naglilinibotlibot, ngan nabalik na liwat."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Natipakadto ha dagat an ngatanan nga mga salog, kundi diri pa napupuno an dagat. Nabalik an tubig ha mga dapit nga gintitikangan han mga salog ngan naawas na liwat."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nahatag hin kagul-anan an ngatanan nga mga butang\u2014kagul-anan nga diri sadang mahiasoy. Diri gud natunga hin pagkinita an aton mga mata o pagpinamati an aton mga durunggan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "An nahinabo na, mahinanabo liwat. An ginbuhat na, pagbubuhaton liwat. Waray gud bag-o dinhe ha kalibutan."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nasiring hira, \u201cKitaa, iini in bag-o.\u201d Kundi diri ini bag-o, nahinabo na ini hadto pa, han waray pa kita katatawo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Waray nahinunumdom han nahinabo hadto pa, ngan waray na mga adlaw nga tiarabot mahinunumdom han nahinanabo yana ngan han umarabot."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ako, an Magwarali, nag-ukoy ha Jerusalem, ngan hadi ako han Israel."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Gintalinguha ko hin pag-usisa ngan pag-aram han ngatanan nga ginbuhat dinhe hini nga kalibutan.\nIginpahamtang ha aton han Dyos in makalolooy nga kapalaran."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Hinkit-an ko an ngatanan nga ginbuhat dinhe hini nga kalibutan, ngan susumatan ko kamo nga waray la kapulsanan ini ngatanan. Sugad la kita hin tawo nga nagdadakop han hangin."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Diri niyo matatadong an baliko ngan diri niyo maiihap an waray dida."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nagsiring ako ha akon ngahaw, \u201cNagin dako ako nga pagkatawo, nga labaw gud hin kamaaram hin bisan hin-o nga naghadi ha Jerusalem una ha akon. Maaram ako kon ano gud an kinaadman ngan an hibaro.\u201d"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Gintalinguha ko nga akon hibaroan an kalainan han kaaram ug kalurongan, han kinaadman ug katuyawan. Kundi hinbaroan ko nga maupay pa magdinakop ako han hangin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kon darudako an imo kinaadman, darudamo man an imo kabidoan; kon darudako an imo hinbabaroan, darudako man an imo pag-aantoson."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Naglarang ako hin pagpahalipay ha akon ngahaw ngan pag-usisa kon ano gud an kalipayan. Kundi hinbaroan ko nga waray la gihapon ini kapulsanan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nasayoran ko nga kalurongan la an pagtawa, ngan diri nakakaupay ha imo an pagrayhak."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Dara han akon pag-ungara hin kinaadman, naglarang ako hin paglipay ha akon ngahaw pinaagi hin irimnon ngan pagliaw-libang. Naghunahuna ako nga bangin amo ini an gimamaupayi nga mabubuhat han mga tawo sulod han ira halipot nga kinabuhi ha tuna."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nahimo ko in dagko nga mga buruhaton: Nagtindog ako hin kabablayan, ngan nagtanom ako hin mga urubasan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "May-ada ako mga tanaman ngan mga uma hin nabunga nga mga kakahoyan"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "nag-ukab ako hin mga bobon basi katubigan an akon uma."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Namalit ako hin damo nga mga oripon, ngan may mga oripon nga nagkatatawo ha akon balay. Darudamo an akon kahayopan hin bisan hin-o nga nag-ukoy ha Jerusalem."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nakatirok liwat ako hin salapi ug bulawan tikang han hadianon nga mga manggad han mga tuna nga akon nasakopan. Nagkanta ha pagliaw ha akon in mga kalalaken-an ug kababayen-an, ngan naangkon ko an ngatanan nga kababayen-an nga akon naruruyagan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tinuod nga dako ako, darudako pa bisan kan kanay nga nag-ukoy ha Jerusalem, ngan waray gud magkawang ha akon an akon kinaadman."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Naangkon ko an ngatanan nga akon kinaruyag. Waray ko pagdid-i hin kalipayan an akon kalugaringon. Nalipay ako han ngatanan nga akon ginkabudlayan, ngan amo ini ngatanan an akon balos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Niyan ginpainoino ko an ngatanan nga akon nabuhat ngan an kakurian nga akon inatubang hin pagbuhat hini, ngan hinsabotan ko nga waray la kapulsanan ini. Sugad la ini hin tawo nga nagdadakop han hangin\u2014waray gudla kapulsanan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ha katapostaposan, an mahihimo la hin hadi amo la an ginbuhat han una nga kahadian.\nSanglit nagpainoino ako kon ano an kahulogan han kamaaram, han katuyaw, ngan han kalurong."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Maaram ako hini, \u201cMauruupay an kinaadman kay han kalurongan, sugad nga mauruupay an kapawa kay han kasisidman."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Nakakakita an mga mag-aram kon tikain hira, kundi diri an mga lurong.\u201d Kundi maaram liwat ako nga amo la gihapon nga kapalaran an ginhuhulat naton ngatanan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Naghunahuna ako, \u201cMahinanabo liwat ha akon an nahinanabo han mga lurong. Sanglit ano gud an akon nakuha han akon duro hin kamaaram?\u201d \u201cWaray gud,\u201d binmaton ako."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Waray nahinunumdom han mga mag-aram, ngan waray liwat nahinunumdom han mga lurong. Ha tiarabot nga mga adlaw, hingangalimtan kita ngatanan. Mapatay kita ngatanan\u2014an mag-aram sugad man an lurong."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Sanglit nawaray la hinungdan para ha akon an kinabuhi, kay waray man ini iginhatag ha akon, labot hin kasamokan. Waray gudla kapulsanan ini ngatanan; nagdinakop la ako han hangin."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Waray gudla hinungdan para ha akon an ngatanan nga akon ginkabudlayan ngan naangkon, kay akon hinbaroan nga ibibilin ko ini ha akon sumurunod"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "ngan hin-o in maaram nga bangin maaram o lurong hiya? Kundi hiya an magtatag-iya han ngatanan nga akon ginkabudlayan ngan han ngatanan nga naangkon han akon kinaadman dinhe hini nga kalibutan. Waray gudla pulos ini ngatanan!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Sanglit nagbasol ako nga nagpinangusog ako hin duro."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Nagkakabudlay ka hin butang ha bug-os mo nga kinaadman, hibaro, ug sarabutan, ngan katapos ibibilin mo ini ngatanan hin tawo nga waray gud pagkabudlay hini. Waray la ini pulos ngan diri gud angay buhaton!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Nagkakabudlay ngan nababaraka ka ha bug-os mo nga kinabuhi, ngan ano man an imo makukuha hini?"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Samtang buhi ka pa, kabaraka ug kasakit la ha kasingkasing an gindadara han ngatanan nga imo binubuhat. Bisan ha kagab-ihon diri nakakapahuway an imo hunahuna. Waray gudla kapulsanan ini ngatanan."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "An gimamaupayi nga mabubuhat hin tawo amo an pagkaon ngan pag-inom, ngan pagpahimulos han iya pinakabuhian. Kundi hinsabtan ko nga bisan pa ngani ini natikang ha Dyos."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Uunanhon nimo pakakaon o pagmalipayon?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Nahatag an Dyos hin kinaadman, hibaro, ug kalipayan hadton mga nakakalipay ha iya, kundi pinapagkabudlay niya an mga makasasala, hin pagpakabuhi ngan pagtirok, basi an ira hin-aagian ihatag hadton mga nakakalipay ha iya. Waray gud la kapulsanan ini ngatanan ngan sugad la ini hin nagdadakop han hangin."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "An ngatanan dinhe ha kalibutan nahinanabo ha panahon nga gintalaan han Dyos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Igintatalaan niya an panahon hin katawo ngan an panahon hin kamatay,\nan panahon hin pagtanom ngan an panahon hin paggabot"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "an panahon hin pagpatay ngan an panahon hin pagtambal,\nan panahon hin pagruba ngan an panahon hin pagtindog."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Igintatalaan niya an panahon hin pagbido ngan an panahon hin paglipay,\nan panahon hin pagkasubo ngan an panahon hin pagsayaw"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "an panahon hin pakighilawas ngan an panahon hin diri pakighilawas,\nan panahon hin pagharok ngan an panahon hin diri pagharok."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Igintatalaan niya an panahon hin pamiling ngan an panahon hin pagwara,\nan panahon hin pagtipig ngan an panahon hin paglabog"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "an panahon hin paggisi ngan an panahon hin pagtangkop,\nan panahon hin pagmingaw ngan an panahon hin pagyakan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Igintatalaan niya an panahon hin paghigugma ngan an panahon hin pagdumot,\nan panahon hin araway ngan an panahon hin kalinaw."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ano an aton naaangkon han ngatanan nga aton ginkabudlayan?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Maaram ako han magbug-at nga mga darad-on nga iginbutang ha aton han Dyos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Igintalaan niya an angay nga panahon han ngatanan nga mga butang. Gintagan kita niya hin ungara hin paghibaro han kabubwason, kundi diri gud niya ihinahatag ha aton an kalipay hin pakasayod gud han iya ginbubuhat."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sanglit hinsabtan ko nga an maupay la nga mabubuhat naton amo an pagkalipay ngan pagbuhat sugad han aton mahihimo samtang buhi pa kita."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Kinahanglan kumaon ngan uminom kita ngatanan ngan magpahimulos kita han aton ginkabudlayan, kay hatag ini han Dyos."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Maaram ako nga magpapadayon gud an ngatanan nga ginbubuhat han Dyos. Diri ka makakadugang o makakaiban hin bisan ano hini. Usa nga butang nga karuyag han Dyos amo nga tumahod kita ha iya."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "An nahinanabo yana ngan mahinanabo pa, nahinabo na hadto. Ginliliwatliwat la han Dyos an amo ngahaw nga mga hinabo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Labot la hini, akon liwat hinsabotan nga dinhe ha kalibutan an kamaraogdaog aadto ha dapit nga angay unta hiagian an maupay ngan an matadong."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nagsiring ako ha akon ngahaw, \u201cWaray pinalabi an paghukom han Dyos han mga magtadong ngan han mga magraot, kay mahinanabo man ha igintalaan nga panahon an ngatanan nga butang ngan ngatanan nga buhat.\u201d"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Nakahunahuna ako nga ginsasarihan kita han Dyos ha pagpakita ha aton nga sugad la kita hin mga mananap."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Ngani, waray kalainan an kapalaran nga naghuhulat han tawo ngan han mananap. Napatay an tawo sugad han mananap, kay hira nga duha mga binuhat. Diri labaw han mananap an tawo, kay waray la kahulogan ha ira nga duha an kinabuhi."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Amo ngahaw nga dapit an ira kakadtoan\u2014an tapotapo. Tinmikang hira ha tapotapo, ngan amo gihapon mabalik hira ha tapotapo."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Uunanhon hin paghibaroi han tawo nga natipaigbaw an espiritu hin tawo ngan natipatuna an espiritu hin mananap?"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Sanglit nakasabot ako nga an maupay nga sadang naton buhaton amo an pagpahimulos han aton ginkabudlayan. Waray na iba nga aton mabubuhat. Waray paagi para ha aton hin pakasabot kon ano an mahinanabo ha aton katapos ta kamatay."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Niyan akon liwat ginpainoino an mga karat-an nga nagpapadayon dinhe ha kalibutan. Nagtatangis an mga gintatalumpigos, ngan waray gud nabulig ha ira. Waray nabulig ha ira kay gamhanan man an mga nagtatalumpigos ha ira."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Naawa ako hadton mga nagkamatay ngan binmaya na; mauruupay pa hira hadton mga buhi pa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kundi mauruupay pa gud ha ira nga duha adton waray magkatatawo, nga waray pa makakita han mga karat-an nga nagpapadayon dinhe ha kalibutan."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Akon liwat hinbaroan an duro nga pagpanangusog han mga tawo basi hira magmainuswagon: kay naawa hira han mga butang han ira mga amyaw. Kundi waray la ini pulos. Sugad la ini hin pagdinakop han hangin."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nasiring hira nga lurong in tawo nga nakugos han iya mga kamot ngan mamatay hin gutom."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Bangin la, kundi mauruupay pa nga may-ada bisan gutiay la, ngan murayaw an hunahuna, kay hin pagkinabudlay ha ngatanan nga panahon han duha niya nga mga kamot, hin paniguro hin pagdinadakopan la han hangin."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hinsabotan ko pa ha kinabuhi in lain liwat nga waray kapulsanan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Iini in tawo nga nag-uusaan la. Waray niya anak, waray bugto, kundi dayuday hiya nagkikinabudlay, nga diri gud natunga han iya manggad. Para kanay an iya ginkikinabudlayan hin duro, nga diri na ngani hiya nakakagpahimulos hin mga kalipayan? Waray liwat ini kapulsanan ngan makalolooy la nga paagi hin pag-ukoy dinhe ha kalibutan."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "An duduha mauruupay han uusa la, kay makakagtrabaho hin maupay hira nga duha."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kon matumba an usa ha ira makakabulig hin pagbangon ha iya an ikaduha. Kundi kon nag-uusaan la in tawo ngan matumba hiya, makuri ini kay waray man mabulig ha iya."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kon mahagkot an panahon, nakakagdirig an duduha ngan papasoan hira, kundi uunanhon mo pagpapaso kon uusa ka la?"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "An duha ka tawo makakaato hin pagsulong nga makakapirde hin usa la ka tawo. An pisi nga tinulotulo makuri mautod."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mahimo umuswag in tawo tikang ha kakablasan ngadto hin pagkahadi han iya nasod, o tikang ha prisohan ngadto hin trono, kundi kon ha iya pagkalagas, diri na hiya mamati hin sagdon, mauruupay pa ha iya in kablas nga batan-on kundi may-ada hibaro."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mahimo umuswag in tawo tikang ha kakablasan ngadto hin pagkahadi han iya nasod, o tikang ha prisohan ngadto hin trono, kundi kon ha iya pagkalagas, diri na hiya mamati hin sagdon, mauruupay pa ha iya in kablas nga batan-on kundi may-ada hibaro."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ginpainoino ko an ngatanan nga mga tawo nga nag-uokoy hini nga kalibutan, ngan nasabtan ko nga dida ha ira, may batan-on nga lalake nga masaliwan han hadi."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Bangin waray katubtoban an kadamo han mga tawo nga ginhahadian hin usa nga hadi, kundi kon patay na hiya, waray manunumdom han iya nabuhat. Waray la ini kapulsanan. Sugad la ini hin pagdinakop han hangin."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Paghinay kon makadto ka ha Templo. Mauruupay pa in pagkadto hin pag-aram kay hin paghalad hin mga unong, sugad hin lurong nga mga tawo nga diri maaram kon ano an matadong ngan an sayop."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Panhunahuna anay san-o ka magyakan, ngan ayaw pagdalidali hin pagsaad sa Dyos. Aadto hiya ha langit ngan aanhi ka ha tuna, sanglit ayaw pagyakan labaw han angay mo igyakan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kon dako an imo kabaraka madagmit ka makag-inop hin maraot, ngan kon magpasagad ka ha imo pagyakan, madagmit ka makayakan hin tinuyaw."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sanglit kon magsasaad ka sa Dyos, tumana ini dayon. Waray niya pagkinahanglan hin lurong, sanglit tumana an imo ginsaad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Gabay ka pa diri magsaad, kay hin magsaad ka ngan diri nimo tumanon."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ayaw itugot nga an imo mga pulong makapasala ha imo, basi sidngon mo an padi han Dyos nga diri mo tinuyo. Kay ano nga imo man tinagan hin higayon nga an Dyos masina ha imo? Kay ano nga ipabungkag mo ha iya an imo ginkabudlayan?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kinahanglan tumahod ka gihapon han Dyos, bisan pa kon damo an imo mga inop, damo an imo mga buhat nga waray pulos, ngan damo an imo mga yakan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ayaw hipausa kon kinikita mo nga gintatalumpigos han kagamhanan an mga kablas, ngan iginlilirong ha ira an katadongan ngan an ira mga katungod. Pinananalipdan han labaw ha iya an tagsa nga opisyal, ngan pinananalipdan liwat hira han larulabaw ha ira nga mga opisyal."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bisan ngani hadi nasarig han aranihon."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kon nahigugma ka hin kwarta diri ka gud matunga; kon karuyag mo nga magriko, diri ka gud makakaangkon han ngatanan nga imo kinaruruyag. Waray la ini kapulsanan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kon riko ka, darudamo man an imo pakakaonon. An imo la maaangkon amo an imo paghibaro nga riko ka."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "An tawo nga paragtrabaho bangin waray igo nga pagkaon, kundi maupay an iya pagkaturog ha gab-i. Kundi makuri mahingaturog in riko kay damo an iya nababarak-an."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Iini in makalilisang nga butang nga akon hinkit-an dinhe ha kalibutan: may mga tawo nga nagtitirok han ira kwarta para hin panahon nga magkinahanglan hira hini"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "kundi ha maraot nga pagpatigayon nauubos ini ngan waray na ngani nabibilin para han ira mga anak."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nabaya kita hini nga kalibutan sugad gud han aton pagkatawo dinhe nga waray gud naton dara. Bisan pa han ngatanan naton nga pagkabudlay, waray gud naton bisan ano nga madadara."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Diri gud ini an angay buhaton! Malakat kita sugad gud han aton pag-abot. Nagkikinabudlay kita ngan nagtitinguha kita hin pagdakop han hangin, ngan ano man an aton naaangkon?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Nag-uokoy kita hin kinabuhi ha kasisidman ug kabidoan, dida hin kabaraka, kasina, ngan kasakit."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Iini in akon hinbaroan: an angay buhaton han tawo amo an pagkaon ngan pag-inom, ngan pagpahimulos han iya ginkabudlayan sulod han halipot nga kinabuhi nga iginhatag ha iya han Dyos; amo ini an kapalaran han tawo."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Kon tagan han Dyos hin manggad ug hiagi in tawo, ngan pagpahimulosan ini niya, kinahanglan magpasalamat hiya ngan magpahimulos han iya ginkabudlayan, kay hatag ini han Dyos."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Tungod nga tinmugot an Dyos nga magmalipayon hiya, diri hiya mababaraka hin duro han kahalipot la han kinabuhi."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hinkit-an ko in karat-an nga ginbubuhat dinhe ha kalibutan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mahatag an Dyos ha usa ka tawo hin manggad, dungog, ug hiagi, ngan han ngatanan nga iya kinaruruyag, kundi diri hiya matugot nga magpahimulos hini an tawo. An diri lugod kinikilala an magpapahimulos hini. Waray ini pulos ngan diri gud ini angay buhaton."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bisan pa mag-usa ka gatos an mga anak hin tawo ngan mahilawig an iya kinabuhi, kundi bisan pa mahilawig an iya kinabuhi, kon diri hiya makaangkon han iya bahin hin kalipayan han kinabuhi ngan diri hiya mahilubong hin maupay, niyan masiring ako nga maupay pa nga natawo hiya nga daan patay."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Waray kapulsanan an iya katawo, kay maanaw la hiya ngadto ha kasisidman, ngan hinngangalimtan."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Diri gud hiya makita han kapawa han adlaw, o masasayod kon ano an kinabuhi, kundi nakapahuway gihapon hiya."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Labi na an tawo nga diri gud nagpapahimulos han kinabuhi, bisan kon mabuhi hiya hin duha ka yukot ka tuig. Ha katapostaposan, makadto hira nga duha ha amo la ngahaw nga dapit."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Nagbubuhat in tawo han ngatanan niya nga mga buruhaton basi la makakaon hiya, kundi diri gud hiya nasasadngan."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ano man an kalainan han lurong ug han maaram? Ano nga kaupayan an maaangkon han kablas nga tawo kon mahibaro hiya hin pag-atubang han kinabuhi?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Waray la ini kapulsanan; sugad la ini hin pagdakop han hangin. Maupay pa nga makontento ka han aada ha imo kay hin pag-inungara hin iba pa nga mga butang."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ginlarang hin maiha na nga panahon an ngatanan nga mahinanabo, ngan maaram kita ngatanan nga diri makakalantugi in tawo hadton makurukusog ha iya."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kon mauruiha an imo pakiglantugi, labi na nga waray kapulsanan ini, ngan waray nimo makukuha."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Uunanhon hin paghibaro hin tawo kon ano an maupay ha iya dinhe hini nga halipot ngan waray pulos nga iya kinabuhi\u2014kinabuhi nga nalabay sugad la hin lambong? Uunanhon hin paghibaro hin usa ka tawo kon ano an mahinanabo dinhe ha kalibutan katapos niya mamatay?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mauruupay pa hin marahalon nga pahamot an maupay nga dungog; ngan mauruupay pa han adlaw han imo katawo an adlaw han imo kamatay."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mauruupay an pagkadto hin balay nga may kabidoan kay hin pagkadto hin balay nga may panagtawo, basi an mga buhi dayuday mahinumdom nga naghuhulat ha aton ngatanan an kamatayon."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mauruupay pa han pagtawa an kabido, bangin makakabido ini han imo nawong, kundi nakakabaid ini han imo sarabotan."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Lurong in tawo nga dayuday la naghuhunahuna hin kalipayan. Naghuhunahuna hin kamatayon in tawo nga may kinaadman."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mauruupay pa nga sawayon ka han mga may kinaadman, kay pagkantahan ka hin mga pagdayaw han mga lurong."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Sugad la ini hin mga tunok nga nagbibiribti ha kalayo kon natawa in lurong; waray la ini kahulogan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kon naglilimbong in tawo nga may kinaadman sugad hiya hin lurong. Kon nakarawat ka hin hukip, gindadaot mo an imo pagkatawo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mauruupay pa han iya tinikangan an kataposan hin usa nga butang. Mauruupay pa han kamapinahitas-on an kamapinailobon."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pugngi an imo kapungot; tinuyaw an pagtipig hin pagdumot."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ayaw pakiana, \u201cKay ano nga mauruupay man an aton pagkabutang hadto kay hiton yana?\u201d Diri ini maupay nga pakiana."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "An ngatanan nga buhi kinahanglan nga may-ada kinaadman; sugad ini kamaupay hin pagkarawat hin panurondon"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "ngan mahatag ini ha imo hin kahimyangan sugad han ihinahatag han kwarta. Nakakatalwas ha imo an kinaadman\u2014amo ini an nakakaupay han hibaro."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Painoinoha an ginbuhat han Dyos. Hin-o in makakatadong han ginbaliko han Dyos?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pagmalipayon kon maupay an imo kamutangan ha kinabuhi, ngan kon naabot an kakurian, panumdoma la nga an Dyos an nagpapadara hin kalipayan ug kakurian, diri ka gud maaram kon ano an sunod nga mahinanabo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Waray gudla pulos an akon kinabuhi, kundi hinkit-an ko an ngatanan. May-ada napatay dayon bisan kon maupay hiya nga tawo; may-ada liwat hilawig nga kinabuhi, bisan kon maraot hiya nga tawo."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sanglit ayaw pag-uraura hin kamaupay o hin kamaaram\u2014kay ano nga naglulugaring ka man hin pagpatay ha imo?"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kundi ayaw liwat pag-uraura hin kamaraot o hin kalurong\u2014kay ano nga magpakamatay ka ha diri pa nimo panahon?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ayaw pagpalabi hin bisan hain hini nga duha. Magmamainuswagon ka man gihapon kon mahibaro ka hin pagtahod han GINOO."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Dako an mahihimo han kinaadman para hin tawo kay han nahihimo hin napulo nga mga punoan para hin usa nga syudad."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Waray tawo ha tuna nga dayuday nagbubuhat hin matadong ngan diri gud nagsasayop."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ayaw pamati han ngatanan nga iginyayakan han mga tawo\u2014bangin hibatian mo nga gintatamay ka han imo surugoon"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "ngan maaram ka ngahaw nga nakadamo ka na magtamay hin iba nga mga tawo."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ginamit ko an akon kinaadman hin pagsari hini ngatanan. Nagtalinguha ako hin pagkamaaram, kundi makuri ko na maabot ini."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Uunanhon hin tawo hin paghibaro han kahulogan han kinabuhi? Uraura ini hin kahilarom para ha aton, ngan uraura ini hin kamakuri hisabtan."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Kundi nagtalinguha gud ako hin pag-aram ngan pagtoon; gintalinguha ko gud hin pamiling han kinaadman ngan han mga baton han akon mga pakiana, ngan akon hinbaroan an kamaraot ngan kalurong han katuyawan."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Hinsabtan ko in labaw pa kamapait kay han kamatayon\u2014an babaye. Dadakpon ka han gugma nga iya ihinahalad ha imo; sugad hin bitik o sugad hin pukot; ngan an iya mga butkon nga nagakos ha imo nakapot sugad hin kadena. Nakakalipay ha iya an tawo nga nakakalipay han Dyos, kundi dinadakop niya an makasasala."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Tinuod, hinsabtan ko ini hin hinayhinay, samtang nangingita ako hin mga baton, nagsiring an Magwarali."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Nangita ako hin iba nga mga baton, kundi waray ko gud hin-agian. Nakaagi ako hin usa nga lalake ha usa ka yukot nga angay ko pagtahoron, kundi waray gud usa nga babaye."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Amo la ini an akon hinbaroan: ginhimo kita nga yano han Dyos, kundi ginhimo ta nga uraura hin ka masamok an aton kalugaringon."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "An tawo la nga may kinaadman an maaram kon ano gud an kahulogan han mga butang. An kinaadman nakakapahiyom ha iya, ngan nakakapawara han iya mga pagmud-ot."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Buhata an isinusugo han hadi, ngan ayaw pagdalidali hin pagsaad ha Dyos."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nakakahimo an hadi hin bisan ano nga iya karuyagon, sanglit pahirayo ha iya atubangan; ayaw pabilin dida hin sugad ka makulba nga dapit."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "May gahom an hadi hin pagbuhat hin bisan ano, ngan waray nakakariwa ha iya."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Diri ka maaano samtang nga nagsusugot han iya mga sugo, ngan maaram an tawo nga may kinaadman kon uunanhon ngan kon san-o bubuhata ini."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "May igo nga panahon ngan igo nga paagi hin pagbuhat han ngatanan, kundi gutiay gudla an aton hinbabaroan!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Waray ha aton maaram kon ano an mahinanabo, ngan waray tawo nga makakagsumat ha aton hini."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Waray tawo nga makakahawid han iya kamatayon o makakaugsod han adlaw han iya kamatayon. Amo ito an away nga diri naton kalilikyan ha aton pag-inagawasan hini; diri kita makakalimbong."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hinkit-an ko ini ngatanan dida han akon pagpainoino han mga ginbubuhat dinhe ha kalibutan, kalibutan nga diin gamhanan an iba nga mga tawo, ngan an iba ginraogdaog."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Hinkit-an ko in magraogdaog nga mga tawo nga iginlubong ha ira mga lubnganan, kundi ha pagbalik na tikang han paglubong, gindayaw hira han mga tawo didto ha syudad nga ginbuhatan nira han ira karat-an. Waray la ini kapulsanan."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kay ano nga madali la magbuhat hin mga karat-an an mga tawo? Kay diri man kinakastigo dayon an karat-an."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Makakagbuhat hin usa ka gatos nga karat-an in makasasala ngan buhi la hiya gihapon. Maaram ako han ira sinisiring: \u201cKon may-ada ka pagtahod han Dyos, magmamaupay an ngatanan"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "kundi diri ini magmamaupay para han mga magraot. Sugad la hin lambong an ira kinabuhi, ngan mapatay hira nga bata pa, kay diri hira natahod han Dyos.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kundi linurong la ini. Tan-awa daw an nahinanabo dinhe ha kalibutan: usahay an mga magtadong an nakakaangkon han kastigo nga para han mga magraot, ngan an mga magraot an nakakaangkon han balos nga para han mga magtadong. Nasiring ako nga waray la ini kapulsanan."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sanglit nagmamatuod ako nga kinahanglan an tawo magpahimulos han iya kalugaringon, kay an iya kalipayan hini nga kinabuhi amo la an pagkaon, pag-inom, ngan an paglitaw-libang. Makakahimo hiya hini samtang nagkakabudlay hiya dida ha iya pag-ukoy hin kinabuhi nga iginhatag ha iya han Dyos dinhe ha kalibutan."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ha kada ko pagtatalinguha nga mamay-ada ako kinaadman, ngan mahibaroan ko an nahihinabo ha kalibutan, nasabtan ko nga bisan ka mag-agma adlaw gab-i"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "diri ka gud makakasabot han ginbubuhat han Dyos. Bisan unanhon mo hin paniguro, diri ka gud mahibabaro hini. Bangin sumiring an mga may kinaadman nga maaram hira, kundi diri hira maaram."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ginpainoino ko gud hin maiha ini ngatanan, ngan hinkit-an ko nga an Dyos amo an nagbubuot han mga panggawi han mga may kinaadman ngan mga magtadong, bisan an ira paghigugma ngan an ira pagdumot. Waray bisan usa nga maaram han iya kabubwason."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Waray ini kalainan. Amo ngahaw nga kapalaran an naabot ha mga magtadong ngan ha mga magraogdaog, ha mga mag-upay ngan ha mga magraot, ha mga mainampoon ngan ha mga diri mainampoon, ha mga naghahalad hin mga unong nga tutuboron ngan ha mga diri naghahalad. An maupay sugad la hiya han makasasala; an nagsusumpa sugad la hiya han diri nagsusumpa."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Usa an kapalaran para han ngatanan, ngan ini sugad hin kasayop han bisan ano nga nahinanabo dinhe ha kalibutan. Samtang buhi pa an tawo, puno hin karat-an ug tinuyaw an iya hunahuna, ngan namamatay hiya dayon."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kundi an bisan hin-o nga buhi pa dinhe ha kalibutan han mga buhi may-ada paglaom. An buhi nga ayam mauruupay kay han patay nga liyon."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Maaram an mga buhi nga mapatay hira, kundi an mga patay waray gud hinbabaroan. Waray na maabot nga balos; hinngalimtan na la hira."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Inmupod han ira kamatayon an ira mga paghigugma, an ira mga pagdumot, ngan an ira mga pagbati. Waray na gud nira labot han bisan ano nga nahinanabo dinhe ha kalibutan."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pagpadayon la\u2014pagpatakas hin pagkaon ngan pagkalipay; inom han imo bino ngan pagrayhak. Diri manginginlabot an Dyos."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Dayuday pagpakita nga malipayon ngan mahiyomhiyom ka."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pahimulosi an kinabuhi upod han babaye nga imo hinigugma samtang nga buhi ka pa hin waray la pulos nga imo kinabuhi nga iginhatag ha imo han Dyos dinhe ha kalibutan. Pahimulosi ini nga mga waray pulos nga adlaw han imo kinabuhi, kay amo la an maaangkon mo nga balos han ngatanan mo nga kakurian."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Panigurohi an bisan ano nga imo pagbubuhaton, kay didto ha kalibutan han mga patay nga imo kakadtoan waray na buhat, waray na hunahuna, waray na hibaro, ngan waray na kinaadman."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Hinsabtan ko in lain pa nga butang dinhe ha kalibutan. Diri kanunay nagdadaog han mga pagrumba an mga maglaksi dumalagan, ngan diri kanunay nagdadaog han mga araway an mga mag-isog. Diri dayuday maupay an panginabuhi han mga mag-aram; diri kanunay nagririko an mga may-ada hibaro, ngan diri kanunay nahingangadto ha higtaas nga mga katungdanan an takos nga mga tawo. Nahinanabo ha ngatanan an kadimalas."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Diri mo gud hinbabaroan kon san-o aabot an imo panahon. Sugad hin mga tamsi nga tigda la nga nabibitik o sugad hin mga isda nga nadadakop ha pukot, nabibitik man kita ha usa nga maraot nga takna nga diri gud naton ginpapaabot."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "May-ada pa ako hinkit-an nga maupay nga susgaranan kon gin-uunan-o naton hin pagtagad han kinaadman dinhe ha kalibutan."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "May-ada hadto gutiay nga bungto nga diri damo an mga umurokoy. Ginsulong ini hin gamhanan nga hadi. Ginpalibotan niya ini ngan nag-andam hin pagruba han mga pader."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Nag-ukoy didto in tawo nga pobre kundi listo gud nga makakatalwas unta hiya han bungto. Kundi waray gud may nahinumdom ha iya."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Dayuday nagsiring ako nga an kinaadman mauruupay kay han kusog, kundi waray gud naghuhunahuna nga in pobre nga tawo may-ada kinaadman, o nga pamatian an iya mga pulong."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mauruupay pa an pagpamati han manamit nga mga pulong hin tawo nga may kinaadman kay han mga goliat hin punoan dida ha katirok hin mga lurong."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Darudamo an nahihimo nga kaupayan han kinaadman kay han mga hinganiban, kundi damo nga kaupayan an nadadaot hin usa nga makasasala."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nagbabaraho in usa ka botelya nga pahamot tungod hin patay nga mga langaw, ngan hinngangalimtan an gidadakoi nga kinaadman tungod hin gutiay nga kalurongan."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kinaiya hin tawo nga may kinaadman an pagbuhat han matadong, ngan kinaiya hin lurong an pagbuhat han kasaypanan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Hisasabtan an iya kalurongan bisan han mga diri kinikilala nga mga tawo nga iya igkakatapo ha dalan; hinsasabotan han ngatanan nga lurong hiya."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ayaw pag-iwas han imo katungdanan kon masina ha imo an imo punoan; mapapasaylo an imo dagko nga mga kasaypanan kon humilom ka la ngan diri bumaton ha iya."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Iini in karat-an nga akon hinkit-an ha kalibutan\u2014karat-an nga binubuhat hin mga punoan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tinatagan hin higtaas nga mga katungdanan in lurong nga mga tawo, kundi hinngangalimtan an mga riko."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hinkit-an ko in dikabayo nga mga oripon, samtang naglalakat la nga baktas sugad hin mga oripon an mga dagko nga pagkatawo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kon magluong ka, mahuhulog ka ngadto han luong. Kon magruba ka, basi makalusot ka han pader, kakagton ka hin halas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kon magpusak ka hin mga bato, an bato an makakasamad ha imo. Kon magtiak ka hin kahoy, masasamad ka hini."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kon mangarol an imo parakol ngan diri mo pagbairon, mangungusog ka hin duro hin paggamit hini. Maupay nga andamon mo hin temprano an imo buruhaton."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kawang la an kamaaram mo hin paglumay hin halas kon mauna an halas hin pagkagat ha imo."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "An pulong hin tawo nga may kinaadman nahatag hin dungog ha iya, kundi an mga pulong in tawo nga lurong nakakapukan han iya kalugaringon."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Intremes la anay an pagtikang, ngan ha katapusan, tinuyaw na nga mga pulong."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Diri nahunong hin pagyinakan an luong.\nWaray usa nga maaram han sunod nga mahinanabo, ngan waray makakagsumat ha aton han mahinanabo katapos ta kamatay."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "An tawo la nga uraura na hin kalurong nga diri na nakakatultol han iya balay an maggugool han iya kalugaringon hin waray la hinungdan nga trabaho."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Masamok in nasod kon batan-on pa an iya hadi, ngan mag-aga la hin kombite an iya mga pangulo."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kundi palaran in nasod nga may hadi nga naglulugaring han iya mga kaladnganan, ngan may mga pangulo nga maaram mag-igo han pagkaon ug pag-inom."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kon uraura na hin kahubya in tawo hin pag-ayad han iya atop, magtuturo ini ngan marurumpag an iya balay."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Nakakalipay ha imo an pagkombite, ngan nakakapalaksi ha imo an bino, kundi diri ka makakaangkon hini nga duha kon waray nimo kwarta."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ayaw pagsuson han hadi, bisan hin hilom la, ngan ayaw pagsuson han riko, bisan ha imo higdaan nga kwarto. Bangin pagdad-on hin tamsi an iginyakan nimo ngan pagsumatan hira han imo iginsiring."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ipuhunan an imo kwarta ha langyaw nga pagpatigayon, ngan paglabay hin mga adlaw makakaganansya ka."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ibutang an imo mga puhunan didto hin pira nga mga dapit, o bisan pa ha damo nga mga dapit, kay diri ka gud maaram han kadimalasan nga maabot ha imo dinhe ha kalibutan."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Bisan ngain an kapukan han kahoy, aadto ini himumutang han iya napukanan. Kon duro na kadakmol an mga dampog, inuuran ini."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kon humulat ka pa han igo nga hangin ngan han maupay nga panahon, diri ka gud makakagtanom, ngan waray nimo pag-aanihon."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ginhimo han Dyos an ngatanan, ngan diri mo hisasabtan an ginbubuhat niya, sugad nga diri mo hinsasabtan an pagtikang hin bag-o nga kinabuhi dida ha tiyan hin usa nga burod."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Pagtanom ha aga ngan ha gab-i, kay diri ka maaram kon matubo ba hin maupay ini ngatanan, o kon an syahan nga pagpugas magmamauruupay ba han ikaduha."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Maupay an pagpahimulos han kapawa han adlaw."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pagpasalamat han Dyos han kada tuig han imo kinabuhi. Bisan magdiunan-o hin kahilawig han imo kinabuhi, hinumdomi nga labaw pa gud hin kamaiha han panahon nga aadto ka ha lubnganan ngan patay ka na. Waray na gud naton sadang paglaoman didto."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mga batan-on, pagpahimulosi an iyo pagkabatan-on. Pagmalipayon samtang batan-on ka pa. Buhata an iyo karuyag ngan tumana an ungara han iyo kasingkasing. Kundi panumdom kamo nga huhukman kamo han Dyos pinaagi han bisan ano nga ginbubuhat niyo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ayaw itugot nga may-ada butang nga makapaguol o makapasakit ha iyo. Diri gud mag-iiha an iyo pagkabatan-on."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sanglit hinumdomi an iyo Magburuhat samtang nga batan-on pa kamo, nga diri pa naabot adton magsulob-on nga mga adlaw ngan mga tuig, nga masiring kamo, \u201cWaray ako makagpahimulos han kinabuhi.\u201d"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Amo ito nga panahon nga magmamadulom ha iyo an kapawa han adlaw, han bulan, ngan han mga bitoon, ngan diri na gud magpapapas an magdakmol nga mga dampog."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Niyan mangungurog an iyo mga butkon nga nagpanalipod ha iyo, ngan manluluya an iyo mga bitiis nga magkusog pa yana. Kulang na an iyo mga ngipon hin pagsamsam han iyo kinakaon, ngan magmamadaparap an pagkita han iyo mga mata."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Diri na mabati an iyo mga durunggan han aringasa ha kalsada. Makuri na kamo makabati han aringasa han gilingan o han tokar han mga turonggan, kundi mapupukaw kamo ha iyo pagkaturog bisan la han honi hin tamsi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mahalawhaw para ha iyo an higtaas nga mga dapit ngan makuri na an iyo paglakat. Pag-uubanon na kamo; magsasagodsod na an iyo pagpitad, ngan mawawaray na an ngatanan nga mga hingyap.\nMauli kita ha aton kataposan nga pahuwayan, ngan niyan magkakamay-ada pagkasubo ha mga kadalanan."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mauutod an kadena nga salapi, ngan mahuhulog ngan mabubuong an suga nga bulawan; mauutod an pisi ha atabay ngan mabubuong an biso hin tubig."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mabalik ha tapotapo han tuna an aton mga lawas, ngan mabalik an aton espiritu ngadto sa Dyos nga naghatag hini ha aton."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Waray la kapulsanan, waray la kapulsanan, nagsiring an Magwarali. Waray la kapulsanan ini ngatanan!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kundi tungod nga may kinaadman an Magwarali, nagpadayon hiya hin pagtutdo han mga tawo han iya hinbaroan. Nag-aram hiya hin mga darahonon ngan ginsarihan niya an ira kamatuoran."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nagtalinguha an Magwarali hin pamiling hin nakakaliaw nga mga pulong, kundi tangkod an mga pulong nga iya ginsurat."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "An mga puplonganon han mga may kinaadman sugad hin tais nga mga tabog nga ginagamit han mga magmarangno hin pagtugway han mga karnero, ngan an tinirok nga mga darahonon napabilin ha hunahuna sugad hin mga raysang nga ginpadulot hin maupay. Iginhatag ini han Dyos nga amo la nga Magmarangno ha aton ngatanan."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Anak, may-ada pa angay mo pagbantayan. Waray kataposan an pagsurat hin mga basahan, ngan makakapaluya ha imo in duro nga pag-inaram."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Katapos hini ngatanan, usa nga butang an angay igsiring: Tahora an Dyos ngan tumana an iya mga sugo, kay amo la ini an tuyo han paghimoa han tawo."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "An Dyos an maghuhukom han ngatanan nga aton ginbubuhat, magmaupay o magmaraot, bisan an mga butang nga ginbuhat hin hilom."
+                }
+            }
+        }
+    }
+}

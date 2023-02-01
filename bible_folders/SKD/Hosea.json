@@ -1,0 +1,865 @@
+{
+    "version": "SKD",
+    "book_name": "Hosea",
+    "book_nr": "28",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Rije\u00e8 Gospodnja koja do\u00f0e Osiji sinu Veirijevu za vremena Ozije, Joatama, Ahaza i Jezekije careva Judinijeh i za vremena Jerovoama sina Joasova cara Izrailjeva."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Kad Gospod po\u00e8e govoriti Osiji, re\u00e8e Gospod Osiji: idi, o\u017eeni se kurvom, i rodi kopilad, jer se zemlja prokurva otstupiv\u0161i od Gospoda."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "I otide, i uze Gomeru k\u00e6er Divlaimsku, koja zatrudnje i rodi mu sina."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tada mu re\u00e8e Gospod: nadjeni mu ime Jezrael; jer jo\u0161 malo, pa \u00e6u pohoditi krv Jezraelsku na domu Jujevu i ukinu\u00e6u carstvo doma Izrailjeva."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I u to \u00e6u vrijeme slomiti luk Izrailjev u dolini Jezraelskoj."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I ona opet zatrudnje i rodi k\u00e6er; i Gospod mu re\u00e8e: nadjeni joj ime Loruhama; jer se vi\u0161e ne\u00e6u smilovati na dom Izrailjev, nego \u00e6u ih ukinuti sasvijem."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "A na dom Judin smilova\u00e6u se, i izbavi\u00e6u ih Gospodom Bogom njihovijem, a ne\u00e6u ih izbaviti lukom ni ma\u00e8em ni ratom ni konjma ni konjicima."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Potom odbiv\u0161i od sise Loruhamu opet zatrudnje i rodi sina."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "I re\u00e8e Gospod: nadjeni mu ime Loamija; jer vi nijeste moj narod, niti \u00e6u ja biti va\u0161."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ali \u00e6e ipak broj sinova Izrailjevijeh biti kao pijesak morski, koji se ne mo\u017ee izmjeriti ni izbrojiti; i mjesto da im se re\u00e8e: nijeste moj narod, re\u00e6i \u00e6e im se: sinovi Boga \u017eivoga."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "I sabra\u00e6e se sinovi Judini i sinovi Izrailjevi ujedno, i postavi\u00e6e sebi jednoga poglavara i oti\u00e6i \u00e6e iz zemlje, jer \u00e6e biti velik dan Jezraelski."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Recite bra\u00e6i svojoj: narode moj; i sestrama svojim: pomilovana."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Prite se s materom svojom, prite se, jer mi nije \u017eena, niti sam joj ja mu\u017e; neka odbaci kurvarstva svoja od lica svojega, i preljube svoje od dojaka svojih,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Da je ne bih svukao golu i u\u00e8inio je kaka je bila onaj dan kad se rodila, i da je ne bih postavio da bude kao pustinja i obratio je da bude kao zemlja zasu\u0161ena, i umorio je \u017ee\u00f0u."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "I ne\u00e6u se smilovati na djecu njezinu, jer su kopilad."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jer se mati njihova kurva, sramoti se roditeljka njihova; jer govori: i\u00e6i \u00e6u za milosnicima svojim koji mi daju hljeb moj i vodu moju, vunu moju i lan moj, ulje moje i pi\u00e6e moje."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Zato evo ja \u00e6u joj zagraditi put trnjem i zazida\u00e6u zidom da ne na\u00f0e staza svojih."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "I tr\u00e8a\u00e6e za svojim milosnicima, ali ih ne\u00e6e stignuti; i tra\u017ei\u00e6e ih, ali ih ne\u00e6e na\u00e6i; pa \u00e6e re\u00e6i: idem da se vratim k prvomu mu\u017eu svojemu, jer mi bje\u0161e bolje onda nego sada."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jer ona ne zna da sam joj ja davao \u017eito i vino i ulje, i umno\u017eavao joj srebro i zlato, od kojega na\u00e8ini\u0161e Vala."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Zato \u00e6u uzeti natrag \u017eito svoje, kad bude vrijeme, i vino svoje, kad bude vrijeme, i uze\u00e6u vunu svoju i lan svoj, kojim bi pokrivala golotinju svoju."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I otkri\u00e6u rugobu njezinu pred milosnicima njezinijem, i niko je ne\u00e6e izbaviti iz moje ruke."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "I ukinu\u00e6u svaku radost njezinu, svetkovine njezine, mladine njezine i subote njezine i sve praznike njezine."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "I potr\u00e6u \u00e8okote njezine i smokve, za koje govori: plata su mi, \u0161to mi dado\u0161e milosnici moji; i obrati\u00e6u ih u \u0161umu da ih jede zvijerje poljsko."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I pohodi\u00e6u na njoj dane Valimske, u koje im je kadila i kitila se obocima i grivnama, i i\u0161la za svojim milosnicima, i mene zaboravila, govori Gospod."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ali evo, ja \u00e6u je primamiti i odve\u0161\u00e6u je u pustinju, i govori\u00e6u s njom lijepo."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "I da\u00e6u joj vinograde njezine od toga mjesta, i dolinu Ahor za vrata nadanju, i ondje \u00e6e pjevati kao za mladosti svoje i kao kad je i\u0161la iz Misira."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "I tada \u00e6e\u0161 me, govori Gospod, zvati: mu\u017eu moj; a ne\u00e6e\u0161 me vi\u0161e zvati: Vale moj."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jer \u00e6u ukloniti iz usta njezinijeh imena Vala; i ne\u00e6e im se vi\u0161e pominjati imena."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "I tada \u00e6u im u\u00e8initi zavjet sa zvijerjem poljskim i sa pticama nebeskim i s bubinama zemaljskim; i polomi\u00e6u luk i ma\u00e8 i rat da ih nestane u zemlji, i u\u00e8ini\u00e6u da le\u017ee bez straha."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "I zaru\u00e8i\u00e6u te sebi dovijeka, zaru\u00e8i\u00e6u te sebi pravdom i sudom i milo\u0161\u00e6u i milosr\u00f0em."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "I zaru\u00e8i\u00e6u te sebi vjerom, i pozna\u00e6e\u0161 Gospoda."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "I tada \u00e6u se odazvati, govori Gospod, odazva\u00e6u se nebesima, a ona \u00e6e se odazvati zemlji."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "A zemlja \u00e6e se odazvati \u017eitu i vinu i ulju, a to \u00e6e se odazvati Jezraelu."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "I posija\u00e6u je sebi na zemlji, i smilova\u00e6u se na Loruhamu, i re\u00e6i \u00e6u Loamiji: ti si moj narod, i on \u00e6e re\u00e6i: Bo\u017ee moj!"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Potom re\u00e8e mi Gospod: idi opet, ljubi \u017eenu koju ljubi ljubavnik a ona \u00e8ini preljubu, kao \u0161to Gospod ljubi sinove Izrailjeve a oni gledaju za tu\u00f0im bogovima i ljube \u017ebanove vinske."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I kupih je za petnaest sikala srebra i gomor i po je\u00e8ma."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "I rekoh joj: sjedi kod mene dugo vremena, i ne kurvaj se, i ne budi drugoga; tako \u00e6u i ja biti tvoj."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jer \u00e6e dugo vremena sinovi Izrailjevi sjedjeti bez cara i bez kneza i bez \u017ertve i bez stupa i bez ople\u00e6ka i likova."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Poslije \u00e6e se obratiti i tra\u017ei\u00e6e Gospoda Boga svojega i Davida cara svojega, i u strahu \u00e6e pristupiti ka Gospodu i blagosti njegovoj u po\u0161ljednja vremena."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c8ujte rije\u00e8 Gospodnju, sinovi Izrailjevi, jer Gospod ima parbu sa stanovnicima zemaljskim; jer nema istine ni milosti ni znanja za Boga u zemlji;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Zaklinju se krivo i la\u017eu i ubijaju i kradu i \u00e8ine preljubu, zastrani\u0161e, i jedna krv sti\u017ee drugu."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Zato \u00e6e tu\u017eiti zemlja, i \u0161to god \u017eivi na njoj prenemo\u00e6i \u00e6e, i zvijeri poljske i ptice nebeske; i ribe \u00e6e morske pomrijeti."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ali niko da se ne prepire ni da koga kori, jer je narod tvoj kao oni koji se prepiru sa sve\u0161tenikom."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Zato \u00e6e\u0161 pasti danju, i s tobom \u00e6e prorok pasti no\u00e6u, i pogubi\u00e6u mater tvoju."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Izgibe moj narod, jer je bez znanja; kad si ti odbacio znanje, i ja \u00e6u tebe odbaciti da mi ne vr\u0161i\u0161 slu\u017ebe sve\u0161teni\u00e8ke; kad si zaboravio Boga svojega, i ja \u00e6u zaboraviti sinove tvoje."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u0160to se vi\u0161e mno\u017ei\u0161e, to mi vi\u0161e grije\u0161i\u0161e; slavu njihovu pretvori\u00e6u u sramotu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Od grijeha naroda mojega hrane se, i lakome se na bezakonje njihovo."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Zato \u00e6e biti sve\u0161teniku kao narodu; pohodi\u00e6u ga za putove njegove i plati\u00e6u mu za djela njegova."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I oni \u00e6e jesti, a ne\u00e6e se nasititi; kurva\u00e6e se, a ne\u00e6e se mno\u017eiti; jer presta\u0161e slu\u017eiti Gospodu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Kurvarstvo i vino i mast oduzima srce."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Narod moj pita drvo svoje, i palica mu njegova odgovara; jer duh kurvarski zavodi ih da se kurvaju otstupiv\u0161i od Boga svojega."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Navrh gora prinose \u017ertve, i na humovima kade pod hrastovima, topolama i brijestovima, jer im je sjen dobar; zato se kurvaju k\u00e6eri va\u0161e i snahe va\u0161e \u00e8ine preljubu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ne\u00e6u karati k\u00e6eri va\u0161ih kad se kurvaju, ni snaha va\u0161ih kad \u00e8ine preljubu; jer se oni odvajaju s kurvama i prinose \u017ertve s nevaljalijem \u017eenama; i narod nerazumni propa\u0161\u00e6e."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ako se ti kurva\u0161, Izrailju, neka ne grije\u0161i Juda; i ne idite u Galgal niti idite u Vetaven, i ne kunite se: tako da je \u017eiv Gospod."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Jer je Izrailj uporan kao uporna junica; sada \u00e6e ih pasti Gospod kao jagnje na prostranu mjestu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Jefrem se udru\u017eio s la\u017enijem bogovima; ostavi ga."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Pi\u00e6e se njihovo prevrnu, jednako se kurvaju; milo im je: dajte. Brani\u00e8i su njegovi sramota."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Vjetar \u00e6e ih stegnuti krilima svojim, i oni \u00e6e se posramiti od \u017ertava svojih."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u00c8ujte, sve\u0161tenici, i pazi, dome Izrailjev, i slu\u0161aj, dome carev, jer je vama sud, jer ste zamka u Mispi i mre\u017ea razapeta na Tavoru."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Iz potaje kla\u0161e one koji zalaze; ali \u00e6u ih ja pokarati sve."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ja poznajem Jefrema i Izrailj nije sakriven od mene; jer se sada kurva\u0161, Jefreme, Izrailj se oskvrni."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ne upravljaju djela svojih da se vrate k Bogu svojemu; jer je duh kurvarski u njima i ne znaju Gospoda."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "I ponositost Izrailjeva svjedo\u00e8i mu u o\u00e8i; zato \u00e6e Izrailj i Jefrem pasti za bezakonje svoje, pa\u0161\u00e6e i Juda s njima."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I\u00e6i \u00e6e s ovcama svojim i s govedima svojim da tra\u017ee Gospoda, ali ga ne\u00e6e na\u00e6i; uklonio se je od njih."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Iznevjeri\u0161e Gospoda, jer izrodi\u0161e tu\u00f0e sinove; zato \u00e6e ih pro\u017edrijeti mjesec dana s dostojanjem njihovijem."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Trubite u rog u Gavaji, u trubu u Rami; vi\u00e8ite u Vetavenu: za tobom, Venijamine!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jefrem \u00e6e opustjeti u dan kara; objavih me\u00f0u plemenima Izrailjevijem \u0161to \u00e6e zacijelo biti."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Knezovi su Judini kao oni koji premje\u0161taju me\u00f0u; izli\u00e6u na njih kao vodu jarost svoju."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jefremu se \u00e8ini nasilje, satrven je sudom, jer od svoje volje otide za zapovije\u0161\u00e6u."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Zato \u00e6u ja biti Jefremu kao moljac i kao crv domu Judinu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I Jefrem vidje bolest svoju i Juda svoju ranu, i otide Jefrem k Asircu, i Juda posla k caru koji bi ga branio; ali vas on ne mo\u017ee iscijeliti niti \u00e6e vas oprostiti rane va\u0161e."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jer \u00e6u ja biti kao lav Jefremu, kao lavi\u00e6 domu Judinu; ja, ja \u00e6u zgrabiti, i oti\u00e6i \u00e6u, odnije\u00e6u i niko ne\u00e6e izbaviti."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Oti\u00e6i \u00e6u i vrati\u00e6u se na svoje mjesto dokle ne priznadu svoju krivicu i potra\u017ee lice moje; kad budu u nevolji tra\u017ei\u00e6e me."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Hodite da se vratimo ka Gospodu; jer on razdrije, i iscijeli\u00e6e nas, rani, i zavi\u00e6e nas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Povrati\u00e6e nam \u017eivot do dva dana, tre\u00e6i dan podignu\u00e6e nas, i \u017eivje\u00e6emo pred njim."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tada \u00e6emo poznati Gospoda i sve \u00e6emo ga vi\u0161e poznavati; jer mu je izlazak ure\u00f0en kao zora i do\u00e6i \u00e6e nam kao da\u017ed, kao pozni da\u017ed koji natapa zemlju."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "\u0160to da ti u\u00e8inim, Jefreme? \u0161to da ti u\u00e8inim, Juda? jer je dobrota va\u0161a kao oblak jutarnji i kao rosa koja u zoru padne, pa je nestane."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Zato ih sjekoh preko proroka i ubijah rije\u00e8ima usta svojih, i svjetlost sudova tvojih izide."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jer je meni milost mila a ne \u017ertva, i poznavanje Boga ve\u00e6ma nego \u017ertva paljenica."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ali oni prestupi\u0161e zavjet kao Adam; tu me iznevjeri\u0161e."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Galad je grad onijeh koji \u00e8ine bezakonje, po njemu su krvavi tragovi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A dru\u017eina je sve\u0161teni\u00e8ka kao \u00e8eta koja do\u00e8ekuje ljude, ubijaju na putu u Sihem, \u00e8ine grdilo."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "U domu Izrailjevu vidim strahotu; ondje je kurvanje Jefremovo, Izrailj se oskvrni."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "I tebi je, Juda, pripravljena \u017eetva, kad vratim roblje naroda svojega."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kad lije\u00e8im Izrailja, tada se pokazuje bezakonje Jefremovo i zlo\u00e6a Samarijska; jer \u00e8ine la\u017e, i lupe\u017e ulazi, i napolju udara \u00e8eta."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I ne govore u srcu svom da ja pamtim svako bezakonje njihovo; sada stoje oko njih djela njihova, preda mnom su."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Nevaljalstvom svojim vesele cara i la\u017eima svojim knezove."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Svi \u00e8ine preljubu; kao pe\u00e6 su koju u\u017eari hljebar, koji prestane stra\u017eiti kad zamijesi tijesto pa dokle uskisne."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Na dan cara na\u0161ega razbolje\u0161e se knezovi od mijeha vina, i on pru\u017ei ruku svoju potsmjeva\u00e8ima."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jer na zasjede svoje upravljaju srce svoje, koje je kao pe\u00e6; hljebar njihov spava cijelu no\u00e6, ujutru gori kao plamen ognjeni."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Svi su kao pe\u00e6 ugrijani i pro\u017ediru svoje sudije; svi carevi njihovi padaju, nijedan izme\u00f0u njih ne vi\u00e8e k meni."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jefrem se pomije\u0161ao s narodima; Jefrem je poga\u00e8a neprevrnuta."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Inostranci jedu mu silu, a on ne zna; sijede kose popadaju ga, a on ne zna."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I ponositost Izrailjeva svjedo\u00e8i mu u o\u00e8i, ali se ne vra\u00e6aju ka Gospodu Bogu svojemu niti ga tra\u017ee uza sve to."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "I Jefrem je kao golub, lud, bezuman; zovu Misir, idu u Asirsku."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kad otidu, razape\u00e6u na njih mre\u017eu svoju, kao ptice nebeske svu\u00e6i \u00e6u ih, kara\u00e6u ih kako je kazivano u zboru njihovu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Te\u0161ko njima, jer za\u00f0o\u0161e od mene; pogibao \u00e6e im biti, jer me iznevjeri\u0161e; ja ih iskupih, a oni govori\u0161e na me la\u017e."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Niti me priziva\u0161e iz srca svojega, nego rida\u0161e na odrima svojim; \u017eita i vina radi skupljaju\u00e6i se otstupaju od mene."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kad ih karah, ukrijepih im mi\u0161ice; ali oni misli\u0161e zlo na me."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Vra\u00e6aju se, ali ne k vi\u0161njemu, posta\u0161e kao luk la\u017eljiv; knezovi \u00e6e njihovi popadati od ma\u00e8a s obijesti jezika svojega; to \u00e6e im biti potsmijeh u zemlji Misirskoj."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Trubu na usta, i reci: kao orao ide na dom Gospodnji; jer prestupi\u0161e zavjet moj i otpadi\u0161e se od zakona mojega."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Izrailj \u00e6e vikati k meni: Bo\u017ee moj; poznajemo te."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Izrailj je ostavio dobro; neprijatelj \u00e6e ga goniti."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Postavljaju careve, ali ne od mene; podi\u017eu knezove, za koje ja ne znam; od srebra svojega i od zlata svojega grade sebi likove, da se istrijebe."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ostavilo te je tele tvoje, Samarijo; jarost se moja raspalila na njih; dokle se ne\u00e6e mo\u00e6i o\u00e8istiti?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jer je i ono od Izrailja; na\u00e8inio ga je umjetnik, i nije Bog; tele \u00e6e Samarijsko oti\u00e6i u komade."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Jer siju vjetar, pa \u00e6e \u017eeti oluju; stabljike ne\u00e6e imati, klica ne\u00e6e dati bra\u0161na; da bi i dala, pro\u017edrije\u00e6e ga tu\u00f0inci."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pro\u017edrije\u00e6e se Izrailj, bi\u00e6e me\u00f0u narodima kao sud na kom nema miline."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jer otido\u0161e k Asircu, divljemu magarcu, koji je sam za se; Jefrem naima ljubavnike."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A \u0161to naima\u0161e me\u00f0u narodima, ja \u00e6u ih sabrati; a ve\u00e6 i okusi\u0161e malo radi bremena cara nad knezovima."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u0160to umno\u017ei Jefrem oltare da grije\u0161i, bi\u00e6e mu oltari na grijeh."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Napisah mu velike stvari u zakonu svom; ali mu se \u00e8ine kao ne\u0161to tu\u00f0e."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Za \u017ertve, koje mi prinose, prinose meso, i jedu ga; Gospod ih ne prima; sada \u00e6e se opomenuti bezakonja njihova i pohodi\u00e6e grijehe njihove; oni \u00e6e se vratiti u Misir."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Izrailj zaboravi tvorca svojega, i sagradi dvorove, i Juda umno\u017ei tvrde gradove; ali \u00e6u pustiti oganj u gradove ovomu, i spali\u00e6e dvorove onomu."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ne raduj se, Izrailju, vesele\u00e6i se kao narodi, \u0161to se kurva\u0161 otstupiv\u0161i od Boga svojega, miluje\u0161 platu kurvarsku po svijem gumnima \u017eitnijem."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Gumno i kaca ne\u00e6e ih hraniti, i mast \u00e6e ih prevariti."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Oni ne\u00e6e nastavati u zemlji Gospodnjoj; nego \u00e6e se vratiti Jefrem u Misir, i oni \u00e6e jesti ne\u00e8istotu u Asirskoj."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ne\u00e6e prinositi Gospodu vina, niti \u00e6e mu biti ugodne \u017ertve njihove, nego \u00e6e im biti kao hljeb onijeh koji tu\u017ee, ko ga god jede oskvrni\u00e6e se, jer im je hljeb za \u017ertve njihove, ne\u00e6e u\u00e6i u dom Gospodnji."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u0160ta \u00e6ete \u00e8initi na dan svetkovine i na dan praznika Gospodnjega?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Jer gle, oti\u00e6i \u00e6e pusto\u0161enja radi; Misir \u00e6e ih pribrati, Memfis \u00e6e ih pogrepsti; zaklade njihove od srebra naslijedi\u00e6e kopriva, trnje \u00e6e im biti u \u0161atorima."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Do\u00f0o\u0161e dani poho\u00f0enju, do\u00f0o\u0161e dani pla\u00e6anju; pozna\u00e6e Izrailj; proroci su ludi, bezumni su u kojima je duh, za mno\u0161tvo bezakonja tvojega i veliku mr\u017enju."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Stra\u017ear je Jefremov s Bogom mojim, prorok je zamka pti\u00e8arska po svijem putovima njegovijem, mr\u017enja je u domu Boga njegova."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Duboko su se pokvarili kao u vrijeme Gavajsko; opomenu\u00e6e se bezakonja njihova, i pohodi\u00e6e grijehe njihove."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Na\u00f0oh Izrailja kao gro\u017e\u00f0e u pustinji; vidjeh oce va\u0161e kao prve smokve na drvetu u po\u00e8etku njegovu; oni otido\u0161e k Velfegoru, i odvoji\u0161e se za sramotom, i posta\u0161e gadni kako im bje\u0161e milo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jefremova \u00e6e slava odletjeti kao ptica od ro\u00f0enja i od utrobe i od za\u00e8etka."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ako li i othrani sinove svoje, ja \u00e6u ih u\u00e8initi da budu bez djece, da ne ostane nijedan; i te\u0161ko njima kad otstupim od njih."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Jefrem, kad ga gledah, bje\u0161e kao Tir, posa\u00f0en na ljupku mjestu; ali \u00e6e Jefrem izvesti krvniku sinove svoje."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Podaj im, Gospode; \u0161ta \u00e6e\u0161 im dati? podaj im utrobu pometljivu i dojke usahle."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sva je zlo\u00e6a njihova u Galgalu; zato ondje mrzim na njih; za zlo\u00e6u djela njihovijeh izagna\u00e6u ih iz doma svojega; ne\u00e6u ih vi\u0161e ljubiti: svi su knezovi njihovi odmetnici."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Udaren bi Jefrem; korijen im posahnu, ne\u00e6e roditi roda; ako i rode, ubi\u00e6u mili porod utrobe njihove."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Odbaci\u00e6e ih Bog moj, jer ga ne slu\u0161aju, i skita\u00e6e se po narodima."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Izrailj je prazna loza vinova, ostavlja rod za se; \u0161to vi\u0161e roda ima, to vi\u0161e umno\u017eava oltare; \u0161to mu je bolja zemlja, to vi\u0161e kiti likove."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Srce im je razdijeljeno, zato su krivi; on \u00e6e oboriti oltare njihove, polomi\u00e6e likove njihove."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jer sada govore: nemamo cara; ne bojimo se Gospoda; i \u0161ta bi nam u\u00e8inio car?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Govore rije\u00e8i kunu\u00e6i se la\u017eno kad ugovaraju vjeru, i sud kao otrov raste u brazdama na njivi mojoj."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Za junice Vetavenske upla\u0161i\u00e6e se stanovnici Samarijski; jer \u00e6e za njima \u017ealiti narod njihov, i sve\u0161tenici njihovi, koji im se radovahu, jer \u00e6e slava njihova oti\u00e6i od njih."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I on \u00e6e sam biti odveden u Asirsku na dar caru brani\u00e8u; Jefrema \u00e6e popasti stid, i Izrailj \u00e6e se osramotiti namjerom svojom."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Cara \u00e6e Samarijskoga nestati kao pjene povrh vode."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "I obori\u00e6e se visine Avenske, grijeh Izrailjev; trnje \u00e6e i \u00e8kalj rasti po oltarima njihovijem, i govori\u00e6e gorama: pokrijte nas, i humovima: padnite na nas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Od vremena Gavajskoga grije\u0161io si, Izrailju; ondje osta\u0161e, ne sti\u017ee ih u Gavaji rat na bezakonike."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Po svojoj \u00e6u ih volji pokarati, i narodi \u00e6e se skupiti na njih da ih zarobe za dvojako bezakonje njihovo."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jefrem je junica nau\u00e8ena, koja rado vr\u0161e; ali \u00e6u joj do\u00e6i na lijepi vrat; upregnu\u00e6u Jefrema, Juda \u00e6e orati, Jakov \u00e6e povla\u00e8iti."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Sijte pravdu, \u017ee\u00e6ete milost; orite kr\u00e8evinu, jer je vrijeme da tra\u017eite Gospoda, da bi do\u0161ao i poda\u017edio vam pravdom."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Oraste bezbo\u017enost, \u017eeste bezakonje, jedoste plod od la\u017ei; jer si se pouzdao u svoj put, u mno\u0161tvo svojih junaka."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Zato \u00e6e se podignuti vreva me\u00f0u tvojim narodom, i svi \u00e6e se gradovi tvoji raskopati kao \u0161to Salman raskopa Vet-Arvel kad bija\u0161e rat, majka bi razmrskana sa sinovima."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tako \u00e6e vam u\u00e8initi Vetilj za veliku zlo\u00e6u va\u0161u; zorom \u00e6e poginuti car Izrailjev."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kad Izrailj bje\u0161e dijete, ljubljah ga, i iz Misira dozvah sina svojega."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Koliko ih zva\u0161e, toliko oni odlazi\u0161e od njih; prinosi\u0161e \u017ertve Valima, kadi\u0161e likovima."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ja u\u00e8ih Jefrema hoditi dr\u017ee\u00e6i ga za ruke, ali ne pozna\u0161e da sam ih ja lije\u00e8io."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vukoh ih uzicama \u00e8ovje\u00e8jim, u\u017eima ljubavnijem; i bijah im kao oni koji im skidaju jaram s \u00e8eljusti, i davah im hranu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ne\u00e6e se vratiti u zemlju Misirsku, nego \u00e6e mu Asirac biti car, jer se ne htje\u0161e obratiti."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "I ma\u00e8 \u00e6e stajati u gradovima njegovijem, i potr\u00e6e prijevornice njegove i pro\u017edrijeti za namjere njihove."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Narod je moj prionuo za otpad od mene; zovu ga k vi\u0161njemu, ali se nijedan ne podi\u017ee."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kako da te dam, Jefreme? da te predam, Izrailju? kako da u\u00e8inim od tebe kao od Adame? da te obratim da bude\u0161 kao Sevojim? Ustreptalo je srce moje u meni, uskolebala se utroba moja od \u017ealosti."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ne\u00e6u izvr\u0161iti ljutoga gnjeva svojega, ne\u00e6u opet zatrti Jefrema; jer sam ja Bog a ne \u00e8ovjek, svetac usred tebe; ne\u00e6u do\u00e6i na grad."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I\u00e6i \u00e6e oni za Gospodom; on \u00e6e rikati kao lav; kad rikne, sa strahom \u00e6e dotr\u00e8ati sinovi s mora;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Sa strahom \u00e6e dotr\u00e8ati iz Misira kao ptica, i kao golub iz zemlje Asirske; i naseli\u00e6u ih u ku\u00e6ama njihovijem, govori Gospod."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Opkolio me je Jefrem la\u017eju i dom Izrailjev prijevarom; ali Juda jo\u0161 vlada s Bogom i vjeran je sa svetima."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Jefrem se hrani vjetrom, i ide za ustokom; svaki dan mno\u017ei la\u017e i pogibao; i hvataju vjeru s Asircem i nose ulje u Misir."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I s Judom ima Gospod parbu i pohodi\u00e6e Jakova prema putovima njegovijem, plati\u00e6e mu po djelima njegovijem."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "U utrobi uhvati za petu brata svojega, i u sili svojoj bori se s Bogom;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Bori se s an\u00f0elom, i nadja\u00e8a; plaka, i moli mu se; na\u00f0e ga u Vetilju, i ondje govori s nama."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ali je Gospod Bog nad vojskama, Gospod mu je spomen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ti dakle obrati se k Bogu svojemu, \u00e8uvaj milost i pravdu, i uzdaj se vazda u Boga svojega."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Trgovac je Jefrem, u ruci su mu mjerila la\u017ena, milo mu je da \u00e8ini krivo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "I govori Jefrem: ba\u0161 se obogatih, stekoh blago, ni u kom trudu mom ne\u00e6e mi na\u00e6i nepravde koja bi bila grijeh."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "A ja sam Gospod Bog tvoj od zemlje Misirske, jo\u0161 \u00e6u ti dati da sjedi\u0161 u \u0161atorima kao o praznicima."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "I govori\u00e6u preko proroka, i umno\u017ei\u00e6u utvare, i dava\u00e6u pri\u00e8u preko proroka."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Doista je Galad bezakonje, posta\u0161e sama ta\u0161tina; u Galgalu prinose junce na \u017ertvu, i oltari su im kao gomile kamenja po brazdama na njivi mojoj."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "I Jakov pobje\u017ee u zemlju Sirsku, i Izrailj slu\u017ei za \u017eenu, i za \u017eenu \u00e8uva ovce."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "I prorokom izvede Gospod Izrailja iz Misira, i prorokom \u00e8uva ga."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jefrem ga ljuto razgnjevi; zato \u00e6e ostaviti na njemu krv njegovu, i vrati\u00e6e mu sramotu njegovu Gospod njegov."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kad Jefrem govora\u0161e, bje\u0161e strah; bje\u0161e se uzvisio u Izrailju; ali se ogrije\u0161i o Vala, te umrije."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "I sada jednako grije\u0161e i grade sebi liju\u00e6i od srebra svojega po razumu svojemu likove, koji su svi djelo umjetni\u00e8ko, a oni govore za njih: ljudi koji prinose \u017ertve neka cjeluju teoce."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Zato \u00e6e biti kao oblak jutarnji i kao rosa koja u zoru padne, pa je nestane, kao pljeva, koju odnosi vjetar s gumna, i kao dim iz dimnjaka."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A ja sam Gospod Bog tvoj od zemlje Misirske, i Boga osim mene nijesi poznao, i osim mene nema ko bi spasao."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ja te poznah u pustinji, u zemlji zasu\u0161enoj."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Imaju\u00e6i dobru pa\u0161u bijahu siti; ali \u00e8im se nasiti\u0161e, ponese se srce njihovo, zato me zaboravi\u0161e."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Zato \u00e6u im biti kao lav, kao ris vreba\u00e6u ih na putu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Sre\u0161\u00e6u ih kao medvjedica kojoj uzmu medvjedi\u00e6e, i rastrga\u00e6u im sve srce njihovo i izje\u0161\u00e6u ih ondje kao lav; zvijerje poljsko raskinu\u00e6e ih."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Propao si, Izrailju; ali ti je pomo\u00e6 u meni."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Gdje ti je car? gdje je? neka te sa\u00e8uva u svijem gradovima tvojim; gdje li su sudije tvoje, za koje si govorio: daj mi cara i knezove?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dadoh ti cara u gnjevu svom, i uzeh ga u jarosti svojoj."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Svezano je bezakonje Jefremovo, ostavljen je grijeh njegov."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Bolovi kao u porodilje spopa\u0161\u00e6e ga, sin je nerazuman, jer ne bi toliko vremena ostao u utrobi."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Od groba \u00e6u ih izbaviti, od smrti \u00e6u ih sa\u00e8uvati; gdje je, smrti, pomor tvoj? gdje je, grobe, pogibao tvoja? kajanje \u00e6e biti sakriveno od o\u00e8iju mojih."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Rodan \u00e6e biti me\u00f0u bra\u00e6om svojom; ali \u00e6e do\u00e6i isto\u00e8ni vjetar, vjetar Gospodnji, koji ide od pustinje, i usahnu\u00e6e mu izvor, i studenac \u00e6e mu zasu\u0161iti; on \u00e6e odnijeti blago od svijeh dragih zaklada."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Samarija \u00e6e opustjeti, jer se odmetnu od Boga svojega; oni \u00e6e pasti od ma\u00e8a, djeca \u00e6e se njihova razmrskati i trudne \u017eene njihove rasporiti."
+                }
+            }
+        },
+        "14": {
+            "chapter_nr": "14",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Obrati se, Izrailju, ka Gospodu Bogu svojemu, jer si pao svojega radi bezakonja."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Uzmite sa sobom rije\u00e8i, i obratite se ka Gospodu; recite mu: oprosti sve bezakonje, i primi dobro; i da\u00e6emo \u017ertve usana svojih."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Asirac nas ne mo\u017ee izbaviti, ne\u00e6emo jahati na konjma, niti \u00e6emo vi\u0161e govoriti djelu ruku svojih: Bo\u017ee na\u0161; jer u tebe nalazi milost sirota."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Iscijeli\u00e6u otpad njihov, ljubi\u00e6u ih drage volje; jer \u00e6e se gnjev moj odvratiti od njega."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bi\u00e6u kao rosa Izrailju, procvjeta\u00e6e kao ljiljan i pusti\u00e6e \u017eile svoje kao drveta Livanska."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ra\u0161iri\u00e6e se grane njegove, i ljepota \u00e6e mu biti kao u masline i miris kao Livanski."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Oni \u00e6e se vratiti i sjedjeti pod sjenom njegovijem, ra\u00f0a\u00e6e kao \u017eito i cvjeta\u00e6e kao vinova loza; spomen \u00e6e mu biti kao vino Livansko."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Jefreme, \u0161ta \u00e6e mi vi\u0161e idoli? Ja \u00e6u ga usli\u0161iti i gledati; ja \u00e6u mu biti kao jela zelena; od mene je tvoj plod."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ko je mudar, neka razumije ovo; i razuman neka pozna ovo; jer su pravi putovi Gospodnji, i pravednici \u00e6e hoditi po njima, a prestupnici \u00e6e pasti na njima."
+                }
+            }
+        }
+    }
+}

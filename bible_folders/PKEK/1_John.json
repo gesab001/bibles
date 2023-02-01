@@ -1,0 +1,452 @@
+{
+    "version": "PKEK",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mis algusest peale on olnud, mida me oleme kuulnud ja oma silmaga n\u00e4inud, mida oleme vaadanud ja oma k\u00e4ega puudutanud \u2013 seda me kuulutame Elu S\u00f5nast."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "See Elu sai avalikuks; me oleme ise n\u00e4inud ning tunnistame ja kuulutame teile igavest elu, mis oli Isa juures ja on ilmutatud meile"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "seda me oleme n\u00e4inud ja kuulnud, ja kuulutame ka teile, et teilgi oleks osadus meiega. Meil on osadus Isaga ja tema Poja Jeesuse Kristusega."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ja me kirjutame seda, et meie r\u00f5\u00f5m oleks t\u00e4ielik."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "See on s\u00f5num, mida oleme kuulnud temalt ja kuulutame teile: Jumal on valgus ja temas ei ole mingit pimedust."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kui v\u00e4idame, et meil on osadus temaga, aga k\u00e4ime pimeduses, siis me valetame ega tee t\u00f5tt."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Aga kui me k\u00e4ime valguses, nagu tema on valguses, siis on meil osadus \u00fcksteisega ning tema Poja Jeesuse veri puhastab meid igast patust."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kui me v\u00e4idame, et meil ei ole pattu, siis me petame iseennast, ning t\u00f5de ei ole meie sees."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kui me oma patud tunnistame, on tema ustav ja \u00f5ige, nii et ta annab andeks meile meie patud ja puhastab meid k\u00f5igest \u00fclekohtust."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kui v\u00e4idame, et meie ei ole pattu teinud, siis teeme tema valelikuks ja tema s\u00f5na pole meis."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mu lapsed, ma kirjutan teile selleks, et te ei teeks pattu. Aga kui keegi patustab, on meil Isa juures \u00f5ige eestkostja, Jeesus Kristus."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tema on lepitusohver meie pattude eest, ja mitte ainult meie, vaid kogu maailma pattude eest."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ja sellest me tunneme \u00e4ra, et oleme tema \u00e4ra tundnud, kui me t\u00e4idame tema k\u00e4ske."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kes v\u00e4idab, et ta tunneb teda, aga tema k\u00e4ske ei t\u00e4ida, see on valetaja ja t\u00f5de ei ole tema sees."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Aga kes kuuletub tema s\u00f5nale, selles on t\u00f5esti Jumala armastus saanud t\u00e4ielikuks. Sellest me teamegi, et kuulume talle."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kes v\u00e4idab end p\u00fcsivat temas, peab elama nii, nagu Kristus elas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Armsad, ma ei saada teile uut k\u00e4sku, vaid vana k\u00e4su, mis on olnud teil algusest peale. Vana k\u00e4sk on see s\u00f5na, mida te olete kuulnud."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Samas on see ka uus k\u00e4sk, mis on t\u00f5eks saanud Kristuses ja ka teis, sest pimedus kaob ja t\u00f5eline valgus juba paistab."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kes v\u00e4idab enese olevat valguses, kuid vihkab oma venda, on ikka veel pimeduses."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kes oma venda armastab, see p\u00fcsib valguses ja ta ei pane kedagi komistama."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Aga kes oma venda vihkab, see on pimeduses. Ta k\u00f5nnib pimedas ega tea, kuhu l\u00e4heb, sest ta silmad on l\u00f6\u00f6dud pimedusega."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ma kirjutan teile, lapsed,\nsest teie patud on teile andeks antud Jeesuse nime p\u00e4rast."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ma kirjutan teile, isad,\nsest te tunnete teda, kes on olnud algusest peale.\nMa kirjutan teile, noored mehed,\nsest te olete \u00e4ra v\u00f5itnud kurja."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ma olen kirjutanud teile, lapsed,\nsest te tunnete Isa.\nMa olen kirjutanud teile, isad,\nsest te tunnete teda, kes on olnud algusest peale.\nMa olen kirjutanud teile, noored mehed,\nsest te olete tugevad\nja Jumala s\u00f5na elab teis\nja te olete \u00e4ra v\u00f5itnud kurja."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00c4rge armastage maailma ega midagi, mis on maailmas! Kes armastab maailma, selles ei ole armastust Isa vastu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "K\u00f5ik see, mis on maailmas \u2013 lihahimu, silmahimu ja eluk\u00f5rkus \u2013 ei p\u00e4rine Isast, vaid on maailmast."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Maailm kaob ja selle himud, aga kes t\u00e4idab Jumala tahet, elab igavesti."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Lapsed, k\u00e4es on viimne tund! Te olete kuulnud, et antikristus tuleb. N\u00fc\u00fcd ongi v\u00e4lja ilmunud palju antikristusi, ja sellest me tunneme \u00e4ra, et k\u00e4es on viimne tund."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Nad on v\u00e4lja l\u00e4inud meie seast, aga nad ei ole kuulunud meie hulka. Kui nad oleksid kuulunud meie hulka, siis nad oleksid j\u00e4\u00e4nud meiega. Aga nende lahkumisega sai selgeks, et \u00fckski neist ei kuulunud meie hulka."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ent teil on ju v\u00f5idmine sellelt, kes on P\u00fcha, ja te k\u00f5ik teate t\u00f5de."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Ma ei kirjutanud teile mitte sellep\u00e4rast, et te t\u00f5de ei tea, vaid et te teate seda, ja et \u00fckski vale ei tule t\u00f5e seest."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Kes veel on valetaja, kui mitte see, kes salgab, et Jeesus on Kristus? Antikristus on see, kes salgab Isa ja Poega."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Kes salgab Poja, sellel pole ka Isa; kes tunnistab Poega, sellel on ka Isa."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Mida te olete algusest peale kuulnud, see p\u00fcsigu teie sees! Kui teis p\u00fcsib see, mida te olete algusest peale kuulnud, siis p\u00fcsite teiegi Pojas ja Isas."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Ja see on t\u00f5otus, mis tema on meile t\u00f5otanud \u2013 igavene elu."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Seda ma kirjutasin teile nendest, kes tahavad teid eksitada."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Aga teie olete saanud Kristuselt v\u00f5idmise, mis p\u00fcsib teis ning te ei vaja, et keegi teid \u00f5petaks; sest tema v\u00f5idmine \u00f5petab teile k\u00f5ike, mis on t\u00f5de ja mitte vale. Niisiis, p\u00fcsige temas, nagu tema teid on \u00f5petanud!"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Ja n\u00fc\u00fcd, lapsed, j\u00e4\u00e4ge temasse, et kui tema saab avalikuks, oleksime tema tulemise p\u00e4eval julged ega peaks h\u00e4benema tema ees."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Kui te teate, et Jumal on \u00f5ige, siis saate olla kindlad, et iga\u00fcks, kes teeb \u00f5igust, on Jumalast s\u00fcndinud."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Vaadake, millise armastuse on Isa meile andnud, et meid kutsutaks Jumala lasteks! Ja need me olemegi! Maailm ei tunne meid, sest ta ei tunne ka teda."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Armsad, me oleme n\u00fc\u00fcd Jumala lapsed, aga veel ei ole saanud avalikuks, kes me \u00fcks kord oleme. Me teame, et kui Kristus ilmub, oleme tema sarnased, sest me n\u00e4eme teda nagu tema on."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ja iga\u00fcks, kellel on selline lootus Kristuse peale, puhastab ennast, nagu tema on puhas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Iga\u00fcks, kes teeb pattu, rikub seadust. Patt on seaduserikkumine."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Te teate, et Kristus on tulnud patte \u00e4ra v\u00f5tma ning temas endas ei ole pattu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00dckski, kes j\u00e4\u00e4b temasse, ei tee pattu. \u00dckski, kes teeb pattu edasi, ei ole n\u00e4inud ega m\u00f5istnud teda."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Lapsed, \u00e4rge laske kellelgi end petta! Kes teeb \u00f5igust, on \u00f5ige, nagu Kristus on \u00f5ige."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kes teeb pattu, on kuradist, sest kurat teeb pattu algusest peale. Jumala Poeg tuli selleks, et h\u00e4vitada kuradi teod."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00dckski, kes on s\u00fcndinud Jumalast, ei tee pattu, sest Jumala seeme j\u00e4\u00e4b temasse. Ta ei saa enam teha pattu, sest ta on s\u00fcndinud Jumalast."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nii me teame, kes on Jumala lapsed ja kes on kuradi lapsed. \u00dckski, kes ei tee \u00f5igust, ei ole Jumalast, ega ka see, kes ei armasta oma venda."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "See ongi s\u00f5num, mida te olete algusest peale kuulnud, et me peame \u00fcksteist armastama!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mitte nii nagu Kain, kes oli kurjast ja l\u00f5i maha oma venna. Ja misp\u00e4rast ta l\u00f5i tema maha? Sellep\u00e4rast, et tema enda teod olid kurjad, aga tema venna teod \u00f5iged."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00c4rge imestage, vennad ja \u00f5ed, kui maailm teid vihkab."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Me teame, et oleme astunud surmast ellu, sest me armastame \u00fcksteist. Kes ei armasta, see j\u00e4\u00e4b surma."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Iga\u00fcks, kes vihkab venda v\u00f5i \u00f5de, on m\u00f5rvar, ja te teate, et \u00fchelgi m\u00f5rvaril ei ole igavest elu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Sellest me oleme \u00e4ra tundnud Kristuse armastuse, et tema on oma elu meie eest andnud. Ja meiegi peame andma oma elu vendade ja \u00f5dede eest."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kui aga kellelgi on selle maailma vara ja ta n\u00e4eb oma venna olevat puuduses ning suleb oma s\u00fcdame tema eest, siis kuidas saab Jumala armastus temas p\u00fcsida?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Lapsed, \u00e4rgem armastagem s\u00f5nade ja k\u00f5nega, vaid tegude ja t\u00f5ega!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Sellest me teame, et oleme p\u00e4rit t\u00f5e seest ja Jumala ees on meil s\u00fcdamerahu."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Et kui meie s\u00fcda meid s\u00fc\u00fcdistab, Jumal on suurem kui meie s\u00fcda ja tema teab k\u00f5ike."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Armsad, kui meie s\u00fcda meid ei s\u00fc\u00fcdista, on meil julgus Jumala ees"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "ja mida me iganes palume, me saame temalt, sest me peame tema k\u00e4ske ja teeme, mis on talle meelep\u00e4rane."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ja see on tema k\u00e4sk: uskuda tema Poja Jeesuse Kristuse nimesse ja armastada \u00fcksteist, nii nagu tema meid on k\u00e4skinud."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ja kes peab tema k\u00e4ske, p\u00fcsib Jumalas ja Jumal temas. Ja sellest me tunneme \u00e4ra, et tema p\u00fcsib meis, Vaimust, kelle ta meile on andnud."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Armsad, \u00e4rge usaldage iga vaimu, vaid katsuge vaimud l\u00e4bi, kas nad ikka on Jumalast, sest palju valeprohveteid on l\u00e4inud laiali maailma."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jumala Vaimu te tunnete \u00e4ra n\u00f5nda: iga vaim, kes tunnistab, et Jeesus Kristus on tulnud lihas, on Jumalast"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u00fckski vaim, kes Jeesust ei tunnista, ei ole Jumalast, vaid see on antikristuse vaim. Te olete kuulnud, et antikristus on tulemas, aga n\u00fc\u00fcd ta juba ongi maailmas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Teie, lapsed, olete Jumalast ja olete nad \u00e4ra v\u00f5itnud, sest see, kes on teis, on suurem kui see, kes on maailmas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Nemad on maailmast. Seep\u00e4rast nad r\u00e4\u00e4givad nagu maailm r\u00e4\u00e4gib, ja maailm kuulab neid."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Meie oleme Jumalast. Kes tunneb Jumalat, v\u00f5tab meid kuulda; kes ei ole Jumalast, ei kuula meid. Nii tunneme \u00e4ra t\u00f5e Vaimu ja eksituse vaimu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Armsad, armastagem \u00fcksteist, sest armastus on Jumalast. Iga\u00fcks, kes armastab, on s\u00fcndinud Jumalast ja tunneb Jumalat."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kes ei armasta, see ei tunne Jumalat, sest Jumal on armastus."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Sellega on Jumal meile avaldanud armastust: ta on saatnud oma ainus\u00fcndinud Poja maailma, et me tema l\u00e4bi elaksime."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Selles seisnebki armastus: mitte et meie oleme armastanud Jumalat, vaid et tema on meid armastanud ja on l\u00e4kitanud oma Poja lepitusohvriks meie pattude eest."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Armsad, kui Jumal meid n\u00f5nda on armastanud, siis peame meiegi \u00fcksteist armastama."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jumalat ei ole iial keegi n\u00e4inud; aga kui me \u00fcksteist armastame, siis elab Jumal meis ja tema armastus on meie sees t\u00e4ielik."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ja sellest me tunneme \u00e4ra, et me p\u00fcsime temas ja tema meis, et ta on andnud meile osa oma Vaimust."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ja meie oleme n\u00e4inud ja tunnistame, et Isa on l\u00e4kitanud Poja maailma P\u00e4\u00e4stjaks."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kes tunnistab, et Jeesus on Jumala Poeg, temasse j\u00e4\u00e4b Jumal ja tema j\u00e4\u00e4b Jumalasse."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Me oleme tundma \u00f5ppinud ja uskunud armastust, mis Jumalal on meie vastu.\nJumal on armastus, ja kes j\u00e4\u00e4b armastusse, see j\u00e4\u00e4b Jumalasse ning Jumal j\u00e4\u00e4b temasse."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "N\u00f5nda on armastus saanud t\u00e4ielikuks meie sees, et meil oleks julgust kohtup\u00e4eval; sest nii nagu Kristus, oleme ka meie siin maailmas."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Armastuses ei ole hirmu, kuid t\u00e4iuslik armastus ajab hirmu v\u00e4lja. Aga kes karistuse kartuses hirmu tunneb, ei ole saanud t\u00e4iuslikuks armastuses."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Meie armastame, sest Jumal on meid esimesena armastanud."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Kui keegi \u00fctleb, et ta armastab Jumalat, aga vihkab siiski oma venda v\u00f5i \u00f5de, siis ta on valelik. Sest kes ei armasta oma venda v\u00f5i \u00f5de, keda ta n\u00e4eb, ei suuda armastada ka Jumalat, keda ta ei ole n\u00e4inud."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Temalt oleme saanud selle k\u00e4su: iga\u00fcks, kes armastab Jumalat, armastagu ka oma venda ja \u00f5de!"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Iga\u00fcks, kes usub, et Jeesus on Kristus, on Jumalast s\u00fcndinud. Iga\u00fcks, kes armastab Isa, armastab ka tema lapsi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ja sellest me tunneme \u00e4ra, et armastame Jumala lapsi, kui me armastame Jumalat ja t\u00e4idame tema k\u00e4ske."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Armastus Jumala vastu on see, kui me peame tema k\u00e4ske. Ja tema k\u00e4sud ei ole rasked"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "sest iga\u00fcks, kes on s\u00fcndinud Jumalast, v\u00f5idab \u00e4ra maailma. Ja see ongi v\u00f5it, millega on maailm v\u00f5idetud \u2013 meie usk."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kes veel v\u00f5iks v\u00f5ita maailma, kui mitte see, kes usub, et Jeesus on Jumala Poeg?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tema on see, kes tuli vee ja vere kaudu, Jeesus Kristus, mitte \u00fcksnes veega, vaid vee ja verega. Sellest tunnistab ka Vaim, sest Vaim on t\u00f5de."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sest tunnistajaid on kolm"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vaim, vesi ja veri, ja need kolm tunnistavad sama."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Kui me v\u00f5tame vastu inimeste tunnistuse, siis Jumala tunnistus on kaalukam, sest see on tema tunnistus, mille ta on andnud oma Poja kohta."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Kes usub Jumala Pojasse, sellel on tunnistus s\u00fcdames. Kes ei usu Jumalat, on teinud tema valelikuks, sest ta pole uskunud, mis Jumal on tunnistanud oma Poja kohta."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ja see tunnistus on selline: Jumal on andnud meile igavese elu ja see elu on tema Pojas."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Kellel on Poeg, sellel on elu. Kellel Jumala Poega ei ole, sellel ei ole elu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Seda ma olen kirjutanud teile, kes te usute Jumala Poja nimesse et te teaksite: teil on igavene elu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ja meil on see julgus Jumala ees, et kui me midagi palume tema tahte kohaselt, siis ta kuuleb meid."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ja kui me teame, et ta kuuleb meid, mida iganes me palume, siis me ka teame, et meil on k\u00e4es see, mida me temalt oleme palunud."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Kui keegi n\u00e4eb, et ta vend v\u00f5i \u00f5de teeb pattu, mis ei too surma, siis ta palvetagu, ja Jumal annab talle elu, sellele, kes ei tee pattu surmaks. On pattu, mis toob surma: selle kohta ma ei \u00fctle, et tal tuleks paluda."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "K\u00f5ik \u00fclekohus on patt; aga on pattu, mis ei too surma."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Me teame, et \u00fckski, kes on s\u00fcndinud Jumalast, ei tee pattu edasi, sest Jumalast s\u00fcndinu kaitseb teda turvaliselt, ja kuri ei saa teda kahjustada."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Me teame, et meie oleme Jumalast, ja et terve maailm on kurja v\u00f5imuses."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ent me teame, et Jumala Poeg on tulnud ja andnud meile m\u00f5istmise, et me tunneksime \u00e4ra T\u00f5elise. Ja meie oleme T\u00f5elises, tema Pojas Jeesuses Kristuses. Tema on t\u00f5eline Jumal ja igavene elu."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Lapsed, hoiduge ebajumalate eest!"
+                }
+            }
+        }
+    }
+}

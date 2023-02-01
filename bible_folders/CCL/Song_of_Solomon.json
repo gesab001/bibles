@@ -1,0 +1,515 @@
+{
+    "version": "CCL",
+    "book_name": "Song of Solomon",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nyimbo ya Solomoni, nyimbo yoposa nyimbo zonse."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mkazi Undipsompsone ndi milomo yako chifukwa chikondi chako n\u02bcchokoma kuposa vinyo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mafuta ako odzola ndi onunkhira bwino; dzina lako lili ngati mafuta onunkhira otsanulidwa. N\u02bcchifukwa chake atsikana amakukonda!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nditenge ndipo ndizikutsata, tiye tifulumire! Mfumu indilowetse m\u02bcchipinda chake. AbwenziIfe timasangalala ndi kukondwera nawe, tidzatamanda chikondi chako kupambana vinyo. MkaziAmachita bwinotu potamanda iwe!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ndine wakuda, komatu ndine wokongola, inu akazi a ku Yerusalemu, ine ndine wakuda ngati tenti ya ku Kedara, ngati makatani a tenti ya Solomoni."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Musandiyang\u02bcane monyoza chifukwa ndine wakuda, ndine wakuda chifukwa cha dzuwa. Alongo anga anandikwiyira ndipo anandigwiritsa ntchito m\u02bcminda ya mpesa; munda wangawanga sindinawusamalire."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ndiwuze iwe, amene ndimakukonda, kumene umadyetsa ziweto zako ndi kumene umagoneka nkhosa zako nthawi yamasana. Ndikhalirenji ngati mkazi wachiwerewere pambali pa ziweto za abwenzi ako?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Abwenzi Ngati sukudziwa iwe wokongola kwambiri kuposa akazi ena, ngati sukudziwa, tsatira makwalala a nkhosa ndipo udyetse ana ambuzi pambali pa matenti a abusa."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mwamuna Iwe bwenzi langa, uli ngati kavalo wamkazi ku magaleta a Farao."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Masaya ako ndi okongola ndi ndolo zam\u02bcmakutuzo, khosi lako likukongola ndi mikanda yamiyala yamtengowapatali."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tidzakupangira ndolo zagolide zokongoletsedwa ndi mikanda yasiliva."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Mkazi Pamene mfumu inali pa malo ake odyera, mafuta anga onunkhira anamveka fungo lake."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Wokondedwa wanga ali ngati kathumba ka mure kwa ine, kamene kamakhala pakati pa mawere angawa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Wokondedwa wanga ali ngati mpukutu wa maluwa ofiira, ochokera ku minda ya mpesa ya ku Eni-Gedi."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mwamuna Iwe wokondedwa wanga, ndiwe wokongoladi! Ndithu, ndiwe chiphadzuwa, maso ako ali ngati nkhunda."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Mkazi Iwe bwenzi langa, ndiwe wokongoladi! Ndithu, ndiwe wokongoladi kwambiri! Ndipo malo athu ogonapo ndi msipu wobiriwira."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Mwamuna Mitanda ya nyumba yathu ndi ya mkungudza, phaso lake ndi la mtengo wa payini."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mkazi Ine ndine duwa la ku Saroni, duwa lokongola la ku zigwa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mwamuna Monga duwa lokongola pakati pa minga ndi momwe alili wokondedwa wanga pakati pa atsikana."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mkazi Monga mtengo wa apulosi pakati pa mitengo ya m\u02bcnkhalango ndi momwe alili bwenzi langa pakati pa anyamata. Ndimakondwera kukhala pansi pa mthunzi wako, ndipo chipatso chake ndi chokoma m\u02bckamwa mwanga."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Iye wanditengera ku nyumba yaphwando, ndipo mbendera yake yozika pa ine ndi chikondi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Undidyetse keke ya mphesa zowuma, unditsitsimutse ndi ma apulosi, pakuti chikondi chandifowoketsa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mutu wanga watsamira dzanja lake lamanzere, ndipo dzanja lake lamanja landikumbatira."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Inu akazi a ku Yerusalemu, ndithu ndikukupemphani pali gwape ndi mbawala yayikazi zakuthengo: Musachigwedeze chikondi kapena kuchiutsa mpaka pamene chifunire ichocho."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tamverani bwenzi langa! Taonani! Uyu akubwera apayu, akulumphalumpha pa mapiri, akujowajowa pa zitunda."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bwenzi langa ali ngati gwape kapena mwana wa mbawala. Taonani! Uyo wayima kuseri kwa khoma lathulo, akusuzumira m\u02bcmazenera, akuyang\u02bcana pa mpata wa zenera."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Bwenzi langa anayankha ndipo anati kwa ine, \u201cDzuka bwenzi langa, wokongola wanga, ndipo tiye tizipita."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ona, nyengo yozizira yatha; mvula yatha ndipo yapitiratu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Maluwa ayamba kuoneka pa dziko lapansi; nthawi yoyimba yafika, kulira kwa njiwa kukumveka m\u02bcdziko lathu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mtengo wankhuyu ukubereka zipatso zake zoyambirira; mitengo ya mpesa ya maluwa ikutulutsa fungo lake. Dzuka bwenzi langa, wokongola wanga tiye tizipita.\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mwamuna Nkhunda yanga yokhala m\u02bcming\u02bcalu ya thanthwe, m\u02bcmalo obisala a m\u02bcmbali mwa phiri, onetsa nkhope yako, n\u02bctamvako liwu lako; pakuti liwu lako ndi lokoma, ndipo nkhope yako ndi yokongola."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Mutigwirire nkhandwe, nkhandwe zing\u02bconozing\u02bcono zimene zikuwononga minda ya mpesa, minda yathu ya mpesa imene yayamba maluwa."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Mkazi Bwenzi langa ndi wangadi ndipo ine ndine wake; amadyetsa gulu lake la ziweto pakati pa maluwa okongola."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Kamphepo kamadzulo kakayamba kuwuzira ndipo mithunzi ikayamba kuthawa, unyamuke bwenzi langa, ndipo ukhale ngati gwape kapena ngati mwana wa mbawala pakati pa mapiri azigwembezigwembe."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Usiku wonse ndili pa bedi langa ndinafunafuna amene mtima wanga umamukonda; ndinamufunafuna koma osamupeza."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ndikudzuka tsopano ndipo ndidzayendayenda mu mzinda, m\u02bcmisewu yake ndi m\u02bcmabwalo ake; ndidzamufunafuna amene mtima wanga umamukonda. Kotero ine ndinamufunafuna iyeyo koma osamupeza."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Alonda anandipeza pamene ankayendera mzinda. \u201cKodi mwamuonako amene mtima wanga umamukonda?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Nditawapitirira pang\u02bcono ndinamupeza amene mtima wanga umamukonda. Ndinamugwira ndipo sindinamulole kuti achoke mpaka nditamulowetsa m\u02bcnyumba ya amayi anga, m\u02bcchipinda cha amene anandibereka."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Inu akazi a ku Yerusalemu, ndithu ndikukupemphani pali gwape ndi mbawala yayikazi zakuthengo: Musachigwedeze chikondi kapena kuchiutsa mpaka pamene chifunire ichocho."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kodi ndani amene akubwera kuchokera ku chipululu ngati utsi watolotolo, wonunkhira mure ndi lubani, zopangidwa kuchokera ku zonunkhira zonse za anthu amalonda?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ona! Chimenecho ndi chonyamulira Solomoni, choperekezedwa ndi asilikali 60, anthu amphamvu a ku Israeli,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "onse atanyamula lupanga, onse odziwa bwino nkhondo, aliyense ali ndi lupanga pambali pake, kukonzekera zoopsa za usiku."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Mfumu Solomoni anadzipangira chonyamulirachi; anachipanga ndi matabwa ochokera ku Lebanoni."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Milongoti yake anayipanga yasiliva, kumbuyo kwake kwa golide. Mipando yake inakutidwa ndi nsalu yapepo, anakongoletsa m\u02bckati mwake ndi chikondi cha akazi a ku Yerusalemu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tukulani inu akazi a ku Ziyoni ndipo mudzaone mfumu Solomoni atavala chipewa chaufumu, chipewa chaufumu chimene amayi ake anamuveka pa tsiku la ukwati wake, tsiku limene mtima wake unasangalala."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mwamuna Ndiwe wokongoladi wokondedwa wanga! Ndithudi, ndiwe wokongola! Maso ako ali ngati nkhunda kumbuyo kwa nsalu yophimba kumutu. Tsitsi lako lili ngati gulu la mbuzi zikutsetsereka kuchokera ku Giliyadi."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mano ako ali ngati gulu la nkhosa zomwe zangometedwa kumene, zochokera kozisambitsa kumene. Iliyonse ili ndi ana amapasa; palibe imene ili yokha."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Milomo yako ili ngati mbota yofiira; pakamwa pako ndi pokongola kwambiri. Kukhalira kumbuyo kwa nsalu yako yophimba kumutuyo, masaya ako akuoneka ngati mabandu a makangadza."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Khosi lako lili ngati nsanja ya Davide, yomangidwa bwino ndi yosalala; pa nsanja imeneyo pali zishango 1,000, zishango zonsezo za anthu ankhondo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mawere ako ali ngati tiana tiwiri ta nswala, ngati ana amapasa a nswala amene akudya pakati pa maluwa okongola."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kamphepo kamadzulo kakayamba kuwuzira ndipo mithunzi ikayamba kuthawa, ndidzapita ku phiri la mure ndi ku chitunda cha lubani."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ndiwe wokongola kwambiri wokondedwa wanga; palibe chilema pa iwe."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tiye tichoke ku Lebanoni iwe mkwatibwi wanga, tiye tichoke ku Lebanoni, utsikepo pa msonga ya Amana, kuchoka pa msonga ya phiri la Seniri, pamwamba penipeni pa Herimoni, kuchoka ku mapanga a mikango ndiponso kumapiri kumene akambuku amavutitsa."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Iwe mlongo wanga, mkwatibwi wanga, wanditenga mtima, iwe wanditenga mtima ndi kapenyedwe ka maso ako, ndiponso ndi umodzi mwa mikanda ya m\u02bckhosi mwako."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Iwe mlongo wanga, mkwatibwi wanga, chikondi chako n\u02bcchosangalatsa! Chikondi chako n\u02bcchosangalatsa kwambiri kupambana vinyo, ndiponso fungo la mafuta ako ndi lopambana zonunkhiritsa zonse!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Iwe mkwatibwi wanga, milomo yako ikuchucha uchi ngati chisa cha njuchi; pansi pa lilime lako pali mkaka ndi uchi. Fungo lonunkhira la zovala zako likumveka ngati fungo la ku Lebanoni."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Iwe mlongo wanga, mkwatibwi wanga, ndiwe munda wopiringidzidwa; ndiwe kasupe wotchingidwa, chitsime chotetezedwa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Zomera zako ndi munda wa zipatso za makangadza; muli zipatso zokoma kwambiri, muli hena ndi nadi,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "nadi ndi safiro, kalamusi ndi sinamoni, komanso mtengo uliwonse wonunkhira bwino. Mulinso mure ndi aloe ndi zonunkhiritsa zonse zabwino kwambiri."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Iwe ndiwe kasupe wa m\u02bcmunda, chitsime cha madzi oyenda, mtsinje wa madzi ochokera ku Lebanoni."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Mkazi Dzuka, iwe mphepo yakumpoto, ndipo bwera, iwe mphepo yakummwera! Uzira pa munda wanga, kuti fungo lake lonunkhira lifalikire ponseponse. Bwenzi langa alowe m\u02bcmunda mwake ndi kudya zipatso zake zabwino kwambiri."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mwamuna Ndalowa m\u02bcmunda mwanga, iwe mlongo wanga, iwe mkwatibwi wanga; ndasonkhanitsa mure wanga ndi zokometsera zakudya zanga. Ndadya uchi wanga pamodzi ndi zisa zake zomwe; ndamwa vinyo wanga ndi mkaka wanga. AbwenziIdyani abwenzi anga, imwani; Inu okondana, imwani kwambiri."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mkazi Ndinagona tulo koma mtima wanga unali maso. Tamverani, bwenzi langa akugogoda: \u201cNditsekulire, mlongo wanga, bwenzi langa, nkhunda yanga, wangwiro wanga. Mutu wanga wanyowa ndi mame, tsitsi langa lanyowa chifukwa cha nkhungu ya usiku.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ndavula kale zovala zanga, kodi ndizivalenso? Ndasamba kale mapazi anga kodi ndiwadetsenso?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Bwenzi langa anapisa dzanja lake pa chibowo cha pa chitseko; mtima wanga unagunda chifukwa cha iye."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ndinanyamuka kukamutsekulira wachikondi wangayo, ndipo manja anga anali noninoni ndi mure, zala zanga zinali mure chuchuchu, pa zogwirira za chotsekera."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ndinamutsekulira wachikondi wanga, koma n\u02bckuti wachikondi wangayo atachoka; iye anali atapita. Mtima wanga unafumuka chifukwa cha kuchoka kwake. Ndinamuyang\u02bcanayang\u02bcana koma sindinamupeze. Ndinamuyitana koma sanandiyankhe."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Alonda anandipeza pamene ankayendera mzindawo. Anandimenya ndipo anandipweteka; iwo anandilanda mwinjiro wanga, alonda a pa khoma aja!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Inu akazi a ku Yerusalemu ndithu ndikukupemphani, mukapeza wokondedwa wangayo, kodi mudzamuwuza chiyani? Muwuzeni kuti ine ndadwala nacho chikondi."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Abwenzi Iwe wokongola kuposa akazi onsewa, kodi wokondedwa wakoyo ndi wopambana wina aliyense bwanji? Kodi wokondedwa wakoyo ndi wopambana ena onse chotani kuti uzichita kutipempha motere?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mkazi Wokondedwa wangayo ndi wowala kwambiri ndi wathanzi pakati pa anthu 1,000."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mutu wake ndi golide woyengeka bwino; tsitsi lake ndi lopotanapotana, ndiponso lakuda bwino ngati khwangwala."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Maso ake ali ngati nkhunda m\u02bcmbali mwa mitsinje ya madzi, ngati nkhunda zitasamba mu mkaka, zitayima ngati miyala yamtengowapatali."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Masaya ake ali ngati timinda ta mbewu zokometsera zakudya zopatsa fungo lokoma. Milomo yake ili ngati maluwa okongola amene akuchucha mure."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Manja ake ali ngati ndodo zagolide zokongoletsedwa ndi miyala yamtengowapatali. Thupi lake ndi losalala ngati mnyanga wanjovu woyikamo miyala ya safiro."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Miyendo yake ili ngati mizati yamwala, yokhazikika pa maziko a golide. Maonekedwe ake ali ngati Lebanoni, abwino kwambiri ngati mkungudza."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Milomo yake ndi yosangalatsa kwambiri; munthuyo ndi wokongola kwambiri! Uyu ndiye wachikondi wanga ndi bwenzi langa, inu akazi a ku Yerusalemu."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Abwenzi Iwe wokongola kuposa akazi onsewa, kodi wokondedwa wakoyo wapita kuti? Kodi wokondedwa wakoyo wakhotera njira iti kuti timufunefune pamodzi ndi iwe?"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mkazi Wachikondi wanga watsikira ku munda kwake, ku timinda ta zokometsera zakudya, akukadyetsa ziweto zake ku minda, ndiponso akuthyola maluwa okongola."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Wokondedwa wangayo ndine wake ndipo iyeyo ndi wangawanga; amadyetsa ziweto zake pakati pa maluwa okongola."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mwamuna Ndiwe wokongola, bwenzi langa, ngati Tiriza, wokongola kwambiri ngati Yerusalemu, ndiwe woopsa ngati gulu lankhondo lonyamula mbendera."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Usandipenyetsetse; pakuti maso ako amanditenga mtima. Tsitsi lako lili ngati gulu la mbuzi zikutsetsereka kuchokera ku Giliyadi."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mano ako ali ngati gulu la nkhosa zimene zikubwera kuchokera kokazisambitsa, iliyonse ili ndi ana amapasa, palibe imene ili yokha."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Kukhalira kumbuyo kwa nsalu yako yophimba kumutu, masaya ako ali ngati mabandu a makangadza."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ngakhale patakhala akazi a mfumu 60, ndi azikazi 80, ndi anamwali osawerengeka;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "koma nkhunda yanga, wangwiro wanga ndi wosiyana ndi wina aliyense; mwana wamkazi yekhayo wa amayi ake, mwana wapamtima wa amene anamubereka. Anamwali anamuona ndipo anamutcha wodala; akazi a mfumu ndi azikazi anamutamanda."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Abwenzi Ndani uyu akuoneka ngati m\u02bcbandakucha, wokongola ngati mwezi, wowala ngati dzuwa, wochititsa mantha ngati gulu la ankhondo mbendera zili m\u02bcmanja?"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mwamuna Ndinatsikira ku munda wa mitengo ya alimondi kukayang\u02bcana zomera zatsopano ku chigwa, kukaona ngati mpesa waphukira kapena ngati makangadza ali ndi maluwa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ndisanazindikire kanthu, ndinakhala ngati ndikulota kuti ndili m\u02bcgaleta pambali pa mfumu yanga."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Abwenzi Bwerera, bwerera iwe namwali wa ku Sulami; bwerera, bwerera kuti ife tidzakupenyetsetse iwe! MwamunaChifukwa chiyani mukufuna kudzapenyetsetsa ine mwana wamkazi wa ku Sulami, pamene ndikuvina pakati pa magulu awiri?"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Iwe namwali waufumu, mapazi ako ngokongola mu nsapato wavalazo! Ntchafu zako n\u02bczowumbika bwino ngati miyala yamtengowapatali, ntchito ya manja ya mmisiri waluso."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mchombo wako uli ngati chikho chowumbika bwino chimene nthawi zonse ndi chodzaza ndi vinyo. Chiwuno chako ndi choning\u02bca ngati mtolo wa tirigu utazunguliridwa ndi maluwa okongola."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mawere ako akuoneka ngati ana awiri a mbawala, ngati mphoyo zamapasa."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Khosi lako lili see! ngati nsanja ya mnyanga wa njovu. Maso ako ali ngati mayiwe a ku Hesiboni, amene ali pafupi ndi chipata cha Bati Rabimu. Mphuno yako ili ngati nsanja ya ku Lebanoni, yoyang\u02bcana ku Damasiko."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Mutu wako uli bwinobwino neng\u02bcaa ngati phiri la Karimeli. Tsitsi lako lili ngati nsalu yakuda yaufumu; mfumu yakopeka ndi maonekedwe ake okongola."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ndiwe wokongola kwambiri ndiponso wosangalatsa, iwe wokondedwa, namwali wokondweretsawe!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Msinkhu wako uli ngati mtengo wa mgwalangwa, ndipo mawere ako ali ngati phava la zipatso."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ndinati, \u201cNdikwera mtengo wa mgwalangwa; ndidzathyola zipatso zake.\u201d Mawere ako ali ngati maphava a mphesa, fungo la mpweya wako lili ngati ma apulosi,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "ndipo pakamwa pako pali ngati vinyo wokoma kwambiri. MkaziTsono vinyo ameneyu amuthirire wachikondi wanga, ayenderere bwino pa milomo yake ndi mano ake."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Wokondedwayo ine ndine wake, ndipo chilakolako chake chili pa ine."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Bwera wachikondi wanga, tiye tipite ku madera a ku midzi, tikagone ku midzi."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Tiye tilawirire mmamawa kupita ku minda ya mpesa, tikaone ngati mitengo ya mpesa yayamba kuphukira, ngati maluwa ake ayamba kuoneka, komanso ngati makangadza ayamba kuonetsa maluwa. Kumeneko ndidzakuonetsa chikondi changa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mitengo ya mankhwala a chisulo ikupereka fungo lake labwino, ndipo pa khomo pathu pali zipatso zonse zokoma, zatsopano ndi zakale zomwe, zimene ndakusungira wokondedwa wanga."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ukanakhala kuti ndiwe mlongo wanga, amene anayamwa mawere a amayi anga! Ndikanakumana nawe pa njira, ndikanakupsompsona, ndipo palibe wina aliyense akanandinyoza."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ndikanakutenga ndi kukulowetsa m\u02bcnyumba ya amayi anga, amayi amene anandiphunzitsa, ndikanakupatsa vinyo wotsekemera kuti umwe, zotsekemera za makangadza."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mutu wanga watsamira dzanja lake lamanzere ndipo dzanja lake lamanja landikumbatira."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Inu akazi a ku Yerusalemu, ndithu ndikukupemphani: musachigwedeze chikondi kapena kuchiutsa mpaka pamene chifunire ichocho."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Abwenzi Kodi ndani uyo akutuluka ku chipululuyo, atatsamira wokondedwa wakeyo? MkaziNdinakudzutsa pa tsinde pa mtengo wa apulosi, pamenepo ndi pamene amayi anachirira, pamenepo ndi pamene wokubereka anamva ululu pokubala iweyo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Undiyike pamtima pako ngati chidindo, ngati chidindo cha pa dzanja lako; pakuti chikondi n\u02bcchamphamvu ngati imfa, nsanje ndiyaliwuma ngati manda. Chikondi chimachita kuti lawilawi ngati malawi a moto wamphamvu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Madzi ochuluka sangachizimitse chikondi, mitsinje singachikokolole chikondicho. Ngati wina apereka chuma chonse cha m\u02bcnyumba mwake chifukwa cha chikondi, adzangonyozeka nazo kotheratu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Abwenzi Ife tili naye mlongo wathu wamng\u02bcono, koma alibe mawere, kodi tidzamuchitira chiyani mlongo wathuyu pa tsiku limene adzamufunsire?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ngati iye ndi khoma, tidzamumangira nsanja ya siliva. Ngati iye ndi chitseko, tidzamutchinga ndi matabwa a mkungudza."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Mkazi Ine ndili ngati khoma, ndipo mawere anga ndi nsanja zake. Tsono m\u02bcmaso mwa bwenzi langa ndine wobweretsa mtendere."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Solomoni anali ndi munda wampesa ku Baala-Hamoni; iyeyo anabwereketsa munda wamphesawo kwa alimi, aliyense mwa iwo ankayenera kupereka ndalama zasiliva 1,000 m\u02bcmalo mwa zipatso zake."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Koma munda wanga wampesa ndi wangawanga ndiponso wa ine ndekha. Iwe Solomoni, khala nazo ndalama zasiliva 1,000 ndipo ndalama zasiliva 200 ndi za amene akusamalira mundawo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mwamuna Iwe amene umakhala m\u02bcminda uli pamodzi ndi anzako, ndilole kuti ndimve liwu lako!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mkazi Fulumira wokondedwa wanga, ndipo ukhale ngati gwape kapena mwana wa mbawala wothamanga m\u02bcmapiri m\u02bcmene mumamera mbewu zokometsera chakudya."
+                }
+            }
+        }
+    }
+}

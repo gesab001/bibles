@@ -1,0 +1,725 @@
+{
+    "version": "karoli",
+    "book_name": "Esther",
+    "book_nr": "17",
+    "book": {
+        "1": {
+            "chapter_nr": 1,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Ahasv\u00e9rus idej\u00e9ben t\u00f6rt\u00e9nt (ez az Ahasv\u00e9rus az, a ki uralkodott Indi\u00e1t\u00f3l fogva Szerecsenorsz\u00e1gig sz\u00e1zhuszonh\u00e9t tartom\u00e1nyon),\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Azokban a napokban, a mikor Ahasv\u00e9rus kir\u00e1ly \u00fcle kir\u00e1lyi sz\u00e9k\u00e9ben, a mely Sus\u00e1n v\u00e1r\u00e1ban volt,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Uralkod\u00e1sa harmadik \u00e9v\u00e9ben lakom\u00e1t szerze minden fejedelm\u00e9nek \u00e9s szolg\u00e1inak: Persia \u00e9s M\u00e9dia hatalmasai, f\u00f5emberei \u00e9s a tartom\u00e1nyok fejedelmei el\u00f5tte val\u00e1nak,\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Mid\u00f5n mutogat\u00e1 orsz\u00e1ga dics\u00f5s\u00e9g\u00e9nek gazdags\u00e1g\u00e1t \u00e9s az \u00f5 m\u00e9lt\u00f3s\u00e1g\u00e1nak f\u00e9nyes d\u00edsz\u00e9t sok napon \u00e1t, sz\u00e1znyolczvan napig.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "\u00c9s mikor elmultak ezek a napok, t\u00f5n a kir\u00e1ly az eg\u00e9sz n\u00e9pnek, mely Sus\u00e1n v\u00e1r\u00e1ban tal\u00e1ltat\u00e9k, kicsinyt\u00f5l nagyig, h\u00e9t napig tart\u00f3 lakom\u00e1t, a kir\u00e1ly palot\u00e1ja kertj\u00e9nek udvar\u00e1n.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Feh\u00e9r gyapj\u00fa \u00e9s k\u00e9k b\u00edbor sz\u00f5nyegek val\u00e1nak meger\u00f5s\u00edtve a feh\u00e9r gyapj\u00fab\u00f3l \u00e9s b\u00edborb\u00f3l val\u00f3 k\u00f6teleken, ez\u00fcst karik\u00e1kon \u00e9s feh\u00e9r m\u00e1rv\u00e1nyb\u00f3l val\u00f3 oszlopokon. Aranyb\u00f3l \u00e9s ez\u00fcstb\u00f5l val\u00f3 kerevetek voltak az alab\u00e1stromb\u00f3l, feh\u00e9r m\u00e1rv\u00e1nyb\u00f3l, gy\u00f6ngyk\u00f5b\u00f5l \u00e9s v\u00f6r\u00f6s m\u00e1rv\u00e1nyb\u00f3l val\u00f3 padozaton.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Ittak pedig arany poharakb\u00f3l \u00e9s k\u00fcl\u00f6nb-k\u00fcl\u00f6nbf\u00e9le poharakb\u00f3l, \u00e9s kir\u00e1lyi bor b\u00f5ven vala, kir\u00e1lyi m\u00f3don.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "\u00c9s az iv\u00e1s, rendelet folyt\u00e1n, k\u00e9nyszer n\u00e9lk\u00fcl [t\u00f6rt\u00e9nt;] mert \u00edgy hagyta meg a kir\u00e1ly h\u00e1za minden gondvisel\u00f5j\u00e9nek, hogy kinek-kinek akarata szerint cselekedjenek.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "V\u00e1sti kir\u00e1lyn\u00e9 is lakom\u00e1t szerze a n\u00f5knek, a kir\u00e1lyi h\u00e1zban, mely Ahasv\u00e9rus kir\u00e1ly\u00e9 vala.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Hetedik napon, mikor megv\u00edd\u00e1mult a kir\u00e1ly sz\u00edve a bort\u00f3l, mond\u00e1 M\u00e9hum\u00e1nnak, Bizt\u00e1nak, H\u00e1rbon\u00e1nak, Bigt\u00e1nak \u00e9s Abagt\u00e1nak, Zet\u00e1rnak \u00e9s Kark\u00e1snak, a h\u00e9t udvarmesternek, a kik szolg\u00e1l\u00e1nak Ahasv\u00e9rus kir\u00e1ly el\u00f5tt,\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Hogy hozz\u00e1k el V\u00e1stit, a kir\u00e1lyn\u00e9t a kir\u00e1ly el\u00e9, kir\u00e1lyi koron\u00e1val, hogy megmutassa a n\u00e9peknek \u00e9s fejedelmeknek az \u00f5 sz\u00e9ps\u00e9g\u00e9t; mert sz\u00e9p arcz\u00fa vala.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "De V\u00e1sti kir\u00e1lyn\u00e9 nem akara menni a kir\u00e1ly szav\u00e1ra, mely vala az udvarmesterek \u00e1ltal. Erre igen megharagudott a kir\u00e1ly, \u00e9s az \u00f5 haragja felgerjede benne.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "\u00c9s monda a kir\u00e1ly az id\u00f5ket m\u00e9r\u00f5 b\u00f6lcseknek, (mert a kir\u00e1lynak \u00f6sszes dolgai a jog- \u00e9s t\u00f6rv\u00e9nytud\u00f3k el\u00e9 [tartoznak.]\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Legk\u00f6zelebb val\u00e1nak pedig hozz\u00e1: Kars\u00e9na, S\u00e9t\u00e1r, Admata, T\u00e1rsis, M\u00e9res, Mars\u00e9na, M\u00e9muk\u00e1n, Persi\u00e1nak \u00e9s M\u00e9di\u00e1nak h\u00e9t fejedelme, a kik l\u00e1t\u00e1k a kir\u00e1ly arcz\u00e1t, [\u00e9s] el\u00f5l \u00fcl\u00e9nek az orsz\u00e1gban):\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "T\u00f6rv\u00e9ny szerint mit kellene cselekedni V\u00e1sti kir\u00e1lyn\u00e9val, mivelhogy nem teljes\u00edt\u00e9 Ahasv\u00e9rus kir\u00e1lynak az udvarmesterek \u00e1ltal \u00fczent besz\u00e9d\u00e9t?\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Akkor monda M\u00e9muk\u00e1n a kir\u00e1ly \u00e9s a fejedelmek el\u00f5tt: Nemcsak a kir\u00e1ly ellen v\u00e9tkezett V\u00e1sti kir\u00e1lyn\u00e9; de valamennyi fejedelem \u00e9s minden n\u00e9p ellen, Ahasv\u00e9rus kir\u00e1ly minden tartom\u00e1ny\u00e1ban;\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Mert a kir\u00e1lyn\u00e9 cselekedet\u00e9nek h\u00edre fut minden asszonyhoz, \u00fagy, hogy megvetik f\u00e9rjeiket szemeik el\u00f5tt, \u00e9s azt mondj\u00e1k: Ahasv\u00e9rus kir\u00e1ly megparancsol\u00e1, hogy V\u00e1sti kir\u00e1lyn\u00e9 hozz\u00e1 menjen, \u00e9s nem ment.\n"
+                },
+                "18": {
+                    "verse_nr": 18,
+                    "verse": "\u00c9s e napon [ugyanazt] fogj\u00e1k mondani Persia \u00e9s M\u00e9dia fejedelemasszonyai, a kik meghallj\u00e1k a kir\u00e1lyn\u00e9 cselekedet\u00e9t, a kir\u00e1ly minden fejedelm\u00e9nek, \u00e9s lesz el\u00e9g megvet\u00e9s \u00e9s harag.\n"
+                },
+                "19": {
+                    "verse_nr": 19,
+                    "verse": "Ha az\u00e9rt a kir\u00e1lynak tetszik, bocs\u00e1sson ki kir\u00e1lyi parancsot a maga r\u00e9sz\u00e9r\u00f5l \u00e9s irattass\u00e9k a Persa-M\u00e9d t\u00f6rv\u00e9nyek k\u00f6z\u00e9, visszavonhatatlanul, hogy ne j\u00f5jj\u00f6n t\u00f6bb\u00e9 V\u00e1sti Ahasv\u00e9rus kir\u00e1ly sz\u00edne el\u00e9, \u00e9s hogy az \u00f5 kir\u00e1lys\u00e1g\u00e1t adja a kir\u00e1ly m\u00e1snak, a ki jobb \u00f5 n\u00e1l\u00e1n\u00e1l.\n"
+                },
+                "20": {
+                    "verse_nr": 20,
+                    "verse": "\u00c9s hallj\u00e1k meg a kir\u00e1ly rendelet\u00e9t, a melyet teend, eg\u00e9sz orsz\u00e1g\u00e1ban, mert igen nagy az, hogy minden asszony adja meg a tiszteletet az \u00f5 f\u00e9rj\u00e9nek, a legnagyobbt\u00f3l a legkisebbig.\n"
+                },
+                "21": {
+                    "verse_nr": 21,
+                    "verse": "\u00c9s tetszett a sz\u00f3 a kir\u00e1lynak \u00e9s a fejedelmeknek, \u00e9s a kir\u00e1ly M\u00e9muk\u00e1n besz\u00e9de szerint cseleked\u00e9k.\n"
+                },
+                "22": {
+                    "verse_nr": 22,
+                    "verse": "\u00c9s leveleket k\u00fclde a kir\u00e1lynak minden tartom\u00e1ny\u00e1ba, tartom\u00e1nyr\u00f3l tartom\u00e1nyra, annak saj\u00e1t \u00edr\u00e1sa szerint, \u00e9s n\u00e9pr\u00f5l-n\u00e9pre, annak nyelve szerint, hogy legyen minden f\u00e9rfi \u00far az \u00f5 h\u00e1z\u00e1ban \u00e9s besz\u00e9ljen az \u00f5 n\u00e9p\u00e9nek nyelv\u00e9n.\n"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": 2,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Ezek ut\u00e1n, a mint megsz\u00fcnt Ahasv\u00e9rus kir\u00e1ly haragja, megeml\u00e9kez\u00e9k V\u00e1stir\u00f3l, \u00e9s arr\u00f3l a mit cselekedett, \u00e9s arr\u00f3l a mit v\u00e9geztek fel\u00f5le.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "\u00c9s mond\u00e1nak a kir\u00e1ly apr\u00f3dai, a kik n\u00e9ki szolg\u00e1l\u00e1nak: Keressenek a kir\u00e1lynak sz\u00e9p \u00e1br\u00e1zat\u00fa sz\u00fbz le\u00e1nyokat.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00c9s rendeljen a kir\u00e1ly tiszteket orsz\u00e1g\u00e1nak minden tartom\u00e1ny\u00e1ba, a kik gy\u00fbjtsenek \u00f6ssze minden sz\u00e9p \u00e1br\u00e1zat\u00fa sz\u00fbz le\u00e1nyt Sus\u00e1n v\u00e1r\u00e1ba, az asszonyok h\u00e1z\u00e1ba, H\u00e9gainak, a kir\u00e1ly kamar\u00e1s\u00e1nak, az asszonyok \u00f5rz\u00f5j\u00e9nek keze al\u00e1, \u00e9s adjanak n\u00e9kik sz\u00e9p\u00edt\u00f5 szereket.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "\u00c9s az a le\u00e1ny, a ki tetszik a kir\u00e1ly szemeinek, uralkodj\u00e9k V\u00e1sti helyett. \u00c9s tetszett a dolog a kir\u00e1lynak, \u00e9s \u00fagy cseleked\u00e9k.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Vala egy zsid\u00f3 f\u00e9rfi\u00fa Sus\u00e1n v\u00e1r\u00e1ban, a kinek neve M\u00e1rdokeus, J\u00e1irnak fia, a ki Simei fia, a ki Kis fia, Benj\u00e1min nemzets\u00e9g\u00e9b\u00f5l,\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "A ki Jeruzs\u00e1lemb\u00f5l fogva vitetett el a sz\u00e1m\u00fbz\u00f6tt n\u00e9ppel, a mely elvitetett Jek\u00f3ni\u00e1ssal, J\u00fada kir\u00e1ly\u00e1val egy\u00fctt, a kit rabs\u00e1gba vitt el Nabukodonozor, babil\u00f3niai kir\u00e1ly.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "\u00c9s ez gondvisel\u00f5je volt Hadass\u00e1nak, azaz Eszternek az \u00f5 nagyb\u00e1tyja le\u00e1ny\u00e1nak; mert sem atyja, sem anyja nem volt, \u00e9s a le\u00e1ny sz\u00e9p alak\u00fa \u00e9s sz\u00e9p \u00e1br\u00e1zat\u00fa vala, s mikor meghalt az \u00f5 atyja \u00e9s anyja, M\u00e1rdokeus le\u00e1nya gyan\u00e1nt mag\u00e1hoz fogad\u00e1.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "L\u00f5n pedig, mikor a kir\u00e1ly parancsa \u00e9s rendelete kihirdettetett \u00e9s sok le\u00e1ny gy\u00fbjtetett Sus\u00e1n v\u00e1r\u00e1ba, H\u00e9gai keze al\u00e1, akkor felv\u00e9tetett Eszter is a kir\u00e1ly h\u00e1z\u00e1ba, H\u00e9gainak, az asszonyok \u00f5r\u00e9nek keze al\u00e1.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "\u00c9s tetszett a le\u00e1ny az \u00f5 szemeinek \u00e9s kegy\u00e9be fogad\u00e1, \u00e9s siete n\u00e9ki sz\u00e9p\u00edt\u00f5 szereket adni, \u00e9s kiadni az \u00f5 r\u00e9sz\u00e9t \u00e9s h\u00e9t le\u00e1nyz\u00f3t, a kit n\u00e9ki a kir\u00e1ly h\u00e1z\u00e1b\u00f3l kelle kiszemelni, \u00e9s viv\u00e9 \u00f5t \u00e9s az \u00f5 szolg\u00e1l\u00f3le\u00e1nyait az asszonyok legjobb h\u00e1z\u00e1ba.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Meg nem mond\u00e1 Eszter az \u00f5 nemzets\u00e9g\u00e9t \u00e9s sz\u00e1rmaz\u00e1s\u00e1t; mert M\u00e1rdokeus meghagyta n\u00e9ki, hogy meg ne mondja.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "M\u00e1rdokeus pedig minden nap j\u00e1rt az asszonyok h\u00e1z\u00e1nak pitvara el\u00f5tt, hogy tudakoz\u00f3dj\u00e9k Eszter hogyl\u00e9te fel\u00f5l, \u00e9s hogy mi t\u00f6rt\u00e9nik vele.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Mikor pedig elj\u00f6tt az ideje minden le\u00e1nynak, hogy bemenne Ahasv\u00e9rus kir\u00e1lyhoz, miut\u00e1n asszonyok t\u00f6rv\u00e9nye szerint tizenk\u00e9t h\u00f3napig b\u00e1ntak vele (mert ennyi id\u00f5be telik az \u00f5 sz\u00e9p\u00edt\u00e9s\u00f6k, hat h\u00f3napig mirtusolajjal \u00e9s hat h\u00f3napig illatos szerekkel \u00e9s asszonyi sz\u00e9p\u00edt\u00f5 szerekkel):\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Akkor \u00edgy ment a le\u00e1ny a kir\u00e1lyhoz: Mindent, a mit kiv\u00e1nt, megadtak n\u00e9ki, hogy menjen azzal az asszonyok h\u00e1z\u00e1b\u00f3l a kir\u00e1ly h\u00e1z\u00e1ig;\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Este bement \u00e9s reggel visszat\u00e9rt az asszonyok m\u00e1sodik h\u00e1z\u00e1ba, Sah\u00e1sg\u00e1znak, a kir\u00e1ly udvarmester\u00e9nek, a h\u00e1l\u00f3t\u00e1rsak \u00f5rz\u00f5j\u00e9nek kezei al\u00e1; nem j\u00f6tt t\u00f6bb\u00e9 a kir\u00e1lyhoz, csak ha kiv\u00e1nta \u00f5t a kir\u00e1ly, \u00e9s nev\u00e9n h\u00edvt\u00e1k.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Mikor az\u00e9rt elj\u00f6tt az ideje Eszternek, a M\u00e1rdokeus nagyb\u00e1tyja, Abihail le\u00e1ny\u00e1nak, a kit le\u00e1nya gyan\u00e1nt fogadott, hogy bemenne a kir\u00e1lyhoz, nem kiv\u00e1nt m\u00e1st, mint a mit H\u00e9gai, a kir\u00e1ly udvarmestere, az asszonyok \u00f5rz\u00f5je mondott n\u00e9ki, \u00e9s kedves vala Eszter mindenki szemei el\u00f5tt, a ki \u00f5t l\u00e1t\u00e1.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "\u00c9s felvitet\u00e9k Eszter Ahasv\u00e9rus kir\u00e1lyhoz, az \u00f5 kir\u00e1lyi h\u00e1z\u00e1ba, a tizedik h\u00f3napban, ez a T\u00e9bet h\u00f3napja, orsz\u00e1gl\u00e1s\u00e1nak hetedik \u00e9v\u00e9ben.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "\u00c9s a kir\u00e1ly Esztert minden asszonyn\u00e1l ink\u00e1bb szeret\u00e9, \u00e9s minden le\u00e1nyn\u00e1l nagyobb kedvet \u00e9s kegyelmet nyert \u00f5 el\u00f5tte, \u00e9s tette a kir\u00e1lyi koron\u00e1t az \u00f5 fej\u00e9re, \u00e9s kir\u00e1lyn\u00e9v\u00e1 tette V\u00e1sti helyett.\n"
+                },
+                "18": {
+                    "verse_nr": 18,
+                    "verse": "\u00c9s nagy lakom\u00e1t adott a kir\u00e1ly minden \u00f5 fejedelm\u00e9nek \u00e9s szolg\u00e1inak, az Eszter lakom\u00e1j\u00e1t, \u00e9s a tartom\u00e1nyoknak nyugalmat adott, \u00e9s aj\u00e1nd\u00e9kokat osztogata kir\u00e1ly m\u00f3dj\u00e1ra.\n"
+                },
+                "19": {
+                    "verse_nr": 19,
+                    "verse": "\u00c9s mikor \u00f6sszegy\u00fbjt\u00e9k a sz\u00fbzeket m\u00e1sodszor, M\u00e1rdokeus \u00fcle a kir\u00e1ly kapuj\u00e1ban.\n"
+                },
+                "20": {
+                    "verse_nr": 20,
+                    "verse": "\u00c9s Eszter nem mond\u00e1 meg sem sz\u00e1rmaz\u00e1s\u00e1t, sem nemzets\u00e9g\u00e9t, mik\u00e9pen megparancsol\u00e1 n\u00e9ki M\u00e1rdokeus; mert M\u00e1rdokeus szav\u00e1t Eszter \u00fagy fogad\u00e1, mint mikor gy\u00e1mja volt.\n"
+                },
+                "21": {
+                    "verse_nr": 21,
+                    "verse": "Azokban a napokban pedig, mikor M\u00e1rdokeus \u00fcle a kir\u00e1ly kapuj\u00e1ban, megharagudott Bigt\u00e1n \u00e9s T\u00e9res, a kir\u00e1ly k\u00e9t udvarmestere, a kapu \u00f5rei, \u00e9s azon voltak, hogy r\u00e1vetik kezeiket Ahasv\u00e9rus kir\u00e1lyra.\n"
+                },
+                "22": {
+                    "verse_nr": 22,
+                    "verse": "Tudt\u00e1ra esett e dolog M\u00e1rdokeusnak, \u00e9s megmond\u00e1 Eszter kir\u00e1lyn\u00e9nak, \u00e9s Eszter elmond\u00e1 a kir\u00e1lynak M\u00e1rdokeus nev\u00e9ben.\n"
+                },
+                "23": {
+                    "verse_nr": 23,
+                    "verse": "\u00c9s megvizsg\u00e1lt\u00e1k a dolgot \u00e9s \u00fagy tal\u00e1lt\u00e1k, \u00e9s mind a kett\u00f5t f\u00e1ra akasztott\u00e1k. \u00c9s meg\u00edrattat\u00e9k a kr\u00f3nik\u00e1k k\u00f6nyv\u00e9be a kir\u00e1ly el\u00f5tt.\n"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": 3,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Ezek ut\u00e1n nagy m\u00e9lt\u00f3s\u00e1gra emel\u00e9 Ahasv\u00e9rus kir\u00e1ly H\u00e1m\u00e1nt, a Hammed\u00e1ta fi\u00e1t, az Ag\u00e1gibelit, \u00e9s felmagasztal\u00e1 \u00f5t, \u00e9s feljebb helyeztet\u00e9 sz\u00e9k\u00e9t minden fejedelm\u00e9n\u00e9l, a kik vele val\u00e1nak.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "\u00c9s a kir\u00e1ly minden szolg\u00e1i, a kik a kir\u00e1ly kapuj\u00e1ban val\u00e1nak, t\u00e9rdet hajtottak \u00e9s leborultak H\u00e1m\u00e1n el\u00f5tt; mert \u00fagy parancsolta meg n\u00e9kik a kir\u00e1ly; de M\u00e1rdokeus nem hajtott t\u00e9rdet \u00e9s nem borult le.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Mond\u00e1nak az\u00e9rt a kir\u00e1ly szolg\u00e1i, a kik a kir\u00e1ly kapuj\u00e1ban val\u00e1nak, M\u00e1rdokeusnak: Mi\u00e9rt szeged meg a kir\u00e1ly parancs\u00e1t?\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "L\u00f5n pedig, mikor \u00edgy sz\u00f3ln\u00e1nak n\u00e9ki minden nap \u00e9s nem hallgata r\u00e1jok, feljelent\u00e9k H\u00e1m\u00e1nnak, hogy l\u00e1ss\u00e1k, meg\u00e1llnak-\u00e9 M\u00e1rdokeus dolgai, mert azt jelent\u00e9 n\u00e9kik, hogy \u00f5 zsid\u00f3.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "\u00c9s l\u00e1tv\u00e1n H\u00e1m\u00e1n, hogy M\u00e1rdokeus t\u00e9rdet nem hajt \u00e9s nem borul le el\u00f5tte, megtel\u00e9k H\u00e1m\u00e1n haraggal.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "De kev\u00e9s volt el\u00f5tte, hogy csakis M\u00e1rdokeusra mag\u00e1ra vesse r\u00e1 kez\u00e9t, (mert megmondt\u00e1k n\u00e9ki M\u00e1rdokeus nemzets\u00e9g\u00e9t) az\u00e9rt igyekezett H\u00e1m\u00e1n elveszteni minden zsid\u00f3t, a ki Ahasv\u00e9rus eg\u00e9sz orsz\u00e1g\u00e1ban vala, a M\u00e1rdokeus nemzet\u00e9t.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Az els\u00f5 h\u00f3napban, ez Nis\u00e1n h\u00f3napja, Ahasv\u00e9rus kir\u00e1lys\u00e1g\u00e1nak tizenkettedik \u00e9v\u00e9ben, P\u00fart, azaz sorsot vet\u00e9nek H\u00e1m\u00e1n el\u00f5tt napr\u00f3l-napra \u00e9s h\u00f3napr\u00f3l-h\u00f3napra a tizenkettedikig, s ez Ad\u00e1r h\u00f3napja.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "\u00c9s monda H\u00e1m\u00e1n Ahasv\u00e9rus kir\u00e1lynak: Van egy n\u00e9p, elsz\u00f3rva \u00e9s elk\u00fcl\u00f6n\u00edtve a n\u00e9pek k\u00f6z\u00f6tt, orsz\u00e1god minden tartom\u00e1ny\u00e1ban, \u00e9s az \u00f5 t\u00f6rv\u00e9nyei k\u00fcl\u00f6nb\u00f6znek minden nemzets\u00e9gt\u00f5l, \u00e9s a kir\u00e1ly t\u00f6rv\u00e9nyeit nem teljes\u00edti; a kir\u00e1lynak bizony nem illik \u00fagy hagyni \u00f5ket.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Ha a kir\u00e1lynak tetszik, \u00edrja meg, hogy \u00f5k elvesztessenek, \u00e9s \u00e9n t\u00edzezer t\u00e1lentom ez\u00fcst\u00f6t m\u00e9rek a hivatalnokok kezeibe, hogy a kir\u00e1ly kincst\u00e1r\u00e1ba vigy\u00e9k.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Akkor leh\u00faz\u00e1 a kir\u00e1ly az \u00f5 gy\u00fbr\u00fbj\u00e9t a maga kez\u00e9r\u00f5l, \u00e9s ad\u00e1 azt az Ag\u00e1gibeli H\u00e1m\u00e1nnak, Hammed\u00e1ta fi\u00e1nak, a zsid\u00f3k ellens\u00e9g\u00e9nek.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "\u00c9s monda a kir\u00e1ly H\u00e1m\u00e1nnak: Az ez\u00fcst tied legyen s a n\u00e9p is, hogy azt cselekedjed vele, a mi n\u00e9ked tetszik.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "El\u00f5hivat\u00e1nak az\u00e9rt a kir\u00e1ly irnokai az els\u00f5 h\u00f3nap tizenharmadik napj\u00e1n, \u00e9s megirat\u00e9k minden \u00fagy, a mik\u00e9nt H\u00e1m\u00e1n parancsol\u00e1, a kir\u00e1ly fejedelmeinek \u00e9s a korm\u00e1nyz\u00f3knak, a kik az egyes tartom\u00e1nyokban val\u00e1nak, \u00e9s minden egyes n\u00e9p fejeinek; minden tartom\u00e1nynak annak \u00edr\u00e1sa szerint, \u00e9s minden egyes n\u00e9pnek az \u00f5 nyelve szerint, Ahasv\u00e9rus kir\u00e1ly nev\u00e9ben iratott \u00e9s megpecs\u00e9teltetett a kir\u00e1ly gy\u00fbr\u00fbj\u00e9vel.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "\u00c9s elk\u00fcldettek a levelek fut\u00e1rok \u00e1ltal a kir\u00e1ly minden tartom\u00e1ny\u00e1ba, hogy kipuszt\u00edts\u00e1k, meg\u00f6lj\u00e9k \u00e9s megsemmis\u00edts\u00e9k mind a zsid\u00f3kat, ifj\u00fat\u00f3l a v\u00e9nig, gyermekeket \u00e9s asszonyokat egy napon, tizenharmadik napj\u00e1n a tizenkettedik h\u00f3napnak, (ez Ad\u00e1r h\u00f3napja) \u00e9s hogy javaikat elragadj\u00e1k.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Az \u00edr\u00e1snak m\u00e1ssa, hogy t\u00e9tess\u00e9k t\u00f6rv\u00e9ny minden egyes tartom\u00e1nyban, meghirdettetett minden n\u00e9pnek, hogy legyenek k\u00e9szen azon a napon.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "A fut\u00e1rok kimen\u00e9nek gyorsan a kir\u00e1ly parancs\u00e1val. \u00c9s a t\u00f6rv\u00e9ny Sus\u00e1n v\u00e1r\u00e1ban is kiadatott; a kir\u00e1ly pedig \u00e9s H\u00e1m\u00e1n le\u00fcltek, hogy igyanak; de Sus\u00e1n v\u00e1rosa felh\u00e1borodott.\n"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": 4,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "M\u00e1rdokeus pedig megtudta mindazt, a mi t\u00f6rt\u00e9nt; \u00e9s M\u00e1rdokeus megszaggat\u00e1 ruh\u00e1it, zs\u00e1kba \u00e9s hamuba \u00f6lt\u00f6z\u00e9k, \u00e9s a v\u00e1ros k\u00f6zep\u00e9re m\u00e9ne [\u00e9s ]ki\u00e1lta nagy \u00e9s keserves ki\u00e1lt\u00e1ssal.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "\u00c9s elj\u00f6tt a kir\u00e1lynak kapuja el\u00e9; mert nem volt szabad bemenni a kir\u00e1ly kapuj\u00e1n zs\u00e1kruh\u00e1ban.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00c9s minden egyes tartom\u00e1nyban, azon helyen, a hov\u00e1 a kir\u00e1ly parancsa \u00e9s t\u00f6rv\u00e9nye eljutott, nagy gy\u00e1sza volt a zsid\u00f3knak, b\u00f5jt \u00e9s siralom \u00e9s jajgat\u00e1s; zs\u00e1k \u00e9s hamu vala ter\u00edtve sokak al\u00e1.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Elj\u00f6ttek az\u00e9rt Eszternek le\u00e1nyai \u00e9s udvarmesterei \u00e9s megmond\u00e1k n\u00e9ki, \u00e9s megszomorod\u00e9k a kir\u00e1lyasszony nagyon, \u00e9s k\u00fclde ruh\u00e1kat, hogy fel\u00f6lt\u00f6ztetn\u00e9k M\u00e1rdokeust, \u00e9s hogy vesse le a zs\u00e1kot mag\u00e1r\u00f3l; de nem fogad\u00e1 el.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Akkor el\u00f5hivat\u00e1 Eszter Hat\u00e1kot, a kir\u00e1ly udvarmesterei k\u00f6z\u00fcl a ki az \u00f5 szolg\u00e1lat\u00e1ra volt rendelve, \u00e9s kik\u00fcld\u00e9 \u00f5t M\u00e1rdokeushoz, hogy megtudja, mi az \u00e9s mi\u00e9rt van az?\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Kim\u00e9ne teh\u00e1t Hat\u00e1k M\u00e1rdokeushoz a v\u00e1ros utcz\u00e1j\u00e1ra, mely a kir\u00e1ly kapuja el\u00f5tt vala.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "\u00c9s elmond\u00e1 n\u00e9ki M\u00e1rdokeus mindazt, a mi \u00e9rte \u00f5t, \u00e9s az ez\u00fcst \u00f6sszeg\u00e9t, a melyet H\u00e1m\u00e1n mondott, hogy juttat a kir\u00e1ly kincs\u00e9hez a zsid\u00f3k\u00e9rt, hogy elvesztessenek.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "\u00c9s az \u00edrott rendeletnek m\u00e1ss\u00e1t is, a melyet Sus\u00e1nban adtak ki elt\u00f6r\u00f6ltet\u00e9s\u00f6kre, \u00e1tad\u00e1 n\u00e9ki, hogy mutassa meg Eszternek, \u00e9s jelentse \u00e9s hagyja meg n\u00e9ki, hogy menjen a kir\u00e1lyhoz, k\u00f6ny\u00f6r\u00f6gni n\u00e9ki \u00e9s esedezni el\u00f5tte az \u00f5 nemzets\u00e9g\u00e9\u00e9rt.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Elm\u00e9ne az\u00e9rt Hat\u00e1k, \u00e9s elmond\u00e1 Eszternek M\u00e1rdokeus szavait.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "\u00c9s monda Eszter Hat\u00e1knak, \u00e9s meghagy\u00e1 n\u00e9ki, hogy [tudassa ]M\u00e1rdokeussal:\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "A kir\u00e1ly minden szolg\u00e1ja \u00e9s a kir\u00e1ly tartom\u00e1nyainak n\u00e9pe tudja, hogy minden f\u00e9rfinak \u00e9s asszonynak, a ki bemegy a kir\u00e1lyhoz a bels\u00f5 udvarba hivatlanul, egy a t\u00f6rv\u00e9nye, hogy meg\u00f6lettess\u00e9k, kiv\u00e9v\u00e9n, a kire a kir\u00e1ly aranyp\u00e1lcz\u00e1j\u00e1t kinyujtja, az \u00e9l; \u00e9n pedig nem h\u00edvattam, hogy a kir\u00e1lyhoz bemenjek, m\u00e1r harmincz napja.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "\u00c9s megmond\u00e1k M\u00e1rdokeusnak Eszter szavait.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "\u00c9s monda M\u00e1rdokeus vissza\u00fczenve Eszternek: Ne gondold magadban, hogy te a kir\u00e1ly h\u00e1z\u00e1ban megmenek\u00fclhetsz a t\u00f6bbi zsid\u00f3 k\u00f6z\u00fcl.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Mert ha e mostani id\u00f5ben te hallgatsz, m\u00e1sunnan l\u00e9szen k\u00f6nnyebbs\u00e9g\u00f6k \u00e9s szabadul\u00e1sok a zsid\u00f3knak; te pedig \u00e9s aty\u00e1d h\u00e1za elvesztek. \u00c9s ki tudja, tal\u00e1n e mostani id\u00f5\u00e9rt jutott\u00e1l kir\u00e1lys\u00e1gra?\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "\u00c9s monda Eszter vissza\u00fczenve M\u00e1rdokeusnak:\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Menj el \u00e9s gy\u00fbjts egybe minden zsid\u00f3t, a ki Sus\u00e1nban tal\u00e1ltatik, \u00e9s b\u00f5jt\u00f6ljetek \u00e9rettem \u00e9s ne egyetek \u00e9s ne igyatok h\u00e1rom napig se \u00e9jjel se nappal, \u00e9n is \u00e9s le\u00e1nyaim \u00edgy b\u00f5jt\u00f6l\u00fcnk \u00e9s ekk\u00e9pen megyek be a kir\u00e1lyhoz, noha t\u00f6rv\u00e9ny ellen\u00e9re; ha azut\u00e1n elveszek, h\u00e1t elveszek.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Elm\u00e9ne az\u00e9rt M\u00e1rdokeus, \u00e9s \u00fagy cselekedett mindent, a mint n\u00e9ki Eszter parancsol\u00e1.\n"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": 5,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "T\u00f6rt\u00e9nt pedig harmadnapon, hogy Eszter fel\u00f6lt\u00f6z\u00f6tt kir\u00e1lyiasan, \u00e9s meg\u00e1llt a kir\u00e1ly h\u00e1z\u00e1nak bels\u00f5 udvar\u00e1ban, a kir\u00e1ly h\u00e1za ellen\u00e9ben, \u00e9s a kir\u00e1ly \u00fcle kir\u00e1lyisz\u00e9k\u00e9ben, a kir\u00e1lyi h\u00e1zban, a h\u00e1z ajtaj\u00e1nak \u00e1tellen\u00e9ben.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "\u00c9s l\u00f5n, a mint megl\u00e1t\u00e1 a kir\u00e1ly Eszter kir\u00e1lyn\u00e9t, hogy \u00e1ll az udvarban, kegyet tal\u00e1la szemei el\u00f5tt, \u00e9s kinyujt\u00e1 a kir\u00e1ly Eszterre az arany p\u00e1lcz\u00e1t, a mely kez\u00e9ben vala, akkor oda m\u00e9ne Eszter, \u00e9s megillet\u00e9 az arany p\u00e1lcza v\u00e9g\u00e9t.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00c9s monda n\u00e9ki a kir\u00e1ly: Mi [kell] n\u00e9ked Eszter kir\u00e1lyn\u00e9? \u00c9s mi a k\u00e9r\u00e9sed? Ha az orsz\u00e1g fele is, megadatik n\u00e9ked.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "\u00c9s felele Eszter: Ha a kir\u00e1lynak tetszik, j\u00f5jj\u00f6n a kir\u00e1ly \u00e9s H\u00e1m\u00e1n ma a lakom\u00e1ra, melyet n\u00e9ki k\u00e9sz\u00edtettem.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "\u00c9s monda a kir\u00e1ly: Gyorsan el\u00f5 H\u00e1m\u00e1nt, hogy teljes\u00edtse Eszter k\u00edv\u00e1ns\u00e1g\u00e1t. \u00c9s elment a kir\u00e1ly \u00e9s H\u00e1m\u00e1n a lakom\u00e1ra, a melyet Eszter k\u00e9sz\u00edtett vala.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Monda pedig a kir\u00e1ly Eszternek boriv\u00e1s k\u00f6zben: Mi a te kiv\u00e1ns\u00e1god? Megadatik n\u00e9ked. \u00c9s mi a te k\u00e9r\u00e9sed? Ha az orsz\u00e1g fele is, megl\u00e9szen!\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "\u00c9s felele Eszter, \u00e9s monda: Az \u00e9n kiv\u00e1ns\u00e1gom \u00e9s k\u00e9r\u00e9sem ez:\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Ha kegyet tal\u00e1ltam a kir\u00e1ly szemei el\u00f5tt, \u00e9s ha a kir\u00e1lynak tetszik megadni kiv\u00e1ns\u00e1gomat \u00e9s teljes\u00edteni k\u00e9r\u00e9semet: j\u00f5jj\u00f6n el a kir\u00e1ly \u00e9s H\u00e1m\u00e1n a lakom\u00e1ra, a melyet k\u00e9sz\u00edtek n\u00e9kik, \u00e9s holnap a kir\u00e1ly besz\u00e9de szerint cselekszem.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "\u00c9s kiment H\u00e1m\u00e1n azon a napon v\u00edgan \u00e9s j\u00f3 kedvvel. De a mint megl\u00e1t\u00e1 H\u00e1m\u00e1n M\u00e1rdokeust a kir\u00e1ly kapuj\u00e1ban, \u00e9s ez fel nem kelt \u00e9s nem mozdult meg el\u00f5tte, megtel\u00e9k H\u00e1m\u00e1n haraggal M\u00e1rdokeus ellen.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "De megtart\u00f3ztat\u00e1 mag\u00e1t H\u00e1m\u00e1n, \u00e9s haza ment, \u00e9s elk\u00fcldv\u00e9n, mag\u00e1hoz hivat\u00e1 bar\u00e1tait \u00e9s Z\u00e9rest, az \u00f5 feles\u00e9g\u00e9t.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "\u00c9s elbesz\u00e9l\u00e9 n\u00e9kik H\u00e1m\u00e1n gazdags\u00e1g\u00e1nak dics\u00f5s\u00e9g\u00e9t, fiainak sokas\u00e1g\u00e1t \u00e9s mindazt, a mivel felmagasztalta \u00f5t a kir\u00e1ly, \u00e9s hogy feljebb emelte \u00f5t a fejedelmekn\u00e9l \u00e9s a kir\u00e1ly szolg\u00e1in\u00e1l;\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "\u00c9s monda H\u00e1m\u00e1n: Nem is h\u00edvott Eszter kir\u00e1lyn\u00e9 m\u00e1st a kir\u00e1lylyal a lakom\u00e1ra, a melyet k\u00e9sz\u00edtett, hanem csak engem, \u00e9s m\u00e9g holnapra is meghivattattam hozz\u00e1 a kir\u00e1lylyal.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "De mindez semmit sem \u00e9r n\u00e9kem, valam\u00edg l\u00e1tom a zsid\u00f3 M\u00e1rdokeust \u00fclni a kir\u00e1ly kapuj\u00e1ban.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "\u00c9s monda n\u00e9ki Z\u00e9res, az \u00f5 feles\u00e9ge \u00e9s minden bar\u00e1tja: Csin\u00e1ljanak \u00f6tven k\u00f6ny\u00f6knyi magas f\u00e1t, \u00e9s reggel mondd meg a kir\u00e1lynak, hogy M\u00e1rdokeust akaszsz\u00e1k re\u00e1, \u00e9s akkor menj a kir\u00e1lylyal a lakom\u00e1ra v\u00edgan. \u00c9s tetszett a dolog H\u00e1m\u00e1nnak, \u00e9s megcsin\u00e1ltatta a f\u00e1t.\n"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": 6,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Azon \u00e9jjel ker\u00fclte az \u00e1lom a kir\u00e1lyt, \u00e9s megparancsol\u00e1, hogy hozz\u00e1k el\u00f5 a t\u00f6rt\u00e9netek eml\u00e9kk\u00f6nyv\u00e9t, \u00e9s ezek olvastattak a kir\u00e1ly el\u00f5tt.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "\u00c9s \u00edrva tal\u00e1l\u00e1k, a mint M\u00e1rdokeus feljelent\u00e9 Bigt\u00e1n\u00e1t \u00e9s T\u00e9rest, a kir\u00e1ly k\u00e9t udvarmester\u00e9t, a k\u00fcsz\u00f6b \u00f5rz\u00f5it, a kik azon voltak, hogy r\u00e1vetik kez\u00f6ket Ahasv\u00e9rus kir\u00e1lyra.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00c9s monda a kir\u00e1ly: Micsoda tisztess\u00e9get \u00e9s m\u00e9lt\u00f3s\u00e1got adtak az\u00e9rt M\u00e1rdokeusnak? \u00c9s felel\u00e9nek a kir\u00e1ly apr\u00f3djai, az \u00f5 szolg\u00e1i: Semmit sem juttattak n\u00e9ki [az\u00e9rt.]\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Akkor monda a kir\u00e1ly: Ki van az udvarban? (Mert H\u00e1m\u00e1n j\u00f6ve a kir\u00e1lyi h\u00e1z k\u00fcls\u00f5 udvar\u00e1ba, hogy megmondja a kir\u00e1lynak, hogy akasztassa fel M\u00e1rdokeust a f\u00e1ra, a melyet k\u00e9szittetett n\u00e9ki.)\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "\u00c9s felel\u00e9nek n\u00e9ki a kir\u00e1ly apr\u00f3djai: \u00cdm\u00e9 H\u00e1m\u00e1n \u00e1ll az udvarban. \u00c9s mondja a kir\u00e1ly: J\u00f5jj\u00f6n be!\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "\u00c9s bem\u00e9ne H\u00e1m\u00e1n, \u00e9s monda n\u00e9ki a kir\u00e1ly: Mit kell cselekedni azzal a f\u00e9rfi\u00faval, a kinek a kir\u00e1ly tisztess\u00e9get kiv\u00e1n? (H\u00e1m\u00e1n pedig gondol\u00e1 az \u00f5 sz\u00edv\u00e9ben: Kinek akarna a kir\u00e1ly nagyobb tisztess\u00e9get tenni, mint \u00e9n n\u00e9kem?)\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "\u00c9s monda H\u00e1m\u00e1n a kir\u00e1lynak: A f\u00e9rfi\u00fanak, a kinek a kir\u00e1ly tisztess\u00e9get kiv\u00e1n,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Hozzanak kir\u00e1lyi ruh\u00e1t, a melyben a kir\u00e1ly j\u00e1r, \u00e9s lovat, a melyen a kir\u00e1ly szokott \u00fclni \u00e9s a melynek fej\u00e9re kir\u00e1lyi koron\u00e1t szoktak tenni.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "\u00c9s adj\u00e1k azt a ruh\u00e1t \u00e9s lovat a kir\u00e1ly egyik legels\u00f5 fejedelm\u00e9nek a kez\u00e9be, \u00e9s \u00f6lt\u00f6ztess\u00e9k fel azt a f\u00e9rfi\u00fat, a kinek a kir\u00e1ly tisztess\u00e9get kiv\u00e1n, \u00e9s hordozz\u00e1k \u00f5t a lovon a v\u00e1ros utcz\u00e1in, \u00e9s ki\u00e1lts\u00e1k el\u00f5tte: \u00cdgy cselekesznek a f\u00e9rfi\u00faval, a kinek a kir\u00e1ly tisztess\u00e9get kiv\u00e1n.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Akkor monda a kir\u00e1ly H\u00e1m\u00e1nnak: Siess, hozd el\u00f5 azt a ruh\u00e1t \u00e9s azt a lovat, a mint mond\u00e1d, \u00e9s cselekedj\u00e9l \u00fagy a zsid\u00f3 M\u00e1rdokeussal, a ki a kir\u00e1ly kapuj\u00e1ban \u00fcl, \u00e9s semmit el ne hagyj mindabb\u00f3l, a mit sz\u00f3lt\u00e1l.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "El\u00f5hoz\u00e1 az\u00e9rt H\u00e1m\u00e1n a ruh\u00e1t \u00e9s a lovat, \u00e9s fel\u00f6lt\u00f6ztet\u00e9 M\u00e1rdokeust, \u00e9s lovon hordoz\u00e1 \u00f5t a v\u00e1ros utcz\u00e1j\u00e1n, \u00e9s ki\u00e1lt\u00e1 el\u00f5tte: \u00cdgy cselekesznek a f\u00e9rfi\u00faval, a kinek a kir\u00e1ly tisztess\u00e9get kiv\u00e1n.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "\u00c9s M\u00e1rdokeus megt\u00e9re a kir\u00e1ly kapuj\u00e1hoz. H\u00e1m\u00e1n pedig siete h\u00e1z\u00e1ba, b\u00fasulva \u00e9s fej\u00e9t betakarva.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "\u00c9s elbesz\u00e9l\u00e9 H\u00e1m\u00e1n Z\u00e9resnek, az \u00f5 feles\u00e9g\u00e9nek \u00e9s minden bar\u00e1tj\u00e1nak mindazt, a mi vele t\u00f6rt\u00e9nt. \u00c9s mond\u00e1nak n\u00e9ki az \u00f5 b\u00f6lcsei \u00e9s Z\u00e9res, az \u00f5 feles\u00e9ge: Ha M\u00e1rdokeus, a ki el\u00f5tt kezdt\u00e9l hanyatlani, a zsid\u00f3k magv\u00e1b\u00f3l val\u00f3: nem b\u00edrsz vele, hanem bizony elesel el\u00f5tte.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "\u00c9s a m\u00edg \u00edgy besz\u00e9l\u00e9nek vele, elj\u00f6v\u00e9nek a kir\u00e1ly udvarmesterei, \u00e9s siettek H\u00e1m\u00e1nt a lakom\u00e1ra vinni, a melyet k\u00e9sz\u00edtett vala Eszter.\n"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": 7,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "\u00c9s elm\u00e9ne a kir\u00e1ly \u00e9s H\u00e1m\u00e1n a lakom\u00e1ra, Eszter kir\u00e1lyn\u00e9hoz.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "\u00c9s monda a kir\u00e1ly Eszternek m\u00e1sodnapon is, boriv\u00e1s k\u00f6zben: Mi a te kiv\u00e1ns\u00e1god Eszter kir\u00e1lyn\u00e9? Megadatik. \u00c9s micsoda a te k\u00e9r\u00e9sed? Ha az orsz\u00e1gnak fele is, megl\u00e9szen.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00c9s felele Eszter kir\u00e1lyn\u00e9, \u00e9s monda: Ha kegyet tal\u00e1ltam szemeid el\u00f5tt, oh kir\u00e1ly! \u00e9s ha a kir\u00e1lynak tetszik, add meg n\u00e9kem \u00e9letemet kiv\u00e1ns\u00e1gomra, \u00e9s nemzets\u00e9gemet k\u00e9r\u00e9semre.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Mert eladattunk, \u00e9n \u00e9s az \u00e9n nemzets\u00e9gem, hogy kipuszt\u00edtsanak, meg\u00f6ljenek \u00e9s megsemmis\u00edtsenek minket; ha csak szolg\u00e1kul, vagy szolg\u00e1l\u00f3kul adattunk volna el, akkor hallgatn\u00e9k, j\u00f3llehet az ellens\u00e9g nem adna k\u00e1rp\u00f3tl\u00e1st a kir\u00e1ly vesztes\u00e9g\u00e9\u00e9rt.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "\u00c9s sz\u00f3la Ahasv\u00e9rus kir\u00e1ly, \u00e9s monda Eszternek, a kir\u00e1lyn\u00e9nak: Ki az \u00e9s hol van az, a kit az \u00f5 sz\u00edve erre vitt, hogy azt cselekedn\u00e9?\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "\u00c9s monda Eszter: Az ellens\u00e9g \u00e9s gy\u00fbl\u00f6l\u00f5, ez a gonosz H\u00e1m\u00e1n! Akkor H\u00e1m\u00e1n megrettene a kir\u00e1ly \u00e9s kir\u00e1lyn\u00e9 el\u00f5tt.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "A kir\u00e1ly pedig felkele haragj\u00e1ban a boriv\u00e1st\u00f3l [\u00e9s m\u00e9ne] a palotakertbe; H\u00e1m\u00e1n pedig ott maradt, hogy \u00e9let\u00e9\u00e9rt k\u00f6ny\u00f6r\u00f6gj\u00f6n Eszter kir\u00e1lyn\u00e9n\u00e1l; mert l\u00e1tta, hogy a kir\u00e1ly r\u00e9sz\u00e9r\u00f5l elv\u00e9geztetett az \u00f5 veszte.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "\u00c9s mikor a kir\u00e1ly visszat\u00e9rt a palota kertj\u00e9b\u00f5l a boriv\u00e1s h\u00e1z\u00e1ba, H\u00e1m\u00e1n a kerevetre es\u00e9k, a melyen Eszter vala. Akkor monda a kir\u00e1ly: Er\u00f5szakot is akar elk\u00f6vetni a kir\u00e1lyn\u00e9n \u00e9n n\u00e1lam a h\u00e1zban?! A mint e sz\u00f3 kij\u00f6tt a kir\u00e1ly sz\u00e1j\u00e1b\u00f3l, H\u00e1m\u00e1n arcz\u00e1t befed\u00e9k.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "\u00c9s monda Harbona, az udvarmesterek egyike a kir\u00e1ly el\u00f5tt: \u00cdm\u00e9 a fa is, a melyet k\u00e9sz\u00edtett H\u00e1m\u00e1n M\u00e1rdokeusnak, a ki a kir\u00e1ly jav\u00e1ra sz\u00f3lott vala, ott \u00e1ll H\u00e1m\u00e1n h\u00e1z\u00e1ban, \u00f6tven k\u00f6ny\u00f6knyi magas. \u00c9s monda a kir\u00e1ly: Akassz\u00e1tok \u00f5t mag\u00e1t re\u00e1!\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Felakaszt\u00e1k az\u00e9rt H\u00e1m\u00e1nt a f\u00e1ra, a melyet k\u00e9sz\u00edtett M\u00e1rdokeusnak, \u00e9s megsz\u00fcn\u00e9k a kir\u00e1ly haragja.\n"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": 8,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Azon a napon ad\u00e1 Ahasv\u00e9rus kir\u00e1ly Eszter kir\u00e1lyn\u00e9nak H\u00e1m\u00e1nnak, a zsid\u00f3k ellens\u00e9g\u00e9nek h\u00e1z\u00e1t, \u00e9s M\u00e1rdokeus bem\u00e9ne a kir\u00e1ly el\u00e9be, mert elmondotta Eszter, micsod\u00e1ja \u00f5 n\u00e9ki.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Leh\u00faz\u00e1 az\u00e9rt a kir\u00e1ly az \u00f5 gy\u00fbr\u00fbj\u00e9t, a melyet H\u00e1m\u00e1nt\u00f3l elvett, \u00e9s ad\u00e1 azt M\u00e1rdokeusnak. Eszter pedig M\u00e1rdokeust tette H\u00e1m\u00e1n h\u00e1z\u00e1nak fej\u00e9v\u00e9.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00c9s tov\u00e1bb sz\u00f3la Eszter a kir\u00e1ly el\u00f5tt, \u00e9s leborult annak l\u00e1baihoz \u00e9s s\u00edrt \u00e9s k\u00f6ny\u00f6rg\u00f6tt, hogy semmis\u00edtse meg az ag\u00e1gi H\u00e1m\u00e1n gonoszs\u00e1g\u00e1t \u00e9s terv\u00e9t, a melyet kigondolt a zsid\u00f3k ellen.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "\u00c9s a kir\u00e1ly kinyujt\u00e1 Eszterre az arany p\u00e1lcz\u00e1t, \u00e9s Eszter felkelt \u00e9s meg\u00e1lla a kir\u00e1ly el\u00f5tt,\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "\u00c9s monda: Ha a kir\u00e1lynak tetszik, \u00e9s ha kegyet tal\u00e1ltam \u00f5 el\u00f5tte, \u00e9s ha helyes a dolog a kir\u00e1ly el\u00f5tt, \u00e9s \u00e9n kedves vagyok szemei el\u00f5tt: \u00edrass\u00e9k meg, hogy vonassanak vissza az ag\u00e1gi H\u00e1m\u00e1nnak, Hammed\u00e1ta fi\u00e1nak terv\u00e9r\u00f5l sz\u00f3l\u00f3 levelek, a melyeket \u00edrt, hogy elveszess\u00e9k a zsid\u00f3kat, a kik a kir\u00e1ly minden tartom\u00e1ny\u00e1ban vannak.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Mert hogyan tudn\u00e1m n\u00e9zni azt a nyomor\u00fas\u00e1got, mely \u00e9rn\u00e9 az \u00e9n nemzets\u00e9gemet, \u00e9s hogyan tudn\u00e1m n\u00e9zni az \u00e9n aty\u00e1mfiainak veszedelm\u00e9t?\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Monda pedig Ahasv\u00e9rus kir\u00e1ly Eszter kir\u00e1lyn\u00e9nak \u00e9s a zsid\u00f3 M\u00e1rdokeusnak: \u00cdm\u00e9 H\u00e1m\u00e1n h\u00e1z\u00e1t Eszternek adtam, \u00e9s \u00f5t felakasztott\u00e1k a f\u00e1ra az\u00e9rt, mert a zsid\u00f3kra bocs\u00e1totta kez\u00e9t.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Ti pedig \u00edrjatok a zsid\u00f3knak, a mint tetszik n\u00e9ktek a kir\u00e1ly nev\u00e9ben \u00e9s pecs\u00e9telj\u00e9tek meg a kir\u00e1ly gy\u00fbr\u00fbj\u00e9vel; mert az \u00edr\u00e1s, a mely a kir\u00e1ly nev\u00e9ben van \u00edrva \u00e9s a kir\u00e1lynak gy\u00fbr\u00fbj\u00e9vel van megpecs\u00e9telve, vissza nem vonhat\u00f3.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Hivattat\u00e1nak az\u00e9rt a kir\u00e1ly irnokai azonnal, a harmadik h\u00f3napban (ez a Siv\u00e1n h\u00f3nap), annak huszonharmadik napj\u00e1n, \u00e9s meg\u00edr\u00e1k \u00fagy, a mik\u00e9nt M\u00e1rdokeus parancsol\u00e1 a zsid\u00f3knak \u00e9s a fejedelmeknek, a korm\u00e1nyz\u00f3knak \u00e9s a tartom\u00e1nyok fejeinek, Indi\u00e1t\u00f3l fogva Szerecsenorsz\u00e1gig sz\u00e1zhuszonh\u00e9t tartom\u00e1nyba; minden tartom\u00e1nynak annak \u00edr\u00e1sa szerint, \u00e9s minden nemzets\u00e9gnek az \u00f5 nyelv\u00e9n, \u00e9s a zsid\u00f3knak az \u00f5 \u00edr\u00e1sok \u00e9s az \u00f5 nyelv\u00f6k szerint.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "\u00c9s meg\u00edr\u00e1 Ahasv\u00e9rus kir\u00e1ly nev\u00e9ben, \u00e9s megpecs\u00e9tel\u00e9 a kir\u00e1ly gy\u00fbr\u00fbj\u00e9vel. \u00c9s k\u00fclde leveleket lovas fut\u00e1rok \u00e1ltal, a kik lovagolnak a kir\u00e1lyi m\u00e9nes gyors parip\u00e1in,\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Hogy megengedte a kir\u00e1ly a zsid\u00f3knak, a kik b\u00e1rmely v\u00e1rosban vannak, hogy egybegy\u00fbljenek \u00e9s keljenek fel \u00e9let\u00f6k\u00e9rt, \u00e9s hogy kipuszt\u00edts\u00e1k, meg\u00f6lj\u00e9k \u00e9s megsemmis\u00edts\u00e9k minden n\u00e9pnek \u00e9s tartom\u00e1nynak sereg\u00e9t, a mely \u00f5ket nyomorgatja, kicsinyeket \u00e9s n\u00f5ket, \u00e9s hogy javaikat elragadj\u00e1k.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Egy napon, Ahasv\u00e9rus kir\u00e1lynak minden tartom\u00e1ny\u00e1ban, tizenharmadik napj\u00e1n a tizenkettedik h\u00f3napnak (ez Ad\u00e1r h\u00f3napja).\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Az \u00edr\u00e1snak m\u00e1ssa, hogy adass\u00e9k t\u00f6rv\u00e9ny minden egyes tartom\u00e1nyban, meghirdettetett minden n\u00e9pnek, hogy a zsid\u00f3k k\u00e9szen legyenek azon a napon, hogy megbosszulj\u00e1k magokat ellens\u00e9geiken.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "A fut\u00e1rok a kir\u00e1lyi gyors parip\u00e1kon kimen\u00e9nek sietve \u00e9s s\u00fcrg\u00f5sen a kir\u00e1ly parancsolata szerint; \u00e9s kiadatott a t\u00f6rv\u00e9ny Sus\u00e1n v\u00e1r\u00e1ban is.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "M\u00e1rdokeus pedig kim\u00e9ne a kir\u00e1ly el\u00f5l k\u00e9k b\u00edbor \u00e9s feh\u00e9r kir\u00e1lyi ruh\u00e1ban, \u00e9s nagy arany koron\u00e1val, \u00e9s b\u00edborb\u00e1rsony pal\u00e1stban, \u00e9s Sus\u00e1n v\u00e1rosa v\u00edgada \u00e9s \u00f6rvendeze.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "A zsid\u00f3knak vil\u00e1goss\u00e1g t\u00e1mada, \u00f6r\u00f6m, vigass\u00e1g \u00e9s tisztess\u00e9g.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "\u00c9s minden tartom\u00e1nyban \u00e9s minden v\u00e1rosban, a hov\u00e1 a kir\u00e1ly szava \u00e9s rendelete eljuta, \u00f6r\u00f6me \u00e9s vigalma l\u00f5n a zsid\u00f3knak, lakoma \u00e9s \u00fcnnep, \u00e9s sokan a f\u00f6ld n\u00e9pei k\u00f6z\u00fcl zsid\u00f3kk\u00e1 lettek; mert a zsid\u00f3kt\u00f3l val\u00f3 f\u00e9lelem sz\u00e1llta meg \u00f5ket.\n"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": 9,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "A tizenkettedik h\u00f3napban az\u00e9rt (ez az Ad\u00e1r h\u00f3nap), annak tizenharmadik napj\u00e1n, a mikor elj\u00f6tt [az ideje] a kir\u00e1ly szav\u00e1nak \u00e9s v\u00e9gz\u00e9s\u00e9nek, hogy akkor teljes\u00edttess\u00e9k, azon a napon, a melyen a zsid\u00f3k ellens\u00e9gei rem\u00e9lt\u00e9k, hogy hatalmat vesznek rajtok, ellenkez\u00f5leg fordult; mert magok a zsid\u00f3k v\u00f5nek hatalmat azokon, a kik \u00f5ket gy\u00fbl\u00f6l\u00e9k.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Egybegy\u00fbl\u00e9nek a zsid\u00f3k v\u00e1rosaikban, Ahasv\u00e9rus kir\u00e1ly minden tartom\u00e1ny\u00e1ban, hogy r\u00e1vess\u00e9k kez\u00f6ket azokra, a kik veszt\u00f6ket kerest\u00e9k, \u00e9s senki sem \u00e1llhatott meg el\u00f5tt\u00fck; mert miattok val\u00f3 f\u00e9lelem sz\u00e1llott minden n\u00e9pre.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "\u00c9s a tartom\u00e1nyok minden feje, fejedelmek, korm\u00e1nyz\u00f3k \u00e9s a kir\u00e1ly hivatalnokai magasztalt\u00e1k a zsid\u00f3kat; mert a M\u00e1rdokeust\u00f3l val\u00f3 f\u00e9lelem sz\u00e1llott r\u00e1jok.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Mert nagy volt M\u00e1rdokeus a kir\u00e1ly h\u00e1z\u00e1ban, \u00e9s h\u00edre elment minden tartom\u00e1nyba; mert ez a f\u00e9rfi\u00fa, M\u00e1rdokeus, emelkedett \u00e9s nagyobbodott.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "\u00c9s levert\u00e9k a zsid\u00f3k minden ellens\u00e9geiket fegyverrel, meg\u00f6lv\u00e9n \u00e9s megsemmis\u00edtv\u00e9n azokat, \u00e9s akaratok szerint cseleked\u00e9nek gy\u00fbl\u00f6l\u00f5ikkel.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "\u00c9s Sus\u00e1n v\u00e1r\u00e1ban meg\u00f6l\u00e9nek \u00e9s megsemmis\u00edt\u00e9nek a zsid\u00f3k \u00f6tsz\u00e1z f\u00e9rfi\u00fat.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Parsand\u00e1t\u00e1t, Dalpont \u00e9s Aspat\u00e1t.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Por\u00e1t\u00e1t, Ad\u00e1li\u00e1t \u00e9s Arid\u00e1t\u00e1t.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Parm\u00e1st\u00e1t, Arisait, Aridait \u00e9s Vajz\u00e1t\u00e1t.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "T\u00edz fi\u00e1t H\u00e1m\u00e1nnak, Hammed\u00e1ta fi\u00e1nak, a zsid\u00f3k ellens\u00e9g\u00e9nek meg\u00f6lt\u00e9k; de zs\u00e1km\u00e1nyra nem tett\u00e9k r\u00e1 kez\u00f6ket.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Azon a napon megtud\u00e1 a kir\u00e1ly a Sus\u00e1n v\u00e1r\u00e1ban meg\u00f6letteknek sz\u00e1m\u00e1t.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "\u00c9s monda a kir\u00e1ly Eszter kir\u00e1lyn\u00e9nak: Sus\u00e1n v\u00e1r\u00e1ban meg\u00f6ltek a zsid\u00f3k \u00e9s megsemmis\u00edtettek \u00f6tsz\u00e1z f\u00e9rfi\u00fat \u00e9s H\u00e1m\u00e1n t\u00edz fi\u00e1t; a kir\u00e1ly t\u00f6bbi tartom\u00e1nyaiban mit cselekesznek? Mi a kiv\u00e1ns\u00e1god? \u00e9s megadatik n\u00e9ked. \u00c9s mi m\u00e9g a te k\u00e9r\u00e9sed? \u00e9s megl\u00e9szen.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "\u00c9s monda Eszter: Ha a kir\u00e1lynak tetszik, engedje meg holnap is a zsid\u00f3knak, a kik Sus\u00e1nban laknak, hogy cselekedjenek a mai parancsolat szerint, \u00e9s H\u00e1m\u00e1n t\u00edz fi\u00e1t akaszsz\u00e1k fel a f\u00e1ra.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "\u00c9s sz\u00f3la a kir\u00e1ly, hogy \u00fagy tegyenek. \u00c9s kiadat\u00e9k a parancs Sus\u00e1nban, \u00e9s H\u00e1m\u00e1n t\u00edz fi\u00e1t felakasztott\u00e1k.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "\u00c9s \u00f6sszegy\u00fbltek a zsid\u00f3k, a kik Sus\u00e1nban val\u00e1nak, Ad\u00e1r hav\u00e1nak tizennegyedik napj\u00e1n is, \u00e9s meg\u00f6l\u00e9nek Sus\u00e1nban h\u00e1romsz\u00e1z f\u00e9rfi\u00fat; de zs\u00e1km\u00e1nyra nem tett\u00e9k r\u00e1 kez\u00f6ket.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "\u00c9s a t\u00f6bbi zsid\u00f3k is, a kik a kir\u00e1ly tartom\u00e1nyaiban voltak, \u00f6sszegy\u00fbl\u00e9nek \u00e9s felt\u00e1madtak \u00e9let\u00f6k\u00e9rt, \u00e9s b\u00e9k\u00e9ben maradtak ellens\u00e9geikt\u00f5l; meg\u00f6l\u00e9nek pedig gy\u00fbl\u00f6l\u00f5ikb\u00f5l hetven\u00f6tezeret; de zs\u00e1km\u00e1nyra nem tett\u00e9k r\u00e1 kez\u00f6ket.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "[T\u00f6rt\u00e9nt ez] az Ad\u00e1r h\u00f3napj\u00e1nak tizenharmadik napj\u00e1n, \u00e9s megnyugov\u00e1nak a tizennegyedik napon, \u00e9s tett\u00e9k azt vigalom \u00e9s \u00f6r\u00f6m napj\u00e1v\u00e1.\n"
+                },
+                "18": {
+                    "verse_nr": 18,
+                    "verse": "De a zsid\u00f3k, a kik Sus\u00e1nban val\u00e1nak, egybegy\u00fbl\u00e9nek azon [h\u00f3nap] tizenharmadik \u00e9s tizennegyedik napj\u00e1n, \u00e9s megnyugov\u00e1nak azon [h\u00f3nap] tizen\u00f6t\u00f6dik napj\u00e1n, \u00e9s azt tett\u00e9k vigalom \u00e9s \u00f6r\u00f6m napj\u00e1v\u00e1.\n"
+                },
+                "19": {
+                    "verse_nr": 19,
+                    "verse": "Az\u00e9rt a vid\u00e9ki zsid\u00f3k, a kik ker\u00edtetlen falvakban laktak, Ad\u00e1r h\u00f3napj\u00e1nak tizennegyedik napj\u00e1t tett\u00e9k \u00f6r\u00f6m \u00e9s vigalom [napj\u00e1]v\u00e1 \u00e9s \u00fcnnepp\u00e9, a melyen aj\u00e1nd\u00e9kokat k\u00fcld\u00f6zgetnek egym\u00e1snak.\n"
+                },
+                "20": {
+                    "verse_nr": 20,
+                    "verse": "\u00c9s meg\u00edr\u00e1 M\u00e1rdokeus e dolgokat, \u00e9s leveleket k\u00fclde minden zsid\u00f3nak, a ki Ahasv\u00e9rus kir\u00e1ly minden tartom\u00e1ny\u00e1ban, k\u00f6zel \u00e9s t\u00e1vol, vala.\n"
+                },
+                "21": {
+                    "verse_nr": 21,
+                    "verse": "Meghagyva n\u00e9kik, hogy tarts\u00e1k meg az Ad\u00e1r h\u00f3napnak tizennegyedik napj\u00e1t \u00e9s annak tizen\u00f6t\u00f6dik napj\u00e1t \u00e9vr\u00f5l-\u00e9vre,\n"
+                },
+                "22": {
+                    "verse_nr": 22,
+                    "verse": "Mint olyan napokat, a melyeken megnyugov\u00e1nak a zsid\u00f3k ellens\u00e9geikt\u00f5l, \u00e9s mint olyan h\u00f3napot, a melyben keser\u00fbs\u00e9g\u00f6k \u00f6r\u00f6mre \u00e9s siralmuk \u00fcnnepre fordult; hogy tarts\u00e1k meg azokat vigalom \u00e9s \u00f6r\u00f6m napjaiul, \u00e9s k\u00fcldjenek adj\u00e1nd\u00e9kot egym\u00e1snak \u00e9s adom\u00e1nyokat a szeg\u00e9nyeknek.\n"
+                },
+                "23": {
+                    "verse_nr": 23,
+                    "verse": "\u00c9s felfogad\u00e1k a zsid\u00f3k, hogy megcselekszik, a mit kezdettek \u00e9s a mit M\u00e1rdokeus \u00edra n\u00e9kik.\n"
+                },
+                "24": {
+                    "verse_nr": 24,
+                    "verse": "Mert az ag\u00e1gi H\u00e1m\u00e1n, Hammed\u00e1t\u00e1nak fia, minden zsid\u00f3nak ellens\u00e9ge, sz\u00e1nd\u00e9kozott a zsid\u00f3kat elveszteni, \u00e9s P\u00fart, azaz sorsot vetett, hogy \u00f5ket megrontsa \u00e9s megsemmis\u00edtse;\n"
+                },
+                "25": {
+                    "verse_nr": 25,
+                    "verse": "De mikor a kir\u00e1ly tudom\u00e1s\u00e1ra jutott, megparancsol\u00e1 lev\u00e9lben, hogy gonosz sz\u00e1nd\u00e9ka, a melyet gondolt a zsid\u00f3k ellen, forduljon az \u00f5 fej\u00e9re, \u00e9s felakaszt\u00e1k \u00f5t \u00e9s fiait a f\u00e1ra.\n"
+                },
+                "26": {
+                    "verse_nr": 26,
+                    "verse": "Annakok\u00e1\u00e9rt elnevez\u00e9k e napokat P\u00farimnak a P\u00far nev\u00e9t\u00f5l. \u00c9s az\u00e9rt ezen lev\u00e9l minden szava szerint, \u00e9s a mit l\u00e1ttak erre n\u00e9zve, \u00e9s a mi \u00e9rte \u00f5ket:\n"
+                },
+                "27": {
+                    "verse_nr": 27,
+                    "verse": "Elhat\u00e1roz\u00e1k \u00e9s elfogad\u00e1k a zsid\u00f3k mind magokra, mind ivad\u00e9kokra \u00e9s mindazokra, a kik hozz\u00e1jok csatlakoznak, \u00f6r\u00f6k id\u00f5kre, hogy megtartj\u00e1k e k\u00e9t napot, \u00edr\u00e1suk \u00e9s hat\u00e1rozatuk szerint, minden esztend\u00f5ben.\n"
+                },
+                "28": {
+                    "verse_nr": 28,
+                    "verse": "\u00c9s ezen napok eml\u00e9kezetben lesznek \u00e9s meg\u00fclik azokat nemzed\u00e9kr\u00f5l- nemzed\u00e9kre, csal\u00e1dr\u00f3l-csal\u00e1dra, tartom\u00e1nyr\u00f3l-tartom\u00e1nyra \u00e9s v\u00e1rosr\u00f3l- v\u00e1rosra. \u00c9s ezek a P\u00farim napjai el nem m\u00falnak a zsid\u00f3k k\u00f6z\u00f6tt, \u00e9s eml\u00e9k\u00f6k ki nem v\u00e9sz ivad\u00e9kaik k\u00f6z\u00fcl.\n"
+                },
+                "29": {
+                    "verse_nr": 29,
+                    "verse": "Ira pedig Eszter kir\u00e1lyn\u00e9, Abihail le\u00e1nya \u00e9s a zsid\u00f3 M\u00e1rdokeus eg\u00e9sz hatalommal, hogy meger\u00f5s\u00edts\u00e9k e m\u00e1sodik levelet a P\u00farimr\u00f3l.\n"
+                },
+                "30": {
+                    "verse_nr": 30,
+                    "verse": "\u00c9s k\u00fclde leveleket minden zsid\u00f3nak Ahasv\u00e9rus orsz\u00e1g\u00e1nak sz\u00e1zhuszonh\u00e9t tartom\u00e1ny\u00e1ba, b\u00e9kess\u00e9ges \u00e9s igazs\u00e1gos szavakkal;\n"
+                },
+                "31": {
+                    "verse_nr": 31,
+                    "verse": "Hogy meger\u00f5s\u00edttessenek ezek a P\u00farim napjai, meghat\u00e1rozott idej\u00f6kben, a mik\u00e9pen meghagyta n\u00e9kik a zsid\u00f3 M\u00e1rdokeus \u00e9s Eszter kir\u00e1lyn\u00e9, \u00e9s a mint elrendelt\u00e9k magokra \u00e9s ivad\u00e9kaikra a b\u00f5jt\u00f6l\u00e9s \u00e9s jajki\u00e1lt\u00e1s dolg\u00e1t.\n"
+                },
+                "32": {
+                    "verse_nr": 32,
+                    "verse": "\u00c9s Eszter besz\u00e9de meger\u00f5s\u00edt\u00e9 ezt a P\u00farim t\u00f6rt\u00e9net\u00e9t, \u00e9s k\u00f6nyvbe irat\u00e9k.\n"
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": 10,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "\u00c9s Ahasv\u00e9rus kir\u00e1ly ad\u00f3t vettete a f\u00f6ldre \u00e9s a tenger szigeteire.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Az \u00f5 erej\u00e9nek \u00e9s hatalm\u00e1nak minden cselekedete pedig \u00e9s M\u00e1rdokeus nagy m\u00e9lt\u00f3s\u00e1g\u00e1nak t\u00f6rt\u00e9nete, a mellyel felmagasztal\u00e1 \u00f5t a kir\u00e1ly, avagy nincsenek-\u00e9 meg\u00edrva M\u00e9dia \u00e9s Persia kir\u00e1lyainak \u00e9vk\u00f6nyveiben,\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Mert a zsid\u00f3 M\u00e1rdokeus m\u00e1sodik volt Ahasv\u00e9rus kir\u00e1ly ut\u00e1n, nagy a zsid\u00f3k k\u00f6z\u00f6tt, \u00e9s kedves az \u00f5 atyjafiai sokas\u00e1ga el\u00f5tt, a ki jav\u00e1t keres\u00e9 n\u00e9p\u00e9nek, \u00e9s b\u00e9kess\u00e9get szerze minden ivad\u00e9k\u00e1nak.\n"
+                }
+            }
+        }
+    }
+}

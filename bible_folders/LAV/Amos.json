@@ -1,0 +1,636 @@
+{
+    "version": "LAV",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "\u0160ie ir Amosa, Tekoas avju gana, v\u0101rdi, ko vi\u0146\u0161 ir redz\u0113jis p\u0101r Isra\u0113li Uzijas, J\u016bda \u0137\u0113ni\u0146a, dien\u0101s, un Jerobeama, Jehoas d\u0113la, Isra\u0113la \u0137\u0113ni\u0146a, dien\u0101s, divus gadus priek\u0161 t\u0101s zemes tr\u012bc\u0113\u0161anas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Un vi\u0146\u0161 sac\u012bja: Tas Kungs r\u016bc no Ci\u0101nas un pace\u013c Savu balsi no Jeruz\u0101lemes, ka gan\u012bbas b\u0113d\u0101j\u0101s, un Karme\u013ca galva nokalst."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "T\u0101 saka Tas Kungs: treju vai \u010detru Damaskus p\u0101rk\u0101pumu d\u0113\u013c - to Es nenov\u0113rs\u012b\u0161u, - t\u0101p\u0113c ka tie Gile\u0101du k\u016blu\u0161i ar asiem dzelzs sprigu\u013ciem,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "T\u0101p\u0113c Es s\u016bt\u012b\u0161u uguni Aza\u0113\u013ca nam\u0101, tas apr\u012bs BenHadada skaist\u0101s pilis."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Un Es salauz\u012b\u0161u Damaskus aiz\u0161aujamo un izdeld\u0113\u0161u tos iedz\u012bvot\u0101jus no Avenas ielejas un to, kas scepteri tur no BetEdenas; un S\u012brijas \u013caudis taps aizvesti uz \u0136iru, saka Tas Kungs."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "T\u0101 saka Tas Kungs: triju vai \u010detru Gacas p\u0101rk\u0101pumu d\u0113\u013c, - to Es nenov\u0113rs\u012b\u0161u, - t\u0101d\u0113\u013c ka tie (Manus \u013caudis) liel\u0101 pulk\u0101 aizvedu\u0161i, tos nodot Edomam,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "T\u0101d\u0113\u013c Es s\u016bt\u012b\u0161u uguni Gacas m\u016bros, tas apr\u012bs vi\u0146as skaistos namus."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Un Es izdeld\u0113\u0161u tos iedz\u012bvot\u0101jus no A\u0161dodas, un, kas scepteri tur, no Askalonas, un Es griez\u012b\u0161u Savu roku pret Ekronu, ka boj\u0101 ies viss F\u012blistu atlikums, saka Tas Kungs Dievs."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "T\u0101 saka Tas Kungs: treju vai \u010detru Tirus p\u0101rk\u0101pumu d\u0113\u013c, - to Es nenov\u0113rs\u012b\u0161u, - t\u0101p\u0113c ka tie Manus \u013caudis liel\u0101 pulk\u0101 nodevu\u0161i Edomam un nav piemin\u0113ju\u0161i br\u0101\u013cu der\u012bbu,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "T\u0101p\u0113c Es s\u016bt\u012b\u0161u uguni Tirus m\u016bros, un tas apr\u012bs vi\u0146a skaistos namus."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "T\u0101 saka Tas Kungs: triju vai \u010detru Edoma p\u0101rk\u0101pumu d\u0113\u013c, - to Es nenov\u0113rs\u012b\u0161u, - t\u0101p\u0113c ka vi\u0146\u0161 savu br\u0101li ar zobenu vaj\u0101jis, un savu m\u012blest\u012bbu izn\u012bcin\u0101jis un sav\u0101 bardz\u012bb\u0101 arvien plos\u0101s un patur m\u016b\u017eam savas dusmas,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "T\u0101p\u0113c Es s\u016bt\u012b\u0161u uguni Teman\u0101, tas apr\u012bs Bocras skaistos namus."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "T\u0101 saka Tas Kungs: triju vai \u010detru Amona b\u0113rnu p\u0101rk\u0101pumu d\u0113\u013c - to Es nenov\u0113rs\u012b\u0161u, - t\u0101p\u0113c ka tie Gile\u0101das gr\u016bt\u0101s sievas uz\u0161\u0137\u0113rdu\u0161i savas robe\u017eas izplest,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "T\u0101p\u0113c Es iededzin\u0101\u0161u uguni Rabas m\u016bros, tas apr\u012bs vi\u0146as skaistos namus, kara dienas klieg\u0161an\u0101 un v\u0113tras dienas auk\u0101."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Un vi\u0146u \u0137\u0113ni\u0146\u0161 ies cietum\u0101 ar saviem lielkungiem, saka Tas Kungs."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "T\u0101 saka Tas Kungs: triju vai \u010detru Moaba p\u0101rk\u0101pumu d\u0113\u013c - to Es nenov\u0113rs\u012b\u0161u, - t\u0101d\u0113\u013c ka vi\u0146\u0161 sadedzin\u0101jis Edoma \u0137\u0113ni\u0146a kaulus par ka\u013c\u0137iem,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "T\u0101d\u0113\u013c Es s\u016bt\u012b\u0161u uguni Moab\u0101, tas apr\u012bs \u0136iriota skaistos namus, un Moabs nomirs troksn\u012b, klieg\u0161an\u0101 un baz\u016b\u0146u ska\u0146\u0101."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Un Es izdeld\u0113\u0161u so\u0123i no vi\u0146a vidus un nokau\u0161u visus vi\u0146a lielkungus l\u012bdz ar vi\u0146u, saka Tas Kungs."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "T\u0101 saka Tas Kungs: triju vai \u010detru J\u016bda p\u0101rk\u0101pumu d\u0113\u013c, - to Es nenov\u0113rs\u012b\u0161u, - t\u0101d\u0113\u013c ka tie T\u0101 Kunga bausl\u012bbu atmetu\u0161i un Vi\u0146a likumus nav sarg\u0101ju\u0161i, un vi\u0146u meli(elki) tos piev\u012blu\u0161i, kuriem vi\u0146u t\u0113vi dzinu\u0161ies paka\u013c,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "T\u0101d\u0113\u013c Es s\u016bt\u012b\u0161u uguni J\u016bd\u0101, tas apr\u012bs Jeruz\u0101lemes skaistos namus."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "T\u0101 saka Tas Kungs: triju vai \u010detru Isra\u0113la p\u0101rk\u0101pumu d\u0113\u013c - to Es nenov\u0113rs\u012b\u0161u, - t\u0101p\u0113c ka tie taisno p\u0101rdod par naudu un nabagu par p\u0101ri kurpju."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tie ilgoj\u0101s, ka zemes p\u012b\u0161\u013ci nabagiem n\u0101k uz galvu, un b\u0113d\u012bg\u0101 ce\u013cu tie kav\u0113. V\u012brs ar savu t\u0113vu iet pie t\u0101s pa\u0161as meitas un sag\u0101na Manu sv\u0113to v\u0101rdu."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tie apmet\u0101s pie ikkatra alt\u0101ra uz \u0137\u012bl\u0101t\u0101m dr\u0113b\u0113m, un dzer v\u012bnu no noties\u0101tiem, savu dievu nam\u0101."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Es tom\u0113r esmu izdeld\u0113jis to Amorieti vi\u0146u priek\u0161\u0101, kam augstums bija k\u0101 ciedru augstums, un kas bija stiprs k\u0101 ozoli; bet Es esmu nomait\u0101jis vi\u0146a aug\u013cus aug\u0161\u0101 un vi\u0146a saknes apak\u0161\u0101."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Un Es tom\u0113r j\u016bs esmu izvedis no \u0112\u0123iptes un \u010detrdesmit gadus j\u016bs vad\u012bjis tuksnes\u012b, ka jums bija iemantot Amorie\u0161u zemi."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Un citus no j\u016bsu d\u0113liem Es esmu c\u0113lis par pravie\u0161iem un no j\u016bsu jaunek\u013ciem citus par naz\u012briem; vai tas t\u0101 nav, Isra\u0113la b\u0113rni? saka Tas Kungs."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Bet j\u016bs naz\u012briem dodiet v\u012bnu dzert, un pav\u0113liet pravie\u0161iem un sak\u0101t: jums neb\u016bs sludin\u0101t."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Redzi, Es jums lik\u0161u \u010d\u012bkst\u0113t k\u0101 rati \u010d\u012bkst, kas pilni k\u016b\u013cu,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "T\u0101 ka \u010daklais neizb\u0113gs, nedz stiprais ar savu sp\u0113ku ko iesp\u0113s, nedz varenais savu dv\u0113seli var\u0113s izgl\u0101bt."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Un stopu vilc\u0113js nepast\u0101v\u0113s, un kas viegl\u0101m k\u0101j\u0101m, neizgl\u0101bsies, un ne j\u0101j\u0113js neizgl\u0101bs savu dv\u0113seli."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Un sirdsvarenais starp tiem stipriem aizb\u0113gs kails tai dien\u0101, saka Tas Kungs."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Klausiet \u0161o v\u0101rdu, ko Tas Kungs run\u0101 uz jums, Isra\u0113la b\u0113rni, proti uz vis\u0101m t\u0101m cilt\u012bm, ko Es no \u0112\u0123iptes zemes esmu izvedis, sac\u012bdams:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Es j\u016bs vien esmu atzinis no vis\u0101m zemes taut\u0101m, t\u0101d\u0113\u013c Es pie jums piemekl\u0113\u0161u visus j\u016bsu noziegumus."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Vai divi gan kop\u0101 staig\u0101, ja tie papriek\u0161 nav sader\u0113ju\u0161ies?"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Vai lauva me\u017e\u0101 r\u016bc, kad vi\u0146am laup\u012bjuma nav? Vai jauns lauva balsi pace\u013c no savas alas, kad neko nav g\u016bst\u012bjis?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Vai putns iekr\u012bt valg\u0101 pie zemes, kur valga priek\u0161 vi\u0146a nav? Vai valgs no zemes ce\u013cas, ar ko nekas nav g\u016bst\u012bts?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vai pils\u0113t\u0101 baz\u016bn\u0113 ar baz\u016bni, un \u013caudis neiztr\u016bkst\u0101s? Vai k\u0101da nelaime notiek pils\u0113t\u0101, ko Tas Kungs nedara?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tie\u0161\u0101m, Tas Kungs Dievs nek\u0101 nedara, kad vi\u0146\u0161 savu nosl\u0113pumu nepar\u0101da saviem kalpiem, tiem pravie\u0161iem."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kad lauva r\u016bc, kas neb\u012btos? Tas Kungs Dievs run\u0101, kam neb\u016btu j\u0101sludina?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Liekat to dzird\u0113t A\u0161dodas skaistos namos un \u0112\u0123iptes zemes pil\u012bs un sak\u0101t: sapulcin\u0101jaties uz Samarijas kalniem un redziet tos lielos trok\u0161\u0146us vi\u0146as vid\u016b, un tos nospaid\u012btos vi\u0146as starp\u0101."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jo tie nezin dar\u012bt, kas tiesa(taisn\u012bba), saka Tas Kungs, kr\u0101dami netaisn\u012bbu un varas darbu sav\u0101s pil\u012bs."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "T\u0101p\u0113c Tas Kungs Dievs t\u0101 saka: spaidi zemei visapk\u0101rt! Un vi\u0146\u0161 nog\u0101z\u012bs tavu stiprumu, un tavi skaistie nami taps izpost\u012bti."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "T\u0101 saka Tas Kungs: k\u0101 gans izrauj no lauvas r\u012bkles divus stilbus vai k\u0101du auss gabali\u0146u, t\u0101 Isra\u0113la b\u0113rni tiks izgl\u0101bti, kas Samarij\u0101 s\u0113\u017e gultas kakt\u0101 uz Damaskus p\u0113\u013ca."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Klausiet un dodiet liec\u012bbu J\u0113kaba namam, saka Tas Kungs Dievs, tas Dievs Cebaot:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Tai dien\u0101, kad Es Isra\u0113la p\u0101rk\u0101pumus pie vi\u0146a piemekl\u0113\u0161u, tad Es piemekl\u0113\u0161u B\u0113teles alt\u0101rus, un tie alt\u0101ra ragi taps nocirsti un krit\u012bs zem\u0113."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Un Es sit\u012b\u0161u tiklab ziemas pili k\u0101 vasaras pili, un tie zilo\u0146kaulu nami ies boj\u0101, un daudz nami taps izpost\u012bti, saka Tas Kungs."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Klausiet \u0161o v\u0101rdu, Basanas govis, kas Samarijas kaln\u0101, kas nospaida mazos, satriec nabagus, kas uz saviem kungiem saka: nesiet \u0161urp, ka dzeram."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Tas Kungs Dievs ir zv\u0113r\u0113jis pie Sava sv\u0113tuma: redzi, dienas n\u0101ks p\u0101r jums, ka j\u016bs aizvilks ar k\u0101\u0161iem un j\u016bsu beidzamos ar zivju mak\u0161\u0137er\u0113m,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Un j\u016bs iziesiet caur m\u016bru plais\u0101m, ikviena taisni proj\u0101m, un tapsiet nomestas pret Armonu, saka Tas Kungs."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ejat uz B\u0113teli un gr\u0113kojiet! (Ejat) uz Gilgalu un vairojiet p\u0101rk\u0101p\u0161anu! Un nesiet savus upurus r\u012btos, savas desmit\u0101s(tiesas) ik tre\u0161o dienu,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Un kv\u0113pin\u0101jiet pateic\u012bbas upurus no raudz\u0113ta, un izsauciet labpr\u0101t\u012bbas upurus, liekat to dzird\u0113t! Jo t\u0101 tas jums pat\u012bk, Isra\u0113la b\u0113rni, saka Tas Kungs Dievs."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "T\u0101p\u0113c es ar\u012bdzan j\u016bsu zobiem esmu devis mieru vis\u0101s j\u016bsu pils\u0113t\u0101s un maizes tr\u016bkumu vis\u0101s j\u016bsu viet\u0101s; tom\u0113r j\u016bs pie Manis neesat atgriezu\u0161ies, saka Tas Kungs."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Un ar\u012b lietu Es jums esmu aiztur\u0113jis, kad v\u0113l tr\u012bs m\u0113ne\u0161i bija l\u012bdz p\u013caujamam laikam, un esmu licis l\u012bt p\u0101r vienu pils\u0113tu, bet p\u0101r otru ne, viens zemes gabals aplija, bet otrs gabals sakalta, kur lietus nelija."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Un divas, tr\u012bs pils\u0113tas vilk\u0101s uz vienu pils\u0113tu, \u016bdeni dzert, bet nedab\u016bja nodzerties; ta\u010du j\u016bs pie Manis neesat atgriezu\u0161ies, saka Tas Kungs."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Es j\u016bs esmu sitis ar bulu un ar r\u016bsu, un sise\u0146i \u0113da visu, kas aug j\u016bsu d\u0101rzos un j\u016bsu v\u012bna d\u0101rzos un uz j\u016bsu v\u012b\u0123es kokiem un e\u013c\u013cas kokiem, ta\u010du j\u016bs pie Manis neesat atgriezu\u0161ies, saka Tas Kungs."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Es esmu s\u016bt\u012bjis m\u0113ri j\u016bsu vid\u016b, k\u0101 \u0112\u0123iptes zem\u0113, Es nok\u0101vu j\u016bsu jaunek\u013cus caur zobenu un liku j\u016bsu zirgus aizvest, un j\u016bsu karasp\u0113ka smar\u017eai Es liku uzk\u0101pt j\u016bsu n\u0101s\u012bs; ta\u010du j\u016bs pie Manis neesat atgriezu\u0161ies, saka Tas Kungs."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Es esmu s\u016bt\u012bjis postu j\u016bsu vid\u016b, k\u0101 Dievs post\u012bjis Sodomu un Gomoru un j\u016bs bij\u0101t k\u0101 pagale izrauta no uguns, ta\u010du j\u016bs neesat atgriezu\u0161ies pie Manis, saka Tas Kungs."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "T\u0101d\u0113\u013c Es tev t\u0101 dar\u012b\u0161u, Isra\u0113l! Kad Es tev t\u0101 gribu dar\u012bt, nu tad sataisies, Isra\u0113l, savam Dievam pretim!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Jo redzi, kas taisa kalnus, rada v\u0113ju un cilv\u0113kam dara zin\u0101mu, kas vi\u0146a dom\u0101s, kas par r\u012bta gaismu dara tumsu un staig\u0101 p\u0101r zemes augstumiem, Kungs Dievs Cebaot ir Vi\u0146a v\u0101rds."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Klausiet \u0161o v\u0101rdu, ar ko es par jums s\u0101ku raudu dziesmu, Isra\u0113la nams!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Isra\u0113la meita ir kritusi, vi\u0146a vairs necelsies, vi\u0146a ir atst\u0101ta zem\u0113, neviena nav, kas to uzce\u013c."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jo t\u0101 saka Tas Kungs Dievs: tai pils\u0113tai, kur iziet t\u016bksto\u0161i, atliksies simts, un kur iziet simts, atliksies desmit Isra\u0113la nam\u0101."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jo t\u0101 saka Tas Kungs uz Isra\u0113la namu: mekl\u0113jiet Mani un dz\u012bvojiet!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Bet nemekl\u0113jiet B\u0113teli un nen\u0101ciet uz Gilgalu un nenoejat uz B\u0113r\u0161ebu, jo Gilgala taps aizvesta un B\u0113tele paliks par neko."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Mekl\u0113jiet To Kungu un dz\u012bvojiet, - lai Vi\u0146\u0161 neiz\u0161aujas J\u0101zepa nam\u0101 k\u0101 uguns, kas to norij, un neviens to nevar dz\u0113st B\u0113tel\u0113, -"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "J\u016bs, kas tiesu p\u0101rv\u0113r\u0161at par v\u0113rmel\u0113m un stumjat taisn\u012bbu pie zemes:"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Kas rad\u012bjis Sieti\u0146u un Orijonu un n\u0101ves \u0113nu p\u0101rv\u0113r\u0161 par r\u012bta gaismu un dienu aptum\u0161o, ka nakts met\u0101s, kas j\u016bras \u016bdeni sauc un to izg\u0101\u017e pa zemes virsu, - Kungs ir Vi\u0146a v\u0101rds,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Tam pr\u0101ts ir, to sp\u0113c\u012bgo post\u012bt, ka posts n\u0101k p\u0101r stipro pili."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tie ien\u012bst to, kas v\u0101rtos p\u0101rm\u0101ca, un kas paties\u012bbu run\u0101, to tie tur par negantu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "T\u0101d\u0113\u013c ka j\u016bs apb\u0113din\u0101j\u0101t nabagu un \u0146emat lab\u012bbas d\u0101vanu no vi\u0146a, tad j\u016bs gan esiet uztais\u012bju\u0161i namus no cirstiem akme\u0146iem, bet j\u016bs tan\u012bs nedz\u012bvosiet, j\u016bs esat st\u0101d\u012bju\u0161i di\u017eenus v\u012bna d\u0101rzus, bet vi\u0146u v\u012bnu j\u016bs nedzersiet."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Jo es zinu, ka j\u016bsu p\u0101rk\u0101pumu daudz un j\u016bsu gr\u0113ku varen daudz. Tie nospaida taisno un \u0146em d\u0101vanas, un nom\u0101c nabagus v\u0101rtos."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "T\u0101d\u0113\u013c pr\u0101t\u012bgais \u0161in\u012bs laikos cie\u0161 klusu, jo tie ir nikni laiki."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mekl\u0113jiet labu un ne \u013caunu, lai j\u016bs dz\u012bvojat, un t\u0101 Tas Kungs, tas Dievs Cebaot, b\u016bs ar jums, k\u0101 j\u016bs sak\u0101t."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Ien\u012bstiet \u013caunu un m\u012b\u013cojiet labu un sprie\u017eat v\u0101rtos tiesu, vai varb\u016bt Tas Kungs, tas Dievs Cebaot, neap\u017e\u0113losies par J\u0101zepa atliku\u0161iem."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "T\u0101d\u0113\u013c t\u0101 saka Tas Kungs, tas Dievs Cebaot, Tas Kungs: vis\u0101s iel\u0101s vaimanas un vis\u0101s gatv\u0113s saka: vai, vai! Ar\u0101ju sauc pie asar\u0101m, un pie vaiman\u0101m vaid\u0113t\u0101jus."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Un visos v\u012bna d\u0101rzos b\u016bs vaimanas, jo Es ie\u0161u caur j\u016bsu vidu, saka Tas Kungs."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Ak vai, tiem, kas ilgoj\u0101s p\u0113c T\u0101 Kunga dienas! Par ko tad jums b\u016bs T\u0101 Kunga diena? T\u0101 b\u016bs tumsa un ne gaisma."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "T\u0101 k\u0101 kad v\u012brs b\u0113gtu no lauvas un to sastaptu l\u0101cis! Un n\u0101ktu nam\u0101 un atslietos ar roku pie sienas, un \u010d\u016bska vi\u0146am iedzeltu!"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Vai tad T\u0101 Kunga diena neb\u016bs tumsa un ne gaisma, un nakts, kam nav spo\u017euma?"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Es ien\u012bstu un atmetu j\u016bsu sv\u0113tkus un negribu ost j\u016bsu sapulces."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Jo kad j\u016bs Man dedzin\u0101mos upurus upur\u0113jat l\u012bdz ar saviem \u0113damiem upuriem, tad Man pie vi\u0146iem nav labs pr\u0101ts, un pateic\u012bbas upuri no j\u016bsu barotiem lopiem Es negribu ieredz\u0113t."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Atst\u0101jies jel no Manis ar savu dziesmu b\u013cau\u0161anu, un tavu kok\u013cu ska\u0146u Es negribu dzird\u0113t."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Bet lai pl\u016bst tiesa k\u0101 \u016bdens un taisn\u012bba k\u0101 stipra upe."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Vai \u010detrdesmit gadus tuksnes\u012b j\u016bs Man esat nesu\u0161i upurus un \u0113damus upurus, Isra\u0113la nams?"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Bet j\u016bs nes\u0101t sava(Sikuta) \u0137\u0113ni\u0146a b\u016bdu un sava \u0136ijuna bildi, sava dieva zvaigzni, ko j\u016bs sev pa\u0161iem bij\u0101t tais\u012bju\u0161i."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "T\u0101d\u0113\u013c Es j\u016bs aizved\u012b\u0161u t\u0101lu vi\u0146pus Damaskus, saka Tas Kungs, kam v\u0101rds ir Dievs Cebaot."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Ak vai, tiem, kas dro\u0161i dz\u012bvo Ci\u0101n\u0101 un bez b\u0113d\u0101m uz Samarijas kalna, tiem vareniem pirmaj\u0101 taut\u0101, pie kuriem n\u0101k tie no Isra\u0113la nama."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ejat uz Kalni un skat\u0101ties, un no turienes ejat uz Hamatu, to lielo pils\u0113tu, tad noejat uz Gadu F\u012blistos, vai t\u0101s ir lab\u0101kas nek\u0101 \u0161\u012bs valstis, jeb vai vi\u0146u robe\u017eas liel\u0101kas nek\u0101 j\u016bsu robe\u017eas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "J\u016bs, kam \u0161\u0137iet nelaimes dienu t\u0101lu esam un kas tuvu ce\u013cat varasdarba kr\u0113slu,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Kas gu\u013cat uz zilo\u0146kaulu gult\u0101m un staip\u0101ties sav\u0101s gu\u013c\u0101s un \u0113dat j\u0113rus no gan\u0101m\u0101 pulka un barotos te\u013cus no laidaru vidus,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Kas p\u016b\u0161at somastabules un izdom\u0101jat m\u016bzikas r\u012bkus k\u0101 D\u0101vids,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Kas v\u012bnu dzerat no kausiem un svaid\u0101ties ar visd\u0101rg\u0101ko e\u013c\u013cu, bet neb\u0113d\u0101jaties par J\u0101zepa vainu!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "T\u0101d\u0113\u013c tie nu ies cietum\u0101 pa\u0161i pirmie starp cietumniekiem, un pl\u012btnieku klieg\u0161ana mit\u0113sies."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tas Kungs Dievs ir zv\u0113r\u0113jis pie savas dv\u0113seles, saka Tas Kungs, tas Dievs Cebaot: Man riebj J\u0113kaba lepn\u012bba un Es ien\u012bstu vi\u0146a skaistos namus, t\u0101d\u0113\u013c Es to pils\u0113tu nodo\u0161u ar visu, kas tur iek\u0161\u0101."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Un notiks, ja tur desmit v\u012bri b\u016bs atliku\u0161i vien\u0101 nam\u0101, tie mirs."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Un kad ko \u0146ems vi\u0146a svainis vai vi\u0146a dedzin\u0101t\u0101js, un iznes\u012bs tos kaulus no nama un sac\u012bs uz to, kas nama kambar\u012b: vai tur v\u0113l k\u0101ds pie tevis? Un tas sac\u012bs: nav neviena. Tad vi\u0146\u0161 sac\u012bs: ciet klusu! Jo T\u0101 Kunga v\u0101rdu neb\u016bs piemin\u0113t."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jo redzi, Tas Kungs dod pav\u0113li, un sit\u012bs to lielo namu, ka sagr\u016bs, un to mazo namu, ka sadrups."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vai zirgi var skriet pa klint\u012bm? Vai tur virs\u016b var art ar v\u0113r\u0161iem? Jo j\u016bs esat p\u0101rv\u0113rtu\u0161i tiesu par \u017eulti un taisn\u012bbas aug\u013cus par v\u0113rmel\u0113m?"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "J\u016bs, kas priec\u0101jaties par nieku un sak\u0101t: Vai m\u0113s caur savu stiprumu sev neesam varu dab\u016bju\u0161i?"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Jo redzi, pret jums, j\u016bs Isra\u0113la nams, saka Tas Kungs, tas Dievs Cebaot, Es cel\u0161u vienu tautu, - un t\u0101 j\u016bs nospaid\u012bs no Hamatas ce\u013ca l\u012bdz tuksne\u0161a upei."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Tas Kungs Dievs man \u0161\u0101du lietu lika redz\u0113t, un redzi, Vi\u0146\u0161 r\u0101d\u012bja sise\u0146us, kad at\u0101ls s\u0101ka augt, un redzi, at\u0101ls bija audzis p\u0113c \u0137\u0113ni\u0146a p\u013cau\u0161anas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Un kad tie z\u0101li zemes virs\u016b visnota\u013c bija apriju\u0161i, tad es sac\u012bju: Kungs Dievs, piedod jel! K\u0101 J\u0113kabs var\u0113s past\u0101v\u0113t, jo vi\u0146\u0161 ir mazs."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tad Tam Kungam bija \u017e\u0113l; tas nenotiks, sac\u012bja Tas Kungs. -"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Atkal Tas Kungs Dievs man \u0161\u0101du lietu lika redz\u0113t, un redzi, Tas Kungs Dievs sauca un grib\u0113ja ar uguni sod\u012bt, un tas jau norija to lielo j\u016bru un aprija ar\u012b vienu zemes gabalu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tad es sac\u012bju: Kungs Dievs, mit\u0113jies jel! K\u0101 J\u0113kabs var\u0113s past\u0101v\u0113t, jo vi\u0146\u0161 ir mazs."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Tad tas Tam Kungam bija \u017e\u0113l; ir tas nenotiks, - sac\u012bja Tas Kungs Dievs."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Atkal vi\u0146\u0161 man \u0161\u0101du lietu lika redz\u0113t, un redzi, Tas Kungs st\u0101v\u0113ja uz st\u0101va m\u016bra, un lote(svina sv\u0113rtenis) bija Vi\u0146a rok\u0101."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Un Tas Kungs sac\u012bja uz mani: ko tu redzi, Amos? Tad es sac\u012bju: loti. Tad Tas Kungs sac\u012bja: redzi, Es pielik\u0161u loti vid\u016b Maniem Isra\u0113la \u013caud\u012bm, un vi\u0146us vairs netaup\u012b\u0161u;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bet \u012azaka elku kalni taps izn\u012bcin\u0101ti, un Isra\u0113la sv\u0113t\u0101s vietas taps nopost\u012btas, un Es cel\u0161os pret Jerobeama namu ar zobenu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tad Amac\u012bja, B\u0113teles priesteris, s\u016bt\u012bja pie Jerobeama, Isra\u0113la \u0137\u0113ni\u0146a, un sac\u012bja: Amos ce\u013c dumpi pret tevi Isra\u0113la nama vid\u016b, zeme nevar panest visus vi\u0146a v\u0101rdus."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Jo t\u0101 saka Amos: Jerobeams nomirs caur zobenu, un Isra\u0113ls ve\u0161us no savas zemes taps aizvests."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Un Amac\u012bja sac\u012bja uz Amosu: tu redz\u0113t\u0101j, ej, b\u0113dz uz J\u016bda zemi, un \u0113d tur savu maizi,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Un sludini tur, bet B\u0113tel\u0113 tev joproj\u0101m vairs neb\u016bs sludin\u0101t, jo te ir \u0137\u0113ni\u0146a sv\u0113t\u0101 vieta, un te ir valsts pils\u0113ta."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Tad Amos atbild\u0113ja un sac\u012bja uz Amac\u012bju: es neesmu pravietis nedz pravie\u0161a d\u0113ls, bet es esmu lopu gans un lasu me\u017ea v\u012b\u0123es;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Bet Tas Kungs mani \u0146\u0113mis no gan\u0101m\u0101 pulka, un Tas Kungs uz mani sac\u012bjis: ej, sludini Maniem Isra\u0113la \u013caud\u012bm."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nu tad, klausi T\u0101 Kunga v\u0101rdu! Tu saki: nesludini pret Isra\u0113li un nem\u0101ci pret \u012azaka namu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "T\u0101d\u0113\u013c, t\u0101 saka Tas Kungs: tava sieva pils\u0113t\u0101 taps par mauku, un tavi d\u0113li un tavas meitas krit\u012bs caur zobenu, un tava zeme taps m\u0113rota un izdal\u012bta, un tu mirsi ne\u0161\u0137\u012bst\u0101 zem\u0113, un Isra\u0113ls ve\u0161us no savas zemes taps aizvests."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Tas Kungs Dievs man \u0161\u0101du lietu lika redz\u0113t, un raugi, tur bija kurvis ar vasaras aug\u013ciem."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Un Vi\u0146\u0161 sac\u012bja: ko tu redzi, Amos? Un es sac\u012bju: kurvi ar vasaras aug\u013ciem. Tad Tas Kungs uz mani sac\u012bja: gals ir n\u0101cis maniem Isra\u0113la \u013caud\u012bm, Es tos vairs netaup\u012b\u0161u."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Un Dieva nama dziesmas tai dien\u0101 taps par kauk\u0161anu, saka Tas Kungs Dievs; tur b\u016bs daudz nomiru\u0161as miesas, ikkatr\u0101 viet\u0101 t\u0101s klusi taps nomestas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Klausiet \u0161o v\u0101rdu, j\u016bs, kas aprijat nabagu un izdeldat b\u0113du \u013caudis tai zem\u0113,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Un sak\u0101t: kad jaunais m\u0113nesis p\u0101ries, ka lab\u012bbu p\u0101rdodam? Un sv\u0113tdiena, ka lab\u012bbas kl\u0113tis varam atdar\u012bt un maz\u0101ku dar\u0101m \u0113fu un s\u0113\u0137eli liel\u0101ku, vilt\u012bgi p\u0101rgroz\u012bdami svaru?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ka tos mazos varam pirkt par naudu un tos nabagus par p\u0101ri kurpju, tad pelus p\u0101rdosim par lab\u012bbu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Tas Kungs ir zv\u0113r\u0113jis pie J\u0113kaba goda: Es visus vi\u0146u darbus neaizmirs\u012b\u0161u nem\u016b\u017eam."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Vai \u0161\u0101das lietas d\u0113\u013c zemei neb\u016bs kustin\u0101ties, un visiem iedz\u012bvot\u0101jiem iek\u0161 t\u0101s neb\u016bs b\u0113d\u0101ties? T\u0101 visai uzpl\u016bd\u012bs k\u0101 upe un pl\u016bd\u012bs un nos\u012bks k\u0101 \u0112\u0123iptes upe."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Un notiks tai dien\u0101 saka Tas Kungs Dievs, tad Es saulei lik\u0161u noiet dienas vid\u016b un aptum\u0161o\u0161u zemi pa\u0161\u0101 gaism\u0101."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Un Es p\u0101rv\u0113rt\u012b\u0161u j\u016bsu sv\u0113tkus par b\u0113d\u0101m un visas j\u016bsu dziesmas par vaiman\u0101m, un uz visiem gurniem lik\u0161u maisu un uz vis\u0101m galv\u0101m plei\u0137i(nosk\u016bt galvu), un Es lik\u0161u b\u0113d\u0101ties k\u0101 par vien\u012bgo d\u0113lu, un gals b\u016bs r\u016bgta diena."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Redzi, dienas n\u0101k, saka Tas Kungs Dievs, ka es badu s\u016bt\u012b\u0161u tai zem\u0113, ne badu p\u0113c maizes un ne tv\u012bk\u0161anu p\u0113c \u016bdens, bet klaus\u012bt T\u0101 Kunga v\u0101rdus."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Un tie skraid\u012bs no vienas j\u016bras l\u012bdz otrai, un tec\u0113s apk\u0101rt no zieme\u013ca puses l\u012bdz r\u012bta pusei T\u0101 Kunga v\u0101rdu mekl\u0113t, bet neatrad\u012bs."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Tai dien\u0101 skaist\u0101s jaunavas un jaunek\u013ci ap\u0123\u012bbs no tv\u012bk\u0161anas,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Kas pie Samarijas nozieguma zv\u0113r\u0113 un saka: tik tie\u0161\u0101m k\u0101 tavs Dievs dz\u012bvo, Dan, tik tie\u0161\u0101m k\u0101 tas ce\u013c\u0161 uz B\u0113r\u0161ebu! Un tie krit\u012bs un vairs necelsies."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Es redz\u0113ju To Kungu st\u0101vam p\u0101r alt\u0101ri, un Vi\u0146\u0161 sac\u012bja: sit uz (p\u012bl\u0101ra) kroni, ka stenderi tr\u012bc, un sit tos uz pus\u0113m uz visu vi\u0146u galv\u0101m! Un Es nokau\u0161u ar zobenu, kas no vi\u0146iem atliek; kas no vi\u0146iem b\u0113g, tas neizb\u0113gs, un kas no vi\u0146iem skrien, tas neizgl\u0101bsies."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Jeb\u0161u tie ieraktos ell\u0113, ta\u010du Mana roka tos dab\u016bs no turienes, un jeb\u0161u tie uzk\u0101ptu debes\u012bs, ta\u010du Es tos no turienes nomet\u012b\u0161u."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Un jeb\u0161u tie apsl\u0113ptos Karme\u013ca virsgal\u0101, ta\u010du Es dz\u012b\u0161os paka\u013c un tos no turienes atved\u012b\u0161u. Un jeb\u0161u tie priek\u0161 Man\u0101m ac\u012bm apsl\u0113ptos j\u016bras dzi\u013cum\u0101, ta\u010du Es no turienes \u010d\u016bskai pav\u0113l\u0113\u0161u, un t\u0101 vi\u0146iem iedzels."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Un jeb\u0161u tie cietum\u0101 ietu savu ienaidnieku priek\u0161\u0101, ta\u010du Es zobenam pav\u0113l\u0113\u0161u, un tas tos nokaus, un Es Savu aci pret tiem pacel\u0161u par \u013caunu un ne par labu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Jo Tas Kungs Dievs Cebaot, kad Vi\u0146\u0161 zemi aizskar, tad t\u0101 izk\u016bst, un visi iedz\u012bvot\u0101ji tur b\u0113d\u0101j\u0101s, un t\u0101 uzpl\u016bst k\u0101 upe un nos\u012bkst k\u0101 \u0112\u0123iptes upe."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Vi\u0146\u0161 savu m\u0101jokli taisa debes\u012bs un stiprina savu dz\u012bvokli virs zemes, Vi\u0146\u0161 sauc j\u016bras \u016bdeni un to izlej pa zemes virsu, - Kungs ir Vi\u0146a v\u0101rds."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Vai j\u016bs Man neesat k\u0101 Moru b\u0113rni, j\u016bs Isra\u0113la b\u0113rni? saka Tas Kungs. Vai Es Isra\u0113li neesmu izvedis no \u0112\u0123iptes zemes un F\u012blistus no Kaftora un S\u012brie\u0161us no \u0136iras?"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Redzi, T\u0101 Kunga Dieva acis (skat\u0101s) uz \u0161o gr\u0113c\u012bgo valsti, un Es to izdeldu no zemes virsas, jeb\u0161u Es J\u0113kaba namu visai(piln\u012bgi) neizdeld\u0113\u0161u, saka Tas Kungs."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Jo redzi, Es pav\u0113l\u0113\u0161u un sij\u0101\u0161u Isra\u0113la namu starp visiem pag\u0101niem, t\u0101 k\u0101 (s\u0113kla) top sij\u0101ta siet\u0101, un neviens graudi\u0146\u0161 nekr\u012bt pie zemes."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Caur zobenu visi gr\u0113cinieki Man\u0101 taut\u0101 nomirs, kas saka: \u013caunums mums kl\u0101t nen\u0101ks un mums neuzies."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tai dien\u0101 Es atkal uzcel\u0161u D\u0101vida sagruvu\u0161o dz\u012bvokli un aptais\u012b\u0161u vi\u0146a \u0161\u0137irbas ar s\u0113tu, un kas pie t\u0101 ir salauz\u012bts, to Es atkal uztais\u012b\u0161u un to uzcel\u0161u k\u0101 vecos laikos,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ka tie iemantos, kas no Edoma atlicis, un visus pag\u0101nus, kas p\u0113c Mana V\u0101rda taps nosaukti, saka Tas Kungs, un tas \u0161o dara."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Redzi, dienas n\u0101k, saka Tas Kungs, ka ar\u0101js pan\u0101ks p\u013c\u0101v\u0113ju, un v\u012bna \u0137ekaru min\u0113js s\u0113klas s\u0113j\u0113ju un kalni pil\u0113s no salda v\u012bna, un visi pakalni pl\u016bd\u012bs."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Un Es savus Isra\u0113la \u013caudis atkal p\u0101rved\u012b\u0161u no cietuma, un tie uztais\u012bs izpost\u012bt\u0101s pils\u0113tas un tur dz\u012bvos un d\u0113st\u012bs v\u012bna d\u0101rzus un dzers vi\u0146u v\u012bnu un kops d\u0101rzus un \u0113d\u012bs vi\u0146u aug\u013cus."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Un Es tos d\u0113st\u012b\u0161u vi\u0146u zem\u0113, un tie vairs netaps izrauti no savas zemes, ko Es tiem esmu devis, saka Tas Kungs, tavs Dievs."
+                }
+            }
+        }
+    }
+}

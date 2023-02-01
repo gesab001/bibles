@@ -1,0 +1,1696 @@
+{
+    "version": "TLA",
+    "book_name": "Nehemiah",
+    "book_nr": "16",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nehem\u00edas ora por la gente de Jerusal\u00e9n - Yo soy Nehem\u00edas hijo de Hacal\u00edas y \u00e9sta es mi historia. En el mes de Quislev, cuando Artajerjes llevaba veinte a\u00f1os de reinar, yo estaba en el palacio del rey en Susa."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "En ese momento lleg\u00f3 all\u00ed mi hermano Hanan\u00ed con unos hombres que ven\u00edan de Jud\u00e1. Cuando les pregunt\u00e9 c\u00f3mo estaba la ciudad de Jerusal\u00e9n, y c\u00f3mo estaban los jud\u00edos que no fueron llevados prisioneros a Babilonia,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "ellos me respondieron: \u00abLos que se quedaron en Jerusal\u00e9n tienen graves problemas y sienten una terrible verg\u00fcenza ante los dem\u00e1s pueblos. Los muros de protecci\u00f3n de la ciudad est\u00e1n en ruinas, y sus portones fueron destruidos por el fuego\u00bb."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Cuando o\u00ed esto, me sent\u00e9 a llorar, y durante varios d\u00edas estuve muy triste y no com\u00ed nada. Entonces le dije a Dios en oraci\u00f3n:"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "\u00abDios grande y poderoso; ante ti todo el mundo tiembla de miedo. T\u00fa cumples tus promesas a los que te aman y te obedecen."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Esc\u00fachame y atiende mi oraci\u00f3n, pues soy tu servidor. D\u00eda y noche te he rogado por los israelitas, que tambi\u00e9n son tus servidores. Reconozco que todos hemos pecado contra ti. He pecado yo, y tambi\u00e9n mis antepasados."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Hemos actuado muy mal y no hemos obedecido los mandamientos que nos diste por medio de Mois\u00e9s."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Acu\u00e9rdate de lo que le dijiste a Mois\u00e9s: Le advertiste que si no te obedec\u00edamos en todo, t\u00fa nos enviar\u00edas a pa\u00edses muy lejanos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pero tambi\u00e9n dijiste que si nos arrepent\u00edamos y obedec\u00edamos tus mandamientos nos volver\u00edas a reunir. Tambi\u00e9n dijiste que t\u00fa nos traer\u00edas de vuelta al sitio que has elegido para que te adoremos, aun cuando estuvi\u00e9ramos en los lugares m\u00e1s lejanos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00bbNosotros somos tus servidores; pertenecemos al pueblo que t\u00fa sacaste de Egipto con gran poder."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Dios, escucha mi oraci\u00f3n y las oraciones de tus servidores que desean adorarte. Haz que el rey me reciba bien y que yo tenga \u00e9xito\u00bb. En ese tiempo yo era copero del rey Artajerjes."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nehem\u00edas va a Jerusal\u00e9n - Cierto d\u00eda, en el mes de Abib, le llev\u00e9 vino al rey Artajerjes. Como nunca me hab\u00eda visto triste,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "el rey me pregunt\u00f3: \u2014\u00bfQu\u00e9 te pasa? No te ves enfermo. Esa cara triste me dice que debes estar preocupado. Sent\u00ed mucho miedo en ese momento,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "y le dije al rey: \u2014\u00a1Deseo que Su Majestad viva muchos a\u00f1os! La verdad, s\u00ed estoy triste, y es que la ciudad donde est\u00e1n las tumbas de mis antepasados est\u00e1 en ruinas. Sus portones han sido destruidos por el fuego."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "El rey me pregunt\u00f3: \u2014\u00bfHay algo que pueda hacer por ti? Yo le ped\u00ed ayuda a Dios,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "y le contest\u00e9 al rey: \u2014Si le parece bien a Su Majestad, y quiere hacerme un favor, perm\u00edtame ir a Jud\u00e1, para reconstruir la ciudad donde est\u00e1n las tumbas de mis antepasados."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "El rey, que estaba acompa\u00f1ado por la reina, me pregunt\u00f3 cu\u00e1nto tiempo durar\u00eda mi viaje y cu\u00e1ndo regresar\u00eda. Yo le dije cu\u00e1nto tardar\u00eda, y \u00e9l me dio permiso para ir."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Entonces le ped\u00ed que me diera cartas para los gobernadores de la provincia que est\u00e1 al oeste del r\u00edo \u00c9ufrates. Ellos deb\u00edan permitirme pasar por sus territorios para llegar a Jud\u00e1."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tambi\u00e9n le ped\u00ed una carta para Asaf, que era el guardabosque del rey. Asaf deb\u00eda entregarme madera para las puertas de la torre, la cual estaba cerca del templo de Dios, y tambi\u00e9n para los muros de protecci\u00f3n de la ciudad y para mi casa. El rey me dio todo lo que le ped\u00ed, porque mi buen Dios me estaba ayudando."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Luego el rey envi\u00f3 unos oficiales del ej\u00e9rcito y soldados de caballer\u00eda para protegerme en mi viaje. Al llegar a la provincia al oeste del r\u00edo \u00c9ufrates, entregu\u00e9 las cartas del rey a los gobernadores."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Cuando Sambalat el de Hor\u00f3n, y Tob\u00edas el funcionario amonita se enteraron de todo esto, se disgustaron mucho de que yo hubiera llegado para ayudar a los israelitas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nehem\u00edas llega a Jerusal\u00e9n - Al llegar a Jerusal\u00e9n, dej\u00e9 pasar tres d\u00edas"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "sin decirle a nadie lo que Dios me hab\u00eda indicado hacer por Jerusal\u00e9n. Despu\u00e9s me levant\u00e9 de noche y sal\u00ed acompa\u00f1ado por algunos hombres. El \u00fanico animal que llev\u00e1bamos era el burro que yo montaba."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Pas\u00e9 por la entrada del Valle y me dirig\u00ed hacia la entrada del Basurero, pasando por la fuente del Drag\u00f3n. Revis\u00e9 los muros de protecci\u00f3n de la ciudad que estaban ca\u00eddos, y los portones que hab\u00edan sido destruidos por el fuego."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Despu\u00e9s segu\u00ed hacia la entrada de la Fuente y el estanque del Rey, pero como mi burro no pod\u00eda pasar por all\u00ed, baj\u00e9 al valle."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Desde el valle revis\u00e9 los muros, y al regresar pas\u00e9 por la entrada del Valle. Todav\u00eda era de noche."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Los gobernadores no sab\u00edan a d\u00f3nde hab\u00eda ido yo, ni qu\u00e9 hab\u00eda hecho. Tampoco los jud\u00edos, pues todav\u00eda no les hab\u00eda contado nada a los sacerdotes ni a los jefes, ni asistentes ni a los que iban a ayudar en la obra."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Entonces les dije: \u2014Ustedes conocen bien el problema que tenemos, porque los muros de Jerusal\u00e9n est\u00e1n en ruinas y sus portones se quemaron. Pero vamos a reconstruirlos, para que no se burlen m\u00e1s de nosotros."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Les cont\u00e9 tambi\u00e9n c\u00f3mo mi buen Dios me hab\u00eda ayudado, y lo que el rey me hab\u00eda dicho. Entonces ellos respondieron: \u2014\u00a1Manos a la obra! Y, muy animados, se prepararon para iniciar la reconstrucci\u00f3n."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Pero Sambalat el de Hor\u00f3n, Tob\u00edas el funcionario amonita y Gu\u00e9sem el \u00e1rabe se burlaron de nosotros y dijeron: \u2014\u00bfQu\u00e9 se traen entre manos? \u00bfSe van a poner en contra del rey?"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Yo les contest\u00e9: \u2014Dios gobierna desde el cielo, y con su ayuda tendremos \u00e9xito. Ustedes no tienen autoridad en Jerusal\u00e9n. Tampoco tienen ning\u00fan derecho, pues no son parte de su historia. Nosotros haremos los trabajos de reconstrucci\u00f3n."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Comienza la reconstrucci\u00f3n - Entonces comenz\u00f3 la reconstrucci\u00f3n. Los sacerdotes, junto con su jefe Eliasib, reconstruyeron la entrada de las Ovejas. Reconstruyeron los muros de protecci\u00f3n hasta la torre de los Cien y la torre de Hananel, y colocaron los portones. Luego dedicaron a Dios esa entrada."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Los hombres de Jeric\u00f3 reconstruyeron la secci\u00f3n de los muros que segu\u00eda. En la siguiente secci\u00f3n trabaj\u00f3 Zacur hijo de Imr\u00ed."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "La familia de Sena\u00e1 reconstruy\u00f3 la entrada de los Pescados. Pusieron vigas y colocaron los portones con sus cerrojos y barras."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "La siguiente secci\u00f3n del muro fue reparada por Meremot hijo de Ur\u00edas y nieto de Cos. La reparaci\u00f3n de la siguiente secci\u00f3n la hizo Mesulam hijo de Berequ\u00edas, y nieto de Mesezabel. La siguiente secci\u00f3n fue reparada por Sadoc hijo de Baan\u00e1."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "La gente de Tecoa se hizo cargo de la siguiente secci\u00f3n, pero los hombres importantes de ese pueblo no quisieron ayudar a los que dirig\u00edan la obra."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Joiad\u00e1 hijo de Pas\u00e9ah y Mesulam hijo de Besod\u00edas, repararon la entrada de Jesan\u00e1. Le pusieron vigas y colocaron los portones con sus cerrojos y barras."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Melat\u00edas de Gaba\u00f3n, y Jad\u00f3n de Meronot, repararon la siguiente secci\u00f3n del muro, junto con la gente de Gaba\u00f3n y de Misp\u00e1. Estas dos regiones estaban a cargo del gobernador de la provincia que est\u00e1 al oeste del r\u00edo \u00c9ufrates."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "En la secci\u00f3n que segu\u00eda trabajaron Uziel hijo de Harha\u00edas, que era muy bueno trabajando con objetos de plata, y Hanan\u00edas, que preparaba excelentes perfumes. Estos dos repararon el muro de Jerusal\u00e9n hasta el muro ancho."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "La siguiente secci\u00f3n la repar\u00f3 Refa\u00edas hijo de Hur, que era gobernador de la mitad del distrito de Jerusal\u00e9n."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Jeda\u00edas hijo de Harumaf repar\u00f3 la siguiente secci\u00f3n, que quedaba frente a su casa. El trabajo de la siguiente secci\u00f3n lo hizo Hat\u00fas hijo de Hasabn\u00edas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Malqu\u00edas hijo de Harim, y Hasub hijo de Pahat-moab repararon la siguiente secci\u00f3n y la torre de los Hornos."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "En la secci\u00f3n que segu\u00eda trabaj\u00f3 Salum hijo de Haloh\u00e9s, ayudado por sus hijas. Haloh\u00e9s era gobernador de la otra mitad del distrito de Jerusal\u00e9n."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Han\u00fan y los que viv\u00edan en Zan\u00f3ah repararon la entrada del Valle. La reconstruyeron, le colocaron los portones con sus cerrojos y barras, y tambi\u00e9n repararon cuatrocientos cincuenta metros del muro, hasta la entrada del Basurero."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Malqu\u00edas hijo de Recab, que era gobernador del distrito de Bet-haqu\u00e9rem, reconstruy\u00f3 la entrada del Basurero. Le coloc\u00f3 los portones con sus cerrojos y barras."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Salum hijo de Colhoz\u00e9, que era gobernador del distrito de Misp\u00e1, repar\u00f3 la entrada de la Fuente. La cubri\u00f3 con un techo y coloc\u00f3 los portones con sus cerrojos y sus barras. Tambi\u00e9n arregl\u00f3 el muro desde el estanque de Silo\u00e9, que est\u00e1 junto al jard\u00edn del rey, hasta las escaleras que bajan de la parte m\u00e1s antigua de la ciudad de Jerusal\u00e9n."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Nehem\u00edas hijo de Azbuc, que era gobernador de la mitad del distrito de Bet-sur, repar\u00f3 la siguiente secci\u00f3n del muro que est\u00e1 frente a la tumba de David, hasta el estanque de agua y el cuartel de los soldados."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Los colaboradores de la tribu de Lev\u00ed - \u00c9stos fueron los descendientes de Lev\u00ed que trabajaron en la reconstrucci\u00f3n del muro de protecci\u00f3n: Reh\u00fam hijo de Ban\u00ed, y despu\u00e9s Hasab\u00edas, que era gobernador de la mitad del distrito de Queil\u00e1, repararon la secci\u00f3n que segu\u00eda, en representaci\u00f3n de su distrito."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Luego continu\u00f3 el trabajo Bavai hijo de Henadad, que era gobernador de la otra mitad del distrito de Queil\u00e1."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00c9ser hijo de Josu\u00e9, gobernador de Misp\u00e1, repar\u00f3 la secci\u00f3n frente a la calle que lleva al dep\u00f3sito de armas de la esquina."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Despu\u00e9s Baruc hijo de Zabai repar\u00f3 la secci\u00f3n que va desde la esquina hasta la puerta de la casa de Eliasib, el jefe de los sacerdotes."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Meremot hijo de Ur\u00edas, y nieto de Cos, repar\u00f3 la secci\u00f3n que va desde la puerta de la casa de Eliasib hasta donde termina."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Los sacerdotes tambi\u00e9n reconstruyeron - Los sacerdotes que viv\u00edan en el valle del r\u00edo Jord\u00e1n trabajaron en la reconstrucci\u00f3n de las secciones que segu\u00edan."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Luego los sacerdotes Benjam\u00edn y Hasub repararon la secci\u00f3n del muro que quedaba frente a su casa. Azar\u00edas hijo de Maase\u00edas, nieto de Anan\u00edas, repar\u00f3 el muro junto a su casa."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Binuy hijo de Henadad repar\u00f3 otra secci\u00f3n, que va de la casa de Azar\u00edas hasta el \u00e1ngulo de la esquina."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Palal hijo de Uzai repar\u00f3 el muro frente a la esquina, y la torre alta del palacio del rey, que est\u00e1 en el patio de la guardia. Peda\u00edas hijo de Par\u00f3s"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "y los servidores del templo que viv\u00edan en \u00d3fel repararon la secci\u00f3n del este, que est\u00e1 frente a la entrada del Agua. Tambi\u00e9n repararon la torre."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Otros colaboradores - Los de Tecoa repararon la secci\u00f3n del muro que iba desde enfrente de la torre grande hasta el muro de \u00d3fel."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Algunos sacerdotes repararon el muro frente a sus casas, desde la entrada de los Caballos."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Tambi\u00e9n Sadoc hijo de Imer repar\u00f3 el muro frente a su casa. La siguiente secci\u00f3n la reconstruy\u00f3 Sema\u00edas hijo de Secan\u00edas, que era guardi\u00e1n de la entrada del Este."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "De la siguiente secci\u00f3n se encargaron Hanan\u00edas hijo de Selem\u00edas y Han\u00fan, el sexto hijo de Salaf. Mesulam hijo de Berequ\u00edas trabaj\u00f3 en la secci\u00f3n del muro que estaba frente a su casa."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Malqu\u00edas, que fabricaba excelentes objetos de plata, repar\u00f3 la secci\u00f3n que segu\u00eda, hasta la casa de los servidores del templo y de los comerciantes, frente a la entrada de Revisi\u00f3n y hasta el puesto de vigilancia de la esquina."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "La secci\u00f3n que va desde all\u00ed hasta la entrada de las Ovejas fue reparada por los fabricantes de objetos de plata, y por los comerciantes."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Oposici\u00f3n a la obra - Cuando Sambalat se enter\u00f3 de que est\u00e1bamos reconstruyendo el muro, se enoj\u00f3 mucho. Se puso furioso y comenz\u00f3 a burlarse de los jud\u00edos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Delante de sus compa\u00f1eros y del ej\u00e9rcito de Samaria dijo: \u00ab\u00bfQu\u00e9 se traen entre manos esos pobres jud\u00edos? \u00bfCreen que podr\u00e1n reconstruir la ciudad y volver a ofrecer sacrificios? \u00bfCreen que podr\u00e1n hacerlo en un d\u00eda? \u00bfPiensan que de ese mont\u00f3n de escombros van a sacar piedras nuevas?\u00bb"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Tob\u00edas el amonita, que estaba con \u00e9l, a\u00f1adi\u00f3: \u00ab\u00a1El muro que est\u00e1n edificando es muy d\u00e9bil! \u00a1Basta que se suba una zorra para que se caiga!\u00bb"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Entonces yo or\u00e9: \u00ab\u00a1Dios nuestro, escucha c\u00f3mo nos ofenden! Haz que todo lo malo que nos desean les pase a ellos. Haz que se los lleven a la fuerza a otro pa\u00eds, y que les roben todo lo que tienen."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "No les perdones sus maldades ni te olvides de sus pecados pues nos han insultado por reconstruir el muro\u00bb."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "As\u00ed que seguimos reconstruyendo el muro, y como la gente trabajaba con entusiasmo, el muro pronto estaba hasta la mitad de su altura."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Pero cuando Sambalat, Tob\u00edas, los \u00e1rabes, los de Am\u00f3n y los de Asdod se enteraron de que la reparaci\u00f3n del muro de Jerusal\u00e9n segu\u00eda adelante, y que ya se estaban cerrando las partes ca\u00eddas, se enojaron much\u00edsimo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Todos juntos hicieron un plan para pelear contra nosotros y desanimarnos."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Entonces oramos a Dios y pusimos guardias de d\u00eda y de noche para protegernos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "La gente de Jud\u00e1 se quejaba: \u00abYa no tenemos fuerzas, y los escombros son muchos. No podremos terminar de reparar los muros\u00bb."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nuestros enemigos pensaban que no conoc\u00edamos sus planes, y que nos podr\u00edan atacar por sorpresa, para matarnos y as\u00ed detener la reconstrucci\u00f3n."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Pero cada vez que nuestros enemigos ven\u00edan a atacarnos, los nuestros que viv\u00edan cerca de ellos nos avisaban."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Por eso orden\u00e9 que todos tuvieran listas sus armas: espadas, lanzas y arcos. Luego les ped\u00ed que se colocaran agrupados por familias detr\u00e1s del muro, en los espacios que todav\u00eda no hab\u00edan sido reparados."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Como vi que estaban preocupados, me levant\u00e9 y les dije a los jefes, a los gobernadores y a todos los dem\u00e1s: \u00abNo tengan miedo. Recuerden que Dios es poderoso, y que ante \u00e9l todos tiemblan. \u00a1Luchen por sus compatriotas, sus hijos, hijas, esposas y hogares!\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Cuando nuestros enemigos se enteraron de que conoc\u00edamos sus planes, reconocieron que Dios estaba de nuestra parte. Entonces todos nosotros volvimos a trabajar en la reparaci\u00f3n del muro."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Desde ese momento, la mitad de nosotros trabajaba en la reconstrucci\u00f3n y la otra mitad permanec\u00eda armada con lanzas, escudos, arcos y corazas. Los jefes apoyaban a todos los de Jud\u00e1"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "que estaban reparando el muro. Los que cargaban materiales lo hac\u00edan de tal manera que con una mano trabajaban y con la otra sosten\u00edan su arma."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Todos ten\u00edan su espada sujeta a la cintura mientras trabajaban. El que tocaba la trompeta estaba al lado m\u00edo,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "pues yo les hab\u00eda dicho a los jefes y a los asistentes, y a todos los dem\u00e1s: \u00abEl trabajo es demasiado y falta mucho por reconstruir; adem\u00e1s, estamos repartidos por todo el muro y lejos unos de otros."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Por eso, si nos atacan, oir\u00e1n sonar la trompeta. Si as\u00ed sucede, corran a ayudarnos. Nuestro Dios luchar\u00e1 por nosotros\u00bb."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Desde que sal\u00eda el sol hasta que aparec\u00edan las estrellas, la mitad de la gente reparaba el muro, y los dem\u00e1s manten\u00edan las lanzas en sus manos."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Yo tambi\u00e9n le hab\u00eda dicho a la gente que todos deb\u00edan pasar la noche dentro de Jerusal\u00e9n para protegerse, y trabajar solamente durante el d\u00eda."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Por eso, ni mis parientes ni mis ayudantes, ni los hombres de la guardia que me acompa\u00f1aban, nos quit\u00e1bamos la ropa para dormir. Cada uno manten\u00eda el arma en la mano."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Problemas entre el pueblo - Tiempo despu\u00e9s, varios hombres y mujeres protestaron contra sus compatriotas jud\u00edos."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Algunos que ten\u00edan muchos hijos dec\u00edan que les faltaba trigo para darles de comer."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Otros dec\u00edan que, para obtener un pr\u00e9stamo y as\u00ed poder comprar trigo, hab\u00edan tenido que hipotecar sus campos, casas y vi\u00f1edos."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tambi\u00e9n estaban los que dec\u00edan que, para pagar los impuestos sobre sus campos y vi\u00f1edos hab\u00edan tenido que pedir dinero prestado."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Adem\u00e1s, dec\u00edan: \u00abSomos de la misma raza que nuestros compatriotas, y nuestros hijos tienen los mismos derechos que los de ellos. Sin embargo, tendremos que vender a nuestros hijos como esclavos. La verdad es que algunas de nuestras hijas ya lo son, y no podemos hacer nada para evitarlo, porque nuestros campos y vi\u00f1edos ya pertenecen a otros\u00bb."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cuando escuch\u00e9 sus quejas, me enoj\u00e9 mucho."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Y despu\u00e9s de pensarlo bien, reprend\u00ed a los jefes y a los gobernantes por tratar mal a sus propios compatriotas, y les mand\u00e9 que se reunieran para hablar del asunto."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Entonces les dije: \u00abNosotros hemos estado haciendo todo lo posible por rescatar a nuestros compatriotas que fueron vendidos como esclavos a otras naciones. Ahora ustedes los est\u00e1n obligando a venderse de nuevo, y despu\u00e9s nosotros tendremos que volver a rescatarlos\u00bb. Ellos no supieron qu\u00e9 responder, as\u00ed que se quedaron en silencio."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Entonces yo les dije: \u2014Lo que ustedes est\u00e1n haciendo no est\u00e1 bien. Para evitar las burlas de nuestros enemigos ustedes tienen que demostrar que respetan a Dios."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Adem\u00e1s, sepan que mis parientes, mis ayudantes y yo, hemos prestado dinero y trigo a estos compatriotas nuestros. Pero ahora vamos a decirles que no nos deben nada."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ustedes deben devolverles hoy mismo sus campos, sus vi\u00f1edos, sus olivares y sus casas. No los obliguen a pagar lo que deben, ya sea dinero, trigo, vino o aceite, ni los obliguen a pagar intereses."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ellos respondieron: \u2014Haremos lo que nos dices. Les devolveremos sus propiedades y no los obligaremos a pagar nada. Entonces llam\u00e9 a los sacerdotes para que delante de ellos prometieran cumplir lo que hab\u00edan dicho."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Adem\u00e1s, me sacud\u00ed la ropa y dije: \u2014As\u00ed sacuda Dios a todos los que no cumplan con esta promesa. Que Dios les quite sus casas, sus terrenos y todo lo que posean. Todos los que estaban reunidos all\u00ed dijeron: \u00ab\u00a1Que as\u00ed sea!\u00bb, y alabaron a Dios. Y todos cumplieron lo que hab\u00edan prometido."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Generosidad de Nehem\u00edas - Durante doce a\u00f1os mis familiares y yo no aceptamos la comida del rey, que me correspond\u00eda como gobernador de Jud\u00e1. Fui nombrado gobernador en el a\u00f1o veinte del reinado de Artajerjes, y estuve en ese cargo hasta el a\u00f1o treinta y dos."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Los que hab\u00edan gobernado antes que yo fueron malos con el pueblo, porque cobraban cuarenta monedas de plata al d\u00eda por comida y vino. Tambi\u00e9n sus ayudantes hab\u00edan sido malos, pero yo no hice eso porque amo y respeto a Dios."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Me dediqu\u00e9 a reconstruir el muro de la ciudad y no compr\u00e9 ninguna propiedad. Todos mis ayudantes colaboraron en la reconstrucci\u00f3n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Adem\u00e1s, yo les daba de comer a ciento cincuenta jud\u00edos, incluidos sus jefes, sin contar a todos los de otras naciones vecinas que tambi\u00e9n ven\u00edan a mi mesa."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Todos los d\u00edas se preparaba por mi cuenta un buey, seis de las mejores ovejas, y tambi\u00e9n aves; cada diez d\u00edas se serv\u00eda abundante vino. Sin embargo, no cobraba lo que me correspond\u00eda como gobernador, porque la gente ya sufr\u00eda bastante."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Luego or\u00e9 y le dije a Dios: \u00abTe ruego que te acuerdes de todo lo que he hecho por esta gente\u00bb."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Plan contra Nehem\u00edas - Sambalat, Tob\u00edas, Gu\u00e9sem el \u00e1rabe, y nuestros otros enemigos se enteraron de que hab\u00edamos terminado de reparar el muro, y que ya no quedaban secciones ca\u00eddas, aunque todav\u00eda no hab\u00edamos colocado los portones en su lugar."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Entonces Sambalat y Gu\u00e9sem me enviaron un mensaje pidi\u00e9ndome que me reuniera con ellos en uno de los pueblitos del valle de On\u00f3. Eso era una trampa para hacerme da\u00f1o."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Entonces yo les mand\u00e9 a decir que estaba muy ocupado con una tarea importante, y que no pod\u00eda reunirme con ellos porque el trabajo se detendr\u00eda."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Cuatro veces me enviaron el mismo mensaje, pero yo les respond\u00ed lo mismo."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "La quinta vez Sambalat envi\u00f3 a uno de sus ayudantes con una carta abierta."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Dec\u00eda as\u00ed: \u00abLa gente anda diciendo, y Gu\u00e9sem tambi\u00e9n me lo dijo, que ustedes y los jud\u00edos han reconstruido el muro porque est\u00e1n planeando ponerse en contra del rey Artajerjes. Se dice tambi\u00e9n que t\u00fa quieres ser el rey de Jud\u00e1,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "y que has ordenado a algunos profetas que anuncien en Jerusal\u00e9n que ya eres el rey. Sin duda, Artajerjes se va a enterar de esto. Ser\u00e1 mejor que nos reunamos contigo para planear qu\u00e9 haremos\u00bb."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Entonces yo le envi\u00e9 esta respuesta: \u00abNada de lo que dices es verdad. Es un invento tuyo\u00bb."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Y es que ellos quer\u00edan asustarnos, pensando que as\u00ed dejar\u00edamos de trabajar, pero yo le ped\u00ed a Dios que me ayudara a seguir trabajando con m\u00e1s fuerza a\u00fan."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Despu\u00e9s me fui a ver a Sema\u00edas hijo de Dela\u00edas, y nieto de Mehetabel, que se hab\u00eda encerrado en su casa, y \u00e9l me dijo: \u2014Vamos al templo de Dios. All\u00ed nos refugiaremos y cerraremos bien las puertas, porque esta noche han planeado matarte."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Pero yo le respond\u00ed: \u2014No pienses que soy un cobarde. \u00bfCrees que me refugiar\u00eda en el templo de Dios para salvar mi vida? \u00a1No! No lo har\u00e9."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Me di cuenta de que Sema\u00edas dec\u00eda eso porque Sambalat y Tob\u00edas le hab\u00edan pagado para hacerlo, y que no hablaba de parte de Dios."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Quer\u00edan asustarme para hacerme pecar, y as\u00ed acusarme de ser una mala persona."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Entonces or\u00e9 a Dios: \u00ab\u00a1Dios m\u00edo, no olvides lo que han hecho Tob\u00edas y Sambalat! \u00a1Ni te olvides de la profetisa Noad\u00edas ni de los otros profetas que quisieron asustarme!\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "La reconstrucci\u00f3n del muro qued\u00f3 terminada el d\u00eda veinticinco del mes de Elul. El trabajo dur\u00f3 cincuenta y dos d\u00edas."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Cuando nuestros enemigos se enteraron de esto, los pa\u00edses vecinos tuvieron miedo y se sintieron avergonzados, porque comprendieron que esta obra se hab\u00eda realizado con la ayuda de nuestro Dios."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Durante todo ese tiempo, los jefes de Jud\u00e1 hab\u00edan mantenido comunicaci\u00f3n con Tob\u00edas,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "porque muchos de ellos se hab\u00edan comprometido a ayudarlo. Hab\u00edan hecho esto porque Tob\u00edas era yerno de Secan\u00edas hijo de \u00c1rah, y porque su hijo Johan\u00e1n se hab\u00eda casado con la hija de Mesulam hijo de Berequ\u00edas."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Frente a m\u00ed, hablaban de todo lo bueno que Tob\u00edas hab\u00eda hecho, y a \u00e9l le contaban todo lo que yo dec\u00eda. Por su parte, Tob\u00edas me enviaba cartas para tratar de asustarme."
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nehem\u00edas organiza la defensa de la ciudad - Cuando se termin\u00f3 de reparar el muro, se colocaron los portones en su lugar y se eligieron los guardias de las entradas, los cantores y los ayudantes de los sacerdotes."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "A mi hermano Hanan\u00ed lo nombr\u00e9 gobernador de Jerusal\u00e9n; a Hanan\u00edas lo nombr\u00e9 jefe del palacio del rey, porque pod\u00eda confiar en \u00e9l, y adem\u00e1s respetaba a Dios m\u00e1s que otras personas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Les dije que no deb\u00edan abrirse los portones de la ciudad antes de la salida del sol, y que deb\u00edan cerrarse al atardecer, antes de que los guardias se retiraran. Adem\u00e1s, les orden\u00e9 que nombraran guardias de entre los que viv\u00edan en Jerusal\u00e9n, algunos para los puestos de vigilancia y otros para vigilar sus casas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Los que volvieron de Babilonia - La ciudad de Jerusal\u00e9n era grande y extensa, pero hab\u00eda poca gente en ella porque no se hab\u00edan reconstruido las casas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Entonces Dios me dio la idea de reunir a todos, incluyendo los jefes y asistentes, para hacer una lista de las familias. Yo encontr\u00e9 el libro donde estaban anotados los que hab\u00edan llegado antes, y en ese libro estaba escrito lo siguiente:"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u00ab\u00c9sta es la lista de las personas de la provincia de Jud\u00e1 que volvieron de Babilonia. Fueron llevados prisioneros por el rey Nabucodonosor de Babilonia, pero volvieron a Jerusal\u00e9n y a otros lugares de Jud\u00e1. Cada uno volvi\u00f3 a su pueblo o ciudad."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Los l\u00edderes que los ayudaron fueron: Zorobabel, Josu\u00e9, Nehem\u00edas, Azar\u00edas, Raam\u00edas, Nahaman\u00ed, Mardoqueo, Bils\u00e1n, Misp\u00e9ret, Bigvai, Neh\u00fam, Baan\u00e1."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u00bbDe los descendientes de Par\u00f3s regresaron dos mil ciento setenta y dos personas;"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "de los descendientes de Sefat\u00edas, trescientas setenta y dos;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "de los de \u00c1rah, seiscientos cincuenta y dos;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "de los de Pahat-moab, dos mil ochocientos dieciocho. Todos estos eran descendientes de Josu\u00e9."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u00bbDe los descendientes de Elam regresaron mil doscientos cincuenta y cuatro personas;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "de los descendientes de Zat\u00fa, ochocientos cuarenta y cinco;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "de los de Zacai, setecientos sesenta;"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "de los de Binuy, seiscientos cuarenta y ocho;"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "de los de Bebai, seiscientos veintiocho;"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "de los descendientes de Azgad, dos mil trescientos veintid\u00f3s;"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "de los de Adonicam, seiscientos sesenta y siete;"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "de los de Bigvai, dos mil sesenta y siete;"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "de los de Ad\u00edn, seiscientos cincuenta y cinco;"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "y de los de Ater, noventa y ocho. Todos estos eran descendientes de Ezequ\u00edas."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00bbDe los descendientes de Hasum regresaron trescientas veintiocho personas;"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "de los descendientes de Besai, trescientos veinticuatro;"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "de los de Harif, ciento doce;"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "de los de Gaba\u00f3n, noventa y cinco."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00bbTambi\u00e9n volvieron los que viv\u00edan en las siguientes ciudades y pueblos: De Bel\u00e9n y Netof\u00e1 regresaron ciento dieciocho personas;"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "de Anatot, ciento veintiocho;"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "de Bet-azm\u00e1vet, cuarenta y dos;"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "de Quiriat-jearim, Quefir\u00e1 y Beerot, setecientos cuarenta y tres;"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "de Ram\u00e1 y de Gueba, seiscientos veintiuno;"
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "de Micm\u00e1s, ciento veintid\u00f3s;"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "de Betel y de Ai, ciento veintitr\u00e9s;"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "de Nebo, cincuenta y dos personas;"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "de Elam, mil doscientos cincuenta y cuatro;"
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "de Harim, trescientos veinte;"
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "de Jeric\u00f3, trescientos cuarenta y cinco;"
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "de Lod, Hadid y On\u00f3, setecientos veintiuno;"
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "de Sena\u00e1, tres mil novecientos treinta."
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "\u00bbDe los sacerdotes regresaron los siguientes: De los descendientes de Jeda\u00edas, que eran familia de Josu\u00e9, regresaron novecientos setenta y tres sacerdotes;"
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "de los descendientes de Imer, mil cincuenta y dos;"
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "de los de Pashur, mil doscientos cuarenta y siete;"
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "de los de Harim, mil diecisiete."
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "\u00bbDe los ayudantes de los sacerdotes regresaron setenta y cuatro de los descendientes de Josu\u00e9 y de Cadmiel, que eran de la familia de Hodav\u00edas."
+                },
+                "44": {
+                    "verse_nr": "44",
+                    "verse": "\u00bbDe los cantores regresaron ciento cuarenta y ocho, que eran descendientes de Asaf."
+                },
+                "45": {
+                    "verse_nr": "45",
+                    "verse": "\u00bbDe los vigilantes de las entradas, que eran descendientes de Salum, de Ater, de Talm\u00f3n, de Acub, de Hatit\u00e1 y de Sobai, regresaron ciento treinta y ocho."
+                },
+                "46": {
+                    "verse_nr": "46",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "47": {
+                    "verse_nr": "47",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "48": {
+                    "verse_nr": "48",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "49": {
+                    "verse_nr": "49",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "50": {
+                    "verse_nr": "50",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "51": {
+                    "verse_nr": "51",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "52": {
+                    "verse_nr": "52",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "53": {
+                    "verse_nr": "53",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "54": {
+                    "verse_nr": "54",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "55": {
+                    "verse_nr": "55",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "56": {
+                    "verse_nr": "56",
+                    "verse": "\u00bbDe los que trabajaban en el templo regresaron todos aquellos que eran descendientes de: Sih\u00e1, Hasuf\u00e1, Tabaot, Queros, Siah\u00e1, Pad\u00f3n, Leban\u00e1, Hagab\u00e1, Salmai, Han\u00e1n, Guidel, G\u00e1har, Rea\u00edas, Res\u00edn, Necod\u00e1, Gazam, Uz\u00e1, Pas\u00e9ah, Besai, Meunim, Nefusim, Bacbuc, Hacuf\u00e1, Harhur, Baslut, Mehid\u00e1, Hars\u00e1, Barc\u00f3s, S\u00edsara, Tem\u00e1, Nes\u00edah, Hatif\u00e1."
+                },
+                "57": {
+                    "verse_nr": "57",
+                    "verse": "\u00bbDe los parientes de los ayudantes de Salom\u00f3n regresaron todos aquellos que eran descendientes de Sotai, Sof\u00e9ret, Perud\u00e1, Jaal\u00e1, Darc\u00f3n, Guidel, Sefat\u00edas, Hatil, Poqu\u00e9ret-haseba\u00edm y Am\u00f3n."
+                },
+                "58": {
+                    "verse_nr": "58",
+                    "verse": "\u00bbDe los parientes de los ayudantes de Salom\u00f3n regresaron todos aquellos que eran descendientes de Sotai, Sof\u00e9ret, Perud\u00e1, Jaal\u00e1, Darc\u00f3n, Guidel, Sefat\u00edas, Hatil, Poqu\u00e9ret-haseba\u00edm y Am\u00f3n."
+                },
+                "59": {
+                    "verse_nr": "59",
+                    "verse": "\u00bbDe los parientes de los ayudantes de Salom\u00f3n regresaron todos aquellos que eran descendientes de Sotai, Sof\u00e9ret, Perud\u00e1, Jaal\u00e1, Darc\u00f3n, Guidel, Sefat\u00edas, Hatil, Poqu\u00e9ret-haseba\u00edm y Am\u00f3n."
+                },
+                "60": {
+                    "verse_nr": "60",
+                    "verse": "\u00bbLos que trabajaban en el templo y los descendientes de los ayudantes de Salom\u00f3n eran en total trescientos noventa y dos."
+                },
+                "61": {
+                    "verse_nr": "61",
+                    "verse": "\u00bbAlgunos que llegaron de Tel-m\u00e9lah, Tel-hars\u00e1, Querub, Imer y Ad\u00f3n no pudieron comprobar que eran israelitas; tampoco pudieron demostrar que sus padres fueran israelitas ni que estuvieran casados con alguna israelita."
+                },
+                "62": {
+                    "verse_nr": "62",
+                    "verse": "Esta gente era descendiente de Dela\u00edas, de Tob\u00edas y de Necod\u00e1, y en total eran seiscientos cuarenta y dos."
+                },
+                "63": {
+                    "verse_nr": "63",
+                    "verse": "\u00bbDe los parientes de los sacerdotes que no pudieron demostrar que en verdad eran sacerdotes, estaban los descendientes de Hoba\u00edas, Cos y Barzilai. Este Barzilai hab\u00eda tomado el apellido de su suegro. Se hab\u00eda casado con la hija de un hombre llamado tambi\u00e9n Barzilai y que era de Galaad."
+                },
+                "64": {
+                    "verse_nr": "64",
+                    "verse": "Todos estos buscaron sus nombres en la lista, pero no los encontraron, as\u00ed que no se les permiti\u00f3 trabajar como sacerdotes."
+                },
+                "65": {
+                    "verse_nr": "65",
+                    "verse": "Adem\u00e1s, el gobernador les prohibi\u00f3 comer de los alimentos ofrecidos a Dios, hasta que un sacerdote pudiera consultar a Dios por medio del Urim y el Tumim, para saber qu\u00e9 hacer."
+                },
+                "66": {
+                    "verse_nr": "66",
+                    "verse": "\u00bbEn total regresaron de Babilonia cuarenta y dos mil trescientas sesenta personas."
+                },
+                "67": {
+                    "verse_nr": "67",
+                    "verse": "Con esa gente vinieron siete mil trescientos treinta y siete sirvientes y sirvientas, adem\u00e1s de doscientos cuarenta y cinco cantantes."
+                },
+                "68": {
+                    "verse_nr": "68",
+                    "verse": "Tra\u00edan setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas,"
+                },
+                "69": {
+                    "verse_nr": "69",
+                    "verse": "cuatrocientos treinta y cinco camellos y seis mil setecientos veinte burros."
+                },
+                "70": {
+                    "verse_nr": "70",
+                    "verse": "\u00bbAlgunos jefes de familia hicieron donaciones para el trabajo de reconstrucci\u00f3n. El gobernador entreg\u00f3 a la tesorer\u00eda ocho kilos de oro, cincuenta tazones y quinientas treinta t\u00fanicas para los sacerdotes."
+                },
+                "71": {
+                    "verse_nr": "71",
+                    "verse": "Los jefes de familia entregaron a la tesorer\u00eda ciento sesenta kilos de oro y mil doscientos diez kilos de plata."
+                },
+                "72": {
+                    "verse_nr": "72",
+                    "verse": "Todos los dem\u00e1s dieron en total ciento sesenta kilos de oro, mil cien kilos de plata y sesenta y siete t\u00fanicas para los sacerdotes."
+                },
+                "73": {
+                    "verse_nr": "73",
+                    "verse": "\u00bbTodos los israelitas, incluidos los sacerdotes, sus ayudantes, los guardias de las entradas, los cantores y los servidores del templo de Dios, se quedaron a vivir en sus pueblos\u00bb. Esdras lee el libro de la Ley frente a todo el pueblo - Cuando lleg\u00f3 el mes de Etanim, los israelitas ya estaban viviendo en sus pueblos."
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "El primer d\u00eda del mes de Etanim todo el pueblo se reuni\u00f3 en la plaza, frente a la entrada llamada del Agua. All\u00ed estaban los hombres, las mujeres y todos los ni\u00f1os mayores de doce a\u00f1os. Entonces le pidieron a Esdras, el maestro y sacerdote, que trajera el libro de la Ley, la cual Dios hab\u00eda dado a los israelitas por medio de Mois\u00e9s. As\u00ed que Esdras fue y trajo el libro, y lo ley\u00f3 desde muy temprano hasta el mediod\u00eda. Todos los que estaban all\u00ed escucharon con mucha atenci\u00f3n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "El primer d\u00eda del mes de Etanim todo el pueblo se reuni\u00f3 en la plaza, frente a la entrada llamada del Agua. All\u00ed estaban los hombres, las mujeres y todos los ni\u00f1os mayores de doce a\u00f1os. Entonces le pidieron a Esdras, el maestro y sacerdote, que trajera el libro de la Ley, la cual Dios hab\u00eda dado a los israelitas por medio de Mois\u00e9s. As\u00ed que Esdras fue y trajo el libro, y lo ley\u00f3 desde muy temprano hasta el mediod\u00eda. Todos los que estaban all\u00ed escucharon con mucha atenci\u00f3n."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "El primer d\u00eda del mes de Etanim todo el pueblo se reuni\u00f3 en la plaza, frente a la entrada llamada del Agua. All\u00ed estaban los hombres, las mujeres y todos los ni\u00f1os mayores de doce a\u00f1os. Entonces le pidieron a Esdras, el maestro y sacerdote, que trajera el libro de la Ley, la cual Dios hab\u00eda dado a los israelitas por medio de Mois\u00e9s. As\u00ed que Esdras fue y trajo el libro, y lo ley\u00f3 desde muy temprano hasta el mediod\u00eda. Todos los que estaban all\u00ed escucharon con mucha atenci\u00f3n."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Esdras estaba de pie sobre una plataforma de madera que se hab\u00eda construido para esa ocasi\u00f3n, de manera que todos pod\u00edan verlo. A su derecha, tambi\u00e9n de pie, estaban Matat\u00edas, Sema, An\u00edas, Ur\u00edas, Hilqu\u00edas y Maase\u00edas. A su izquierda estaban Peda\u00edas, Misael, Malqu\u00edas, Hasum, Hasbadana, Zacar\u00edas y Mesulam. Cuando abri\u00f3 el libro, todos se pusieron de pie."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Esdras estaba de pie sobre una plataforma de madera que se hab\u00eda construido para esa ocasi\u00f3n, de manera que todos pod\u00edan verlo. A su derecha, tambi\u00e9n de pie, estaban Matat\u00edas, Sema, An\u00edas, Ur\u00edas, Hilqu\u00edas y Maase\u00edas. A su izquierda estaban Peda\u00edas, Misael, Malqu\u00edas, Hasum, Hasbadana, Zacar\u00edas y Mesulam. Cuando abri\u00f3 el libro, todos se pusieron de pie."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Entonces Esdras alab\u00f3 al Dios todopoderoso, y todos, con los brazos en alto, dijeron: \u00ab\u00a1S\u00ed, s\u00ed, alabado sea Dios!\u00bb Luego se inclinaron hasta tocar el suelo con la frente y adoraron a Dios."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Despu\u00e9s de esto, los siguientes ayudantes de los sacerdotes ayudaron al pueblo a entender la ley de Dios: Josu\u00e9, Ban\u00ed, Sereb\u00edas, Jam\u00edn, Acub, Sabtai, Od\u00edas, Maase\u00edas, Quelit\u00e1, Azar\u00edas, Jozabad, Han\u00e1n, Pela\u00edas. Ellos le\u00edan y traduc\u00edan con claridad el libro para que el pueblo pudiera entender."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Despu\u00e9s de esto, los siguientes ayudantes de los sacerdotes ayudaron al pueblo a entender la ley de Dios: Josu\u00e9, Ban\u00ed, Sereb\u00edas, Jam\u00edn, Acub, Sabtai, Od\u00edas, Maase\u00edas, Quelit\u00e1, Azar\u00edas, Jozabad, Han\u00e1n, Pela\u00edas. Ellos le\u00edan y traduc\u00edan con claridad el libro para que el pueblo pudiera entender."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Y al o\u00edr lo que el libro dec\u00eda, todos comenzaron a llorar. Entonces el gobernador Nehem\u00edas, el sacerdote Esdras y los ayudantes le dijeron a la gente: \u00ab\u00a1No se pongan tristes! No lloren, porque este d\u00eda est\u00e1 dedicado a nuestro Dios\u00bb."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Esdras tambi\u00e9n les dijo: \u00ab\u00a1Hagan fiesta! Coman de lo mejor, beban vino dulce; inviten a los que no tengan nada preparado. Hoy es un d\u00eda dedicado a nuestro Dios, as\u00ed que no se pongan tristes. \u00a1Al\u00e9grense, que Dios les dar\u00e1 fuerzas!\u00bb"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Los ayudantes de los sacerdotes tambi\u00e9n calmaban al pueblo y le dec\u00edan: \u00abC\u00e1llense. No lloren, porque \u00e9ste es un d\u00eda dedicado a Dios. No hay motivo para estar tristes\u00bb."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "As\u00ed que todos se fueron y organizaron una gran fiesta para celebrar que hab\u00edan entendido la lectura del libro de la Ley. Todos fueron invitados a la fiesta, y comieron y bebieron con alegr\u00eda."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Al segundo d\u00eda, los jefes de todos los grupos familiares, los sacerdotes y sus ayudantes se reunieron con Esdras para estudiar el libro de la Ley."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Se dieron cuenta entonces de que Dios hab\u00eda ordenado por medio de Mois\u00e9s que todos ellos deb\u00edan vivir en enramadas durante la fiesta religiosa del mes de Etanim."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Tambi\u00e9n se dieron cuenta de que deb\u00edan dar a conocer en Jerusal\u00e9n, y en todos los pueblos vecinos, la siguiente orden: \u00abVayan a los cerros a buscar ramas de olivo, de array\u00e1n, de palmeras o de cualquier otro \u00e1rbol lleno de hojas, para que hagan las enramadas que ordena la Ley\u00bb."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "As\u00ed que la gente sali\u00f3 a buscar ramas, y cada uno construy\u00f3 con ellas su propia enramada. Unos la hicieron en el piso alto de la casa, otros la hicieron en el patio, y aun otros la hicieron en la plaza del templo de Dios, frente a la entrada del Agua y frente a la entrada de Efra\u00edn."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Todos los que hab\u00edan vuelto de Babilonia hicieron enramadas y se colocaron debajo de ellas. Estaban muy alegres, pues desde la \u00e9poca de Josu\u00e9 hijo de Nun hasta aquel d\u00eda, los israelitas no hab\u00edan celebrado esta fiesta."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "La fiesta dur\u00f3 siete d\u00edas, y en cada uno de ellos Esdras ley\u00f3 el libro de la Ley de Dios. Al octavo d\u00eda celebraron un culto para adorar a Dios siguiendo las instrucciones del libro de la Ley."
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Confesi\u00f3n de pecado - El d\u00eda veinticuatro del mes de Etanim, los israelitas se reunieron para ayunar. Para demostrar que estaban arrepentidos, se pusieron ropas \u00e1speras y se echaron tierra sobre la cabeza."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Despu\u00e9s de apartarse de todos los extranjeros, se pusieron de pie, confesaron sus pecados y reconocieron la maldad de sus antepasados."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Durante tres horas permanecieron en ese mismo lugar, mientras se les le\u00eda el libro de la Ley de Dios. Las tres horas siguientes las dedicaron a confesar sus pecados y a adorar a Dios."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Josu\u00e9, Binuy, Cadmiel, Seban\u00edas, Binui, Sereb\u00edas, Ban\u00ed, Quenan\u00ed, Hasabn\u00edas, Od\u00edas y Petah\u00edas, que eran ayudantes de Nehem\u00edas y estaban en la plataforma, oraron a Dios en voz alta: \u00ab\u00a1Bendito sea nuestro poderoso Dios! \u00a1Alab\u00e9moslo hoy, ma\u00f1ana y siempre! \u00a1Dios nuestro, no son suficientes las palabras para darte la alabanza que mereces!\u00bb"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Josu\u00e9, Binuy, Cadmiel, Seban\u00edas, Binui, Sereb\u00edas, Ban\u00ed, Quenan\u00ed, Hasabn\u00edas, Od\u00edas y Petah\u00edas, que eran ayudantes de Nehem\u00edas y estaban en la plataforma, oraron a Dios en voz alta: \u00ab\u00a1Bendito sea nuestro poderoso Dios! \u00a1Alab\u00e9moslo hoy, ma\u00f1ana y siempre! \u00a1Dios nuestro, no son suficientes las palabras para darte la alabanza que mereces!\u00bb"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Luego el pueblo or\u00f3 as\u00ed: \u00abT\u00fa eres el \u00fanico Dios verdadero. T\u00fa hiciste el cielo y las estrellas, y lo que est\u00e1 m\u00e1s all\u00e1 del cielo. Hiciste la tierra, los mares y todo lo que hay en ellos. T\u00fa das vida a todo lo que existe, y las estrellas del cielo te adoran."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00bbDios nuestro, t\u00fa elegiste a Abram, lo sacaste de Ur, ciudad de los caldeos. Le cambiaste el nombre y lo llamaste Abraham."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pod\u00edas confiar en \u00e9l, y por eso le prometiste hacer de sus descendientes los due\u00f1os de un gran territorio. \u00bbEse territorio lo ocupaban los cananeos y los hititas, los amorreos y los ferezeos, los jebuseos y los gergeseos. \u00a1Y t\u00fa cumpliste la promesa! \u00a1En ti se puede confiar!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u00bbNuestros antepasados sufrieron mucho en Egipto, pero t\u00fa te fijaste en ellos y escuchaste sus quejas a orillas del Mar de los Juncos."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Enviaste terribles castigos al rey de Egipto, a sus ayudantes y a todo su pueblo, porque trataron con crueldad a nuestros antepasados. As\u00ed te ganaste la fama que hasta ahora tienes."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00bbAnte nuestros antepasados dividiste el mar en dos, para que cruzaran por tierra seca. Pero a los egipcios los hundiste en el agua; \u00a1los hiciste caer como piedras hasta el fondo del mar!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "De d\u00eda guiaste a tu pueblo con una columna de nube; de noche lo dirigiste con una columna de fuego. T\u00fa les mostraste el camino que deb\u00edan seguir."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00bbDespu\u00e9s bajaste al monte Sina\u00ed, y hablaste desde el cielo a nuestros antepasados. All\u00ed les diste tus mandamientos por medio de Mois\u00e9s, tu servidor. Y les ordenaste descansar en el d\u00eda s\u00e1bado, para que te adoraran."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00bbDespu\u00e9s bajaste al monte Sina\u00ed, y hablaste desde el cielo a nuestros antepasados. All\u00ed les diste tus mandamientos por medio de Mois\u00e9s, tu servidor. Y les ordenaste descansar en el d\u00eda s\u00e1bado, para que te adoraran."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Les enviaste pan del cielo para calmar su hambre, y sacaste agua de la roca para calmar su sed. Tambi\u00e9n les ordenaste conquistar la tierra que les hab\u00edas prometido."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "\u00bbPero nuestros antepasados fueron orgullosos y tercos; no te obedecieron."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Se olvidaron de los milagros que t\u00fa hiciste en su favor. Fueron desobedientes y nombraron a un jefe para que los llevara a Egipto, de vuelta a la esclavitud. Luego hicieron un toro de metal y dijeron que \u00e9se era su dios, el dios que los sac\u00f3 de Egipto. Pero t\u00fa no los abandonaste, pues eres tierno y compasivo, y siempre est\u00e1s dispuesto a perdonar. No te enojas con facilidad, y es tanto tu amor que en ti se puede confiar."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Se olvidaron de los milagros que t\u00fa hiciste en su favor. Fueron desobedientes y nombraron a un jefe para que los llevara a Egipto, de vuelta a la esclavitud. Luego hicieron un toro de metal y dijeron que \u00e9se era su dios, el dios que los sac\u00f3 de Egipto. Pero t\u00fa no los abandonaste, pues eres tierno y compasivo, y siempre est\u00e1s dispuesto a perdonar. No te enojas con facilidad, y es tanto tu amor que en ti se puede confiar."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00bbNo dejaste de guiarlos ni de d\u00eda ni de noche; no los abandonaste en el desierto, pues los amabas mucho."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Fuiste bueno con ellos y con tu esp\u00edritu de bondad les ense\u00f1aste a vivir. No dejaste de enviarles el man\u00e1 para comer ni el agua para calmar su sed."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Cuarenta a\u00f1os los alimentaste y nada les falt\u00f3 en el desierto. Tampoco se les gast\u00f3 la ropa ni se les hincharon los pies."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "\u00bbTambi\u00e9n les diste reinos y territorios. Conquistaron Hesb\u00f3n y Bas\u00e1n, que eran gobernados por los reyes Og y Sih\u00f3n."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Les diste tantos hijos como estrellas hay en el cielo. Los trajiste a la tierra prometida para que la conquistaran,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "y ellos entraron y la tomaron. T\u00fa derrotaste a los pueblos y a los reyes de Cana\u00e1n; los pusiste bajo nuestro poder para que hici\u00e9ramos con ellos lo que nos pareciera."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Israel conquist\u00f3 tierras f\u00e9rtiles y poderosas ciudades; tom\u00f3 casas llenas de riqueza, pozos de agua y vi\u00f1edos, olivares y \u00e1rboles frutales. Nuestros antepasados comieron hasta hartarse, engordaron y disfrutaron de tu gran bondad."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00bbPero luego ellos se pusieron en tu contra. \u00a1Te insultaron gravemente! Desobedecieron tu ley, y mataron a tus profetas. Y los profetas s\u00f3lo les dec\u00edan que deb\u00edan arrepentirse y obedecer tu ley."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Por eso los entregaste en poder de sus enemigos, para hacerlos sufrir. \u00bbNuestros antepasados no aguantaron que los hicieras sufrir tanto, y te pidieron ayuda. Tan grande es tu amor por ellos que desde el cielo los escuchaste, y les enviaste libertadores."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Pero en cuanto ten\u00edan paz volv\u00edan a desobedecerte. Entonces, una vez m\u00e1s, ca\u00edan en poder de sus enemigos. Pero volv\u00edan a pedirte ayuda, y t\u00fa desde el cielo los escuchabas. Tan grande era tu amor por ellos, que una y otra vez los liberabas."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Les ordenaste obedecer tu ley, la cual da vida a los que la obedecen, pero ellos fueron rebeldes y orgullosos, y no la obedecieron."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Durante muchos a\u00f1os les tuviste paciencia; tu esp\u00edritu y tus profetas les advirtieron del castigo. Pero ellos no quisieron escuchar, as\u00ed que los dejaste caer en manos de sus enemigos."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Sin embargo, los amabas tanto que no los destruiste ni los abandonaste. \u00a1Eres un Dios tierno y compasivo!"
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "\u00bb\u00a1Dios nuestro, qu\u00e9 poderoso eres! \u00a1Todos tiemblan ante ti! Eres un Dios fiel que siempre cumple sus promesas, y nunca deja de amarnos. Mira cu\u00e1nto han sufrido nuestros reyes y jefes, nuestros sacerdotes y profetas, y tambi\u00e9n nuestros antepasados. Desde el momento en que ca\u00edmos bajo el poder de los reyes de Asiria hasta el d\u00eda de hoy, tu pueblo no ha dejado de sufrir."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Pero el castigo ha sido justo, pues t\u00fa fuiste fiel y nosotros pecamos contra ti."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Nuestros reyes y jefes, nuestros sacerdotes y antepasados, no obedecieron tu ley ni hicieron caso de tus advertencias."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Ten\u00edan un reino y riquezas, y el territorio f\u00e9rtil que les diste, pero ni aun as\u00ed te adoraron ni dejaron su maldad."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "\u00bbDios m\u00edo, mira c\u00f3mo estamos. Ahora somos esclavos en el pa\u00eds que les diste a nuestros antepasados para que lo disfrutaran."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Los reyes que ahora nos dominan, son el castigo por nuestros pecados, y son ellos quienes disfrutan de lo mejor de nuestra tierra. Son nuestros due\u00f1os, y hacen lo que quieren con todo nuestro ganado. \u00a1Todo esto nos tiene muy tristes!\u00bb"
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Los israelitas se comprometen - Por todo esto que nos ha pasado, nosotros los israelitas nos comprometemos firmemente a obedecer a nuestro Dios. Este compromiso lo ponemos por escrito, sellado y firmado por nuestros jefes, los sacerdotes y sus ayudantes."
+                }
+            }
+        },
+        "10": {
+            "chapter_nr": "10",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Yo mismo, Nehem\u00edas, firm\u00e9 el documento de compromiso, pues era el gobernador, y tambi\u00e9n lo firm\u00f3 Sedequ\u00edas. La siguiente es la lista de todos los que firmaron el documento: De los sacerdotes firmaron:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sera\u00edas, Azar\u00edas, Jerem\u00edas,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Pashur, Amar\u00edas, Malqu\u00edas,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Hat\u00fas, Seban\u00edas, Maluc,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Harim, Meremot, Abd\u00edas,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Daniel, Guinet\u00f3n, Baruc,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mesulam, Ab\u00edas, Mijam\u00edn,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Maaz\u00edas, Bilgai, Sema\u00edas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Josu\u00e9 hijo de Azan\u00edas firm\u00f3, junto con quince hermanos descendientes de Henadad y Cadmiel: Binuy, Seban\u00edas, Od\u00edas, Quelit\u00e1, Pela\u00edas, Han\u00e1n, Mica\u00edas, Rehob, Hasab\u00edas, Zacur, Sereb\u00edas, Seban\u00edas, Hod\u00edas, Ban\u00ed, Beninu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Josu\u00e9 hijo de Azan\u00edas firm\u00f3, junto con quince hermanos descendientes de Henadad y Cadmiel: Binuy, Seban\u00edas, Od\u00edas, Quelit\u00e1, Pela\u00edas, Han\u00e1n, Mica\u00edas, Rehob, Hasab\u00edas, Zacur, Sereb\u00edas, Seban\u00edas, Hod\u00edas, Ban\u00ed, Beninu."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Josu\u00e9 hijo de Azan\u00edas firm\u00f3, junto con quince hermanos descendientes de Henadad y Cadmiel: Binuy, Seban\u00edas, Od\u00edas, Quelit\u00e1, Pela\u00edas, Han\u00e1n, Mica\u00edas, Rehob, Hasab\u00edas, Zacur, Sereb\u00edas, Seban\u00edas, Hod\u00edas, Ban\u00ed, Beninu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Josu\u00e9 hijo de Azan\u00edas firm\u00f3, junto con quince hermanos descendientes de Henadad y Cadmiel: Binuy, Seban\u00edas, Od\u00edas, Quelit\u00e1, Pela\u00edas, Han\u00e1n, Mica\u00edas, Rehob, Hasab\u00edas, Zacur, Sereb\u00edas, Seban\u00edas, Hod\u00edas, Ban\u00ed, Beninu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Josu\u00e9 hijo de Azan\u00edas firm\u00f3, junto con quince hermanos descendientes de Henadad y Cadmiel: Binuy, Seban\u00edas, Od\u00edas, Quelit\u00e1, Pela\u00edas, Han\u00e1n, Mica\u00edas, Rehob, Hasab\u00edas, Zacur, Sereb\u00edas, Seban\u00edas, Hod\u00edas, Ban\u00ed, Beninu."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "De los jefes del pueblo firmaron: Par\u00f3s, Pahat-moab, Elam, Zat\u00fa, Ban\u00ed,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Binuy, Azgad, Bebai,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Adon\u00edas, Bigvai, Ad\u00edn,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Ater, Ezequ\u00edas, Azur,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Od\u00edas, Hasum, Besai,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Harif, Anatot, Nebai,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Magp\u00edas, Mesulam, Hezir,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Mesezabel, Sadoc, Jad\u00faa,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Pelat\u00edas, Han\u00e1n, Ana\u00edas,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Oseas, Hanan\u00edas, Hasub,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Haloh\u00e9s, Pilh\u00e1, Sobec,"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Reh\u00fam, Hasabn\u00e1, Maase\u00edas,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Ah\u00edas, Han\u00e1n, An\u00e1n,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Maluc, Harim, Baan\u00e1."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Compromiso del pueblo - Todos los dem\u00e1s ciudadanos, incluidos los sacerdotes, los ayudantes, los vigilantes de las entradas, los cantores y los servidores del templo prometieron obedecer todos los mandamientos de Dios. Todos estos se hab\u00edan apartado de los extranjeros que viv\u00edan en esa regi\u00f3n, para obedecer lo que est\u00e1 escrito en el libro de la Ley de Mois\u00e9s. Lo mismo hicieron sus parientes y jefes, junto con sus esposas y sus hijos mayores de doce a\u00f1os."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Compromiso del pueblo - Todos los dem\u00e1s ciudadanos, incluidos los sacerdotes, los ayudantes, los vigilantes de las entradas, los cantores y los servidores del templo prometieron obedecer todos los mandamientos de Dios. Todos estos se hab\u00edan apartado de los extranjeros que viv\u00edan en esa regi\u00f3n, para obedecer lo que est\u00e1 escrito en el libro de la Ley de Mois\u00e9s. Lo mismo hicieron sus parientes y jefes, junto con sus esposas y sus hijos mayores de doce a\u00f1os."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "Todos nosotros nos comprometimos a cumplir con lo siguiente: \u00abNinguno de nuestros hijos o hijas se casar\u00e1 con gente de otro pa\u00eds. \u00bbSi un extranjero viene a vendernos trigo u otros productos en d\u00eda s\u00e1bado o en cualquier otro d\u00eda festivo, no le compraremos nada. \u00bbCada siete a\u00f1os dejaremos de trabajar la tierra y perdonaremos lo que se nos deba. \u00bbCada a\u00f1o daremos una contribuci\u00f3n de cuatro gramos de plata para los gastos del templo de nuestro Dios. Eso servir\u00e1 para comprar el pan dedicado a Dios, el cereal y los animales para la ofrenda diaria, las ofrendas de los s\u00e1bados y de luna nueva, y de todas las otras fiestas religiosas. Tambi\u00e9n servir\u00e1 para comprar las ofrendas por el perd\u00f3n de nuestros pecados, y para las ofrendas en general. \u00bbCada a\u00f1o los sacerdotes y sus ayudantes, junto con todo el pueblo, echar\u00e1n suertes para saber a qu\u00e9 grupo familiar le toca traer la le\u00f1a que debe ser ofrecida y quemada sobre el altar de nuestro Dios, seg\u00fan lo que est\u00e1 escrito en el libro de la Ley. \u00bbCada a\u00f1o traeremos al templo de Dios las primeras cosechas de lo que produzcan nuestras tierras, y los primeros frutos de nuestros \u00e1rboles. \u00bbPresentaremos nuestros primeros hijos ante los sacerdotes del templo, para dedicarlos a Dios. Adem\u00e1s llevaremos el primer ternero de cada vaca y el primer cordero de cada oveja. \u00bbLlevaremos a los sacerdotes la masa hecha con el primer trigo de nuestras cosechas, los primeros frutos de nuestros \u00e1rboles, el primer vino, y el primer aceite. Ellos lo guardar\u00e1n en los almacenes del templo de nuestro Dios. \u00bbEntregaremos a los ayudantes de los sacerdotes la d\u00e9cima parte de lo que produzcan nuestras tierras, porque a ellos les toca recoger esas contribuciones en nuestras poblaciones. \u00bbUn sacerdote descendiente de Aar\u00f3n acompa\u00f1ar\u00e1 a los ayudantes cuando vayan a recoger los diezmos, y luego ellos llevar\u00e1n una d\u00e9cima parte de esa contribuci\u00f3n a los almacenes del templo de nuestro Dios. Todos nosotros llevaremos las contribuciones de trigo, vino y aceite a los almacenes donde se guardan los utensilios del templo, y de los sacerdotes, ayudantes, vigilantes de las entradas y cantores. \u00bbNunca descuidaremos el templo de nuestro Dios\u00bb."
+                }
+            }
+        },
+        "11": {
+            "chapter_nr": "11",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Otros informes - Los que volvieron a Jerusal\u00e9n Los jefes del pa\u00eds se quedaron a vivir en Jerusal\u00e9n, que es la ciudad de Dios, y el resto del pueblo hizo un sorteo para elegir qui\u00e9nes ir\u00edan a vivir all\u00e1 tambi\u00e9n. De cada diez familias una deber\u00eda ir, y las otras nueve se quedar\u00edan en las dem\u00e1s poblaciones."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Algunos se ofrecieron voluntariamente para ir, y el pueblo le pidi\u00f3 a Dios que los ayudara en todo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Los sacerdotes, los ayudantes de los sacerdotes, los servidores del templo de Dios, los descendientes de los sirvientes de Salom\u00f3n, y todos los dem\u00e1s israelitas, se quedaron a vivir en sus respectivas propiedades en la provincia de Jud\u00e1. \u00c9sta es la lista de los l\u00edderes del pueblo que vivieron en Jerusal\u00e9n:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "De la tribu de Jud\u00e1 se quedaron a vivir Ata\u00edas y su familia. \u00c9stos fueron sus antepasados: Oz\u00edas, Zacar\u00edas, Amar\u00edas, Sefat\u00edas, Mahalalel y Fares. De los descendientes de Fares se quedaron a vivir en Jerusal\u00e9n cuatrocientos sesenta y ocho hombres valientes para la guerra. Tambi\u00e9n se qued\u00f3 a vivir en Jerusal\u00e9n Maase\u00edas. \u00c9stos fueron sus antepasados: Baruc, Colhoz\u00e9, Haza\u00edas, Ad\u00edas, Joiarib, Zacar\u00edas y Silon\u00ed."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "De la tribu de Jud\u00e1 se quedaron a vivir Ata\u00edas y su familia. \u00c9stos fueron sus antepasados: Oz\u00edas, Zacar\u00edas, Amar\u00edas, Sefat\u00edas, Mahalalel y Fares. De los descendientes de Fares se quedaron a vivir en Jerusal\u00e9n cuatrocientos sesenta y ocho hombres valientes para la guerra. Tambi\u00e9n se qued\u00f3 a vivir en Jerusal\u00e9n Maase\u00edas. \u00c9stos fueron sus antepasados: Baruc, Colhoz\u00e9, Haza\u00edas, Ad\u00edas, Joiarib, Zacar\u00edas y Silon\u00ed."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "De la tribu de Jud\u00e1 se quedaron a vivir Ata\u00edas y su familia. \u00c9stos fueron sus antepasados: Oz\u00edas, Zacar\u00edas, Amar\u00edas, Sefat\u00edas, Mahalalel y Fares. De los descendientes de Fares se quedaron a vivir en Jerusal\u00e9n cuatrocientos sesenta y ocho hombres valientes para la guerra. Tambi\u00e9n se qued\u00f3 a vivir en Jerusal\u00e9n Maase\u00edas. \u00c9stos fueron sus antepasados: Baruc, Colhoz\u00e9, Haza\u00edas, Ad\u00edas, Joiarib, Zacar\u00edas y Silon\u00ed."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "De la tribu de Benjam\u00edn se qued\u00f3 a vivir Sal\u00fa. \u00c9stos son sus antepasados: Mesulam, Joed, Peda\u00edas, Cola\u00edas, Maase\u00edas, Itiel, Isa\u00edas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Tambi\u00e9n se quedaron Gabai y Salai, que eran familia de Sal\u00fa. En total, de la tribu de Benjam\u00edn se quedaron en Jerusal\u00e9n novecientas veintiocho personas."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "El jefe de ellos era Joel hijo de Zicr\u00ed, y el segundo jefe de la ciudad era Jud\u00e1 hijo de Senu\u00e1."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "De los sacerdotes se quedaron en Jerusal\u00e9n Jeda\u00edas, Jaqu\u00edn"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "y Sera\u00edas. Los antepasados de Sera\u00edas fueron: Hilqu\u00edas, Mesulam, Sadoc, Meraiot y Ahitub, jefe principal del templo de Dios."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Con ellos se quedaron ochocientos veintid\u00f3s de sus compa\u00f1eros que trabajaban en el templo. Tambi\u00e9n se qued\u00f3 el sacerdote Ada\u00edas. Sus antepasados eran: Jeroham, Pelal\u00edas, Ams\u00ed, Zacar\u00edas, Pashur y Malqu\u00edas."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Los l\u00edderes de la familia de Ada\u00edas eran doscientos cuarenta y dos en total. Otro sacerdote que se qued\u00f3 fue Amasai; \u00e9stos fueron sus antepasados: Azarel, Ahzai, Mesilemot e Imer."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Con \u00e9l se quedaron ciento veintiocho de sus parientes, que eran guerreros, y su jefe era Zabdiel hijo de Guedolim."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "De los ayudantes de los sacerdotes se quedaron en la ciudad de Jerusal\u00e9n doscientos ochenta y cuatro en total. Entre ellos estaba Sema\u00edas, cuyos antepasados fueron Hasub, Azricam, Hasab\u00edas y Binuy. Abd\u00e1, cuyos antepasados fueron Sam\u00faa, Galal y Jedut\u00fan, tambi\u00e9n se qued\u00f3. Con \u00e9l se quedaron Sabtai y Jozabad, dos de los jefes de los ayudantes de los sacerdotes. Ellos dirig\u00edan el trabajo de la parte exterior del templo. Otro ayudante que se qued\u00f3 fue Matan\u00edas, que era el director del coro y cantaba alabanzas a Dios a la hora de la oraci\u00f3n. Los antepasados de Matan\u00edas fueron Mica\u00edas, Zabd\u00ed y Asaf. Tambi\u00e9n se qued\u00f3 Bacbuqu\u00edas, ayudante de Matan\u00edas."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "De los ayudantes de los sacerdotes se quedaron en la ciudad de Jerusal\u00e9n doscientos ochenta y cuatro en total. Entre ellos estaba Sema\u00edas, cuyos antepasados fueron Hasub, Azricam, Hasab\u00edas y Binuy. Abd\u00e1, cuyos antepasados fueron Sam\u00faa, Galal y Jedut\u00fan, tambi\u00e9n se qued\u00f3. Con \u00e9l se quedaron Sabtai y Jozabad, dos de los jefes de los ayudantes de los sacerdotes. Ellos dirig\u00edan el trabajo de la parte exterior del templo. Otro ayudante que se qued\u00f3 fue Matan\u00edas, que era el director del coro y cantaba alabanzas a Dios a la hora de la oraci\u00f3n. Los antepasados de Matan\u00edas fueron Mica\u00edas, Zabd\u00ed y Asaf. Tambi\u00e9n se qued\u00f3 Bacbuqu\u00edas, ayudante de Matan\u00edas."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "De los ayudantes de los sacerdotes se quedaron en la ciudad de Jerusal\u00e9n doscientos ochenta y cuatro en total. Entre ellos estaba Sema\u00edas, cuyos antepasados fueron Hasub, Azricam, Hasab\u00edas y Binuy. Abd\u00e1, cuyos antepasados fueron Sam\u00faa, Galal y Jedut\u00fan, tambi\u00e9n se qued\u00f3. Con \u00e9l se quedaron Sabtai y Jozabad, dos de los jefes de los ayudantes de los sacerdotes. Ellos dirig\u00edan el trabajo de la parte exterior del templo. Otro ayudante que se qued\u00f3 fue Matan\u00edas, que era el director del coro y cantaba alabanzas a Dios a la hora de la oraci\u00f3n. Los antepasados de Matan\u00edas fueron Mica\u00edas, Zabd\u00ed y Asaf. Tambi\u00e9n se qued\u00f3 Bacbuqu\u00edas, ayudante de Matan\u00edas."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "De los ayudantes de los sacerdotes se quedaron en la ciudad de Jerusal\u00e9n doscientos ochenta y cuatro en total. Entre ellos estaba Sema\u00edas, cuyos antepasados fueron Hasub, Azricam, Hasab\u00edas y Binuy. Abd\u00e1, cuyos antepasados fueron Sam\u00faa, Galal y Jedut\u00fan, tambi\u00e9n se qued\u00f3. Con \u00e9l se quedaron Sabtai y Jozabad, dos de los jefes de los ayudantes de los sacerdotes. Ellos dirig\u00edan el trabajo de la parte exterior del templo. Otro ayudante que se qued\u00f3 fue Matan\u00edas, que era el director del coro y cantaba alabanzas a Dios a la hora de la oraci\u00f3n. Los antepasados de Matan\u00edas fueron Mica\u00edas, Zabd\u00ed y Asaf. Tambi\u00e9n se qued\u00f3 Bacbuqu\u00edas, ayudante de Matan\u00edas."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "De los vigilantes de las entradas se quedaron Acub y Talm\u00f3n, junto con sus parientes. En total eran ciento setenta y dos vigilantes."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "El resto de los israelitas y los dem\u00e1s sacerdotes y ayudantes se quedaron a vivir en sus propiedades, que estaban en otras poblaciones de Jud\u00e1."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Pero los servidores del templo de Dios, cuyos jefes eran Sih\u00e1 y Guisp\u00e1, se quedaron en \u00d3fel."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "El jefe de los ayudantes de los sacerdotes que viv\u00edan en Jerusal\u00e9n era Uz\u00ed, cuyos antepasados fueron Ban\u00ed, Hasab\u00edas, Matan\u00edas, Mica\u00edas y Asaf. Este grupo estaba a cargo del canto en los cultos del templo."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "El rey les hab\u00eda dado a los cantores instrucciones de c\u00f3mo deb\u00edan cumplir sus tareas diarias."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Petah\u00edas, descendiente de Mesezabel, Z\u00e9rah y Jud\u00e1, era el representante del pueblo delante del rey."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Otros pueblos israelitas Algunos de la tribu de Jud\u00e1 se quedaron a vivir en los siguientes pueblos y aldeas de alrededor: Quiriat-arb\u00e1, Dib\u00f3n, Jecabseel,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Josu\u00e9, Molad\u00e1, Bet-p\u00e9let,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Hasar-sual, Beerseba,"
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Siclag, Mecon\u00e1,"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "En-rim\u00f3n, Sor\u00e1, Jarmut,"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Zan\u00f3ah, Adulam, Laquis, Azec\u00e1. Todos ellos se establecieron desde Beerseba, al sur, hasta el valle de Hinom, al norte."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Los de la tribu de Benjam\u00edn se quedaron a vivir en los siguientes pueblos: Gueba, Micm\u00e1s, A\u00edas, Betel y sus aldeas."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Tambi\u00e9n se quedaron algunos en los siguientes pueblos: Anatot, Nob, Anan\u00edas,"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Hasor, Ram\u00e1, Guitaim,"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Hadid, Sebo\u00edm, Nebalat,"
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Lod, On\u00f3 y el Valle de los Artesanos."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Algunos ayudantes de los sacerdotes, que viv\u00edan en Jud\u00e1, se fueron a vivir en el territorio de la tribu de Benjam\u00edn."
+                }
+            }
+        },
+        "12": {
+            "chapter_nr": "12",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sacerdotes y ayudantes que regresaron de Babilonia \u00c9sta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josu\u00e9. Los jefes de los sacerdotes de la \u00e9poca de Josu\u00e9, que regresaron, son los siguientes: Sera\u00edas, Jerem\u00edas, Esdras, Amar\u00edas, Maluc, Hat\u00fas, Secan\u00edas, Reh\u00fam, Meremot, Id\u00f3, Guinet\u00f3n, Ab\u00edas, Mijam\u00edn, Maad\u00edas, Bilg\u00e1, Sema\u00edas, Joiarib, Jeda\u00edas, Sal\u00fa, Amoc, Hilqu\u00edas, Jeda\u00edas."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Sacerdotes y ayudantes que regresaron de Babilonia \u00c9sta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josu\u00e9. Los jefes de los sacerdotes de la \u00e9poca de Josu\u00e9, que regresaron, son los siguientes: Sera\u00edas, Jerem\u00edas, Esdras, Amar\u00edas, Maluc, Hat\u00fas, Secan\u00edas, Reh\u00fam, Meremot, Id\u00f3, Guinet\u00f3n, Ab\u00edas, Mijam\u00edn, Maad\u00edas, Bilg\u00e1, Sema\u00edas, Joiarib, Jeda\u00edas, Sal\u00fa, Amoc, Hilqu\u00edas, Jeda\u00edas."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Sacerdotes y ayudantes que regresaron de Babilonia \u00c9sta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josu\u00e9. Los jefes de los sacerdotes de la \u00e9poca de Josu\u00e9, que regresaron, son los siguientes: Sera\u00edas, Jerem\u00edas, Esdras, Amar\u00edas, Maluc, Hat\u00fas, Secan\u00edas, Reh\u00fam, Meremot, Id\u00f3, Guinet\u00f3n, Ab\u00edas, Mijam\u00edn, Maad\u00edas, Bilg\u00e1, Sema\u00edas, Joiarib, Jeda\u00edas, Sal\u00fa, Amoc, Hilqu\u00edas, Jeda\u00edas."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Sacerdotes y ayudantes que regresaron de Babilonia \u00c9sta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josu\u00e9. Los jefes de los sacerdotes de la \u00e9poca de Josu\u00e9, que regresaron, son los siguientes: Sera\u00edas, Jerem\u00edas, Esdras, Amar\u00edas, Maluc, Hat\u00fas, Secan\u00edas, Reh\u00fam, Meremot, Id\u00f3, Guinet\u00f3n, Ab\u00edas, Mijam\u00edn, Maad\u00edas, Bilg\u00e1, Sema\u00edas, Joiarib, Jeda\u00edas, Sal\u00fa, Amoc, Hilqu\u00edas, Jeda\u00edas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Sacerdotes y ayudantes que regresaron de Babilonia \u00c9sta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josu\u00e9. Los jefes de los sacerdotes de la \u00e9poca de Josu\u00e9, que regresaron, son los siguientes: Sera\u00edas, Jerem\u00edas, Esdras, Amar\u00edas, Maluc, Hat\u00fas, Secan\u00edas, Reh\u00fam, Meremot, Id\u00f3, Guinet\u00f3n, Ab\u00edas, Mijam\u00edn, Maad\u00edas, Bilg\u00e1, Sema\u00edas, Joiarib, Jeda\u00edas, Sal\u00fa, Amoc, Hilqu\u00edas, Jeda\u00edas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Sacerdotes y ayudantes que regresaron de Babilonia \u00c9sta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josu\u00e9. Los jefes de los sacerdotes de la \u00e9poca de Josu\u00e9, que regresaron, son los siguientes: Sera\u00edas, Jerem\u00edas, Esdras, Amar\u00edas, Maluc, Hat\u00fas, Secan\u00edas, Reh\u00fam, Meremot, Id\u00f3, Guinet\u00f3n, Ab\u00edas, Mijam\u00edn, Maad\u00edas, Bilg\u00e1, Sema\u00edas, Joiarib, Jeda\u00edas, Sal\u00fa, Amoc, Hilqu\u00edas, Jeda\u00edas."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Sacerdotes y ayudantes que regresaron de Babilonia \u00c9sta es la lista de los sacerdotes y ayudantes que regresaron de Babilonia con Zorobabel hijo de Salatiel, y con Josu\u00e9. Los jefes de los sacerdotes de la \u00e9poca de Josu\u00e9, que regresaron, son los siguientes: Sera\u00edas, Jerem\u00edas, Esdras, Amar\u00edas, Maluc, Hat\u00fas, Secan\u00edas, Reh\u00fam, Meremot, Id\u00f3, Guinet\u00f3n, Ab\u00edas, Mijam\u00edn, Maad\u00edas, Bilg\u00e1, Sema\u00edas, Joiarib, Jeda\u00edas, Sal\u00fa, Amoc, Hilqu\u00edas, Jeda\u00edas."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Hab\u00eda dos coros encargados de los himnos de alabanza. De los cantores que formaban el primer coro regresaron los siguientes: Josu\u00e9, Binuy, Cadmiel, Sereb\u00edas, Jud\u00e1, Matan\u00edas. Del segundo coro regresaron los siguientes: Bacbuqu\u00edas, Un\u00ed y sus ayudantes."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Hab\u00eda dos coros encargados de los himnos de alabanza. De los cantores que formaban el primer coro regresaron los siguientes: Josu\u00e9, Binuy, Cadmiel, Sereb\u00edas, Jud\u00e1, Matan\u00edas. Del segundo coro regresaron los siguientes: Bacbuqu\u00edas, Un\u00ed y sus ayudantes."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Los antepasados del ayudante Josu\u00e9 fueron Joac\u00edn, Eliasib, Joiad\u00e1,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Johan\u00e1n y Jad\u00faa."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "En la \u00e9poca de Joac\u00edn \u00e9stos eran los jefes de las familias de los sacerdotes que regresaron:"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Jefe Familia sacerdotal Mera\u00edas Sera\u00edas Hanan\u00edas Jerem\u00edas Mesulam Esdras Johan\u00e1n Amar\u00edas Jonat\u00e1n Melic\u00fa Jos\u00e9 Seban\u00edas Adn\u00e1 Harim Helcai Meraiot Zacar\u00edas Id\u00f3 Mesulam Guinet\u00f3n Zicr\u00ed Ab\u00edas Piltai Moad\u00edas Sam\u00faa Bilg\u00e1 Jonat\u00e1n Sema\u00edas Matenai Joiarib Uz\u00ed Jeda\u00edas Calai Salai \u00c9ber Amoc Hasab\u00edas Hilqu\u00edas Natanael Jeda\u00edas En la \u00e9poca de Eliasib, Joiad\u00e1, Johan\u00e1n y Jad\u00faa, hab\u00eda una lista de los jefes de familia de los sacerdotes y sus ayudantes. La informaci\u00f3n de esa lista llegaba hasta el a\u00f1o en que Dar\u00edo comenz\u00f3 a reinar en Persia."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "En la lista oficial estaban anotados los jefes de familia de los ayudantes de los sacerdotes, hasta la \u00e9poca de Johan\u00e1n nieto de Eliasib."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Los ayudantes de los sacerdotes estaban divididos en dos coros, que eran dirigidos por Hasab\u00edas, Sereb\u00edas, Josu\u00e9, Binuy y Cadmiel, y sus asistentes. Durante el culto, el coro principal cantaba una estrofa de un himno, y el otro coro respond\u00eda con otra estrofa. As\u00ed alababan y daban gracias a Dios, seg\u00fan lo hab\u00eda mandado el rey David."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Los vigilantes de las entradas, que tambi\u00e9n cuidaban las bodegas de al lado, eran: Matan\u00edas, Bacbuqu\u00edas, Abd\u00edas, Mesulam, Talm\u00f3n y Acub."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "\u00c9stos vivieron en la misma \u00e9poca de Joac\u00edn hijo de Josu\u00e9. Era el tiempo cuando Nehem\u00edas gobernaba y el sacerdote Esdras era maestro."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Dedicaci\u00f3n del muro de la ciudad Las familias de los cantores que se hab\u00edan instalado alrededor de Jerusal\u00e9n eran descendientes de Lev\u00ed. Tambi\u00e9n se instalaron en las aldeas de Netof\u00e1, en el pueblito de Guilgal y en los campos de Gueba y Azm\u00e1vet. Para dedicar a Dios el muro de Jerusal\u00e9n, los fueron a llamar para que participaran en la celebraci\u00f3n. Ellos no s\u00f3lo cantaban sino que tambi\u00e9n tocaban instrumentos musicales como platillos, arpas y liras. Por eso los invitaron para que cantaran a Dios alegres himnos de gratitud."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Dedicaci\u00f3n del muro de la ciudad Las familias de los cantores que se hab\u00edan instalado alrededor de Jerusal\u00e9n eran descendientes de Lev\u00ed. Tambi\u00e9n se instalaron en las aldeas de Netof\u00e1, en el pueblito de Guilgal y en los campos de Gueba y Azm\u00e1vet. Para dedicar a Dios el muro de Jerusal\u00e9n, los fueron a llamar para que participaran en la celebraci\u00f3n. Ellos no s\u00f3lo cantaban sino que tambi\u00e9n tocaban instrumentos musicales como platillos, arpas y liras. Por eso los invitaron para que cantaran a Dios alegres himnos de gratitud."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Dedicaci\u00f3n del muro de la ciudad Las familias de los cantores que se hab\u00edan instalado alrededor de Jerusal\u00e9n eran descendientes de Lev\u00ed. Tambi\u00e9n se instalaron en las aldeas de Netof\u00e1, en el pueblito de Guilgal y en los campos de Gueba y Azm\u00e1vet. Para dedicar a Dios el muro de Jerusal\u00e9n, los fueron a llamar para que participaran en la celebraci\u00f3n. Ellos no s\u00f3lo cantaban sino que tambi\u00e9n tocaban instrumentos musicales como platillos, arpas y liras. Por eso los invitaron para que cantaran a Dios alegres himnos de gratitud."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "Los sacerdotes y sus ayudantes realizaron la ceremonia de purificaci\u00f3n, para que ellos mismos pudieran adorar a Dios, junto con todo el pueblo. Tambi\u00e9n purificaron las entradas de la ciudad y el muro de protecci\u00f3n, para que Dios los aceptara con agrado."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Nehem\u00edas contin\u00faa su relato - Yo, Nehem\u00edas, les ped\u00ed a los l\u00edderes de Jud\u00e1 que se subieran al muro, y que formaran dos grandes grupos para que marcharan por el muro dando gracias a Dios. Tambi\u00e9n organic\u00e9 dos coros. Un coro march\u00f3 primero, hacia la derecha, como si fuera hacia la entrada del Basurero."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Detr\u00e1s de ellos iba Hosa\u00edas, con el primer grupo de l\u00edderes,"
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "en el cual estaban: Azar\u00edas, Esdras, Mesulam,"
+                },
+                "34": {
+                    "verse_nr": "34",
+                    "verse": "Jud\u00e1, Benjam\u00edn, Sema\u00edas, Jerem\u00edas."
+                },
+                "35": {
+                    "verse_nr": "35",
+                    "verse": "Los sacerdotes que los acompa\u00f1aban eran todos miembros de una misma familia: Sema\u00edas, Azarel, Milalai, Guilalai, Maai, Natanael, Jud\u00e1, Hanan\u00ed, Zacar\u00edas. Todos ellos tocaban trompetas, y otros instrumentos musicales inventados por David. Los antepasados de Zacar\u00edas fueron: Jonat\u00e1n, Sema\u00edas, Matan\u00edas, Mica\u00edas, Zacur, Asaf. Delante de todos ellos iba el maestro Esdras."
+                },
+                "36": {
+                    "verse_nr": "36",
+                    "verse": "Los sacerdotes que los acompa\u00f1aban eran todos miembros de una misma familia: Sema\u00edas, Azarel, Milalai, Guilalai, Maai, Natanael, Jud\u00e1, Hanan\u00ed, Zacar\u00edas. Todos ellos tocaban trompetas, y otros instrumentos musicales inventados por David. Los antepasados de Zacar\u00edas fueron: Jonat\u00e1n, Sema\u00edas, Matan\u00edas, Mica\u00edas, Zacur, Asaf. Delante de todos ellos iba el maestro Esdras."
+                },
+                "37": {
+                    "verse_nr": "37",
+                    "verse": "Cuando llegaron a la entrada de la Fuente, siguieron por el muro, subieron las escaleras de la ciudad de Jerusal\u00e9n, pasaron por el palacio de David y llegaron hasta la entrada del Agua, que est\u00e1 al este."
+                },
+                "38": {
+                    "verse_nr": "38",
+                    "verse": "El otro coro march\u00f3 hacia la izquierda dando gracias a Dios, y yo iba detr\u00e1s de ellos con el otro grupo de l\u00edderes. Marchamos por el muro desde la torre de los Hornos hasta donde el muro se hace m\u00e1s ancho,"
+                },
+                "39": {
+                    "verse_nr": "39",
+                    "verse": "pasando por la entrada de Efra\u00edn, la entrada de Jesan\u00e1, la de los Pescados, la torre de Hananel y la torre de los Cien, hasta la entrada de las Ovejas. Nos detuvimos en la entrada de la Guardia."
+                },
+                "40": {
+                    "verse_nr": "40",
+                    "verse": "Luego los dos coros que daban gracias a Dios ocuparon sus puestos en el templo de Dios. Los l\u00edderes que me acompa\u00f1aban y yo, nos colocamos"
+                },
+                "41": {
+                    "verse_nr": "41",
+                    "verse": "junto a varios sacerdotes que tocaban las trompetas. Entre ellos estaban: Eliaquim, Maase\u00edas, Miniam\u00edn, Mica\u00edas, Elioenai, Zacar\u00edas, Hanan\u00edas, Maase\u00edas, Sema\u00edas, Eleazar, Uz\u00ed, Johan\u00e1n, Malqu\u00edas, Elam, \u00c9ser. Izrah\u00edas dirig\u00eda a los cantores."
+                },
+                "42": {
+                    "verse_nr": "42",
+                    "verse": "junto a varios sacerdotes que tocaban las trompetas. Entre ellos estaban: Eliaquim, Maase\u00edas, Miniam\u00edn, Mica\u00edas, Elioenai, Zacar\u00edas, Hanan\u00edas, Maase\u00edas, Sema\u00edas, Eleazar, Uz\u00ed, Johan\u00e1n, Malqu\u00edas, Elam, \u00c9ser. Izrah\u00edas dirig\u00eda a los cantores."
+                },
+                "43": {
+                    "verse_nr": "43",
+                    "verse": "Aquel d\u00eda se ofrecieron muchos sacrificios, y todos nosotros, hombres, mujeres y ni\u00f1os, estuvimos muy contentos, pues Dios nos hab\u00eda llenado de alegr\u00eda. El gozo que hab\u00eda en Jerusal\u00e9n se o\u00eda desde muy lejos."
+                },
+                "44": {
+                    "verse_nr": "44",
+                    "verse": "Provisiones para el templo de Dios - En aquel tiempo nombramos a los encargados de las bodegas en donde se guardaban las provisiones para el templo de Dios, es decir, las ofrendas, los primeros frutos y los diezmos. Eran las porciones que llegaban de los campos de cada ciudad y que, seg\u00fan la ley, les correspond\u00edan a los sacerdotes y sus ayudantes. Los de Jud\u00e1 estaban satisfechos con la tarea que hac\u00edan los sacerdotes y sus ayudantes."
+                },
+                "45": {
+                    "verse_nr": "45",
+                    "verse": "Ellos, junto con los cantores y los vigilantes de las entradas, celebraban el culto a Dios y la ceremonia de la purificaci\u00f3n, siguiendo las instrucciones que hab\u00edan dado David y su hijo Salom\u00f3n."
+                },
+                "46": {
+                    "verse_nr": "46",
+                    "verse": "Antiguamente, en los tiempos de David y Asaf, hab\u00eda un director de coro. Entonces se cantaban himnos para alabar y dar gracias a Dios."
+                },
+                "47": {
+                    "verse_nr": "47",
+                    "verse": "En los tiempos de Zorobabel y de Nehem\u00edas, todos los israelitas daban ofrendas para los cantores y los vigilantes de las entradas. Tambi\u00e9n daban ofrendas para los ayudantes de los sacerdotes, y \u00e9stos apartaban lo que les correspond\u00eda a los sacerdotes descendientes de Aar\u00f3n."
+                }
+            }
+        },
+        "13": {
+            "chapter_nr": "13",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nehem\u00edas hace cambios - Cierto d\u00eda, mientras el libro de la Ley de Mois\u00e9s se le\u00eda ante todo el pueblo, nos dimos cuenta de que hab\u00eda una ley que dec\u00eda as\u00ed: \u00abJam\u00e1s se permitir\u00e1 que los amonitas y los moabitas formen parte del pueblo de Dios\u00bb."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "La raz\u00f3n de esta ley era que, en cierta ocasi\u00f3n, esa gente no les dio a los israelitas el pan y el agua que necesitaban, y en cambio le pag\u00f3 a Balaam para que los maldijera. Pero nuestro Dios hizo que sus malos deseos resultaran en algo bueno."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "As\u00ed que, cuando la gente oy\u00f3 lo que dec\u00eda el libro de la Ley, expulsaron de Israel a todos los que se hab\u00edan mezclado con extranjeros."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Tiempo atr\u00e1s, el sacerdote Eliasib era el jefe de las bodegas del templo de nuestro Dios. Como Tob\u00edas el amonita era pariente suyo, Eliasib le hab\u00eda dado permiso para vivir en una habitaci\u00f3n grande. All\u00ed se guardaban las ofrendas de cereales, el incienso, los utensilios y los diezmos de trigo, vino y aceite. Todo esto era para los sacerdotes, sus ayudantes, los cantores y los vigilantes de las entradas."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Tiempo atr\u00e1s, el sacerdote Eliasib era el jefe de las bodegas del templo de nuestro Dios. Como Tob\u00edas el amonita era pariente suyo, Eliasib le hab\u00eda dado permiso para vivir en una habitaci\u00f3n grande. All\u00ed se guardaban las ofrendas de cereales, el incienso, los utensilios y los diezmos de trigo, vino y aceite. Todo esto era para los sacerdotes, sus ayudantes, los cantores y los vigilantes de las entradas."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Cuando Eliasib hizo esto, yo no estaba en Jerusal\u00e9n, porque en el a\u00f1o treinta y dos del reinado de Artajerjes, hab\u00eda ido a Babilonia para presentarme ante \u00e9l. Tiempo despu\u00e9s, con el permiso del rey,"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "volv\u00ed a Jerusal\u00e9n y descubr\u00ed que Eliasib hab\u00eda hecho muy mal en darle a ese amonita una habitaci\u00f3n en el templo de Dios."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Me enoj\u00e9 mucho, y orden\u00e9 que sacaran todos los muebles de Tob\u00edas,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "y mand\u00e9 que purificaran el lugar. Despu\u00e9s di instrucciones para que volvieran a colocar all\u00ed los utensilios del templo de Dios, los cereales y el incienso."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Tambi\u00e9n me enter\u00e9 de que a los ayudantes de los sacerdotes no se les hab\u00edan dado sus alimentos, por lo que ellos y los cantores hab\u00edan tenido que irse a sus propios campos."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Entonces reprend\u00ed a las autoridades por haber descuidado el templo de Dios, y mand\u00e9 llamar a los ayudantes de los sacerdotes y cantores. Los volv\u00ed a colocar en sus puestos,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "y todos los de Jud\u00e1 trajeron a las bodegas del templo los diezmos de trigo, vino y aceite."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Despu\u00e9s puse al sacerdote Selem\u00edas, al secretario Sadoc y al ayudante Peda\u00edas como jefes de las bodegas, y nombr\u00e9 como ayudante de ellos a Han\u00e1n hijo de Zacur, nieto de Matan\u00edas. Eran hombres de confianza, y se encargar\u00edan de hacer una buena distribuci\u00f3n de las provisiones a sus compa\u00f1eros."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Luego de hacer eso, le dije a Dios: \u00ab\u00a1Dios m\u00edo, toma en cuenta esto que acabo de hacer, y no te olvides de todo lo bueno que he hecho por tu templo y por el culto!\u00bb"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "En ese tiempo vi que en Jud\u00e1, los s\u00e1bados, algunos hac\u00edan vino y llevaban manojos de trigo sobre los burros. Tambi\u00e9n cargaban vino, racimos de uvas, higos y toda clase de cargas, y todo eso lo tra\u00edan a Jerusal\u00e9n para venderlo. Entonces los reprend\u00ed por eso."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Adem\u00e1s, algunos de Tiro que viv\u00edan en la ciudad, llevaban pescado y toda clase de productos a Jerusal\u00e9n, para vend\u00e9rselos a la gente de Jud\u00e1 los d\u00edas s\u00e1bados."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Entonces reprend\u00ed as\u00ed a los jefes de Jud\u00e1: \u00ab\u00a1Est\u00e1 muy mal lo que hacen! \u00a1No est\u00e1n respetando el d\u00eda s\u00e1bado!"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Acu\u00e9rdense de que cuando sus antepasados hicieron lo mismo, Dios nos castig\u00f3 a nosotros y tambi\u00e9n a esta ciudad. Si ustedes no descansan y adoran a Dios el d\u00eda s\u00e1bado, \u00e9l nos castigar\u00e1 a\u00fan m\u00e1s\u00bb."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Entonces orden\u00e9 que los portones de Jerusal\u00e9n se cerraran en cuanto empezara a anochecer el viernes, y que no se abrieran hasta el anochecer del s\u00e1bado. Puse a algunos de mis ayudantes para que vigilaran las entradas y no dejaran entrar ninguna carga en d\u00eda s\u00e1bado."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Una o dos veces, algunos comerciantes y vendedores pasaron la noche fuera de Jerusal\u00e9n."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Yo discut\u00ed con ellos y les advert\u00ed que, si volv\u00edan a pasar la noche junto al muro, los sacar\u00eda de all\u00ed por la fuerza. Desde entonces no volvieron a presentarse en d\u00eda s\u00e1bado."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Luego orden\u00e9 a los ayudantes de los sacerdotes que se purificaran, y fueran a vigilar las entradas para que se respetara el d\u00eda s\u00e1bado. Entonces le dije a Dios: \u00ab\u00a1Dios m\u00edo, tampoco olvides esto que he hecho! Ya que eres tan bueno, \u00a1ten compasi\u00f3n de m\u00ed!\u00bb"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "En ese tiempo vi tambi\u00e9n que algunos jud\u00edos se hab\u00edan casado con mujeres de pa\u00edses como Asdod, Am\u00f3n y Moab."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "La mitad de sus hijos hablaban el idioma de Asdod y de otros pa\u00edses, pero no conoc\u00edan el idioma de los jud\u00edos."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Discut\u00ed con esos hombres y los maldije. A algunos les di de golpes, les arranqu\u00e9 el cabello y los obligu\u00e9 a prometer, en nombre de Dios, que ni ellos ni sus hijos o hijas se casar\u00edan con extranjeros."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Adem\u00e1s, les record\u00e9: \u00abUstedes han cometido el mismo pecado que cometi\u00f3 Salom\u00f3n. Entre muchas naciones no hubo un rey como \u00e9l. Dios lo am\u00f3 y lo puso como rey sobre Israel, pero fueron sus esposas extranjeras las que lo hicieron pecar."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Por eso, nosotros no vamos a permitir que se cometa este grave pecado contra nuestro Dios. No traicionaremos a Dios cas\u00e1ndonos con mujeres extranjeras\u00bb."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Joiad\u00e1, que era hijo del jefe de los sacerdotes, ten\u00eda un hijo que se cas\u00f3 con una extranjera. Ella era hija de Sambalat el de Hor\u00f3n. As\u00ed que obligu\u00e9 al hijo de Joiad\u00e1 a irse lejos de Jerusal\u00e9n. Luego habl\u00e9 con Dios, y le dije:"
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "\u00ab\u00a1Dios m\u00edo, castiga a los sacerdotes y a los ayudantes que no han respetado el pacto que hicieron contigo!\u00bb"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "De esta manera los separ\u00e9 de los extranjeros y de todo lo que tuviera que ver con ellos. Luego organic\u00e9 los turnos de los sacerdotes y de sus ayudantes, cada uno en su tarea."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Organic\u00e9 tambi\u00e9n a los que tra\u00edan la le\u00f1a, para que lo hicieran en las fechas indicadas, y organic\u00e9 la entrega de los primeros frutos. Luego le dije a Dios: \u00ab\u00a1Acu\u00e9rdate de m\u00ed, Dios m\u00edo, y tr\u00e1tame bien!\u00bb"
+                }
+            }
+        }
+    }
+}

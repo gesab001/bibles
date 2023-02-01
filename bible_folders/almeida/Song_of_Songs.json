@@ -1,0 +1,515 @@
+{
+    "version": "almeida",
+    "book_name": "Song of Songs",
+    "book_nr": "22",
+    "book": {
+        "1": {
+            "chapter_nr": 1,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "O c\u00e2ntico dos c\u00e2nticos, que \u00e9 de Salom\u00e3o.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Beije-me ele com os beijos da sua boca; porque melhor \u00e9 o seu amor do que o vinho.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Suave \u00e9 o cheiro dos teus perfumes; como perfume derramado \u00e9 o teu nome; por isso as donzelas te amam.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Leva-me tu; correremos ap\u00f3s ti. O rei me introduziu nas suas rec\u00e2maras; em ti nos alegraremos e nos regozijaremos; faremos men\u00e7\u00e3o do teu amor mais do que do vinho; com raz\u00e3o te amam.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Eu sou morena, mas formosa, \u00f3 filhas de Jerusal\u00e9m, como as tendas de Quedar, como as cortinas de Salom\u00e3o.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "N\u00e3o repareis em eu ser morena, porque o sol crestou-me a tez; os filhos de minha m\u00e3e indignaram-se contra mim, e me puseram por guarda de vinhas; a minha vinha, por\u00e9m, n\u00e3o guardei.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Dize-me, \u00f3 tu, a quem ama a minha alma: Onde apascentas o teu rebanho, onde o fazes deitar pelo meio-dia; pois, por que raz\u00e3o seria eu como a que anda errante pelos rebanhos de teus companheiros?\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Se n\u00e3o o sabes, \u00f3 tu, a mais formosa entre as mulheres, vai seguindo as pisadas das ovelhas, e apascenta os teus cabritos junto \ufffds tendas dos pastores.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "A uma \u00e9gua dos carros de Fara\u00f3 eu te comparo, \u00f3 amada minha.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Formosas s\u00e3o as tuas faces entre as tuas tran\u00e7as, e formoso o teu pesco\u00e7o com os colares.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "N\u00f3s te faremos umas tran\u00e7as de ouro, marchetadas de pontinhos de prata.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Enquanto o rei se assentava \ufffd sua mesa, dava o meu nardo o seu cheiro.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "O meu amado \u00e9 para mim como um saquitel de mirra, que repousa entre os meus seios.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "O meu amado \u00e9 para mim como um ramalhete de hena nas vinhas de En-Gedi.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Eis que \u00e9s formosa, \u00f3 amada minha, eis que \u00e9s formosa; os teus olhos s\u00e3o como pombas.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Eis que \u00e9s formoso, \u00f3 amado meu, como am\u00e1vel \u00e9s tamb\u00e9m; o nosso leito \u00e9 vi\u00e7oso.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "As traves da nossa casa s\u00e3o de cedro, e os caibros de cipreste.\n"
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": 2,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Eu sou a rosa de Sarom, o l\u00edrio dos vales.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Qual o l\u00edrio entre os espinhos, tal \u00e9 a minha amada entre as filhas.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Qual a macieira entre as \u00e1rvores do bosque, tal \u00e9 o meu amado entre os filhos; com grande gozo sentei-me \ufffd sua sombra; e o seu fruto era doce ao meu paladar.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Levou-me \ufffd sala do banquete, e o seu estandarte sobre mim era o amor.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Sustentai-me com passas, confortai-me com ma\u00e7\u00e3s, porque desfale\u00e7o de amor.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "A sua m\u00e3o esquerda esteja debaixo da minha cabe\u00e7a, e a sua m\u00e3o direita me abrace.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Conjuro-vos, \u00f3 filhas de Jerusal\u00e9m, pelas gazelas e cervas do campo, que n\u00e3o acordeis nem desperteis o amor, at\u00e9 que ele o queira.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "A voz do meu amado! eis que vem a\u00ed, saltando sobre os montes, pulando sobre os outeiros.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "O meu amado \u00e9 semelhante ao gamo, ou ao filho do veado; eis que est\u00e1 detr\u00e1s da nossa parede, olhando pelas janelas, lan\u00e7ando os olhos pelas grades.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Fala o meu amado e me diz: Levanta-te, amada minha, formosa minha, e vem.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Pois eis que j\u00e1 passou o inverno; a chuva cessou, e se foi;\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "aparecem as flores na terra; j\u00e1 chegou o tempo de cantarem as aves, e a voz da rola ouve-se em nossa terra.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "A figueira come\u00e7a a dar os seus primeiros figos; as vides est\u00e3o em flor e exalam o seu aroma. Levanta-te, amada minha, formosa minha, e vem.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Pomba minha, que andas pelas fendas das penhas, no oculto das ladeiras, mostra-me o teu semblante faze-me ouvir a tua voz; porque a tua voz \u00e9 doce, e o teu semblante formoso.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "Apanhai-nos as raposas, as raposinhas, que fazem mal \ufffds vinhas; pois as nossas vinhas est\u00e3o em flor.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "O meu amado \u00e9 meu, e eu sou dele; ele apascenta o seu rebanho entre os l\u00edrios.\n"
+                },
+                "17": {
+                    "verse_nr": 17,
+                    "verse": "Antes que refresque o dia, e fujam as sombras, volta, amado meu, e faze-te semelhante ao gamo ou ao filho dos veados sobre os montes de Beter.\n"
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": 3,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "De noite, em meu leito, busquei aquele a quem ama a minha alma; busquei-o, por\u00e9m n\u00e3o o achei.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Levantar-me-ei, pois, e rodearei a cidade; pelas ruas e pelas pra\u00e7as buscarei aquele a quem ama a minha alma. Busquei-o, por\u00e9m n\u00e3o o achei.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Encontraram-me os guardas que rondavam pela cidade; eu lhes perguntei: Vistes, porventura, aquele a quem ama a minha alma?\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Apenas me tinha apartado deles, quando achei aquele a quem ama a minha alma; detive-o, e n\u00e3o o deixei ir embora, at\u00e9 que o introduzi na casa de minha m\u00e3e, na c\u00e2mara daquela que me concebeu:\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Conjuro-vos, \u00f3 filhos de Jerusal\u00e9m, pelas gazelas e cervas do campo, que n\u00e3o acordeis, nem desperteis o amor, at\u00e9 que ele o queira.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Que \u00e9 isso que sobe do deserto, como colunas de fuma\u00e7a, perfumado de mirra, de incenso, e de toda sorte de p\u00f3s arom\u00e1ticos do mercador?\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Eis que \u00e9 a liteira de Salom\u00e3o; est\u00e3o ao redor dela sessenta valentes, dos valentes de Israel,\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "todos armados de espadas, destros na guerra, cada um com a sua espada a cinta, por causa dos temores noturnos.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "O rei Salom\u00e3o fez para si um palanquim de madeira do L\u00edbano.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Fez-lhe as colunas de prata, o estrado de ouro, o assento de p\u00farpura, o interior carinhosamente revestido pelas filhas de Jerusal\u00e9m.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Sa\u00ed, \u00f3 filhas de Si\u00e3o, e contemplai o rei Salom\u00e3o com a coroa de que sua m\u00e3e o coroou no dia do seu despos\u00f3rio, no dia do j\u00fabilo do seu cora\u00e7\u00e3o.\n"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": 4,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Como \u00e9s formosa, amada minha, eis que \u00e9s formosa! os teus olhos s\u00e3o como pombas por detr\u00e1s do teu v\u00e9u; o teu cabelo \u00e9 como o rebanho de cabras que descem pelas colinas de Gileade.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Os teus dentes s\u00e3o como o rebanho das ovelhas tosquiadas, que sobem do lavadouro, e das quais cada uma tem g\u00eameos, e nenhuma delas \u00e9 desfilhada.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Os teus l\u00e1bios s\u00e3o como um fio de escarlate, e a tua boca e formosa; as tuas faces s\u00e3o como as metades de uma roma por detr\u00e1s do teu v\u00e9u.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "O teu pesco\u00e7o \u00e9 como a torre de Davi, edificada para sala de armas; no qual pendem mil broqu\u00e9is, todos escudos de guerreiros valentes.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Os teus seios s\u00e3o como dois filhos g\u00eameos da gazela, que se apascentam entre os l\u00edrios.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Antes que refresque o dia e fujam as sombras, irei ao monte da mirra e ao outeiro do incenso.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Tu \u00e9s toda formosa, amada minha, e em ti n\u00e3o h\u00e1 mancha.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Vem comigo do L\u00edbano, noiva minha, vem comigo do L\u00edbano. Olha desde o cume de Amana, desde o cume de Senir e de Hermom, desde os covis dos le\u00f5es, desde os montes dos leopardos.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Enlevaste-me o cora\u00e7\u00e3o, minha irm\u00e3, noiva minha; enlevaste- me o cora\u00e7\u00e3o com um dos teus olhares, com um dos colares do teu pesco\u00e7o.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Qu\u00e3o doce \u00e9 o teu amor, minha irm\u00e3, noiva minha! quanto melhor \u00e9 o teu amor do que o vinho! e o aroma dos teus ung\u00fcentos do que o de toda sorte de especiarias!\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Os teus l\u00e1bios destilam o mel, noiva minha; mel e leite est\u00e3o debaixo da tua l\u00edngua, e o cheiro dos teus vestidos \u00e9 como o cheiro do L\u00edbano.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Jardim fechado \u00e9 minha irm\u00e3, minha noiva, sim, jardim fechado, fonte selada.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Os teus renovos s\u00e3o um pomar de rom\u00e3s, com frutos excelentes; a hena juntamente com nardo,\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "o nardo, e o a\u00e7afr\u00e3o, o c\u00e1lamo, e o cinamomo, com toda sorte de \u00e1rvores de incenso; a mirra e o alo\u00e9s, com todas as principais especiarias.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "\u00c9s fonte de jardim, po\u00e7o de \u00e1guas vivas, correntes que manam do L\u00edbano!\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "Levanta-te, vento norte, e vem tu, vento sul; assopra no meu jardim, espalha os seus aromas. Entre o meu amado no seu jardim, e coma os seus frutos excelentes!\n"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": 5,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Venho ao meu jardim, minha irm\u00e3, noiva minha, para colher a minha mirra com o meu b\u00e1lsamo, para comer o meu favo com o meu mel, e beber o meu vinho com o meu leite. Comei, amigos, bebei abundantemente, \u00f3 amados.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Eu dormia, mas o meu cora\u00e7\u00e3o velava. Eis a voz do meu amado! Est\u00e1 batendo: Abre-me, minha irm\u00e3, amada minha, pomba minha, minha imaculada; porque a minha cabe\u00e7a est\u00e1 cheia de orvalho, os meus cabelos das gotas da noite.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "J\u00e1 despi a minha t\u00fanica; como a tornarei a vestir? j\u00e1 lavei os meus p\u00e9s; como os tornarei a sujar?\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "O meu amado meteu a sua m\u00e3o pela fresta da porta, e o meu cora\u00e7\u00e3o estremeceu por amor dele.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Eu me levantei para abrir ao meu amado; e as minhas m\u00e3os destilavam mirra, e os meus dedos gotejavam mirra sobre as aldravas da fechadura.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Eu abri ao meu amado, mas ele j\u00e1 se tinha retirado e ido embora. A minha alma tinha desfalecido quando ele falara. Busquei-o, mas n\u00e3o o pude encontrar; chamei-o, por\u00e9m ele n\u00e3o me respondeu.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Encontraram-me os guardas que rondavam pela cidade; espancaram-me, feriram-me; tiraram-me o manto os guardas dos muros.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Conjuro-vos, \u00f3 filhas de Jerusal\u00e9m, se encontrardes o meu amado, que lhe digais que estou enferma de amor.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Que \u00e9 o teu amado mais do que outro amado, \u00f3 tu, a mais formosa entre as mulheres? Que \u00e9 o teu amado mais do que outro amado, para que assim nos conjures?\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "O meu amado \u00e9 c\u00e2ndido e rubicundo, o primeiro entre dez mil.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "A sua cabe\u00e7a \u00e9 como o ouro mais refinado, os seus cabelos s\u00e3o crespos, pretos como o corvo.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Os seus olhos s\u00e3o como pombas junto \ufffds correntes das \u00e1guas, lavados em leite, postos em engaste.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "As suas faces s\u00e3o como um canteiro de b\u00e1lsamo, os mont\u00f5es de ervas arom\u00e1ticas; e os seus l\u00e1bios s\u00e3o como l\u00edrios que gotejam mirra.\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Os seus bra\u00e7os s\u00e3o como cilindros de ouro, guarnecidos de cris\u00f3litas; e o seu corpo \u00e9 como obra de marfim, coberta de safiras.\n"
+                },
+                "15": {
+                    "verse_nr": 15,
+                    "verse": "As suas pernas como colunas de m\u00e1rmore, colocadas sobre bases de ouro refinado; o seu semblante como o l\u00edbano, excelente como os cedros.\n"
+                },
+                "16": {
+                    "verse_nr": 16,
+                    "verse": "O seu falar \u00e9 muit\u00edssimo suave; sim, ele \u00e9 totalmente desej\u00e1vel. Tal \u00e9 o meu amado, e tal o meu amigo, \u00f3 filhas de Jerusal\u00e9m.\n"
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": 6,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Para onde foi o teu amado, \u00f3 tu, a mais formosa entre as mulheres? para onde se retirou o teu amado, a fim de que o busquemos juntamente contigo?\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "O meu amado desceu ao seu jardim, aos canteiros de b\u00e1lsamo, para apascentar o rebanho nos jardins e para colher os l\u00edrios.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Eu sou do meu amado, e o meu amado \u00e9 meu; ele apascenta o rebanho entre os l\u00edrios.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Formosa \u00e9s, amada minha, como Tirza, apraz\u00edvel como Jerusal\u00e9m, imponente como um ex\u00e9rcito com bandeiras.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Desvia de mim os teus olhos, porque eles me perturbam. O teu cabelo \u00e9 como o rebanho de cabras que descem pelas colinas de Gileade.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Os teus dentes s\u00e3o como o rebanho de ovelhas que sobem do lavadouro, e das quais cada uma tem g\u00eameos, e nenhuma delas \u00e9 desfilhada.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "As tuas faces s\u00e3o como as metades de uma rom\u00e3, por detr\u00e1s do teu v\u00e9u.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "H\u00e1 sessenta rainhas, oitenta concubinas, e virgens sem n\u00famero.\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Mas uma s\u00f3 \u00e9 a minha pomba, a minha imaculada; ela e a \u00fanica de sua m\u00e3e, a escolhida da que a deu \ufffd luz. As filhas viram-na e lhe chamaram bem-aventurada; viram-na as rainhas e as concubinas, e louvaram-na.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Quem \u00e9 esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, imponente como um ex\u00e9rcito com bandeiras?\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Desci ao jardim das nogueiras, para ver os renovos do vale, para ver se floresciam as vides e se as romanzeiras estavam em flor.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Antes de eu o sentir, p\u00f4s-me a minha alma nos carros do meu nobre povo.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "Volta, volta, \u00f3 Sulamita; volta, volta, para que n\u00f3s te vejamos. Por que quereis olhar para a Sulamita como para a dan\u00e7a de Maanaim?\n"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": 7,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Qu\u00e3o formosos s\u00e3o os teus p\u00e9s nas sand\u00e1lias, \u00f3 filha de pr\u00edncipe! Os contornos das tuas coxas s\u00e3o como j\u00f3ias, obra das m\u00e3os de artista.\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "O teu umbigo como uma ta\u00e7a redonda, a que n\u00e3o falta bebida; o teu ventre como mont\u00e3o de trigo, cercado de l\u00edrios.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "Os teus seios s\u00e3o como dois filhos g\u00eameos da gazela.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "O teu pesco\u00e7o como a torre de marfim; os teus olhos como as piscinas de Hesbom, junto \ufffd porta de Bate-Rabim; o teu nariz \u00e9 como torre do L\u00edbano, que olha para Damasco.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "A tua cabe\u00e7a sobre ti \u00e9 como o monte Carmelo, e os cabelos da tua cabe\u00e7a como a p\u00farpura; o rei est\u00e1 preso pelas tuas tran\u00e7as.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "Qu\u00e3o formosa, e qu\u00e3o apraz\u00edvel \u00e9s, \u00f3 amor em del\u00edcias!\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "Essa tua estatura \u00e9 semelhante \ufffd palmeira, e os teus seios aos cachos de uvas.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Disse eu: Subirei \ufffd palmeira, pegarei em seus ramos; ent\u00e3o sejam os teus seios como os cachos da vide, e o cheiro do teu f\u00f4lego como o das ma\u00e7\u00e3s,\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "e os teus beijos como o bom vinho para o meu amado, que se bebe suavemente, e se escoa pelos l\u00e1bios e dentes.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Eu sou do meu amado, e o seu amor \u00e9 por mim.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Vem, \u00f3 amado meu, saiamos ao campo, passemos as noites nas aldeias.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "Levantemo-nos de manh\u00e3 para ir \ufffds vinhas, vejamos se florescem as vides, se est\u00e3o abertas as suas flores, e se as romanzeiras j\u00e1 est\u00e3o em flor; ali te darei o meu amor.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "As mandr\u00e1goras exalam perfume, e \ufffds nossas portas h\u00e1 toda sorte de excelentes frutos, novos e velhos; eu os guardei para ti, \u00f3 meu amado.\n"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": 8,
+            "chapter": {
+                "1": {
+                    "verse_nr": 1,
+                    "verse": "Ah! quem me dera que foras como meu irm\u00e3o, que mamou os seios de minha m\u00e3e! quando eu te encontrasse l\u00e1 fora, eu te beijaria; e n\u00e3o me desprezariam!\n"
+                },
+                "2": {
+                    "verse_nr": 2,
+                    "verse": "Eu te levaria e te introduziria na casa de minha m\u00e3e, e tu me instruirias; eu te daria a beber vinho arom\u00e1tico, o mosto das minhas rom\u00e3s.\n"
+                },
+                "3": {
+                    "verse_nr": 3,
+                    "verse": "A sua m\u00e3o esquerda estaria debaixo da minha cabe\u00e7a, e a sua direita me abra\u00e7aria.\n"
+                },
+                "4": {
+                    "verse_nr": 4,
+                    "verse": "Conjuro-vos, \u00f3 filhas de Jerusal\u00e9m, que n\u00e3o acordeis nem desperteis o amor, at\u00e9 que ele o queira.\n"
+                },
+                "5": {
+                    "verse_nr": 5,
+                    "verse": "Quem \u00e9 esta que sobe do deserto, e vem encostada ao seu amado? Debaixo da macieira te despertei; ali esteve tua m\u00e3e com dores; ali esteve com dores aquela que te deu \ufffd luz.\n"
+                },
+                "6": {
+                    "verse_nr": 6,
+                    "verse": "P\u00f5e-me como selo sobre o teu cora\u00e7\u00e3o, como selo sobre o teu bra\u00e7o; porque o amor \u00e9 forte como a morte; o ci\u00fame \u00e9 cruel como o Seol; a sua chama \u00e9 chama de fogo, verdadeira labareda do Senhor.\n"
+                },
+                "7": {
+                    "verse_nr": 7,
+                    "verse": "As muitas \u00e1guas n\u00e3o podem apagar o amor, nem os rios afog\u00e1- lo. Se algu\u00e9m oferecesse todos os bens de sua casa pelo amor, seria de todo desprezado.\n"
+                },
+                "8": {
+                    "verse_nr": 8,
+                    "verse": "Temos uma irm\u00e3 pequena, que ainda n\u00e3o tem seios; que faremos por nossa irm\u00e3, no dia em que ela for pedida em casamento?\n"
+                },
+                "9": {
+                    "verse_nr": 9,
+                    "verse": "Se ela for um muro, edificaremos sobre ela uma torrezinha de prata; e, se ela for uma porta, cerc\u00e1-la-emos com t\u00e1buas de cedro.\n"
+                },
+                "10": {
+                    "verse_nr": 10,
+                    "verse": "Eu era um muro, e os meus seios eram como as suas torres; ent\u00e3o eu era aos seus olhos como aquela que acha paz.\n"
+                },
+                "11": {
+                    "verse_nr": 11,
+                    "verse": "Teve Salom\u00e3o uma vinha em Baal-Hamom; arrendou essa vinha a uns guardas; e cada um lhe devia trazer pelo seu fruto mil pe\u00e7as de prata.\n"
+                },
+                "12": {
+                    "verse_nr": 12,
+                    "verse": "A minha vinha que me pertence est\u00e1 diante de mim; tu, \u00f3 Salom\u00e3o, ter\u00e1s as mil pe\u00e7as de prata, e os que guardam o fruto ter\u00e3o duzentas.\n"
+                },
+                "13": {
+                    "verse_nr": 13,
+                    "verse": "\u00e7 tu, que habitas nos jardins, os companheiros est\u00e3o atentos para ouvir a tua voz; faze-me, pois, tamb\u00e9m ouvi-la:\n"
+                },
+                "14": {
+                    "verse_nr": 14,
+                    "verse": "Vem depressa, amado meu, e faze-te semelhante ao gamo ou ao filho da gazela sobre os montes dos aromas.\n"
+                }
+            }
+        }
+    }
+}

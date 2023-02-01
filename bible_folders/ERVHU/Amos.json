@@ -1,0 +1,636 @@
+{
+    "version": "ERVHU",
+    "book_name": "Amos",
+    "book_nr": "30",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Bevezet\u00e9s - Ezek \u00c1m\u00f3sznak, egy juh\u00e1sz gazd\u00e1nak a szavai, aki T\u00e9koa v\u00e1ros\u00e1ban \u00e9lt. \u00c1m\u00f3sz akkor l\u00e1tta Izr\u00e1elr\u0151l ezeket a l\u00e1tom\u00e1sokat, amikor J\u00fad\u00e1ban Uzzijj\u00e1 kir\u00e1ly, Izr\u00e1elben pedig Jerobo\u00e1m kir\u00e1ly, J\u00f3\u00e1s fia uralkodott, k\u00f6r\u00fclbel\u00fcl k\u00e9t \u00e9vvel a f\u00f6ldreng\u00e9s el\u0151tt."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ezt mondta \u00c1m\u00f3sz: \u201eAz \u00d6r\u00f6kk\u00e9val\u00f3 ki\u00e1lt a Sionr\u00f3l, ahogy az oroszl\u00e1n ord\u00edt, \u00e9s megzend\u00fcl hangja Jeruzs\u00e1lemb\u0151l, mint a mennyd\u00f6rg\u00e9s. Kisz\u00e1radnak akkor a p\u00e1sztorok legel\u0151i, s m\u00e9g a K\u00e1rmel tetej\u00e9t is asz\u00e1ly perzseli.\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ar\u00e1m b\u00fcntet\u00e9se - Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eMegb\u00fcntetem Ar\u00e1m n\u00e9p\u00e9t, mivel b\u0171nt b\u0171nre halmoznak. \u00cdgy hat\u00e1roztam, \u00e9s nem vonom vissza, mert Gile\u00e1d lak\u00f3it oly kegyetlen\u00fcl puszt\u00edtott\u00e1k, ahogy a gabon\u00e1t vasfog\u00fa cs\u00e9pl\u0151sz\u00e1nnal cs\u00e9pelik."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "T\u00fczet k\u00fcld\u00f6k h\u00e1t Haz\u00e1\u00e9l h\u00e1z\u00e1ra, amely el\u00e9geti Benhadad v\u00e1rait \u00e9s palot\u00e1it."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Damaszkusz kapuir\u00f3l le\u00fct\u00f6m a z\u00e1rakat, kiv\u00e1gom Aven v\u00f6lgy\u00e9b\u0151l az uralkod\u00f3t, kiirtom B\u00e9t-\u00c9denb\u0151l a fejedelmet, Ar\u00e1m n\u00e9p\u00e9t pedig fogs\u00e1gba k\u00fcld\u00f6m K\u00edrbe\u201d \u2014 az \u00d6r\u00f6kk\u00e9val\u00f3 mondta ezt."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "A filiszteusok b\u00fcntet\u00e9se - Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eMegb\u00fcntetem a filiszteusokat, mivel b\u0171nt b\u0171nre halmoztak. \u00cdgy hat\u00e1roztam, \u00e9s nem vonom vissza, mert eg\u00e9sz falvakat ejtettek fogs\u00e1gba, hogy eladj\u00e1k \u0151ket rabszolg\u00e1nak Edomba."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "T\u00fczet k\u00fcld\u00f6k h\u00e1t G\u00e1za v\u00e1rfalaira, amely el\u00e9geti v\u00e1rait \u00e9s palot\u00e1it,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "kiv\u00e1gom Asd\u00f3db\u00f3l az uralkod\u00f3t, kiirtom Askel\u00f3nb\u00f3l a fejedelmet, azut\u00e1n Ekron ellen fordulok, \u00e9s elpusztul a filiszteusoknak m\u00e9g a marad\u00e9ka is\u201d \u2014 az \u00d6r\u00f6kk\u00e9val\u00f3 mondta ezt."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "T\u00edrusz b\u00fcntet\u00e9se - Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eMegb\u00fcntetem T\u00edrusz lak\u00f3it, mivel b\u0171nt b\u0171nre halmoztak. \u00cdgy hat\u00e1roztam, \u00e9s nem vonom vissza, mert eg\u00e9sz falvakat ejtettek fogs\u00e1gba, hogy eladj\u00e1k \u0151ket rabszolg\u00e1nak Edomba, s nem t\u00f6r\u0151dtek vele, hogy azok sz\u00f6vets\u00e9ges testv\u00e9reik voltak."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "T\u00fczet k\u00fcld\u00f6k h\u00e1t T\u00edrusz v\u00e1rfalaira, amely el\u00e9geti v\u00e1rait \u00e9s palot\u00e1it.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Edom b\u00fcntet\u00e9se - Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eMegb\u00fcntetem Edom n\u00e9p\u00e9t, mivel b\u0171nt b\u0171nre halmoztak. \u00cdgy hat\u00e1roztam, \u00e9s nem vonom vissza, mert kivont karddal \u00fcld\u00f6zt\u00e9k a saj\u00e1t rokonaikat, irgalom n\u00e9lk\u00fcl t\u00e1madt\u00e1k \u0151ket, sz\u00fcntelen haraggal, \u00e9s k\u00f6ny\u00f6rtelen\u00fcl."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ez\u00e9rt t\u00fczet k\u00fcld\u00f6k T\u00e9m\u00e1nra, amely el\u00e9geti Bocra v\u00e1rait \u00e9s palot\u00e1it.\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ammon b\u00fcntet\u00e9se - \u201eMegb\u00fcntetem Ammon n\u00e9p\u00e9t, mivel b\u0171nt b\u0171nre halmoztak. \u00cdgy hat\u00e1roztam, \u00e9s nem vonom vissza, mert Gile\u00e1dban felhasogatt\u00e1k a terhes asszonyokat, hogy orsz\u00e1guk ter\u00fclet\u00e9t kiterjessz\u00e9k."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "T\u00fczet gy\u00fajtok h\u00e1t Rabb\u00e1 v\u00e1rfalain, amely el\u00e9geti v\u00e1rait \u00e9s palot\u00e1it, harci ki\u00e1lt\u00e1s \u00e9s csatazaj k\u00f6zepette, a vihar \u00e9s forg\u00f3sz\u00e9l idej\u00e9n."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Kir\u00e1lyukat sz\u00e1m\u0171zet\u00e9sbe hurcolj\u00e1k, s vele mennek mind a f\u0151emberek is.\u201d \u2014 az \u00d6r\u00f6kk\u00e9val\u00f3 mondta ezt."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Mo\u00e1b b\u00fcntet\u00e9se - Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eMegb\u00fcntetem Mo\u00e1b n\u00e9p\u00e9t, mivel b\u0171nt b\u0171nre halmoztak. \u00cdgy hat\u00e1roztam, \u00e9s nem vonom vissza, mert meggyal\u00e1zt\u00e1k Edom kir\u00e1ly\u00e1nak s\u00edrj\u00e1t, m\u00e9ssz\u00e9 \u00e9gett\u00e9k csontjait."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "T\u00fczet k\u00fcld\u00f6k h\u00e1t Mo\u00e1bra, amely el\u00e9geti Kerijj\u00f3t v\u00e1rait \u00e9s palot\u00e1it. Elpusztul Mo\u00e1b a csatazajban, harci ki\u00e1lt\u00e1s \u00e9s a s\u00f3f\u00e1r hangja k\u00f6zepette."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Kiv\u00e1gom bel\u0151le az uralkod\u00f3t, meg\u00f6l\u00f6m minden vezet\u0151j\u00e9t\u201d \u2014 az \u00d6r\u00f6kk\u00e9val\u00f3 mondta ezt."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "J\u00fada b\u00fcntet\u00e9se - Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eMegb\u00fcntetem J\u00fada n\u00e9p\u00e9t, mivel b\u0171nt b\u0171nre halmoztak. \u00cdgy hat\u00e1roztam, \u00e9s nem vonom vissza, mert semmibe vett\u00e9k T\u00f6rv\u00e9nyemet \u2014 az \u00d6r\u00f6kk\u00e9val\u00f3 tan\u00edt\u00e1s\u00e1t \u2014, \u00e9s nem engedelmeskedtek parancsaimnak. F\u00e9lrevezett\u00e9k \u0151ket b\u00e1lv\u00e1nyaik, amelyeket \u0151seik is tiszteltek."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "T\u00fczet k\u00fcld\u00f6k h\u00e1t J\u00fad\u00e1ra, amely el\u00e9geti Jeruzs\u00e1lem tornyait \u00e9s palot\u00e1it.\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Izr\u00e1el b\u00fcntet\u00e9se - Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eMegb\u00fcntetem Izr\u00e1el n\u00e9p\u00e9t, mivel b\u0171nt b\u0171nre halmoztak. \u00cdgy hat\u00e1roztam, \u00e9s nem vonom vissza, mert eladt\u00e1k rabszolg\u00e1nak az igazat, m\u00e1r egy csek\u00e9ly ad\u00f3ss\u00e1g miatt is. Eladt\u00e1k rabszolg\u00e1nak a szeg\u00e9nyt, b\u00e1r csak egy p\u00e1r saru \u00e1r\u00e1val tartozott."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Letaposs\u00e1k a szeg\u00e9ny nincstelent, mint a f\u00f6ld por\u00e1t, f\u00e9lrel\u00f6kik az \u00fatb\u00f3l a nyomorultat. Apa \u00e9s fia ugyanahhoz a szolgale\u00e1nyhoz j\u00e1rnak, s nevemre gyal\u00e1zatot hoznak."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Z\u00e1logba vett ruh\u00e1kon hevernek minden egyes olt\u00e1r mellett, \u00e9s isteneik h\u00e1z\u00e1ban bort isznak, amelyet a megb\u00edrs\u00e1goltakt\u00f3l kaptak."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pedig \u00e9n voltam, aki kiirtottam az em\u00f3riakat, akik magasak voltak, mint a c\u00e9drus, \u00e9s er\u0151sek, mint a t\u00f6lgy! Bizony, elpuszt\u00edtottam \u0151ket gy\u00f6kerest\u00fcl-\u00e1gastul, hogy f\u00f6ldj\u00fcket Izr\u00e1elnek adjam."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00c9n voltam, aki kihoztalak, Izr\u00e1el, Egyiptom f\u00f6ldj\u00e9r\u0151l, \u00e9s vezettelek a lakatlan puszt\u00e1ban negyven esztendeig, hogy az em\u00f3riak f\u00f6ldj\u00e9t neked adjam!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00c9n voltam, aki fiaitok k\u00f6z\u00fcl pr\u00f3f\u00e9t\u00e1kat v\u00e1lasztottam, ifjaitok k\u00f6z\u00fcl naz\u00edrokat neveltem! Nem \u00edgy van-e, Izr\u00e1el? De bizony igen!\u201d \u2014 az \u00d6r\u00f6kk\u00e9val\u00f3 mondta ezt."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201eTi pedig borral itatt\u00e1tok a naz\u00edrokat, a pr\u00f3f\u00e9t\u00e1kra meg r\u00e1parancsoltatok, hogy ne pr\u00f3f\u00e9t\u00e1ljanak!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u00d3 Izr\u00e1el, terhemre vagytok, mint k\u00e9v\u00e9k megrakott szek\u00e9rnek!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Ez\u00e9rt nem menek\u00fclhettek meg a b\u00fcntet\u00e9st\u0151l: nem futhat el a gyorsl\u00e1b\u00fa sem, az er\u0151st is elhagyja ereje, a h\u0151s harcos sem marad \u00e9letben,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "nem tud ellen\u00e1llni az \u00edj\u00e1sz sem, nem menek\u00fclhet, aki gyorsan fut, sem aki lovon v\u00e1gtat!"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Azon a napon a b\u00e1tor sz\u00edv\u0171 h\u0151s is fegyver\u00e9t eldobva, meztelen menek\u00fcl!\u201d \u2014 az \u00d6r\u00f6kk\u00e9val\u00f3 mondta ezt."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Csak titeket v\u00e1lasztottalak! - Ez\u00e9rt h\u00e1t, Izr\u00e1el fiai, hallj\u00e1tok meg az \u00d6r\u00f6kk\u00e9val\u00f3 szav\u00e1t, amelyet ellenetek mondott, eg\u00e9sz nemzets\u00e9getek ellen, amelyet Egyiptomb\u00f3l felhozott!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201eCsak titeket v\u00e1lasztottalak a f\u00f6ld \u00f6sszes nemzetei k\u00f6z\u00fcl, hogy k\u00f6z\u00f6ss\u00e9gben \u00e9ljetek velem, ez\u00e9rt b\u00fcntetlek meg titeket minden b\u0171n\u00f6t\u00f6k\u00e9rt!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Hogyan is j\u00e1rhatnak ketten egy\u00fctt, ha egym\u00e1ssal meg nem egyeztek el\u0151bb?\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ha az \u00d6r\u00f6kk\u00e9val\u00f3 sz\u00f3l, ki ne pr\u00f3f\u00e9t\u00e1lna? - Ord\u00edt-e az oroszl\u00e1n a boz\u00f3tban, ha nem tal\u00e1lt zs\u00e1km\u00e1nyt? Morog-e az oroszl\u00e1n a barlangj\u00e1ban, ha nem szerzett pr\u00e9d\u00e1t?"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Csapd\u00e1ba esik-e a mad\u00e1r a f\u00f6ld\u00f6n, ha nem \u00e1ll\u00edtottak el\u0151bb csapd\u00e1t neki? Felpattan-e a csapda a f\u00f6ldr\u0151l, ha semmit sem fogott?"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ha megf\u00fajj\u00e1k a s\u00f3f\u00e1rt a v\u00e1rosfalon, nem riad-e meg a n\u00e9p? T\u00f6rt\u00e9nhet-e valami baj a v\u00e1rosban, ha nem az \u00d6r\u00f6kk\u00e9val\u00f3 szerezte azt?"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mert Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 nem tesz semmit an\u00e9lk\u00fcl, hogy titk\u00e1t ki ne jelenten\u00e9 szolg\u00e1inak, a pr\u00f3f\u00e9t\u00e1knak."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Mikor az oroszl\u00e1n ord\u00edt, ki ne f\u00e9lne? Amikor Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 sz\u00f3l, ki ne pr\u00f3f\u00e9t\u00e1lna?"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Pr\u00f3f\u00e9cia Izr\u00e1el kir\u00e1lys\u00e1ga ellen - Hirdess\u00e9tek ezt Filisztea \u00e9s Egyiptom magas tornyair\u00f3l: \u201eGy\u0171ljetek \u00f6ssze Sam\u00e1ria hegyein, n\u00e9zz\u00e9tek ezt a z\u0171rzavart a v\u00e1rosban, l\u00e1ss\u00e1tok az elnyomottak nyomor\u00fas\u00e1g\u00e1t!\u201d"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3 Sam\u00e1ria lakosair\u00f3l: \u201eM\u00e1r nem is tudnak j\u00f3t tenni, csak er\u0151szakkal szerzett kincseket gy\u0171jtenek palot\u00e1ikban.\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Ez\u00e9rt azt mondja Uram, az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eElfoglalja f\u00f6ldeteket az ellens\u00e9g, lerombolja v\u00e1raitokat, kirabolja palot\u00e1itokat.\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eMikor az oroszl\u00e1n elragad a ny\u00e1jb\u00f3l egy juhot, abb\u00f3l a p\u00e1sztornak csak egy-k\u00e9t l\u00e1bsz\u00e1r, vagy a f\u00fcle marad. Ugyan\u00edgy, Sam\u00e1ria lakosai k\u00f6z\u00fcl is csak n\u00e9h\u00e1nyan menek\u00fclt marad \u00e9letben, a t\u00f6bbi mind elpusztul! A menek\u00fcltek kez\u00e9ben szinte semmi sem marad: tal\u00e1n egy darab ruha, vagy egy takar\u00f3, a t\u00f6bbi vagyonuk mind elpusztul!\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ezt mondja Uram, az \u00d6r\u00f6kk\u00e9val\u00f3, a Seregek Ura \u00e9s Istene: \u201eHalld meg ezt, \u00e9s figyelmeztesd J\u00e1k\u00f3b n\u00e9p\u00e9t:"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Amikor megb\u00fcntetem Izr\u00e1elt b\u0171nei miatt, B\u00e9telt is megb\u00fcntetem: let\u00f6r\u00f6m olt\u00e1rainak szarvait, \u00e9s a f\u00f6ldre dobom."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Sz\u00e9trombolom a v\u00e1rosi h\u00e1zakat \u00e9s a vid\u00e9ki nyaral\u00f3kat, \u00f6sszed\u0151lnek az elef\u00e1ntcsonttal d\u00edsz\u00edtett palot\u00e1k, elpusztulnak a kis \u00e9s nagy h\u00e1zak egyar\u00e1nt\u201d. \u2014 ezt mondta az \u00d6r\u00f6kk\u00e9val\u00f3."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pr\u00f3f\u00e9cia a gazdag sam\u00e1riai asszonyok ellen - Hallj\u00e1tok meg ezt az \u00fczenetet, ti gazdag sam\u00e1riai asszonyok, akik megh\u00edztatok a j\u00f3l\u00e9tben, mint a b\u00e1s\u00e1ni tehenek, akik elnyomj\u00e1tok a szeg\u00e9nyeket, letiporj\u00e1tok a nincsteleneket, akik f\u00e9rjeitekkel bort hozattok, hogy ann\u00e1l mulassatok!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Megesk\u00fcd\u00f6tt Uram, az \u00d6r\u00f6kk\u00e9val\u00f3, a saj\u00e1t szents\u00e9g\u00e9re, hogy elj\u00f6n az id\u0151, amikor foglyul ejtenek \u00e9s elhurcolnak titeket, gyermekeitekkel egy\u00fctt, ahogy h\u00e1l\u00f3ba ker\u00edtik a nagy halakat, \u00e9s horoggal kifogj\u00e1k a kis halakat."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "A v\u00e1rosfal t\u00f6r\u00e9sein \u00e1t menek\u00fclt\u00f6k ki, \u00e9s a Herm\u00f3n fel\u00e9 hajtanak el benneteket \u2014 ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "A nemzet, amely elutas\u00edtja a feny\u00edt\u00e9st - \u201eMenjetek csak B\u00e9telbe, hogy ott v\u00e9tkezzetek! Menjetek csak Gilg\u00e1lba, hogy b\u0171nt b\u0171nre halmozzatok! Vigy\u00e9tek \u00e1ldozataitokat minden reggel, meg tizedeiteket a h\u00e1romnapos \u00fcnnepekre,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "vigy\u00e9tek csak a kov\u00e1szos \u00e9tel\u00e1ldozatot, dicsekedjetek csak a h\u00e1la\u00e1ldozattal, hadd l\u00e1ssa mindenki! Hiszen ti \u00edgy szeretitek, Izr\u00e1el fiai, nem igaz?!\u201d \u2014 ezt \u00fczeni nektek Uram, az \u00d6r\u00f6kk\u00e9val\u00f3."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u201eEz\u00e9rt \u00e9h\u00edns\u00e9get k\u00fcldtem r\u00e1tok minden v\u00e1rosban, hogy m\u00e9g keny\u00e9r sem maradt h\u00e1zaitokban, de m\u00e9gsem fordultatok vissza hozz\u00e1m!\u201d \u2014 ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u201eElvettem t\u0151letek a tavaszi es\u0151t, mikor a gabon legjobban k\u00edv\u00e1nta volna. Egyik v\u00e1rosra k\u00fcldtem es\u0151t, a m\u00e1sik sz\u00e1razon maradt. Egyik mez\u0151re esett, a m\u00e1sik teljesen kis\u00fclt."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "K\u00e9t-h\u00e1rom v\u00e1ros lak\u00f3i t\u00e1ntorogtak egy k\u00fathoz iv\u00f3v\u00edz\u00e9rt, de nem jutott mindenkinek, m\u00e9gsem fordultatok vissza hozz\u00e1m!\u201d \u2014 ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201eKertjeitek \u00e9s sz\u0151l\u0151itek term\u00e9s\u00e9t betegs\u00e9gekkel puszt\u00edtottam el, f\u00fcge- \u00e9s olajf\u00e1itokat ler\u00e1gt\u00e1k a s\u00e1sk\u00e1k, m\u00e9gsem fordultatok vissza hozz\u00e1m!\u201d \u2014 ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u201eBetegs\u00e9ggel vertelek meg titeket, j\u00e1rv\u00e1nyokkal, mint egykor Egyiptom lak\u00f3it, ifjaitokat kiszolg\u00e1ltattam a kard \u00e9l\u00e9nek, lovaitokat zs\u00e1km\u00e1nyul adtam ellens\u00e9geiteknek, t\u00e1borotokat orrfacsar\u00f3 hullab\u0171z bor\u00edtotta, m\u00e9gsem fordultatok vissza hozz\u00e1m!\u201d \u2014 ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u201e\u00dagy elpuszt\u00edtottam n\u00e9h\u00e1ny v\u00e1rosotokat, ahogy elt\u00f6r\u00f6ltem Sodom\u00e1t \u00e9s Gomor\u00e1t, s mint a t\u0171zb\u0151l kikapott \u00fcszk\u00f6s fadarab, olyan lett, aki megmaradt, m\u00e9gsem fordultatok vissza hozz\u00e1m!\u201d \u2014 ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u201eEmiatt \u00edgy b\u00e1nok majd veled, Izr\u00e1el! S mivel \u00edgy b\u00e1nok veled, k\u00e9sz\u00fclj \u00edt\u00e9letemre, mert bizony Istened el\u00e9 kell \u00e1llanod!\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u0150 az, aki hegyeket form\u00e1l, \u00e9s szelet teremt. \u0150 teremti az ember szellem\u00e9t, \u00e9s gondolatait kijelenti az embereknek. \u0150 v\u00e1ltoztatja a hajnalt s\u00f6t\u00e9ts\u00e9gg\u00e9, \u00e9s l\u00e9pdel a f\u00f6ld magaslatain. \u00d6r\u00f6kk\u00e9val\u00f3, Seregek Ura \u00e9s Istene \u2014 ez az \u0151 neve!"
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sirat\u00f3\u00e9nek Izr\u00e1elr\u0151l - Halld meg ezt, Izr\u00e1el n\u00e9pe! Halld meg sirat\u00f3\u00e9nekem, amellyel gy\u00e1szollak t\u00e9ged!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u201eJaj, elesett Izr\u00e1el sz\u0171z le\u00e1nya, fel sem kel soha t\u00f6bb\u00e9! Olyann\u00e1 lett, mint akit fegyver s\u00fajtott porba! Saj\u00e1t f\u00f6ldj\u00e9n ter\u00fclt el, ott hagyt\u00e1k egyed\u00fcl, nincs, aki f\u00f6lemelje!\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mert ezt mondja Uram, az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eHa egy v\u00e1rosb\u00f3l ezren indultok csat\u00e1ba, csak sz\u00e1z t\u00e9r vissza \u00e9lve, ha sz\u00e1zan indultok, csak t\u00edz t\u00e9r haza \u00e9ps\u00e9gben.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Engem keressetek, hogy \u00e9ljetek! - Ezt \u00fczeni az \u00d6r\u00f6kk\u00e9val\u00f3 Izr\u00e1el n\u00e9p\u00e9nek: \u201eEngem keressetek, hogy \u00e9ljetek!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Ne B\u00e9telbe igyekezzetek, ne Gilg\u00e1lba siessetek! Be\u00e9rseb\u00e1ba se menjetek \u00e1t, hiszen Gilg\u00e1l lak\u00f3it sz\u00e1m\u0171zet\u00e9sbe hurcolj\u00e1k, B\u00e9telt meg porig rombolj\u00e1k!\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ti, akik elcsavarj\u00e1tok a jogoss\u00e1got, \u00e9s l\u00e1bbal tiporj\u00e1tok az igazs\u00e1goss\u00e1got, az \u00d6r\u00f6kk\u00e9val\u00f3t keress\u00e9tek, \u00e9s \u00e9lni fogtok! K\u00fcl\u00f6nben olthatatlan t\u0171z gyullad fel J\u00f3zsef h\u00e1z\u00e1ban, amely m\u00e9g B\u00e9telt is porr\u00e1 \u00e9geti!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Ti, akik elcsavarj\u00e1tok a jogoss\u00e1got, \u00e9s l\u00e1bbal tiporj\u00e1tok az igazs\u00e1goss\u00e1got, az \u00d6r\u00f6kk\u00e9val\u00f3t keress\u00e9tek, \u00e9s \u00e9lni fogtok! K\u00fcl\u00f6nben olthatatlan t\u0171z gyullad fel J\u00f3zsef h\u00e1z\u00e1ban, amely m\u00e9g B\u00e9telt is porr\u00e1 \u00e9geti!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "\u0150 az, aki a Fiasty\u00fakot \u00e9s a Kasz\u00e1s-csillagot teremtette, a s\u0171r\u0171 s\u00f6t\u00e9ts\u00e9get hajnall\u00e1 v\u00e1ltoztatja, a nappalt meg \u00e9jszak\u00e1v\u00e1. \u0150 sz\u00f3l\u00edtja el\u0151 a tengerek viz\u00e9t, \u00e9s elbor\u00edtja a f\u00f6ld sz\u00edn\u00e9t vele. \u00d6r\u00f6kk\u00e9val\u00f3 \u2014 ez az \u0151 neve!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u0150 s\u00fajt le a hatalmasokra, mint a vill\u00e1m, \u00e9s hirtelen elpuszt\u00edtja v\u00e1raikat."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Fenyeget\u0151 pr\u00f3f\u00e9cia a gazdagok ellen - Ti gy\u0171l\u00f6litek azt, aki nyilv\u00e1nosan el\u00edt\u00e9li az igazs\u00e1gtalans\u00e1got, \u00e9s ut\u00e1lj\u00e1tok, mert igazat mond."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Tudj\u00e1tok meg h\u00e1t: mivel letapost\u00e1tok a szeg\u00e9nyeket, \u00e9s elvett\u00e9tek t\u0151l\u00fck m\u00e9g a keny\u00e9rnek val\u00f3 gabon\u00e1t is, ez\u00e9rt hi\u00e1ba \u00e9p\u00edtitek el\u0151kel\u0151 h\u00e1zaitokat, nem fogtok benn\u00fck lakni soha! Hi\u00e1ba gondozz\u00e1tok sz\u00e9p sz\u0151l\u0151iteket, meg sem k\u00f3stolhatj\u00e1tok a bor\u00e1t!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "J\u00f3l tudom, milyen sok b\u0171n terhel titeket, s milyen sokat v\u00e9tkeztetek: nyomorgatj\u00e1tok az igazakat, elfogadj\u00e1tok a megveszteget\u00e9st, megfosztj\u00e1tok jogaikt\u00f3l a szeg\u00e9nyeket a b\u00edr\u00f3s\u00e1g el\u0151tt."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Ez\u00e9rt, aki \u00e9rtelmes, b\u00f6lcsebb, ha hallgat, mert gonosz id\u0151ket \u00e9l\u00fcnk."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "T\u00f6rekedjetek ink\u00e1bb a j\u00f3ra, ne a rosszra, akkor nyugodtan \u00e9lhettek, s az \u00d6r\u00f6kk\u00e9val\u00f3, a Seregek Ura \u00e9s Istene val\u00f3ban veletek lesz, ahogyan mondogatj\u00e1tok!"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Gy\u0171l\u00f6lj\u00e9tek a gonoszt, \u00e9s szeress\u00e9tek a j\u00f3t, \u00e1ll\u00edts\u00e1tok helyre az igazs\u00e1gos \u00edt\u00e9lkez\u00e9st! Akkor tal\u00e1n megk\u00f6ny\u00f6r\u00fcl rajtatok az \u00d6r\u00f6kk\u00e9val\u00f3, a Seregek Ura \u00e9s Istene, \u00e9s megkegyelmez Izr\u00e1el marad\u00e9k\u00e1nak."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Ezt mondja Uram, az \u00d6r\u00f6kk\u00e9val\u00f3, a Seregek Ura \u00e9s Istene: \u201eMinden utc\u00e1n keservesen jajgatni fognak, \u00e9s a tereken r\u00e9m\u00fclten ki\u00e1ltoznak. Siratni h\u00edvj\u00e1k m\u00e9g a f\u00f6ldm\u0171veseket is, a sirat\u00f3asszonyokkal egy\u00fctt, hogy jajgassanak."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Bizony, minden sz\u0151l\u0151skertben s\u00edrni fognak, amikor \u00e1tmegyek k\u00f6z\u00f6ttetek!\u201d \u2014 ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Az \u00d6r\u00f6kk\u00e9val\u00f3 napja - Jaj nektek, akik k\u00edv\u00e1nj\u00e1tok az \u00d6r\u00f6kk\u00e9val\u00f3 napj\u00e1t! Mit rem\u00e9ltek az \u0151 napj\u00e1t\u00f3l? Hiszen sz\u00e1motokra s\u00f6t\u00e9t az a nap, nem vil\u00e1goss\u00e1g!"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "\u00dagy j\u00e1rtok vele, mint aki oroszl\u00e1n el\u0151l fut, \u00e9s medve t\u00e1madja meg. Vagy a h\u00e1z\u00e1ba menek\u00fclve a falhoz t\u00e1maszkodik, s ott marja meg a vipera."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Hiszen sz\u00e1motokra s\u00f6t\u00e9ts\u00e9get hoz az a nap, nem vil\u00e1goss\u00e1got! Bizony, s\u0171r\u0171 hom\u00e1lyt, amelyben m\u00e9g halv\u00e1ny f\u00e9nysug\u00e1r sincs!"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Gy\u0171l\u00f6l\u00f6m vall\u00e1sos \u00fcnnepeiteket! - \u201eGy\u0171l\u00f6l\u00f6m vall\u00e1sos \u00fcnnepeiteket, nem szenvedhetem tov\u00e1bb! Nem gy\u00f6ny\u00f6rk\u00f6d\u00f6m \u00fcnnepi gy\u0171l\u00e9seitekben!"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Hi\u00e1ba hoztok el\u00e9m \u00e9g\u0151- \u00e9s \u00e9tel\u00e1ldozatokat, nem fogadom el t\u0151letek, hizlalt h\u00e1la\u00e1ldozati \u00e1llataitokra r\u00e1 sem n\u00e9zek!"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Elegem van dics\u0151\u00edt\u0151 \u00e9nekeitek zaj\u00e1b\u00f3l! Hallani sem b\u00edrom h\u00e1rf\u00e1tok dallam\u00e1t!"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Ink\u00e1bb \u00e1radjon az \u00edt\u00e9let, z\u00faduljon al\u00e1 az igazs\u00e1g, mint a hirtelen t\u00e1madt \u00e1rv\u00edz, vagy a medr\u00e9b\u0151l kil\u00e9p\u0151 foly\u00f3!\u201d"
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "\u201eIzr\u00e1el, \u00e9g\u0151\u00e1ldozatokat \u00e9s \u00e9tel\u00e1ldozatokat hozt\u00e1l nekem negyven \u00e9vig, a pusztai v\u00e1ndorl\u00e1s idej\u00e9n."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "De hordozt\u00e1tok isteneitek, Szikk\u00fat, Molok, Kijj\u00fan, meg a csillagok isteneinek b\u00e1lv\u00e1nyait, amelyeket magatoknak k\u00e9sz\u00edtettetek!"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Ez\u00e9rt h\u00e1t messzire \u0171zlek titeket, sz\u00e1m\u0171zet\u00e9sbe hurcolnak benneteket, Damaszkuszon is t\u00falra!\u201d \u2014 ezt mondja az, kinek neve \u00d6r\u00f6kk\u00e9val\u00f3, a Seregek Ura \u00e9s Istene."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Az \u00f6nel\u00e9g\u00fclt elbizakodotts\u00e1g b\u00fcntet\u00e9se - Jaj nektek, akik gondtalan j\u00f3l\u00e9tben \u00e9ltek a Sionon! Jaj nektek, akik \u00f6nel\u00e9g\u00fclt elbizakodotts\u00e1gban \u00e9ltek Sam\u00e1ri\u00e1ban, akik magatokat a legk\u00fcl\u00f6nb n\u00e9p vezet\u0151inek tartj\u00e1tok, hiszen hozz\u00e1tok fordul tan\u00e1cs\u00e9rt eg\u00e9sz Izr\u00e1el!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Menjetek csak el Kaln\u00e9ba, n\u00e9zzetek sz\u00e9t a nagy Ham\u00e1tban, j\u00e1rj\u00e1tok be G\u00e1t v\u00e1ros\u00e1t a filiszteusok f\u00f6ldj\u00e9n! K\u00fcl\u00f6nbek vagytok-e n\u00e1luk? Nem nagyobb-e orsz\u00e1guk a tietekn\u00e9l?"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Jaj nektek, akik a veszedelem napj\u00e1t t\u00e1volinak gondolj\u00e1tok, pedig tetteitekkel \u00e9ppen ti s\u00fcrgetitek j\u00f6vetel\u00e9t!"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Jaj nektek, akik d\u00edszes pamlagon hever\u00e9sztek, elef\u00e1ntcsonttal d\u00edsz\u00edtett nyoszoly\u00e1kon ny\u00fajt\u00f3zkodtok, akik b\u00e1r\u00e1nys\u00fclttel lakom\u00e1ztok, s lev\u00e1gj\u00e1tok a borjakat magatoknak,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "h\u00e1rf\u00e1t pengetve dalolgattok, \u00e9s hangszereket k\u00e9sz\u00edtetek magatoknak, mint D\u00e1vid,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "akik \u00f6bl\u00f6s kors\u00f3kb\u00f3l issz\u00e1tok a bort, s dr\u00e1ga illatszerekkel kenegetitek magatokat, de J\u00f3zsef n\u00e9pe roml\u00e1s\u00e1n nem b\u00e1nk\u00f3dtok!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Els\u0151k lesztek h\u00e1t, akiket sz\u00e1m\u0171zet\u00e9sbe hurcolnak, s v\u00e9ge szakad a heny\u00e9l\u0151k lakom\u00e1inak!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 megesk\u00fcd\u00f6tt \u00f6nmag\u00e1ra, ezt mondta az \u00d6r\u00f6kk\u00e9val\u00f3, a Seregek Ura \u00e9s Istene: \u201eUt\u00e1lom, amire J\u00e1k\u00f3b n\u00e9pe oly b\u00fcszke, gy\u0171l\u00f6l\u00f6m v\u00e1rait \u00e9s palot\u00e1it, ez\u00e9rt kiszolg\u00e1ltatom a v\u00e1rost ellens\u00e9geinek, \u00e9s kez\u00fckbe adok mindenkit, aki csak benne lakik.\u201d"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Csak kevesen maradnak \u00e9letben Izr\u00e1elben - Akkor, ha t\u00edzen maradnak \u00e9lve egy csal\u00e1db\u00f3l, m\u00e9g azok is meghalnak."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "S ha elj\u00f6n egy rokon, hogy kivigye a h\u00e1zb\u00f3l a holttesteket, hogy el\u00e9gesse \u0151ket; megk\u00e9rdezi azt, aki a h\u00e1zban maradt: \u201eVan-e m\u00e9g ott valaki m\u00e1s?\u201d Az meg v\u00e1laszol: \u201eNem, nincs m\u00e1s, h\u00e1la\u2026\u201d. De a m\u00e1sik f\u00e9lbeszak\u00edtja: \u201eHallgass! Ki ne mondd az \u00d6r\u00f6kk\u00e9val\u00f3 nev\u00e9t!\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mert n\u00e9zz\u00e9tek, az \u00d6r\u00f6kk\u00e9val\u00f3 parancsol, \u00e9s darabokra t\u00f6ri a nagy h\u00e1zakat, apr\u00f3 t\u00f6rmel\u00e9kk\u00e9 z\u00fazza a kis h\u00e1zakat!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Vajon v\u00e1gtatnak-e a lovak a szikl\u00e1kon? Vagy felsz\u00e1nthatj\u00e1tok-e \u00f6kr\u00f6kkel a tengerpartot? De ti az igaz \u00edt\u00e9letet keser\u0171 m\u00e9regre cser\u00e9lt\u00e9tek! Az igazs\u00e1goss\u00e1g gy\u00fcm\u00f6lcse helyett \u00fcr\u00f6m terem n\u00e1latok!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Dicsekedtek vele, hogy L\u00f3deb\u00e1rt elfoglalt\u00e1tok. K\u00e9rkedve mondj\u00e1tok: \u201eL\u00e1m, a magunk erej\u00e9vel foglaltuk el Karnaim v\u00e1r\u00e1t!\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u201eEz\u00e9rt h\u00e1t, Izr\u00e1el, ellened ind\u00edtok egy n\u00e9pet \u2014 mondja az \u00d6r\u00f6kk\u00e9val\u00f3, a Seregek Ura \u00e9s Istene \u2014, elnyomnak \u00e9s sanyargatnak majd t\u00e9ged eg\u00e9sz f\u00f6ldeden, a ham\u00e1ti \u00fatt\u00f3l az Arava-v\u00f6lgyig.\u201d"
+                }
+            }
+        },
+        "7": {
+            "chapter_nr": "7",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Els\u0151 l\u00e1tom\u00e1s: a s\u00e1skaj\u00e1r\u00e1s - Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 ezt mutatta nekem l\u00e1tom\u00e1sban: Kasz\u00e1l\u00f3r\u00e9tet l\u00e1ttam, a kir\u00e1lyi kasz\u00e1l\u00e1s ut\u00e1n, amikor \u00fajra n\u0151ni kezdett a f\u0171. Az \u00d6r\u00f6kk\u00e9val\u00f3 s\u00e1skarajt form\u00e1lt, \u00e9s r\u00e1k\u00fcldte a z\u00f6ldell\u0151 mez\u0151re."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Mikor a s\u00e1sk\u00e1k m\u00e1r eg\u00e9szen csupaszra tarolt\u00e1k a r\u00e9tet, felki\u00e1ltottam: \u201eJaj, Uram, \u00d6r\u00f6kk\u00e9val\u00f3! K\u00f6ny\u00f6rg\u00f6k, bocs\u00e1ss meg nek\u00fcnk, k\u00fcl\u00f6nben J\u00e1k\u00f3b n\u00e9pe nem \u00e9li t\u00fal ezt a csap\u00e1st, hiszen m\u00e1r csak maroknyian maradtunk meg!\u201d"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Akkor az \u00d6r\u00f6kk\u00e9val\u00f3 megengesztel\u0151d\u00f6tt, \u00e9s visszah\u00edvta a csap\u00e1st. \u201eJ\u00f3l van, ez nem fog bek\u00f6vetkezni\u201d \u2014 mondta."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "M\u00e1sodik l\u00e1tom\u00e1s: a t\u0171z - Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 ezt mutatta nekem l\u00e1tom\u00e1sban. T\u00fczet h\u00edvott el\u0151, hogy azzal b\u00fcntesse meg n\u00e9p\u00e9t. A t\u0171z elpuszt\u00edtotta a nagy m\u00e9lys\u00e9get, \u00e9s m\u00e1r a megm\u0171velt f\u00f6ldeket is kezdte el\u00e9getni."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Akkor felki\u00e1ltottam: \u201eJaj, Uram, \u00d6r\u00f6kk\u00e9val\u00f3! K\u00f6ny\u00f6rg\u00f6k, \u00e1ll\u00edtsd meg a csap\u00e1st, k\u00fcl\u00f6nben J\u00e1k\u00f3b n\u00e9pe nem \u00e9li t\u00fal, hiszen m\u00e1r csak maroknyian maradtunk meg!\u201d"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Akkor az \u00d6r\u00f6kk\u00e9val\u00f3 megengesztel\u0151d\u00f6tt, \u00e9s visszah\u00edvta a csap\u00e1st. \u201eJ\u00f3l van, ez sem fog bek\u00f6vetkezni\u201d \u2014 mondta."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Harmadik l\u00e1tom\u00e1s: a f\u00fcgg\u0151\u00f3n - Majd ezt mutatta nekem l\u00e1tom\u00e1sban: az \u00dar egy fal tetej\u00e9n \u00e1llt, \u00e9s kez\u00e9ben f\u00fcgg\u0151\u00f3nnal vizsg\u00e1lta, hogy a fal f\u00fcgg\u0151leges-e."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Ezt k\u00e9rdezte t\u0151lem az \u00d6r\u00f6kk\u00e9val\u00f3: \u201e\u00c1m\u00f3sz, mit l\u00e1tsz?\u201d \u201eF\u00fcgg\u0151\u00f3nt\u201d \u2014 v\u00e1laszoltam. Akkor \u0151 \u00edgy folytatta: \u201eL\u00e1tod, f\u00fcgg\u0151\u00f3nnal vizsg\u00e1lom meg n\u00e9pemet, Izr\u00e1elt, \u00e9s nem k\u00edm\u00e9lem meg \u0151ket t\u00f6bb\u00e9 a b\u00fcntet\u00e9st\u0151l!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Bizony elpusztulnak Izs\u00e1k n\u00e9p\u00e9nek magaslatai, romhalmazz\u00e1 lesz Izr\u00e1elben minden szent \u00e9p\u00fclet, \u00e9s fegyverrel t\u00e1madok Jerobo\u00e1m kir\u00e1ly csal\u00e1dj\u00e1ra!\u201d"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Amacj\u00e1 r\u00e1t\u00e1mad \u00c1m\u00f3szra - Amacj\u00e1, a b\u00e9teli szent\u00e9ly papja \u00fczenetet k\u00fcld\u00f6tt Jerobo\u00e1mnak, Izr\u00e1el kir\u00e1ly\u00e1nak: \u201eKir\u00e1lyom, \u00c1m\u00f3sz l\u00e1zad\u00e1st sz\u00edt ellened a n\u00e9p k\u00f6z\u00f6tt. Nem t\u0171rheti tov\u00e1bb az orsz\u00e1g \u00c1m\u00f3sz besz\u00e9d\u00e9t!"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Mert azt mondta: \u00bbJerobo\u00e1m meghal a csat\u00e1ban, Izr\u00e1el n\u00e9p\u00e9t pedig k\u00e9ts\u00e9gtelen\u00fcl sz\u00e1m\u0171zet\u00e9sbe hurcolj\u00e1k, messze f\u00f6ldre.\u00ab\u201d"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Azut\u00e1n Amacj\u00e1 ezt mondta \u00c1m\u00f3sznak: \u201ePr\u00f3f\u00e9ta, menj el innen, siess vissza J\u00fada f\u00f6ldj\u00e9re! Ott keresd meg a kenyeredet, ott pr\u00f3f\u00e9t\u00e1lj!"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Itt, B\u00e9telben, nem pr\u00f3f\u00e9t\u00e1lhatsz t\u00f6bb\u00e9, mert ez a kir\u00e1ly szent helye, \u00e9s kir\u00e1lys\u00e1g\u00e1nak temploma!\u201d"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "\u00c1m\u00f3sz \u00edgy v\u00e1laszolt Amacj\u00e1nak: \u201eNem vagyok \u00e9n pr\u00f3f\u00e9ta, sem a pr\u00f3f\u00e9t\u00e1k tan\u00edtv\u00e1nya. Gazd\u00e1lkod\u00f3 vagyok, juhokat, marh\u00e1kat teny\u00e9sztek, gy\u00fcm\u00f6lcsf\u00e1kat gondozok."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "De az \u00d6r\u00f6kk\u00e9val\u00f3 elh\u00edvott a ny\u00e1jam mell\u0151l, s azt mondta nekem: \u00bbMenj, \u00e9s pr\u00f3f\u00e9t\u00e1lj Izr\u00e1elnek, n\u00e9pemnek!\u00ab"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Most h\u00e1t hallgasd meg Amacj\u00e1, mit \u00fczen neked az \u00d6r\u00f6kk\u00e9val\u00f3! Te azt mondod, ne pr\u00f3f\u00e9t\u00e1ljak Izr\u00e1el ellen, ne sz\u00f3ljak Izs\u00e1k n\u00e9pe ellen."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Az \u00d6r\u00f6kk\u00e9val\u00f3 pedig ezt mondja neked: \u00bbFeles\u00e9ged prostitu\u00e1ltt\u00e1 lesz a v\u00e1rosban, fiaidat \u00e9s le\u00e1nyaidat fegyverrel \u00f6lik meg, birtokod elveszik, \u00e9s felosztj\u00e1k az idegenek, te magad idegen f\u00f6ld\u00f6n halsz meg, Izr\u00e1elt pedig sz\u00e1m\u0171zet\u00e9sbe hurcolj\u00e1k!\u00ab\u201d"
+                }
+            }
+        },
+        "8": {
+            "chapter_nr": "8",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Negyedik l\u00e1tom\u00e1s: \u00e9rett gy\u00fcm\u00f6lcs\u00f6k - Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 ezt mutatta nekem l\u00e1tom\u00e1sban: Egy kos\u00e1r \u00e9rett gy\u00fcm\u00f6lcs\u00f6t l\u00e1ttam."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ezt k\u00e9rdezte: \u201e\u00c1m\u00f3sz, mit l\u00e1tsz?\u201d \u201eEgy kos\u00e1r \u00e9rett gy\u00fcm\u00f6lcs\u00f6t\u201d \u2014 v\u00e1laszoltam. Akkor \u00edgy folytatta: \u201eMeg\u00e9rett az \u00edt\u00e9letre n\u00e9pem, nem k\u00edm\u00e9lem meg a b\u00fcntet\u00e9st\u0151l t\u00f6bb\u00e9!"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Azon a napon a templomi \u00e9nek helyett sirat\u00f3\u00e9nek hallatszik \u2014 mondja Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 \u2014, tem\u00e9rdek hulla hever majd minden\u00fctt, \u00e9s sz\u00f3tlanul hordj\u00e1k halomba.\u201d"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Fenyeget\u0151 pr\u00f3f\u00e9ci\u00e1k Izr\u00e1el ellen - Hallj\u00e1tok meg ezt, ti keresked\u0151k, akik letaposs\u00e1tok a szeg\u00e9nyeket, \u00e9s puszt\u00edtj\u00e1tok a nyomorultakat!"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Akik azt mondj\u00e1tok magatokban: \u201eB\u00e1rcsak elm\u00falna m\u00e1r az \u00dajhold \u00fcnnepe, hogy megint \u00e1rulhatn\u00e1nk a gabon\u00e1t! Mikor lesz m\u00e1r v\u00e9ge a szombatnak, hogy eladhassuk a b\u00faz\u00e1t? Kisebb\u00edts\u00fck meg a m\u00e9rt\u00e9ket, emelj\u00fck fel az \u00e1rakat, hamis\u00edtsuk meg a m\u00e9rleget,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "adjuk el a szemetes gabon\u00e1t is! V\u00e1s\u00e1roljunk ad\u00f3srabszolg\u00e1kat a szeg\u00e9nyek k\u00f6z\u00fcl, vegy\u00fck meg a nincsteleneket, m\u00e9g ha csak egy p\u00e1r saru \u00e1r\u00e1val tartoznak is!\u201d"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "\u00d6nmag\u00e1ra esk\u00fcd\u00f6tt az \u00d6r\u00f6kk\u00e9val\u00f3, J\u00e1k\u00f3b Dics\u0151s\u00e9ge: \u201eNem felejtem el soha e n\u00e9p gonosztetteit!"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "H\u00e1t ne rend\u00fclj\u00f6n meg a f\u00f6ld miattuk? Bizony, mindannyian gy\u00e1szolni fognak! Az eg\u00e9sz orsz\u00e1g beleremeg, emelkedik, majd les\u00fcllyed, ahogy a N\u00edlus \u00e1rad \u00e9s apad\u201d."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u201eAzon a napon lenyugtatom a napot d\u00e9lid\u0151ben \u2014 ezt mondja Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 \u2014, f\u00e9nyes nappal s\u00f6t\u00e9ts\u00e9gbe bor\u00edtom az eg\u00e9sz f\u00f6ldet."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "\u00dcnnepeiteket gy\u00e1szol\u00e1ss\u00e1 v\u00e1ltoztatom, \u00e9nekeiteket pedig sirat\u00f3\u00e9nekk\u00e9. Minden der\u00e9kra zs\u00e1kruh\u00e1t k\u00f6t\u00f6k, mindegyik\u0151t\u00f6k fej\u00e9t kopaszra ny\u00edrom, s olyan gy\u00e1szba bor\u00edtalak titeket, mint ahogy az egysz\u00fcl\u00f6tt fi\u00fat siratj\u00e1k. Bizony, keserves lesz sz\u00e1motokra az a nap \u00e9s keser\u0171!\u201d"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Az \u00d6r\u00f6kk\u00e9val\u00f3 szav\u00e1ra \u00e9heznek \u00e9s szomjaznak - \u201eBizony, elj\u00f6nnek a napok \u2014 ezt mondja Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 \u2014, mikor \u00e9hs\u00e9get k\u00fcld\u00f6k a f\u00f6ldre, de nem keny\u00e9rre \u00e9heznek majd! Szomj\u00fas\u00e1got bocs\u00e1tok r\u00e1juk, de nem v\u00edzre szomjaznak! Az \u00d6r\u00f6kk\u00e9val\u00f3 szav\u00e1t k\u00edv\u00e1nj\u00e1k, ig\u00e9j\u00e9re \u00e9heznek \u00e9s szomjaznak!"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "V\u00e1ndorolnak egyik tengert\u0151l a m\u00e1sikig, \u00e9s \u00e9szakt\u00f3l keletig, futnak, hogy keress\u00e9k az \u00d6r\u00f6kk\u00e9val\u00f3 besz\u00e9d\u00e9t, de nem tal\u00e1lj\u00e1k majd sehol!\u201d"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "\u201eAzon a napon a sz\u00e9p fiatal le\u00e1nyok \u00e9s az er\u0151s ifjak mind elepednek a szomj\u00fas\u00e1g miatt!"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mind elesnek, mivel Sam\u00e1ria sz\u00e9gyenletes b\u00e1lv\u00e1nyaira esk\u00fcdtek: \u00bbD\u00e1n isten\u00e9re mondom!\u00ab \u00e9s: \u00bbA be\u00e9rsebai \u00fatra mondom!\u00ab Elesnek, bizony, \u00e9s fel sem kelnek t\u00f6bb\u00e9!\u201d"
+                }
+            }
+        },
+        "9": {
+            "chapter_nr": "9",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "L\u00e1ttam az Urat az olt\u00e1r mellett \u00e1llni - L\u00e1ttam az Urat, amint az olt\u00e1r mellett \u00e1llt, \u00e9s ezt mondta: \u201eS\u00fajts le az oszlopf\u0151re, hogy m\u00e9g az alap is megremegjen! D\u00f6ntsd r\u00e1 az eg\u00e9sz h\u00e1zat a benne l\u00e9v\u0151k fej\u00e9re! Akik \u00e9letben maradnak, azokat fegyverrel \u00f6l\u00f6m meg. Egy sem fog elszaladni, senki sem menek\u00fclhet!"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Ha le\u00e1snak, er\u0151szakkal bet\u00f6rnek a Seolba, onnan is el\u0151h\u00fazom \u0151ket. Ha felkapaszkodnak az \u00e9gbe, onnan is ler\u00e1ntom \u0151ket."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Ha a K\u00e1rmel tetej\u00e9n rejt\u0151znek el, ott is megtal\u00e1lom, \u00e9s megragadom \u0151ket. Ha a tenger m\u00e9ly\u00e9n b\u00fajnak el, hogy ne l\u00e1ssam \u0151ket, ott is parancsolok a k\u00edgy\u00f3nak, hogy marja meg \u0151ket."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Ha ellens\u00e9geik fogs\u00e1gba hurcolj\u00e1k \u0151ket, ott is parancsolok a fegyvernek, hogy \u00f6lje meg \u0151ket. Bizony szemmel tartom n\u00e9pemet, de nem a javukra, hanem a veszt\u00fckre!\u201d"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Uram, az \u00d6r\u00f6kk\u00e9val\u00f3, a Seregek Ura meg\u00e9rinti a f\u00f6ldet, \u00e9s az beleremeg, emelkedik \u00e9s les\u00fcllyed, ak\u00e1r a N\u00edlus vize Egyiptomban. A f\u00f6ld lakosai pedig mind s\u00edrnak \u00e9s gy\u00e1szolnak."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Az \u00d6r\u00f6kk\u00e9val\u00f3 a Mennyben \u00e9p\u00edtette lak\u00f3hely\u00e9t, \u00e9s a F\u00f6ldre alapozta az \u00e9g boltozat\u00e1t. \u0150 sz\u00f3l\u00edtja el\u0151 a tengerek viz\u00e9t, \u00e9s elbor\u00edtja a f\u00f6ld sz\u00edn\u00e9t vele, \u0150 az \u00d6r\u00f6kk\u00e9val\u00f3 \u2014 ez az \u0151 neve!"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "J\u00e1k\u00f3b n\u00e9p\u00e9t m\u00e9gsem puszt\u00edtom el teljesen - Ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3: \u201eIzr\u00e1el n\u00e9pe! Olyanok lettetek sz\u00e1momra, mint Eti\u00f3pia n\u00e9pe, vagy mint b\u00e1rmely m\u00e1s n\u00e9p. Igaz, \u00e9n hoztam f\u00f6l Egyiptomb\u00f3l Izr\u00e1elt, de a filiszteusokat is \u00e9n hoztam el Kr\u00e9ta sziget\u00e9r\u0151l, Ar\u00e1m n\u00e9p\u00e9t meg K\u00edrb\u0151l.\u201d"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Uram, az \u00d6r\u00f6kk\u00e9val\u00f3 szemmel tartja Izr\u00e1el kir\u00e1lys\u00e1g\u00e1t, amelyet elbor\u00edtott a b\u0171n. \u201eBizony, elt\u00f6rl\u00f6m azt a f\u00f6ld sz\u00edn\u00e9r\u0151l \u2014 ezt mondja az \u00d6r\u00f6kk\u00e9val\u00f3 \u2014, de J\u00e1k\u00f3b n\u00e9p\u00e9t m\u00e9gsem puszt\u00edtom el teljesen!"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "N\u00e9zz\u00e9tek \u00e9s l\u00e1ss\u00e1tok: Parancsolok, \u00e9s megrost\u00e1lom n\u00e9pemet, Izr\u00e1elt, a nemzetek k\u00f6z\u00f6tt, mint ahogy a b\u00faz\u00e1t kirost\u00e1lj\u00e1k. De egyetlen szemecske sem esik a f\u00f6ldre!"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "N\u00e9pem b\u0171n\u00f6seit mind fegyver \u00f6li meg, b\u00e1r azt hiszik, hogy \u0151ket baj nem \u00e9rheti\u201d."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "\u00dajra f\u00f6l\u00e1ll\u00edtom D\u00e1vid s\u00e1tor\u00e1t - \u201eAzon a napon \u00fajra f\u00f6l\u00e1ll\u00edtom D\u00e1vid leomlott s\u00e1tor\u00e1t, reped\u00e9seit \u00e9s roml\u00e1sait kijav\u00edtom, hogy mint r\u00e9gen volt, olyan legyen. Igen, \u00fajj\u00e1\u00e9p\u00edtem teljesen,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "hogy \u00f6r\u00f6k\u00f6lj\u00e9k Edom marad\u00e9k\u00e1t, meg akik a nemzetekb\u0151l megmaradnak, mindazokat, akik nevemet viselik \u2014 mondja az \u00d6r\u00f6kk\u00e9val\u00f3, aki ezt be is teljes\u00edti."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Bizony, elj\u00f6n az id\u0151 \u2014 mondja az \u00d6r\u00f6kk\u00e9val\u00f3 \u2014, amikor olyan b\u0151s\u00e9gesen meg\u00e1ldalak titeket, hogy a sz\u00e1nt\u00f3 utol\u00e9ri az arat\u00f3t, aki sz\u0151l\u0151t sz\u00fcretel, utol\u00e9ri a vet\u0151t. A hegyoldalakr\u00f3l \u00e1rad majd a must, s a dombokr\u00f3l bor-patakok folynak."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "N\u00e9pem, Izr\u00e1el sors\u00e1t j\u00f3ra ford\u00edtom. Romba d\u0151lt v\u00e1rosaikat \u00fajra fel\u00e9p\u00edtik, s laknak benn\u00fck, sz\u0151l\u0151ket telep\u00edtenek, \u00e9s a saj\u00e1t borukat issz\u00e1k."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "\u00c9n telep\u00edtem le \u0151ket ism\u00e9t a f\u00f6ldj\u00fckre. T\u00f6bb\u00e9 ki nem szaggatja \u0151ket senki arr\u00f3l a f\u00f6ldr\u0151l, amelyet \u00e9n adtam nekik!\u201d \u2014 ezt mondja Istened, az \u00d6r\u00f6kk\u00e9val\u00f3."
+                }
+            }
+        }
+    }
+}

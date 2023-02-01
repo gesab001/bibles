@@ -1,0 +1,657 @@
+{
+    "version": "ARC",
+    "book_name": "Ephesians",
+    "book_nr": "49",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Pref\u00e1cio e sauda\u00e7\u00e3o - Paulo, ap\u00f3stolo de Jesus Cristo, pela vontade de Deus, aos santos que est\u00e3o em \u00c9feso e fi\u00e9is em Cristo Jesus:"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "a v\u00f3s gra\u00e7a e paz, da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "As b\u00ean\u00e7\u00e3os de Deus em Jesus Cristo, autor da nossa reden\u00e7\u00e3o e cabe\u00e7a da igreja - Bendito o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos aben\u00e7oou com todas as b\u00ean\u00e7\u00e3os espirituais nos lugares celestiais em Cristo,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "como tamb\u00e9m nos elegeu nele antes da funda\u00e7\u00e3o do mundo, para que f\u00f4ssemos santos e irrepreens\u00edveis diante dele em amor,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "e nos predestinou para filhos de ado\u00e7\u00e3o por Jesus Cristo, para si mesmo, segundo o benepl\u00e1cito de sua vontade,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "para louvor e gl\u00f3ria da sua gra\u00e7a, pela qual nos fez agrad\u00e1veis a si no Amado."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Em quem temos a reden\u00e7\u00e3o pelo seu sangue, a remiss\u00e3o das ofensas, segundo as riquezas da sua gra\u00e7a,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "que Ele tornou abundante para conosco em toda a sabedoria e prud\u00eancia,"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "descobrindo-nos o mist\u00e9rio da sua vontade, segundo o seu benepl\u00e1cito, que propusera em si mesmo,"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "de tornar a congregar em Cristo todas as coisas, na dispensa\u00e7\u00e3o da plenitude dos tempos, tanto as que est\u00e3o nos c\u00e9us como as que est\u00e3o na terra;"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "nele, digo, em quem tamb\u00e9m fomos feitos heran\u00e7a, havendo sido predestinados conforme o prop\u00f3sito daquele que faz todas as coisas, segundo o conselho da sua vontade,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "com o fim de sermos para louvor da sua gl\u00f3ria, n\u00f3s, os que primeiro esperamos em Cristo;"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "em quem tamb\u00e9m v\u00f3s estais, depois que ouvistes a palavra da verdade, o evangelho da vossa salva\u00e7\u00e3o; e, tendo nele tamb\u00e9m crido, fostes selados com o Esp\u00edrito Santo da promessa;"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "o qual \u00e9 o penhor da nossa heran\u00e7a, para reden\u00e7\u00e3o da possess\u00e3o de Deus, para louvor da sua gl\u00f3ria."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Pelo que, ouvindo eu tamb\u00e9m a f\u00e9 que entre v\u00f3s h\u00e1 no Senhor Jesus e o vosso amor para com todos os santos,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "n\u00e3o cesso de dar gra\u00e7as a Deus por v\u00f3s, lembrando-me de v\u00f3s nas minhas ora\u00e7\u00f5es,"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "para que o Deus de nosso Senhor Jesus Cristo, o Pai da gl\u00f3ria, vos d\u00ea em seu conhecimento o esp\u00edrito de sabedoria e de revela\u00e7\u00e3o,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "tendo iluminados os olhos do vosso entendimento, para que saibais qual seja a esperan\u00e7a da sua voca\u00e7\u00e3o e quais as riquezas da gl\u00f3ria da sua heran\u00e7a nos santos"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "e qual a sobre-excelente grandeza do seu poder sobre n\u00f3s, os que cremos, segundo a opera\u00e7\u00e3o da for\u00e7a do seu poder,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "que manifestou em Cristo, ressuscitando-o dos mortos e pondo-o \u00e0 sua direita nos c\u00e9us,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "acima de todo principado, e poder, e potestade, e dom\u00ednio, e de todo nome que se nomeia, n\u00e3o s\u00f3 neste s\u00e9culo, mas tamb\u00e9m no vindouro."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "E sujeitou todas as coisas a seus p\u00e9s e, sobre todas as coisas, o constituiu como cabe\u00e7a da igreja,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "que \u00e9 o seu corpo, a plenitude daquele que cumpre tudo em todos."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A salva\u00e7\u00e3o \u00e9 pela gra\u00e7a - E vos vivificou, estando v\u00f3s mortos em ofensas e pecados,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "em que, noutro tempo, andastes, segundo o curso deste mundo, segundo o pr\u00edncipe das potestades do ar, do esp\u00edrito que, agora, opera nos filhos da desobedi\u00eancia;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "entre os quais todos n\u00f3s tamb\u00e9m, antes, and\u00e1vamos nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e \u00e9ramos por natureza filhos da ira, como os outros tamb\u00e9m."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Mas Deus, que \u00e9 riqu\u00edssimo em miseric\u00f3rdia, pelo seu muito amor com que nos amou,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "estando n\u00f3s ainda mortos em nossas ofensas, nos vivificou juntamente com Cristo (pela gra\u00e7a sois salvos),"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "e nos ressuscitou juntamente com ele, e nos fez assentar nos lugares celestiais, em Cristo Jesus;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "para mostrar nos s\u00e9culos vindouros as abundantes riquezas da sua gra\u00e7a, pela sua benignidade para conosco em Cristo Jesus."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Porque pela gra\u00e7a sois salvos, por meio da f\u00e9; e isso n\u00e3o vem de v\u00f3s; \u00e9 dom de Deus."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "N\u00e3o vem das obras, para que ningu\u00e9m se glorie."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Porque somos feitura sua, criados em Cristo Jesus para as boas obras, as quais Deus preparou para que and\u00e1ssemos nelas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Os gentios e os judeus s\u00e3o unidos por Deus mediante a cruz de Cristo - Portanto, lembrai-vos de que v\u00f3s, noutro tempo, \u00e9reis gentios na carne e chamados incircuncis\u00e3o pelos que, na carne, se chamam circuncis\u00e3o feita pela m\u00e3o dos homens;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "que, naquele tempo, est\u00e1veis sem Cristo, separados da comunidade de Israel e estranhos aos concertos da promessa, n\u00e3o tendo esperan\u00e7a e sem Deus no mundo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mas, agora, em Cristo Jesus, v\u00f3s, que antes est\u00e1veis longe, j\u00e1 pelo sangue de Cristo chegastes perto."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Porque ele \u00e9 a nossa paz, o qual de ambos os povos fez um; e, derribando a parede de separa\u00e7\u00e3o que estava no meio,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "na sua carne, desfez a inimizade, isto \u00e9, a lei dos mandamentos, que consistia em ordenan\u00e7as, para criar em si mesmo dos dois um novo homem, fazendo a paz,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "e, pela cruz, reconciliar ambos com Deus em um corpo, matando com ela as inimizades."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "E, vindo, ele evangelizou a paz a v\u00f3s que est\u00e1veis longe e aos que estavam perto;"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "porque, por ele, ambos temos acesso ao Pai em um mesmo Esp\u00edrito."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Assim que j\u00e1 n\u00e3o sois estrangeiros, nem forasteiros, mas concidad\u00e3os dos Santos e da fam\u00edlia de Deus;"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "edificados sobre o fundamento dos ap\u00f3stolos e dos profetas, de que Jesus Cristo \u00e9 a principal pedra da esquina;"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "no qual todo o edif\u00edcio, bem-ajustado, cresce para templo santo no Senhor,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "no qual tamb\u00e9m v\u00f3s juntamente sois edificados para morada de Deus no Esp\u00edrito."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "O minist\u00e9rio da voca\u00e7\u00e3o dos gentios e o apostolado de Paulo - Por esta causa, eu, Paulo, sou o prisioneiro de Jesus Cristo por v\u00f3s, os gentios,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "se \u00e9 que tendes ouvido a dispensa\u00e7\u00e3o da gra\u00e7a de Deus, que para convosco me foi dada;"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "como me foi este mist\u00e9rio manifestado pela revela\u00e7\u00e3o como acima, em pouco, vos escrevi,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "pelo que, quando ledes, podeis perceber a minha compreens\u00e3o do mist\u00e9rio de Cristo,"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "o qual, noutros s\u00e9culos, n\u00e3o foi manifestado aos filhos dos homens, como, agora, tem sido revelado pelo Esp\u00edrito aos seus santos ap\u00f3stolos e profetas,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "a saber, que os gentios s\u00e3o coerdeiros, e de um mesmo corpo, e participantes da promessa em Cristo pelo evangelho;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "do qual fui feito ministro, pelo dom da gra\u00e7a de Deus, que me foi dado segundo a opera\u00e7\u00e3o do seu poder."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "A mim, o m\u00ednimo de todos os santos, me foi dada esta gra\u00e7a de anunciar entre os gentios, por meio do evangelho, as riquezas incompreens\u00edveis de Cristo"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "e demonstrar a todos qual seja a dispensa\u00e7\u00e3o do mist\u00e9rio, que, desde os s\u00e9culos, esteve oculto em Deus, que tudo criou;"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "para que, agora, pela igreja, a multiforme sabedoria de Deus seja conhecida dos principados e potestades nos c\u00e9us,"
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "segundo o eterno prop\u00f3sito que fez em Cristo Jesus, nosso Senhor,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "no qual temos ousadia e acesso com confian\u00e7a, pela nossa f\u00e9 nele."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Portanto, vos pe\u00e7o que n\u00e3o desfale\u00e7ais nas minhas tribula\u00e7\u00f5es por v\u00f3s, que s\u00e3o a vossa gl\u00f3ria."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "A ora\u00e7\u00e3o de Paulo pelos ef\u00e9sios - Por causa disso, me ponho de joelhos perante o Pai de nosso Senhor Jesus Cristo,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "do qual toda a fam\u00edlia nos c\u00e9us e na terra toma o nome,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "para que, segundo as riquezas da sua gl\u00f3ria, vos conceda que sejais corroborados com poder pelo seu Esp\u00edrito no homem interior;"
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "para que Cristo habite, pela f\u00e9, no vosso cora\u00e7\u00e3o; a fim de, estando arraigados e fundados em amor,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "poderdes perfeitamente compreender, com todos os santos, qual seja a largura, e o comprimento, e a altura, e a profundidade"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "e conhecer o amor de Cristo, que excede todo entendimento, para que sejais cheios de toda a plenitude de Deus."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Ora, \u00e0quele que \u00e9 poderoso para fazer tudo muito mais abundantemente al\u00e9m daquilo que pedimos ou pensamos, segundo o poder que em n\u00f3s opera,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "a esse gl\u00f3ria na igreja, por Jesus Cristo, em todas as gera\u00e7\u00f5es, para todo o sempre. Am\u00e9m!"
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "A unidade da f\u00e9 - Rogo-vos, pois, eu, o preso do Senhor, que andeis como \u00e9 digno da voca\u00e7\u00e3o com que fostes chamados,"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "com toda a humildade e mansid\u00e3o, com longanimidade, suportando-vos uns aos outros em amor,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "procurando guardar a unidade do Esp\u00edrito pelo v\u00ednculo da paz:"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "h\u00e1 um s\u00f3 corpo e um s\u00f3 Esp\u00edrito, como tamb\u00e9m fostes chamados em uma s\u00f3 esperan\u00e7a da vossa voca\u00e7\u00e3o;"
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "um s\u00f3 Senhor, uma s\u00f3 f\u00e9, um s\u00f3 batismo;"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "um s\u00f3 Deus e Pai de todos, o qual \u00e9 sobre todos, e por todos, e em todos."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mas a gra\u00e7a foi dada a cada um de n\u00f3s segundo a medida do dom de Cristo."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Pelo que diz: Subindo ao alto, levou cativo o cativeiro e deu dons aos homens."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Ora, isto \u2014 ele subiu \u2014 que \u00e9, sen\u00e3o que tamb\u00e9m, antes, tinha descido \u00e0s partes mais baixas da terra?"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Aquele que desceu \u00e9 tamb\u00e9m o mesmo que subiu acima de todos os c\u00e9us, para cumprir todas as coisas."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "E ele mesmo deu uns para ap\u00f3stolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores,"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "querendo o aperfei\u00e7oamento dos santos, para a obra do minist\u00e9rio, para edifica\u00e7\u00e3o do corpo de Cristo,"
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "at\u00e9 que todos cheguemos \u00e0 unidade da f\u00e9 e ao conhecimento do Filho de Deus, a var\u00e3o perfeito, \u00e0 medida da estatura completa de Cristo,"
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "para que n\u00e3o sejamos mais meninos inconstantes, levados em roda por todo vento de doutrina, pelo engano dos homens que, com ast\u00facia, enganam fraudulosamente."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Antes, seguindo a verdade em amor, cres\u00e7amos em tudo naquele que \u00e9 a cabe\u00e7a, Cristo,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "do qual todo o corpo, bem-ajustado e ligado pelo aux\u00edlio de todas as juntas, segundo a justa opera\u00e7\u00e3o de cada parte, faz o aumento do corpo, para sua edifica\u00e7\u00e3o em amor."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "A santidade crist\u00e3 \u00e9 oposta aos costumes dos gentios - E digo isto e testifico no Senhor, para que n\u00e3o andeis mais como andam tamb\u00e9m os outros gentios, na vaidade do seu sentido,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "entenebrecidos no entendimento, separados da vida de Deus, pela ignor\u00e2ncia que h\u00e1 neles, pela dureza do seu cora\u00e7\u00e3o,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "os quais, havendo perdido todo o sentimento, se entregaram \u00e0 dissolu\u00e7\u00e3o, para, com avidez, cometerem toda impureza."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mas v\u00f3s n\u00e3o aprendestes assim a Cristo,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "se \u00e9 que o tendes ouvido e nele fostes ensinados, como est\u00e1 a verdade em Jesus,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "que, quanto ao trato passado, vos despojeis do velho homem, que se corrompe pelas concupisc\u00eancias do engano,"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "e vos renoveis no esp\u00edrito do vosso sentido,"
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "e vos revistais do novo homem, que, segundo Deus, \u00e9 criado em verdadeira justi\u00e7a e santidade."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Pelo que deixai a mentira e falai a verdade cada um com o seu pr\u00f3ximo; porque somos membros uns dos outros."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Irai-vos e n\u00e3o pequeis; n\u00e3o se ponha o sol sobre a vossa ira."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "N\u00e3o deis lugar ao diabo."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Aquele que furtava n\u00e3o furte mais; antes, trabalhe, fazendo com as m\u00e3os o que \u00e9 bom, para que tenha o que repartir com o que tiver necessidade."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "N\u00e3o saia da vossa boca nenhuma palavra torpe, mas s\u00f3 a que for boa para promover a edifica\u00e7\u00e3o, para que d\u00ea gra\u00e7a aos que a ouvem."
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "E n\u00e3o entriste\u00e7ais o Esp\u00edrito Santo de Deus, no qual estais selados para o Dia da reden\u00e7\u00e3o."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Toda amargura, e ira, e c\u00f3lera, e gritaria, e blasf\u00eamias, e toda mal\u00edcia seja tirada de entre v\u00f3s."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Antes, sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como tamb\u00e9m Deus vos perdoou em Cristo."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Sede, pois, imitadores de Deus, como filhos amados;"
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "e andai em amor, como tamb\u00e9m Cristo vos amou e se entregou a si mesmo por n\u00f3s, em oferta e sacrif\u00edcio a Deus, em cheiro suave."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Mas a prostitui\u00e7\u00e3o e toda impureza ou avareza nem ainda se nomeiem entre v\u00f3s, como conv\u00e9m a santos;"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "nem torpezas, nem parvo\u00edces, nem chocarrices, que n\u00e3o conv\u00eam; mas, antes, a\u00e7\u00f5es de gra\u00e7as."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Porque bem sabeis isto: que nenhum fornicador, ou impuro, ou avarento, o qual \u00e9 id\u00f3latra, tem heran\u00e7a no Reino de Cristo e de Deus."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Ningu\u00e9m vos engane com palavras v\u00e3s; porque por essas coisas vem a ira de Deus sobre os filhos da desobedi\u00eancia."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Portanto, n\u00e3o sejais seus companheiros."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Porque, noutro tempo, \u00e9reis trevas, mas, agora, sois luz no Senhor; andai como filhos da luz"
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "(porque o fruto do Esp\u00edrito est\u00e1 em toda bondade, e justi\u00e7a, e verdade),"
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "aprovando o que \u00e9 agrad\u00e1vel ao Senhor."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "E n\u00e3o comuniqueis com as obras infrutuosas das trevas, mas, antes, condenai-as."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Porque o que eles fazem em oculto, at\u00e9 diz\u00ea-lo \u00e9 torpe."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Mas todas essas coisas se manifestam, sendo condenadas pela luz, porque a luz tudo manifesta."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Pelo que diz: Desperta, \u00f3 tu que dormes, e levanta-te dentre os mortos, e Cristo te esclarecer\u00e1."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Portanto, vede prudentemente como andais, n\u00e3o como n\u00e9scios, mas como s\u00e1bios,"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "remindo o tempo, porquanto os dias s\u00e3o maus."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Pelo que n\u00e3o sejais insensatos, mas entendei qual seja a vontade do Senhor."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "E n\u00e3o vos embriagueis com vinho, em que h\u00e1 contenda, mas enchei-vos do Esp\u00edrito,"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "falando entre v\u00f3s com salmos, e hinos, e c\u00e2nticos espirituais, cantando e salmodiando ao Senhor no vosso cora\u00e7\u00e3o,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "dando sempre gra\u00e7as por tudo a nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo,"
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "sujeitando-vos uns aos outros no temor de Deus."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Os deveres dom\u00e9sticos - V\u00f3s, mulheres, sujeitai-vos a vosso marido, como ao Senhor;"
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "porque o marido \u00e9 a cabe\u00e7a da mulher, como tamb\u00e9m Cristo \u00e9 a cabe\u00e7a da igreja, sendo ele pr\u00f3prio o salvador do corpo."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "De sorte que, assim como a igreja est\u00e1 sujeita a Cristo, assim tamb\u00e9m as mulheres sejam em tudo sujeitas a seu marido."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "V\u00f3s, maridos, amai vossa mulher, como tamb\u00e9m Cristo amou a igreja e a si mesmo se entregou por ela,"
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "para a santificar, purificando-a com a lavagem da \u00e1gua, pela palavra,"
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "para a apresentar a si mesmo igreja gloriosa, sem m\u00e1cula, nem ruga, nem coisa semelhante, mas santa e irrepreens\u00edvel."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Assim devem os maridos amar a sua pr\u00f3pria mulher como a seu pr\u00f3prio corpo. Quem ama a sua mulher ama-se a si mesmo."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Porque nunca ningu\u00e9m aborreceu a sua pr\u00f3pria carne; antes, a alimenta e sustenta, como tamb\u00e9m o Senhor \u00e0 igreja;"
+                },
+                "30": {
+                    "verse_nr": "30",
+                    "verse": "porque somos membros do seu corpo."
+                },
+                "31": {
+                    "verse_nr": "31",
+                    "verse": "Por isso, deixar\u00e1 o homem seu pai e sua m\u00e3e e se unir\u00e1 \u00e0 sua mulher; e ser\u00e3o dois numa carne."
+                },
+                "32": {
+                    "verse_nr": "32",
+                    "verse": "Grande \u00e9 este mist\u00e9rio; digo-o, por\u00e9m, a respeito de Cristo e da igreja."
+                },
+                "33": {
+                    "verse_nr": "33",
+                    "verse": "Assim tamb\u00e9m v\u00f3s, cada um em particular ame a sua pr\u00f3pria mulher como a si mesmo, e a mulher reverencie o marido."
+                }
+            }
+        },
+        "6": {
+            "chapter_nr": "6",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "V\u00f3s, filhos, sede obedientes a vossos pais no Senhor, porque isto \u00e9 justo."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Honra a teu pai e a tua m\u00e3e, que \u00e9 o primeiro mandamento com promessa,"
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "para que te v\u00e1 bem, e vivas muito tempo sobre a terra."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "E v\u00f3s, pais, n\u00e3o provoqueis a ira a vossos filhos, mas criai-os na doutrina e admoesta\u00e7\u00e3o do Senhor."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "V\u00f3s, servos, obedecei a vosso senhor segundo a carne, com temor e tremor, na sinceridade de vosso cora\u00e7\u00e3o, como a Cristo,"
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "n\u00e3o servindo \u00e0 vista, como para agradar aos homens, mas como servos de Cristo, fazendo de cora\u00e7\u00e3o a vontade de Deus;"
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "servindo de boa vontade como ao Senhor e n\u00e3o como aos homens,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "sabendo que cada um receber\u00e1 do Senhor todo o bem que fizer, seja servo, seja livre."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "E v\u00f3s, senhores, fazei o mesmo para com eles, deixando as amea\u00e7as, sabendo tamb\u00e9m que o Senhor deles e vosso est\u00e1 no c\u00e9u e que para com ele n\u00e3o h\u00e1 acep\u00e7\u00e3o de pessoas."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "A armadura de Deus - No demais, irm\u00e3os meus, fortalecei-vos no Senhor e na for\u00e7a do seu poder."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo;"
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "porque n\u00e3o temos que lutar contra carne e sangue, mas, sim, contra os principados, contra as potestades, contra os pr\u00edncipes das trevas deste s\u00e9culo, contra as hostes espirituais da maldade, nos lugares celestiais."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Estai, pois, firmes, tendo cingidos os vossos lombos com a verdade, e vestida a coura\u00e7a da justi\u00e7a,"
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "e cal\u00e7ados os p\u00e9s na prepara\u00e7\u00e3o do evangelho da paz;"
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "tomando sobretudo o escudo da f\u00e9, com o qual podereis apagar todos os dardos inflamados do maligno."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Tomai tamb\u00e9m o capacete da salva\u00e7\u00e3o e a espada do Esp\u00edrito, que \u00e9 a palavra de Deus,"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "orando em todo tempo com toda ora\u00e7\u00e3o e s\u00faplica no Esp\u00edrito e vigiando nisso com toda perseveran\u00e7a e s\u00faplica por todos os santos"
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "e por mim; para que me seja dada, no abrir da minha boca, a palavra com confian\u00e7a, para fazer not\u00f3rio o mist\u00e9rio do evangelho,"
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "pelo qual sou embaixador em cadeias; para que possa falar dele livremente, como me conv\u00e9m falar."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "T\u00edquico, o portador desta ep\u00edstola. Sauda\u00e7\u00f5es finais - Ora, para que v\u00f3s tamb\u00e9m possais saber dos meus neg\u00f3cios e o que eu fa\u00e7o, T\u00edquico, irm\u00e3o amado e fiel ministro do Senhor, vos informar\u00e1 de tudo,"
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "o qual vos enviei para o mesmo fim, para que saibais do nosso estado, e ele console os vossos cora\u00e7\u00f5es."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Paz seja com os irm\u00e3os e amor com f\u00e9, da parte de Deus Pai e da do Senhor Jesus Cristo."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "A gra\u00e7a seja com todos os que amam a nosso Senhor Jesus Cristo em sinceridade. Am\u00e9m!"
+                }
+            }
+        }
+    }
+}

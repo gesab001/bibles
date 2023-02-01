@@ -1,0 +1,452 @@
+{
+    "version": "NATWI",
+    "book_name": "1 John",
+    "book_nr": "62",
+    "book": {
+        "1": {
+            "chapter_nr": "1",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Y\u025brekyer\u025bw mo afa nea \u025bw\u0254 h\u0254 fi mfitiase, nea y\u025bate, nea y\u025bde y\u025bn ani ahu, nea y\u025bhw\u025be na y\u025bde y\u025bn nsa kae w\u0254 nkwa as\u025bm no ho no ho."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Nkwa no daa ne ho adi no, yehui. \u0190no nti, y\u025bka ho as\u025bm kyer\u025b mo ka nkwa a enni awiei a na \u025bw\u0254 Agya no nky\u025bn a w\u0254daa no adi kyer\u025b\u025b y\u025bn no."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Y\u025bkaa nea yehui na y\u025btee no kyer\u025b\u025b mo nso, s\u025bnea \u025bb\u025by\u025b a mode mo ho b\u025bbata y\u025bn ho w\u0254 \u0254d\u0254 a y\u025bne Agya no ne \u0186ba Yesu Kristo w\u0254 no mu."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Y\u025brekyer\u025bw eyi s\u025bnea \u025bb\u025by\u025b a y\u025bn anigye bewie p\u025by\u025b."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Onyankop\u0254n y\u025b hann - Afei, eyi ne as\u025bm a y\u025bate afi ne Ba no nky\u025bn a y\u025breb\u0254 mo amanne\u025b: Onyankop\u0254n y\u025b hann a esum nni ne mu koraa."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Na s\u025b afei y\u025bka se y\u025bne no w\u0254 ay\u0254nkofa na saa bere koro no ara mu y\u025bte sum mu a, na y\u025bredi atoro w\u0254 y\u025bn ns\u025bm ne y\u025bn nney\u025be mu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Na s\u025b y\u025bte hann mu s\u025bnea \u0254te hann mu no a, \u025bnne na y\u025bne y\u025bn ho y\u025bn ho w\u0254 ay\u0254nkofa, na ne Ba Yesu no mogya tew y\u025bn ho fi b\u0254ne nyinaa ho."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "S\u025b y\u025bka se yenni b\u0254ne a, na y\u025bdaadaa y\u025bn ho, na nokware no nni y\u025bn mu."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "S\u025b y\u025bka y\u025bn b\u0254ne kyer\u025b Onyankop\u0254n a, \u0254y\u025b \u0254nokwafo ne \u0254treneeni s\u025b \u0254de y\u025bn b\u0254ne b\u025bky\u025b y\u025bn, na watew y\u025bn ho afi nea \u025bnte\u025b nyinaa ho."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "S\u025b y\u025bka se y\u025bny\u025b\u025b b\u0254ne a, y\u025bma Onyankop\u0254n y\u025b \u0254torofo a n\u2019as\u025bm no nni y\u025bn mu."
+                }
+            }
+        },
+        "2": {
+            "chapter_nr": "2",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Kristo, y\u025bn boafo - Me mma, merekyer\u025bw eyi abr\u025b mo na moany\u025b b\u0254ne; na s\u025b obi y\u025b b\u0254ne a, y\u025bw\u0254 Yesu Kristo \u0254treneeni no a \u0254sr\u025b w\u0254 Agya no h\u0254 ma y\u025bn."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Na Kristo no ankasa ne \u0254kwan a y\u025bfa so nya y\u025bn b\u0254ne fafiri na \u025bny\u025b y\u025bn b\u0254ne nko, na nnipa nyinaa b\u0254ne."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "S\u025b yedi Onyankop\u0254n mmara so a, na \u025bkyer\u025b s\u025b yenim no."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "S\u025b obi ka se, \u201cMinim no,\u201d nanso onni ne mmara so a, saa onipa no y\u025b \u0254torofo a nokware nni ne mu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Na obiara a otie n\u2019as\u025bm no y\u025b obi a nokwarem, ne d\u0254 a \u0254de d\u0254 Onyankop\u0254n no y\u025b p\u025b. Eyi na \u025bma y\u025bte y\u025bn ho ase s\u025b y\u025bte Onyankop\u0254n mu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "\u0190s\u025b s\u025b obiara a \u0254ka se \u0254te Onyankop\u0254n mu no tena ase s\u025b Yesu Kristo p\u025bp\u025b\u025bp\u025b."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mmara foforo - Anuanom, saa mmara a merekyer\u025bw abr\u025b mo yi ny\u025b as\u025bm foforo. \u0190y\u025b mmara dedaw a moate fi mfitiase p\u025b\u025b no. Mmara dedaw no y\u025b ade a moate ho as\u025bm dedaw."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nanso, mmara a merekyer\u025bw abr\u025b mo yi y\u025b foforo na emu nokware no da adi w\u0254 Kristo ne mo mu. Esum no retwam na hann papa no gu so rehyer\u025bn."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Obiara a \u0254ka se \u0254w\u0254 hann no mu, nanso \u0254tan ne nua no w\u0254 sum mu besi saa d\u0254nhwerew yi mu."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Obiara a \u0254d\u0254 ne nua no te hann mu, enti biribiara nni ne mu a \u025bb\u025bma obi foforo ay\u025b b\u0254ne."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Nanso obiara a \u0254tan ne nua no te sum mu. \u0186nam mu a onnim faako a \u0254rek\u0254 efis\u025b, esum no afura n\u2019ani."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Me mma, merekyer\u025bw mo efis\u025b, esiane Kristo din nti, w\u0254de mo b\u0254ne afiri mo."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Agyanom, merekyer\u025bw mo, efis\u025b, munim nea \u0254te ase fi mfiase no. Mmabun, merekyer\u025bw mo, efis\u025b, moadi \u0254bonsam so."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Mma, merekyer\u025bw mo, efis\u025b, munim Agya no. Agyanom, merekyer\u025bw mo, efis\u025b, munim nea \u0254te ase fi mfiase no. Mmabun, merekyer\u025bw mo, efis\u025b mow\u0254 aho\u0254den. Onyankop\u0254n as\u025bm no te mo mu na moadi \u0254bonsam so."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Monnn\u0254 wiase anaas\u025b biribiara a \u025by\u025b wiase de. S\u025b mod\u0254 wiase a, na \u025bkyer\u025b s\u025b monn\u0254 Agya a \u0254w\u0254 mo mu no."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Biribiara a \u025by\u025b wiase de, nea b\u0254ne hwehw\u025b, nea nnipa hunu na w\u0254p\u025b, biribiara a \u025bw\u0254 wiase a nnipa hoahoa w\u0254n ho w\u0254 ho no, emu biara mfi Agya no. Ne nyinaa fi wiase."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Wiase ne mu nne\u025bma a \u025bw\u0254 mu a nnipa hwehw\u025b no retwam, nanso nea \u0254y\u025b Onyankop\u0254n ap\u025bde no tena h\u0254 daa."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Kristo atamfo - Me mma, awiei no ab\u025bn. W\u0254ka kyer\u025b\u025b mo se Kristo Tamfo no b\u025bba, nanso mprempren, Kristo atamfo bebree ada w\u0254n ho adi enti y\u025bahu s\u025b ampa awiei no ab\u025bn."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Nokwarem, na saa nnipa yi nka y\u025bn ho na \u025bno nti na wogyaw y\u025bn h\u0254 no. Na s\u025b w\u0254ka y\u025bn ho a, anka w\u0254ne y\u025bn tenae. Nanso wogyaw y\u025bn h\u0254 s\u025bnea wobehu no pefee s\u025b w\u0254nka y\u025bn ho."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Mo de, Kristo ahwie Honhom Kronkron no agu mo so, enti mo nyinaa nim nokware no."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "\u0190ny\u025b s\u025b munnim nokware no nti na makyer\u025bw saa krataa yi, na mmom munim na munim nso s\u025b, atoro biara mfi nokware mu mma."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Afei, hena ne \u0254torofo? \u0190y\u025b obi a \u0254ka se Yesu ny\u025b Kristo no. Oyi ne Kristo tamfo. \u0186po Agya no ne \u0186ba no nyinaa."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Na nea \u0254po \u0186ba no po Agya no; nea ogye \u0186ba no, gye Agya no nso."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Momm\u0254 mm\u0254den mfa as\u025bm a motee mfiase no nsie mo koma mu. S\u025b mode as\u025bm a motee mfitiase no sie a, mo ne \u0186ba no ne Agya no benya ay\u0254nkofa."
+                },
+                "25": {
+                    "verse_nr": "25",
+                    "verse": "Na eyi na Kristo no ankasa ahy\u025b y\u025bn ho b\u0254 no, nkwa a enni awiei no."
+                },
+                "26": {
+                    "verse_nr": "26",
+                    "verse": "Mekyer\u025bw mo fa w\u0254n a w\u0254p\u025b s\u025b w\u0254daadaa mo ho."
+                },
+                "27": {
+                    "verse_nr": "27",
+                    "verse": "Na mo de, Kristo ahwie ne Honhom Kronkron no agu mo so. Mmere dodow a ne Honhom no te mo mu no, \u025bho nhia s\u025b obi foforo b\u025bkyer\u025bkyer\u025b mo. Efis\u025b, ne Honhom no kyer\u025bkyer\u025b mo biribiara. Na nea \u0254kyer\u025b no nso y\u025b nokware; \u025bny\u025b atoro. Muntie Kristo nkyer\u025bkyer\u025b no na montena ne mu."
+                },
+                "28": {
+                    "verse_nr": "28",
+                    "verse": "Me mma, montena ne mu s\u025bnea \u025bb\u025by\u025b a s\u025b \u0254ba a, yebenya akokoduru na y\u025bmfa aniwu nkohintaw da a \u0254b\u025bba no."
+                },
+                "29": {
+                    "verse_nr": "29",
+                    "verse": "Munim s\u025b Kristo y\u025b \u0254treneeni. Na \u025bs\u025b s\u025b muhu s\u025b obiara a \u0254y\u025b ade trenee no y\u025b Onyankop\u0254n ba."
+                }
+            }
+        },
+        "3": {
+            "chapter_nr": "3",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Onyankop\u0254n mma - Monhw\u025b \u0254d\u0254 a Agya no d\u0254 y\u025bn. Ne d\u0254 a \u0254d\u0254 y\u025bn no mu y\u025b den ma w\u0254fr\u025b y\u025bn Onyankop\u0254n mma. Na \u025by\u025b nokware nso. \u0190no nti na wiase nnim y\u025bn no; ennim Onyankop\u0254n."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Me nuanom, mprempren y\u025by\u025b Onyankop\u0254n mma nanso nea daakye y\u025bb\u025by\u025b de, yennim. Nanso yenim s\u025b Kristo ba a, y\u025bb\u025by\u025b te s\u025b \u0254no, efis\u025b, yebehu no pefee."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Obiara a \u0254w\u0254 saa anidaso yi w\u0254 Kristo mu no y\u025b ne ho kronn s\u025bnea Kristo y\u025b kronn no."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Obiara a \u0254y\u025b b\u0254ne no bu Onyankop\u0254n mmara so, efis\u025b, b\u0254ne y\u025b mmara sobu."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Munim s\u025b Kristo bae s\u025b \u0254reb\u025bfa nnipa b\u0254ne, efis\u025b, \u0254no de b\u0254ne nni ne mu."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Enti obiara a \u0254tena Kristo mu no nk\u0254 so ny\u025b b\u0254ne. Na obiara a \u0254k\u0254 so y\u025b b\u0254ne no nhuu no, na onnim no."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Mommma obi nnaadaa mo, me mma. Obiara a \u0254y\u025b nea \u025bte\u025b no y\u025b \u0254treneeni s\u025bnea Kristo y\u025b \u0254treneeni no."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Nea \u0254k\u0254 so y\u025b b\u0254ne no y\u025b \u0254bonsam de, efis\u025b, \u0254bonsam fi mfitiase p\u025b\u025b na \u0254y\u025b\u025b b\u0254ne. Saa as\u025bm yi nti na Onyankop\u0254n Ba no bae. \u0186bae s\u025b \u0254reb\u025bs\u025be \u0254bonsam nnwuma."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Obiara a \u0254y\u025b Onyankop\u0254n Ba no nk\u0254 so ny\u025b b\u0254ne, efis\u025b, Onyankop\u0254n su w\u0254 ne mu na esiane s\u025b Onyankop\u0254n y\u025b n\u2019Agya nti, ontumi nk\u0254 so ny\u025b b\u0254ne."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Nsonoe a \u025bda Onyankop\u0254n mma ne \u0254bonsam mma ntam ne s\u025b, obi a \u0254ny\u025b papa anaa \u0254nn\u0254 ne nua no ny\u025b Onyankop\u0254n ba."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Monnod\u0254 mo ho - Ns\u025bm a motee mfiase no kyer\u025b s\u025b monnod\u0254 mo ho."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "\u0190ns\u025b s\u025b y\u025by\u025b s\u025b Kain. Na \u0254y\u025b \u0254bonsam de. Enti okum n\u2019ankasa ne nua. Ad\u025bn nti na Kain kum no? Efis\u025b, nne\u025bma a \u0254y\u025be no y\u025b b\u0254ne nanso ne nua no de, \u0254y\u025b\u025b papa."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Enti anuanom, s\u025b wiasefo tan mo a, mommma \u025bnny\u025b mo nwonwa."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Yenim s\u025b y\u025bafi owu mu aba nkwa mu. Yenim saa, efis\u025b, y\u025bd\u0254 y\u025bn nuanom."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Obi a \u0254tan ne nua no y\u025b owudifo na munim nso s\u025b owudifo nni nkwa a enni awiei w\u0254 ne mu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Eyi na \u025bma yehu s\u025bnea \u0254d\u0254 te. Kristo de ne nkwa maa y\u025bn. \u0190s\u025b s\u025b y\u025bn nso y\u025bde y\u025bn nkwa ma y\u025bn nuanom."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "S\u025b obi y\u025b \u0254defo na ohu s\u025b biribi ho hia ne nua na \u0254to ne koma mu w\u0254 ne ho a, \u025bb\u025by\u025b d\u025bn na watumi aka se \u0254d\u0254 Onyankop\u0254n w\u0254 ne koma mu?"
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Me mma, \u025bns\u025b s\u025b y\u025bn d\u0254 no y\u025b kasa hunu. \u0190s\u025b s\u025b \u025by\u025b \u0254d\u0254 turodoo a \u025bnam nney\u025be so da ne ho adi."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Eyi na \u025bb\u025bma y\u025bahu s\u025b y\u025bw\u0254 nokware no. Eyi na \u025bb\u025bma y\u025bn koma anya gyidi w\u0254 Onyankop\u0254n anim."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "S\u025b y\u025bn koma bu y\u025bn f\u0254 a, yenim s\u025b Onyankop\u0254n so sen y\u025bn koma na onim biribiara."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Enti anuanom ad\u0254fo, s\u025b y\u025bn koma ammu y\u025bn f\u0254 a, y\u025bw\u0254 akokoduru w\u0254 Onyankop\u0254n anim."
+                },
+                "22": {
+                    "verse_nr": "22",
+                    "verse": "Biribiara a yebisa no no, y\u025bn nsa ka efis\u025b, yedi ne mmara so na y\u025by\u025b n\u2019ap\u025bde nso."
+                },
+                "23": {
+                    "verse_nr": "23",
+                    "verse": "Ne mmara no ka se, yennye ne Ba Yesu Kristo no din nni na y\u025bnnod\u0254 y\u025bn ho s\u025bnea Kristo hy\u025b\u025b y\u025bn no."
+                },
+                "24": {
+                    "verse_nr": "24",
+                    "verse": "Obiara a odi Onyankop\u0254n mmara so no te Onyankop\u0254n mu na Onyankop\u0254n nso te ne mu. Na eyi na \u025bma yehu s\u025b Onyankop\u0254n te y\u025bn mu. Yenim no saa efis\u025b, wama y\u025bn Honhom."
+                }
+            }
+        },
+        "4": {
+            "chapter_nr": "4",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "Nkyer\u025bkyer\u025b pa ne nkyer\u025bkyer\u025b b\u0254ne - Me nuanom ad\u0254fo, munnnye w\u0254n a w\u0254ka se w\u0254w\u0254 Honhom no nyinaa nni. Mmom mons\u0254 nhw\u025b nhu s\u025b honhom a w\u0254w\u0254 no fi Onyankop\u0254n anaa. Efis\u025b, atoro adiyifo bebree ahwete."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "\u0186kwan a wubetumi afa so ahu s\u025b obi w\u0254 Onyankop\u0254n Honhom no ne s\u025b, \u0254b\u025bpae mu aka se, Yesu Kristo, a \u0254bae s\u025b onipa no, w\u0254 Honhom a efi Onyankop\u0254n."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "Na nea \u0254nka saa mfa Yesu ho no nni Honhom a efi Onyankop\u0254n. Saa Honhom no y\u025b Kristo tamfo. Motee s\u025b saa na \u025bb\u025bba nanso \u025bw\u0254 wiase ha dedaw."
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "Me mma, moy\u025b Onyankop\u0254n abusuafo na moadi atoro adiyifo no so, efis\u025b, Honhom a \u025bw\u0254 mo mu no w\u0254 tumi sen Honhom a \u025bw\u0254 w\u0254n a w\u0254y\u025b wiasefo no mu no."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "W\u0254ka ns\u025bm a \u025bfa wiase ho ma wiase tie efis\u025b, w\u0254y\u025b wiasefo."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Nanso y\u025bn de, y\u025by\u025b Onyankop\u0254n nkur\u0254fo. Obiara a onim Onyankop\u0254n no tie y\u025bn. Na obiara a \u0254ny\u025b Onyankop\u0254n nipa no ntie y\u025bn. Eyi nko ara ne \u0254kwan a y\u025bnam so akyer\u025b nokware Honhom ne atoro Honhom mu."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Onyankop\u0254n y\u025b \u0254d\u0254 - Anuanom, momma y\u025bnnod\u0254 y\u025bn ho efis\u025b, \u0254d\u0254 fi Onyankop\u0254n. Obi a \u0254w\u0254 \u0254d\u0254 no y\u025b Onyankop\u0254n ba na onim Onyankop\u0254n nso."
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Obi a onni \u0254d\u0254 no nnim Onyankop\u0254n efis\u025b, Onyankop\u0254n y\u025b \u0254d\u0254."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "\u0186kwan a Onyankop\u0254n nam so da ne d\u0254 adi kyer\u025b y\u025bn ne no. \u0186somaa ne Ba koro no baa wiase, s\u025bnea y\u025bb\u025bfa ne so anya nkwa."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Saa na \u0254d\u0254 te. \u0190nkyer\u025b s\u025b y\u025bd\u0254 Onyankop\u0254n na mmom \u0254no na \u0254d\u0254 y\u025bn nti na \u0254somaa ne Ba s\u025b y\u025bmfa ne so na w\u0254de y\u025bn b\u0254ne aky\u025b y\u025bn."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Anuanom ad\u0254fo, s\u025b saa na Onyankop\u0254n d\u0254 y\u025bn a, na \u025bkyer\u025b s\u025b, \u025bs\u025b s\u025b y\u025bdod\u0254 y\u025bn ho."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Obiara nhuu Onyankop\u0254n da. S\u025b y\u025bdod\u0254 y\u025bn ho a, na Onyankop\u0254n te y\u025bn mu na ne d\u0254 no ay\u025b p\u025bp\u025b\u025bp\u025b w\u0254 y\u025bn mu."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Eyi na \u025bma yehu pefee s\u025b y\u025bte Onyankop\u0254n mu na \u0254no nso te y\u025bn mu. Wama y\u025bn ne Honhom."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Na y\u025bahu na y\u025baka akyer\u025b afoforo se Agya no somaa ne Ba ma \u0254b\u025by\u025b\u025b wiase Agyenkwa."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Obiara a \u0254pae mu ka se Yesu y\u025b Onyankop\u0254n Ba no, Onyankop\u0254n te ne mu na \u0254no nso te Onyankop\u0254n mu."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "Na y\u025bn ankasa nim na yegye Onyankop\u0254n d\u0254 a \u0254de d\u0254 y\u025bn no di. Onyankop\u0254n y\u025b \u0254d\u0254 na obiara a \u0254te \u0254d\u0254 mu no te Onyankop\u0254n mu na Onyankop\u0254n nso te ne mu."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "\u0190s\u025b s\u025b \u0254d\u0254 y\u025b p\u025b w\u0254 y\u025bn mu s\u025bnea \u025bb\u025by\u025b a yebenya akokoduru Atemmu da no. Na yebenya saa akokoduru no nso, efis\u025b, y\u025bn abrab\u0254 w\u0254 wiase ha no te s\u025b Kristo de p\u025b."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Osuro nni \u0254d\u0254 mu. \u0186d\u0254 amapa pam ehu nyinaa. Enti obi a osuro no, na \u0254d\u0254 a \u0254w\u0254 no ny\u025b p\u025b, efis\u025b, ehu ne asotwe na \u025bnam."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Y\u025bw\u0254 \u0254d\u0254, efis\u025b, Onyankop\u0254n na \u0254d\u0254\u0254 y\u025bn kan."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "S\u025b obi ka se, \u201cMed\u0254 Onyankop\u0254n\u201d na \u0254tan ne nua a, \u0254y\u025b \u0254torofo. Na \u0254rentumi nn\u0254 Onyankop\u0254n a onhuu no da, efis\u025b, ne nua a ohu no koraa \u0254nn\u0254 no."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Eyi ne mmara a Kristo hy\u025b maa y\u025bn. Nea \u0254d\u0254 Onyankop\u0254n no, \u025bs\u025b s\u025b \u0254d\u0254 ne nua nso."
+                }
+            }
+        },
+        "5": {
+            "chapter_nr": "5",
+            "chapter": {
+                "1": {
+                    "verse_nr": "1",
+                    "verse": "S\u025bnea nhyehy\u025be no b\u025by\u025b - Obiara a ogye di s\u025b Yesu y\u025b Agyenkwa no y\u025b Onyankop\u0254n ba. Na obiara a \u0254d\u0254 Agya no d\u0254 ne Ba no nso."
+                },
+                "2": {
+                    "verse_nr": "2",
+                    "verse": "Eyi na \u025bma yehu s\u025b y\u025bd\u0254 Onyankop\u0254n mma: \u025by\u025b \u0254d\u0254 a y\u025bd\u0254 Onyankop\u0254n ne di a yedi ne mmara so."
+                },
+                "3": {
+                    "verse_nr": "3",
+                    "verse": "\u0186d\u0254 a y\u025bd\u0254 Onyankop\u0254n no, kyer\u025b di a y\u025bdi ne mmara so. Na ne mmara no nso so di ny\u025b den mma y\u025bn,"
+                },
+                "4": {
+                    "verse_nr": "4",
+                    "verse": "efis\u025b, Onyankop\u0254n ba biara tumi di wiase so. Saa kwan yi so na y\u025bnam di wiase so nkonim: y\u025bde y\u025bn gyidi."
+                },
+                "5": {
+                    "verse_nr": "5",
+                    "verse": "Hena na obetumi adi wiase so? Obi a ogye di s\u025b Yesu y\u025b Onyankop\u0254n Ba no nko."
+                },
+                "6": {
+                    "verse_nr": "6",
+                    "verse": "Yesu Kristo ho adansedi - Yesu Kristo y\u025b obi a \u0254nam nsu ne mogya so bae. \u0190ny\u025b nsu nko so na \u0254nam bae na mmom nsu ne mogya. Na \u025by\u025b Honhom no na edi ho adanse efis\u025b, Honhom no ne nokware no."
+                },
+                "7": {
+                    "verse_nr": "7",
+                    "verse": "Adansefo baasa na w\u0254w\u0254 h\u0254,"
+                },
+                "8": {
+                    "verse_nr": "8",
+                    "verse": "Honhom no, nsu no ne mogya no. Saa adansefo yi adwene hyia."
+                },
+                "9": {
+                    "verse_nr": "9",
+                    "verse": "Yegye adanse a nnipa di no di; adanse a Onyankop\u0254n di no mu y\u025b den yiye. Na saa adanse no na Onyankop\u0254n adi afa ne Ba no ho no."
+                },
+                "10": {
+                    "verse_nr": "10",
+                    "verse": "Enti obi a ogye Onyankop\u0254n Ba no di no w\u0254 saa adanse yi w\u0254 ne koma mu. Na obi a onnye Onyankop\u0254n nni no ama Onyankop\u0254n ay\u025b \u0254torofo, efis\u025b, wannye adanse a Onyankop\u0254n di faa ne Ba no ho no anni."
+                },
+                "11": {
+                    "verse_nr": "11",
+                    "verse": "Eyi ne adanse no: Onyankop\u0254n ama y\u025bn nkwa a enni awiei; na saa nkwa no w\u0254 ne Ba no mu."
+                },
+                "12": {
+                    "verse_nr": "12",
+                    "verse": "Obiara a \u0254w\u0254 \u0186ba no w\u0254 saa nkwa no na obiara a onni \u0186ba no nni nkwa no."
+                },
+                "13": {
+                    "verse_nr": "13",
+                    "verse": "Nkwa a enni awiei - Merekyer\u025bw mo eyi s\u025bnea \u025bb\u025bma moahu s\u025b mow\u0254 nkwa a enni awiei, mo a mugye Onyankop\u0254n Ba no din di no."
+                },
+                "14": {
+                    "verse_nr": "14",
+                    "verse": "Yensuro w\u0254 Onyankop\u0254n anim, efis\u025b, yenim s\u025b biribiara a yebisa no no, otie y\u025bn w\u0254 ne p\u025b mu."
+                },
+                "15": {
+                    "verse_nr": "15",
+                    "verse": "Bere biara a yebisa no no, otie y\u025bn. Y\u025bahu s\u025b eyi y\u025b nokware yi, yenim nso s\u025b \u0254ma y\u025bn nea yebisa no biara."
+                },
+                "16": {
+                    "verse_nr": "16",
+                    "verse": "S\u025b obi hu s\u025b ne nua ay\u025b b\u0254ne bi a \u025bmfa no nk\u0254 owu mu a, \u0254mm\u0254 Onyankop\u0254n a \u0254b\u025bma no nkwa no mpae mma no. Eyi ka w\u0254n a w\u0254n b\u0254ne mfa w\u0254n nk\u0254 owu mu no ho. B\u0254ne bi w\u0254 h\u0254 a \u025bde onipa k\u0254 owu mu na \u025bno ho de, menka se momm\u0254 ho mpae nkyer\u025b Onyankop\u0254n."
+                },
+                "17": {
+                    "verse_nr": "17",
+                    "verse": "Afidey\u025b nyinaa y\u025b b\u0254ne, nanso b\u0254ne bi w\u0254 h\u0254 a enkowie owu mu."
+                },
+                "18": {
+                    "verse_nr": "18",
+                    "verse": "Yenim s\u025b Onyankop\u0254n ba biara nk\u0254 so ny\u025b b\u0254ne, efis\u025b, Onyankop\u0254n Ba no hw\u025b no, na \u0254bonsam ntumi ny\u025b no b\u0254ne."
+                },
+                "19": {
+                    "verse_nr": "19",
+                    "verse": "Yenim s\u025b, \u025bwom s\u025b wiase nyinaa hy\u025b \u0254bonsam tumi ase, nanso y\u025by\u025b Onyankop\u0254n nkur\u0254fo."
+                },
+                "20": {
+                    "verse_nr": "20",
+                    "verse": "Yenim s\u025b Onyankop\u0254n Ba no aba, na wama y\u025bn ntease ama y\u025bahu Onyankop\u0254n kann no. Y\u025bn abrab\u0254 w\u0254 Onyankop\u0254n kann no ne ne Ba Yesu Kristo no mu. Eyi ne Onyankop\u0254n kann no ne nkwa a enni awiei no."
+                },
+                "21": {
+                    "verse_nr": "21",
+                    "verse": "Me mma, montwe mo ho mfi abosom ho."
+                }
+            }
+        }
+    }
+}
