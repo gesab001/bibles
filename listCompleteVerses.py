@@ -98,6 +98,7 @@ def getOriginalBibleVerses():
   f.close()
   return jsondata
 missingVerses = {}
+completeBible = []
 def translateBible(bibleversion):
     #source_dir  = os.path.join(appFolder, "language.js")
     #destination_dir = os.path.join(appFolder, "locales", languageCode, "language.js" )
@@ -129,6 +130,8 @@ def translateBible(bibleversion):
                  #print(bookName + " " + chapterNumber + ":" + verseNumber)
                  #print(word)
                  missingVerses[bibleversion]["totalMissingVerses"] = missingVerses[bibleversion]["totalMissingVerses"] + 1
+        if missingVerses[bibleversion]["totalMissingVerses"]==0:
+           completeBible.append(bibleversion)
         print(missingVerses)  
         print()        
     #pathToLanguageJson = os.path.join(languageCode, "bible.json" )
@@ -168,4 +171,6 @@ for root, dirs, files in os.walk(rootPath):
         
 with open("missingVerses.json", "w", encoding="utf8") as outfile:
       json.dump(missingVerses, outfile, ensure_ascii=False, indent=4)
-  
+with open("completeBible.json", "w", encoding="utf8") as outfile:
+      json.dump(completeBible, outfile, ensure_ascii=False, indent=4)
+    
