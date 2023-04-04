@@ -1,5 +1,15 @@
 [
     {
+        "language": "Romanian",
+        "code": "ro",
+        "bibleversion": "cornilescu"
+    },
+    {
+        "language": "Cebuano",
+        "code": "ceb",
+        "bibleversion": "cebuano"
+    },
+    {
         "language": "Albanian",
         "code": "sq",
         "bibleversion": "albanian"
@@ -101,7 +111,7 @@
     {
         "language": "Korean",
         "code": "ko",
-        "bibleversion": "KRV"
+        "bibleversion": "korean"
     },
     {
         "language": "Kyrgyz",
@@ -206,7 +216,7 @@
     {
         "language": "Spanish",
         "code": "es",
-        "bibleversion": "RVA"
+        "bibleversion": "rv1909"
     },
     {
         "language": "Swahili",

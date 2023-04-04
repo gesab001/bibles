@@ -12,6 +12,12 @@
                 "totalSize": 3307627
             }
         },
+        "cebuano": {
+            "cebuano": {
+                "fullName": "Cebuano ",
+                "totalSize": 3099313
+            }
+        },
         "chinese": {
             "cus": {
                 "fullName": "Chinese Union Simplified",
@@ -82,6 +88,12 @@
                 "totalSize": 3287626
             }
         },
+        "korean": {
+            "korean": {
+                "fullName": "Korean Bible",
+                "totalSize": 3486951
+            }
+        },
         "maori": {
             "maori": {
                 "fullName": "Maori Bible",
@@ -94,6 +106,12 @@
                 "totalSize": 3141247
             }
         },
+        "romanian": {
+            "cornilescu": {
+                "fullName": "Cornilescu",
+                "totalSize": 3412091
+            }
+        },
         "russian": {
             "rst1876": {
                 "fullName": "Russian Synodal Translation 1876",
@@ -104,6 +122,12 @@
             "SOM": {
                 "fullName": "Somali Bible",
                 "totalSize": 3364032
+            }
+        },
+        "spanish": {
+            "rv1909": {
+                "fullName": "Reina Valera 1909",
+                "totalSize": 3121180
             }
         },
         "tagalog": {

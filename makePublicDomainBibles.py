@@ -30,7 +30,7 @@ for x in range(0,len( completeBibleJson)):
   if bible in freeBiblesList:
     completeAndPublicDomainBibles.append(bible)
     
-with open("publicDomainBibles.json", "w", encoding="utf8") as outfile:
+with open("completePublicDomainBibles.json", "w", encoding="utf8") as outfile:
     json.dump(completeAndPublicDomainBibles, outfile, ensure_ascii=False, indent=4)
        
 
