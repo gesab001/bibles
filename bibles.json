@@ -201,6 +201,10 @@
             }
         },
         "czech": {
+            "CZK": {
+                "fullName": "Czech Bible Kralicka 1613",
+                "totalSize": 3476426
+            },
             "b21": {
                 "fullName": "B21",
                 "totalSize": 3454184
@@ -219,6 +223,10 @@
             }
         },
         "danish": {
+            "DAN": {
+                "fullName": "Danish Bible",
+                "totalSize": 3060038
+            },
             "danish": {
                 "fullName": "Danish Bible",
                 "totalSize": 3059814
@@ -563,6 +571,10 @@
             }
         },
         "german": {
+            "GL9": {
+                "fullName": "Luther German Bible 1912",
+                "totalSize": 3192576
+            },
             "REIMER": {
                 "fullName": "Low German Plautdietsch REIMER 2001",
                 "totalSize": 1182531
@@ -686,6 +698,10 @@
             "ERVHU": {
                 "fullName": "Easy to Read Hungarian",
                 "totalSize": 4092733
+            },
+            "HUN": {
+                "fullName": "Hungarian Bible 1590",
+                "totalSize": 3546798
             },
             "KAR": {
                 "fullName": "Karoli",
@@ -1232,6 +1248,10 @@
             "SVL": {
                 "fullName": "Swedish New Living Bible (Nya Levande Bibeln)",
                 "totalSize": 3420382
+            },
+            "SWE": {
+                "fullName": "Swedish Bible 1917",
+                "totalSize": 3402670
             },
             "sfb15": {
                 "fullName": "sfb15",

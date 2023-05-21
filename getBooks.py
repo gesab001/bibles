@@ -5,14 +5,14 @@ import zipfile
 from os.path import basename
 import shutil
 
-biblejson = os.listdir()
+biblejson = os.listdir("newBibles")
 filename = ""
 for file in biblejson:
   print(file)
   if file.endswith("json") and "_" in file:    
     filename = file
     newFilename = filename.replace("-", "")
-    os.rename(filename, newFilename)
+    os.rename("./newBibles/"+filename, "./newBibles/"+newFilename)
     filename = newFilename
     
     filenameinput = input("filename : " + filename)
@@ -24,7 +24,7 @@ translationName = filesplit.split(".")[0]
 translationNameInput = input("abbreviation bible name:" + translationName)
     #print(filename)  
 fullName = input("full name: ")
-f = open(filename, "r")
+f = open("./newBibles/"+filename, "r")
 
 jsondata = json.loads(f.read())
 f.close()
@@ -86,9 +86,9 @@ for bookNumber in books:
     result = {"version": {} }   
 
 
-os.rename(filename, translationName+".json")
+os.rename("./newBibles/"+filename, "./newBibles/"+translationName+".json")
 # absolute path
-src_path = translationName+".json"
+src_path = "./newBibles/"+translationName+".json"
 dst_path = "./"+translationName + "/" +  translationName+".json"
 shutil.move(src_path, dst_path )    
 zipBooks(translationName)  
